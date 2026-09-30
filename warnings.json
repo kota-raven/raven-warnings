@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T07:23:42.137Z",
+  "generatedAt": "2026-09-30T08:24:39.509Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 216,
+  "count": 211,
   "warnings": [
     {
       "id": "NAVAREA11-260436",
@@ -3600,6 +3600,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261872",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1872",
+      "title": "入道埼西南西、射撃終了",
+      "publishedAt": "2026-09-30T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1872    発表日時:2026年09月30日 17時\r\n\n\r\n入道埼西南西、\r\r\n射撃終了。\r\r\n(1856削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261872&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261871",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3704,66 +3716,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261866&LANG=JP"
     },
     {
-      "id": "NAVTEX-261865",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海底施設",
-      "number": "1865",
-      "title": "種子島南東、海底線修理作業終了",
-      "publishedAt": "2026-09-30T05:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1865    発表日時:2026年09月30日 05時\r\n\n\r\n種子島南東、\r\r\nC/S FU TAIによる海底線修理作業終了。\r\r\n(1809削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261865&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261863",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1863",
-      "title": "紀伊水道南、射撃終了",
-      "publishedAt": "2026-09-29T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1863    発表日時:2026年09月29日 21時\r\n\n\r\n紀伊水道南、\r\r\n射撃終了。\r\r\n(1827削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261863&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261862",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1862",
-      "title": "金華山南東、射撃終了",
-      "publishedAt": "2026-09-29T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1862    発表日時:2026年09月29日 21時\r\n\n\r\n金華山南東、\r\r\n射撃終了。\r\r\n(1829削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261862&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261861",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1861",
-      "title": "相模湾、射撃",
-      "publishedAt": "2026-09-29T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1861    発表日時:2026年09月29日 13時\r\n\n\r\n相模湾、\r\r\n射撃、9月30日1000-1600、\r\r\n35-08.5N 139-26.9Eを中心とする半径3海里の\r\r\n円内。\r\r\n(1830削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261861&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261860",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1860",
-      "title": "宮古島北西、射撃中止",
-      "publishedAt": "2026-09-29T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1860    発表日時:2026年09月29日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃中止。\r\r\n(1826削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261860&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261858",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3806,18 +3758,6 @@
       },
       "rawText": "番号:26-1857    発表日時:2026年09月28日 13時\r\n\n\r\n若狭湾北、\r\r\nロケット射撃、10月3日、5日(予備4日、6日-9日)\r\r\n毎日0700-2100、\r\r\n37-00-11N 134-59-50E\r\r\n37-22-11N 135-39-49E\r\r\n37-02-11N 135-39-49E\r\r\n36-40-11N 134-59-50Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261857&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261856",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1856",
-      "title": "入道埼西南西、射撃",
-      "publishedAt": "2026-09-28T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1856    発表日時:2026年09月28日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、9月30日0800-2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。\r\r\n(1822削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261856&LANG=JP"
     },
     {
       "id": "NAVTEX-261853",
