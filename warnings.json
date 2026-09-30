@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-30T11:20:31.081Z",
+  "generatedAt": "2026-09-30T12:30:33.677Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 186,
+  "count": 185,
   "warnings": [
     {
-      "id": "NAVAREA11-260436",
+      "id": "NAVAREA11-260437",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
-      "category": "海底施設",
-      "number": "0436",
-      "title": "南シナ海北部−ルソン島南岸、海底管修理作業情報削除",
-      "publishedAt": "2026-09-29T21:00:00+09:00",
+      "category": "航路標識",
+      "number": "0437",
+      "title": "フィリピン諸島、灯台消灯に関する情報削除",
+      "publishedAt": "2026-09-30T21:00:00+09:00",
       "geometry": null,
-      "rawText": "NO.26-0436    発表日時:2026年09月29日 21時\r\n\n\r\nSOUTH CHINA SEA, NORTHERN PART AND\r\r\nPHILIPPINES.\r\r\nCANCEL INFORMATION OF PIPELINE REPAIRING\r\r\nWORKS.\r\r\nCANCEL 0136/24 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260436&LANG=JP"
+      "rawText": "NO.26-0437    発表日時:2026年09月30日 21時\r\n\n\r\nNORTH PACIFIC, PHILIPPINES.\r\r\nCANCEL INFORMATION OF CAPE SANTIAGO \r\r\nLIGHT, EXTINGUSHED.\r\r\nCANCEL 0597/24 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260437&LANG=JP"
     },
     {
       "id": "NAVAREA11-260433",
@@ -150,38 +150,6 @@
       "geometry": null,
       "rawText": "NO.26-0398    発表日時:2026年09月07日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nCHICHI SHIMA, FUTAMI KO NR.3 LIGHT BUOY,\r\r\n27-04.9N 142-11.2E, L.L. VOL 1. 3225,\r\r\nEXTINGUISHED AND TEMPORARY LIGHT SET, \r\r\nFL G 4 SEC.\r\r\nCANCEL 0355/26.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260398&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260392",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "訓練試験",
-      "number": "0392",
-      "title": "硫黄島東北東、射撃（９月分）",
-      "publishedAt": "2026-08-27T21:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            146.49638888888887,
-            28.254166666666666
-          ],
-          [
-            147.62972222222223,
-            25.421111111111113
-          ],
-          [
-            145.59666666666666,
-            25.004444444444445
-          ],
-          [
-            144.9633333333333,
-            27.920833333333334
-          ]
-        ]
-      },
-      "rawText": "NO.26-0392    発表日時:2026年08月27日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nGUNNERY. 2300Z TO 0900Z COMMENCING DAILY\r\r\n31 AUG TO 29 SEP. AREA BOUNDED BY\r\r\n28-15-15N 146-29-47E\r\r\n25-25-16N 147-37-47E\r\r\n25-00-16N 145-35-48E\r\r\n27-55-15N 144-57-48E.\r\r\nCANCEL THIS MSG 301000Z SEP.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260392&LANG=JP"
     },
     {
       "id": "NAVAREA11-260387",
