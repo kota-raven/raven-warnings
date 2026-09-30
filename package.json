@@ -1,0 +1,10 @@
+{
+  "name": "raven-warnings",
+  "version": "1.0.0",
+  "description": "RAVEN app: JCG navigational warnings scraper (NAVAREA XI / Japan NW / NAVTEX)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.js"
+  }
+}

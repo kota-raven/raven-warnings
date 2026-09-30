@@ -1,0 +1,35 @@
+name: Scrape navigational warnings
+
+on:
+  schedule:
+    # 毎時5分に実行(UTC基準。サイトの更新頻度と同程度)
+    - cron: "5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Run scraper
+        run: node scrape.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "raven-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add warnings.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update warnings.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
