@@ -50,7 +50,8 @@ async function fetchList(typeCode) {
         return m ? m[1].trim() : '';
       };
       return {
-        category: get('categoly'),
+        // カテゴリ名に含まれる空白(全角スペース区切りの見出し)を取り除いて正規化する
+        category: get('categoly').replace(/[\s　]+/g, ''),
         number: get('number'),
         tana: get('tana'),
         title: get('title'),
