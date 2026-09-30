@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T03:22:21.774Z",
+  "generatedAt": "2026-09-30T04:22:49.505Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 212,
+  "count": 216,
   "warnings": [
     {
       "id": "NAVAREA11-260436",
@@ -3600,6 +3600,110 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261871",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1871",
+      "title": "高知港南、射撃",
+      "publishedAt": "2026-09-30T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1871    発表日時:2026年09月30日 13時\r\n\n\r\n高知港南、\r\r\n射撃、10月5日(予備6日)0900-2400、\r\r\n33-10.8N 133-33.0Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261871&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261870",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1870",
+      "title": "御前埼南、射撃",
+      "publishedAt": "2026-09-30T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1870    発表日時:2026年09月30日 13時\r\n\n\r\n御前埼南、\r\r\n射撃、10月5日(予備8日)0900-2400、\r\r\n34-20.2N 138-09.8Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261870&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261869",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1869",
+      "title": "五島列島東、射撃",
+      "publishedAt": "2026-09-30T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          129.3311111111111,
+          32.80333333333333
+        ]
+      },
+      "rawText": "番号:26-1869    発表日時:2026年09月30日 13時\r\n\n\r\n五島列島東、\r\r\n射撃、10月5日-7日(予備8日、9日)毎日0800-\r\r\n1800、32-48-12N 129-19-52E\r\r\nを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261869&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261868",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1868",
+      "title": "五島列島南、射撃及びフレア発射",
+      "publishedAt": "2026-09-30T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          128.76444444444445,
+          32.336666666666666
+        ]
+      },
+      "rawText": "番号:26-1868    発表日時:2026年09月30日 13時\r\n\n\r\n五島列島南、\r\r\n射撃及びフレア発射、10月5日-7日(予備8日、9日)毎日\r\r\n0800-1700、31-47-12N 32-20-12N\r\r\n128-45-52E 129-09-52E\r\r\nの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261868&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261867",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1867",
+      "title": "隠岐諸島、白島埼灯台復旧",
+      "publishedAt": "2026-09-30T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1867    発表日時:2026年09月30日 13時\r\n\n\r\n隠岐諸島、\r\r\n白島埼灯台復旧。\r\r\n(1731削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261867&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261866",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1866",
+      "title": "沖縄島東（ホテル・ホテル）、爆撃",
+      "publishedAt": "2026-09-30T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            129.16444444444446,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            26.170833333333334
+          ],
+          [
+            129.16666666666666,
+            26.325
+          ]
+        ]
+      },
+      "rawText": "番号:26-1866    発表日時:2026年09月30日 13時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n9月30日-10月11日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1776削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261866&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261865",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4350,54 +4454,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261778&LANG=JP"
     },
     {
-      "id": "NAVTEX-261776",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1776",
-      "title": "沖縄島東（ホテル・ホテル）、爆撃",
-      "publishedAt": "2026-09-15T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            129.16444444444446,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            26.170833333333334
-          ],
-          [
-            129.16666666666666,
-            26.325
-          ],
-          [
-            129.16444444444446,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            26.170833333333334
-          ],
-          [
-            128.33138888888888,
-            26.38722222222222
-          ]
-        ]
-      },
-      "rawText": "番号:26-1776    発表日時:2026年09月15日 13時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n(1)9月15日-21日、23日-10月4日毎日0600-\r\r\n   2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-19-30N 129-10-00E\r\r\n   で囲まれる海面、\r\r\n(2)9月22日0600-2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-23-14N 128-19-53E\r\r\n   で囲まれる海面。\r\r\n(1736削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261776&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261766",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4420,18 +4476,6 @@
       "geometry": null,
       "rawText": "番号:26-1758    発表日時:2026年09月11日 17時\r\n\n\r\n塩屋埼北、\r\r\n小良ケ浜灯台(37-21.8N 141-02.3E、\r\r\n灯台表第1巻、1789、M6515)消灯、仮灯設置、\r\r\n単閃白光8秒に1閃、7海里。\r\r\n(1705削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261758&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261731",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1731",
-      "title": "隠岐諸島、白島埼灯台消灯、仮灯設置",
-      "publishedAt": "2026-09-07T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1731    発表日時:2026年09月07日 21時\r\n\n\r\n隠岐諸島、\r\r\n白島埼灯台(36-20.3N 133-16.9E、\r\r\n灯台表第1巻、0882、M7321.25)消灯、仮灯設置、\r\r\n単閃白光10秒に1閃、3海里。\r\r\n(1718削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261731&LANG=JP"
     },
     {
       "id": "NAVTEX-261727",
