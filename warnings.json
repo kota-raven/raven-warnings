@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T09:22:36.789Z",
+  "generatedAt": "2026-09-30T10:23:02.990Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 211,
+  "count": 207,
   "warnings": [
     {
       "id": "NAVAREA11-260436",
@@ -3600,6 +3600,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261873",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "1873",
+      "title": "南方諸島、避難勧告",
+      "publishedAt": "2026-09-30T18:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1873    発表日時:2026年09月30日 18時\r\n\n\r\n南方諸島、\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261873&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261872",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4430,42 +4442,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261727&LANG=JP"
     },
     {
-      "id": "NAVTEX-261660",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1660",
-      "title": "八戸港東、爆撃（９月分）",
-      "publishedAt": "2026-08-27T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            142.1797222222222,
-            40.836111111111116
-          ],
-          [
-            142.9961111111111,
-            40.836111111111116
-          ],
-          [
-            142.9961111111111,
-            40.736111111111114
-          ],
-          [
-            142.54638888888888,
-            40.40277777777778
-          ],
-          [
-            142.22972222222222,
-            40.40277777777778
-          ]
-        ]
-      },
-      "rawText": "番号:26-1660    発表日時:2026年08月27日 13時\r\n\n\r\n八戸港東、\r\r\n爆撃、9月1日-5日、7日-12日、14日-19日、24日-\r\r\n26日、28日-30日毎日0800-1700、\r\r\n40-50-10N 142-10-47E\r\r\n40-50-10N 142-59-46E\r\r\n40-44-10N 142-59-46E\r\r\n40-24-10N 142-32-47E\r\r\n40-24-10N 142-13-47Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261660&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261659",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4518,148 +4494,6 @@
       },
       "rawText": "番号:26-1657    発表日時:2026年08月27日 13時\r\n\n\r\n若狭湾北、\r\r\nミサイル射撃、9月1日-30日毎日0700-1900、\r\r\n39-27-10N 136-09-49E\r\r\n37-14-11N 136-09-49E\r\r\n36-33-11N 134-44-50E\r\r\n37-40-10N 133-24-50E\r\r\n38-33-10N 134-01-50Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261657&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261656",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1656",
-      "title": "響灘北、爆撃（９月分）",
-      "publishedAt": "2026-08-27T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            130.4836111111111,
-            34.147777777777776
-          ],
-          [
-            130.21027777777778,
-            34.2825
-          ],
-          [
-            130.585,
-            34.85305555555556
-          ],
-          [
-            130.86694444444444,
-            34.72527777777778
-          ]
-        ]
-      },
-      "rawText": "番号:26-1656    発表日時:2026年08月27日 13時\r\n\n\r\n響灘北、\r\r\n爆撃、9月1日-4日、7日-11日、14日-18日、24日、\r\r\n25日、28日-30日毎日0800-1700、\r\r\n34-08-52N 130-29-01E\r\r\n34-16-57N 130-12-37E\r\r\n34-51-11N 130-35-06E\r\r\n34-43-31N 130-52-01Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261656&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261655",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1655",
-      "title": "犬吠埼北東、爆撃（９月分）",
-      "publishedAt": "2026-08-27T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            141.34666666666666,
-            36.64333333333333
-          ],
-          [
-            142.17944444444444,
-            36.67861111111111
-          ],
-          [
-            141.99777777777777,
-            36.16638888888889
-          ],
-          [
-            141.76777777777778,
-            36.083333333333336
-          ],
-          [
-            141.34666666666666,
-            36.083333333333336
-          ]
-        ]
-      },
-      "rawText": "番号:26-1655    発表日時:2026年08月27日 13時\r\n\n\r\n犬吠埼北東、\r\r\n爆撃、9月1日-5日、7日-12日、14日-19日、24日-\r\r\n26日、28日-30日毎日0700-1700、\r\r\n36-38-36N 141-20-48E\r\r\n36-40-43N 142-10-46E\r\r\n36-09-59N 141-59-52E\r\r\n36-05-00N 141-46-04E\r\r\n36-05-00N 141-20-48Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261655&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261654",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1654",
-      "title": "都井岬東北東、爆撃（９月分）",
-      "publishedAt": "2026-08-27T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            132.63083333333333,
-            32.02861111111111
-          ],
-          [
-            132.99749999999997,
-            32.15361111111111
-          ],
-          [
-            132.99749999999997,
-            31.803611111111113
-          ],
-          [
-            133.49749999999997,
-            32.036944444444444
-          ],
-          [
-            133.49749999999997,
-            31.703611111111112
-          ],
-          [
-            132.13083333333333,
-            31.07027777777778
-          ],
-          [
-            132.13083333333333,
-            31.42027777777778
-          ],
-          [
-            132.15583333333333,
-            31.511944444444445
-          ],
-          [
-            132.58083333333332,
-            32.00361111111111
-          ],
-          [
-            132.63083333333333,
-            32.05361111111111
-          ]
-        ]
-      },
-      "rawText": "番号:26-1654    発表日時:2026年08月27日 13時\r\n\n\r\n都井岬東北東、\r\r\n爆撃、9月1日-4日、7日-11日、14日-18日、24日、\r\r\n25日、28日-30日毎日0800-1700、\r\r\n32-01-43N 132-37-51E\r\r\n32-09-13N 132-59-51E\r\r\n31-48-13N 132-59-51E\r\r\n32-02-13N 133-29-51E\r\r\n31-42-13N 133-29-51E\r\r\n31-04-13N 132-07-51E\r\r\n31-25-13N 132-07-51E\r\r\n31-30-43N 132-09-21E\r\r\n32-00-13N 132-34-51E\r\r\n32-03-13N 132-37-51Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261654&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261653",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1653",
-      "title": "五島列島南、爆撃（９月分）",
-      "publishedAt": "2026-08-27T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          128.76444444444445,
-          32.336666666666666
-        ]
-      },
-      "rawText": "番号:26-1653    発表日時:2026年08月27日 13時\r\n\n\r\n五島列島南、\r\r\n爆撃、9月1日-4日、7日-11日、14日-18日、24日、\r\r\n25日、28日-30日毎日0800-1700、\r\r\n31-47-12N 32-20-12N128-45-52E \r\r\n129-09-52Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261653&LANG=JP"
     },
     {
       "id": "NAVTEX-261652",
