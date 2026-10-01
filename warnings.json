@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T15:23:27.134Z",
+  "generatedAt": "2026-10-01T16:22:03.390Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 167,
+  "count": 165,
   "warnings": [
     {
       "id": "NAVAREA11-260438",
@@ -1868,46 +1868,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263763&LANG=JP"
     },
     {
-      "id": "JAPANNW-263762",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3762",
-      "title": "大青群島付近（Ｄ−１３１）、射撃",
-      "publishedAt": "2026-09-25T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            124.06944444444444,
-            37.9
-          ],
-          [
-            124.06944444444444,
-            37.983333333333334
-          ],
-          [
-            124.63611111111112,
-            37.983333333333334
-          ],
-          [
-            124.70833333333334,
-            37.98916666666667
-          ],
-          [
-            124.70833333333334,
-            37.9
-          ],
-          [
-            124.63611111111112,
-            37.9
-          ]
-        ]
-      },
-      "rawText": "番号:26-3762   発表日時:2026年09月25日 20時\r\n\n\r\n★ 朝鮮半島西岸、大青群島付近、\r\r\n射撃、9月29日0400Z-0800Z、2330Z-翌日0800Z、\r\r\n30日1000Z-1300Z、2330Z-翌日0800Z、10月1日1000Z-\r\r\n1400Z、37-54-00N 124-04-10E\r\r\n37-59-00N 124-04-10E 37-59-00N 124-38-10E\r\r\n37-59-21N 124-42-30E 37-54-00N 124-42-30E\r\r\n37-54-00N 124-38-10Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263762&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263759",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2160,30 +2120,6 @@
       "geometry": null,
       "rawText": "番号:26-3736   発表日時:2026年09月24日 08時\r\n\n\r\n南シナ海北部、パラワン島北、\r\r\nM/V FORTITUDEによる海底管敷設作業、10月8日まで、\r\r\n(1)11-38.23N 118-56.36E、\r\r\n(2)11-34.10N 118-53.54E、\r\r\nの各点付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263736&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263731",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3731",
-      "title": "グアム島付近、危険な訓練",
-      "publishedAt": "2026-09-23T20:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            145.13333333333333,
-            13.45
-          ],
-          [
-            144.6,
-            13.7
-          ]
-        ]
-      },
-      "rawText": "番号:26-3731   発表日時:2026年09月23日 20時\r\n\n\r\n★ グアム島付近、\r\r\n危険な訓練、9月28日-10月1日毎日0100Z-1300Z、\r\r\n(1)13-27N 145-08E、\r\r\n(2)13-42N 144-36E、\r\r\nを中心とする半径3海里の各円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263731&LANG=JP"
     },
     {
       "id": "JAPANNW-263730",
