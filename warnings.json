@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T07:23:47.673Z",
+  "generatedAt": "2026-10-01T08:24:39.763Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 173,
+  "count": 172,
   "warnings": [
     {
       "id": "NAVAREA11-260437",
@@ -2902,6 +2902,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261878",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1878",
+      "title": "奄美大島北、射撃終了",
+      "publishedAt": "2026-10-01T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1878    発表日時:2026年10月01日 17時\r\n\n\r\n奄美大島北、\r\r\n射撃終了。\r\r\n(1849削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261878&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261877",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3074,18 +3086,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261866&LANG=JP"
     },
     {
-      "id": "NAVTEX-261858",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "1858",
-      "title": "久慈湾南東、鯨の死骸漂流",
-      "publishedAt": "2026-09-28T16:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1858    発表日時:2026年09月28日 16時\r\n\n\r\n久慈湾南東、\r\r\n鯨の死骸(長さ約10m)漂流、9月28日1520、\r\r\n40-03.9N 142-07.9E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261858&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261857",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3160,18 +3160,6 @@
       },
       "rawText": "番号:26-1851    発表日時:2026年09月26日 17時\r\n\n\r\n台湾東、\r\r\n射撃、10月1日、2日、5日-8日、12日-16日、\r\r\n19日-23日、27日-30日毎日0800-1800、\r\r\n23-43N 122-05E 23-43N 122-38E\r\r\n23-20N 122-38E 23-00N 122-05E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261851&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261849",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1849",
-      "title": "奄美大島北、射撃",
-      "publishedAt": "2026-09-26T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1849    発表日時:2026年09月26日 13時\r\n\n\r\n奄美大島北、\r\r\n射撃、10月1日(予備2日)0815-2400、\r\r\n28-38.6N 129-26.7Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261849&LANG=JP"
     },
     {
       "id": "NAVTEX-261848",
