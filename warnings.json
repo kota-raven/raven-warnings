@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T16:22:03.390Z",
+  "generatedAt": "2026-10-01T17:21:42.175Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 165,
+  "count": 166,
   "warnings": [
     {
       "id": "NAVAREA11-260438",
@@ -2764,6 +2764,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261880",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1880",
+      "title": "沖縄島西、ＡＩＳによる情報提供業務休止",
+      "publishedAt": "2026-10-02T02:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1880    発表日時:2026年10月02日 02時\r\n\n\r\n沖縄島西、\r\r\n粟国島AIS送受信所(26-34.6N 127-12.7E)\r\r\nを使用した情報提供業務休止。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261880&LANG=JP"
     },
     {
       "id": "NAVTEX-261879",
