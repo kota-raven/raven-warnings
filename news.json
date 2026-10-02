@@ -1,110 +1,488 @@
 [
   {
     "id": "2026-10-02-01",
-    "headline": { "ja": "NATO機、リトアニア上空で無人機を撃墜", "en": "NATO jets down drone over Lithuania" },
-    "summary": { "ja": "バルト空域警備任務中のNATO機が、リトアニア上空に侵入した無人機を撃墜した。", "en": "NATO aircraft on Baltic air policing duty shot down a drone that entered Lithuanian airspace." },
+    "headline": {
+      "ja": "NATO機、リトアニア上空で無人機を撃墜",
+      "en": "NATO jets down drone over Lithuania"
+    },
+    "summary": {
+      "ja": "バルト空域警備任務中のNATO機が、リトアニア上空に侵入した無人機を撃墜した。",
+      "en": "NATO aircraft on Baltic air policing duty shot down a drone that entered Lithuanian airspace."
+    },
     "category": "conflict",
     "country": "リトアニア",
     "lat": 55.1694,
     "lon": 23.8813,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "報道集約", "url": "https://www.nbcnews.com/world/russia-ukraine-news" },
+    "source": {
+      "name": "報道集約",
+      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
+    },
     "reliability": "medium"
   },
   {
     "id": "2026-10-02-02",
-    "headline": { "ja": "露フリゲート艦、デンマークのヘリに照明弾発射", "en": "Russian frigate fires flares at Danish helicopter" },
-    "summary": { "ja": "デンマーク近海でロシア海軍のフリゲート艦が、デンマークのヘリコプターに照明弾を発射した。", "en": "A Russian navy frigate fired flares at a Danish helicopter near Denmark." },
+    "headline": {
+      "ja": "露フリゲート艦、デンマークのヘリに照明弾発射",
+      "en": "Russian frigate fires flares at Danish helicopter"
+    },
+    "summary": {
+      "ja": "デンマーク近海でロシア海軍のフリゲート艦が、デンマークのヘリコプターに照明弾を発射した。",
+      "en": "A Russian navy frigate fired flares at a Danish helicopter near Denmark."
+    },
     "category": "conflict",
     "country": "デンマーク",
     "lat": 56.2639,
     "lon": 9.5018,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "報道集約", "url": "https://www.nbcnews.com/world/russia-ukraine-news" },
+    "source": {
+      "name": "報道集約",
+      "url": "https://www.nbcnews.com/world/russia-ukraine-news"
+    },
     "reliability": "medium"
   },
   {
     "id": "2026-10-02-03",
-    "headline": { "ja": "エリトリア、エチオピアとの外交関係を断絶", "en": "Eritrea severs diplomatic ties with Ethiopia" },
-    "summary": { "ja": "エリトリアがエチオピアとの外交関係断絶を発表した。", "en": "Eritrea announced it has cut diplomatic ties with Ethiopia." },
+    "headline": {
+      "ja": "エリトリア、エチオピアとの外交関係を断絶",
+      "en": "Eritrea severs diplomatic ties with Ethiopia"
+    },
+    "summary": {
+      "ja": "エリトリアがエチオピアとの外交関係断絶を発表した。",
+      "en": "Eritrea announced it has cut diplomatic ties with Ethiopia."
+    },
     "category": "conflict",
     "country": "エチオピア",
-    "lat": 9.1450,
+    "lat": 9.145,
     "lon": 40.4897,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "報道集約", "url": "https://www.aljazeera.com/" },
+    "source": {
+      "name": "報道集約",
+      "url": "https://www.aljazeera.com/"
+    },
     "reliability": "medium"
   },
   {
     "id": "2026-10-02-04",
-    "headline": { "ja": "米、ブラジル大統領選前に領事業務を一時停止", "en": "US suspends consular services in Brazil ahead of election" },
-    "summary": { "ja": "米国は治安上の懸念を理由に、ブラジル大統領選挙を前に国内の領事業務を一時停止した。", "en": "The US suspended consular services in Brazil ahead of its presidential election, citing security concerns." },
+    "headline": {
+      "ja": "米、ブラジル大統領選前に領事業務を一時停止",
+      "en": "US suspends consular services in Brazil ahead of election"
+    },
+    "summary": {
+      "ja": "米国は治安上の懸念を理由に、ブラジル大統領選挙を前に国内の領事業務を一時停止した。",
+      "en": "The US suspended consular services in Brazil ahead of its presidential election, citing security concerns."
+    },
     "category": "conflict",
     "country": "ブラジル",
-    "lat": -14.2350,
+    "lat": -14.235,
     "lon": -51.9253,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "The Print", "url": "https://theprint.in/world/us-suspends-consular-services-before-brazil-vote-citing-security/3060347/" },
+    "source": {
+      "name": "The Print",
+      "url": "https://theprint.in/world/us-suspends-consular-services-before-brazil-vote-citing-security/3060347/"
+    },
     "reliability": "medium_high"
   },
   {
     "id": "2026-10-02-05",
-    "headline": { "ja": "パキスタン、サウジ防衛を表明との報道", "en": "Report: Pakistan vows to defend Saudi Arabia" },
-    "summary": { "ja": "パキスタンがイラン系とされるフーシ派からサウジアラビアを防衛すると表明したとの報道がある(一次情報未確認)。", "en": "Reports say Pakistan has vowed to defend Saudi Arabia against Iran-backed Houthi forces (unconfirmed by primary sources)." },
+    "headline": {
+      "ja": "パキスタン、サウジ防衛を表明との報道",
+      "en": "Report: Pakistan vows to defend Saudi Arabia"
+    },
+    "summary": {
+      "ja": "パキスタンがイラン系とされるフーシ派からサウジアラビアを防衛すると表明したとの報道がある(一次情報未確認)。",
+      "en": "Reports say Pakistan has vowed to defend Saudi Arabia against Iran-backed Houthi forces (unconfirmed by primary sources)."
+    },
     "category": "conflict",
     "country": "サウジアラビア",
     "lat": 23.8859,
     "lon": 45.0792,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "報道集約", "url": "https://www.newsnow.com/us/World/War+and+Terrorism/World+Conflicts" },
+    "source": {
+      "name": "報道集約",
+      "url": "https://www.newsnow.com/us/World/War+and+Terrorism/World+Conflicts"
+    },
     "reliability": "unconfirmed"
   },
   {
     "id": "2026-10-02-06",
-    "headline": { "ja": "rybarのアカウント、キーウの橋への攻撃を投稿", "en": "rybar account posts about strike on Kyiv bridge" },
-    "summary": { "ja": "rybarのアカウントで、キーウの橋に着弾があり通行が遮断されたという投稿があった(未確認)。", "en": "The rybar account posted that a bridge in Kyiv was struck and traffic was cut off (unconfirmed)." },
+    "headline": {
+      "ja": "rybarのアカウント、キーウの橋への攻撃を投稿",
+      "en": "rybar account posts about strike on Kyiv bridge"
+    },
+    "summary": {
+      "ja": "rybarのアカウントで、キーウの橋に着弾があり通行が遮断されたという投稿があった(未確認)。",
+      "en": "The rybar account posted that a bridge in Kyiv was struck and traffic was cut off (unconfirmed)."
+    },
     "category": "conflict",
     "country": "ウクライナ",
     "lat": 48.3794,
     "lon": 31.1656,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "rybar(Telegram)", "url": "https://t.me/s/rybar" },
+    "source": {
+      "name": "rybar(Telegram)",
+      "url": "https://t.me/s/rybar"
+    },
     "reliability": "unconfirmed"
   },
   {
     "id": "2026-10-02-07",
-    "headline": { "ja": "rybarのアカウント、エクアドルの米軍基地建設を投稿", "en": "rybar account posts on US base construction in Ecuador" },
-    "summary": { "ja": "rybarのアカウントで、国民投票での否決にもかかわらずエクアドルの基地建設を米国が進めているという投稿があった(未確認)。", "en": "The rybar account posted that the US is proceeding with base construction in Ecuador despite a referendum rejecting it (unconfirmed)." },
+    "headline": {
+      "ja": "rybarのアカウント、エクアドルの米軍基地建設を投稿",
+      "en": "rybar account posts on US base construction in Ecuador"
+    },
+    "summary": {
+      "ja": "rybarのアカウントで、国民投票での否決にもかかわらずエクアドルの基地建設を米国が進めているという投稿があった(未確認)。",
+      "en": "The rybar account posted that the US is proceeding with base construction in Ecuador despite a referendum rejecting it (unconfirmed)."
+    },
     "category": "conflict",
     "country": "エクアドル",
     "lat": -1.8312,
     "lon": -78.1834,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "rybar(Telegram)", "url": "https://t.me/s/rybar" },
+    "source": {
+      "name": "rybar(Telegram)",
+      "url": "https://t.me/s/rybar"
+    },
     "reliability": "unconfirmed"
   },
   {
     "id": "2026-10-02-08",
-    "headline": { "ja": "OSINTdefenderのアカウント、ロシアの核配備警告を投稿", "en": "OSINTdefender account posts on Russian nuclear warning" },
-    "summary": { "ja": "OSINTdefenderのアカウントで、西側がカリーニングラードへのアクセスを遮断しようとすれば核兵器配備も辞さないとロシアが警告したという投稿があった(未確認)。", "en": "The OSINTdefender account posted that Russia warned it could deploy nuclear weapons if the West tried to cut off access to Kaliningrad (unconfirmed)." },
+    "headline": {
+      "ja": "OSINTdefenderのアカウント、ロシアの核配備警告を投稿",
+      "en": "OSINTdefender account posts on Russian nuclear warning"
+    },
+    "summary": {
+      "ja": "OSINTdefenderのアカウントで、西側がカリーニングラードへのアクセスを遮断しようとすれば核兵器配備も辞さないとロシアが警告したという投稿があった(未確認)。",
+      "en": "The OSINTdefender account posted that Russia warned it could deploy nuclear weapons if the West tried to cut off access to Kaliningrad (unconfirmed)."
+    },
     "category": "conflict",
     "country": "ロシア",
-    "lat": 61.5240,
+    "lat": 61.524,
     "lon": 105.3188,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "OSINTdefender(Telegram)", "url": "https://t.me/s/OSINTdefender" },
+    "source": {
+      "name": "OSINTdefender(Telegram)",
+      "url": "https://t.me/s/OSINTdefender"
+    },
     "reliability": "unconfirmed"
   },
   {
     "id": "2026-10-02-09",
-    "headline": { "ja": "OSINTdefenderのアカウント、フーシ派の攻撃を投稿", "en": "OSINTdefender account posts on Houthi strikes" },
-    "summary": { "ja": "OSINTdefenderのアカウントで、フーシ派がサウジ主導連合軍の軍事施設にドローン・ミサイル攻撃を行ったという投稿があった(未確認)。", "en": "The OSINTdefender account posted that Houthi forces carried out drone and missile strikes on a Saudi-led coalition military facility (unconfirmed)." },
+    "headline": {
+      "ja": "OSINTdefenderのアカウント、フーシ派の攻撃を投稿",
+      "en": "OSINTdefender account posts on Houthi strikes"
+    },
+    "summary": {
+      "ja": "OSINTdefenderのアカウントで、フーシ派がサウジ主導連合軍の軍事施設にドローン・ミサイル攻撃を行ったという投稿があった(未確認)。",
+      "en": "The OSINTdefender account posted that Houthi forces carried out drone and missile strikes on a Saudi-led coalition military facility (unconfirmed)."
+    },
     "category": "conflict",
     "country": "イエメン",
     "lat": 15.5527,
     "lon": 48.5164,
     "occurredAt": "2026-10-02T00:00:00+00:00",
-    "source": { "name": "OSINTdefender(Telegram)", "url": "https://t.me/s/OSINTdefender" },
+    "source": {
+      "name": "OSINTdefender(Telegram)",
+      "url": "https://t.me/s/OSINTdefender"
+    },
     "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-03-01",
+    "headline": {
+      "ja": "米、イラン方面に第3の空母打撃群と最大1万人を追加派遣へ",
+      "en": "US to send third carrier strike group, up to 10,000 troops toward Iran"
+    },
+    "summary": {
+      "ja": "米国がイラン戦争(8か月目)を巡り、中東方面に第3の空母打撃群(セオドア・ルーズベルト)と水陸両用部隊を派遣し、最大1万人規模の増派になるとの見通しが報じられた。トランプ大統領は中間選挙後にイランへの攻撃再開を示唆しているという。",
+      "en": "The US is deploying a third carrier strike group (USS Theodore Roosevelt) and an amphibious unit toward the Middle East amid the eighth month of the Iran war, in a buildup reportedly totaling up to 10,000 troops. Trump has signaled he may resume strikes on Iran after the midterm elections."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Bloomberg/Al Jazeera等の報道集約",
+      "url": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate"
+    },
+    "reliability": "high",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-03-02",
+    "headline": {
+      "ja": "イラン外相、停戦案への米回答を待つと表明",
+      "en": "Iran FM says Tehran awaiting US response on ceasefire plan"
+    },
+    "summary": {
+      "ja": "イランのアラグチ外相は、ホルムズ海峡の段階的な再開を含む7日間停戦案について、トランプ大統領が公には拒否する発言をしたものの、仲介国経由での米国の正式回答を待っていると述べた。",
+      "en": "Iranian Foreign Minister Araghchi said Tehran is still awaiting a formal US response, via mediators, to its seven-day ceasefire proposal that includes a phased reopening of the Strait of Hormuz, even though President Trump has publicly rejected it."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "CBS News/報道集約",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-03",
+    "headline": {
+      "ja": "露、カリーニングラード遮断なら核使用も辞さずとNATOに警告",
+      "en": "Russia warns NATO of possible nuclear response over Kaliningrad"
+    },
+    "summary": {
+      "ja": "ロシアはNATO加盟国に外交文書を送り、カリーニングラードの封鎖をNATOが企図しているとの情報があるとして、これを遮断する試みがあれば核兵器を含む「あらゆる戦力」を使用する用意があると警告した。NATOはこれを「無責任な核のレトリック」だと非難している。",
+      "en": "Russia sent a diplomatic note to NATO members warning it is ready to use the 'entire arsenal of forces,' including nuclear weapons, if the alliance attempts to cut off Kaliningrad, which Moscow claims it has information NATO intends to blockade. NATO has condemned the statement as 'irresponsible nuclear rhetoric.'"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "region": "カリーニングラード",
+    "lat": 54.7104,
+    "lon": 20.4522,
+    "occurredAt": "2026-09-30T00:00:00+00:00",
+    "source": {
+      "name": "Reuters/Washington Post等の報道集約",
+      "url": "https://www.washingtonpost.com/world/2026/09/30/nato-russia-nuclear-kaliningrad-hybrid-sabotage/8101f542-bcef-11f1-81fc-9b76f8343b6c_story.html"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-03-04",
+    "headline": {
+      "ja": "露のドローン攻撃でキーウ2人死亡、南部橋に3度着弾",
+      "en": "Russian drone strikes kill 2 in Kyiv, hit Southern Bridge three times"
+    },
+    "summary": {
+      "ja": "キーウ市長によると、ロシアの無人機攻撃により市内(大学周辺地域含む)で2人が死亡、25人が負傷した。南部橋には数時間のうちに3回着弾し、他2つの橋にも通行規制が拡大した。",
+      "en": "According to Kyiv's mayor, Russian drone strikes on the city, including near a university area, killed two people and injured 25. The Southern Bridge was hit three times within a few hours, and traffic restrictions spread to two other Dnipro crossings."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "報道集約(キーウ市長発表)",
+      "url": "https://www.cnn.com/world/europe/ukraine"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-05",
+    "headline": {
+      "ja": "ウクライナ、露サマラ州等の石油施設を攻撃",
+      "en": "Ukraine strikes Russian oil facilities in Samara region and elsewhere"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領は、露サマラ州の石油施設、オリョール州の攻撃用ドローン発射・貯蔵拠点、ブリャンスク州の軍需補給基地、黒海の目標を攻撃したと発表した。プーチン大統領は石油精製施設への攻撃で露のGDPの1%相当の損失が出たと述べ、報復していると発言した。",
+      "en": "President Zelensky said Ukraine struck an oil facility in Russia's Samara region, a drone launch/storage site in Oryol, a military supply depot in Bryansk, and a target in the Black Sea. Putin said strikes on Russian oil refineries had cost about 1% of GDP and that Russia was responding in kind."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 61.524,
+    "lon": 105.3188,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "報道集約(ゼレンスキー/プーチン発言)",
+      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-06",
+    "headline": {
+      "ja": "英RAF基地近くでテロ容疑、首相「イラン関与の強い兆候」",
+      "en": "UK terror plot near RAF base; PM cites 'strong indications' of Iran"
+    },
+    "summary": {
+      "ja": "英RAFフェアフォード基地付近で男5人がテロ・爆発物関連容疑で逮捕された(車両からガソリンを発見、爆発物は未発見)。バーナム英首相は「イランが関与した強い兆候がある」と述べたが詳細は明らかにしていない。推測:イランの関与は英側の主張であり確定事実ではない。イラン外務省・外相は関与を強く否定している。",
+      "en": "Five men were arrested near RAF Fairford on suspicion of terrorism and explosives offences (petrol was found in vehicles, no explosives). UK PM Burnham said there are 'strong indications' Iran played a part, without detailing evidence. Speculation: Iran's involvement is a UK claim, not an established fact. Iran's foreign ministry and FM have strongly denied any role."
+    },
+    "category": "conflict",
+    "country": "イギリス",
+    "lat": 55.3781,
+    "lon": -3.436,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera/NBC News等の報道集約",
+      "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-07",
+    "headline": {
+      "ja": "国連軍、北朝鮮の地雷設置は休戦協定違反と認定",
+      "en": "UN Command finds North Korea's DMZ mine a violation of armistice"
+    },
+    "summary": {
+      "ja": "国連軍(UNC)は、非武装地帯(DMZ)の韓国側で見つかった北朝鮮製対人地雷について、休戦協定違反があったと認定した。9月21日の地雷爆発では韓国軍兵士3人が負傷(うち2人重傷)している。韓国軍は北朝鮮に国境要塞化工事の中止と謝罪を求めたが、北朝鮮(金与正氏)はこれを否定し「自作の見せ物」と主張した。",
+      "en": "The UN Command determined that a North Korean-made anti-personnel mine found on the South Korean side of the DMZ constituted an armistice violation. A September 21 mine blast injured three South Korean soldiers, two critically. South Korea's military demanded North Korea halt border fortification work and apologize; North Korea's Kim Yo Jong denied involvement, calling it a 'self-staged clown show.'"
+    },
+    "category": "conflict",
+    "country": "韓国",
+    "lat": 35.9078,
+    "lon": 127.7669,
+    "occurredAt": "2026-09-30T00:00:00+00:00",
+    "source": {
+      "name": "Korea Times/Korea Herald等の報道集約",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260930/un-command-says-armistice-agreement-violation-occurred-over-dmz-mine-blast"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-08",
+    "headline": {
+      "ja": "ゼレンスキー氏の国連演説発言で韓国・ウクライナ間に摩擦",
+      "en": "Zelensky's UN remarks spark Seoul-Kyiv friction over NK POWs"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領が国連演説で、北朝鮮兵捕虜を韓国に引き渡す取り決めがあるとの趣旨の発言をしたとされ、韓国の李在明大統領がこれに不快感を示したと報じられている。",
+      "en": "South Korean President Lee Jae-myung reportedly expressed anger after Ukrainian President Zelensky's UN speech appeared to reveal a deal under which Kyiv would transfer North Korean POWs to Seoul."
+    },
+    "category": "conflict",
+    "country": "韓国",
+    "lat": 35.9078,
+    "lon": 127.7669,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-09",
+    "headline": {
+      "ja": "パキスタン軍、アフガン領内を空爆 民間人死亡と国連報告",
+      "en": "Pakistan airstrikes in Afghanistan kill civilians, UN mission says"
+    },
+    "summary": {
+      "ja": "パキスタン軍は、パキスタン・タリバン運動(TTP)やバルチスタン解放軍の拠点とされるアフガニスタン・ヘルマンド州およびクナール州を空爆した。国連アフガニスタン支援ミッションは、この空爆で少なくとも民間人10人が死亡、9人が負傷し、死者の大半が子どもだったと報告している。",
+      "en": "Pakistan's military carried out airstrikes on sites in Afghanistan's Helmand and Kunar provinces described as camps used by the Pakistani Taliban (TTP) and the Balochistan Liberation Army. The UN Assistance Mission in Afghanistan reported the strikes killed at least 10 civilians and injured nine, with most of those killed being children."
+    },
+    "category": "conflict",
+    "country": "アフガニスタン",
+    "lat": 33.9391,
+    "lon": 67.71,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "国連アフガニスタン支援ミッション(UNAMA)報道",
+      "url": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-10",
+    "headline": {
+      "ja": "スーダン軍、北コルドファン州でRSF拠点を奪還と発表",
+      "en": "Sudan's army says it captured RSF stronghold in North Kordofan"
+    },
+    "summary": {
+      "ja": "スーダン国軍は、準軍事組織RSFとの激戦を経て北コルドファン州アル・マズルーブの支配権を奪還したと発表した。コルドファン地域は内戦(4年目)の主要な戦線の一つとなっている。",
+      "en": "Sudan's army said it had taken control of al-Mazroub in North Kordofan state following fierce fighting with the paramilitary Rapid Support Forces (RSF). The Kordofan region has become one of the main battlegrounds of the now four-year civil war."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-11",
+    "headline": {
+      "ja": "サウジ主導連合とフーシ派、相互攻撃を主張",
+      "en": "Saudi-led coalition and Houthis trade attack claims"
+    },
+    "summary": {
+      "ja": "サウジ主導連合は、フーシ派が発射した弾道ミサイル3発を撃墜したと発表。フーシ派側は、サウジ主導連合が過去24時間で自派支配地域に94回の空爆を行ったと主張している。推測:サウジはフーシ派による紅海での既得権益を押し返すための攻勢を計画しているとの報道もあるが、未確定。",
+      "en": "The Saudi-led coalition said it intercepted three ballistic missiles launched by the Houthis. The Houthis claimed the coalition carried out 94 strikes on Houthi-held areas in the past 24 hours. Speculation: there are reports the Saudis are planning an offensive to roll back Houthi gains in the Red Sea, but this is unconfirmed."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.5527,
+    "lon": 48.5164,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Times of Israel liveblog等の報道集約",
+      "url": "https://www.timesofisrael.com/liveblog-october-02-2026/"
+    },
+    "reliability": "low"
+  },
+  {
+    "id": "2026-10-03-12",
+    "headline": {
+      "ja": "イスラエル軍、停戦下の南部レバノン各地を空爆",
+      "en": "Israel strikes multiple towns in southern Lebanon despite truce"
+    },
+    "summary": {
+      "ja": "イスラエル空軍は、アルマンスーリ、ナバティーヤ、メフドンなど南部レバノンの複数の町を空爆した。レバノンのサラーム首相は停戦下でも攻撃が続くナバティーヤ周辺を訪れた。国連は、この間の攻撃でレバノン南部の農地の約22%が被害を受けたとみられるとして懸念を示している。",
+      "en": "The Israeli air force struck several towns in southern Lebanon including Al-Mansouri, Nabatieh, and Mefdon. Lebanese PM Nawaf Salam visited the Nabatieh area, which has faced near-daily Israeli strikes despite a ceasefire agreement. The UN expressed concern that roughly 22% of south Lebanon's agricultural land has been damaged or affected by the strikes."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "報道集約/国連人道問題調整事務所",
+      "url": "https://operationalsupport.un.org/en/node/17679"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-13",
+    "headline": {
+      "ja": "イスラエル、ガザでハマス幹部をドローン攻撃で殺害",
+      "en": "Israeli drone strike kills senior Hamas commander in Gaza"
+    },
+    "summary": {
+      "ja": "イスラエル軍はガザで、ハマス幹部イズ・アッディーン・アル・ベイク氏をドローン攻撃で殺害したと発表し、ハマス側もその死亡を確認した。",
+      "en": "Israel's military said it killed senior Hamas commander Izz al-Din Al-Beik in a drone strike in Gaza, and Hamas confirmed his death."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.9522,
+    "lon": 35.2332,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Times of Israel liveblog等の報道集約",
+      "url": "https://www.timesofisrael.com/liveblog-october-02-2026/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-14",
+    "headline": {
+      "ja": "豪州もブラジル大使館を閉鎖、米の警戒情報受け",
+      "en": "Australia also closes Brasília embassy, citing US security alert"
+    },
+    "summary": {
+      "ja": "米国がブラジル大統領選挙を前に治安上の懸念から領事業務を一時停止したことに続き、オーストラリアもブラジリアの大使館を金曜に閉鎖すると発表した。豪大使は、米側の警戒情報を受けたものだとSNSで説明した。",
+      "en": "Following the US suspension of consular services in Brazil ahead of its presidential election citing security concerns, Australia also announced it would close its embassy in Brasília on Friday. Australia's ambassador said on social media the move followed the US security alert."
+    },
+    "category": "conflict",
+    "country": "ブラジル",
+    "lat": -14.235,
+    "lon": -51.9253,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Bloomberg/報道集約",
+      "url": "https://www.northerndailyleader.com.au/story/9361889/australia-closes-brazil-embassy-over-security-alert/"
+    },
+    "reliability": "high"
   }
 ]
