@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T03:21:39.736Z",
+  "generatedAt": "2026-10-02T04:22:07.872Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 171,
+  "count": 177,
   "warnings": [
     {
       "id": "NAVAREA11-260438",
@@ -3106,16 +3106,206 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-261880",
+      "id": "NAVTEX-261888",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
       "category": "航路標識",
-      "number": "1880",
-      "title": "沖縄島西、ＡＩＳによる情報提供業務休止",
-      "publishedAt": "2026-10-02T02:00:00+09:00",
+      "number": "1888",
+      "title": "沖縄島西、ＡＩＳによる情報提供業務復旧",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-1880    発表日時:2026年10月02日 02時\r\n\n\r\n沖縄島西、\r\r\n粟国島AIS送受信所(26-34.6N 127-12.7E)\r\r\nを使用した情報提供業務休止。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261880&LANG=JP"
+      "rawText": "番号:26-1888    発表日時:2026年10月02日 13時\r\n\n\r\n沖縄島西、\r\r\n粟国島AIS送受信所を使用した情報提供業務復旧。\r\r\n(1880削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261888&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261887",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1887",
+      "title": "済州島東（Ｄ−１１８）、射撃",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            127.66666666666667,
+            34
+          ],
+          [
+            128.5,
+            34
+          ],
+          [
+            127.83333333333333,
+            33.166666666666664
+          ],
+          [
+            127.66666666666667,
+            33.166666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-1887    発表日時:2026年10月02日 13時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、10月7日、8日毎日0900-1800、\r\r\n34-00N 127-40E 34-00N 128-30E \r\r\n33-10N 127-50E 33-10N 127-40E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261887&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261886",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1886",
+      "title": "巨済島南東（Ｄ−９９）、射撃",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            128.72416666666666,
+            34.68444444444444
+          ],
+          [
+            128.84194444444447,
+            34.76833333333333
+          ],
+          [
+            128.89388888888888,
+            34.778888888888886
+          ],
+          [
+            129.05583333333334,
+            34.56305555555555
+          ],
+          [
+            128.71972222222223,
+            34.15361111111111
+          ],
+          [
+            128.58722222222224,
+            34.336666666666666
+          ]
+        ]
+      },
+      "rawText": "番号:26-1886    発表日時:2026年10月02日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、10月5日1400-2000、6日0800-2000、\r\r\n7日、8日毎日0800-1800、\r\r\n34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E\r\r\n34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E\r\r\n34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261886&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261885",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1885",
+      "title": "巨済島南西（Ｄ−７２）、射撃",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            128,
+            34.16138888888889
+          ],
+          [
+            128.19083333333333,
+            34.30027777777777
+          ],
+          [
+            128.58333333333334,
+            34.3
+          ],
+          [
+            128.58722222222224,
+            34.336666666666666
+          ],
+          [
+            128.71972222222223,
+            34.15361111111111
+          ],
+          [
+            128.58333333333334,
+            34
+          ],
+          [
+            128,
+            34
+          ]
+        ]
+      },
+      "rawText": "番号:26-1885    発表日時:2026年10月02日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月6日、8日毎日0900-2200、\r\r\n7日0900-1700、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261885&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261884",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1884",
+      "title": "入道埼西南西、射撃",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1884    発表日時:2026年10月02日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月7日0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261884&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261883",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1883",
+      "title": "野母埼西、射撃",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          129.23333333333332,
+          32.45
+        ]
+      },
+      "rawText": "番号:26-1883    発表日時:2026年10月02日 13時\r\n\n\r\n野母埼西、\r\r\n射撃、10月7日(予備8日)0900-2400、\r\r\n32-27N 129-14Eを中心とする半径7海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261883&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261882",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1882",
+      "title": "東シナ海及び北太平洋西部、ロケット打上げ",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            127.4925,
+            31.50861111111111
+          ],
+          [
+            128.4752777777778,
+            31.612222222222222
+          ],
+          [
+            128.66,
+            30.269444444444442
+          ],
+          [
+            127.69083333333333,
+            30.16583333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-1882    発表日時:2026年10月02日 13時\r\n\n\r\n東シナ海、\r\r\nロケット打上げ、\r\r\n10月7日(予備8日-14日)1228-1343、\r\r\n31-30-31N 127-29-33E\r\r\n31-36-44N 128-28-31E\r\r\n30-16-10N 128-39-36E\r\r\n30-09-57N 127-41-27Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261882&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261881",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1881",
+      "title": "宮古島北西、射撃",
+      "publishedAt": "2026-10-02T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1881    発表日時:2026年10月02日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃、10月7日0900-2400、\r\r\n24-56.1N 124-54.3Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261881&LANG=JP"
     },
     {
       "id": "NAVTEX-261879",
@@ -3196,18 +3386,6 @@
       },
       "rawText": "番号:26-1876    発表日時:2026年10月01日 13時\r\n\n\r\n野島埼南東、\r\r\n射撃、10月6日(予備7日)0800-1800、\r\r\n34-35-12N 140-16-48E \r\r\n34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E \r\r\n34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E \r\r\n33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261876&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261875",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "1875",
-      "title": "南方諸島、避難勧告解除",
-      "publishedAt": "2026-10-01T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1875    発表日時:2026年10月01日 13時\r\n\n\r\n南方諸島、\r\r\n避難勧告解除。\r\r\n(1873削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261875&LANG=JP"
     },
     {
       "id": "NAVTEX-261871",
