@@ -1,0 +1,110 @@
+[
+  {
+    "id": "2026-10-02-01",
+    "headline": { "ja": "NATO機、リトアニア上空で無人機を撃墜", "en": "NATO jets down drone over Lithuania" },
+    "summary": { "ja": "バルト空域警備任務中のNATO機が、リトアニア上空に侵入した無人機を撃墜した。", "en": "NATO aircraft on Baltic air policing duty shot down a drone that entered Lithuanian airspace." },
+    "category": "conflict",
+    "country": "リトアニア",
+    "lat": 55.1694,
+    "lon": 23.8813,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "報道集約", "url": "https://www.nbcnews.com/world/russia-ukraine-news" },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-02-02",
+    "headline": { "ja": "露フリゲート艦、デンマークのヘリに照明弾発射", "en": "Russian frigate fires flares at Danish helicopter" },
+    "summary": { "ja": "デンマーク近海でロシア海軍のフリゲート艦が、デンマークのヘリコプターに照明弾を発射した。", "en": "A Russian navy frigate fired flares at a Danish helicopter near Denmark." },
+    "category": "conflict",
+    "country": "デンマーク",
+    "lat": 56.2639,
+    "lon": 9.5018,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "報道集約", "url": "https://www.nbcnews.com/world/russia-ukraine-news" },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-02-03",
+    "headline": { "ja": "エリトリア、エチオピアとの外交関係を断絶", "en": "Eritrea severs diplomatic ties with Ethiopia" },
+    "summary": { "ja": "エリトリアがエチオピアとの外交関係断絶を発表した。", "en": "Eritrea announced it has cut diplomatic ties with Ethiopia." },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 9.1450,
+    "lon": 40.4897,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "報道集約", "url": "https://www.aljazeera.com/" },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-02-04",
+    "headline": { "ja": "米、ブラジル大統領選前に領事業務を一時停止", "en": "US suspends consular services in Brazil ahead of election" },
+    "summary": { "ja": "米国は治安上の懸念を理由に、ブラジル大統領選挙を前に国内の領事業務を一時停止した。", "en": "The US suspended consular services in Brazil ahead of its presidential election, citing security concerns." },
+    "category": "conflict",
+    "country": "ブラジル",
+    "lat": -14.2350,
+    "lon": -51.9253,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "The Print", "url": "https://theprint.in/world/us-suspends-consular-services-before-brazil-vote-citing-security/3060347/" },
+    "reliability": "medium_high"
+  },
+  {
+    "id": "2026-10-02-05",
+    "headline": { "ja": "パキスタン、サウジ防衛を表明との報道", "en": "Report: Pakistan vows to defend Saudi Arabia" },
+    "summary": { "ja": "パキスタンがイラン系とされるフーシ派からサウジアラビアを防衛すると表明したとの報道がある(一次情報未確認)。", "en": "Reports say Pakistan has vowed to defend Saudi Arabia against Iran-backed Houthi forces (unconfirmed by primary sources)." },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "報道集約", "url": "https://www.newsnow.com/us/World/War+and+Terrorism/World+Conflicts" },
+    "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-02-06",
+    "headline": { "ja": "rybarのアカウント、キーウの橋への攻撃を投稿", "en": "rybar account posts about strike on Kyiv bridge" },
+    "summary": { "ja": "rybarのアカウントで、キーウの橋に着弾があり通行が遮断されたという投稿があった(未確認)。", "en": "The rybar account posted that a bridge in Kyiv was struck and traffic was cut off (unconfirmed)." },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "rybar(Telegram)", "url": "https://t.me/s/rybar" },
+    "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-02-07",
+    "headline": { "ja": "rybarのアカウント、エクアドルの米軍基地建設を投稿", "en": "rybar account posts on US base construction in Ecuador" },
+    "summary": { "ja": "rybarのアカウントで、国民投票での否決にもかかわらずエクアドルの基地建設を米国が進めているという投稿があった(未確認)。", "en": "The rybar account posted that the US is proceeding with base construction in Ecuador despite a referendum rejecting it (unconfirmed)." },
+    "category": "conflict",
+    "country": "エクアドル",
+    "lat": -1.8312,
+    "lon": -78.1834,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "rybar(Telegram)", "url": "https://t.me/s/rybar" },
+    "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-02-08",
+    "headline": { "ja": "OSINTdefenderのアカウント、ロシアの核配備警告を投稿", "en": "OSINTdefender account posts on Russian nuclear warning" },
+    "summary": { "ja": "OSINTdefenderのアカウントで、西側がカリーニングラードへのアクセスを遮断しようとすれば核兵器配備も辞さないとロシアが警告したという投稿があった(未確認)。", "en": "The OSINTdefender account posted that Russia warned it could deploy nuclear weapons if the West tried to cut off access to Kaliningrad (unconfirmed)." },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 61.5240,
+    "lon": 105.3188,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "OSINTdefender(Telegram)", "url": "https://t.me/s/OSINTdefender" },
+    "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-02-09",
+    "headline": { "ja": "OSINTdefenderのアカウント、フーシ派の攻撃を投稿", "en": "OSINTdefender account posts on Houthi strikes" },
+    "summary": { "ja": "OSINTdefenderのアカウントで、フーシ派がサウジ主導連合軍の軍事施設にドローン・ミサイル攻撃を行ったという投稿があった(未確認)。", "en": "The OSINTdefender account posted that Houthi forces carried out drone and missile strikes on a Saudi-led coalition military facility (unconfirmed)." },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.5527,
+    "lon": 48.5164,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": { "name": "OSINTdefender(Telegram)", "url": "https://t.me/s/OSINTdefender" },
+    "reliability": "unconfirmed"
+  }
+]
