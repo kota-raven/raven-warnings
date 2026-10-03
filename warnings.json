@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:17:54.736Z",
+  "generatedAt": "2026-10-03T00:27:27.800Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 191,
   "warnings": [
@@ -358,6 +358,98 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-263909",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3909",
+      "title": "朝鮮半島西岸、済州島南西−安眠島付近、射撃",
+      "publishedAt": "2026-10-03T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            125.54472222222222,
+            36.705555555555556
+          ],
+          [
+            125.97361111111111,
+            36.705555555555556
+          ],
+          [
+            126.10499999999999,
+            36.52305555555555
+          ],
+          [
+            126.10499999999999,
+            36.30305555555555
+          ],
+          [
+            125.90277777777779,
+            36.25361111111111
+          ],
+          [
+            124.9113888888889,
+            32.67722222222222
+          ],
+          [
+            124.19833333333334,
+            33.31472222222222
+          ]
+        ]
+      },
+      "rawText": "番号:26-3909   発表日時:2026年10月03日 08時\r\n\n\r\n★ 朝鮮半島西岸、済州島南西-安眠島付近、\r\r\n射撃、10月8日0600Z-0900Z、9日0000Z-0900Z、\r\r\n36-42-20N 125-32-41E 36-42-20N 125-58-25E\r\r\n36-31-23N 126-06-18E 36-18-11N 126-06-18E\r\r\n36-15-13N 125-54-10E 32-40-38N 124-54-41E\r\r\n33-18-53N 124-11-54Eで囲まれる海面。\r\r\n(3901削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263909&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263908",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "3908",
+      "title": "南太平洋、宇宙ゴミ落下終了",
+      "publishedAt": "2026-10-03T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3908   発表日時:2026年10月03日 08時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下終了。\r\r\n(3813削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263908&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263907",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "航路標識",
+      "number": "3907",
+      "title": "オーストラリア北東岸、灯台復旧",
+      "publishedAt": "2026-10-03T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3907   発表日時:2026年10月03日 08時\r\n\n\r\n★ オーストラリア北東岸、\r\r\nLITTLE BUGATTI REEF灯台復旧。\r\r\n(3869削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263907&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263906",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "3906",
+      "title": "北太平洋東部、海底線作業に関する情報削除",
+      "publishedAt": "2026-10-03T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3906   発表日時:2026年10月03日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nC/S ILE DE SEINによる海底線作業に関する情報削除。\r\r\n(3591削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263906&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263905",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "3905",
+      "title": "北太平洋東部、宇宙ゴミ落下終了",
+      "publishedAt": "2026-10-03T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3905   発表日時:2026年10月03日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(3811削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263905&LANG=JP"
+    },
+    {
       "id": "JAPANNW-263904",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -398,50 +490,6 @@
       },
       "rawText": "番号:26-3902   発表日時:2026年10月02日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南西、\r\r\n射撃、10月5日-7日毎日0100Z-1000Z、\r\r\n8日-11日毎日0100Z-1100Z、32-59N 125-49E\r\r\nを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263902&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263901",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3901",
-      "title": "朝鮮半島西岸、済州島南西−安眠島付近、射撃",
-      "publishedAt": "2026-10-02T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            125.54472222222222,
-            36.705555555555556
-          ],
-          [
-            125.97361111111111,
-            36.705555555555556
-          ],
-          [
-            126.10499999999999,
-            36.52305555555555
-          ],
-          [
-            126.10499999999999,
-            36.30305555555555
-          ],
-          [
-            125.90277777777779,
-            36.25361111111111
-          ],
-          [
-            124.9113888888889,
-            32.67722222222222
-          ],
-          [
-            124.19833333333334,
-            33.31472222222222
-          ]
-        ]
-      },
-      "rawText": "番号:26-3901   発表日時:2026年10月02日 20時\r\n\n\r\n★ 朝鮮半島西岸、済州島南西-安眠島付近、\r\r\n射撃、10月6日-8日毎日0600Z-0900Z、\r\r\n36-42-20N 125-32-41E 36-42-20N 125-58-25E\r\r\n36-31-23N 126-06-18E 36-18-11N 126-06-18E\r\r\n36-15-13N 125-54-10E 32-40-38N 124-54-41E\r\r\n33-18-53N 124-11-54Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263901&LANG=JP"
     },
     {
       "id": "JAPANNW-263900",
@@ -1452,18 +1500,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263870&LANG=JP"
     },
     {
-      "id": "JAPANNW-263869",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "3869",
-      "title": "オーストラリア北東岸、灯台信頼できない",
-      "publishedAt": "2026-10-01T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3869   発表日時:2026年10月01日 20時\r\n\n\r\n★ オーストラリア北東岸、\r\r\nLITTLE BUGATTI REEF灯台(20-01.2S \r\r\n150-15.4E)信頼できない。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263869&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263868",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1880,78 +1916,6 @@
       },
       "rawText": "番号:26-3820   発表日時:2026年09月28日 20時\r\n\n\r\n若狭湾北、\r\r\nロケット射撃、10月3日、5日(予備4日、6日-9日)毎日0700-2100、\r\r\n37-00-11N 134-59-50E 37-22-11N 135-39-49E\r\r\n37-02-11N 135-39-49E 36-40-11N 134-59-50E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263820&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263813",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3813",
-      "title": "南太平洋、宇宙ゴミ落下",
-      "publishedAt": "2026-09-27T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -149.58333333333334,
-            -27.1
-          ],
-          [
-            -148,
-            -28.9
-          ],
-          [
-            -157.98333333333332,
-            -37.13333333333333
-          ],
-          [
-            -170.23333333333332,
-            -44.333333333333336
-          ],
-          [
-            -171.51666666666668,
-            -42.68333333333333
-          ],
-          [
-            -159.5,
-            -35.4
-          ]
-        ]
-      },
-      "rawText": "番号:26-3813   発表日時:2026年09月27日 20時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下、10月1日1606Z-1701Z、2日1544Z-1639Z、\r\r\n3日1521Z-1616Z、4日1458Z-1553Z、5日1436Z-\r\r\n1531Z、6日1410Z-1505Z、7日1348Z-1443Z、\r\r\n27-06S 149-35W 28-54S 148-00W\r\r\n37-08S 157-59W 44-20S 170-14W\r\r\n42-41S 171-31W 35-24S 159-30Wで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263813&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263811",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3811",
-      "title": "北太平洋東部、宇宙ゴミ落下",
-      "publishedAt": "2026-09-27T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -129.43333333333334,
-            37.93333333333333
-          ],
-          [
-            -127.25,
-            36.55
-          ],
-          [
-            -132.56666666666666,
-            31.016666666666666
-          ],
-          [
-            -134.61666666666667,
-            32.4
-          ]
-        ]
-      },
-      "rawText": "番号:26-3811   発表日時:2026年09月27日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\n宇宙ゴミ落下、10月2日0730Z-0907Z、3日0725Z-0902Z、\r\r\n4日0721Z-0858Z、5日0716Z-0853Z、\r\r\n6日0712Z-0848Z、7日0707Z-0844Z、\r\r\n8日0703Z-0839Z、37-56N 129-26W \r\r\n36-33N 127-15W 31-01N 132-34W\r\r\n32-24N 134-37Wで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263811&LANG=JP"
     },
     {
       "id": "JAPANNW-263809",
@@ -2902,18 +2866,6 @@
       "geometry": null,
       "rawText": "番号:26-3635   発表日時:2026年09月13日 23時\r\n\n\r\nジャワ海、\r\r\n沈船あり、04-32-31.8S 114-01-36.0E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263635&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263591",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "3591",
-      "title": "北太平洋東部、海底線作業",
-      "publishedAt": "2026-09-11T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3591   発表日時:2026年09月11日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nC/S ILE DE SEINによる海底線作業、当分の間、\r\r\n33-32.87N 119-40.65W 33-32.76N 119-57.64W\r\r\n33-47.63N 120-30.77W 33-51.09N 121-09.77W\r\r\n33-44.31N 121-28.37W 33-55.44N 122-06.15W\r\r\n34-44.67N 124-06.99W 35-49.07N 126-27.05W\r\r\n36-11.69N 126-37.62W 37-23.36N 128-15.99W\r\r\nを結ぶ線上付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263591&LANG=JP"
     },
     {
       "id": "JAPANNW-263549",
