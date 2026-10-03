@@ -232,29 +232,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-10-03-03",
-    "headline": {
-      "ja": "露、カリーニングラード遮断なら核使用も辞さずとNATOに警告",
-      "en": "Russia warns NATO of possible nuclear response over Kaliningrad"
-    },
-    "summary": {
-      "ja": "ロシアはNATO加盟国に外交文書を送り、カリーニングラードの封鎖をNATOが企図しているとの情報があるとして、これを遮断する試みがあれば核兵器を含む「あらゆる戦力」を使用する用意があると警告した。NATOはこれを「無責任な核のレトリック」だと非難している。",
-      "en": "Russia sent a diplomatic note to NATO members warning it is ready to use the 'entire arsenal of forces,' including nuclear weapons, if the alliance attempts to cut off Kaliningrad, which Moscow claims it has information NATO intends to blockade. NATO has condemned the statement as 'irresponsible nuclear rhetoric.'"
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "region": "カリーニングラード",
-    "lat": 54.7104,
-    "lon": 20.4522,
-    "occurredAt": "2026-09-30T00:00:00+00:00",
-    "source": {
-      "name": "Reuters/Washington Post等の報道集約",
-      "url": "https://www.washingtonpost.com/world/2026/09/30/nato-russia-nuclear-kaliningrad-hybrid-sabotage/8101f542-bcef-11f1-81fc-9b76f8343b6c_story.html"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-10-03-04",
     "headline": {
       "ja": "露のドローン攻撃でキーウ2人死亡、南部橋に3度着弾",
@@ -316,27 +293,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-10-03-07",
-    "headline": {
-      "ja": "国連軍、北朝鮮の地雷設置は休戦協定違反と認定",
-      "en": "UN Command finds North Korea's DMZ mine a violation of armistice"
-    },
-    "summary": {
-      "ja": "国連軍(UNC)は、非武装地帯(DMZ)の韓国側で見つかった北朝鮮製対人地雷について、休戦協定違反があったと認定した。9月21日の地雷爆発では韓国軍兵士3人が負傷(うち2人重傷)している。韓国軍は北朝鮮に国境要塞化工事の中止と謝罪を求めたが、北朝鮮(金与正氏)はこれを否定し「自作の見せ物」と主張した。",
-      "en": "The UN Command determined that a North Korean-made anti-personnel mine found on the South Korean side of the DMZ constituted an armistice violation. A September 21 mine blast injured three South Korean soldiers, two critically. South Korea's military demanded North Korea halt border fortification work and apologize; North Korea's Kim Yo Jong denied involvement, calling it a 'self-staged clown show.'"
-    },
-    "category": "conflict",
-    "country": "韓国",
-    "lat": 35.9078,
-    "lon": 127.7669,
-    "occurredAt": "2026-09-30T00:00:00+00:00",
-    "source": {
-      "name": "Korea Times/Korea Herald等の報道集約",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260930/un-command-says-armistice-agreement-violation-occurred-over-dmz-mine-blast"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-10-03-08",
@@ -482,6 +438,115 @@
     "source": {
       "name": "Bloomberg/報道集約",
       "url": "https://www.northerndailyleader.com.au/story/9361889/australia-closes-brazil-embassy-over-security-alert/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-15",
+    "headline": {
+      "ja": "米軍、ベネズエラ沖でボートを攻撃し4人死亡",
+      "en": "US strikes boat off Venezuela, killing four"
+    },
+    "summary": {
+      "ja": "米国防長官ヘグセス氏は、ベネズエラ沖の公海上で麻薬密輸船とされるボートを攻撃し、4人が死亡したと発表した。トランプ政権は同海域での攻撃をこれで4回目としている。",
+      "en": "US Defense Secretary Hegseth announced a strike on an alleged drug-trafficking boat in international waters off the coast of Venezuela, killing four people. The Trump administration says this is the fourth such strike in the area."
+    },
+    "category": "conflict",
+    "country": "ベネズエラ",
+    "region": "カリブ海(ベネズエラ沖公海)",
+    "lat": 12.5,
+    "lon": -68.0,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "CBS News/ABC News",
+      "url": "https://www.cbsnews.com/news/hegseth-us-strike-alleged-drug-boat-venezuela-kills-narco-terrorists/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-16",
+    "headline": {
+      "ja": "イスラエル軍、ガザ市の住宅を空爆し5人死亡",
+      "en": "Israeli strike on Gaza City apartment kills five"
+    },
+    "summary": {
+      "ja": "イスラエル軍はガザ市リマール地区の住宅に夜間、警告なしで空爆を行い、少なくとも5人(うち女性4人)が死亡、6人が重傷を負った。アルシファ病院の医療スタッフが確認した。",
+      "en": "Israeli forces carried out a nighttime air strike without warning on an apartment in the Rimal area of Gaza City, killing at least five people, including four women, and severely wounding six others, according to medical staff at al-Shifa Hospital."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ市(リマール地区)",
+    "lat": 31.9522,
+    "lon": 35.2332,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-17",
+    "headline": {
+      "ja": "ナイジェリア北東部でボコ・ハラムが襲撃、15人以上死亡",
+      "en": "Suspected Boko Haram militants kill at least 15 in northeast Nigeria"
+    },
+    "summary": {
+      "ja": "ナイジェリア・ボルノ州マルテ地区の複数の村で、ボコ・ハラムとされる武装集団が農民や薪拾いの住民を襲撃し、少なくとも15人が死亡、3人が行方不明になったと警察・人権当局が明らかにした。",
+      "en": "Suspected Boko Haram militants attacked farmers and firewood gatherers in several villages in the Marte area of Nigeria's Borno State, killing at least 15 people and leaving three missing, police and rights officials said."
+    },
+    "category": "conflict",
+    "country": "ナイジェリア",
+    "region": "ボルノ州マルテ地区",
+    "lat": 9.082,
+    "lon": 8.6753,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/10/02/nigeria-attack-boko-haram-farmers/bc0d314c-bea7-11f1-81fc-9b76f8343b6c_story.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-18",
+    "headline": {
+      "ja": "インド国境警備隊がパキスタン国境付近で発砲、2人死亡",
+      "en": "Indian border guards shoot dead two Pakistanis near border"
+    },
+    "summary": {
+      "ja": "パキスタン東部カスール地区の国境付近で、インド国境警備隊(BSF)が発砲し、パキスタン人2人が死亡、1人が負傷した。パキスタン側は非武装の民間人が境界標識を少し越えた程度だったと主張している。両国は2025年半ばに一旦軍事的緊張の危機から後退した経緯がある。",
+      "en": "Indian Border Security Force personnel opened fire near the border in Pakistan's eastern Kasur district, killing two Pakistani nationals and wounding a third. Pakistani sources say the men were unarmed civilians who had only stepped slightly past a border pillar. The incident comes amid still-elevated tension after the two countries stepped back from the brink of military confrontation in mid-2025."
+    },
+    "category": "conflict",
+    "country": "パキスタン",
+    "region": "パンジャーブ州カスール地区(インド国境付近)",
+    "lat": 30.3753,
+    "lon": 69.3451,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/10/02/pakistan-india-shooting-border-punjab/4c452e58-be86-11f1-81fc-9b76f8343b6c_story.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-19",
+    "headline": {
+      "ja": "ハイチのギャング暴力、今年の死傷者5700人超と国連報告",
+      "en": "UN says over 5,700 killed or wounded in Haiti gang violence this year"
+    },
+    "summary": {
+      "ja": "国連人権高等弁務官(トゥルク氏)は、ハイチのギャング暴力により今年これまでに少なくとも5700人が死亡または負傷し、女性・女児1000人以上が強姦被害を受けたと報告した。選挙実施を控え誘拐も増加しているという。",
+      "en": "UN human rights chief Volker Turk reported that gang violence in Haiti has left at least 5,700 people killed or wounded so far this year, with more than 1,000 women and girls raped. Kidnappings are also rising as the country prepares for long-awaited elections."
+    },
+    "category": "conflict",
+    "country": "ハイチ",
+    "lat": 18.9712,
+    "lon": -72.2852,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "国連人権高等弁務官事務所(OHCHR)/UN News",
+      "url": "https://news.un.org/en/story/2026/10/1168511"
     },
     "reliability": "high"
   }
