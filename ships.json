@@ -265,5 +265,27 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-10-03T09:00:00+09:00"
+  },
+  {
+    "id": "2026-10-03-us-001",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "セオドア・ルーズベルト",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "lat": 26.5,
+      "lon": 56.3,
+      "area": "ホルムズ海峡周辺(推定、中東方面へ展開中)",
+      "approximate": true
+    },
+    "observedAt": "2026-10-03T00:00:00+09:00",
+    "activity": "イラン情勢を巡り、水陸両用部隊も含め中東方面へ展開中と報じられた。最大1万人規模の増派となる見通しで、トランプ大統領は中間選挙後の対イラン攻撃再開を示唆しているという。",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-10-03T12:00:00+09:00"
   }
 ]
