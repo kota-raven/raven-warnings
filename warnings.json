@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T13:28:27.177Z",
+  "generatedAt": "2026-10-03T18:33:59.326Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 186,
+  "count": 181,
   "warnings": [
     {
       "id": "NAVAREA11-260442",
@@ -448,30 +448,6 @@
       "geometry": null,
       "rawText": "番号:26-3908   発表日時:2026年10月03日 08時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下終了。\r\r\n(3813削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263908&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263906",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "3906",
-      "title": "北太平洋東部、海底線作業に関する情報削除",
-      "publishedAt": "2026-10-03T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3906   発表日時:2026年10月03日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nC/S ILE DE SEINによる海底線作業に関する情報削除。\r\r\n(3591削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263906&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263905",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3905",
-      "title": "北太平洋東部、宇宙ゴミ落下終了",
-      "publishedAt": "2026-10-03T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3905   発表日時:2026年10月03日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(3811削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263905&LANG=JP"
     },
     {
       "id": "JAPANNW-263904",
@@ -2566,24 +2542,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263770&LANG=JP"
     },
     {
-      "id": "JAPANNW-263768",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3768",
-      "title": "迎日湾北東（Ｄ−１４２Ｂ）、射撃",
-      "publishedAt": "2026-09-25T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          129.83333333333334,
-          36.333333333333336
-        ]
-      },
-      "rawText": "番号:26-3768   発表日時:2026年09月25日 20時\r\n\n\r\n★ 朝鮮半島東岸、迎日湾北東、\r\r\n射撃、9月28日0000Z-0900Z、2100Z-翌日0900Z、\r\r\n30日0000-0900Z、10月2日0000Z-1200Z、2100Z-\r\r\n翌日1200Z、4日0000Z-1200Z、\r\r\n36-20N 129-50Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263768&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263767",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -3364,30 +3322,6 @@
       "geometry": null,
       "rawText": "番号:26-1890    発表日時:2026年10月03日 06時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261890&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261889",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1889",
-      "title": "潮岬西南西、射撃終了",
-      "publishedAt": "2026-10-02T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1889    発表日時:2026年10月02日 17時\r\n\n\r\n潮岬西南西、\r\r\n射撃終了。\r\r\n(1853削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261889&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261888",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1888",
-      "title": "沖縄島西、ＡＩＳによる情報提供業務復旧",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1888    発表日時:2026年10月02日 13時\r\n\n\r\n沖縄島西、\r\r\n粟国島AIS送受信所を使用した情報提供業務復旧。\r\r\n(1880削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261888&LANG=JP"
     },
     {
       "id": "NAVTEX-261887",
