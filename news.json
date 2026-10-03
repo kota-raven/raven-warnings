@@ -549,5 +549,27 @@
       "url": "https://news.un.org/en/story/2026/10/1168511"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-20",
+    "headline": {
+      "ja": "北朝鮮、DMZ地雷問題を巡り弾道ミサイル発射 韓国は警戒態勢",
+      "en": "North Korea fires ballistic missile amid DMZ mine blast tensions, South on alert"
+    },
+    "summary": {
+      "ja": "北朝鮮は10月3日午前6時30分頃、江原道・元山付近から弾道ミサイル1発を東方の日本海へ発射した。飛翔距離は700km超で、中距離級の可能性があるとされる。DMZでの北朝鮮製地雷爆発(9月21日、韓国軍兵士3人負傷)を国連軍が休戦協定違反と認定した直後の発射で、韓国大統領府は緊急の安保状況点検会議を招集、韓米日は最高度の警戒態勢を維持しているという。",
+      "en": "North Korea fired one ballistic missile from the Wonsan area toward the East Sea around 6:30 a.m. on October 3, flying over 700km in what may be a medium-range missile. The launch came shortly after the UN Command found North Korea in violation of the armistice over a landmine blast in the DMZ on September 21 that wounded three South Korean soldiers. South Korea's presidential office convened an emergency security review, with Seoul, Washington and Tokyo maintaining full alert."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "occurredAt": "2026-10-02T21:30:00+00:00",
+    "source": {
+      "name": "NK News/Korea Times/ABC News等の報道集約",
+      "url": "https://www.nknews.org/2026/10/north-korea-fires-ballistic-missile-toward-east-sea/"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
