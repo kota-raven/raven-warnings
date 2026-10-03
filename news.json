@@ -571,5 +571,174 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-03-21",
+    "headline": {
+      "ja": "ロシア外務省、キーウの外交官・外国人に退避警告 「大規模攻撃」継続の方針示す",
+      "en": "Russia's Foreign Ministry warns diplomats to leave Kyiv, vows to continue 'massive' strikes"
+    },
+    "summary": {
+      "ja": "ロシア外務省は10月3日、キーウの外交官・外国人に対し退避を改めて呼びかけ、ウクライナ軍による「テロ行為」への対応として軍事施設への「標的を定めた」攻撃を継続すると表明した。同日未明には市内の北部橋がロシア軍の無人機攻撃を受け、通行が止まった。",
+      "en": "Russia's Foreign Ministry on Oct. 3 renewed its call for diplomats and foreign nationals to leave Kyiv, vowing to continue \"targeted\" strikes on military facilities in response to what it called Ukrainian \"terrorist acts.\" The warning came hours after a Russian strike drone hit Kyiv's North Bridge, halting traffic."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/world/3330779/russia-warns-diplomats-to-leave-kyiv-before-massive-strikes"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-03-22",
+    "headline": {
+      "ja": "露軍の全国攻撃でウクライナ各地で8人死亡・81人負傷、ドローン131機を迎撃",
+      "en": "Russian strikes kill 8, injure 81 across Ukraine as 131 drones intercepted"
+    },
+    "summary": {
+      "ja": "ウクライナ各地への露軍の攻撃により8人が死亡、81人が負傷した。キーウでは露軍の無人機が北部橋を攻撃し通行が止まった。ウクライナ軍は131機のドローンを迎撃したが、12か所で着弾、5か所で破片落下が確認された。",
+      "en": "Russian strikes across Ukraine killed 8 people and injured 81, with a drone attack halting traffic on Kyiv's North Bridge. Ukrainian forces intercepted 131 drones, though hits were recorded at 12 locations and falling debris at five more."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-strikes-kill-8-injure-81-across-ukraine-hit-kyiv-bridge-2/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-23",
+    "headline": {
+      "ja": "イラン、米国との「大規模な戦闘」再開に備えているとテヘランの関係者が証言",
+      "en": "Iran preparing for 'major round of fighting' with US, Tehran source says"
+    },
+    "summary": {
+      "ja": "テヘランの関係者は、イランが米国との大規模な戦闘再開に向けて準備を進めており、その能力もあると証言した。米政府関係者は、第3の空母打撃群(セオドア・ルーズベルト)が中央軍管轄区域に向けて展開中だと確認した。イランのアラグチ外相は、攻撃を受ければ「破滅的」な戦争になってもイランは戦うと述べたという。",
+      "en": "A source in Tehran said Iran is preparing for a \"major round of fighting\" with the US and has the capability to do so, as diplomacy falters. A US official confirmed a third carrier strike group (USS Theodore Roosevelt) is en route to the Central Command region. Iranian Foreign Minister Abbas Araghchi reportedly said Iran would fight even if it meant an \"apocalyptic\" war."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-24",
+    "headline": {
+      "ja": "エチオピアの首都で軍司令部付近に自爆型ドローン攻撃、反政府勢力の犯行と関係者",
+      "en": "Suicide drone attack targets Ethiopian military HQ area in capital, rebel alliance blamed"
+    },
+    "summary": {
+      "ja": "10月1日早朝、エチオピアの首都アディスアベバで軍司令部(トルハイロチ地区)および第24歩兵師団本部付近(キルコス地区)を狙った自爆型ドローン攻撃が発生したと伝えられた。反政府勢力「エチオピア諸民族生存のための軍事同盟」系の関係者が犯行を認めたという。連邦軍はこれと並行してアファル州でティグライ人民解放戦線(TPLF)からアバラ・エレブティ・メガレの各町を奪還したと発表した。",
+      "en": "A suicide drone attack reportedly targeted the Ethiopian military command headquarters area (Tor Hailoch) and the 24th Infantry Division HQ vicinity (Kirkos) in the capital Addis Ababa in the early hours of Oct. 1. A source linked to the rebel \"Ethiopian Peoples' Forces Alliance for Survival\" said the alliance carried out the strikes. Federal forces separately said they recaptured the towns of Abala, Erebti and Megale from the Tigray People's Liberation Front (TPLF) in the Afar region."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 9.145,
+    "lon": 40.4897,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-25",
+    "headline": {
+      "ja": "スーダン北コルドファン州で住民25人超殺害、民族的動機の疑いと医師団体",
+      "en": "Over 25 civilians killed in Sudan's North Kordofan, doctors group alleges ethnic motive"
+    },
+    "summary": {
+      "ja": "スーダン医師ネットワークは、準軍事組織RSFが北コルドファン州ウンバディル地区で住民25人以上を殺害したと発表し、SAF(国軍)側についたとの疑いをかけた上での殺害であり民族的動機を示す状況があると指摘した。RSFは民間人を標的にしていないと主張しているが、国際人権団体はこれに異論を示している。",
+      "en": "The Sudan Doctors Network said RSF paramilitary forces killed more than 25 civilians in the Umm Badir area of North Kordofan state, alleging the killings were carried out on ethnic grounds under the pretext that victims sided with the Sudanese army. The RSF maintains it does not target civilians, a claim disputed by Sudanese authorities and international rights groups."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/africa/rsf-attack-in-sudan-killed-more-than-25-civilians-in-north-kordofan-says-medical-group/4076923"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-26",
+    "headline": {
+      "ja": "スーダン・エルオベイドの大学寮にRSFドローン攻撃、5人死亡47人負傷",
+      "en": "RSF drone strike on university dormitory in Sudan's El Obeid kills 5, wounds 47"
+    },
+    "summary": {
+      "ja": "スーダン北コルドファン州都エルオベイドのコルドファン大学の学生寮に、準軍事組織RSFによるドローン攻撃があり、5人が死亡、47人が負傷したとスーダン医師ネットワークが発表した。同団体は教育施設・学生寮を標的とすることは国際人道法の重大な違反だと非難した。",
+      "en": "A drone strike by the paramilitary RSF hit a dormitory at the University of Kordofan in El Obeid, capital of Sudan's North Kordofan state, killing 5 people and wounding 47, the Sudan Doctors Network said. The group condemned the targeting of educational facilities and student housing as a grave violation of international humanitarian law."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "Sudan Tribune",
+      "url": "https://sudantribune.com/article/319476"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-03-27",
+    "headline": {
+      "ja": "ミャンマーでカレンニー州の避難民居住区に軍政側が空爆、1人死亡",
+      "en": "Myanmar junta airstrike on Karenni IDP camp kills one"
+    },
+    "summary": {
+      "ja": "ミャンマー軍政は10月3日、カレンニー州の国内避難民(IDP)居住区に空爆を行い、1人が死亡、他に負傷者が出たと伝えられた。前日の10月2日にはラカイン州ポンナギュン郡の避難民シェルターも空爆を受け、3人が負傷している。",
+      "en": "Myanmar's junta carried out an airstrike on an internally displaced persons camp in Karenni State on Oct. 3, killing one person and injuring others, reports said. A day earlier, on Oct. 2, a junta jet bombed a displaced persons' shelter in Ponnagyun Township, Rakhine (Arakan) State, wounding three civilians."
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 21.9162,
+    "lon": 95.956,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Myanmar Now",
+      "url": "https://myanmar-now.org/en/news/airstrikes-and-attacks-continue-as-myanmar-junta-presses-ahead-with-election/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-03-28",
+    "headline": {
+      "ja": "サウジ首都リヤドのアラムコ関連施設付近で大規模火災、原因は未確認",
+      "en": "Large fire reported near Aramco facility in Riyadh, cause unconfirmed"
+    },
+    "summary": {
+      "ja": "10月3日、サウジアラビアの首都リヤドにあるアラムコ関連施設付近で大規模な火災と煙が確認された。サウジ当局は原因を公式に説明しておらず、フーシ派(イエメン)もこの火災について犯行声明を出していない。推測:地域では過去にもフーシ派によるアラムコ施設への攻撃が報じられており、同様の攻撃への懸念を報じる報道も一部にあるが、現時点では未確認情報である。",
+      "en": "A large fire and plume of smoke were reported near an Aramco-linked facility in Riyadh, Saudi Arabia, on Oct. 3. Saudi authorities have not officially stated a cause, and Yemen's Houthis have not claimed responsibility. Speculation: given past reported Houthi attacks on Aramco sites in the region, some reports raise concern of a similar attack, but this remains unconfirmed."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Daily Pakistan",
+      "url": "https://en.dailypakistan.com.pk/03-Oct-2026/huge-fire-erupts-near-riyadh-aramco-site-amid-possible-houthi-attack"
+    },
+    "reliability": "unconfirmed"
   }
 ]
