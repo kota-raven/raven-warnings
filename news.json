@@ -740,5 +740,89 @@
       "url": "https://en.dailypakistan.com.pk/03-Oct-2026/huge-fire-erupts-near-riyadh-aramco-site-amid-possible-houthi-attack"
     },
     "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-04-01",
+    "headline": {
+      "ja": "フーシ派、サウジ主導連合によるサヌアへの26回の空爆を主張",
+      "en": "Houthis say Saudi-led coalition struck Sanaa with 26 airstrikes"
+    },
+    "summary": {
+      "ja": "フーシ派のアルマシーラTVは、サウジ主導連合が10月2日夜から3日にかけてイエメンの首都サヌアを26回空爆したと主張した。市内では複数の爆発音と戦闘機の飛行音が確認され、アルナフダイン・ジャバルアッタン地区周辺から煙が上がったと複数メディアが報じた。フーシ派は自派によるサウジの石油関連施設への攻撃への報復だとしているが、サウジ側の公式コメントは確認されていない。",
+      "en": "Houthi-affiliated Al-Masirah TV said the Saudi-led coalition struck Yemen's Houthi-held capital Sanaa with 26 airstrikes overnight from Oct. 2 into Oct. 3. Multiple explosions and warplane sounds were heard across the city, with smoke rising from the Al-Nahdayn and Jabal Attan areas, several outlets reported. The Houthis said the strikes were retaliation for their own attacks on Saudi oil facilities; there was no official Saudi comment."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.5527,
+    "lon": 48.5164,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Xinhua / Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261003-houthis-claim-saudi-airstrikes-targeted-sanaa-telecom-network-in-yemen/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-04-02",
+    "headline": {
+      "ja": "パキスタン、アフガン国境グラム・カーン地区で侵入武装集団15人を殺害",
+      "en": "Pakistan kills 15 militants attempting to cross from Afghanistan in Ghulam Khan sector"
+    },
+    "summary": {
+      "ja": "パキスタン治安部隊は10月3日、アフガニスタン国境のグラム・カーン地区で、越境侵入を試みた武装集団15人を発見して交戦し、全員を殺害したと発表した。侵入者には特定司令官系やワジール族系の武装勢力メンバーが含まれていたとされる。",
+      "en": "Pakistani security forces said they detected and engaged a group of 15 armed militants attempting to infiltrate from Afghanistan in the Ghulam Khan sector on Oct. 3, killing all of them. Those involved reportedly included alleged operatives linked to a named militant commander and members of the Wazir group."
+    },
+    "category": "conflict",
+    "country": "パキスタン",
+    "lat": 30.3753,
+    "lon": 69.3451,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Daily Pakistan",
+      "url": "https://en.dailypakistan.com.pk/03-Oct-2026/pakistani-forces-thwart-infiltration-attempt-along-pak-afghan-border-in-ghulam-khan-sector"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-04-03",
+    "headline": {
+      "ja": "アゼルバイジャン兵がアルメニア越境し発砲、女性負傷・兵士は訴追",
+      "en": "Azerbaijani soldier crosses into Armenia, shoots woman; charged by Armenian authorities"
+    },
+    "summary": {
+      "ja": "10月1日、アゼルバイジャン軍の兵士がアルメニア・シュニク州シサヴァン市シャキ集落で国境を越えて侵入し、39歳の女性宅で発砲、女性が脚を負傷した。居合わせた3人の子どものうち2人も負傷したとの情報がある。アルメニア当局は当該兵士(ナシミ・ムサエフ氏)を重傷害・銃器不法所持・住居侵入・不法国境越境・銃器密輸の容疑で訴追し、2か月間の未決拘留を命じた。本件発生時、アルメニア・アゼルバイジャン両国政府間では関係正常化交渉が進行中であり、この事件が交渉に与える影響は現時点では不明。",
+      "en": "On Oct. 1, an Azerbaijani soldier crossed into Armenia's Syunik province and entered a home in the Shaki settlement of Sisian municipality, opening fire and wounding a 39-year-old woman in the leg; two of her three children present were also reportedly injured. Armenian authorities charged the soldier, identified as Nasimi Musayev, with grievous bodily harm, illegal weapons possession, violation of home inviolability, illegal border crossing and firearms smuggling, and ordered him held in pretrial detention for two months. The incident occurred while Armenia-Azerbaijan normalization talks were ongoing; its effect on those talks is unclear."
+    },
+    "category": "conflict",
+    "country": "アルメニア",
+    "lat": 40.0691,
+    "lon": 45.0382,
+    "occurredAt": "2026-10-01T00:00:00+00:00",
+    "source": {
+      "name": "ARMENPRESS",
+      "url": "https://armenpress.am/en/article/1261840"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-04-04",
+    "headline": {
+      "ja": "フライドバイ副操縦士の機長襲撃、UAEが「テロ行為」と正式認定",
+      "en": "UAE formally calls Flydubai co-pilot's attack on captain a 'terrorist act'"
+    },
+    "summary": {
+      "ja": "UAEの検事総長は10月3日、9月30日にドバイ発テルアビブ行きフライドバイ機内で発生した事件について、副操縦士(オマーン国籍とされる)が救難用の斧でコックピットへの侵入を試み機体の制御を奪おうとした「テロ行為」だったと正式に認定したと発表した。乗客・乗員が副操縦士を取り押さえ、別の操縦士2人が交代して機体を制御し、サウジアラビア・タブークの空港に緊急着陸した。乗客乗員に死傷者の報告はない。",
+      "en": "The UAE's Attorney General said on Oct. 3 that the Sept. 30 incident aboard a Flydubai flight from Dubai to Tel Aviv, in which a co-pilot (reportedly an Omani national) used a crash axe in an attempt to breach the cockpit and seize control of the aircraft, has been officially classified as a 'terrorist act.' Passengers and crew subdued the co-pilot, two relief pilots took over control, and the aircraft made an emergency landing in Tabuk, Saudi Arabia. No injuries or deaths among passengers or crew were reported."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-09-30T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae"
+    },
+    "reliability": "high"
   }
 ]
