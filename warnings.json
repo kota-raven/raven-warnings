@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T05:13:54.071Z",
+  "generatedAt": "2026-10-04T11:35:40.375Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 179,
+  "count": 178,
   "warnings": [
     {
       "id": "NAVAREA11-260442",
@@ -344,6 +344,76 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263917",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3917",
+      "title": "北太平洋西部、マーシャル諸島、危険な訓練",
+      "publishedAt": "2026-10-04T20:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            167.48333333333332,
+            9.5
+          ],
+          [
+            167.91666666666666,
+            9.766666666666667
+          ],
+          [
+            168.2,
+            9.333333333333334
+          ],
+          [
+            167.55,
+            8.916666666666666
+          ],
+          [
+            167.35,
+            9.266666666666667
+          ],
+          [
+            167.55,
+            9.383333333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-3917   発表日時:2026年10月04日 20時\r\n\n\r\n北太平洋西部、マーシャル諸島、\r\r\n危険な訓練、10月9日(予備10日)0600Z-1242Z、\r\r\n09-30N 167-29E 09-46N 167-55E\r\r\n09-20N 168-12E 08-55N 167-33E\r\r\n09-16N 167-21E 09-23N 167-33Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263917&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263916",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3916",
+      "title": "済州島南（Ｄ−１４７）、射撃",
+      "publishedAt": "2026-10-04T20:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          126.33333333333333,
+          32.666666666666664
+        ]
+      },
+      "rawText": "番号:26-3916   発表日時:2026年10月04日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南、\r\r\n射撃、10月9日-11日毎日0300Z-1200Z、\r\r\n32-40N 126-20Eを中心とする半径6海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263916&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263915",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3915",
+      "title": "高知港南、射撃中止",
+      "publishedAt": "2026-10-04T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3915   発表日時:2026年10月04日 20時\r\n\n\r\n高知港南、\r\r\n射撃中止。\r\r\n(3853削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263915&LANG=JP"
     },
     {
       "id": "JAPANNW-263914",
@@ -1752,18 +1822,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263854&LANG=JP"
     },
     {
-      "id": "JAPANNW-263853",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3853",
-      "title": "高知港南、射撃",
-      "publishedAt": "2026-09-30T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3853   発表日時:2026年09月30日 20時\r\n\n\r\n高知港南、\r\r\n射撃、10月5日(予備6日)0900-2400、33-10.8N\r\r\n133-33.0Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263853&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263852",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2550,24 +2608,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263781&LANG=JP"
     },
     {
-      "id": "JAPANNW-263770",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3770",
-      "title": "済州島南西、射撃",
-      "publishedAt": "2026-09-25T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          125.81666666666666,
-          32.983333333333334
-        ]
-      },
-      "rawText": "番号:26-3770   発表日時:2026年09月25日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南西、\r\r\n射撃、9月28日、29日、10月1日毎日0100Z-1100Z、\r\r\n9月30日0400Z-1100Z、10月2日-4日毎日0100Z-1000Z、\r\r\n32-59N 125-49Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263770&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263767",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2584,42 +2624,6 @@
       },
       "rawText": "番号:26-3767   発表日時:2026年09月25日 20時\r\n\n\r\n★ 朝鮮半島東岸、鬱陵島東、\r\r\n射撃、9月27日1500Z-10月4日1459Z、\r\r\n37-30-05N 37-40-05N\r\r\n131-12-00E 131-25-00Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263767&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263757",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3757",
-      "title": "蔚山港北東（Ｄ−１１９）、射撃",
-      "publishedAt": "2026-09-25T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            129.66805555555555,
-            35.78333333333333
-          ],
-          [
-            130.20333333333332,
-            35.71666666666667
-          ],
-          [
-            130.20333333333332,
-            35.626666666666665
-          ],
-          [
-            129.86333333333332,
-            35.46555555555556
-          ],
-          [
-            129.66805555555555,
-            35.46666666666667
-          ]
-        ]
-      },
-      "rawText": "番号:26-3757   発表日時:2026年09月25日 20時\r\n\n\r\n★ 朝鮮半島東岸、蔚山港北東、\r\r\n射撃、9月28日0000Z-0900Z、29日0000Z-1300Z、\r\r\n30日0000Z-0800Z、10月2日0000Z-0700Z、4日0130Z-\r\r\n0330Z、35-47-00N 129-40-05E\r\r\n35-43-00N 130-12-12E 35-37-36N 130-12-12E\r\r\n35-27-56N 129-51-48E 35-28-00N 129-40-05E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263757&LANG=JP"
     },
     {
       "id": "JAPANNW-263754",
@@ -2660,38 +2664,6 @@
       },
       "rawText": "番号:26-3754   発表日時:2026年09月25日 20時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、9月27日2300Z-翌日0900Z、29日0100Z-0900Z、\r\r\n2300Z-翌日0900Z、10月1日、2日毎日0100Z-0700Z、\r\r\n3日、4日毎日0500Z-1100Z、34-41-04N 128-43-27E \r\r\n34-46-06N 128-50-31E 34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E 34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263754&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263753",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3753",
-      "title": "済州島東（Ｄ−１１８）、射撃",
-      "publishedAt": "2026-09-25T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            127.66666666666667,
-            34
-          ],
-          [
-            128.5,
-            34
-          ],
-          [
-            127.83333333333333,
-            33.166666666666664
-          ],
-          [
-            127.66666666666667,
-            33.166666666666664
-          ]
-        ]
-      },
-      "rawText": "番号:26-3753   発表日時:2026年09月25日 20時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、9月29日、30日毎日0500Z-0900Z、10月3日、4日\r\r\n毎日0400Z-0800Z、\r\r\n34-00N 127-40E 34-00N 128-30E\r\r\n33-10N 127-50E 33-10N 127-40Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263753&LANG=JP"
     },
     {
       "id": "JAPANNW-263736",
@@ -3326,6 +3298,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261892",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1892",
+      "title": "高知港南、射撃中止",
+      "publishedAt": "2026-10-04T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1892    発表日時:2026年10月04日 17時\r\n\n\r\n高知港南、\r\r\n射撃中止。\r\r\n(1871削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261892&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261887",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3570,18 +3554,6 @@
       },
       "rawText": "番号:26-1876    発表日時:2026年10月01日 13時\r\n\n\r\n野島埼南東、\r\r\n射撃、10月6日(予備7日)0800-1800、\r\r\n34-35-12N 140-16-48E \r\r\n34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E \r\r\n34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E \r\r\n33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261876&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261871",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1871",
-      "title": "高知港南、射撃",
-      "publishedAt": "2026-09-30T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1871    発表日時:2026年09月30日 13時\r\n\n\r\n高知港南、\r\r\n射撃、10月5日(予備6日)0900-2400、\r\r\n33-10.8N 133-33.0Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261871&LANG=JP"
     },
     {
       "id": "NAVTEX-261870",
