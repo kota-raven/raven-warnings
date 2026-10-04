@@ -232,69 +232,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-10-03-04",
-    "headline": {
-      "ja": "露のドローン攻撃でキーウ2人死亡、南部橋に3度着弾",
-      "en": "Russian drone strikes kill 2 in Kyiv, hit Southern Bridge three times"
-    },
-    "summary": {
-      "ja": "キーウ市長によると、ロシアの無人機攻撃により市内(大学周辺地域含む)で2人が死亡、25人が負傷した。南部橋には数時間のうちに3回着弾し、他2つの橋にも通行規制が拡大した。",
-      "en": "According to Kyiv's mayor, Russian drone strikes on the city, including near a university area, killed two people and injured 25. The Southern Bridge was hit three times within a few hours, and traffic restrictions spread to two other Dnipro crossings."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "報道集約(キーウ市長発表)",
-      "url": "https://www.cnn.com/world/europe/ukraine"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-03-05",
-    "headline": {
-      "ja": "ウクライナ、露サマラ州等の石油施設を攻撃",
-      "en": "Ukraine strikes Russian oil facilities in Samara region and elsewhere"
-    },
-    "summary": {
-      "ja": "ゼレンスキー大統領は、露サマラ州の石油施設、オリョール州の攻撃用ドローン発射・貯蔵拠点、ブリャンスク州の軍需補給基地、黒海の目標を攻撃したと発表した。プーチン大統領は石油精製施設への攻撃で露のGDPの1%相当の損失が出たと述べ、報復していると発言した。",
-      "en": "President Zelensky said Ukraine struck an oil facility in Russia's Samara region, a drone launch/storage site in Oryol, a military supply depot in Bryansk, and a target in the Black Sea. Putin said strikes on Russian oil refineries had cost about 1% of GDP and that Russia was responding in kind."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 61.524,
-    "lon": 105.3188,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "報道集約(ゼレンスキー/プーチン発言)",
-      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-03-06",
-    "headline": {
-      "ja": "英RAF基地近くでテロ容疑、首相「イラン関与の強い兆候」",
-      "en": "UK terror plot near RAF base; PM cites 'strong indications' of Iran"
-    },
-    "summary": {
-      "ja": "英RAFフェアフォード基地付近で男5人がテロ・爆発物関連容疑で逮捕された(車両からガソリンを発見、爆発物は未発見)。バーナム英首相は「イランが関与した強い兆候がある」と述べたが詳細は明らかにしていない。推測:イランの関与は英側の主張であり確定事実ではない。イラン外務省・外相は関与を強く否定している。",
-      "en": "Five men were arrested near RAF Fairford on suspicion of terrorism and explosives offences (petrol was found in vehicles, no explosives). UK PM Burnham said there are 'strong indications' Iran played a part, without detailing evidence. Speculation: Iran's involvement is a UK claim, not an established fact. Iran's foreign ministry and FM have strongly denied any role."
-    },
-    "category": "conflict",
-    "country": "イギリス",
-    "lat": 55.3781,
-    "lon": -3.436,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera/NBC News等の報道集約",
-      "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-03-08",
     "headline": {
       "ja": "ゼレンスキー氏の国連演説発言で韓国・ウクライナ間に摩擦",
@@ -314,27 +251,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-10-03-09",
-    "headline": {
-      "ja": "パキスタン軍、アフガン領内を空爆 民間人死亡と国連報告",
-      "en": "Pakistan airstrikes in Afghanistan kill civilians, UN mission says"
-    },
-    "summary": {
-      "ja": "パキスタン軍は、パキスタン・タリバン運動(TTP)やバルチスタン解放軍の拠点とされるアフガニスタン・ヘルマンド州およびクナール州を空爆した。国連アフガニスタン支援ミッションは、この空爆で少なくとも民間人10人が死亡、9人が負傷し、死者の大半が子どもだったと報告している。",
-      "en": "Pakistan's military carried out airstrikes on sites in Afghanistan's Helmand and Kunar provinces described as camps used by the Pakistani Taliban (TTP) and the Balochistan Liberation Army. The UN Assistance Mission in Afghanistan reported the strikes killed at least 10 civilians and injured nine, with most of those killed being children."
-    },
-    "category": "conflict",
-    "country": "アフガニスタン",
-    "lat": 33.9391,
-    "lon": 67.71,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "国連アフガニスタン支援ミッション(UNAMA)報道",
-      "url": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-10-03-10",
@@ -637,27 +553,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-10-03-24",
-    "headline": {
-      "ja": "エチオピアの首都で軍司令部付近に自爆型ドローン攻撃、反政府勢力の犯行と関係者",
-      "en": "Suicide drone attack targets Ethiopian military HQ area in capital, rebel alliance blamed"
-    },
-    "summary": {
-      "ja": "10月1日早朝、エチオピアの首都アディスアベバで軍司令部(トルハイロチ地区)および第24歩兵師団本部付近(キルコス地区)を狙った自爆型ドローン攻撃が発生したと伝えられた。反政府勢力「エチオピア諸民族生存のための軍事同盟」系の関係者が犯行を認めたという。連邦軍はこれと並行してアファル州でティグライ人民解放戦線(TPLF)からアバラ・エレブティ・メガレの各町を奪還したと発表した。",
-      "en": "A suicide drone attack reportedly targeted the Ethiopian military command headquarters area (Tor Hailoch) and the 24th Infantry Division HQ vicinity (Kirkos) in the capital Addis Ababa in the early hours of Oct. 1. A source linked to the rebel \"Ethiopian Peoples' Forces Alliance for Survival\" said the alliance carried out the strikes. Federal forces separately said they recaptured the towns of Abala, Erebti and Megale from the Tigray People's Liberation Front (TPLF) in the Afar region."
-    },
-    "category": "conflict",
-    "country": "エチオピア",
-    "lat": 9.145,
-    "lon": 40.4897,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-03-25",
     "headline": {
       "ja": "スーダン北コルドファン州で住民25人超殺害、民族的動機の疑いと医師団体",
@@ -677,27 +572,6 @@
       "url": "https://www.aa.com.tr/en/africa/rsf-attack-in-sudan-killed-more-than-25-civilians-in-north-kordofan-says-medical-group/4076923"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-10-03-26",
-    "headline": {
-      "ja": "スーダン・エルオベイドの大学寮にRSFドローン攻撃、5人死亡47人負傷",
-      "en": "RSF drone strike on university dormitory in Sudan's El Obeid kills 5, wounds 47"
-    },
-    "summary": {
-      "ja": "スーダン北コルドファン州都エルオベイドのコルドファン大学の学生寮に、準軍事組織RSFによるドローン攻撃があり、5人が死亡、47人が負傷したとスーダン医師ネットワークが発表した。同団体は教育施設・学生寮を標的とすることは国際人道法の重大な違反だと非難した。",
-      "en": "A drone strike by the paramilitary RSF hit a dormitory at the University of Kordofan in El Obeid, capital of Sudan's North Kordofan state, killing 5 people and wounding 47, the Sudan Doctors Network said. The group condemned the targeting of educational facilities and student housing as a grave violation of international humanitarian law."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 12.8628,
-    "lon": 30.2176,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "Sudan Tribune",
-      "url": "https://sudantribune.com/article/319476"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-10-03-27",
@@ -780,48 +654,6 @@
     "source": {
       "name": "Daily Pakistan",
       "url": "https://en.dailypakistan.com.pk/03-Oct-2026/pakistani-forces-thwart-infiltration-attempt-along-pak-afghan-border-in-ghulam-khan-sector"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-04-03",
-    "headline": {
-      "ja": "アゼルバイジャン兵がアルメニア越境し発砲、女性負傷・兵士は訴追",
-      "en": "Azerbaijani soldier crosses into Armenia, shoots woman; charged by Armenian authorities"
-    },
-    "summary": {
-      "ja": "10月1日、アゼルバイジャン軍の兵士がアルメニア・シュニク州シサヴァン市シャキ集落で国境を越えて侵入し、39歳の女性宅で発砲、女性が脚を負傷した。居合わせた3人の子どものうち2人も負傷したとの情報がある。アルメニア当局は当該兵士(ナシミ・ムサエフ氏)を重傷害・銃器不法所持・住居侵入・不法国境越境・銃器密輸の容疑で訴追し、2か月間の未決拘留を命じた。本件発生時、アルメニア・アゼルバイジャン両国政府間では関係正常化交渉が進行中であり、この事件が交渉に与える影響は現時点では不明。",
-      "en": "On Oct. 1, an Azerbaijani soldier crossed into Armenia's Syunik province and entered a home in the Shaki settlement of Sisian municipality, opening fire and wounding a 39-year-old woman in the leg; two of her three children present were also reportedly injured. Armenian authorities charged the soldier, identified as Nasimi Musayev, with grievous bodily harm, illegal weapons possession, violation of home inviolability, illegal border crossing and firearms smuggling, and ordered him held in pretrial detention for two months. The incident occurred while Armenia-Azerbaijan normalization talks were ongoing; its effect on those talks is unclear."
-    },
-    "category": "conflict",
-    "country": "アルメニア",
-    "lat": 40.0691,
-    "lon": 45.0382,
-    "occurredAt": "2026-10-01T00:00:00+00:00",
-    "source": {
-      "name": "ARMENPRESS",
-      "url": "https://armenpress.am/en/article/1261840"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-04-04",
-    "headline": {
-      "ja": "フライドバイ副操縦士の機長襲撃、UAEが「テロ行為」と正式認定",
-      "en": "UAE formally calls Flydubai co-pilot's attack on captain a 'terrorist act'"
-    },
-    "summary": {
-      "ja": "UAEの検事総長は10月3日、9月30日にドバイ発テルアビブ行きフライドバイ機内で発生した事件について、副操縦士(オマーン国籍とされる)が救難用の斧でコックピットへの侵入を試み機体の制御を奪おうとした「テロ行為」だったと正式に認定したと発表した。乗客・乗員が副操縦士を取り押さえ、別の操縦士2人が交代して機体を制御し、サウジアラビア・タブークの空港に緊急着陸した。乗客乗員に死傷者の報告はない。",
-      "en": "The UAE's Attorney General said on Oct. 3 that the Sept. 30 incident aboard a Flydubai flight from Dubai to Tel Aviv, in which a co-pilot (reportedly an Omani national) used a crash axe in an attempt to breach the cockpit and seize control of the aircraft, has been officially classified as a 'terrorist act.' Passengers and crew subdued the co-pilot, two relief pilots took over control, and the aircraft made an emergency landing in Tabuk, Saudi Arabia. No injuries or deaths among passengers or crew were reported."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 23.8859,
-    "lon": 45.0792,
-    "occurredAt": "2026-09-30T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae"
     },
     "reliability": "high"
   },
@@ -974,5 +806,94 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-04-12",
+    "headline": {
+      "ja": "エチオピア連邦軍、ティグライ州メケレの空港を再制圧 市内の制圧状況は不明",
+      "en": "Ethiopian federal forces retake Mekelle airport in Tigray; control of the city itself remains unclear"
+    },
+    "summary": {
+      "ja": "エチオピア連邦軍は10月3日、ティグライ州の州都メケレにあるアルラ・アバ・ネガ空港を、ティグライ人民解放戦線(TPLF)系の戦闘員から奪還したと発表した。これは今月以降続く連邦軍とティグライ側武装勢力との戦闘(既報)における大きな進展で、連邦政府側に協力する「ティグライ治安部隊」がメケレ南方の要衝アラマタを制圧したことが、メケレへの北進を可能にしたとされる。AFPの取材に対し現地記者は、TPLFの指導部・戦闘員が市外へ退避しているとの情報があるとしつつ、メケレ市街地そのものの制圧状況は本稿時点で確認が取れていないとしている。国境なき医師団は9月22日以降で負傷者720人超、アルジャジーラは民間人少なくとも52人の死亡を伝えている。推測:今回の空港奪還が市街戦の激化やメケレ陥落につながるかどうかは、本稿時点では未確定である。",
+      "en": "Ethiopian federal forces announced on October 3 that they had retaken Alula Aba Nega Airport in Mekelle, the capital of Tigray region, from fighters aligned with the Tigray People's Liberation Front (TPLF). This marks a major development in fighting between federal forces and Tigrayan armed groups that has continued since last week (previously reported); the Tigray Peace Force, aligned with the federal government, captured the strategic town of Alamata to the south, reportedly enabling the push north toward Mekelle. A journalist in Mekelle told AFP that TPLF leaders and fighters were reportedly leaving, but control of the city itself remains unconfirmed as of this writing. Doctors Without Borders reports more than 720 wounded since September 22, and Al Jazeera reports at least 52 civilians killed. Speculation: whether this airport recapture will lead to intensified urban fighting or the fall of Mekelle remains unconfirmed at this time."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "region": "ティグライ州(メケレ)",
+    "lat": 13.4967,
+    "lon": 39.4697,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / AFP報道(各地現地紙転載) / Doctors Without Borders",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-04-13",
+    "headline": {
+      "ja": "サウジ、フーシ派からバベルマンデブ海峡を奪還する10万人規模の地上作戦を計画と報道",
+      "en": "Saudi Arabia reportedly planning 100,000-troop ground offensive to retake Bab el-Mandeb from Houthis"
+    },
+    "summary": {
+      "ja": "ロイター通信は10月3日、関係者6人の話として、サウジアラビアがイエメン政府軍を主体とする10万人規模の地上部隊(サウジが指揮・サウジ空軍が支援)を投入し、フーシ派が先月制圧した紅海沿岸地域とバベルマンデブ海峡を奪還する大規模な反攻作戦を計画していると報じた。作戦はバベルマンデブ海峡周辺に絞る案と、アルバイダ・マアリブ・タイズ・アルジャウフ各州での同時攻勢を組み合わせる案の2通りが検討されており、開始時期は「1週間以内」から「11月の米中間選挙後」まで関係者の見立てが分かれている。サウジ側は、フーシ派が同海峡を支配したままでは和平交渉の継続は成り立たないと判断したとされる。これに関連し、サウジ主導連合は10月4日、過去24時間でフーシ派戦闘員700人を殺害したと主張している(サウジ側の一方的発表で、独立した確認は取れていない)。推測:計画が実行されれば、現在の代理戦争的な攻防から、紅海の主要航路を巡る大規模な地上戦に発展する可能性がある。",
+      "en": "Reuters reported on October 3, citing six sources, that Saudi Arabia is planning a large-scale counteroffensive using more than 100,000 Yemeni government troops under Saudi direction and backed by Saudi air power, to retake the Red Sea coastal areas and the Bab el-Mandeb strait that the Houthis seized last month. Officials are weighing two options: an operation focused around Bab el-Mandeb, or a wider offensive combining that with simultaneous attacks in Al-Bayda, Marib, Taiz and Al-Jawf. Estimates on timing range from within a week to after the US midterm elections in November. Riyadh reportedly concluded that peace talks cannot proceed while the Houthis control the strait. Separately, the Saudi-led coalition claimed on October 4 to have killed 700 Houthi fighters in the preceding 24 hours (a one-sided Saudi claim that has not been independently verified). Speculation: if carried out, the plan could escalate the current proxy-style confrontation into a large-scale ground war over a key Red Sea shipping route."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "バベルマンデブ海峡",
+    "lat": 12.6,
+    "lon": 43.3,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Reuters報道(Axios / Outlook India / BusinessToday 等転載)",
+      "url": "https://www.axios.com/2026/10/02/saudis-yemen-houthis-bab-al-mandeb-strait"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-04-14",
+    "headline": {
+      "ja": "スーダン軍、北コルドファンの要衝を奪還 南コルドファンでは幹線道路が再び封鎖",
+      "en": "Sudanese army recaptures key North Kordofan town as road to South Kordofan's Kadugli is cut again"
+    },
+    "summary": {
+      "ja": "スーダン国軍(SAF)は、北コルドファン州の要衝アルマズルーブを激戦の末に奪還したと発表した。同地は即応支援部隊(RSF)の戦闘員・補給路にとって重要な地点とされる。一方、南コルドファン州では、RSFと連携するとされるスーダン人民解放運動・北部(SPLM-N、アブドルアジズ・アルヒルー氏派)が、州都カドゥグリとディリングを結ぶ幹線道路を遮断したと発表した。同道路は10か月前にスーダン国軍が再開通させていたもので、両都市は再び事実上の封鎖下に置かれる形となった。南コルドファンでは別途、RSFによるドローン攻撃で35人が死亡したとも報じられている。現地の人道状況は既に深刻で、ディリングでは食料不足による飢餓の事例が報告されている。推測:軍事専門家は、SPLM-NとRSFが南コルドファンの残る政府支配地域の完全制圧に向けた連携地上作戦を準備している可能性があると指摘しているが、確度は不明。",
+      "en": "Sudan's armed forces (SAF) announced it had recaptured the key North Kordofan town of al-Mazroub after fierce fighting, a location described as important to Rapid Support Forces (RSF) fighter movement and supply routes. Separately in South Kordofan, the Sudan People's Liberation Movement-North (SPLM-N, the al-Hilu faction), reportedly coordinating with the RSF, announced it had cut the main road linking state capital Kadugli and Dilling — a route the Sudanese army had reopened ten months earlier — effectively reimposing a blockade on both cities. A separate RSF drone strike reportedly killed 35 people in South Kordofan. The humanitarian situation in the area is already severe, with reported starvation cases in Dilling amid dwindling food supplies. Speculation: military analysts suggest SPLM-N and RSF may be preparing a coordinated ground offensive to take full control of remaining government-held enclaves in South Kordofan, though the certainty of this is unclear."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "region": "北コルドファン州・南コルドファン州",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / Sudan Tribune / Dabanga Radio TV Online",
+      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-04-15",
+    "headline": {
+      "ja": "イラン国会議長、ホルムズ海峡の再開には「7条件」の履行が必要と発言",
+      "en": "Iran's parliament speaker says reopening of Strait of Hormuz requires seven conditions to be met"
+    },
+    "summary": {
+      "ja": "イラン国会議長モハマド・バゲル・ガリバフ氏は10月4日、国会審議の中で、ホルムズ海峡は「イスラマバード覚書」に基づくイラン側の7条件が満たされるまで封鎖を継続すると発言した。同覚書は今年6月、パキスタンの仲介によりまとめられた米・イラン間の暫定合意に基づくもので、報道によれば条件には各戦線での軍事作戦の停止、イランに対する海上封鎖の解除、ホルムズ海峡に対するイランの主権の確立などが含まれるとされるが、7条件の全容は本稿時点の報道では明らかにされていない。米・イラン両国は、どちらが先に何を履行すべきかで対立が続いており、米側は核開発問題も論点に含めることを求めている。",
+      "en": "Iran's parliament speaker Mohammad Baqer Qalibaf said on October 4, during a parliamentary session, that the Strait of Hormuz will remain closed until Iran's seven conditions under the Pakistan-mediated 'Islamabad memorandum' are met. That memorandum stems from an interim US-Iran agreement reached in June with Pakistan hosting the process. Reporting indicates the conditions include ending military operations on various fronts, lifting the naval blockade against Iran, and establishing Iranian sovereignty over the strait, though the full list of seven conditions has not been detailed in reporting as of this writing. The US and Iran remain divided over sequencing, with Washington also seeking to keep Iran's nuclear program on the agenda."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-04T00:00:00+00:00",
+    "source": {
+      "name": "Arab News / Pajhwok Afghan News / Kurdistan24 等報道集約",
+      "url": "https://www.arabnews.com/middle-east/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-3004533"
+    },
+    "reliability": "high"
   }
 ]
