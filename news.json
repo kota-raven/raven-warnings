@@ -917,5 +917,49 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-05-01",
+    "headline": {
+      "ja": "エチオピア連邦軍、ティグライ州都メケレを完全制圧 TPLF指導部は退避",
+      "en": "Ethiopian federal forces seize full control of Tigray capital Mekelle, TPLF leadership withdraws"
+    },
+    "summary": {
+      "ja": "エチオピア連邦軍および連合部隊は、ティグライ人民解放戦線(TPLF)系戦闘員からティグライ州都メケレを完全に制圧したと複数メディアが報じた。既報(10/4 23時台、空港のみ再制圧・市内の制圧状況は不明)から進展し、TPLF側も声明でメケレからの撤退と、州政府機能を一時的に他地域へ移転する方針を認めたとされる。9月23日に始まったTPLF側の攻勢開始以降、最大の軍事的転換点であり、2020〜2022年のティグライ戦争以来最悪の武力衝突の一つの局面が区切りを迎えたとみられる。",
+      "en": "Multiple media outlets reported that Ethiopian federal forces and allied militias have taken full control of Mekelle, the capital of the Tigray region, from Tigray People's Liberation Front (TPLF) fighters. This advances on the previous report (as of the 23:00 JST Oct 4 collection) that only the airport had been retaken with the city's status unclear. The TPLF reportedly acknowledged its withdrawal from Mekelle and said the regional government would temporarily relocate. This marks the biggest military turning point since the TPLF-led offensive began on September 23, and a milestone in what is described as the worst escalation since the 2020-2022 Tigray war."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "region": "メケレ(ティグライ州)",
+    "lat": 13.4967,
+    "lon": 39.4697,
+    "occurredAt": "2026-10-04T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / US News / Somali Guardian",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-05-02",
+    "headline": {
+      "ja": "イスラエル軍、ガザ地区ハンユニスでハマス指揮官を空爆で殺害と発表",
+      "en": "Israeli military says it killed Hamas commander in airstrike in Khan Younis, Gaza"
+    },
+    "summary": {
+      "ja": "イスラエル軍は、ガザ地区南部ハンユニスで実施した空爆により、ハマス軍事部門の指揮官ムアード・ガマール・アブー・ヌセイラ氏を殺害したと発表した。イスラエル側は同氏を「ハンユニス旅団」の指揮官と説明しているが、パレスチナ側の報道では同氏をバニ・スヘイラ自治体の職員としており、組織内の役職については独立した確認が取れていない。",
+      "en": "The Israeli military said an airstrike in Khan Younis, southern Gaza, killed Muad Gamal Abu Nuseira, whom it described as a commander in Hamas's military wing. Palestinian reports instead identified him as an employee of the Bani Suheila municipality; neither characterization of his alleged organizational role has been independently verified."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ハンユニス(ガザ地区南部)",
+    "lat": 31.3469,
+    "lon": 34.3029,
+    "occurredAt": "2026-10-04T00:00:00+00:00",
+    "source": {
+      "name": "The Jerusalem Post / The Times of Israel",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-908376"
+    },
+    "reliability": "medium"
   }
 ]
