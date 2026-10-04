@@ -824,5 +824,68 @@
       "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-04-05",
+    "headline": {
+      "ja": "ホルムズ海峡付近でタンカー2隻が被弾",
+      "en": "Two oil tankers struck near Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "10月3日、ホルムズ海峡周辺で原油タンカー2隻が相次いで「身元不明の飛来物」により被弾した。1隻目は船内で小規模な火災・停電が発生したが後に消火され航行を継続、2隻目はオマーン沖で未確認の飛来物を受けたが乗員に負傷はなく環境被害も確認されていない。攻撃の実行者は明らかになっていない。",
+      "en": "On October 3, two oil tankers near the Strait of Hormuz were struck in succession by \"unidentified projectiles.\" The first vessel suffered a small onboard fire and blackout, later extinguished, and resumed its voyage; the second was struck by an unknown projectile off Oman, with no crew injuries or environmental damage reported. The attacker has not been identified."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "報道集約(Malay Mail, Iran International, IranWire)",
+      "url": "https://www.malaymail.com/amp/news/world/2026/10/03/two-oil-tankers-struck-by-unidentified-projectiles-near-strait-of-hormuz/237456"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-04-06",
+    "headline": {
+      "ja": "露、キーウの北側橋にも攻撃 3日連続のインフラ攻撃で死者6人に",
+      "en": "Russia strikes Kyiv's Northern Bridge as infrastructure attacks enter third day, toll rises to six"
+    },
+    "summary": {
+      "ja": "10月3日朝、ロシア軍はキーウ市内のドニプロ川にかかる「北側橋」をジェット推進型ドローンで攻撃し、路面と市電用電線を損傷、通行が停止した。ロシア国防省は同橋がウクライナ軍の部隊・物資移動に使われているとして攻撃を認め、キーウ州内の兵站拠点も合わせて攻撃したと発表した。前日には南側橋が24時間以内に5回攻撃され、ドニプロ川にかかる6本の道路橋のうち3本が全面または部分的に閉鎖された。3日間続くキーウへの攻撃による死者は計6人に達したと報じられている。",
+      "en": "On the morning of October 3, Russian forces struck Kyiv's \"Northern Bridge\" over the Dnipro with a jet-powered drone, damaging the road surface and trolleybus power lines and halting traffic. Russia's defense ministry acknowledged the strike, saying the bridge was used to move Ukrainian troops and supplies, and said it also hit a logistics hub in Kyiv region. The previous day, the Southern Bridge was hit five times within 24 hours, leaving three of the capital's six Dnipro road bridges fully or partially closed. The death toll from three straight days of attacks on Kyiv has reportedly reached six."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "報道集約(ITV News, Al Jazeera, Meduza)",
+      "url": "https://www.itv.com/news/2026-10-03/russia-strikes-second-major-bridge-in-kyiv-as-six-killed-in-ukrainian-capital"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-04-07",
+    "headline": {
+      "ja": "ミャンマー国軍、300両超の車列で北部サガイン地方へ進軍",
+      "en": "Myanmar junta sends 300-vehicle convoy into northern Sagaing Region"
+    },
+    "summary": {
+      "ja": "ミャンマーの独立系メディアによると、10月2日、国軍の車両300両超からなる大規模な車列がサガイン地方ティーチャイン(Tigyaing)に到達し、歩兵部隊もさらに北方のカター(Katha)方面へ進軍しているという。これに先立つ10月1日には、サガイン地方北部での国軍による一連の空爆で民間人少なくとも8人が死亡、10人が負傷したとも報じられている。",
+      "en": "According to independent Myanmar media, on October 2 a junta military convoy of more than 300 vehicles arrived at Tigyaing in Sagaing Region, with infantry columns pushing further north toward Katha. This followed reports that, on October 1, a series of junta airstrikes in northern Sagaing Region killed at least eight civilians and injured ten others."
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 21.9162,
+    "lon": 95.956,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "Euro-Burma Office / Mizzima",
+      "url": "https://euro-burma.eu/military-convoy-of-over-300-vehicles-advances-toward-katha-as-junta-columns-enter-northern-sagaing-region/"
+    },
+    "reliability": "medium"
   }
 ]
