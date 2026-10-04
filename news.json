@@ -910,5 +910,69 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-04-09",
+    "headline": {
+      "ja": "フーシ派、リヤドのアラムコ施設攻撃を主張 サウジ主導連合は否定",
+      "en": "Houthis claim strike on Aramco facility in Riyadh; Saudi-led coalition denies it"
+    },
+    "summary": {
+      "ja": "フーシ派軍事報道官ヤヒヤ・サリア氏は10月3日、弾道ミサイルとドローンによる軍事作戦でサウジアラビアの首都リヤドにあるアラムコの拠点を「精密かつ直接」攻撃し火災が発生したと主張した。サウジ主導連合によるイエメン・サヌアへの空爆への報復だとしている。リヤド南部のアラムコ関連施設付近で大規模な火災・黒煙が発生したこと自体は複数メディアの映像で確認されているが(既報:2026-10-03)、サウジ・アラムコ側からの公式な被害確認は行われていない。サウジ主導連合の報道官は、フーシ派の「リヤド攻撃」主張を「ミスリーディングなプロパガンダ」であり、イエメン政府軍寄り部隊による攻勢での劣勢を誤魔化すための「虚構の勝利」演出だと述べ、攻撃の実在を否定した。",
+      "en": "Houthi military spokesman Yahya Saree said on October 3 that the group carried out a \"precise and direct\" ballistic missile and drone strike on an Aramco facility in Riyadh, causing fires, in retaliation for Saudi-led coalition airstrikes on Sanaa. Footage showing a large fire and smoke near an Aramco-linked site south of Riyadh (previously reported Oct 3) has circulated, but there has been no official Saudi or Aramco confirmation of damage. A Saudi-led coalition spokesman dismissed the Houthi claim as \"misleading propaganda,\" calling it an \"illusory victory\" meant to distract from setbacks against Yemeni government-aligned forces, and denied the attack occurred."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / Daily Pakistan / The Nation 等の報道集約",
+      "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-04-10",
+    "headline": {
+      "ja": "モルドバ領内でロシアのミサイル・ドローン5発が爆発、サンドゥ大統領が非難",
+      "en": "Five Russian missiles and drones explode on Moldovan territory, President Sandu condemns"
+    },
+    "summary": {
+      "ja": "モルドバのマイア・サンドゥ大統領は、ロシアによるウクライナへの夜間攻撃に関連し、ミサイル3発・無人機2発の計5発がモルドバ領空を侵犯し領内で爆発したと10月3日に発表した。アネニー・ノイ、シュテファン・ヴォダ、トゥドラ、カウシェニ各地付近で無人機が探知され、その後複数の村・町付近で爆発が報告された。人的被害は確認されていないが、破片により火災が発生した。モルドバ政府は、ロシア・イラン製とされるミサイル・ドローンによる領空侵犯が今年多発しているとして、ロシア大使を短期間に2度召喚した。",
+      "en": "Moldovan President Maia Sandu said on October 3 that five Russian air weapons — three missiles and two drones — violated Moldovan airspace and exploded on its territory during Russia's overnight attack on Ukraine. Drones were tracked near Anenii Noi, Stefan Voda, Tudora and Causeni, with explosions later reported near several villages and towns. No casualties were reported, though debris caused a fire. Moldova's government said it has summoned the Russian ambassador twice in a short period over a surge of airspace violations by Russian and Iranian-made missiles and drones this year."
+    },
+    "category": "conflict",
+    "country": "モルドバ",
+    "lat": 47.4116,
+    "lon": 28.3699,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent / Al Arabiya English 等の報道集約",
+      "url": "https://kyivindependent.com/5-russian-missiles-and-drones-exploded-over-moldovas-airspace-sandu-says/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-04-11",
+    "headline": {
+      "ja": "エチオピア・エリトリア・エジプトの緊張激化、ティグライで戦闘再燃 AUが自制要求",
+      "en": "Ethiopia-Eritrea-Egypt tensions escalate as Tigray fighting reportedly resumes; AU urges restraint"
+    },
+    "summary": {
+      "ja": "アフリカ連合(AU)委員会は10月1日、エチオピア・エリトリア・エジプトの間で緊張が急速に高まっているとして、3か国に対し情勢をさらに不安定化させる行動・発言を控えるよう求める声明を発表した。背景として、エチオピアがアディスアベバのエリトリア大使館を閉鎖しエリトリア外交官10人を国外退去処分としたことを受けエリトリアがエチオピアとの外交関係を断絶(既報:2026-10-02)、さらにエチオピアがエジプト外交官1人を追放、エジプトもエチオピア大使館職員を追放する応酬となっている。複数メディアによると、エチオピアは先週以降ティグライ地方北部で連邦軍と武装反政府勢力の戦闘が再燃したと主張し、エジプト・エリトリア・スーダンがこれらの反政府勢力を支援していると非難している。推測:専門家は、2020〜2022年のティグライ戦争(数十万人規模の死者)以来最大規模の武力衝突再燃となる可能性があり、紅海の海運にも影響しうるホーン・オブ・アフリカ全域への拡大を懸念していると指摘するが、現時点で戦闘の実際の規模・確度は未確定である。エジプトは10月3日、AUの声明がエチオピア国内危機にエジプトを引き込むものだと反発し、エチオピア側の発言は国内危機から目をそらす狙いだと主張した。",
+      "en": "The African Union Commission issued a statement on October 1 urging Ethiopia, Eritrea and Egypt to exercise maximum restraint amid rapidly rising tensions. The trigger was Ethiopia's closure of Eritrea's embassy in Addis Ababa and expulsion of 10 Eritrean diplomats, after which Eritrea severed diplomatic ties with Ethiopia (previously reported Oct 2); Ethiopia also expelled an Egyptian diplomat, and Egypt reciprocated by expelling an Ethiopian embassy official. Multiple outlets report Ethiopia says fighting has resumed since last week between federal troops and armed opposition groups in northern Tigray, and accuses Egypt, Eritrea and Sudan of backing those groups. Speculation: experts quoted say this could be the biggest outbreak of violence since the 2020-2022 Tigray war, which killed hundreds of thousands, and fear it could spill into a wider Horn of Africa conflict affecting Red Sea shipping, though the actual scale and certainty of renewed fighting remain unconfirmed at this time. Egypt pushed back on Oct 3, saying the AU statement improperly drew it into an internal Ethiopian crisis and that Ethiopia's statements aim to divert attention from domestic troubles."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 9.145,
+    "lon": 40.4897,
+    "occurredAt": "2026-10-03T00:00:00+00:00",
+    "source": {
+      "name": "African Union Commission声明 / Semafor / allAfrica 等の報道集約",
+      "url": "https://au.int/en/pressreleases/20261001/statement-auc-escalating-tensions-between-ethiopia-eritrea-and-egypt"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
