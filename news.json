@@ -895,5 +895,27 @@
       "url": "https://www.arabnews.com/middle-east/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-3004533"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-04-16",
+    "headline": {
+      "ja": "イエメン政府、フーシ派からの領土奪還を目指す軍事作戦の開始を発表",
+      "en": "Yemen's government announces launch of military operation to retake Houthi-held territory"
+    },
+    "summary": {
+      "ja": "イエメン大統領指導委員会(PLC)議長ラシャド・アル=アリミ氏は10月4日、テレビ演説で、フーシ派が支配する残存地域を奪還するための軍事作戦の「開始」を正式に発表し、全軍・治安部隊に承認済みの計画の遂行を命じた。デエスカレーションの機会は尽き、フーシ派側が動員・エスカレーションで応じたためだと説明した。これに先立ち、イエメン軍は10月3日に257回の精密攻撃を実施し、初期推計でフーシ派側に少なくとも700人の死傷者が出たとしている(イエメン政府側の発表であり独立した確認は取れていない)。",
+      "en": "Yemen's Presidential Leadership Council chairman Rashad al-Alimi formally announced in a televised address on October 4 the launch of a military operation to retake remaining Houthi-held territory, ordering the armed and security forces to carry out an approved plan. He said all avenues for de-escalation had been exhausted and accused the Houthis of responding with further mobilization and escalation. Yemeni forces reportedly carried out 257 precision strikes on October 3, with initial estimates putting Houthi casualties at at least 700 (a government claim that has not been independently verified)."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.5527,
+    "lon": 48.5164,
+    "occurredAt": "2026-10-04T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / Arab News / Asharq Al-Awsat / Bloomberg 等報道集約",
+      "url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
