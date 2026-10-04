@@ -887,5 +887,28 @@
       "url": "https://euro-burma.eu/military-convoy-of-over-300-vehicles-advances-toward-katha-as-junta-columns-enter-northern-sagaing-region/"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-04-08",
+    "headline": {
+      "ja": "トランプ政権高官、キャンプデービッドで極秘会合 イラン・イエメン対応を協議",
+      "en": "Trump national security team holds secret Camp David meeting on Iran, Yemen"
+    },
+    "summary": {
+      "ja": "トランプ政権の国家安全保障チームが10月2日、キャンプデービッドで非公表の会合を開き、イラン戦争とサウジ・フーシ派(イエメン)紛争への対応を協議したと10月3日付で複数メディアが報じた。会合はJ.D.バンス副大統領が主催し、ルビオ国務長官、ヘグセス国防長官、ウィトコフ特使、ラトクリフCIA長官、ケイン統合参謀本部議長が出席。関係者の1人は「物事が決定された、少なくとも深く議論された」と述べたという。イランとの交渉停滞を背景に、トランプ大統領は中間選挙(11月3日)後の対イラン大規模軍事作戦再開を検討しているとされる。",
+      "en": "Trump's national security team held an unannounced meeting at Camp David on October 2 to discuss the Iran war and the Saudi-Houthi conflict in Yemen, multiple outlets reported October 3. The session was chaired by Vice President JD Vance and attended by Secretary of State Rubio, Defense Secretary Hegseth, envoy Witkoff, CIA Director Ratcliffe, and Joint Chiefs Chairman Gen. Caine. One source said 'things were decided, or at least deeply discussed.' With talks stalled, Trump is reportedly weighing a resumption of major combat operations against Iran after the November 3 midterm elections."
+    },
+    "category": "conflict",
+    "country": "米国",
+    "region": "メリーランド州",
+    "lat": 39.0639,
+    "lon": -76.8021,
+    "occurredAt": "2026-10-02T00:00:00+00:00",
+    "source": {
+      "name": "報道集約(Axios報道。Haaretz, Middle East Eye, Middle East Monitor等)",
+      "url": "https://www.middleeastmonitor.com/20261003-trumps-national-security-team-holds-unannounced-camp-david-talks-on-iran-war-yemen-axios/"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
