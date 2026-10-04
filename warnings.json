@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-03T18:33:59.326Z",
+  "generatedAt": "2026-10-04T02:34:11.170Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 181,
+  "count": 179,
   "warnings": [
     {
       "id": "NAVAREA11-260442",
@@ -346,6 +346,68 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-263914",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3914",
+      "title": "アラビア海、射撃",
+      "publishedAt": "2026-10-04T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            72.73333333333333,
+            15.266666666666667
+          ],
+          [
+            72.86666666666666,
+            15.3
+          ],
+          [
+            72.93333333333334,
+            15.133333333333333
+          ],
+          [
+            72.78333333333333,
+            15.1
+          ]
+        ]
+      },
+      "rawText": "番号:26-3914   発表日時:2026年10月04日 08時\r\n\n\r\n★ アラビア海、\r\r\n射撃、10月7日1130Z-1530Z、\r\r\n15-16N 072-44E 15-18N 072-52E\r\r\n15-08N 072-56E 15-06N 072-47Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263914&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263913",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3913",
+      "title": "インド西岸、射撃",
+      "publishedAt": "2026-10-04T08:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          75.11666666666666,
+          10.366666666666667
+        ]
+      },
+      "rawText": "番号:26-3913   発表日時:2026年10月04日 08時\r\n\n\r\n★ インド西岸、\r\r\n射撃、10月5日0830Z-1130Z、10-12N 10-22N\r\r\n075-07E 075-18Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263913&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263912",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3912",
+      "title": "ベンガル湾、射撃",
+      "publishedAt": "2026-10-04T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3912   発表日時:2026年10月04日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、10月6日1330Z-9日1530Z、\r\r\n16-20.1N 084-29.3E 16-01.8N 087-23.3E\r\r\n13-52.4N 085-31.5E 14-43.1N 082-33.5E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263912&LANG=JP"
+    },
+    {
       "id": "JAPANNW-263911",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -436,42 +498,6 @@
       },
       "rawText": "番号:26-3909   発表日時:2026年10月03日 08時\r\n\n\r\n★ 朝鮮半島西岸、済州島南西-安眠島付近、\r\r\n射撃、10月8日0600Z-0900Z、9日0000Z-0900Z、\r\r\n36-42-20N 125-32-41E 36-42-20N 125-58-25E\r\r\n36-31-23N 126-06-18E 36-18-11N 126-06-18E\r\r\n36-15-13N 125-54-10E 32-40-38N 124-54-41E\r\r\n33-18-53N 124-11-54Eで囲まれる海面。\r\r\n(3901削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263909&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263908",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3908",
-      "title": "南太平洋、宇宙ゴミ落下終了",
-      "publishedAt": "2026-10-03T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3908   発表日時:2026年10月03日 08時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下終了。\r\r\n(3813削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263908&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263904",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3904",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-03T06:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3904   発表日時:2026年10月03日 06時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263904&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263903",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3903",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-03T06:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3903   発表日時:2026年10月03日 06時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263903&LANG=JP"
     },
     {
       "id": "JAPANNW-263902",
@@ -3298,30 +3324,6 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261891",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "1891",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-03T06:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1891    発表日時:2026年10月03日 06時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261891&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261890",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "1890",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-03T06:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1890    発表日時:2026年10月03日 06時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261890&LANG=JP"
     },
     {
       "id": "NAVTEX-261887",
