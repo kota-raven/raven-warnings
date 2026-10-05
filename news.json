@@ -961,5 +961,48 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-908376"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-05-03",
+    "headline": {
+      "ja": "エジプト・エリトリア・スーダン・ソマリア首脳、エジプトで会合 対エチオピアで連携確認",
+      "en": "Leaders of Egypt, Eritrea, Sudan and Somalia meet in Egypt, agree to deepen cooperation amid tension with Ethiopia"
+    },
+    "summary": {
+      "ja": "エジプトのシシ大統領、エリトリアのアフェウェルキ大統領、スーダン主権評議会のブルハン議長、ソマリアのモハムド大統領が10月4日、エジプト北部エルアラメインで会談し、地域紛争の平和的解決を呼びかける共同声明を出すとともに、軍事協力を含む連携強化で一致したと複数メディアが報じた。エチオピアは、エリトリアがティグライ人民解放戦線(TPLF)を直接支援し、スーダン・エジプトも後押ししていると批判しているが、3カ国はいずれも否定している。これら3カ国側は逆に、エチオピアが自国の紅海沿岸へのアクセス獲得を狙っていると警戒している。ティグライ州都メケレ陥落(既報、id: 2026-10-05-01)と同時並行の動きで、地域紛争の拡大リスクを示す事実として今回新たに採り上げた。",
+      "en": "Egyptian President Sisi, Eritrean President Afwerki, Sudan's Sovereign Council head Burhan, and Somali President Mohamud met on Oct. 4 in El-Alamein, northern Egypt, calling for regional disputes to be settled peacefully and agreeing to deepen cooperation, including military coordination, according to multiple outlets. Ethiopia has accused Eritrea of directly backing the Tigray People's Liberation Front (TPLF), with Sudanese and Egyptian support; all three deny this and instead accuse landlocked Ethiopia of seeking access to their coastlines. The summit coincided with the fall of Tigray's capital Mekelle (previously reported, id: 2026-10-05-01) and is logged as a new fact pointing to the risk of wider regional conflict."
+    },
+    "category": "conflict",
+    "country": "エジプト",
+    "region": "エルアラメイン",
+    "lat": 26.8206,
+    "lon": 30.8025,
+    "occurredAt": "2026-10-04T00:00:00+00:00",
+    "source": {
+      "name": "France 24 / Al Jazeera / Arab News",
+      "url": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-05-04",
+    "headline": {
+      "ja": "露軍、ウクライナ全土に大規模ドローン・ミサイル攻撃 約550発、死者5人",
+      "en": "Russia launches large-scale drone and missile barrage across Ukraine, ~550 munitions, 5 killed"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍が10月5日未明にかけてウクライナ全土に向け約550発のドローン・ミサイルを発射したと発表した。ウクライナ空軍によると、ドローン496発、各種ミサイル53発が発射され、リビウ、イバノ・フランキフスク、ザポリージャ、チェルニヒフ、スームィ、ハルキウ、ヘルソン、オデーサ、キロヴォフラードの各州で被弾が確認された。少なくとも5人が死亡、10人が負傷。ウクライナ軍はドローン439発、ミサイル39発を撃墜・無力化したとしている。既報(露軍のドローン・ミサイル攻撃継続)の中でも今回は規模が大きく、新たな事実として追加した。",
+      "en": "Ukrainian President Zelensky said Russia fired roughly 550 drones and missiles across Ukraine overnight into Oct. 5. Ukraine's air force said 496 drones and 53 missiles of various types were launched, with impacts confirmed in Lviv, Ivano-Frankivsk, Zaporizhzhia, Chernihiv, Sumy, Kharkiv, Kherson, Odesa and Kirovohrad regions. At least 5 people were killed and 10 injured; Ukraine's air force said it downed or suppressed 439 drones and 39 missiles. This is logged as a new, larger-scale escalation within the ongoing pattern of Russian strikes."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-05T00:00:00+00:00",
+    "source": {
+      "name": "ABC News / Kyiv Independent",
+      "url": "https://abcnews.com/International/russia-fires-500-drones-ukraine-deadly-overnight-attack/story?id=126225666"
+    },
+    "reliability": "high"
   }
 ]
