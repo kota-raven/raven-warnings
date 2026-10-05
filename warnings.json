@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T22:20:48.577Z",
+  "generatedAt": "2026-10-05T23:18:52.237Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 180,
+  "count": 181,
   "warnings": [
     {
       "id": "NAVAREA11-260445",
@@ -386,6 +386,146 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-263927",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海洋調査",
+      "number": "3927",
+      "title": "ペルシア海湾、海底管作業",
+      "publishedAt": "2026-10-06T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3927   発表日時:2026年10月06日 08時\r\n\n\r\n★ ペルシア海湾、\r\r\nMC DERMOTT DB30による海底管作業、当分の間、\r\r\n26-01.85N 051-31.87E 26-05.88N 051-32.80E\r\r\n26-13.03N 051-40.61E 26-10.35N 051-44.46E\r\r\n26-06.43N 051-41.33E 26-03.68N 051-36.96E\r\r\n26-01.19N 051-36.62Eで囲まれる海面。\r\r\n(3670削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263927&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263926",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "3926",
+      "title": "ホルムズ海峡、火災船ありに関する情報削除",
+      "publishedAt": "2026-10-06T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3926   発表日時:2026年10月06日 08時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船ありに関する情報削除。\r\r\n(3918削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263926&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263925",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3925",
+      "title": "アンダマン海、射撃",
+      "publishedAt": "2026-10-06T08:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          93.66666666666667,
+          13
+        ]
+      },
+      "rawText": "番号:26-3925   発表日時:2026年10月06日 08時\r\n\n\r\n★ アンダマン海、\r\r\n射撃、10月7日、9日毎日0830Z-1030Z、12-50N 13-00N\r\r\n093-40E 094-10Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263925&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263924",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "3924",
+      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
+      "publishedAt": "2026-10-06T08:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          145.63333333333333,
+          15
+        ]
+      },
+      "rawText": "番号:26-3924   発表日時:2026年10月06日 08時\r\n\n\r\nマリアナ諸島、\r\r\n熱帯低気圧による港湾の閉鎖、当分の間、\r\r\nテニアン、15-00N 145-38E。\r\r\n(3866削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263924&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263923",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "3923",
+      "title": "北太平洋東部、危険な訓練",
+      "publishedAt": "2026-10-06T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -121.3,
+            34.916666666666664
+          ],
+          [
+            -120.6,
+            34.916666666666664
+          ],
+          [
+            -120.6,
+            34.63333333333333
+          ],
+          [
+            -121.3,
+            34.63333333333333
+          ],
+          [
+            -124.3,
+            34.983333333333334
+          ],
+          [
+            -122.33333333333333,
+            35.03333333333333
+          ],
+          [
+            -122.25,
+            34.266666666666666
+          ],
+          [
+            -124.21666666666667,
+            33.9
+          ],
+          [
+            -132.45,
+            34.53333333333333
+          ],
+          [
+            -130.68333333333334,
+            34.75
+          ],
+          [
+            -130.53333333333333,
+            32.4
+          ],
+          [
+            -132.1,
+            32.21666666666667
+          ],
+          [
+            -164.18333333333334,
+            24.533333333333335
+          ],
+          [
+            -161.9,
+            25.416666666666668
+          ],
+          [
+            -161.56666666666666,
+            24.583333333333332
+          ],
+          [
+            -163.86666666666667,
+            23.7
+          ]
+        ]
+      },
+      "rawText": "番号:26-3923   発表日時:2026年10月06日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\n危険な訓練、\r\r\n(1)10月9日、10日毎日0531Z-1232Z、\r\r\n   34-55N 121-18W\r\r\n   34-55N 120-36W\r\r\n   34-38N 120-36W\r\r\n   34-38N 121-18W、\r\r\n(2)10月9日、10日毎日0531Z-1223Z、\r\r\n   34-59N 124-18W\r\r\n   35-02N 122-20W\r\r\n   34-16N 122-15W\r\r\n   33-54N 124-13W、\r\r\n(3)10月9日、10日毎日0531Z-1228Z、\r\r\n   34-32N 132-27W\r\r\n   34-45N 130-41W\r\r\n   32-24N 130-32W\r\r\n   32-13N 132-06W、\r\r\n(4)10月9日、10日毎日0531Z-1234Z、\r\r\n   24-32N 164-11W\r\r\n   25-25N 161-54W\r\r\n   24-35N 161-34W\r\r\n   23-42N 163-52W、\r\r\nで囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263923&LANG=JP"
+    },
+    {
       "id": "JAPANNW-263922",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -432,18 +572,6 @@
       "geometry": null,
       "rawText": "番号:26-3919   発表日時:2026年10月05日 20時\r\n\n\r\n釧路港南南東、\r\r\n射撃中止。\r\r\n(3863削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263919&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263918",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "3918",
-      "title": "ホルムズ海峡、火災船あり",
-      "publishedAt": "2026-10-05T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3918   発表日時:2026年10月05日 08時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船あり、10月4日、26-23.0N 056-26.3E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263918&LANG=JP"
     },
     {
       "id": "JAPANNW-263917",
@@ -534,24 +662,6 @@
       },
       "rawText": "番号:26-3914   発表日時:2026年10月04日 08時\r\n\n\r\n★ アラビア海、\r\r\n射撃、10月7日1130Z-1530Z、\r\r\n15-16N 072-44E 15-18N 072-52E\r\r\n15-08N 072-56E 15-06N 072-47Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263914&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263913",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3913",
-      "title": "インド西岸、射撃",
-      "publishedAt": "2026-10-04T08:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          75.11666666666666,
-          10.366666666666667
-        ]
-      },
-      "rawText": "番号:26-3913   発表日時:2026年10月04日 08時\r\n\n\r\n★ インド西岸、\r\r\n射撃、10月5日0830Z-1130Z、10-12N 10-22N\r\r\n075-07E 075-18Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263913&LANG=JP"
     },
     {
       "id": "JAPANNW-263912",
@@ -1636,30 +1746,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263870&LANG=JP"
     },
     {
-      "id": "JAPANNW-263866",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3866",
-      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
-      "publishedAt": "2026-10-01T20:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            145.75,
-            15.183333333333334
-          ],
-          [
-            145.63333333333333,
-            15
-          ]
-        ]
-      },
-      "rawText": "番号:26-3866   発表日時:2026年10月01日 20時\r\n\n\r\nマリアナ諸島、\r\r\n熱帯低気圧による港湾の閉鎖、当分の間、\r\r\n(1)サイパン、15-11N 145-45E、\r\r\n(2)テニアン、15-00N 145-38E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263866&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263865",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2720,18 +2806,6 @@
       "geometry": null,
       "rawText": "番号:26-3717   発表日時:2026年09月22日 08時\r\n\n\r\nシンガポール海峡、\r\r\nC/V PETER FABERによる海底線修理作業、9月23日-当分の間、\r\r\n01-16.75N 104-08.14E付近。\r\r\n(3658削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263717&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263670",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海洋調査",
-      "number": "3670",
-      "title": "ペルシア海湾、海底管作業",
-      "publishedAt": "2026-09-18T02:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3670   発表日時:2026年09月18日 02時\r\n\n\r\n★ ペルシア海湾、\r\r\nMC DERMOTTによる海底管作業、当分の間、\r\r\n25-59.1N 051-36.6E 26-11.2N 051-46.2E\r\r\n26-15.1N 051-40.6E 26-00.1N 051-26.0E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263670&LANG=JP"
     },
     {
       "id": "JAPANNW-263669",
