@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T03:23:19.291Z",
+  "generatedAt": "2026-10-05T04:23:33.841Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 175,
+  "count": 176,
   "warnings": [
     {
       "id": "NAVAREA11-260444",
@@ -3278,6 +3278,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261893",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1893",
+      "title": "入道埼西南西、射撃",
+      "publishedAt": "2026-10-05T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1893    発表日時:2026年10月05日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月10日(予備12日)0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261893&LANG=JP"
     },
     {
       "id": "NAVTEX-261892",
