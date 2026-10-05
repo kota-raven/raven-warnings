@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:24:01.104Z",
+  "generatedAt": "2026-10-05T11:22:21.367Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 177,
   "warnings": [
@@ -374,6 +374,54 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-263922",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "3922",
+      "title": "スールー海、宇宙ゴミ落下",
+      "publishedAt": "2026-10-05T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3922   発表日時:2026年10月05日 20時\r\n\n\r\nスールー海、\r\r\n宇宙ゴミ落下、10月9日1700Z-2300Z、\r\r\n08-57.0N 119-36.0E 08-45.0N 119-19.8E\r\r\n09-16.2N 118-57.0E 09-28.2N 119-12.6E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263922&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263921",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3921",
+      "title": "御前埼南、射撃終了",
+      "publishedAt": "2026-10-05T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3921   発表日時:2026年10月05日 20時\r\n\n\r\n御前埼南、\r\r\n射撃終了。\r\r\n(3852削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263921&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263920",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3920",
+      "title": "入道埼西南西、射撃",
+      "publishedAt": "2026-10-05T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3920   発表日時:2026年10月05日 20時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月10日(予備12日)0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263920&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263919",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "3919",
+      "title": "釧路港南南東、射撃中止",
+      "publishedAt": "2026-10-05T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3919   発表日時:2026年10月05日 20時\r\n\n\r\n釧路港南南東、\r\r\n射撃中止。\r\r\n(3863削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263919&LANG=JP"
+    },
+    {
       "id": "JAPANNW-263918",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -442,18 +490,6 @@
       },
       "rawText": "番号:26-3916   発表日時:2026年10月04日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南、\r\r\n射撃、10月9日-11日毎日0300Z-1200Z、\r\r\n32-40N 126-20Eを中心とする半径6海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263916&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263915",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3915",
-      "title": "高知港南、射撃中止",
-      "publishedAt": "2026-10-04T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3915   発表日時:2026年10月04日 20時\r\n\n\r\n高知港南、\r\r\n射撃中止。\r\r\n(3853削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263915&LANG=JP"
     },
     {
       "id": "JAPANNW-263914",
@@ -1588,24 +1624,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263870&LANG=JP"
     },
     {
-      "id": "JAPANNW-263868",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3868",
-      "title": "ニューカレドニア東、射撃",
-      "publishedAt": "2026-10-01T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          167.45,
-          -22.116666666666667
-        ]
-      },
-      "rawText": "番号:26-3868   発表日時:2026年10月01日 20時\r\n\n\r\n★ ニューカレドニア東、\r\r\n射撃、10月5日0100Z-0900Z、22-07S 167-27E\r\r\nを中心とする半径10海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263868&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263866",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1696,18 +1714,6 @@
       },
       "rawText": "番号:26-3864   発表日時:2026年10月01日 20時\r\n\n\r\n野島埼南東、\r\r\n射撃、10月6日(予備7日)0800-1800、\r\r\n34-35-12N 140-16-48E 34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E 34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E 33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263864&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263863",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3863",
-      "title": "釧路港南南東、射撃",
-      "publishedAt": "2026-10-01T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3863   発表日時:2026年10月01日 20時\r\n\n\r\n釧路港南南東、\r\r\n射撃、10月6日(予備7日)0830-2400、\r\r\n42-39.1N 144-30.4Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263863&LANG=JP"
     },
     {
       "id": "JAPANNW-263860",
@@ -1860,18 +1866,6 @@
       },
       "rawText": "番号:26-3854   発表日時:2026年09月30日 20時\r\n\n\r\n五島列島南、\r\r\n射撃及びフレア発射、10月5日-7日(予備8日、9日)毎日0800-1700、\r\r\n31-47-12N 32-20-12N 128-45-52E 129-09-52E\r\r\nの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263854&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263852",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3852",
-      "title": "御前埼南、射撃",
-      "publishedAt": "2026-09-30T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3852   発表日時:2026年09月30日 20時\r\n\n\r\n御前埼南、\r\r\n射撃、10月5日(予備8日)0900-2400、\r\r\n34-20.2N 138-09.8Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263852&LANG=JP"
     },
     {
       "id": "JAPANNW-263850",
