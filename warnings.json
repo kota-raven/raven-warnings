@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-05T11:22:21.367Z",
+  "generatedAt": "2026-10-05T12:28:29.542Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 177,
+  "count": 179,
   "warnings": [
+    {
+      "id": "NAVAREA11-260445",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0445",
+      "title": "スールー海、宇宙ゴミ落下",
+      "publishedAt": "2026-10-05T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0445    発表日時:2026年10月05日 21時\r\n\n\r\nSULU SEA.\r\r\nSPACE DEBRIS.\r\r\n091700Z TO 092300Z OCT. AREA BOUNDED BY\r\r\n08-57.0N 119-36.0E 08-45.0N 119-19.8E\r\r\n09-16.2N 118-57.0E 09-28.2N 119-12.6E.\r\r\nCANCEL THIS MSG 100000Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260445&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260444",
       "type": "NAVAREA11",
@@ -3272,6 +3284,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261898",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "1898",
+      "title": "苫小牧港、出域勧告",
+      "publishedAt": "2026-10-05T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1898    発表日時:2026年10月05日 20時\r\n\n\r\n苫小牧港、\r\r\n10月5日1950、荒天のため船舶に対し出域勧告。\r\r\n詳細は苫小牧港長に問い合わせられたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261898&LANG=JP"
     },
     {
       "id": "NAVTEX-261897",
