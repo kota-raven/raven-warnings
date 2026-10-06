@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T07:23:03.920Z",
+  "generatedAt": "2026-10-06T08:23:40.813Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 180,
+  "count": 178,
   "warnings": [
     {
       "id": "NAVAREA11-260446",
@@ -3354,6 +3354,38 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261902",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1902",
+      "title": "沖縄島東（ホテル・ホテル）、爆撃",
+      "publishedAt": "2026-10-06T17:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            129.16444444444446,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            26.170833333333334
+          ],
+          [
+            129.16666666666666,
+            26.325
+          ]
+        ]
+      },
+      "rawText": "番号:26-1902    発表日時:2026年10月06日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n10月6日-18日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1866削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261902&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261901",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3394,30 +3426,6 @@
       },
       "rawText": "番号:26-1897    発表日時:2026年10月05日 18時\r\n\n\r\n犬吠埼南西、\r\r\nロープ付灯付浮標(長さ最大18メートル)漂流、\r\r\n10月5日0630、35-27N 140-29E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261897&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261896",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1896",
-      "title": "御前埼南、射撃終了",
-      "publishedAt": "2026-10-05T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1896    発表日時:2026年10月05日 17時\r\n\n\r\n御前埼南、\r\r\n射撃終了。\r\r\n(1870削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261896&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261895",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1895",
-      "title": "釧路港南南東、射撃中止",
-      "publishedAt": "2026-10-05T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1895    発表日時:2026年10月05日 17時\r\n\n\r\n釧路港南南東、\r\r\n射撃中止。\r\r\n(1877削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261895&LANG=JP"
     },
     {
       "id": "NAVTEX-261894",
@@ -3700,38 +3708,6 @@
       },
       "rawText": "番号:26-1868    発表日時:2026年09月30日 13時\r\n\n\r\n五島列島南、\r\r\n射撃及びフレア発射、10月5日-7日(予備8日、9日)毎日\r\r\n0800-1700、31-47-12N 32-20-12N\r\r\n128-45-52E 129-09-52E\r\r\nの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261868&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261866",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1866",
-      "title": "沖縄島東（ホテル・ホテル）、爆撃",
-      "publishedAt": "2026-09-30T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            129.16444444444446,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            26.170833333333334
-          ],
-          [
-            129.16666666666666,
-            26.325
-          ]
-        ]
-      },
-      "rawText": "番号:26-1866    発表日時:2026年09月30日 13時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n9月30日-10月11日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1776削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261866&LANG=JP"
     },
     {
       "id": "NAVTEX-261857",
