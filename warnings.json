@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:21:22.414Z",
+  "generatedAt": "2026-10-06T12:26:37.898Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 177,
   "warnings": [
@@ -380,6 +380,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-263934",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "航路標識",
+      "number": "3934",
+      "title": "オーストラリア南西岸、灯台消灯",
+      "publishedAt": "2026-10-06T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3934   発表日時:2026年10月06日 21時\r\n\n\r\n★ オーストラリア南西岸、\r\r\nCAPE NATURALISTE灯台(33-32.2S 115-01.1E)消灯。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263934&LANG=JP"
+    },
+    {
       "id": "JAPANNW-263933",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -553,7 +565,7 @@
       "typeLabel": "日本航行警報",
       "category": "訓練試験",
       "number": "3929",
-      "title": "野母埼西、射撃中止",
+      "title": "野母埼西、射撃",
       "publishedAt": "2026-10-06T20:00:00+09:00",
       "geometry": {
         "type": "point",
@@ -992,38 +1004,6 @@
       },
       "rawText": "番号:26-3900   発表日時:2026年10月02日 20時\r\n\n\r\n★ 朝鮮半島東岸、注文津港東、\r\r\n射撃、10月4日-7日毎日2300Z-翌日0900Z、\r\r\n38-14N 129-00E 38-14N 129-46E \r\r\n37-48N 129-46E 37-48N 129-38E \r\r\n38-10N 129-19E 38-10N 129-00Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263900&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263899",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3899",
-      "title": "大青群島付近（Ｄ−１５３）、射撃",
-      "publishedAt": "2026-10-02T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            124.08611111111111,
-            37.74861111111111
-          ],
-          [
-            124.6111111111111,
-            37.74861111111111
-          ],
-          [
-            124.6111111111111,
-            37.50277777777778
-          ],
-          [
-            124.08611111111111,
-            37.50388888888889
-          ]
-        ]
-      },
-      "rawText": "番号:26-3899   発表日時:2026年10月02日 20時\r\n\n\r\n★ 朝鮮半島西岸、大青群島付近、\r\r\n射撃、10月5日0500Z-0800Z、6日0800Z-1100Z、\r\r\n37-44-55N 124-05-10E 37-44-55N 124-36-40E\r\r\n37-30-10N 124-36-40E 37-30-14N 124-05-10E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263899&LANG=JP"
     },
     {
       "id": "JAPANNW-263898",
@@ -3442,6 +3422,24 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261903",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1903",
+      "title": "野母埼西、射撃",
+      "publishedAt": "2026-10-06T21:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          129.23333333333332,
+          32.45
+        ]
+      },
+      "rawText": "番号:26-1903    発表日時:2026年10月06日 21時\r\n\n\r\n野母埼西、\r\r\n射撃、10月8日0900-2400、32-27N \r\r\n129-14Eを中心とする半径7海里の円内。\r\r\n(1883削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261903&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261902",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3666,24 +3664,6 @@
       "geometry": null,
       "rawText": "番号:26-1884    発表日時:2026年10月02日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月7日0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261884&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261883",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1883",
-      "title": "野母埼西、射撃",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          129.23333333333332,
-          32.45
-        ]
-      },
-      "rawText": "番号:26-1883    発表日時:2026年10月02日 13時\r\n\n\r\n野母埼西、\r\r\n射撃、10月7日(予備8日)0900-2400、\r\r\n32-27N 129-14Eを中心とする半径7海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261883&LANG=JP"
     },
     {
       "id": "NAVTEX-261882",
