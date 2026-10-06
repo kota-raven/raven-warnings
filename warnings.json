@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:21:34.147Z",
+  "generatedAt": "2026-10-06T04:22:39.941Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 180,
   "warnings": [
@@ -3354,6 +3354,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261901",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1901",
+      "title": "宮古島北西、射撃中止",
+      "publishedAt": "2026-10-06T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1901    発表日時:2026年10月06日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃中止。\r\r\n(1881削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261901&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261900",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3608,18 +3620,6 @@
       },
       "rawText": "番号:26-1882    発表日時:2026年10月02日 13時\r\n\n\r\n東シナ海、\r\r\nロケット打上げ、\r\r\n10月7日(予備8日-14日)1228-1343、\r\r\n31-30-31N 127-29-33E\r\r\n31-36-44N 128-28-31E\r\r\n30-16-10N 128-39-36E\r\r\n30-09-57N 127-41-27Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261882&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261881",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1881",
-      "title": "宮古島北西、射撃",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1881    発表日時:2026年10月02日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃、10月7日0900-2400、\r\r\n24-56.1N 124-54.3Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261881&LANG=JP"
     },
     {
       "id": "NAVTEX-261876",
