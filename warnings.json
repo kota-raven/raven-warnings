@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-10-05T23:18:52.237Z",
+  "generatedAt": "2026-10-06T00:31:45.369Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 181,
+  "count": 180,
   "warnings": [
+    {
+      "id": "NAVAREA11-260446",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0446",
+      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
+      "publishedAt": "2026-10-06T09:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          145.63333333333333,
+          15
+        ]
+      },
+      "rawText": "NO.26-0446    発表日時:2026年10月06日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nTINIAN, 15-00N 145-38E.\r\r\nCANCEL 0438/26.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260446&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260445",
       "type": "NAVAREA11",
@@ -102,30 +120,6 @@
       },
       "rawText": "NO.26-0439    発表日時:2026年10月02日 21時\r\n\n\r\nNORTH PACIFIC, WESTERN PART.\r\r\nROCKET LAUNCHING. \r\r\n070333Z TO 070453Z OCT, \r\r\nALTERNATE 0328 TO 0443Z DAILY 08 \r\r\nAND 14 OCT. AREAS BOUNDED BY\r\r\nA. 21-29-38N 128-41-23E\r\r\n   21-37-59N 129-53-50E\r\r\n   18-29-43N 130-17-36E\r\r\n   18-21-22N 129-06-34E.\r\r\nB. 12-45-02N 129-26-02E\r\r\n   12-55-17N 131-04-59E\r\r\n   08-14-49N 131-34-13E\r\r\n   08-04-33N 129-56-46E.\r\r\nCANCEL THIS MSG 070553Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260439&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260438",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0438",
-      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
-      "publishedAt": "2026-10-01T21:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            145.75,
-            15.183333333333334
-          ],
-          [
-            145.63333333333333,
-            15
-          ]
-        ]
-      },
-      "rawText": "NO.26-0438    発表日時:2026年10月01日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nA. SAIPAN, 15-11N 145-45E.\r\r\nB. TINIAN, 15-00N 145-38E.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260438&LANG=JP"
     },
     {
       "id": "NAVAREA11-260433",
@@ -3360,40 +3354,16 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-261899",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "1899",
-      "title": "伊良湖水道航路−名古屋港、貨物船えい航",
-      "publishedAt": "2026-10-05T22:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            137,
-            34.56666666666667
-          ],
-          [
-            136.78333333333333,
-            35
-          ]
-        ]
-      },
-      "rawText": "番号:26-1899    発表日時:2026年10月05日 22時\r\n\n\r\n伊良湖水道航路-名古屋港、\r\r\nえい船(たか丸、MMSI 431011175)による\r\r\n貨物船(XIN LIN HAI 7、長さ113メートル)\r\r\nえい航、伊良湖水道航路(34-34N 137-00E)10月\r\r\n6日0100通過、名古屋港沖(35-00N 136-47E)\r\r\n6日0400到着予定、\r\r\n速力約6ノット、長さ最大約250メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261899&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261898",
+      "id": "NAVTEX-261900",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
       "category": "制限禁止",
-      "number": "1898",
-      "title": "苫小牧港、出域勧告",
-      "publishedAt": "2026-10-05T20:00:00+09:00",
+      "number": "1900",
+      "title": "苫小牧港、出域勧告解除",
+      "publishedAt": "2026-10-06T09:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-1898    発表日時:2026年10月05日 20時\r\n\n\r\n苫小牧港、\r\r\n10月5日1950、荒天のため船舶に対し出域勧告。\r\r\n詳細は苫小牧港長に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261898&LANG=JP"
+      "rawText": "番号:26-1900    発表日時:2026年10月06日 09時\r\n\n\r\n苫小牧港、\r\r\n出域勧告解除。\r\r\n(1898削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261900&LANG=JP"
     },
     {
       "id": "NAVTEX-261897",
