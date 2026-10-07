@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T01:22:01.319Z",
+  "generatedAt": "2026-10-07T02:21:20.125Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 178,
+  "count": 177,
   "warnings": [
     {
       "id": "NAVAREA11-260446",
@@ -378,6 +378,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263940",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "航路標識",
+      "number": "3940",
+      "title": "コーラル海、灯台消灯及びレーコン欠射",
+      "publishedAt": "2026-10-07T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3940   発表日時:2026年10月07日 11時\r\n\n\r\n★ コーラル海、\r\r\nFREDERICK REEFS灯台(20-56.2S 154-24.1E)消灯及び\r\r\nレーコン欠射。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263940&LANG=JP"
     },
     {
       "id": "JAPANNW-263939",
@@ -1302,18 +1314,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263911&LANG=JP"
     },
     {
-      "id": "JAPANNW-263910",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3910",
-      "title": "北太平洋東部、危険な訓練",
-      "publishedAt": "2026-10-03T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3910   発表日時:2026年10月03日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\n危険な訓練、10月6日1800Z-2300Z、\r\r\n33-34.40N 120-44.05W 32-46.75N 120-12.73W\r\r\n32-31.33N 120-45.72W 33-19.00N 121-17.15W\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263910&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263909",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1884,18 +1884,6 @@
       },
       "rawText": "番号:26-3885   発表日時:2026年10月02日 20時\r\n\n\r\n東シナ海及び北太平洋西部、\r\r\nロケット打上げ、\r\r\n10月7日(予備8日-14日)1228-1343、\r\r\n(1)31-30-31N 127-29-33E\r\r\n   31-36-44N 128-28-31E\r\r\n   30-16-10N 128-39-36E\r\r\n   30-09-57N 127-41-27E、\r\r\n10月7日(予備8日-14日)0333Z-0453Z、\r\r\n(2)21-29-38N 128-41-23E\r\r\n   21-37-59N 129-53-50E\r\r\n   18-29-43N 130-17-36E\r\r\n   18-21-22N 129-06-34E、\r\r\n(3)12-45-02N 129-26-02E\r\r\n   12-55-17N 131-04-59E\r\r\n   08-14-49N 131-34-13E\r\r\n   08-04-33N 129-56-46E、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263885&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263881",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3881",
-      "title": "北太平洋東部、危険な訓練",
-      "publishedAt": "2026-10-02T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3881   発表日時:2026年10月02日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\n危険な訓練、10月6日2000Z-2300Z、\r\r\n38-02.00N 123-17.83W 37-56.00N 123-17.83W\r\r\n37-46.42N 123-10.00W 37-43.00N 124-00.07W\r\r\n37-50.00N 124-24.57W 38-00.00N 123-23.07W\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263881&LANG=JP"
     },
     {
       "id": "JAPANNW-263879",
