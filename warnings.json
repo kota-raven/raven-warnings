@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T03:22:35.637Z",
+  "generatedAt": "2026-10-07T04:22:57.972Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 177,
+  "count": 176,
   "warnings": [
     {
       "id": "NAVAREA11-260446",
@@ -378,6 +378,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263941",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "3941",
+      "title": "チモール海、網付浮魚礁漂流",
+      "publishedAt": "2026-10-07T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3941   発表日時:2026年10月07日 13時\r\n\n\r\nチモール海、\r\r\n網付浮魚礁漂流、10月6日0606Z、10-48.53S 130-53.18E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263941&LANG=JP"
     },
     {
       "id": "JAPANNW-263940",
@@ -950,18 +962,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263932&LANG=JP"
     },
     {
-      "id": "JAPANNW-263931",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3931",
-      "title": "カムチャツカ周辺、ミサイル射撃情報削除",
-      "publishedAt": "2026-10-06T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3931   発表日時:2026年10月06日 20時\r\n\n\r\n★ カムチャツカ周辺、\r\r\nミサイル射撃情報削除。\r\r\n(3880削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263931&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263930",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1010,18 +1010,6 @@
       },
       "rawText": "番号:26-3929   発表日時:2026年10月06日 20時\r\n\n\r\n野母埼西、\r\r\n射撃、10月8日0900-2400、32-27N 129-14Eを中心とする\r\r\n半径7海里の円内。\r\r\n(3877削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263929&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263928",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3928",
-      "title": "宮古島北西、射撃中止",
-      "publishedAt": "2026-10-06T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3928   発表日時:2026年10月06日 20時\r\n\n\r\n宮古島北西、\r\r\n射撃中止。\r\r\n(3876削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263928&LANG=JP"
     },
     {
       "id": "JAPANNW-263927",
