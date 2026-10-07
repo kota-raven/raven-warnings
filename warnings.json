@@ -1,25 +1,19 @@
 {
-  "generatedAt": "2026-10-07T11:22:09.321Z",
+  "generatedAt": "2026-10-07T12:29:22.208Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 174,
+  "count": 171,
   "warnings": [
     {
-      "id": "NAVAREA11-260446",
+      "id": "NAVAREA11-260447",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
       "category": "その他",
-      "number": "0446",
-      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
-      "publishedAt": "2026-10-06T09:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          145.63333333333333,
-          15
-        ]
-      },
-      "rawText": "NO.26-0446    発表日時:2026年10月06日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nTINIAN, 15-00N 145-38E.\r\r\nCANCEL 0438/26.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260446&LANG=JP"
+      "number": "0447",
+      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖解除",
+      "publishedAt": "2026-10-07T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0447    発表日時:2026年10月07日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, TINIAN IS\r\r\nRE-OPENED.\r\r\nCANCEL 0446/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260447&LANG=JP"
     },
     {
       "id": "NAVAREA11-260445",
@@ -72,54 +66,6 @@
       },
       "rawText": "NO.26-0444    発表日時:2026年10月04日 21時\r\n\n\r\nNORTH PACIFIC, MARSHALLS. \r\r\nHAZARDOUS OPERATION. 090600Z TO 091242Z\r\r\nOCT, ALTERNATE 100600Z TO 101242Z OCT.\r\r\nAREA BOUNDED BY\r\r\n09-30N 167-29E 09-46N 167-55E\r\r\n09-20N 168-12E 08-55N 167-33E\r\r\n09-16N 167-21E 09-23N 167-33E.\r\r\nCANCEL THIS MSG 101342Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260444&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260439",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0439",
-      "title": "東シナ海及び北太平洋西部、ロケット打上げ",
-      "publishedAt": "2026-10-02T21:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128.68972222222223,
-            21.49388888888889
-          ],
-          [
-            129.8972222222222,
-            21.633055555555558
-          ],
-          [
-            130.29333333333332,
-            18.49527777777778
-          ],
-          [
-            129.10944444444445,
-            18.35611111111111
-          ],
-          [
-            129.4338888888889,
-            12.750555555555556
-          ],
-          [
-            131.08305555555555,
-            12.921388888888888
-          ],
-          [
-            131.57027777777776,
-            8.246944444444443
-          ],
-          [
-            129.94611111111112,
-            8.075833333333334
-          ]
-        ]
-      },
-      "rawText": "NO.26-0439    発表日時:2026年10月02日 21時\r\n\n\r\nNORTH PACIFIC, WESTERN PART.\r\r\nROCKET LAUNCHING. \r\r\n070333Z TO 070453Z OCT, \r\r\nALTERNATE 0328 TO 0443Z DAILY 08 \r\r\nAND 14 OCT. AREAS BOUNDED BY\r\r\nA. 21-29-38N 128-41-23E\r\r\n   21-37-59N 129-53-50E\r\r\n   18-29-43N 130-17-36E\r\r\n   18-21-22N 129-06-34E.\r\r\nB. 12-45-02N 129-26-02E\r\r\n   12-55-17N 131-04-59E\r\r\n   08-14-49N 131-34-13E\r\r\n   08-04-33N 129-56-46E.\r\r\nCANCEL THIS MSG 070553Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260439&LANG=JP"
     },
     {
       "id": "NAVAREA11-260433",
@@ -378,6 +324,30 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263943",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "航路標識",
+      "number": "3943",
+      "title": "オーストラリア南西岸、灯台復旧",
+      "publishedAt": "2026-10-07T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3943   発表日時:2026年10月07日 20時\r\n\n\r\n★ オーストラリア南西岸、\r\r\nCAPE NATURALISTE灯台復旧。\r\r\n(3934削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263943&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263942",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "3942",
+      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖解除",
+      "publishedAt": "2026-10-07T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3942   発表日時:2026年10月07日 20時\r\n\n\r\nマリアナ諸島、\r\r\n熱帯低気圧による港湾の閉鎖解除。\r\r\n(3924削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263942&LANG=JP"
     },
     {
       "id": "JAPANNW-263941",
@@ -826,18 +796,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263935&LANG=JP"
     },
     {
-      "id": "JAPANNW-263934",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "3934",
-      "title": "オーストラリア南西岸、灯台消灯",
-      "publishedAt": "2026-10-06T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3934   発表日時:2026年10月06日 21時\r\n\n\r\n★ オーストラリア南西岸、\r\r\nCAPE NATURALISTE灯台(33-32.2S 115-01.1E)消灯。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263934&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263933",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1040,24 +998,6 @@
       },
       "rawText": "番号:26-3925   発表日時:2026年10月06日 08時\r\n\n\r\n★ アンダマン海、\r\r\n射撃、10月7日、9日毎日0830Z-1030Z、12-50N 13-00N\r\r\n093-40E 094-10Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263925&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263924",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3924",
-      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
-      "publishedAt": "2026-10-06T08:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          145.63333333333333,
-          15
-        ]
-      },
-      "rawText": "番号:26-3924   発表日時:2026年10月06日 08時\r\n\n\r\nマリアナ諸島、\r\r\n熱帯低気圧による港湾の閉鎖、当分の間、\r\r\nテニアン、15-00N 145-38E。\r\r\n(3866削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263924&LANG=JP"
     },
     {
       "id": "JAPANNW-263923",
@@ -1810,70 +1750,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263886&LANG=JP"
     },
     {
-      "id": "JAPANNW-263885",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3885",
-      "title": "東シナ海及び北太平洋西部、ロケット打上げ",
-      "publishedAt": "2026-10-02T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            127.4925,
-            31.50861111111111
-          ],
-          [
-            128.4752777777778,
-            31.612222222222222
-          ],
-          [
-            128.66,
-            30.269444444444442
-          ],
-          [
-            127.69083333333333,
-            30.16583333333333
-          ],
-          [
-            128.68972222222223,
-            21.49388888888889
-          ],
-          [
-            129.8972222222222,
-            21.633055555555558
-          ],
-          [
-            130.29333333333332,
-            18.49527777777778
-          ],
-          [
-            129.10944444444445,
-            18.35611111111111
-          ],
-          [
-            129.4338888888889,
-            12.750555555555556
-          ],
-          [
-            131.08305555555555,
-            12.921388888888888
-          ],
-          [
-            131.57027777777776,
-            8.246944444444443
-          ],
-          [
-            129.94611111111112,
-            8.075833333333334
-          ]
-        ]
-      },
-      "rawText": "番号:26-3885   発表日時:2026年10月02日 20時\r\n\n\r\n東シナ海及び北太平洋西部、\r\r\nロケット打上げ、\r\r\n10月7日(予備8日-14日)1228-1343、\r\r\n(1)31-30-31N 127-29-33E\r\r\n   31-36-44N 128-28-31E\r\r\n   30-16-10N 128-39-36E\r\r\n   30-09-57N 127-41-27E、\r\r\n10月7日(予備8日-14日)0333Z-0453Z、\r\r\n(2)21-29-38N 128-41-23E\r\r\n   21-37-59N 129-53-50E\r\r\n   18-29-43N 130-17-36E\r\r\n   18-21-22N 129-06-34E、\r\r\n(3)12-45-02N 129-26-02E\r\r\n   12-55-17N 131-04-59E\r\r\n   08-14-49N 131-34-13E\r\r\n   08-04-33N 129-56-46E、\r\r\nで囲まれる各海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263885&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263879",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1988,50 +1864,6 @@
       },
       "rawText": "番号:26-3865   発表日時:2026年10月01日 20時\r\n\n\r\n★ グアム島付近、\r\r\n危険な訓練、10月6日-8日毎日0100Z-1300Z、\r\r\n(1)13-27N 145-08E、\r\r\n(2)13-42N 144-36E、\r\r\nを中心とする半径3海里の各円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263865&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263864",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3864",
-      "title": "野島埼南東、射撃",
-      "publishedAt": "2026-10-01T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            140.28,
-            34.586666666666666
-          ],
-          [
-            140.55166666666668,
-            34.30638888888888
-          ],
-          [
-            140.78083333333333,
-            34.138333333333335
-          ],
-          [
-            140.95027777777776,
-            34.033055555555556
-          ],
-          [
-            141.08722222222224,
-            33.95194444444445
-          ],
-          [
-            140.4297222222222,
-            33.57472222222223
-          ],
-          [
-            140.13,
-            34.519999999999996
-          ]
-        ]
-      },
-      "rawText": "番号:26-3864   発表日時:2026年10月01日 20時\r\n\n\r\n野島埼南東、\r\r\n射撃、10月6日(予備7日)0800-1800、\r\r\n34-35-12N 140-16-48E 34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E 34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E 33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263864&LANG=JP"
     },
     {
       "id": "JAPANNW-263860",
