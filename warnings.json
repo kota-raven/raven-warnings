@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T07:23:37.206Z",
+  "generatedAt": "2026-10-07T08:24:19.271Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 176,
+  "count": 174,
   "warnings": [
     {
       "id": "NAVAREA11-260446",
@@ -3524,6 +3524,36 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261905",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "漂流物等",
+      "number": "1905",
+      "title": "犬吠埼南西、ロープ付灯付浮標漂流",
+      "publishedAt": "2026-10-07T17:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          140.73333333333332,
+          35.31666666666667
+        ]
+      },
+      "rawText": "番号:26-1905    発表日時:2026年10月07日 17時\r\n\n\r\n犬吠埼南西、\r\r\nロープ付灯付浮標(長さ最大18メートル)漂流、\r\r\n10月7日0620、35-19N 140-44E付近。\r\r\n(1897削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261905&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261904",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "1904",
+      "title": "本州東岸、避難勧告解除",
+      "publishedAt": "2026-10-07T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1904    発表日時:2026年10月07日 17時\r\n\n\r\n本州東岸、\r\r\n避難勧告解除。\r\r\n(1894削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261904&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261903",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3572,48 +3602,6 @@
       },
       "rawText": "番号:26-1902    発表日時:2026年10月06日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n10月6日-18日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1866削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261902&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261901",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1901",
-      "title": "宮古島北西、射撃中止",
-      "publishedAt": "2026-10-06T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1901    発表日時:2026年10月06日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃中止。\r\r\n(1881削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261901&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261897",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "1897",
-      "title": "犬吠埼南西、ロープ付灯付浮標漂流",
-      "publishedAt": "2026-10-05T18:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          140.48333333333332,
-          35.45
-        ]
-      },
-      "rawText": "番号:26-1897    発表日時:2026年10月05日 18時\r\n\n\r\n犬吠埼南西、\r\r\nロープ付灯付浮標(長さ最大18メートル)漂流、\r\r\n10月5日0630、35-27N 140-29E付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261897&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261894",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "1894",
-      "title": "本州東岸、避難勧告",
-      "publishedAt": "2026-10-05T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1894    発表日時:2026年10月05日 13時\r\n\n\r\n本州東岸、\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261894&LANG=JP"
     },
     {
       "id": "NAVTEX-261893",
@@ -3754,38 +3742,6 @@
       "geometry": null,
       "rawText": "番号:26-1884    発表日時:2026年10月02日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月7日0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261884&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261882",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "1882",
-      "title": "東シナ海及び北太平洋西部、ロケット打上げ",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            127.4925,
-            31.50861111111111
-          ],
-          [
-            128.4752777777778,
-            31.612222222222222
-          ],
-          [
-            128.66,
-            30.269444444444442
-          ],
-          [
-            127.69083333333333,
-            30.16583333333333
-          ]
-        ]
-      },
-      "rawText": "番号:26-1882    発表日時:2026年10月02日 13時\r\n\n\r\n東シナ海、\r\r\nロケット打上げ、\r\r\n10月7日(予備8日-14日)1228-1343、\r\r\n31-30-31N 127-29-33E\r\r\n31-36-44N 128-28-31E\r\r\n30-16-10N 128-39-36E\r\r\n30-09-57N 127-41-27Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261882&LANG=JP"
     },
     {
       "id": "NAVTEX-261876",
