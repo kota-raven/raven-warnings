@@ -1004,5 +1004,28 @@
       "url": "https://abcnews.com/International/russia-fires-500-drones-ukraine-deadly-overnight-attack/story?id=126225666"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-07-01",
+    "headline": {
+      "ja": "エリトリア軍、エチオピア北部アディグラトに進入と目撃証言 緊張一段と悪化",
+      "en": "Witnesses report Eritrean troops inside northern Ethiopian town of Adigrat, deepening tensions"
+    },
+    "summary": {
+      "ja": "複数の目撃者がロイター通信に対し、10月7日(水)、エリトリア軍兵士数十人がトラック2台でエチオピア北部ティグライ州の町アディグラト(エリトリア国境から南へ約25km)を通過するのを見たと証言した。ロイターは独立した確認が取れていないとしている。現地当局者はアディグラトでのエリトリア軍の存在はこの4日間続いているとし、別の目撃者は部隊がさらに南のイダガ・ハムス方面へ向かったと述べた。親政府民兵「ティグライ・ピース・フォース」の司令官も、エリトリア軍が重火器を伴い制服姿でティグライに入り、ドローン攻撃を受けていると証言した。エリトリアのイエマネ・メスケル情報相はこれらの報道を否定せず、エチオピア側の「自衛」との説明を自国の対外侵略を正当化するための口実だと批判したと報じられている。エチオピアとエリトリアは先週、外交関係を断絶しており、本件が事実であれば9月23日以降のティグライでの戦闘にエリトリアが直接軍事介入したことを示す初の確認情報となる。推測:これが確認されれば、エチオピア・エリトリア・エジプト・スーダンを巻き込む地域規模の国家間武力衝突に発展するリスクが一段と高まる。",
+      "en": "Multiple witnesses told Reuters they saw dozens of Eritrean soldiers drive through Adigrat, a town in Ethiopia's Tigray region about 25km south of the Eritrean border, in two trucks on Wednesday, October 7. Reuters said it could not independently verify the accounts. A local official said Eritrean soldiers had been present in Adigrat for four days, and another witness said troops were seen heading further south toward Idaga Hamus. A commander of the pro-government Tigray Peace Force separately said Eritrean forces had entered Tigray in uniform with heavy weaponry and were being struck by drones. Eritrea's Information Minister Yemane Meskel did not deny the reports, instead criticizing Ethiopia's 'self-defense' framing as a pretext for its own aggression, according to the report. Ethiopia and Eritrea severed diplomatic ties last week. If confirmed, this would be the first verified instance of direct Eritrean military intervention in the Tigray fighting that began September 23. Speculation: if confirmed, this would raise the risk of the conflict escalating into a wider interstate war involving Ethiopia, Eritrea, Egypt and Sudan."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "region": "ティグライ州",
+    "lat": 14.2667,
+    "lon": 39.45,
+    "occurredAt": "2026-10-07T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera(ロイター通信報道を引用)",
+      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare"
+    },
+    "reliability": "medium",
+    "severity": 3
   }
 ]
