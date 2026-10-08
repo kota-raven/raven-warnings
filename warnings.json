@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T08:24:27.101Z",
+  "generatedAt": "2026-10-08T09:23:10.882Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 181,
+  "count": 180,
   "warnings": [
     {
       "id": "NAVAREA11-260448",
@@ -3128,6 +3128,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261914",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1914",
+      "title": "野母埼西、射撃終了",
+      "publishedAt": "2026-10-08T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1914    発表日時:2026年10月08日 17時\r\n\n\r\n野母埼西、\r\r\n射撃終了\r\r\n(1903削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261914&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261913",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3276,36 +3288,6 @@
       },
       "rawText": "番号:26-1905    発表日時:2026年10月07日 17時\r\n\n\r\n犬吠埼南西、\r\r\nロープ付灯付浮標(長さ最大18メートル)漂流、\r\r\n10月7日0620、35-19N 140-44E付近。\r\r\n(1897削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261905&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261904",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "1904",
-      "title": "本州東岸、避難勧告解除",
-      "publishedAt": "2026-10-07T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1904    発表日時:2026年10月07日 17時\r\n\n\r\n本州東岸、\r\r\n避難勧告解除。\r\r\n(1894削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261904&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261903",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1903",
-      "title": "野母埼西、射撃",
-      "publishedAt": "2026-10-06T21:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          129.23333333333332,
-          32.45
-        ]
-      },
-      "rawText": "番号:26-1903    発表日時:2026年10月06日 21時\r\n\n\r\n野母埼西、\r\r\n射撃、10月8日0900-2400、32-27N \r\r\n129-14Eを中心とする半径7海里の円内。\r\r\n(1883削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261903&LANG=JP"
     },
     {
       "id": "NAVTEX-261902",
