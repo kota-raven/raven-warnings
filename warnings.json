@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T19:22:09.122Z",
+  "generatedAt": "2026-10-08T20:23:56.846Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 176,
+  "count": 177,
   "warnings": [
     {
       "id": "NAVAREA11-260449",
@@ -2958,6 +2958,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261916",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1916",
+      "title": "駿河湾、波勝岬灯台灯質不規則",
+      "publishedAt": "2026-10-09T03:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1916    発表日時:2026年10月09日 03時\r\n\n\r\n駿河湾、\r\r\n波勝岬灯台(34-41.4N 138-44.5E、\r\r\n灯台表第1巻、2451、M6269.5)灯質不規則。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261916&LANG=JP"
     },
     {
       "id": "NAVTEX-261915",
