@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-08T11:22:50.495Z",
+  "generatedAt": "2026-10-08T12:29:11.667Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 182,
+  "count": 180,
   "warnings": [
+    {
+      "id": "NAVAREA11-260449",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "漂流物等",
+      "number": "0449",
+      "title": "北太平洋、マーシャル諸島、バージ漂流",
+      "publishedAt": "2026-10-08T18:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0449    発表日時:2026年10月08日 18時\r\n\n\r\nNORTH PACIFIC, MARSHALLS.\r\r\nDERELICT BARGE ADRIFT IN VICINITY OF\r\r\n05-05.8N 166-33.5E AT 072210Z OCT.\r\r\nCANCEL THIS MSG 102210Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260449&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260448",
       "type": "NAVAREA11",
@@ -14,18 +26,6 @@
       "geometry": null,
       "rawText": "NO.26-0448    発表日時:2026年10月08日 12時\r\n\n\r\nTAIWAN STRAIT.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/S ILE DE RE UNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n24-04.12N 118-46.48E\r\r\n24-03.82N 118-46.95E\r\r\n23-51.56N 119-01.84E\r\r\n23-51.18N 119-02.22E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260448&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260447",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0447",
-      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖解除",
-      "publishedAt": "2026-10-07T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0447    発表日時:2026年10月07日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, TINIAN IS\r\r\nRE-OPENED.\r\r\nCANCEL 0446/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260447&LANG=JP"
     },
     {
       "id": "NAVAREA11-260445",
@@ -3068,6 +3068,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261915",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1915",
+      "title": "入道埼西南西、射撃",
+      "publishedAt": "2026-10-08T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1915    発表日時:2026年10月08日 21時\r\n\n\r\n入道埼西南西、\r\r\n射撃終了\r\r\n(1884削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261915&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261914",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3274,78 +3286,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261893&LANG=JP"
     },
     {
-      "id": "NAVTEX-261887",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1887",
-      "title": "済州島東（Ｄ−１１８）、射撃",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            127.66666666666667,
-            34
-          ],
-          [
-            128.5,
-            34
-          ],
-          [
-            127.83333333333333,
-            33.166666666666664
-          ],
-          [
-            127.66666666666667,
-            33.166666666666664
-          ]
-        ]
-      },
-      "rawText": "番号:26-1887    発表日時:2026年10月02日 13時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、10月7日、8日毎日0900-1800、\r\r\n34-00N 127-40E 34-00N 128-30E \r\r\n33-10N 127-50E 33-10N 127-40E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261887&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261886",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1886",
-      "title": "巨済島南東（Ｄ−９９）、射撃",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128.72416666666666,
-            34.68444444444444
-          ],
-          [
-            128.84194444444447,
-            34.76833333333333
-          ],
-          [
-            128.89388888888888,
-            34.778888888888886
-          ],
-          [
-            129.05583333333334,
-            34.56305555555555
-          ],
-          [
-            128.71972222222223,
-            34.15361111111111
-          ],
-          [
-            128.58722222222224,
-            34.336666666666666
-          ]
-        ]
-      },
-      "rawText": "番号:26-1886    発表日時:2026年10月02日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、10月5日1400-2000、6日0800-2000、\r\r\n7日、8日毎日0800-1800、\r\r\n34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E\r\r\n34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E\r\r\n34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261886&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261885",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3388,18 +3328,6 @@
       },
       "rawText": "番号:26-1885    発表日時:2026年10月02日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月6日、8日毎日0900-2200、\r\r\n7日0900-1700、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261885&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261884",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1884",
-      "title": "入道埼西南西、射撃",
-      "publishedAt": "2026-10-02T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1884    発表日時:2026年10月02日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月7日0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261884&LANG=JP"
     },
     {
       "id": "NAVTEX-261869",
