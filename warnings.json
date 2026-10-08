@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T02:20:47.687Z",
+  "generatedAt": "2026-10-08T03:22:46.827Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 171,
+  "count": 172,
   "warnings": [
     {
       "id": "NAVAREA11-260447",
@@ -324,6 +324,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263951",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "自然現象",
+      "number": "3951",
+      "title": "ベヨネース列岩東北東、変色水不存在",
+      "publishedAt": "2026-10-08T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3951   発表日時:2026年10月08日 11時\r\n\n\r\nベヨネース列岩東北東、明神礁、\r\r\n31-55.1N 140-01.3Eの変色水は存在しない。\r\r\n(5年0250削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263951&LANG=JP"
     },
     {
       "id": "JAPANNW-263950",
@@ -3092,6 +3104,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261906",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "自然現象",
+      "number": "1906",
+      "title": "ベヨネース列岩東北東、変色水不存在",
+      "publishedAt": "2026-10-08T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1906    発表日時:2026年10月08日 11時\r\n\n\r\nベヨネース列岩東北東、明神礁、\r\r\n31-55.1N 140-01.3Eの変色水は存在しない。\r\r\n(5年0129削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261906&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261905",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3310,50 +3334,6 @@
       "geometry": null,
       "rawText": "番号:26-1884    発表日時:2026年10月02日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月7日0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261884&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261876",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1876",
-      "title": "野島埼南東、射撃",
-      "publishedAt": "2026-10-01T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            140.28,
-            34.586666666666666
-          ],
-          [
-            140.55166666666668,
-            34.30638888888888
-          ],
-          [
-            140.78083333333333,
-            34.138333333333335
-          ],
-          [
-            140.95027777777776,
-            34.033055555555556
-          ],
-          [
-            141.08722222222224,
-            33.95194444444445
-          ],
-          [
-            140.4297222222222,
-            33.57472222222223
-          ],
-          [
-            140.13,
-            34.519999999999996
-          ]
-        ]
-      },
-      "rawText": "番号:26-1876    発表日時:2026年10月01日 13時\r\n\n\r\n野島埼南東、\r\r\n射撃、10月6日(予備7日)0800-1800、\r\r\n34-35-12N 140-16-48E \r\r\n34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E \r\r\n34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E \r\r\n33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261876&LANG=JP"
     },
     {
       "id": "NAVTEX-261869",
