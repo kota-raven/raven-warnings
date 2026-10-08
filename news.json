@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-05-04",
-    "headline": {
-      "ja": "露軍、ウクライナ全土に大規模ドローン・ミサイル攻撃 約550発、死者5人",
-      "en": "Russia launches large-scale drone and missile barrage across Ukraine, ~550 munitions, 5 killed"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍が10月5日未明にかけてウクライナ全土に向け約550発のドローン・ミサイルを発射したと発表した。ウクライナ空軍によると、ドローン496発、各種ミサイル53発が発射され、リビウ、イバノ・フランキフスク、ザポリージャ、チェルニヒフ、スームィ、ハルキウ、ヘルソン、オデーサ、キロヴォフラードの各州で被弾が確認された。少なくとも5人が死亡、10人が負傷。ウクライナ軍はドローン439発、ミサイル39発を撃墜・無力化したとしている。既報(露軍のドローン・ミサイル攻撃継続)の中でも今回は規模が大きく、新たな事実として追加した。",
-      "en": "Ukrainian President Zelensky said Russia fired roughly 550 drones and missiles across Ukraine overnight into Oct. 5. Ukraine's air force said 496 drones and 53 missiles of various types were launched, with impacts confirmed in Lviv, Ivano-Frankivsk, Zaporizhzhia, Chernihiv, Sumy, Kharkiv, Kherson, Odesa and Kirovohrad regions. At least 5 people were killed and 10 injured; Ukraine's air force said it downed or suppressed 439 drones and 39 missiles. This is logged as a new, larger-scale escalation within the ongoing pattern of Russian strikes."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-10-05T00:00:00+00:00",
-    "source": {
-      "name": "ABC News / Kyiv Independent",
-      "url": "https://abcnews.com/International/russia-fires-500-drones-ukraine-deadly-overnight-attack/story?id=126225666"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-07-01",
     "headline": {
       "ja": "エリトリア軍、エチオピア北部アディグラトに進入と目撃証言 緊張一段と悪化",
