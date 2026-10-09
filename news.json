@@ -43,5 +43,27 @@
       "url": "https://www.nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-09-01",
+    "headline": {
+      "ja": "ティグライ西部テケゼ川戦線で連邦軍とTDFが衝突継続、シェラロ空爆で死者8人 ファノが連邦軍補給線を妨害と分析",
+      "en": "Clashes continue on Tigray's western Tekeze River front; airstrike on Sheraro reportedly kills 8, Amhara Fano militia said to be disrupting federal supply lines"
+    },
+    "summary": {
+      "ja": "米シンクタンクCritical Threats Project(「Ethiopia War Security Review」10月6日付、「Africa File」10月8日付)によれば、ティグライ州西部・テケゼ川沿い(州都シレへ至るB30号線周辺)で、エチオピア連邦軍(ENDF)とティグライ防衛軍(TDF)の衝突が続いている。TDFが10月3〜4日にテルセレムティ地区方面への進出を試みたがENDFがこれを阻止し、その後シレ南西約30マイル地点でテケゼ川を渡ってTPLF支配地域の北西ティグライへ進入したとされ、10月5日にはB30号線のテケゼ川渡河地点付近で砲撃の応酬があったという。同レポートはロイター通信の報道として、10月4日夜から5日にかけてのENDFによるシェラロへの空爆で8人が死亡したと伝えている。さらに、アムハラ地方の武装組織「アムハラ・ファノ民族運動」(AFNM)が、アムハラ州経由の連邦軍のティグライ向け補給線を妨害しているとの分析を示した。連邦政府高官はティグライに暫定地方政府を設置し選挙を実施する計画があると述べたとされる。これらはシンクタンクの分析レポート(ロイター等の引用を含む二次情報)に基づくもので、当編集部はロイター原典や他の独立報道でシェラロ空爆の死者数を直接確認できていない。推測:ファノによる補給線妨害が事実であれば、連邦軍・TDF・TPLF・ファノ・(間接的に)エリトリアが絡む多角的な武力紛争へとティグライ情勢が一段と複雑化するリスクを示す。",
+      "en": "According to the US think tank Critical Threats Project (\"Ethiopia War Security Review,\" October 6, 2026, and \"Africa File,\" October 8, 2026), fighting continues between Ethiopia's federal forces (ENDF) and the Tigray Defense Forces (TDF) along the Tekeze River in western Tigray, near the B30 highway leading to the regional capital Shire. The report says the TDF attempted an advance toward Tselemti district on October 3-4 but was halted by the ENDF, which then crossed the Tekeze River about 30 miles southwest of Shire into TPLF-held northwestern Tigray; an artillery exchange near the Tekeze crossing on the B30 on October 5 reportedly shows the ENDF has made no notable gains along that road. The same report, citing Reuters, says an ENDF airstrike on Sheraro on the night of October 4-5 killed 8 people. It further assesses that the Amhara Fano National Movement (AFNM) has been disrupting federal supply lines into Tigray via the Amhara region. A senior federal official is reported to have said the government plans to install an interim regional administration in Tigray and hold elections there. These findings rest on a think tank's secondary analysis (including citations of Reuters), and this desk could not independently verify the Sheraro casualty figure through the original Reuters report or other independent coverage. Speculation: if the Fano disruption of federal supply lines is confirmed, it would signal a further complication of the Tigray conflict into a multi-sided war involving federal forces, the TDF, the TPLF, Fano, and indirectly Eritrea."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "region": "ティグライ州(シェラロ/シレ方面)",
+    "lat": 14.3833,
+    "lon": 37.75,
+    "occurredAt": "2026-10-05T00:00:00+00:00",
+    "source": {
+      "name": "Critical Threats Project (Ethiopia War Security Review, Oct 6 2026)",
+      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-6-2026"
+    },
+    "reliability": "medium"
   }
 ]
