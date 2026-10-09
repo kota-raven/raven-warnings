@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-477",
+    "headline": {
+      "ja": "米防省がイラン軍事作戦計画を準備中という投稿",
+      "en": "Telegram post claims US Pentagon preparing Iran military campaign"
+    },
+    "summary": {
+      "ja": "米国防省がイランに対する3日間の軍事キャンペーン計画を立案しているという投稿が Telegram に上がった。対象はミサイル・ドローン能力、エネルギーインフラ、軍事施設とされている。",
+      "en": "A Telegram post claimed that the US Pentagon is preparing plans for a three-day military campaign against Iran, targeting missile and drone capabilities, energy infrastructure, and military sites."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.3578,
+    "lon": 52.9339,
+    "occurredAt": "2026-10-09T06:59:44+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20463"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "iran_us_military_campaign_plan_2026-10",
+    "severity": 4
+  },
+  {
     "id": "auto-369",
     "headline": {
       "ja": "イスラエルがガザのサブラ地区に空襲、複数の民間人が殺害",
@@ -21,6 +45,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "israel_gaza_sabra_airstrike_2026"
+  },
+  {
+    "id": "auto-470",
+    "headline": {
+      "ja": "モナコ爆弾事件の容疑者がBBCにインタビュー",
+      "en": "Suspect in Monaco bomb attack speaks to BBC"
+    },
+    "summary": {
+      "ja": "ウクライナ系実業家ヴァディム・イェルモラエフへの暗殺未遂事件でモナコで逮捕されたヴィタリー・ジコビッチが、BBC のインタビューで事件についての独自の証言を述べた。",
+      "en": "Vitalii Zhykovych, arrested in Monaco in connection with an attempted assassination of Ukrainian businessman Vadym Yermolayev, gave his account of the incident in a BBC interview."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.8184,
+    "lon": 30.69,
+    "occurredAt": "2026-10-08T23:11:10+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_businessman_monaco_bomb_assassination_2026-10"
   },
   {
     "id": "auto-346",
