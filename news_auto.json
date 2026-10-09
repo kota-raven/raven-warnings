@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "id": "auto-369",
+    "headline": {
+      "ja": "イスラエルがガザのサブラ地区に空襲、複数の民間人が殺害",
+      "en": "Israeli air strike kills several people including children in Gaza City"
+    },
+    "summary": {
+      "ja": "イスラエル空軍がガザのサブラ地区の建物に空襲を実施、複数の民間人および子どもを含む死傷者が発生した。",
+      "en": "Israeli air strike hit building in Gaza City's al-Sabra neighborhood, killing several people including children."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.2253,
+    "lon": 35.1578,
+    "occurredAt": "2026-10-09T00:12:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-346",
+    "headline": {
+      "ja": "10月8日情勢まとめ：モンテネグロがロシア国民にビザを導入",
+      "en": "October 8 summary: Montenegro introduces visa requirements for Russian citizens"
+    },
+    "summary": {
+      "ja": "10月8日の日次ダイジェスト。モンテネグロが2026年11月1日からロシア、ベラルーシ、トルコの国民にビザ要件を導入する予定。",
+      "en": "October 8 summary noting Montenegro's introduction of visa requirements for Russian, Belarusian and Turkish citizens."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.6992,
+    "lon": 31.9324,
+    "occurredAt": "2026-10-08T18:59:35+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83806"
+    },
+    "reliability": "low"
+  },
+  {
+    "id": "auto-337",
+    "headline": {
+      "ja": "ウクライナがキーウへのドローン攻撃を実施、停電多発",
+      "en": "Ukrainian drone attack on Kyiv causing blackouts and power outages"
+    },
+    "summary": {
+      "ja": "ウクライナが複数地域への夜間ドローン攻撃を実施。キーウでは停電が相次ぎ、電力供給に緊急措置が発動された。",
+      "en": "Ukrainian drone attack on Kyiv and surrounding regions causing blackouts; emergency power restrictions implemented."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9125,
+    "lon": 31.1355,
+    "occurredAt": "2026-10-08T11:01:50+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83793"
+    },
+    "reliability": "low"
+  },
+  {
+    "id": "auto-254",
+    "headline": {
+      "ja": "ウクライナ情勢ダイジェスト：通信システムとスターリンク",
+      "en": "Ukraine situation digest: focus on Starlink communications"
+    },
+    "summary": {
+      "ja": "ウクライナ情勢の日次ダイジェスト。スターリンク衛星通信システムがウクライナのドローン作戦の基盤となっていることについて言及。",
+      "en": "Daily digest of Ukraine situation highlighting importance of Starlink for Ukrainian drone operations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.8161,
+    "lon": 30.6649,
+    "occurredAt": "2026-10-07T19:51:02+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83780"
+    },
+    "reliability": "low"
+  },
+  {
+    "id": "auto-253",
+    "headline": {
+      "ja": "ロシア軍が大規模ミサイル攻撃実施、ウクライナ防衛施設が目標",
+      "en": "Russia conducts large-scale attack on Ukrainian targets including missile production"
+    },
+    "summary": {
+      "ja": "ウクライナの防衛産業施設やロケット生産施設に対する大規模な攻撃が実施された。フラミンゴ（Flamingo）と呼ばれるウクライナの長距離ドローンの生産施設が主要な目標。",
+      "en": "Major Russian attack on Ukrainian defense targets including Flamingo drone production facilities."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.7973,
+    "lon": 30.8469,
+    "occurredAt": "2026-10-07T18:59:36+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83779"
+    },
+    "reliability": "low"
+  },
+  {
+    "id": "auto-78",
+    "headline": {
+      "ja": "ロシア軍がウクライナで民間住宅を攻撃、19人が死亡",
+      "en": "Russian missile strike kills 19 in Ukrainian apartment block"
+    },
+    "summary": {
+      "ja": "ウクライナ北部の集合住宅ブロックがロシアの空襲により破壊され、19人が殺害された。犠牲者には子ども5人を含む。",
+      "en": "Russian missile strike destroyed 30 flats in northern Ukraine, killing 19 people including 5 children."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9125,
+    "lon": 31.901,
+    "occurredAt": "2026-10-07T18:12:58+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-239",
+    "headline": {
+      "ja": "ロシア軍がウクライナの防衛産業施設を集中攻撃",
+      "en": "Russia conducts massive strike on Ukrainian defense facilities"
+    },
+    "summary": {
+      "ja": "ロシア軍がウクライナの防衛産業と電力施設に対して大規模な夜間攻撃を実施。キーウ地域を含む複数の州が目標となった。",
+      "en": "Russian forces conducted a massive night strike on Ukrainian defense industry and energy targets across multiple regions."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.1133,
+    "lon": 30.9535,
+    "occurredAt": "2026-10-07T07:33:59+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83760"
+    },
+    "reliability": "low"
+  }
+]
