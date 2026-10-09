@@ -1,0 +1,212 @@
+[
+  {
+    "id": "auto-369",
+    "headline": {
+      "ja": "A father’s agony after an Israeli air st",
+      "en": "A father’s agony after an Israeli air st"
+    },
+    "summary": {
+      "ja": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+      "en": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 30.3253,
+    "lon": 34.7778,
+    "occurredAt": "2026-10-09T00:12:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-276",
+    "headline": {
+      "ja": "Suspect linked to Monaco bomb attack on",
+      "en": "Suspect linked to Monaco bomb attack on"
+    },
+    "summary": {
+      "ja": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "en": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.9541,
+    "lon": 31.261,
+    "occurredAt": "2026-10-08T23:11:10+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-373",
+    "headline": {
+      "ja": "Suspect linked to Monaco bomb attack on",
+      "en": "Suspect linked to Monaco bomb attack on"
+    },
+    "summary": {
+      "ja": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "en": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 49.18,
+    "lon": 31.7065,
+    "occurredAt": "2026-10-08T23:11:10+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-305",
+    "headline": {
+      "ja": "BBC on Hurricane Isaias and its expected",
+      "en": "BBC on Hurricane Isaias and its expected"
+    },
+    "summary": {
+      "ja": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge",
+      "en": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge"
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.748,
+    "lon": -95.8198,
+    "occurredAt": "2026-10-08T19:39:32+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-329",
+    "headline": {
+      "ja": "Hurricane Isaias charges towards the US",
+      "en": "Hurricane Isaias charges towards the US"
+    },
+    "summary": {
+      "ja": "The storm is forecast to strike Florida, Alabama and Mississippi with up to 10 inches of rain this weekend.",
+      "en": "The storm is forecast to strike Florida, Alabama and Mississippi with up to 10 inches of rain this weekend."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 36.9865,
+    "lon": -95.4433,
+    "occurredAt": "2026-10-08T17:58:07+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-96",
+    "headline": {
+      "ja": "Why is Guantanamo prison still open?",
+      "en": "Why is Guantanamo prison still open?"
+    },
+    "summary": {
+      "ja": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+      "en": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open"
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 36.5284,
+    "lon": -95.8763,
+    "occurredAt": "2026-10-08T01:49:11+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-273",
+    "headline": {
+      "ja": "#USA The U.S. Air Force and Royal Austra",
+      "en": "#USA The U.S. Air Force and Royal Austra"
+    },
+    "summary": {
+      "ja": "#USA The U.S. Air Force and Royal Australian Air Force conducted the first flight test release of the Hypersonic Attack",
+      "en": "#USA The U.S. Air Force and Royal Australian Air Force conducted the first flight test release of the Hypersonic Attack"
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 36.7355,
+    "lon": -96.1837,
+    "occurredAt": "2026-10-07T23:15:57+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20446"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "auto-78",
+    "headline": {
+      "ja": "Children killed while they slept as Russ",
+      "en": "Children killed while they slept as Russ"
+    },
+    "summary": {
+      "ja": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "en": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9125,
+    "lon": 31.901,
+    "occurredAt": "2026-10-07T18:12:58+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "auto-261",
+    "headline": {
+      "ja": "#Egypt The U.S. Department of State has",
+      "en": "#Egypt The U.S. Department of State has"
+    },
+    "summary": {
+      "ja": "#Egypt The U.S. Department of State has approved a $832 million Foreign Military Sale to Egypt for up to 2,020 FGM-148F",
+      "en": "#Egypt The U.S. Department of State has approved a $832 million Foreign Military Sale to Egypt for up to 2,020 FGM-148F"
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 37.4006,
+    "lon": -95.4747,
+    "occurredAt": "2026-10-06T18:14:51+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20434"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "auto-257",
+    "headline": {
+      "ja": "#France France successfully launched its",
+      "en": "#France France successfully launched its"
+    },
+    "summary": {
+      "ja": "#France France successfully launched its new M51.3 nuclear-capable ballistic missile for the first time, with President",
+      "en": "#France France successfully launched its new M51.3 nuclear-capable ballistic missile for the first time, with President"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.7916,
+    "lon": 2.0375,
+    "occurredAt": "2026-10-06T17:03:30+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20430"
+    },
+    "reliability": "medium"
+  }
+]
