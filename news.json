@@ -45,25 +45,26 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-09-01",
+    "id": "2026-10-09-02",
     "headline": {
-      "ja": "ティグライ西部テケゼ川戦線で連邦軍とTDFが衝突継続、シェラロ空爆で死者8人 ファノが連邦軍補給線を妨害と分析",
-      "en": "Clashes continue on Tigray's western Tekeze River front; airstrike on Sheraro reportedly kills 8, Amhara Fano militia said to be disrupting federal supply lines"
+      "ja": "フーシ派、リヤド国際空港に2度のミサイル攻撃 サウジ人3人死亡、サウジア機損壊",
+      "en": "Houthi missile strikes on Riyadh's main airport kill three Saudis, damage Saudia aircraft"
     },
     "summary": {
-      "ja": "米シンクタンクCritical Threats Project(「Ethiopia War Security Review」10月6日付、「Africa File」10月8日付)によれば、ティグライ州西部・テケゼ川沿い(州都シレへ至るB30号線周辺)で、エチオピア連邦軍(ENDF)とティグライ防衛軍(TDF)の衝突が続いている。TDFが10月3〜4日にテルセレムティ地区方面への進出を試みたがENDFがこれを阻止し、その後シレ南西約30マイル地点でテケゼ川を渡ってTPLF支配地域の北西ティグライへ進入したとされ、10月5日にはB30号線のテケゼ川渡河地点付近で砲撃の応酬があったという。同レポートはロイター通信の報道として、10月4日夜から5日にかけてのENDFによるシェラロへの空爆で8人が死亡したと伝えている。さらに、アムハラ地方の武装組織「アムハラ・ファノ民族運動」(AFNM)が、アムハラ州経由の連邦軍のティグライ向け補給線を妨害しているとの分析を示した。連邦政府高官はティグライに暫定地方政府を設置し選挙を実施する計画があると述べたとされる。これらはシンクタンクの分析レポート(ロイター等の引用を含む二次情報)に基づくもので、当編集部はロイター原典や他の独立報道でシェラロ空爆の死者数を直接確認できていない。推測:ファノによる補給線妨害が事実であれば、連邦軍・TDF・TPLF・ファノ・(間接的に)エリトリアが絡む多角的な武力紛争へとティグライ情勢が一段と複雑化するリスクを示す。",
-      "en": "According to the US think tank Critical Threats Project (\"Ethiopia War Security Review,\" October 6, 2026, and \"Africa File,\" October 8, 2026), fighting continues between Ethiopia's federal forces (ENDF) and the Tigray Defense Forces (TDF) along the Tekeze River in western Tigray, near the B30 highway leading to the regional capital Shire. The report says the TDF attempted an advance toward Tselemti district on October 3-4 but was halted by the ENDF, which then crossed the Tekeze River about 30 miles southwest of Shire into TPLF-held northwestern Tigray; an artillery exchange near the Tekeze crossing on the B30 on October 5 reportedly shows the ENDF has made no notable gains along that road. The same report, citing Reuters, says an ENDF airstrike on Sheraro on the night of October 4-5 killed 8 people. It further assesses that the Amhara Fano National Movement (AFNM) has been disrupting federal supply lines into Tigray via the Amhara region. A senior federal official is reported to have said the government plans to install an interim regional administration in Tigray and hold elections there. These findings rest on a think tank's secondary analysis (including citations of Reuters), and this desk could not independently verify the Sheraro casualty figure through the original Reuters report or other independent coverage. Speculation: if the Fano disruption of federal supply lines is confirmed, it would signal a further complication of the Tigray conflict into a multi-sided war involving federal forces, the TDF, the TPLF, Fano, and indirectly Eritrea."
+      "ja": "サウジ民間航空当局によれば、10月8日(木)、イエメンの反政府武装組織フーシ派(イラン支援)が首都リヤドのキング・ハーリド国際空港に対し、巡航ミサイル2発とされる攻撃を行った。1発目は空港施設を標的とし、2発目は駐機中(搭乗者なし)の国営サウジア航空機に命中、同社機長ハムード・アリー・アルカルサミ氏(同社社員)を含むサウジ人3人が死亡、複数の負傷者が出たと当局・同社が発表した。迎撃の破片により市内の幼稚園や医療施設も損傷したという。駐在外交団には一時的な屋内退避指示が出され、複数の航空会社が同空港への運航を一時見合わせたが、空港運用は後に正常化したと報じられている。本攻撃は、サウジアラビア主導の対フーシ派軍事作戦が前週末に開始された直後に発生し、同国内での同種の攻撃としては最も死者の多いものとされる。フーシ派側はイエメン政府軍を支援するサウジアラビアへの対抗と説明しているという。2026年2月末開始の米・イスラエル対イラン戦争(既報:2026-10-03、重要度4/緊急チェック2026-10-04、重要度3)に連動する中東情勢の一部であり、国家(勢力)間の相互攻撃の新規の具体的事実として追加した。",
+      "en": "Saudi civil aviation authorities said that on Thursday, October 8, Yemen's Iran-backed Houthi movement struck Riyadh's King Khalid International Airport with what were reported to be two cruise missiles. The first hit airport facilities and the second struck a parked, unoccupied Saudia aircraft. Officials and Saudia said three Saudi nationals were killed, including the airline's own Capt. Hamoud Ali Alkalthami, with several others wounded; interception debris reportedly also damaged a kindergarten and a medical facility in the city. Diplomats in Riyadh were briefly told to shelter in place, and several airlines temporarily suspended flights to the airport, though operations were later reported to have returned to normal. The strike came shortly after a Saudi-led military offensive against the Houthis began the previous weekend and was described as the deadliest such attack on Saudi Arabia to date. The Houthis reportedly framed it as retaliation against Saudi support for Yemeni government forces. This is added as a new, specific state(-aligned)-on-state attack within the broader Middle East war context (US-Israel strikes on Iran since late February 2026; previously reported Oct 3, severity 4, and Oct 4 urgent check, severity 3)."
     },
     "category": "conflict",
-    "country": "エチオピア",
-    "region": "ティグライ州(シェラロ/シレ方面)",
-    "lat": 14.3833,
-    "lon": 37.75,
-    "occurredAt": "2026-10-05T00:00:00+00:00",
+    "country": "サウジアラビア",
+    "region": "リヤド(キング・ハーリド国際空港)",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-08T00:00:00+00:00",
     "source": {
-      "name": "Critical Threats Project (Ethiopia War Security Review, Oct 6 2026)",
-      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-6-2026"
+      "name": "NBC News(サウジ当局・サウジア航空発表、Euronews等の報道集約含む)",
+      "url": "https://www.nbcnews.com/world/saudi-arabia/houthi-strikes-riyadh-airport-killed-saudi-arabia-nationals-rcna602467"
     },
-    "reliability": "medium"
+    "reliability": "high",
+    "severity": 3
   }
 ]
