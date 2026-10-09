@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-09T19:20:33.577Z",
+  "generatedAt": "2026-10-09T20:20:33.390Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 188,
+  "count": 187,
   "warnings": [
+    {
+      "id": "NAVAREA11-260454",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "自然現象",
+      "number": "0454",
+      "title": "太平洋、津波情報",
+      "publishedAt": "2026-10-10T03:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0454    発表日時:2026年10月10日 03時\r\n\n\r\nTSUNAMI INFORMATION.\r\r\nPACIFIC OCEAN.\r\r\nEARTHQUAKE, MAGNITUDE 7.6, OCCURRED \r\r\nAT ABOUT 091756Z OCT IN 07.5N \r\r\n080.8W, PACIFIC OCEAN.\r\r\nTSUNAMI THREATENED TO OCCUR.\r\r\nVESSELS COAST AREA REQUESTED TO\r\r\nBECAUTION ADVISED.\r\r\nCANCEL THIS MSG 111400Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260454&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260453",
       "type": "NAVAREA11",
@@ -138,18 +150,6 @@
       "geometry": null,
       "rawText": "NO.26-0428    発表日時:2026年09月25日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/V PETER FABER, 23 SEP TO UNTIL \r\r\nFURTHER NOTICE. IN VICINITY OF\r\r\n01-16.75N 104-08.14E.\r\r\nCANCEL 0412/26 AND 0423/26.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260428&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260426",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "海底施設",
-      "number": "0426",
-      "title": "南シナ海北部、パラワン島北、海底管敷設作業",
-      "publishedAt": "2026-09-24T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0426    発表日時:2026年09月24日 09時\r\n\n\r\nSOUTH CHINA SEA. NORTHERN PART.\r\r\nSUBMARINE PIPELINE WORKS BY \r\r\nM/V FORTITUDE. UNTIL 08 OCT 2026.\r\r\nIN VICINITY OF\r\r\nA.11-38.23N 118-56.36E.\r\r\nB.11-34.10N 118-53.54E.\r\r\nCANCEL THIS MSG 091600Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260426&LANG=JP"
     },
     {
       "id": "NAVAREA11-260408",
@@ -320,6 +320,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263996",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "自然現象",
+      "number": "3996",
+      "title": "太平洋、津波情報",
+      "publishedAt": "2026-10-10T03:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3996   発表日時:2026年10月10日 03時\r\n\n\r\n津波情報、\r\r\n太平洋、気象庁によれば、07.5N 080.8W、\r\r\n10月9日1756Z頃、マグニチュード7.6の地震に伴い、太平洋で津波発生\r\r\nの可能性あり。沿岸の船舶は注意されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263996&LANG=JP"
     },
     {
       "id": "JAPANNW-263995",
@@ -1070,18 +1082,6 @@
       },
       "rawText": "番号:26-3967   発表日時:2026年10月09日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、10月11日-19日毎日0200Z-1100Z、\r\r\n(1)21-51N 091-23E 21-51N 091-40E\r\r\n   21-25N 091-40E 21-25N 091-23E、\r\r\n(2)21-40.00N 091-00.00E\r\r\n   21-40.00N 091-40.00E\r\r\n   21-03.00N 091-40.00E\r\r\n   21-06.00N 091-30.93E\r\r\n   21-10.97N 091-18.92E\r\r\n   21-18.08N 091-10.08E\r\r\n   21-30.00N 091-02.97E、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263967&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263965",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3965",
-      "title": "北太平洋東部、宇宙ゴミ落下終了",
-      "publishedAt": "2026-10-09T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3965   発表日時:2026年10月09日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(3945削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263965&LANG=JP"
     },
     {
       "id": "JAPANNW-263964",
@@ -2682,18 +2682,6 @@
       },
       "rawText": "番号:26-3781   発表日時:2026年09月26日 20時\r\n\n\r\n響灘北、\r\r\n爆撃、10月1日、2日、5日-9日、13日-16日、19日-23日、26日-30日\r\r\n毎日0800-1700、34-08-52N 130-29-01E\r\r\n34-16-57N 130-12-37E 34-51-11N 130-35-06E\r\r\n34-43-31N 130-52-01Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263781&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263736",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "3736",
-      "title": "南シナ海北部、パラワン島北、海底管敷設作業",
-      "publishedAt": "2026-09-24T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3736   発表日時:2026年09月24日 08時\r\n\n\r\n南シナ海北部、パラワン島北、\r\r\nM/V FORTITUDEによる海底管敷設作業、10月8日まで、\r\r\n(1)11-38.23N 118-56.36E、\r\r\n(2)11-34.10N 118-53.54E、\r\r\nの各点付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263736&LANG=JP"
     },
     {
       "id": "JAPANNW-263730",
