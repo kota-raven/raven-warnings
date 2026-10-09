@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T07:23:47.875Z",
+  "generatedAt": "2026-10-09T08:23:58.142Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 181,
+  "count": 179,
   "warnings": [
     {
       "id": "NAVAREA11-260451",
@@ -2924,6 +2924,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261924",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1924",
+      "title": "駿河湾、波勝岬灯台復旧",
+      "publishedAt": "2026-10-09T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1924    発表日時:2026年10月09日 17時\r\n\n\r\n駿河湾、\r\r\n波勝岬灯台復旧。\r\r\n(1916削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261924&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261923",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1923",
+      "title": "紀伊水道、青島灯台復旧",
+      "publishedAt": "2026-10-09T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1923    発表日時:2026年10月09日 17時\r\n\n\r\n紀伊水道、\r\r\n青島灯台復旧。\r\r\n(1727削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261923&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261922",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3060,42 +3084,6 @@
       },
       "rawText": "番号:26-1917    発表日時:2026年10月09日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、10月12日-15日毎日0800-1800、\r\r\n16日0700-1300、1330-1630、\r\r\n17日1000-1600、\r\r\n34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E\r\r\n34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E\r\r\n34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261917&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261916",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1916",
-      "title": "駿河湾、波勝岬灯台灯質不規則",
-      "publishedAt": "2026-10-09T03:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1916    発表日時:2026年10月09日 03時\r\n\n\r\n駿河湾、\r\r\n波勝岬灯台(34-41.4N 138-44.5E、\r\r\n灯台表第1巻、2451、M6269.5)灯質不規則。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261916&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261915",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1915",
-      "title": "入道埼西南西、射撃終了",
-      "publishedAt": "2026-10-08T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1915    発表日時:2026年10月08日 21時\r\n\n\r\n入道埼西南西、\r\r\n射撃終了\r\r\n(1884削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261915&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261914",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1914",
-      "title": "野母埼西、射撃終了",
-      "publishedAt": "2026-10-08T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1914    発表日時:2026年10月08日 17時\r\n\n\r\n野母埼西、\r\r\n射撃終了\r\r\n(1903削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261914&LANG=JP"
     },
     {
       "id": "NAVTEX-261913",
@@ -3792,18 +3780,6 @@
       "geometry": null,
       "rawText": "番号:26-1758    発表日時:2026年09月11日 17時\r\n\n\r\n塩屋埼北、\r\r\n小良ケ浜灯台(37-21.8N 141-02.3E、\r\r\n灯台表第1巻、1789、M6515)消灯、仮灯設置、\r\r\n単閃白光8秒に1閃、7海里。\r\r\n(1705削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261758&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261727",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1727",
-      "title": "紀伊水道、青島灯台消灯",
-      "publishedAt": "2026-09-07T15:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1727    発表日時:2026年09月07日 15時\r\n\n\r\n紀伊水道、\r\r\n青島灯台(33-55.4N 134-43.2E、\r\r\n灯台表第1巻、3415)消灯。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261727&LANG=JP"
     },
     {
       "id": "NAVTEX-261617",
