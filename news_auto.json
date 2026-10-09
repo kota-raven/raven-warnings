@@ -18,7 +18,9 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
     },
-    "reliability": "high"
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_sabra_airstrike_2026"
   },
   {
     "id": "auto-346",
@@ -39,7 +41,9 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83806"
     },
-    "reliability": "low"
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "montenegro_visa_russia_belarus_turkey_2026-11"
   },
   {
     "id": "auto-337",
@@ -60,7 +64,9 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83793"
     },
-    "reliability": "low"
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_kyiv_2026-10-08"
   },
   {
     "id": "auto-254",
@@ -81,7 +87,9 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83780"
     },
-    "reliability": "low"
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_starlink_communications_2026-10-07"
   },
   {
     "id": "auto-253",
@@ -102,7 +110,10 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83779"
     },
-    "reliability": "low"
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_flamingo_missile_production_strike_2026-10-07",
+    "severity": 4
   },
   {
     "id": "auto-78",
@@ -123,7 +134,10 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high"
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_northern_residential_missile_strike_2026-10-07",
+    "severity": 4
   },
   {
     "id": "auto-239",
@@ -144,6 +158,9 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83760"
     },
-    "reliability": "low"
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_russian_massive_strike_2026-10-07",
+    "severity": 4
   }
 ]
