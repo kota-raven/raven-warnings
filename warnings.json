@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-09T13:25:31.414Z",
+  "generatedAt": "2026-10-09T14:24:51.372Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 193,
+  "count": 190,
   "warnings": [
+    {
+      "id": "NAVAREA11-260453",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "漂流物等",
+      "number": "0453",
+      "title": "北太平洋、マーシャル諸島、バージ漂流",
+      "publishedAt": "2026-10-09T22:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0453    発表日時:2026年10月09日 22時\r\n\n\r\nNORTH PACIFIC, MARSHALLS.\r\r\nDERELICT BARGE ADRIFT IN VICINITY OF\r\r\n05-05.79N 167-14.00E AT 090330Z OCT.\r\r\nCANCEL 0449/26.\r\r\nCANCEL THIS MSG 120330Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260453&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260452",
       "type": "NAVAREA11",
@@ -26,18 +38,6 @@
       "geometry": null,
       "rawText": "NO.26-0451    発表日時:2026年10月09日 16時\r\n\n\r\nNORTH PACIFIC, OKINOTORI SHIMA.\r\r\nHATCH COVER, ABOUT 20 METRE IN SQUARE,\r\r\nADRIFT IN \r\r\n16-54.1N 134-39.5E AT 090625Z OCT.\r\r\nCANCEL 0450/26.\r\r\nCANCEL THIS MSG 120625Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260451&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260449",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "漂流物等",
-      "number": "0449",
-      "title": "北太平洋、マーシャル諸島、バージ漂流",
-      "publishedAt": "2026-10-08T18:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0449    発表日時:2026年10月08日 18時\r\n\n\r\nNORTH PACIFIC, MARSHALLS.\r\r\nDERELICT BARGE ADRIFT IN VICINITY OF\r\r\n05-05.8N 166-33.5E AT 072210Z OCT.\r\r\nCANCEL THIS MSG 102210Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260449&LANG=JP"
     },
     {
       "id": "NAVAREA11-260448",
@@ -320,6 +320,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-263995",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "3995",
+      "title": "北太平洋、マーシャル諸島、バージ漂流",
+      "publishedAt": "2026-10-09T22:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3995   発表日時:2026年10月09日 22時\r\n\n\r\n北太平洋、マーシャル諸島、\r\r\nバージ漂流、10月9日0330Z、05-05.79N 167-14.00E。\r\r\n(3963削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263995&LANG=JP"
     },
     {
       "id": "JAPANNW-263994",
@@ -1112,18 +1124,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263964&LANG=JP"
     },
     {
-      "id": "JAPANNW-263963",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "3963",
-      "title": "北太平洋、マーシャル諸島、バージ漂流",
-      "publishedAt": "2026-10-08T18:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3963   発表日時:2026年10月08日 18時\r\n\n\r\n北太平洋、マーシャル諸島、\r\r\nバージ漂流、10月7日2210Z、05-05.8N 166-33.5E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263963&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263962",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1424,36 +1424,6 @@
       "geometry": null,
       "rawText": "番号:26-3940   発表日時:2026年10月07日 11時\r\n\n\r\n★ コーラル海、\r\r\nFREDERICK REEFS灯台(20-56.2S 154-24.1E)消灯及び\r\r\nレーコン欠射。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263940&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263939",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3939",
-      "title": "インド西岸、射撃",
-      "publishedAt": "2026-10-07T08:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          72.45,
-          20.666666666666668
-        ]
-      },
-      "rawText": "番号:26-3939   発表日時:2026年10月07日 08時\r\n\n\r\n★ インド西岸、\r\r\n射撃、10月9日0230Z-1130Z、20-26N 20-40N\r\r\n072-27E 072-40Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263939&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263937",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3937",
-      "title": "インド東岸、射撃",
-      "publishedAt": "2026-10-07T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3937   発表日時:2026年10月07日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、10月8日1030Z-9日1230Z、\r\r\n13-41.08N 081-14.05E 13-26.32N 081-13.68E\r\r\n13-25.78N 080-58.41E 13-40.45N 080-58.41E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263937&LANG=JP"
     },
     {
       "id": "JAPANNW-263933",
@@ -2070,38 +2040,6 @@
       },
       "rawText": "番号:26-3824   発表日時:2026年09月28日 20時\r\n\n\r\n★ インド東岸、\r\r\nM/V SW DUCHESSによる地質調査作業、11月9日まで、\r\r\n14-12N 081-13E 13-34N 081-51E\r\r\n13-12N 081-26E 13-50N 080-48Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263824&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263820",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3820",
-      "title": "若狭湾北、ロケット射撃",
-      "publishedAt": "2026-09-28T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            134.9972222222222,
-            37.003055555555555
-          ],
-          [
-            135.66361111111112,
-            37.36972222222222
-          ],
-          [
-            135.66361111111112,
-            37.03638888888889
-          ],
-          [
-            134.9972222222222,
-            36.66972222222222
-          ]
-        ]
-      },
-      "rawText": "番号:26-3820   発表日時:2026年09月28日 20時\r\n\n\r\n若狭湾北、\r\r\nロケット射撃、10月3日、5日(予備4日、6日-9日)毎日0700-2100、\r\r\n37-00-11N 134-59-50E 37-22-11N 135-39-49E\r\r\n37-02-11N 135-39-49E 36-40-11N 134-59-50E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263820&LANG=JP"
     },
     {
       "id": "JAPANNW-263809",
