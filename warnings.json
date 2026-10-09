@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T15:22:14.855Z",
+  "generatedAt": "2026-10-09T16:22:09.713Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 190,
+  "count": 188,
   "warnings": [
     {
       "id": "NAVAREA11-260453",
@@ -1714,18 +1714,6 @@
       },
       "rawText": "番号:26-3916   発表日時:2026年10月04日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南、\r\r\n射撃、10月9日-11日毎日0300Z-1200Z、\r\r\n32-40N 126-20Eを中心とする半径6海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263916&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263912",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3912",
-      "title": "ベンガル湾、射撃",
-      "publishedAt": "2026-10-04T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3912   発表日時:2026年10月04日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、10月6日1330Z-9日1530Z、\r\r\n16-20.1N 084-29.3E 16-01.8N 087-23.3E\r\r\n13-52.4N 085-31.5E 14-43.1N 082-33.5E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263912&LANG=JP"
     },
     {
       "id": "JAPANNW-263911",
@@ -3628,38 +3616,6 @@
       "geometry": null,
       "rawText": "番号:26-1893    発表日時:2026年10月05日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月10日(予備12日)0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261893&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261857",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1857",
-      "title": "若狭湾北、ロケット射撃",
-      "publishedAt": "2026-09-28T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            134.9972222222222,
-            37.003055555555555
-          ],
-          [
-            135.66361111111112,
-            37.36972222222222
-          ],
-          [
-            135.66361111111112,
-            37.03638888888889
-          ],
-          [
-            134.9972222222222,
-            36.66972222222222
-          ]
-        ]
-      },
-      "rawText": "番号:26-1857    発表日時:2026年09月28日 13時\r\n\n\r\n若狭湾北、\r\r\nロケット射撃、10月3日、5日(予備4日、6日-9日)\r\r\n毎日0700-2100、\r\r\n37-00-11N 134-59-50E\r\r\n37-22-11N 135-39-49E\r\r\n37-02-11N 135-39-49E\r\r\n36-40-11N 134-59-50Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261857&LANG=JP"
     },
     {
       "id": "NAVTEX-261851",
