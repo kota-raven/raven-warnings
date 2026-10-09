@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-541",
+    "headline": {
+      "ja": "フーシ派のミサイル攻撃、リヤド空港でサウジ国民3人殺害",
+      "en": "Three Saudi nationals killed in Houthi missile attacks on Riyadh airport"
+    },
+    "summary": {
+      "ja": "イラン支援のフーシ派がリヤド空港へミサイル攻撃を実施し、サウジ国民3人が殺害された。サウジアラビアとフーシ派の間の軍事紛争の激化を示す事例。",
+      "en": "Three Saudi nationals were killed in missile attacks by Houthi forces on Riyadh airport, marking an escalation in military tensions between Iran-backed Houthis and Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.228,
+    "lon": 45.4973,
+    "occurredAt": "2026-10-09T13:50:25+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
+  },
+  {
+    "id": "auto-533",
+    "headline": {
+      "ja": "ウクライナがロシアのAIデータインフラを標的に",
+      "en": "Ukraine targets Russia's AI data infrastructure with drone attacks"
+    },
+    "summary": {
+      "ja": "ウクライナはドローン攻撃によってロシアの大手デジタル企業ヤンデックスや精密兵器工場、石油精製所を集中的に標的にしている。",
+      "en": "Ukraine is conducting drone attacks on Russian digital infrastructure including tech giant Yandex, missile manufacturing plants, and oil refineries."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.9792,
+    "lon": 31.2171,
+    "occurredAt": "2026-10-09T13:01:57+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_drone_attacks_russia_infrastructure_2026-10-09"
+  },
+  {
+    "id": "auto-496",
+    "headline": {
+      "ja": "フーシ派のミサイル攻撃、リヤド空港でサウジ国民3人殺害",
+      "en": "Three Saudi nationals killed in Houthi missile attacks on Riyadh airport"
+    },
+    "summary": {
+      "ja": "イラン支援のフーシ派がリヤド空港へミサイル攻撃を実施し、サウジ国民3人が殺害された。サウジアラビアとフーシ派の間の軍事紛争の激化を示す事例。",
+      "en": "Three Saudi nationals were killed in missile attacks by Houthi forces on Riyadh airport, marking an escalation in military tensions between Iran-backed Houthis and Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.2257,
+    "lon": 44.6063,
+    "occurredAt": "2026-10-09T10:07:04+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
+  },
+  {
     "id": "auto-477",
     "headline": {
       "ja": "米防省がイラン軍事作戦計画を準備中という投稿",
