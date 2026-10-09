@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-09T11:22:01.093Z",
+  "generatedAt": "2026-10-09T12:26:22.531Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 195,
+  "count": 193,
   "warnings": [
+    {
+      "id": "NAVAREA11-260452",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "訓練試験",
+      "number": "0452",
+      "title": "北太平洋西部、マーシャル諸島、危険な訓練終了",
+      "publishedAt": "2026-10-09T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0452    発表日時:2026年10月09日 21時\r\n\n\r\nNORTH PACIFIC, MARSHALLS. \r\r\nHAZARDOUS OPERATION CONCLUDED.\r\r\nCANCEL 0444/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260452&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260451",
       "type": "NAVAREA11",
@@ -50,46 +62,6 @@
       "geometry": null,
       "rawText": "NO.26-0445    発表日時:2026年10月05日 21時\r\n\n\r\nSULU SEA.\r\r\nSPACE DEBRIS.\r\r\n091700Z TO 092300Z OCT. AREA BOUNDED BY\r\r\n08-57.0N 119-36.0E 08-45.0N 119-19.8E\r\r\n09-16.2N 118-57.0E 09-28.2N 119-12.6E.\r\r\nCANCEL THIS MSG 100000Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260445&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260444",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "訓練試験",
-      "number": "0444",
-      "title": "北太平洋西部、マーシャル諸島、危険な訓練",
-      "publishedAt": "2026-10-04T21:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            167.48333333333332,
-            9.5
-          ],
-          [
-            167.91666666666666,
-            9.766666666666667
-          ],
-          [
-            168.2,
-            9.333333333333334
-          ],
-          [
-            167.55,
-            8.916666666666666
-          ],
-          [
-            167.35,
-            9.266666666666667
-          ],
-          [
-            167.55,
-            9.383333333333333
-          ]
-        ]
-      },
-      "rawText": "NO.26-0444    発表日時:2026年10月04日 21時\r\n\n\r\nNORTH PACIFIC, MARSHALLS. \r\r\nHAZARDOUS OPERATION. 090600Z TO 091242Z\r\r\nOCT, ALTERNATE 100600Z TO 101242Z OCT.\r\r\nAREA BOUNDED BY\r\r\n09-30N 167-29E 09-46N 167-55E\r\r\n09-20N 168-12E 08-55N 167-33E\r\r\n09-16N 167-21E 09-23N 167-33E.\r\r\nCANCEL THIS MSG 101342Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260444&LANG=JP"
     },
     {
       "id": "NAVAREA11-260433",
@@ -3718,42 +3690,6 @@
       "geometry": null,
       "rawText": "番号:26-1893    発表日時:2026年10月05日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月10日(予備12日)0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261893&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261869",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1869",
-      "title": "五島列島東、射撃",
-      "publishedAt": "2026-09-30T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          129.3311111111111,
-          32.80333333333333
-        ]
-      },
-      "rawText": "番号:26-1869    発表日時:2026年09月30日 13時\r\n\n\r\n五島列島東、\r\r\n射撃、10月5日-7日(予備8日、9日)毎日0800-\r\r\n1800、32-48-12N 129-19-52E\r\r\nを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261869&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261868",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1868",
-      "title": "五島列島南、射撃及びフレア発射",
-      "publishedAt": "2026-09-30T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          128.76444444444445,
-          32.336666666666666
-        ]
-      },
-      "rawText": "番号:26-1868    発表日時:2026年09月30日 13時\r\n\n\r\n五島列島南、\r\r\n射撃及びフレア発射、10月5日-7日(予備8日、9日)毎日\r\r\n0800-1700、31-47-12N 32-20-12N\r\r\n128-45-52E 129-09-52E\r\r\nの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261868&LANG=JP"
     },
     {
       "id": "NAVTEX-261857",
