@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-09T06:28:09.239Z",
+  "generatedAt": "2026-10-09T07:23:47.875Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 181,
   "warnings": [
+    {
+      "id": "NAVAREA11-260451",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "漂流物等",
+      "number": "0451",
+      "title": "北太平洋、ハッチカバー漂流",
+      "publishedAt": "2026-10-09T16:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0451    発表日時:2026年10月09日 16時\r\n\n\r\nNORTH PACIFIC, OKINOTORI SHIMA.\r\r\nHATCH COVER, ABOUT 20 METRE IN SQUARE,\r\r\nADRIFT IN \r\r\n16-54.1N 134-39.5E AT 090625Z OCT.\r\r\nCANCEL 0450/26.\r\r\nCANCEL THIS MSG 120625Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260451&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260449",
       "type": "NAVAREA11",
@@ -338,6 +350,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-263969",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "3969",
+      "title": "フィリピン海、ハッチカバー漂流",
+      "publishedAt": "2026-10-09T15:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-3969   発表日時:2026年10月09日 15時\r\n\n\r\nフィリピン海、\r\r\nハッチカバー(約20メートル四方)\r\r\n漂流、10月9日0625Z、16-54.1N 134-39.5E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263969&LANG=JP"
+    },
+    {
       "id": "JAPANNW-263968",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -550,18 +574,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263959&LANG=JP"
     },
     {
-      "id": "JAPANNW-263958",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3958",
-      "title": "野母埼西、射撃終了",
-      "publishedAt": "2026-10-08T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3958   発表日時:2026年10月08日 20時\r\n\n\r\n野母埼西、\r\r\n射撃終了。\r\r\n(3929削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263958&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263957",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -650,18 +662,6 @@
       "geometry": null,
       "rawText": "番号:26-3952   発表日時:2026年10月08日 12時\r\n\n\r\n台湾海峡、\r\r\nC/S ILE DE REによる海底線修理作業、当分の間、\r\r\n24-04.12N 118-46.48E 24-03.82N 118-46.95E\r\r\n23-51.56N 119-01.84E 23-51.18N 119-02.22E\r\r\nを結ぶ線上付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263952&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263951",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "自然現象",
-      "number": "3951",
-      "title": "ベヨネース列岩東北東、変色水不存在",
-      "publishedAt": "2026-10-08T11:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3951   発表日時:2026年10月08日 11時\r\n\n\r\nベヨネース列岩東北東、明神礁、\r\r\n31-55.1N 140-01.3Eの変色水は存在しない。\r\r\n(5年0250削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263951&LANG=JP"
     },
     {
       "id": "JAPANNW-263950",
