@@ -162,6 +162,146 @@
     "eventKey": "ukraine_businessman_monaco_bomb_assassination_2026-10"
   },
   {
+    "id": "auto-306",
+    "headline": {
+      "ja": "ガザでのパレスチナ人死傷率：停戦下で90分ごと",
+      "en": "Israel kills or wounds Palestinian every 90 minutes in Gaza"
+    },
+    "summary": {
+      "ja": "Al Jazeera報道によると、停戦下のガザではイスラエルの攻撃によって平均90分ごとにパレスチナ人が殺傷されており、人道状況が悪化している。",
+      "en": "Al Jazeera reported that Israel kills or wounds a Palestinian every 90 minutes in Gaza since the ceasefire, worsening humanitarian conditions."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 32.2669,
+    "lon": 35.9045,
+    "occurredAt": "2026-10-08T22:54:23+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_killing_rate_202610",
+    "severity": 4
+  },
+  {
+    "id": "auto-307",
+    "headline": {
+      "ja": "プーチン大統領がイランへの米国主導の戦争終結を支持",
+      "en": "Putin pledges Russia's support to end US-led war on Iran"
+    },
+    "summary": {
+      "ja": "ロシア・イラン両大統領がトルクメニスタンで開催された地域サミットの前に会談し、プーチンがイランへの米国主導の戦争終結を支持することを表明した。",
+      "en": "Putin pledged Russia's support to end US-led military actions against Iran during a meeting with Iran's president in Turkmenistan."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.521,
+    "lon": 53.8437,
+    "occurredAt": "2026-10-08T22:30:37+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_iran_alliance_202610"
+  },
+  {
+    "id": "auto-317",
+    "headline": {
+      "ja": "イエメン人道危機の悪化：5週間で20万人以上が避難",
+      "en": "Yemen's humanitarian crisis worsens with 200,000 displaced in five weeks"
+    },
+    "summary": {
+      "ja": "国連がイエメンの戦闘により5週間で20万人以上が避難したことを発表し、人道危機の深刻化を警告している。",
+      "en": "The UN reported that fighting has displaced over 200,000 people in Yemen in just five weeks, worsening the humanitarian crisis."
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 15.321,
+    "lon": 48.5859,
+    "occurredAt": "2026-10-08T20:06:08+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_humanitarian_crisis_202610",
+    "severity": 4
+  },
+  {
+    "id": "auto-318",
+    "headline": {
+      "ja": "イスラエル入植者がパレスチナ人のオリーブ収穫を奪取",
+      "en": "Israeli settlers take Palestinian olives and harvest traditions"
+    },
+    "summary": {
+      "ja": "イスラエル入植者がパレスチナ領土でオリーブを収穫しており、パレスチナ農民が暴力や古い伝統の喪失に直面している。",
+      "en": "Israeli settlers are harvesting olives on Palestinian land, leading to violence and loss of Palestinian farming traditions."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5704,
+    "lon": 34.6935,
+    "occurredAt": "2026-10-08T19:57:29+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_settlers_olive_harvest_202610"
+  },
+  {
+    "id": "auto-319",
+    "headline": {
+      "ja": "占領西岸：イスラエル入植者がパレスチナのオリーブ樹を組織的に破壊",
+      "en": "Israeli settlers systematically destroy Palestinian olive trees"
+    },
+    "summary": {
+      "ja": "イスラエル入植者が占領下の西岸でパレスチナのオリーブ樹を組織的に破壊している。",
+      "en": "Israeli settlers in the occupied West Bank are systematically destroying Palestinian olive trees."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 32.0347,
+    "lon": 34.8002,
+    "occurredAt": "2026-10-08T19:49:50+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_tree_destruction_202610"
+  },
+  {
+    "id": "auto-322",
+    "headline": {
+      "ja": "イラン戦争：米国の81機の航空機が喪失または損傷、最大33億ドル相当",
+      "en": "81 US aircraft worth up to $3.3bn lost or damaged in Iran war"
+    },
+    "summary": {
+      "ja": "米議会予算庁の報告によると、イラン戦争で米国は81機の航空機を喪失または損傷し、最大33億ドルの損失が発生している。",
+      "en": "A Congressional Budget Office report documented the loss or damage of at least 81 US aircraft worth up to $3.3 billion in the Iran war."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 36.8359,
+    "lon": -96.1649,
+    "occurredAt": "2026-10-08T19:43:39+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_iran_war_aircraft_202610"
+  },
+  {
     "id": "auto-346",
     "headline": {
       "ja": "10月8日情勢まとめ：モンテネグロがロシア国民にビザを導入",
@@ -185,6 +325,53 @@
     "eventKey": "montenegro_visa_russia_belarus_turkey_2026-11"
   },
   {
+    "id": "auto-278",
+    "headline": {
+      "ja": "クラマトルスク地区バス攻撃で30人以上死亡",
+      "en": "Russian strike on buses in Kramatorsk kills at least 30"
+    },
+    "summary": {
+      "ja": "ウクライナ当局がクラマトルスク前線都市でロシアによるバス２台への攻撃があり、民間人30人以上が殺害されたと発表した。",
+      "en": "Ukrainian officials reported that Russian strikes targeted two crowded buses in the front-line city of Kramatorsk, killing at least 30 civilians."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.6239,
+    "lon": 31.6563,
+    "occurredAt": "2026-10-08T16:31:29+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_kramatorsk_bus_strike_202610",
+    "severity": 4
+  },
+  {
+    "id": "auto-338",
+    "headline": {
+      "ja": "反フーシー連合の脆弱性：統一指揮の欠如",
+      "en": "Post on anti-Houthi coalition weakness and unified command failure"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、反フーシー連合がサウジ空軍支援下での攻撃には成功しているが、統一指揮の欠如によりフーシーの海での優位を許しているという分析投稿があった。",
+      "en": "A post on @rybar analyzed how the anti-Houthi coalition lacks unified command, allowing Houthis to gain maritime advantage."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.5594,
+    "lon": 48.7176,
+    "occurredAt": "2026-10-08T12:16:59+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83797"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "yemen_coalition_weakness_202610"
+  },
+  {
     "id": "auto-337",
     "headline": {
       "ja": "ウクライナがキーウへのドローン攻撃を実施、停電多発",
@@ -206,6 +393,76 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_drone_attack_kyiv_2026-10-08"
+  },
+  {
+    "id": "auto-333",
+    "headline": {
+      "ja": "マリ・キダール市が分離主義者から政府軍の統制下に",
+      "en": "Mali's Kidal returns to government control after separatist withdrawal"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、分離主義者とイスラム勢力がキダールから撤退した1日後、アフリカ軍団とマリ政府軍がこの地域の中心都市を制圧したという投稿があった。",
+      "en": "A post on @rybar reported that Mali's Kidal city came under government control after separatists and Islamists withdrew."
+    },
+    "category": "conflict",
+    "country": "マリ",
+    "lat": 17.0775,
+    "lon": -4.7084,
+    "occurredAt": "2026-10-08T07:18:02+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83785"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "mali_kidal_control_202610"
+  },
+  {
+    "id": "auto-301",
+    "headline": {
+      "ja": "ガザ停戦下でも継続する民間人攻撃",
+      "en": "Gaza ceasefire nominal as Israeli strikes continue killing Palestinians"
+    },
+    "summary": {
+      "ja": "ガザではイスラエルの攻撃が停戦下でも継続しており、米国による終戦計画は大きく停滞している。多くのパレスチナ人は今も仮設テント都市での生活を強いられている。",
+      "en": "Despite the ceasefire, Israeli strikes continue in Gaza killing Palestinians, while the U.S. peace plan remains largely stalled with many living in tent camps."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.4763,
+    "lon": 35.9171,
+    "occurredAt": "2026-10-08T05:06:09+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_ceasefire_breakdown_202610",
+    "severity": 4
+  },
+  {
+    "id": "auto-274",
+    "headline": {
+      "ja": "米国潜水艦生産能力拡大プロジェクト「Arsenal-2」",
+      "en": "Post on Arsenal-2 advanced submarine shipyard"
+    },
+    "summary": {
+      "ja": "@OSINTdefenderのアカウントで、Anduril Industriesが37億ドルの投資によってボルティモア地区に新型潜水艦製造施設「Arsenal-2」を建設するという投稿があった。",
+      "en": "A post on @OSINTdefender reported Anduril Industries will build Arsenal-2, a software-defined shipyard in Maryland as part of a $3.7 billion investment to expand submarine production."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 37.6516,
+    "lon": -96.0645,
+    "occurredAt": "2026-10-08T01:17:57+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20447"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "us_submarine_production_arsenal2_202610"
   },
   {
     "id": "auto-254",
@@ -255,6 +512,52 @@
     "severity": 4
   },
   {
+    "id": "auto-298",
+    "headline": {
+      "ja": "エリトレア軍がエチオピア・ティグレ地域に深く進軍",
+      "en": "Eritrean troops move deep into Ethiopia's Tigray region"
+    },
+    "summary": {
+      "ja": "BBCへの証言によると、エリトレア軍の兵員を乗せたトラックがエチオピア・ティグレ地域を南に進軍しているのが目撃されている。",
+      "en": "Residents of Adigrat told the BBC they have seen truckloads of Eritrean soldiers moving south into Ethiopia's Tigray region."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 8.5884,
+    "lon": 41.1143,
+    "occurredAt": "2026-10-07T18:40:52+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ethiopia_eritrea_tigray_202610"
+  },
+  {
+    "id": "auto-252",
+    "headline": {
+      "ja": "スラヴャンスク・リマン地区での緊張局面",
+      "en": "Post on Slavyansk and Liman sector situation"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、スラヴャンスク方面の状況が悪化し、ウクライナ軍がリマン地区の成果を生かして攻勢を強めているという投稿があった。",
+      "en": "A post on @rybar reported that the situation is deteriorating around Slavyansk, with Ukrainian forces intensifying operations in the Liman sector."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.5988,
+    "lon": 31.6124,
+    "occurredAt": "2026-10-07T18:16:43+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83778"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_slavyansk_liman_202610"
+  },
+  {
     "id": "auto-78",
     "headline": {
       "ja": "ロシア軍がウクライナで民間住宅を攻撃、19人が死亡",
@@ -277,6 +580,191 @@
     "auto": true,
     "eventKey": "ukraine_northern_residential_missile_strike_2026-10-07",
     "severity": 4
+  },
+  {
+    "id": "auto-269",
+    "headline": {
+      "ja": "イエメン・タイズでのフーシー支配強化",
+      "en": "Post on Houthis consolidating control in Taiz"
+    },
+    "summary": {
+      "ja": "@OSINTdefenderのアカウントで、イエメンのタイズでフーシー勢力がモハ港の奪取を契機に支配を強化しているという投稿があった。",
+      "en": "A post on @OSINTdefender reported that Houthis have intensified their control over Taiz, Yemen after seizing the strategic port of Mokha."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 14.7876,
+    "lon": 47.8392,
+    "occurredAt": "2026-10-07T17:49:46+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20442"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "yemen_taiz_houthis_202610"
+  },
+  {
+    "id": "auto-251",
+    "headline": {
+      "ja": "コマル地区でのウクライナ側の側面迂回作戦",
+      "en": "Post on flanking operations near Komar"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、ドニプロペトロウスク方面でウクライナ側がロシア軍の側面を迂回し、複数地点での前進を試みているという投稿があった。",
+      "en": "A post on @rybar reported Ukrainian forces conducting flanking maneuvers and attempting advances around Komar on the Dnipropetrovsk front."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.7369,
+    "lon": 31.8947,
+    "occurredAt": "2026-10-07T17:09:01+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83777"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_komar_combat_202610"
+  },
+  {
+    "id": "auto-250",
+    "headline": {
+      "ja": "ドブロポリェでの戦闘激化",
+      "en": "Fighting intensifies in Dobropol area"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、ドブロポリェ地区でロシア軍の攻撃が激化しており、複数地域で戦闘が展開されているという投稿があった。",
+      "en": "A post on @rybar reported intensified fighting in the Dobropol area with Russian assault groups conducting operations in multiple sectors."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.2576,
+    "lon": 31.3237,
+    "occurredAt": "2026-10-07T16:29:01+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83776"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_dobropol_fighting_202610"
+  },
+  {
+    "id": "auto-247",
+    "headline": {
+      "ja": "スターリンクとウクライナドローン戦術",
+      "en": "Post on Starlink's role in Ukrainian drone warfare"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、スターリンク衛星通信がウクライナのドローン無人機作戦の基盤となっており、米国がこれを維持していることが平和を望まない証拠だという分析投稿があった。",
+      "en": "A post on @rybar analyzed Starlink as the foundation of Ukrainian drone operations, arguing its continued provision indicates US reluctance for peace."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9565,
+    "lon": 31.8508,
+    "occurredAt": "2026-10-07T14:15:07+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83773"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_starlink_drone_202610"
+  },
+  {
+    "id": "auto-246",
+    "headline": {
+      "ja": "インド仲介による停戦提案に関する投稿",
+      "en": "Post on Indian-mediated peace proposal"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、ウクライナの経済的困窮（海上封鎖による農業・産業打撃）を背景に、インドによる停戦提案が浮上しているという投稿があった。",
+      "en": "A post on @rybar stated that amid Ukraine's economic distress from the blockade, an Indian-proposed peace settlement was gaining attention."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9314,
+    "lon": 31.7441,
+    "occurredAt": "2026-10-07T13:13:58+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83772"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_peace_proposal_202610"
+  },
+  {
+    "id": "auto-245",
+    "headline": {
+      "ja": "プーチン誕生日時点でのキーウ大規模攻撃",
+      "en": "Post on major Kyiv strike on Putin's birthday"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、プーチン大統領74歳の誕生日にキーウおよび複数地域への夜間大規模ミサイル攻撃があったという投稿があった。",
+      "en": "A post on @rybar reported a sustained nighttime missile strike on Kyiv and other regions coinciding with Putin's 74th birthday."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.5925,
+    "lon": 31.01,
+    "occurredAt": "2026-10-07T12:32:34+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83771"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_missile_strike_202610",
+    "severity": 4
+  },
+  {
+    "id": "auto-242",
+    "headline": {
+      "ja": "ロシア・ブリャンスク州での特殊部隊活動",
+      "en": "Post on DRG operations in Russia's Bryansk region"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、ロシア・ブリャンスク州国境地帯で敵方の特殊部隊（DRG）が活動しており、両勢力が対立している状況についての投稿があった。",
+      "en": "A post on @rybar reported ongoing DRG operations and combat in the border area of Russia's Bryansk region."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 62.1506,
+    "lon": 105.5616,
+    "occurredAt": "2026-10-07T11:02:52+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83768"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_bryansk_conflict_202610"
+  },
+  {
+    "id": "auto-240",
+    "headline": {
+      "ja": "ウクライナ海上封鎖と船舶攻撃に関する投稿",
+      "en": "Post on Ukraine maritime blockade and ship attacks"
+    },
+    "summary": {
+      "ja": "@rybarのアカウントで、ウクライナの海上封鎖およびリスク海域での船舶攻撃が複数発生しているという投稿があった。",
+      "en": "A post on @rybar claimed that Ukraine is under maritime blockade with multiple ship attacks occurring in risky Black Sea areas."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9,
+    "lon": 30.9661,
+    "occurredAt": "2026-10-07T08:13:11+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/83766"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_sea_blockade_202610"
   },
   {
     "id": "auto-239",
