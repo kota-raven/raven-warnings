@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-557",
+    "headline": {
+      "ja": "ハリケーン・イサイアス、カテゴリー3で米国湾岸に接近",
+      "en": "Hurricane Isaias strengthens into Category 3 storm with US in its sights"
+    },
+    "summary": {
+      "ja": "ハリケーン・イサイアスはカテゴリー3に発達し、米国湾岸への上陸が金曜日夜から土曜日早朝に予想されている。",
+      "en": "Hurricane Isaias strengthened to Category 3 and is expected to make landfall along the US Gulf Coast on Friday night or early Saturday."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.9802,
+    "lon": -96.2653,
+    "occurredAt": "2026-10-09T15:25:27+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hurricane_isaias_usa_gulf_coast_20261009"
+  },
+  {
     "id": "auto-541",
     "headline": {
       "ja": "フーシ派のミサイル攻撃、リヤド空港でサウジ国民3人殺害",
