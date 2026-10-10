@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-688",
+    "headline": {
+      "ja": "ハリケーン・イサイアス、米国南東部上陸後に勢力を弱める",
+      "en": "Hurricane Isaias Weakens After Making Landfall in US Gulf Coast"
+    },
+    "summary": {
+      "ja": "ハリケーン・イサイアスがアメリカ湾岸に上陸した後、勢力が減弱している。フロリダ州とアラバマ州で664,000以上の顧客が停電し、倒木と電線被害が発生している。",
+      "en": "Hurricane Isaias weakened after making landfall on the US Gulf Coast, leaving more than 664,000 customers without power in Florida and Alabama and causing downed trees and power line damage."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 37.8398,
+    "lon": -95.55,
+    "occurredAt": "2026-10-10T08:33:44+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_hurricane_isaias_2026-10-10"
+  },
+  {
+    "id": "auto-685",
+    "headline": {
+      "ja": "ハリケーン・イサイアス、米国南東部上陸後に熱帯低気圧に格下げ",
+      "en": "Hurricane Isaias Downgraded After Landfall in Florida"
+    },
+    "summary": {
+      "ja": "ハリケーン・イサイアスがフロリダ州に上陸し、その後熱帯低気圧に格下げされた。フロリダ州とアラバマ州で数十万の世帯が停電している。",
+      "en": "Hurricane Isaias made landfall in Florida and was downgraded to a post-tropical cyclone, with hundreds of thousands of households losing power in Florida and Alabama."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.61,
+    "lon": -96.259,
+    "occurredAt": "2026-10-10T08:29:59+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_hurricane_isaias_2026-10-10"
+  },
+  {
+    "id": "auto-674",
+    "headline": {
+      "ja": "ハリケーン・イサイアス、米国南東部上陸後に熱帯低気圧に格下げ",
+      "en": "Hurricane Isaias Downgraded After Landfall in Florida"
+    },
+    "summary": {
+      "ja": "ハリケーン・イサイアスがフロリダ州に上陸し、その後熱帯低気圧に格下げされた。アメリカ南東部で広範な停電が発生している。",
+      "en": "Hurricane Isaias made landfall in Florida and was downgraded to a post-tropical cyclone, causing widespread power outages across the southeastern United States."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.3716,
+    "lon": -95.7257,
+    "occurredAt": "2026-10-10T06:54:16+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_hurricane_isaias_2026-10-10"
+  },
+  {
     "id": "auto-638",
     "headline": {
       "ja": "ハリケーン・イザイアスがフロリダに上陸",
