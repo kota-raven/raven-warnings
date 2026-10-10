@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-848",
+    "headline": {
+      "ja": "米国、パナマ地震について声明を発表",
+      "en": "US State Department Releases Statement on Panama Earthquake"
+    },
+    "summary": {
+      "ja": "米国国務省がパナマの地震について声明を発表した。",
+      "en": "The U.S. State Department released a statement regarding the earthquake in Panama."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.0788,
+    "lon": -81.2914,
+    "occurredAt": "2026-10-10T15:17:59+00:00",
+    "source": {
+      "name": "米国 国務省",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
+    "id": "auto-1429",
+    "headline": {
+      "ja": "パナマ中央部で7.7の地震が発生",
+      "en": "7.7-Magnitude Earthquake Strikes Central Panama"
+    },
+    "summary": {
+      "ja": "パナマの中央部で 7.7 の地震が発生した。複数の独立した国営通信社がこれを報道している。",
+      "en": "A 7.7-magnitude earthquake struck central Panama, reported by multiple independent state news agencies."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.2796,
+    "lon": -81.2475,
+    "occurredAt": "2026-10-10T12:05:14+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55RmZEZWQyc1RwZzhXNDY2dWw0djdWNVUtRDk5b1BRTE5rN3hnanFWN1ZmMFg3UzdPM2ZhNzdjTHJlZVc3cVhqUWNR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-872",
+    "headline": {
+      "ja": "日本外相、パナマ地震についてのメッセージを発表",
+      "en": "Japanese Foreign Minister Releases Message on Panama Earthquake"
+    },
+    "summary": {
+      "ja": "日本外務省の茂木敏充外相がパナマの地震についてのメッセージを発表した。",
+      "en": "Japanese Foreign Minister Motegi Toshimitsu released a message regarding the earthquake in Panama."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.1604,
+    "lon": -79.9863,
+    "occurredAt": "2026-10-10T11:33:08+00:00",
+    "source": {
+      "name": "日本 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qeFBYLXVmNzc2RFVLb0tsejd3MXRWTDBUallYU3F0NFdZSzIzMlc0Ui1ZbHVWZF9PbUItaTFxQ3BjeklCaUpYZm1aTVBpS3FXUWZiZGV0cTdWQy1EU21OY2U3dkVnbldpRDlta0k1Mzk?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
+    "id": "auto-958",
+    "headline": {
+      "ja": "パナマ地震、初期報告で負傷者 27 人",
+      "en": "Panama Reports 27 Injured in Preliminary Earthquake Toll"
+    },
+    "summary": {
+      "ja": "パナマ政府が地震の初期被害報告として、負傷者 27 人と発表した。",
+      "en": "Panama's preliminary report on earthquake casualties indicates 27 injured."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 9.0576,
+    "lon": -81.1784,
+    "occurredAt": "2026-10-10T08:41:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3p4R25JTmlrVk9QVGNxa2d2RVd1T2J1UE1sMVRwc0dKdGNoN2lRRHpwak9GNTRSdm9kakNyMVdheTRZRVBaUUNDbDViWnlpaXBrTUotT2kwci1DaWJrV05kMHZRQUNudG1taktlVzNLdUU5T2t0cnR3VndPaUhtVzJzWWdVYkNEai10TGxB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
     "id": "auto-688",
     "headline": {
       "ja": "ハリケーン・イサイアス、米国南東部上陸後に勢力を弱める",
@@ -67,6 +160,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "usa_hurricane_isaias_2026-10-10"
+  },
+  {
+    "id": "auto-1629",
+    "headline": {
+      "ja": "ハリケーン・イザイアス、米湾岸に上陸し避難と停電を引き起こす",
+      "en": "Hurricane Isaias Makes Landfall on US Gulf Coast, Forcing Evacuations, Power Outages"
+    },
+    "summary": {
+      "ja": "ハリケーン・イザイアスが米国メキシコ湾沿岸に上陸し、住民避難と広範な停電を引き起こしたと報じられた。",
+      "en": "Hurricane Isaias made landfall on the US Gulf Coast, forcing evacuations and causing widespread power outages."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.8673,
+    "lon": -96.008,
+    "occurredAt": "2026-10-10T04:20:50+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR09FWjFKWmNpa05xQ0pvdWZ1dERtYWdEckJ6VTdQYnlPRm16eWxuczBBRU4xNzhsVnVsdWVybjNWMmk5cVZxcTlFc3hBMDVtOXVRYzQ3YmxuekpTN1VjN2ZESE1WSGoyUVoxbnBoRlFtQkJaMHpMeFloekwzR1hEd2hrdjRvUjAwSUVIanlhY2UxQ0JZNEh4QXZ1WmxvT1lhWlpiLTJmd2VhNDQwbi1seXhRTzNZZ0pvbE1xb3h6YmNiZw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hurricane_isaias_gulf_2026-10-09"
   },
   {
     "id": "auto-638",
@@ -211,6 +327,29 @@
     "severity": 4
   },
   {
+    "id": "auto-1475",
+    "headline": {
+      "ja": "パナマで7.6の地震を観測",
+      "en": "7.6 Magnitude Earthquake Recorded in Panama"
+    },
+    "summary": {
+      "ja": "パナマで 7.6 の地震が観測されたと UAE 国営通信が報じた。",
+      "en": "A 7.6 magnitude earthquake was recorded in Panama, according to UAE state news."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.2859,
+    "lon": -81.398,
+    "occurredAt": "2026-10-09T19:24:45+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkdzc3RVSk1ROGFQWERQalpRS0xKWlM3WDAzeHA4NXpLbm8tZmdhZUFXYXhWSDVVU0haRnMzVFppRlM4WUpRbVlMT2c3RC1xVlpEdEw3SnBXNzFrem9sMVFjWmNTQVpLeXpkS2dabTJnWFkwVXRiY0NjcUJTV1hLRmpHQ1lIQWE2?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
     "id": "auto-592",
     "headline": {
       "ja": "パナマの7.7地震後、ラテンアメリカ各地に津波警報",
@@ -259,6 +398,124 @@
     "severity": 4
   },
   {
+    "id": "auto-962",
+    "headline": {
+      "ja": "パナマの大規模地震、津波警告が発令",
+      "en": "Major Earthquake Strikes Panama, Tsunami Warning Issued"
+    },
+    "summary": {
+      "ja": "パナマで大規模地震が発生し、津波警告が発令された。",
+      "en": "A major earthquake struck Panama, prompting the issuance of a tsunami warning."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.3173,
+    "lon": -80.6576,
+    "occurredAt": "2026-10-09T18:53:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSW85LVkyWllZSThzSE13ZWRueC1BTlp6QjNqRWVzVFFHNlNiUGhPbWp2Rk1GbWxtbi1aRHZrWDhZQnpNZ1Z4c0xTdXBXWmwyZzY1UWdSVDhnUGpScUZPSEhLekdUMVlNMFNiNUxQUFM3WC1zN0loeW5pUXFNcFl6WXMzTk9JUWtGMWhnNWF3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-1467",
+    "headline": {
+      "ja": "パナマの地震、津波警告が発令",
+      "en": "Earthquake Hits Panama, Prompts Tsunami Warnings"
+    },
+    "summary": {
+      "ja": "パナマで地震が発生し、津波警告が発令された。",
+      "en": "An earthquake struck Panama, prompting tsunami warnings."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 7.7525,
+    "lon": -81.1471,
+    "occurredAt": "2026-10-09T18:43:18+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJYNkVYSC13eHp2blN2WjhYalRfNlFWdnBuR1JJdlVpWDVHTmFVRHFtN2lYS0l1UmxZMUtqR1hSdHJiRFlxRmZDbEpZcE1ac2dmNVZiR1RGMkZQSm1sNFFQRGpwNlg5WlM2aGdQUG5NUWRfVTVXT01PR04teWJtNGUycHZERTJES2c1bS1n?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
+    "id": "auto-895",
+    "headline": {
+      "ja": "パナマシティで地震の有感な揺れを観測",
+      "en": "Noticeable Earthquake Tremors Felt in Panama City"
+    },
+    "summary": {
+      "ja": "パナマシティで地震による有感な揺れが観測された。",
+      "en": "Noticeable earthquake tremors were felt in Panama City."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 7.9408,
+    "lon": -80.4882,
+    "occurredAt": "2026-10-09T18:13:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsWHNvc0IyUnY0ZEdZc0R6Yk1hN0RRRWd5RHVza2xwamsxS2ZBREs3a0hjY1Bfci1VbDVhUmw0dUNIU3dpMXRLYXp2TmVibGUtejNHY2pyS2ZET1BWMWdWQUphNmRfSEFvQWFjdDBmV1k1eVp5RDhPZHFuZ2c?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
+    "id": "auto-900",
+    "headline": {
+      "ja": "パナマで8.0の大規模地震が発生",
+      "en": "8.0-Magnitude Earthquake Strikes Panama"
+    },
+    "summary": {
+      "ja": "パナマのピタロザ・アリバ南西 14 km で USGS 観測により 8.0 の地震が発生した。",
+      "en": "An 8.0-magnitude earthquake struck 14 km southwest of Pitaloza Arriba in Panama according to USGS measurements."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.8192,
+    "lon": -80.049,
+    "occurredAt": "2026-10-09T18:06:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZ2dCQkZvUmF5bTZ3QmRIMEo1VkdrN3hPbVJocnFjVjdjZ01CZW5TVDdfYjloM3dDV1VqWkZpWGprOG9VbmJQYW1MQ0hEdWtidXlTajB2MHF6eUpkalc1SHd5NVZjVFNfOTRkSjhVNl9sOVhWck1vNzBBTWg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-944",
+    "headline": {
+      "ja": "スーダン南東部で変位民間人収容施設へのドローン攻撃、30人が死亡",
+      "en": "30 Civilians Killed in Drone Attack on Displacement Shelter in Southeast Sudan"
+    },
+    "summary": {
+      "ja": "スーダン南東部の難民収容施設がドローン攻撃を受け、30 人の民間人が死亡したと複数の情報源が報じた。",
+      "en": "Multiple sources report that 30 civilians were killed in a drone attack on a displacement shelter in southeast Sudan."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 12.6875,
+    "lon": 29.6333,
+    "occurredAt": "2026-10-09T15:42:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnJNMWZqUDk3MmF5cWdGTWpRVTdXUlBnS1VMckFZMVAtaGxSbzlDWExfRGhGUm43eDV4R0lKQzJKOE9mSXQ1czZtV0tHeXBOZ1JBMFV6UnhyeTdVb3d3ZzZCMmhSOHFkWnBZVE1BRkdBdnRvNmpmV2VGVmFhMFhfNTdLMHQ0dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_southeast_drone_attack_2026-10-09",
+    "severity": 4
+  },
+  {
     "id": "auto-557",
     "headline": {
       "ja": "ハリケーン・イサイアス、カテゴリー3で米国湾岸に接近",
@@ -282,6 +539,29 @@
     "eventKey": "hurricane_isaias_usa_gulf_coast_20261009"
   },
   {
+    "id": "auto-1562",
+    "headline": {
+      "ja": "イスラエル、枠組み合意にもかかわらず南レバノンへの砲撃と空爆を実施",
+      "en": "Israeli Artillery and Airstrikes Target Southern Lebanon Despite Framework Deal"
+    },
+    "summary": {
+      "ja": "イスラエル軍が枠組み合意にもかかわらず、南レバノンへの砲撃と空爆を実施していると報じられた。",
+      "en": "Israeli forces have been conducting artillery strikes and airstrikes against southern Lebanon despite a framework agreement."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.9661,
+    "lon": 36.158,
+    "occurredAt": "2026-10-09T14:02:30+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlY1M1ZlNzhkMHEyQ05KY2p3ZDktZDZxMEpaZEt2d3k3OWVteDNGRjJyMlRXZlpPQThteXh3Q1pSdEZydFdibTFSQnd6c2JYa1dYcFVUZW80R2FMdV9XMWhybTZHY3RiWkJwaVlDSDNGVWc4aUIyb3ZhUFM2Q29SV3RjVGpDN2ZrR2hnY3J5YUQ1MktKRGlvb0w1V0hwMjFKN0xScFpZbi0teGktbDlyc2lCMlNpLVhLbGp6OA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_airstrikes_2026-10-09"
+  },
+  {
     "id": "auto-541",
     "headline": {
       "ja": "フーシ派のミサイル攻撃、リヤド空港でサウジ国民3人殺害",
@@ -303,6 +583,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
+  },
+  {
+    "id": "auto-1602",
+    "headline": {
+      "ja": "ハリケーン・イザイアス、米湾岸の原油生産の63%と天然ガスの57%を停止させる",
+      "en": "Hurricane Isaias Shuts in 63% of US Gulf Oil, 57% of Gas Output"
+    },
+    "summary": {
+      "ja": "ハリケーン・イザイアスの影響により、米国メキシコ湾地域の原油生産の63%と天然ガス生産の57%が停止されたと報じられた。",
+      "en": "Hurricane Isaias has caused shutdowns of 63% of US Gulf oil production and 57% of gas output."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.4594,
+    "lon": -95.3053,
+    "occurredAt": "2026-10-09T13:25:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVVfWXBJcnhXYVJrX1NvNWNJOUFGVml3NVlmcUtYRjZyTlJPcmlWc2RaNFBXMWt5YUFlYXNyQ2dUZnFmMUNSMkhzSW1zOGtISk5MdTQ2Q1hlZ080LTNMOERUY0l4aHpnR0IwVWxvSEt3Ry1TMEN2RjFBdDhFUzBLVzlQcllFTXYtM1FNLTBOS3pINFo5Wnh6ZmlkZm10cExhSG5CLWxOQzlrUGF6SzBEcWpGR2hsVHfSAbcBQVVfeXFMT0FVX1lwSXJ4V2FSa19TbzVjSTlBRlZpdzVZZnFLWEY2ck5ST3JpVnNkWjRQVzFreWFBZWFzckNnVGZxZjFDUjJIc0ltczhrSEpOTHU0NkNYZWdPNC0zTDhEVGNJeGh6Z0dCMFVsb0hLd0ctUzBDdkYxQXQ4RVMwS1c5UHJZRU12LTNRTS0wTkt6SDRaOVp4emZpZGZtdHBMYUhuQi1sTkM5a1BhekswRHFqRkdobFR3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hurricane_isaias_gulf_2026-10-09"
   },
   {
     "id": "auto-533",
