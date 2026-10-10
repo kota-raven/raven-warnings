@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T03:21:20.894Z",
+  "generatedAt": "2026-10-10T04:21:35.792Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 186,
+  "count": 189,
   "warnings": [
     {
       "id": "NAVAREA11-260454",
@@ -3290,6 +3290,62 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261928",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海洋施設",
+      "number": "1928",
+      "title": "襟裳岬西、船舶間貨物油積替作業",
+      "publishedAt": "2026-10-10T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            141.66666666666666,
+            42.36666666666667
+          ],
+          [
+            142.85,
+            41.833333333333336
+          ],
+          [
+            141.63333333333333,
+            41.733333333333334
+          ],
+          [
+            141.5,
+            41.95
+          ]
+        ]
+      },
+      "rawText": "番号:26-1928    発表日時:2026年10月10日 13時\r\n\n\r\n襟裳岬西、\r\r\nTSUGARU(160463トン)による\r\r\n船舶間貨物油積替作業、10月11日0800-当分の間、\r\r\n42-22N 141-40E 41-50N 142-51E\r\r\n41-44N 141-38E 41-57N 141-30E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261928&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261927",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1927",
+      "title": "恵山岬東南東、射撃",
+      "publishedAt": "2026-10-10T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1927    発表日時:2026年10月10日 13時\r\n\n\r\n恵山岬東南東、\r\r\n射撃、10月15日(予備16日)0800-2400、\r\r\n41-43.0N 141-29.4Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261927&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261926",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海底施設",
+      "number": "1926",
+      "title": "潮岬南、海底線敷設作業",
+      "publishedAt": "2026-10-10T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1926    発表日時:2026年10月10日 13時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業、当分の間、\r\r\n(1)33-06.0N 136-22.5E\r\r\n   32-27.0N 136-17.5E\r\r\n   32-10.0N 134-57.0Eで囲まれる海面、\r\r\n(2)ケーブル浮標(黄色)設置、\r\r\n   32-11.7N 135-03.8E付近、\r\r\n(1920削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261926&LANG=JP"
     },
     {
       "id": "NAVTEX-261925",
