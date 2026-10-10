@@ -66,5 +66,27 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-10-01",
+    "headline": {
+      "ja": "イエメン政府軍、サウジ主導連合の支援下で反攻作戦「イエメンの夜明け」開始 モカ制圧主張、タイズ方面で戦闘継続",
+      "en": "Yemeni government forces, backed by Saudi-led coalition, launch 'Dawn of Yemen' counteroffensive; claim capture of Mocha as fighting continues around Taiz"
+    },
+    "summary": {
+      "ja": "イエメンの国際的に承認された政府(大統領指導評議会、議長ラシャド・アル・アリミ氏)は10月4日、フーシ派(イラン支援)に対する反攻作戦「イエメンの夜明け」の開始を発表した。サウジ主導連合が海空から支援しているという。政府側は紅海沿岸の要衝モカを制圧したと発表したが、ロイター通信はこの主張を独立して確認できていないとしている。フーシ派はこれを根拠がないとして否定した。10月7日には、モカの支配確保に重要なタイズ州の山岳地帯アル・ワズィーヤ地区の奪還作戦を政府側部隊が開始したと報じられた一方、タイズ周辺ではフーシ派側も陣地を広げているとの報道もある。世界食糧計画(WFP)は、戦闘の激化で14万9000人超が避難したと報告した。推測:政府側はサヌア(首都)を含むフーシ派支配地域全体の奪還を最終目標に掲げているが、過去の戦局経緯を踏まえ、短期間での達成は不確実との見方が複数の報道で示されている。既報のリヤド・アブハ両空港へのフーシ派攻撃(id: 2026-10-09-02等)は、この反攻作戦に対するフーシ派の反発の一部とされる。",
+      "en": "Yemen's internationally recognized government (Presidential Leadership Council, chaired by Rashad al-Alimi) announced on October 4 the launch of a counteroffensive against the Iran-backed Houthi movement, named 'Dawn of Yemen,' said to be backed by sea and air support from the Saudi-led coalition. Government sources said they had captured the strategic Red Sea port city of Mocha, but Reuters said it could not independently verify this claim; the Houthis rejected it as baseless. On October 7, government-aligned forces reportedly launched an operation to retake the mountainous al-Waziiya district of Taiz governorate, seen as key to securing control of Mocha, while other reports said Houthi forces were also expanding positions around Taiz. The World Food Programme said the escalation has displaced more than 149,000 people. Speculation: the government's stated ultimate goal is to retake all Houthi-held territory including the capital Sanaa, though multiple reports suggest this is unlikely to be achieved quickly given the war's history. The previously reported Houthi missile strikes on Riyadh and Abha airports (e.g. id: 2026-10-09-02) are described as part of the Houthis' response to this offensive."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "タイズ州(モカ)",
+    "lat": 13.3167,
+    "lon": 43.25,
+    "occurredAt": "2026-10-07T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / FDD's Long War Journal",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz"
+    },
+    "reliability": "medium"
   }
 ]
