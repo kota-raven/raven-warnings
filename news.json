@@ -1,50 +1,5 @@
 [
   {
-    "id": "2026-10-07-01",
-    "headline": {
-      "ja": "エリトリア軍、エチオピア北部アディグラトに進入と目撃証言 緊張一段と悪化",
-      "en": "Witnesses report Eritrean troops inside northern Ethiopian town of Adigrat, deepening tensions"
-    },
-    "summary": {
-      "ja": "複数の目撃者がロイター通信に対し、10月7日(水)、エリトリア軍兵士数十人がトラック2台でエチオピア北部ティグライ州の町アディグラト(エリトリア国境から南へ約25km)を通過するのを見たと証言した。ロイターは独立した確認が取れていないとしている。現地当局者はアディグラトでのエリトリア軍の存在はこの4日間続いているとし、別の目撃者は部隊がさらに南のイダガ・ハムス方面へ向かったと述べた。親政府民兵「ティグライ・ピース・フォース」の司令官も、エリトリア軍が重火器を伴い制服姿でティグライに入り、ドローン攻撃を受けていると証言した。エリトリアのイエマネ・メスケル情報相はこれらの報道を否定せず、エチオピア側の「自衛」との説明を自国の対外侵略を正当化するための口実だと批判したと報じられている。エチオピアとエリトリアは先週、外交関係を断絶しており、本件が事実であれば9月23日以降のティグライでの戦闘にエリトリアが直接軍事介入したことを示す初の確認情報となる。推測:これが確認されれば、エチオピア・エリトリア・エジプト・スーダンを巻き込む地域規模の国家間武力衝突に発展するリスクが一段と高まる。",
-      "en": "Multiple witnesses told Reuters they saw dozens of Eritrean soldiers drive through Adigrat, a town in Ethiopia's Tigray region about 25km south of the Eritrean border, in two trucks on Wednesday, October 7. Reuters said it could not independently verify the accounts. A local official said Eritrean soldiers had been present in Adigrat for four days, and another witness said troops were seen heading further south toward Idaga Hamus. A commander of the pro-government Tigray Peace Force separately said Eritrean forces had entered Tigray in uniform with heavy weaponry and were being struck by drones. Eritrea's Information Minister Yemane Meskel did not deny the reports, instead criticizing Ethiopia's 'self-defense' framing as a pretext for its own aggression, according to the report. Ethiopia and Eritrea severed diplomatic ties last week. If confirmed, this would be the first verified instance of direct Eritrean military intervention in the Tigray fighting that began September 23. Speculation: if confirmed, this would raise the risk of the conflict escalating into a wider interstate war involving Ethiopia, Eritrea, Egypt and Sudan."
-    },
-    "category": "conflict",
-    "country": "エチオピア",
-    "region": "ティグライ州",
-    "lat": 14.2667,
-    "lon": 39.45,
-    "occurredAt": "2026-10-07T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera(ロイター通信報道を引用)",
-      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-08-01",
-    "headline": {
-      "ja": "露軍、プーチン大統領の誕生日にウクライナへ大規模攻撃 プリルキの住宅直撃で民間人多数死亡",
-      "en": "Russia launches massive strike on Ukraine on Putin's birthday, apartment block hit in Pryluky kills many civilians"
-    },
-    "summary": {
-      "ja": "ロシア軍は10月7日未明(プーチン大統領の74歳の誕生日)、ウクライナ全土に向けてドローン約130発、巡航ミサイル48発、弾道ミサイル(数不明)を発射する大規模攻撃を実施した。チェルニーヒウ州プリルキでは住宅ブロックが直撃を受け、子供4人を含む民間人19〜21人(報道により差異)が死亡、約50〜60人が負傷したと複数メディア(AP通信配信、NBC News、Al Jazeera)が報じた。ゼレンスキー大統領はこれを開戦以来最大規模の攻撃の一つと述べた。既報(id: 2026-10-05-04、10月5日未明の約550発・死者5人の攻撃)に続く、さらに大規模な攻撃である。ロシア国防省は、巡航ミサイル「フラミンゴ」等を製造するFire Point社の関連拠点を狙ったと説明しているが、AP通信はこの主張を独立して確認できていないとしている。推測:ウクライナ側も同日夜、ロシア領内(モスクワ近郊を含む)へ数百機規模のドローンで反撃し燃料基地等を攻撃したと、ロシア軍事系ブロガーらのアカウントで投稿があったと報じられているが、独立した確認は取れていない未確認情報。",
-      "en": "In the early hours of October 7 (President Putin's 74th birthday), Russian forces launched a large-scale attack across Ukraine with roughly 130 drones, 48 cruise missiles, and an undisclosed number of ballistic missiles. An apartment block in Pryluky, Chernihiv region, was directly hit, killing 19-21 civilians (reports vary), including 4 children, and wounding about 50-60, according to multiple outlets (AP wire, NBC News, Al Jazeera). President Zelensky called it one of the largest attacks since the war began. This follows an earlier large attack on October 5 (id: 2026-10-05-04, ~550 munitions, 5 killed). Russia's defense ministry said it targeted facilities belonging to Fire Point, maker of the 'Flamingo' cruise missile, a claim AP could not independently verify. Speculation/unconfirmed: Russian military bloggers' accounts reported that Ukraine retaliated the same night with a large-scale drone strike (said to be several hundred drones) on targets inside Russia, including near Moscow, hitting a fuel depot, but this has not been independently verified."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "チェルニーヒウ州(プリルキ)",
-    "lat": 50.5965,
-    "lon": 32.394,
-    "occurredAt": "2026-10-07T00:00:00+00:00",
-    "source": {
-      "name": "NBC News / Al Jazeera(AP通信配信記事含む)",
-      "url": "https://www.nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-09-02",
     "headline": {
       "ja": "フーシ派、リヤド国際空港に2度のミサイル攻撃 サウジ人3人死亡、サウジア機損壊",
@@ -68,25 +23,24 @@
     "severity": 3
   },
   {
-    "id": "2026-10-10-01",
+    "id": "2026-10-11-01",
     "headline": {
-      "ja": "イエメン政府軍、サウジ主導連合の支援下で反攻作戦「イエメンの夜明け」開始 モカ制圧主張、タイズ方面で戦闘継続",
-      "en": "Yemeni government forces, backed by Saudi-led coalition, launch 'Dawn of Yemen' counteroffensive; claim capture of Mocha as fighting continues around Taiz"
+      "ja": "台湾・頼清徳総統、国慶節演説で「台湾海峡での武力行使は容認しない」 中国は批判",
+      "en": "Taiwan's Lai Ching-te vows not to tolerate force in Taiwan Strait in National Day speech, China criticizes"
     },
     "summary": {
-      "ja": "イエメンの国際的に承認された政府(大統領指導評議会、議長ラシャド・アル・アリミ氏)は10月4日、フーシ派(イラン支援)に対する反攻作戦「イエメンの夜明け」の開始を発表した。サウジ主導連合が海空から支援しているという。政府側は紅海沿岸の要衝モカを制圧したと発表したが、ロイター通信はこの主張を独立して確認できていないとしている。フーシ派はこれを根拠がないとして否定した。10月7日には、モカの支配確保に重要なタイズ州の山岳地帯アル・ワズィーヤ地区の奪還作戦を政府側部隊が開始したと報じられた一方、タイズ周辺ではフーシ派側も陣地を広げているとの報道もある。世界食糧計画(WFP)は、戦闘の激化で14万9000人超が避難したと報告した。推測:政府側はサヌア(首都)を含むフーシ派支配地域全体の奪還を最終目標に掲げているが、過去の戦局経緯を踏まえ、短期間での達成は不確実との見方が複数の報道で示されている。既報のリヤド・アブハ両空港へのフーシ派攻撃(id: 2026-10-09-02等)は、この反攻作戦に対するフーシ派の反発の一部とされる。",
-      "en": "Yemen's internationally recognized government (Presidential Leadership Council, chaired by Rashad al-Alimi) announced on October 4 the launch of a counteroffensive against the Iran-backed Houthi movement, named 'Dawn of Yemen,' said to be backed by sea and air support from the Saudi-led coalition. Government sources said they had captured the strategic Red Sea port city of Mocha, but Reuters said it could not independently verify this claim; the Houthis rejected it as baseless. On October 7, government-aligned forces reportedly launched an operation to retake the mountainous al-Waziiya district of Taiz governorate, seen as key to securing control of Mocha, while other reports said Houthi forces were also expanding positions around Taiz. The World Food Programme said the escalation has displaced more than 149,000 people. Speculation: the government's stated ultimate goal is to retake all Houthi-held territory including the capital Sanaa, though multiple reports suggest this is unlikely to be achieved quickly given the war's history. The previously reported Houthi missile strikes on Riyadh and Abha airports (e.g. id: 2026-10-09-02) are described as part of the Houthis' response to this offensive."
+      "ja": "台湾の頼清徳総統は10月10日、台北の総統府前で行われた建国記念日(双十節)演説で、台湾は平和を重んじるとしつつ「自由を諭さない」と述べ、台湾海峡での武力による現状変更を容認しないと表明した。防衛費増額については「戦争を抑止するため」と説明し、インド太平洋地域の民主主義国家に地域の安定維持への協力を呼びかけた。米中間の対話については歓迎する姿勢を示す一方、平和の維持には歴史の正しい理解が必要だと指摘したという。これに対し中国側は、演説が事実を無視し公衆を誤導するものだと批判したと複数メディアが報じた。[信頼性: 高](AP通信、Al Jazeera、Washington Post、Focus Taiwan〈総統府発表の演説全文〉等複数の報道機関が一致して報道)",
+      "en": "Taiwan's President Lai Ching-te said in his October 10 National Day address outside the Presidential Office in Taipei that while Taiwan cherishes peace, it will 'not give up our freedom,' and that the island would not tolerate any attempt to change the status quo in the Taiwan Strait by force. He said the island's defense spending increase is meant to 'deter war,' and called on Indo-Pacific democracies to help maintain regional stability. He welcomed dialogue between the US and China while saying that maintaining peace requires a correct understanding of history. Beijing criticized the speech as disregarding facts and misleading the public, according to multiple outlets. [Reliability: High] (Consistently reported by AP, Al Jazeera, Washington Post, and Focus Taiwan, which published the Presidential Office's official English text of the speech.)"
     },
     "category": "conflict",
-    "country": "イエメン",
-    "region": "タイズ州(モカ)",
-    "lat": 13.3167,
-    "lon": 43.25,
-    "occurredAt": "2026-10-07T00:00:00+00:00",
+    "country": "台湾",
+    "lat": 23.6978,
+    "lon": 120.9605,
+    "occurredAt": "2026-10-10T01:00:00+00:00",
     "source": {
-      "name": "Al Jazeera / FDD's Long War Journal",
-      "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war"
     },
-    "reliability": "medium"
+    "reliability": "high"
   }
 ]
