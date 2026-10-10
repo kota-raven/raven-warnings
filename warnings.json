@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T11:19:13.797Z",
+  "generatedAt": "2026-10-10T12:24:40.337Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 186,
+  "count": 184,
   "warnings": [
     {
       "id": "NAVAREA11-260454",
@@ -28,18 +28,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260453&LANG=JP"
     },
     {
-      "id": "NAVAREA11-260452",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "訓練試験",
-      "number": "0452",
-      "title": "北太平洋西部、マーシャル諸島、危険な訓練終了",
-      "publishedAt": "2026-10-09T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0452    発表日時:2026年10月09日 21時\r\n\n\r\nNORTH PACIFIC, MARSHALLS. \r\r\nHAZARDOUS OPERATION CONCLUDED.\r\r\nCANCEL 0444/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260452&LANG=JP"
-    },
-    {
       "id": "NAVAREA11-260451",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
@@ -62,18 +50,6 @@
       "geometry": null,
       "rawText": "NO.26-0448    発表日時:2026年10月08日 12時\r\n\n\r\nTAIWAN STRAIT.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/S ILE DE RE UNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n24-04.12N 118-46.48E\r\r\n24-03.82N 118-46.95E\r\r\n23-51.56N 119-01.84E\r\r\n23-51.18N 119-02.22E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260448&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260445",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0445",
-      "title": "スールー海、宇宙ゴミ落下",
-      "publishedAt": "2026-10-05T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0445    発表日時:2026年10月05日 21時\r\n\n\r\nSULU SEA.\r\r\nSPACE DEBRIS.\r\r\n091700Z TO 092300Z OCT. AREA BOUNDED BY\r\r\n08-57.0N 119-36.0E 08-45.0N 119-19.8E\r\r\n09-16.2N 118-57.0E 09-28.2N 119-12.6E.\r\r\nCANCEL THIS MSG 100000Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260445&LANG=JP"
     },
     {
       "id": "NAVAREA11-260433",
