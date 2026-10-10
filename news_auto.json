@@ -1,5 +1,101 @@
 [
   {
+    "id": "auto-610",
+    "headline": {
+      "ja": "パナマでマグニチュード7.7の強い地震が発生",
+      "en": "Powerful magnitude 7.7 earthquake hits Panama"
+    },
+    "summary": {
+      "ja": "パナマ沖で7.7の地震が発生し、建物に被害が出た。ラテンアメリカの複数国に津波警報が発令された。",
+      "en": "A magnitude 7.7 earthquake struck Panama, causing building damage. Tsunami warnings were issued for multiple Latin American countries."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 7.74,
+    "lon": -80.5008,
+    "occurredAt": "2026-10-09T21:26:30+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_7.7_2026-10-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-582",
+    "headline": {
+      "ja": "パナマでマグニチュード7.7の強い地震が発生",
+      "en": "Powerful magnitude 7.7 earthquake hits Panama"
+    },
+    "summary": {
+      "ja": "パナマ沖で7.7の地震が発生し、建物に被害が出た。ラテンアメリカの複数国に津波警報が発令された。",
+      "en": "A magnitude 7.7 earthquake struck Panama, causing building damage. Tsunami warnings were issued for multiple Latin American countries including Colombia, Ecuador, Nicaragua, Guatemala, and Chile."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.1792,
+    "lon": -80.6639,
+    "occurredAt": "2026-10-09T19:39:52+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_7.7_2026-10-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-592",
+    "headline": {
+      "ja": "パナマの7.7地震後、ラテンアメリカ各地に津波警報",
+      "en": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits"
+    },
+    "summary": {
+      "ja": "パナマ沖の7.7地震後、コロンビア、エクアドル、ニカラグア、グアテマラ、チリを含む複数国に津波警報が発令された。",
+      "en": "Following the 7.7 magnitude earthquake off Panama, tsunami warnings were issued to multiple countries including Colombia, Ecuador, Nicaragua, Guatemala, and Chile."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 9.1141,
+    "lon": -80.162,
+    "occurredAt": "2026-10-09T19:22:56+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_7.7_2026-10-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-621",
+    "headline": {
+      "ja": "パナマの7.7地震後、ラテンアメリカ各地に津波警報",
+      "en": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake"
+    },
+    "summary": {
+      "ja": "パナマ沖の7.7地震後、コロンビア、エクアドル、ニカラグア、グアテマラ、チリを含む複数国に津波警報が発令された。",
+      "en": "Following the 7.7 magnitude earthquake off Panama, tsunami warnings were issued to multiple countries including Colombia, Ecuador, Nicaragua, Guatemala, and Chile."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.5745,
+    "lon": -79.9988,
+    "occurredAt": "2026-10-09T19:22:56+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_7.7_2026-10-09",
+    "severity": 4
+  },
+  {
     "id": "auto-557",
     "headline": {
       "ja": "ハリケーン・イサイアス、カテゴリー3で米国湾岸に接近",
