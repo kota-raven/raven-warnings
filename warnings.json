@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T02:21:04.243Z",
+  "generatedAt": "2026-10-10T03:21:20.894Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 188,
+  "count": 186,
   "warnings": [
     {
       "id": "NAVAREA11-260454",
@@ -3292,6 +3292,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261925",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1925",
+      "title": "姫路港、広畑航路第４号灯浮標流失",
+      "publishedAt": "2026-10-10T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1925    発表日時:2026年10月10日 11時\r\n\n\r\n姫路港、\r\r\n広畑航路第4号灯浮標(34-44.5N\r\r\n134-37.4E、灯台表第1巻、3869)流失。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261925&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261924",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3302,18 +3314,6 @@
       "geometry": null,
       "rawText": "番号:26-1924    発表日時:2026年10月09日 17時\r\n\n\r\n駿河湾、\r\r\n波勝岬灯台復旧。\r\r\n(1916削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261924&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261923",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1923",
-      "title": "紀伊水道、青島灯台復旧",
-      "publishedAt": "2026-10-09T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1923    発表日時:2026年10月09日 17時\r\n\n\r\n紀伊水道、\r\r\n青島灯台復旧。\r\r\n(1727削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261923&LANG=JP"
     },
     {
       "id": "NAVTEX-261922",
@@ -3332,30 +3332,6 @@
       },
       "rawText": "番号:26-1922    発表日時:2026年10月09日 13時\r\n\n\r\n襟裳岬西北西、\r\r\n射撃、10月14日(予備15日)0900-2400、\r\r\n42-02N 142-33Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261922&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261921",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "1921",
-      "title": "犬吠埼南西、ロープ付灯付浮標撤去",
-      "publishedAt": "2026-10-09T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1921    発表日時:2026年10月09日 13時\r\n\n\r\n犬吠埼南西、\r\r\nロープ付灯付浮標撤去。\r\r\n(1905削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261921&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261920",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海底施設",
-      "number": "1920",
-      "title": "潮岬南、海底線敷設作業",
-      "publishedAt": "2026-10-09T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1920    発表日時:2026年10月09日 13時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業、当分の間、\r\r\n(1)33-06.0N 136-22.5E\r\r\n   32-27.0N 136-17.5E\r\r\n   32-10.0N 134-57.0Eで囲まれる海面、\r\r\n(2)ケーブル浮標(黄色)設置、\r\r\n   32-11.7N 135-03.8E付近、\r\r\n(3)ケーブル浮標(黒色)設置、\r\r\n   32-27.8N 136-16.4E付近。\r\r\n(1828、1832削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261920&LANG=JP"
     },
     {
       "id": "NAVTEX-261919",
