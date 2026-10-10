@@ -1,5 +1,99 @@
 [
   {
+    "id": "auto-638",
+    "headline": {
+      "ja": "ハリケーン・イザイアスがフロリダに上陸",
+      "en": "Hurricane Isaias makes landfall in Florida"
+    },
+    "summary": {
+      "ja": "危険度の高いハリケーン・イザイアスがフロリダに上陸し、アラバマ、ジョージア、ルイジアナにも影響を及ぼす見通し。",
+      "en": "Life-threatening Hurricane Isaias has made landfall in Florida and is expected to impact Alabama, Georgia, and Louisiana."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.7669,
+    "lon": -96.2653,
+    "occurredAt": "2026-10-10T01:58:56+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hurricane_isaias_florida_2026-10-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-639",
+    "headline": {
+      "ja": "プーチン大統領、ウクライナ交渉は困難だと述べる",
+      "en": "Putin tells Trump peace talks are unlikely"
+    },
+    "summary": {
+      "ja": "ロシア大統領プーチンは、先月のモスクワへのドローン攻撃が三国間平和交渉を妨げたとして、ウクライナ平和交渉の可能性は低いとトランプ大統領に述べた。",
+      "en": "Putin stated that drone attacks on Moscow during last month's election have undermined trilateral peace negotiations, making peace talks unlikely."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 60.8141,
+    "lon": 105.4612,
+    "occurredAt": "2026-10-10T01:40:51+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_peace_talks_2026-10"
+  },
+  {
+    "id": "auto-641",
+    "headline": {
+      "ja": "パナマ南部で2つの地震が発生、大規模災害を宣言",
+      "en": "Dual quakes devastate southern Panama"
+    },
+    "summary": {
+      "ja": "パナマ南部で2つの地震が相次いで発生し、大統領が大規模災害を宣言した。",
+      "en": "Panama's president declared a major disaster after two earthquakes struck the country's south."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.3863,
+    "lon": -80.1682,
+    "occurredAt": "2026-10-10T00:53:15+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_southern_earthquake_2026-10-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-642",
+    "headline": {
+      "ja": "イスラエルのドローン攻撃でレバノン国境近くで6人負傷",
+      "en": "Israeli drone attack wounds six in Lebanon near Syria border"
+    },
+    "summary": {
+      "ja": "イスラエルのドローン攻撃により、シリア・レバノン国境近くで5人のシリア人と1人のレバノン人が負傷した。",
+      "en": "An Israeli drone attack wounded five Syrians and one Lebanese person in an area near the Lebanon-Syria border."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.3073,
+    "lon": 35.1918,
+    "occurredAt": "2026-10-10T00:22:52+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_lebanon_drone_attack_2026-10-10"
+  },
+  {
     "id": "auto-610",
     "headline": {
       "ja": "パナマでマグニチュード7.7の強い地震が発生",
