@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-2355",
+    "headline": {
+      "ja": "イランのミサイル・ドローン生産能力が維持されていると西側が指摘",
+      "en": "Western officials say Iran has preserved missile and drone manufacturing capacity"
+    },
+    "summary": {
+      "ja": "西側当局者によると、イランはミサイルとドローン工場を保有し、弾道ミサイルと対艦兵器の備蓄を維持しており、ロシアから追加ミサイル供給を受けているという。",
+      "en": "According to Western officials, Iran has maintained its missile and drone factories with significant stockpiles of ballistic and anti-ship weapons, including new supplies from Russia."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.0253,
+    "lon": 53.4108,
+    "occurredAt": "2026-10-10T17:09:01+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20477"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "iran_missile_production_capability"
+  },
+  {
     "id": "auto-848",
     "headline": {
       "ja": "米国、パナマ地震について声明を発表",
@@ -68,6 +91,52 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
+    "id": "auto-1856",
+    "headline": {
+      "ja": "ロシアの北部戦闘群がハルキウ地域のルカショボとロバノフカを支配下に置いた",
+      "en": "Russia's Battlegroup North takes control of Lukashovo, Lobanovka in Kharkov Region"
+    },
+    "summary": {
+      "ja": "ロシアの北部戦闘群は、ハルキウ地域のルカショボとロバノフカの支配を確保したと発表した。",
+      "en": "Russia's Battlegroup North announced taking control of Lukashovo and Lobanovka in Kharkov Region."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.9565,
+    "lon": 31.2986,
+    "occurredAt": "2026-10-10T10:26:38+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UMWtWODVSUXFfSzU2bUw2VlhvMkFSN3ZGSTVmWmhHaGVtaUdnYnFkQ3k4Y1Ytb3BkSTlnYzFkdWJSa0RKd2dkby1fOFPSAUxBVV95cUxOVDFrVjg1UlFxX0s1Nm1MNlZYbzJBUjd2Rkk1ZlpoR2hlbWlHZ2JxZEN5OGNWLW9wZEk5Z2MxZHViUmtESndnZG8tXzhT?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_north_kharkov_2026-10-10"
+  },
+  {
+    "id": "auto-1851",
+    "headline": {
+      "ja": "ロシアが 725 機のドローンを撃墜し、ウクライナ軍の損失は約 1,455 人",
+      "en": "Russian air defenses down 725 drones, Ukrainian losses total about 1,455 troops"
+    },
+    "summary": {
+      "ja": "ロシアは、ロシア空軍がウクライナのドローン 725 機を撃墜し、ウクライナ軍の損失は約 1,455 人に達したと発表した。",
+      "en": "Russia reported that its air defenses downed 725 Ukrainian drones, with Ukrainian losses totaling about 1,455 troops."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 62.32,
+    "lon": 104.6455,
+    "occurredAt": "2026-10-10T09:55:39+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zQldDaUJwbnJwcExULVpyNzJWUmVJdXFKbXRpM1N6TV9Nb1IyeVpPaWpVQ205TGViRjNvNHQzeHBzZ2ZqN0JpdVJPTELSAUxBVV95cUxOM0JXQ2lCcG5ycHBMVC1acjcyVlJlSXVxSm10aTNTek1fTW9SMnlaT2lqVUNtOUxlYkYzbzR0M3hwc2dmajdCaXVST0xC?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_drone_losses_2026-10-10"
   },
   {
     "id": "auto-958",
@@ -398,6 +467,29 @@
     "severity": 4
   },
   {
+    "id": "auto-1835",
+    "headline": {
+      "ja": "イランが米国・イスラエルの新たな攻撃に対して徹底的に応じると表明",
+      "en": "Iran to hold nothing back in responding to new US, Israeli attacks"
+    },
+    "summary": {
+      "ja": "イラン政府筋は、米国とイスラエルの新たな攻撃に対して、徹底的に応じることを述べた。",
+      "en": "Iranian source stated that Iran will respond without restraint to new US and Israeli attacks."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 33.0292,
+    "lon": 54.1825,
+    "occurredAt": "2026-10-09T18:59:54+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10MEJJSzFMTURBZTY5U1ZtTm9nWWlWWmpHVWRNNGZFMGRZNzV1UFJ6NzlzXzN0M3JLZEs4UEhYYXZMeWFuN0dzaklR0gFKQVVfeXFMTXQwQklLMUxNREFlNjlTVm1Ob2dZaVZaakdVZE00ZkUwZFk3NXVQUno3OXNfM3QzcktkSzhQSFhhdkx5YW43R3NqSVE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_us_israel_retaliation_2026-10"
+  },
+  {
     "id": "auto-962",
     "headline": {
       "ja": "パナマの大規模地震、津波警告が発令",
@@ -537,6 +629,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "hurricane_isaias_usa_gulf_coast_20261009"
+  },
+  {
+    "id": "auto-1795",
+    "headline": {
+      "ja": "ゼレンスキー氏がウクライナのエネルギー基盤への広範な損害を認める",
+      "en": "Zelensky acknowledges extensive damage to Ukraine's energy infrastructure"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、ウクライナのエネルギー基盤に広範な損害があったことを認めた。",
+      "en": "President Zelensky acknowledged extensive damage to Ukraine's energy infrastructure."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.6239,
+    "lon": 30.6775,
+    "occurredAt": "2026-10-09T15:17:54+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JQ1M4U1lNcVZIZC05Y0F5UDBldXBtZzBuRlgwOEZIZ1pBQmxEbzhxdmJwQVo4S0hWaW9qcnZ6bUZXX3NaNWpF0gFMQVVfeXFMTjA3bjYxQTZ4Wm56QkI2UDE0R2tOY0RCWWJzMGZSOGJ1ZUxoWHFvN2d6S2pDbkgwdVQ1UnpkTm9WNmgzRG5JQ2FRbWk1Yg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_energy_infrastructure_damage_2026-10"
   },
   {
     "id": "auto-1562",
