@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T08:22:10.984Z",
+  "generatedAt": "2026-10-11T09:21:20.841Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 186,
+  "count": 187,
   "warnings": [
     {
       "id": "NAVAREA11-260454",
@@ -3168,6 +3168,42 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261933",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "1933",
+      "title": "日ノ御埼西−友ケ島水道、台船えい航",
+      "publishedAt": "2026-10-11T17:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            135,
+            33.88333333333333
+          ],
+          [
+            135,
+            34.28333333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-1933    発表日時:2026年10月11日 17時\r\n\n\r\n日ノ御埼西-友ケ島水道、\r\r\n曳船(幸鷹丸、MMSI 432746000)による\r\r\n台船(長さ141メートル)えい航、日ノ御埼西\r\r\n(33-53N 135-00E)10月12日0145通過、\r\r\n友ヶ島水道(34-17N 135-00E)12日0530\r\r\n通過予定、速力約7ノット、長さ最大246メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261933&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261932",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1932",
+      "title": "入道埼西南西、射撃終了",
+      "publishedAt": "2026-10-11T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1932    発表日時:2026年10月11日 17時\r\n\n\r\n入道埼西南西、\r\r\n射撃終了。\r\r\n(1893削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261932&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261931",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3542,18 +3578,6 @@
       },
       "rawText": "番号:26-1902    発表日時:2026年10月06日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n10月6日-18日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1866削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261902&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261893",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1893",
-      "title": "入道埼西南西、射撃",
-      "publishedAt": "2026-10-05T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1893    発表日時:2026年10月05日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月10日(予備12日)0800-翌日2400、\r\r\n39-56.0N 139-22.5Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261893&LANG=JP"
     },
     {
       "id": "NAVTEX-261851",
