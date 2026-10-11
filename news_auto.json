@@ -1,5 +1,235 @@
 [
   {
+    "id": "auto-3303",
+    "headline": {
+      "ja": "ポーランド警察がPM トゥスク首相と国防相の暗殺企図疑惑を調査",
+      "en": "Polish Police Probe Alleged Plot to Assassinate PM Tusk and Defence Minister"
+    },
+    "summary": {
+      "ja": "ポーランド警察がPMドナルド・トゥスク首相と国防相に対する暗殺計画疑惑を調査していると報じられている。治安当局者が潜在的な攻撃に関する情報を受け取った後、緊急会議が開かれたとされている。",
+      "en": "Polish police are investigating an alleged plot to assassinate PM Donald Tusk and the defence minister. An emergency meeting was held by security officials after receiving information about a potential attack."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.6384,
+    "lon": 18.8143,
+    "occurredAt": "2026-10-11T12:09:54+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_assassination_plot_tusk_2026-10-11"
+  },
+  {
+    "id": "auto-3042",
+    "headline": {
+      "ja": "イスラエルが米国協定に反して南レバノンで空爆・砲撃を再開",
+      "en": "Israeli Military Renews Airstrikes and Artillery in Southern Lebanon Despite US Deal"
+    },
+    "summary": {
+      "ja": "イスラエル軍が米国との協定に反して南レバノンでの空爆と砲撃を再開したと報じられている。",
+      "en": "The Israeli military has renewed airstrikes and artillery shelling in southern Lebanon in apparent violation of a US agreement."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.4453,
+    "lon": 36.4027,
+    "occurredAt": "2026-10-11T11:31:46+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXI1WndMaEtGQkZkRVI2RmNtNU94bkVxaFozNjktalNacHh2NFZYa1d1a19NX19wMGJHeVdWYzFaSHphVU83ZHNWTllRUl9BemttVFI4SU5jLWUzazgzeGtDeks4OUxHaEhldkRnX1dxU3pCY2k1VkNKSmJPS2VVWHo4NGdycjl3VFdMZzJ4bG9QNmF2Z3JjN21nUFZKSnR1VC1DMlpyX1hoeGJiUFh3Uzg5VU1ZbTdHU2FrMVpENTMxSTVp?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "lebanon_israeli_military_airstrikes_artillery_2026-10-11"
+  },
+  {
+    "id": "auto-3012",
+    "headline": {
+      "ja": "ポーランドが首相および国防相の暗殺企図疑惑を調査",
+      "en": "Poland Investigates Alleged Plot to Assassinate Premier and Defense Minister"
+    },
+    "summary": {
+      "ja": "ポーランド当局が首相および国防大臣の暗殺を目論んだとされる疑惑について調査していると報じられている。",
+      "en": "Polish authorities are investigating an alleged plot to assassinate the premier and defense minister."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 51.6847,
+    "lon": 18.3563,
+    "occurredAt": "2026-10-11T11:21:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazdmV2ozOHBqTjFYWE91UUdHS09zdVM3TTVoLTlfSnhSUTdac3ZabnM4UTRLVWJ5ZHN4QVZYTldRaVpIYnE2ZTZpNnpleXl2cUdDb3pldEhhVFZZM09pUUhnS1FER3FSNGlMZHV2TWItMXdFRGdjUjdZSDBBSW1CNHpwbG9MaThyUWhkS18waDRBVjZZSUZ2TDhGOXFLSDc1UUt2UHlCUjZzU1N1dDE5MnBn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "poland_assassination_plot_investigation_2026-10-11"
+  },
+  {
+    "id": "auto-3232",
+    "headline": {
+      "ja": "フーシ派がサウジアラビアの首都リヤドの国際空港にミサイル攻撃を実施",
+      "en": "Houthis Attack Saudi Arabia's Riyadh International Airport with Missile Strike"
+    },
+    "summary": {
+      "ja": "イエメンの紛争が拡大し、フーシ派がサウジアラビアの首都リヤドの主要国際空港に対してミサイル攻撃を実施したとサウジアラビア有志連合が発表した。",
+      "en": "Yemen fighting has escalated as the Houthi group carried out a missile strike on Riyadh's main international airport, according to the Saudi-led coalition."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.2029,
+    "lon": 45.6855,
+    "occurredAt": "2026-10-11T10:45:15+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_riyadh_airport_missile_attack_2026-10-11"
+  },
+  {
+    "id": "auto-3238",
+    "headline": {
+      "ja": "ロシアのYandexがウラジミール州のデータセンター閉鎖を発表、1週間で3度目の攻撃",
+      "en": "Russia's Yandex Announces Data Centre Shutdown in Vladimir After Drone Attack"
+    },
+    "summary": {
+      "ja": "ロシアのテクノロジー企業Yandexがウラジミール州のデータセンターをドローン攻撃により閉鎖したと発表した。これは1週間以内にYandexの施設に対する3度目の攻撃であり、ロシアとウクライナがテクノロジーインフラストラクチャーへの攻撃をエスカレートさせている。",
+      "en": "Russia's Yandex announced the shutdown of its data centre in Vladimir following a drone attack. This is the third strike on Yandex facilities in a week as Russia and Ukraine escalate attacks on tech infrastructure."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 61.2345,
+    "lon": 105.3859,
+    "occurredAt": "2026-10-11T09:33:03+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_yandex_datacenter_drone_attacks_escalation_2026-10-11"
+  },
+  {
+    "id": "auto-2540",
+    "headline": {
+      "ja": "NATO・EUがギリシャとスペインに愛国者ミサイルのウクライナ供与を促す",
+      "en": "NATO and EU Press Greece and Spain to Transfer Patriot Missiles to Ukraine"
+    },
+    "summary": {
+      "ja": "NATO・EUの当局者らが、運用寿命が終わりに近いPatriot PAC-2ミサイルをギリシャとスペインからウクライナに提供するよう促しているという報告があった。ウクライナはロシアの空中攻撃への防御のためにこれらのミサイルを緊急に必要としているとされている。",
+      "en": "NATO and EU officials are reportedly urging Greece and Spain to transfer their stocks of Patriot PAC-2 interceptor missiles to Ukraine. These missiles are nearing the end of their operational lifespan but are urgently needed for Ukraine's defense against Russian aerial attacks."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.5212,
+    "lon": 30.9159,
+    "occurredAt": "2026-10-11T06:02:43+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20479"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_patriot_missiles_nato_greece_spain_transfer_2026-10"
+  },
+  {
+    "id": "auto-3249",
+    "headline": {
+      "ja": "ハリケーン・イザイアがフロリダで4人死亡、65万人が停電",
+      "en": "Hurricane Isaias Kills Four, Leaves 650,000 Without Power in Florida"
+    },
+    "summary": {
+      "ja": "ハリケーン・イザイアがフロリダで4人を殺害し、65万人以上が停電の影響を受けたと報じられている。",
+      "en": "Hurricane Isaias has killed four people and left more than 650,000 people without power in Florida."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.3276,
+    "lon": -96.3908,
+    "occurredAt": "2026-10-11T04:28:51+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_florida_hurricane_isaias_2026-10-11"
+  },
+  {
+    "id": "auto-2572",
+    "headline": {
+      "ja": "パナマが大地震を受けて非常事態を宣言",
+      "en": "Panama Declares State of Emergency After Powerful Earthquake"
+    },
+    "summary": {
+      "ja": "パナマが大規模地震を受けて非常事態を宣言したと報じられている。",
+      "en": "Panama has declared a state of emergency following a powerful earthquake."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 8.9447,
+    "lon": -80.118,
+    "occurredAt": "2026-10-11T03:04:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQVVsZ2c5RFhodjBxNW84bTkta3ZFdXZSbllxMDVoWl9jMXJFSE00Y3k5a2F1ZVBBalZHZkFYRlBzSXQ5RFdOMWFyYWdKV2RGNUl1ZjVfOTdtUDVES2xFaE14a1dWVXRxSGJWRHRySjVUcDI0WmVLR2M3MA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "panama_earthquake_state_emergency_2026-10-11"
+  },
+  {
+    "id": "auto-2604",
+    "headline": {
+      "ja": "ハリケーン・イザイアがフロリダ上陸、4人死亡、数十万人が停電",
+      "en": "Hurricane Isaias Lands in Florida; 4 Dead, Hundreds of Thousands Without Power"
+    },
+    "summary": {
+      "ja": "ハリケーン・イザイアが米国フロリダ州に上陸し、4人が死亡、数十万人が停電の影響を受けたと報じられている。",
+      "en": "Hurricane Isaias made landfall in Florida, resulting in 4 deaths and leaving hundreds of thousands without power."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 37.1433,
+    "lon": -96.4724,
+    "occurredAt": "2026-10-10T22:01:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVAzQ2Y4MVh4Q1Z4Ql9iZnVRa1NPdEo5Xy1MYUxYV290aVhRV1hqZUpmR1hlb0F4OXpiTXAxSF9rV29DbDNFUVZITWl0TFppUldwUzMwSTlsNGxPaFlDNlAwZC00X01vXzM5cUI2T2stbmhlRUpzMXBNcTB6Q3JHUkVOSzJ1ZWZjWEZqeF9R?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_florida_hurricane_isaias_2026-10-10"
+  },
+  {
+    "id": "auto-3186",
+    "headline": {
+      "ja": "ハリケーン・イザイアの米国死者数が4人に",
+      "en": "US Death Toll from Hurricane Isaias Reaches Four"
+    },
+    "summary": {
+      "ja": "ハリケーン・イザイアによる米国の死者数が4人に達したと報じられている。",
+      "en": "The death toll from Hurricane Isaias in the United States has reached four people."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.6853,
+    "lon": -96.0896,
+    "occurredAt": "2026-10-10T19:59:36+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1na0R6RFg1NUJqTlE2Qm5RUWNBU0dCZGR1ODN0NWFuSDBYS2xSdEdYYl9PcWQtT2lTc1JtYnlubnNBMEF0ZWJpWEx1cmFXbU8xTFHSAVJBVV95cUxNZ2tEekRYNTVCak5RNkJuUVFjQVNHQmRkdTgzdDVhbkgwWEtsUnRHWGJfT3FkLU9pU3NSbWJ5bm5zQTBBdGViaVhMdXJhV21PMUxR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_florida_hurricane_isaias_deaths_2026-10"
+  },
+  {
     "id": "auto-2355",
     "headline": {
       "ja": "イランのミサイル・ドローン生産能力が維持されていると西側が指摘",
