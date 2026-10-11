@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T22:20:41.120Z",
+  "generatedAt": "2026-10-11T23:20:02.889Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 187,
+  "count": 190,
   "warnings": [
     {
       "id": "NAVAREA11-260457",
@@ -314,6 +314,42 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264009",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4009",
+      "title": "オマーン湾、火災船漂流",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4009   発表日時:2026年10月12日 08時\r\n\n\r\n★ オマーン湾、\r\r\n火災船(PETRO DOLPHIN)漂流、10月12日、\r\r\n24-41.4N 056-43.5E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264009&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264008",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4008",
+      "title": "インド西岸、危険な訓練",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4008   発表日時:2026年10月12日 08時\r\n\n\r\n★ インド西岸、\r\r\n危険な訓練、10月13日-26日毎日0900Z-1200Z、\r\r\n09-50.50N 075-18.13E 09-53.10N 075-27.94E\r\r\n09-43.36N 075-30.53E 09-40.82N 075-20.83E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264008&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264007",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4007",
+      "title": "北太平洋東部、海底線作業",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4007   発表日時:2026年10月12日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nM/V GRACEによる海底線作業、当分の間、\r\r\n(1)40-58.20N 128-40.14W\r\r\n   40-44.53N 128-27.47W、\r\r\n(2)41-36.61N 126-05.43W\r\r\n   42-40.76N 125-39.34W、\r\r\n(3)41-36.61N 126-05.43W\r\r\n   40-46.78N 126-25.64W、\r\r\nを結ぶ各線上付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264007&LANG=JP"
     },
     {
       "id": "JAPANNW-264006",
