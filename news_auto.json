@@ -184,6 +184,52 @@
     "eventKey": "panama_earthquake_state_emergency_2026-10-11"
   },
   {
+    "id": "auto-2872",
+    "headline": {
+      "ja": "有志連合、リヤド空港攻撃をテロ行為と認定、断定的な対応を表明",
+      "en": "Coalition Designates King Khalid Airport Attack as Terrorist Act, Vows Decisive Response"
+    },
+    "summary": {
+      "ja": "サウジアラビアを含む有志連合は、キング・ハーリド国際空港への攻撃をテロ行為と公式に認定し、断定的な対応を行うことを表明した。",
+      "en": "Coalition including Saudi Arabia officially designated the King Khalid International Airport attack as a terrorist act and stated it will respond decisively."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8806,
+    "lon": 44.3427,
+    "occurredAt": "2026-10-10T23:45:27+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zZkhqQjlJaGE4QWUwQWtIUTM1SUliQ1N0eWFxUDR6emVSa1BWeGh1TURLWWhxNGc2OUQzeEE0TkU5Y2pfUWIxeTNn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_coalition_airport_attack_response_2026-10"
+  },
+  {
+    "id": "auto-2874",
+    "headline": {
+      "ja": "サウジ民間航空庁、リヤド空港攻撃に関する続報声明を発表",
+      "en": "GACA Issues Follow-up Statement on King Khalid Airport Attack"
+    },
+    "summary": {
+      "ja": "サウジアラビア民間航空庁(GACA)は、キング・ハーリド国際空港への攻撃に関する続報声明を発表。空港の運用状況などの詳細情報を提供。",
+      "en": "Saudi Arabia's General Authority of Civil Aviation (GACA) issued follow-up statement on the attack on King Khalid International Airport."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.5331,
+    "lon": 45.378,
+    "occurredAt": "2026-10-10T22:12:57+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GYlRaOV9WSVBMeVVtNm5lWEY0NmxXR1I4ZktQTUNMUTNPUFFLdUtQZWJJVmgtSC16dDNuWXk1Y1pOWEhkazBrNUt3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_gaca_airport_attack_followup_2026-10"
+  },
+  {
     "id": "auto-2604",
     "headline": {
       "ja": "ハリケーン・イザイアがフロリダ上陸、4人死亡、数十万人が停電",
@@ -251,6 +297,29 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "iran_missile_production_capability"
+  },
+  {
+    "id": "auto-2889",
+    "headline": {
+      "ja": "サウジ民間航空庁、リヤド空港への攻撃を報告、運用を一時停止",
+      "en": "GACA Reports Attack on King Khalid Airport in Riyadh, Operations Temporarily Suspended"
+    },
+    "summary": {
+      "ja": "サウジアラビア民間航空庁(GACA)は、キング・ハーリド国際空港がリヤドで攻撃を受けたことを報告。空港の運用が一時的に停止された。",
+      "en": "Saudi Arabia's General Authority of Civil Aviation (GACA) reported attack on King Khalid International Airport in Riyadh with operations temporarily suspended."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8869,
+    "lon": 44.2863,
+    "occurredAt": "2026-10-10T16:58:23+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yMmlycG94b2dlMjZkb0NfSTJxQ3VSclQzd01teWp0blRaVG9UaVlhX3BQSGFOcVp4bzAxN1FTcTVkcUhUMlBLenFR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_riyadh_airport_attack_suspension_2026-10"
   },
   {
     "id": "auto-848",
@@ -321,6 +390,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "panama_earthquake_2026-10-09"
+  },
+  {
+    "id": "auto-2084",
+    "headline": {
+      "ja": "ロシア軍、ザポリージャへの滑空爆弾攻撃で 15 人以上が死亡",
+      "en": "Russian Glide Bomb Attack on Zaporizhzhia Kills 15+ People"
+    },
+    "summary": {
+      "ja": "ロシア軍がウクライナ南東部のザポリージャに滑空爆弾で攻撃を実施。大規模集合住宅が破壊され、15人以上が死亡、子ども多数を含む。さらなる犠牲者ががれきの下にいる可能性がある。",
+      "en": "Russian military conducted a glide bomb attack on Zaporizhzhia in southeastern Ukraine, destroying a large apartment building with at least 15 killed including children, and potentially more victims buried in rubble."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.5839,
+    "lon": 31.2233,
+    "occurredAt": "2026-10-10T11:17:15+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_zaporizhzhia_russia_bomb_attack_2026-10",
+    "severity": 4
   },
   {
     "id": "auto-1856",
