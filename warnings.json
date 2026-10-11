@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T23:18:42.457Z",
+  "generatedAt": "2026-10-11T00:30:58.911Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 184,
+  "count": 185,
   "warnings": [
     {
       "id": "NAVAREA11-260454",
@@ -3166,6 +3166,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261930",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "水深",
+      "number": "1930",
+      "title": "酒田港、水中障害物存在",
+      "publishedAt": "2026-10-11T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1930    発表日時:2026年10月11日 08時\r\n\n\r\n本州北西岸、酒田港、\r\r\n水中障害物(約4メートル)あり、\r\r\n38-54-59.5N 139-49-28.5E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261930&LANG=JP"
     },
     {
       "id": "NAVTEX-261929",
