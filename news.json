@@ -42,5 +42,28 @@
       "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-11-02",
+    "headline": {
+      "ja": "サウジ・リヤド空港、週内3度目の攻撃で12人死亡・309人負傷 開戦以来ガルフ諸国で最多の死者",
+      "en": "Third attack this week on Riyadh airport kills 12, wounds 309 — deadliest in Gulf Arab states since Iran war began"
+    },
+    "summary": {
+      "ja": "サウジ民間航空総局(GACA)によれば、10月10日(土)、リヤドのキング・ハーリド国際空港が今週3度目となる攻撃を受け、少なくとも12人が死亡、309人が負傷した。地元当局者によれば、ミサイルが国内線ターミナル3・4を収容する空港施設に命中したという。死者にはサウジ人4人、バングラデシュ人2人、米国・ヨルダン・パレスチナ・シリア・スーダン・エジプト各1人が含まれるとされる。事前の警報は出されず、ダンマームのキング・ファハド国際空港付近にも別の飛来物が落下したと、サウジ主導連合が発表した。Reuters(CNN配信)はフーシ派が本攻撃への犯行声明を出したと報じたが、Al Jazeeraは10日時点でフーシ派が犯行声明を出していないと報じており、犯行声明の有無については報道が分かれる(攻撃の発生・死傷者数自体は複数の有力メディアが一致)。サウジ主導連合はこれを「戦争犯罪」と非難し「断固たる対応」を表明、米国のトランプ大統領はフーシ派への米軍直接攻撃の実施を検討していると複数メディアが報じた。既報(id: 2026-10-09-02、10月8日の攻撃、死者3人)から2日で死傷者数が大幅に拡大し、2026年2月末の米・イスラエル対イラン戦争開戦以来、ガルフ・アラブ諸国で最も死者数の多い攻撃とされる。",
+      "en": "Saudi Arabia's General Authority of Civil Aviation said that on Saturday, October 10, King Khalid International Airport in Riyadh was hit for the third time this week, leaving at least 12 dead and 309 wounded. A regional official said a missile struck an airport complex housing domestic terminals 3 and 4. The dead reportedly included four Saudis, two Bangladeshis, and one national each from the US, Jordan, Palestine, Syria, Sudan and Egypt. No warning was issued beforehand, and the Saudi-led coalition said another projectile fell near King Fahd International Airport in Dammam. Reuters (via CNN) reported the Houthis claimed the attack, while Al Jazeera reported that as of October 10 the Houthis had not claimed responsibility for this particular strike — accounts differ on the claim of responsibility, though the attack and casualty figures are consistently reported across major outlets. The Saudi-led coalition called it a 'war crime' and vowed a 'decisive response,' and multiple outlets reported President Trump is weighing direct US strikes on the Houthis. Casualties rose sharply from the October 8 attack (previously reported, id 2026-10-09-02, 3 dead) within two days, making this the deadliest attack in any Gulf Arab state since the US-Israel war against Iran began in late February 2026."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "リヤド(キング・ハーリド国際空港)",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-10T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera(NBC News、CNN、NPR、Washington Post等の報道集約含む)",
+      "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured"
+    },
+    "reliability": "high",
+    "severity": 4
   }
 ]
