@@ -18,10 +18,7 @@
       "name": "サウジアラビア 国営SPA通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qSm9XYzVwQjYxVDJ1QS1JSHU4RmJFQm4zdVU5TE16NlFEcEZiMkpTZV9wWUZUdjlUbVFuNTRmY2VKMEx1UmhlMFRB?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-4767",
@@ -42,9 +39,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG1CVHJQc1M2X1J5UVNLSWk3RUF6NFhfeHRWLXN3LWR4MHlHOEU5X091aGVRX0x6d2V3TUpVZWlPWDhILW1VNzFFTGZIek81OW1iMG1TWnNuZlhfZ3UxalNWaDJKVTlxWTJTc3JiMnMzbDg1YjBORFRHVVQ4UXRXc19GNC13M0pSVTBsdUVZdXNpTG1SaFg3MnlEY01CbEdpYmFxQ2ZfejZTRE9KT20weHB3dWt1MVZuNWJvazJ2RXVFbDAtWThSa2lyMjNFNUhWMkE?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_rsf_hospital_attack_2026-10-12"
+    "reliability": "medium"
   },
   {
     "id": "auto-4773",
@@ -65,10 +60,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFlXMUZjMFA2SWdRbm1vNGtzLVNFeGV2bE9KdzFnM08ta3BmUW5OYzlpSWlqSDZ4dnNtR000T0VXVDg1SEx4UUltNWNaUVFmTGtpRGd2R3VuX2lDZmhxQUQtVE1JdnRXR25TTmhtcjRLdlpkMEtkSFJlZ0M0VVdaczhmVFI2Y2djSjhIMWtPNTlTZjlVS3o0Tk41RS1vNkdhYzdsNnpJSzA5TGg0MjRKNDBjRXNJTjRxMlJqWGxEdDRhRVFJYktHMg?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-5017",
@@ -89,10 +81,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-3915",
@@ -113,9 +102,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1VfT2V2LXZlYXBEUGF6bExOekpWWU9mUW92Yk1kRnhKTkVtUVRRTU9kVWdUdTN3WEFTYXN3MzhzakxKZ093LW1aMFRZOTlxUWt3d1BTcDE0bko5LU0tMVNxZmY1b3V5aVNMZHcwcHhFaHRVbkt6ZmNnbUFPT0NNdHA5V1pOYVEyX19Ia3pJWmFNdnhtU1lVUC1YZ2NVZVM2ZjF1M25VdEpJZFZtRnBCRmlaQ1IyRW9kUlhSZTdJTi1sRzZCcllhZkswTG5CTXFf?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "korea_missile_response_2026"
+    "reliability": "high"
   },
   {
     "id": "auto-4162",
@@ -136,9 +123,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "north_korea_missile_test_2026-10-12"
+    "reliability": "high"
   },
   {
     "id": "auto-4063",
@@ -159,9 +144,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TSFJvdlZRVlI0ZHR2UUdGanhVTGVXV2FKaUZUT3RYcFI3SmpqZDV3STRQekNNZ0ZjSTFPUmlLUEE3SHpUY2kwM2RB0gFKQVVfeXFMTVNIUm92VlFWUjRkdHZRR0ZqeFVMZVdXYUppRlRPdFhwUjdKampkNXdJNFB6Q01nRmNJMU9SaUtQQTdIelRjaTAzZEE?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "north_korea_missile_test_2026-10-12"
+    "reliability": "medium"
   },
   {
     "id": "auto-4069",
@@ -182,9 +165,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FQllsOUdTS0ViQktGVURsNF83cGRBY1NtZDJ3LTZaRC10amYySHRBTFVGU2hMMHVHZURfMDR5UExRUHI5Z3VmZUVn0gFKQVVfeXFMTkVCWWw5R1NLRWJCS0ZVRGw0XzdwZEFjU21kMnctNlpELXRqZjJIdEFMVUZTaEwwdUdlRF8wNHlQTFFQcjlndWZlRWc?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "north_korea_missile_test_2026-10-12"
+    "reliability": "medium"
   },
   {
     "id": "auto-4175",
@@ -205,9 +186,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_mining_airstrike_2026-10-11"
+    "reliability": "medium"
   },
   {
     "id": "auto-4179",
@@ -228,9 +207,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_mining_airstrike_2026-10-11"
+    "reliability": "high"
   },
   {
     "id": "auto-3905",
@@ -251,9 +228,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2JuMmlrcGRibUNqQUNpRE9WOGUxQjFwczREM0ZabTZGQXRNM1AxZDlmQ3hGcTM1ZW16cFFtY2lSRGhXbVFqMExyYTZVUVNYRkQ3LVpZdGZTU2xmUFZJempERUNaNlZXNF8tcjVMeEE2NDVMZ3QtUUdQSXJ6S2FwZThJeTFUM1ZDODdSeWh1emZvSUc2anNLRWdkQ0JYLVJ0UWJhOVA2Sm9YV3dSYkRnTUxHMjhCZF9vZWVSNUdQRWt4NXgyamswT0x3?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_egypt_border_airstrike"
+    "reliability": "medium"
   },
   {
     "id": "auto-5115",
@@ -274,10 +249,7 @@
       "name": "サウジアラビア 国営SPA通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Y2ZBcGNlcHA3a0hsZUxOeUZWR1ZHRWlFYXNsM09aR19SbC1kajlya0FWYkxiVUZjeU45V2NUTWlBS3hhUHEyYTRB?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-3575",
@@ -298,9 +270,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "houthi_saudi_missile_defense"
+    "reliability": "high"
   },
   {
     "id": "auto-3303",
@@ -321,9 +291,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_assassination_plot_tusk_2026-10-11"
+    "reliability": "high"
   },
   {
     "id": "auto-4195",
@@ -344,9 +312,7 @@
       "name": "国連(UN News)",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168572"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "houthi_riyadh_airport_strike"
+    "reliability": "high"
   },
   {
     "id": "auto-3042",
@@ -367,9 +333,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXI1WndMaEtGQkZkRVI2RmNtNU94bkVxaFozNjktalNacHh2NFZYa1d1a19NX19wMGJHeVdWYzFaSHphVU83ZHNWTllRUl9BemttVFI4SU5jLWUzazgzeGtDeks4OUxHaEhldkRnX1dxU3pCY2k1VkNKSmJPS2VVWHo4NGdycjl3VFdMZzJ4bG9QNmF2Z3JjN21nUFZKSnR1VC1DMlpyX1hoeGJiUFh3Uzg5VU1ZbTdHU2FrMVpENTMxSTVp?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "lebanon_israeli_military_airstrikes_artillery_2026-10-11"
+    "reliability": "medium"
   },
   {
     "id": "auto-3012",
@@ -390,9 +354,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazdmV2ozOHBqTjFYWE91UUdHS09zdVM3TTVoLTlfSnhSUTdac3ZabnM4UTRLVWJ5ZHN4QVZYTldRaVpIYnE2ZTZpNnpleXl2cUdDb3pldEhhVFZZM09pUUhnS1FER3FSNGlMZHV2TWItMXdFRGdjUjdZSDBBSW1CNHpwbG9MaThyUWhkS18waDRBVjZZSUZ2TDhGOXFLSDc1UUt2UHlCUjZzU1N1dDE5MnBn?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "poland_assassination_plot_investigation_2026-10-11"
+    "reliability": "medium"
   },
   {
     "id": "auto-3232",
@@ -413,9 +375,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthis_saudi_riyadh_airport_missile_attack_2026-10-11"
+    "reliability": "high"
   },
   {
     "id": "auto-3238",
@@ -436,9 +396,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_yandex_datacenter_drone_attacks_escalation_2026-10-11"
+    "reliability": "high"
   },
   {
     "id": "auto-2540",
@@ -459,9 +417,7 @@
       "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
       "url": "https://t.me/OSINTdefender/20479"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_patriot_missiles_nato_greece_spain_transfer_2026-10"
+    "reliability": "medium"
   },
   {
     "id": "auto-3249",
@@ -482,9 +438,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_florida_hurricane_isaias_2026-10-11"
+    "reliability": "high"
   },
   {
     "id": "auto-2572",
@@ -505,9 +459,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQVVsZ2c5RFhodjBxNW84bTkta3ZFdXZSbllxMDVoWl9jMXJFSE00Y3k5a2F1ZVBBalZHZkFYRlBzSXQ5RFdOMWFyYWdKV2RGNUl1ZjVfOTdtUDVES2xFaE14a1dWVXRxSGJWRHRySjVUcDI0WmVLR2M3MA?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "panama_earthquake_state_emergency_2026-10-11"
+    "reliability": "medium"
   },
   {
     "id": "auto-2872",
@@ -528,9 +480,7 @@
       "name": "サウジアラビア 国営SPA通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zZkhqQjlJaGE4QWUwQWtIUTM1SUliQ1N0eWFxUDR6emVSa1BWeGh1TURLWWhxNGc2OUQzeEE0TkU5Y2pfUWIxeTNn?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_coalition_airport_attack_response_2026-10"
+    "reliability": "high"
   },
   {
     "id": "auto-2874",
@@ -551,9 +501,7 @@
       "name": "サウジアラビア 国営SPA通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GYlRaOV9WSVBMeVVtNm5lWEY0NmxXR1I4ZktQTUNMUTNPUFFLdUtQZWJJVmgtSC16dDNuWXk1Y1pOWEhkazBrNUt3?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_gaca_airport_attack_followup_2026-10"
+    "reliability": "high"
   },
   {
     "id": "auto-2604",
@@ -574,9 +522,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVAzQ2Y4MVh4Q1Z4Ql9iZnVRa1NPdEo5Xy1MYUxYV290aVhRV1hqZUpmR1hlb0F4OXpiTXAxSF9rV29DbDNFUVZITWl0TFppUldwUzMwSTlsNGxPaFlDNlAwZC00X01vXzM5cUI2T2stbmhlRUpzMXBNcTB6Q3JHUkVOSzJ1ZWZjWEZqeF9R?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_florida_hurricane_isaias_2026-10-10"
+    "reliability": "medium"
   },
   {
     "id": "auto-3186",
@@ -597,9 +543,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1na0R6RFg1NUJqTlE2Qm5RUWNBU0dCZGR1ODN0NWFuSDBYS2xSdEdYYl9PcWQtT2lTc1JtYnlubnNBMEF0ZWJpWEx1cmFXbU8xTFHSAVJBVV95cUxNZ2tEekRYNTVCak5RNkJuUVFjQVNHQmRkdTgzdDVhbkgwWEtsUnRHWGJfT3FkLU9pU3NSbWJ5bm5zQTBBdGViaVhMdXJhV21PMUxR?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_florida_hurricane_isaias_deaths_2026-10"
+    "reliability": "medium"
   },
   {
     "id": "auto-2355",
@@ -620,9 +564,7 @@
       "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
       "url": "https://t.me/OSINTdefender/20477"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "iran_missile_production_capability"
+    "reliability": "low"
   },
   {
     "id": "auto-2889",
@@ -643,9 +585,7 @@
       "name": "サウジアラビア 国営SPA通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yMmlycG94b2dlMjZkb0NfSTJxQ3VSclQzd01teWp0blRaVG9UaVlhX3BQSGFOcVp4bzAxN1FTcTVkcUhUMlBLenFR?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_airport_attack_suspension_2026-10"
+    "reliability": "high"
   },
   {
     "id": "auto-848",
@@ -666,9 +606,7 @@
       "name": "米国 国務省",
       "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-1429",
@@ -689,10 +627,7 @@
       "name": "サウジアラビア 国営SPA通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55RmZEZWQyc1RwZzhXNDY2dWw0djdWNVUtRDk5b1BRTE5rN3hnanFWN1ZmMFg3UzdPM2ZhNzdjTHJlZVc3cVhqUWNR?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-872",
@@ -713,9 +648,7 @@
       "name": "日本 外務省(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qeFBYLXVmNzc2RFVLb0tsejd3MXRWTDBUallYU3F0NFdZSzIzMlc0Ui1ZbHVWZF9PbUItaTFxQ3BjeklCaUpYZm1aTVBpS3FXUWZiZGV0cTdWQy1EU21OY2U3dkVnbldpRDlta0k1Mzk?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-2084",
@@ -736,10 +669,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhzhia_russia_bomb_attack_2026-10",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-1856",
@@ -760,9 +690,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UMWtWODVSUXFfSzU2bUw2VlhvMkFSN3ZGSTVmWmhHaGVtaUdnYnFkQ3k4Y1Ytb3BkSTlnYzFkdWJSa0RKd2dkby1fOFPSAUxBVV95cUxOVDFrVjg1UlFxX0s1Nm1MNlZYbzJBUjd2Rkk1ZlpoR2hlbWlHZ2JxZEN5OGNWLW9wZEk5Z2MxZHViUmtESndnZG8tXzhT?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_north_kharkov_2026-10-10"
+    "reliability": "high"
   },
   {
     "id": "auto-1851",
@@ -783,9 +711,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zQldDaUJwbnJwcExULVpyNzJWUmVJdXFKbXRpM1N6TV9Nb1IyeVpPaWpVQ205TGViRjNvNHQzeHBzZ2ZqN0JpdVJPTELSAUxBVV95cUxOM0JXQ2lCcG5ycHBMVC1acjcyVlJlSXVxSm10aTNTek1fTW9SMnlaT2lqVUNtOUxlYkYzbzR0M3hwc2dmajdCaXVST0xC?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_drone_losses_2026-10-10"
+    "reliability": "high"
   },
   {
     "id": "auto-958",
@@ -806,9 +732,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3p4R25JTmlrVk9QVGNxa2d2RVd1T2J1UE1sMVRwc0dKdGNoN2lRRHpwak9GNTRSdm9kakNyMVdheTRZRVBaUUNDbDViWnlpaXBrTUotT2kwci1DaWJrV05kMHZRQUNudG1taktlVzNLdUU5T2t0cnR3VndPaUhtVzJzWWdVYkNEai10TGxB?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-688",
@@ -829,9 +753,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_2026-10-10"
+    "reliability": "high"
   },
   {
     "id": "auto-685",
@@ -852,9 +774,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_2026-10-10"
+    "reliability": "high"
   },
   {
     "id": "auto-674",
@@ -875,9 +795,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_2026-10-10"
+    "reliability": "high"
   },
   {
     "id": "auto-1629",
@@ -898,9 +816,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR09FWjFKWmNpa05xQ0pvdWZ1dERtYWdEckJ6VTdQYnlPRm16eWxuczBBRU4xNzhsVnVsdWVybjNWMmk5cVZxcTlFc3hBMDVtOXVRYzQ3YmxuekpTN1VjN2ZESE1WSGoyUVoxbnBoRlFtQkJaMHpMeFloekwzR1hEd2hrdjRvUjAwSUVIanlhY2UxQ0JZNEh4QXZ1WmxvT1lhWlpiLTJmd2VhNDQwbi1seXhRTzNZZ0pvbE1xb3h6YmNiZw?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_gulf_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-638",
@@ -921,10 +837,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_florida_2026-10-10",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-639",
@@ -945,9 +858,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_peace_talks_2026-10"
+    "reliability": "high"
   },
   {
     "id": "auto-641",
@@ -968,10 +879,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_southern_earthquake_2026-10-10",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-642",
@@ -992,9 +900,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_lebanon_drone_attack_2026-10-10"
+    "reliability": "high"
   },
   {
     "id": "auto-610",
@@ -1015,10 +921,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-582",
@@ -1039,10 +942,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-1475",
@@ -1063,9 +963,7 @@
       "name": "UAE 国営WAM通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkdzc3RVSk1ROGFQWERQalpRS0xKWlM3WDAzeHA4NXpLbm8tZmdhZUFXYXhWSDVVU0haRnMzVFppRlM4WUpRbVlMT2c3RC1xVlpEdEw3SnBXNzFrem9sMVFjWmNTQVpLeXpkS2dabTJnWFkwVXRiY0NjcUJTV1hLRmpHQ1lIQWE2?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-592",
@@ -1086,10 +984,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-621",
@@ -1110,10 +1005,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-1835",
@@ -1134,9 +1026,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10MEJJSzFMTURBZTY5U1ZtTm9nWWlWWmpHVWRNNGZFMGRZNzV1UFJ6NzlzXzN0M3JLZEs4UEhYYXZMeWFuN0dzaklR0gFKQVVfeXFMTXQwQklLMUxNREFlNjlTVm1Ob2dZaVZaakdVZE00ZkUwZFk3NXVQUno3OXNfM3QzcktkSzhQSFhhdkx5YW43R3NqSVE?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_israel_retaliation_2026-10"
+    "reliability": "medium"
   },
   {
     "id": "auto-962",
@@ -1157,10 +1047,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSW85LVkyWllZSThzSE13ZWRueC1BTlp6QjNqRWVzVFFHNlNiUGhPbWp2Rk1GbWxtbi1aRHZrWDhZQnpNZ1Z4c0xTdXBXWmwyZzY1UWdSVDhnUGpScUZPSEhLekdUMVlNMFNiNUxQUFM3WC1zN0loeW5pUXFNcFl6WXMzTk9JUWtGMWhnNWF3?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-1467",
@@ -1181,9 +1068,7 @@
       "name": "UAE 国営WAM通信(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJYNkVYSC13eHp2blN2WjhYalRfNlFWdnBuR1JJdlVpWDVHTmFVRHFtN2lYS0l1UmxZMUtqR1hSdHJiRFlxRmZDbEpZcE1ac2dmNVZiR1RGMkZQSm1sNFFQRGpwNlg5WlM2aGdQUG5NUWRfVTVXT01PR04teWJtNGUycHZERTJES2c1bS1n?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-895",
@@ -1204,9 +1089,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsWHNvc0IyUnY0ZEdZc0R6Yk1hN0RRRWd5RHVza2xwamsxS2ZBREs3a0hjY1Bfci1VbDVhUmw0dUNIU3dpMXRLYXp2TmVibGUtejNHY2pyS2ZET1BWMWdWQUphNmRfSEFvQWFjdDBmV1k1eVp5RDhPZHFuZ2c?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-900",
@@ -1227,10 +1110,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZ2dCQkZvUmF5bTZ3QmRIMEo1VkdrN3hPbVJocnFjVjdjZ01CZW5TVDdfYjloM3dDV1VqWkZpWGprOG9VbmJQYW1MQ0hEdWtidXlTajB2MHF6eUpkalc1SHd5NVZjVFNfOTRkSjhVNl9sOVhWck1vNzBBTWg?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-944",
@@ -1251,10 +1131,7 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnJNMWZqUDk3MmF5cWdGTWpRVTdXUlBnS1VMckFZMVAtaGxSbzlDWExfRGhGUm43eDV4R0lKQzJKOE9mSXQ1czZtV0tHeXBOZ1JBMFV6UnhyeTdVb3d3ZzZCMmhSOHFkWnBZVE1BRkdBdnRvNmpmV2VGVmFhMFhfNTdLMHQ0dw?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_southeast_drone_attack_2026-10-09",
-    "severity": 4
+    "reliability": "medium"
   },
   {
     "id": "auto-557",
@@ -1275,9 +1152,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_usa_gulf_coast_20261009"
+    "reliability": "high"
   },
   {
     "id": "auto-1795",
@@ -1298,9 +1173,7 @@
       "name": "ロシア タス通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JQ1M4U1lNcVZIZC05Y0F5UDBldXBtZzBuRlgwOEZIZ1pBQmxEbzhxdmJwQVo4S0hWaW9qcnZ6bUZXX3NaNWpF0gFMQVVfeXFMTjA3bjYxQTZ4Wm56QkI2UDE0R2tOY0RCWWJzMGZSOGJ1ZUxoWHFvN2d6S2pDbkgwdVQ1UnpkTm9WNmgzRG5JQ2FRbWk1Yg?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_energy_infrastructure_damage_2026-10"
+    "reliability": "high"
   },
   {
     "id": "auto-1562",
@@ -1321,9 +1194,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlY1M1ZlNzhkMHEyQ05KY2p3ZDktZDZxMEpaZEt2d3k3OWVteDNGRjJyMlRXZlpPQThteXh3Q1pSdEZydFdibTFSQnd6c2JYa1dYcFVUZW80R2FMdV9XMWhybTZHY3RiWkJwaVlDSDNGVWc4aUIyb3ZhUFM2Q29SV3RjVGpDN2ZrR2hnY3J5YUQ1MktKRGlvb0w1V0hwMjFKN0xScFpZbi0teGktbDlyc2lCMlNpLVhLbGp6OA?oc=5"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_airstrikes_2026-10-09"
+    "reliability": "medium"
   },
   {
     "id": "auto-541",
@@ -1344,9 +1215,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-1602",
@@ -1367,9 +1236,7 @@
       "name": "トルコ アナドル通信(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVVfWXBJcnhXYVJrX1NvNWNJOUFGVml3NVlmcUtYRjZyTlJPcmlWc2RaNFBXMWt5YUFlYXNyQ2dUZnFmMUNSMkhzSW1zOGtISk5MdTQ2Q1hlZ080LTNMOERUY0l4aHpnR0IwVWxvSEt3Ry1TMEN2RjFBdDhFUzBLVzlQcllFTXYtM1FNLTBOS3pINFo5Wnh6ZmlkZm10cExhSG5CLWxOQzlrUGF6SzBEcWpGR2hsVHfSAbcBQVVfeXFMT0FVX1lwSXJ4V2FSa19TbzVjSTlBRlZpdzVZZnFLWEY2ck5ST3JpVnNkWjRQVzFreWFBZWFzckNnVGZxZjFDUjJIc0ltczhrSEpOTHU0NkNYZWdPNC0zTDhEVGNJeGh6Z0dCMFVsb0hLd0ctUzBDdkYxQXQ4RVMwS1c5UHJZRU12LTNRTS0wTkt6SDRaOVp4emZpZGZtdHBMYUhuQi1sTkM5a1BhekswRHFqRkdobFR3?oc=5"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_gulf_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-533",
@@ -1390,9 +1257,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_drone_attacks_russia_infrastructure_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-496",
@@ -1413,9 +1278,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
+    "reliability": "high"
   },
   {
     "id": "auto-477",
@@ -1436,20 +1299,17 @@
       "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
       "url": "https://t.me/OSINTdefender/20463"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "iran_us_military_campaign_plan_2026-10",
-    "severity": 4
+    "reliability": "low"
   },
   {
     "id": "auto-369",
     "headline": {
-      "ja": "イスラエルがガザのサブラ地区に空襲、複数の民間人が殺害",
-      "en": "Israeli air strike kills several people including children in Gaza City"
+      "ja": "イスラエルの空爆がガザのアルサブラ地区を襲撃、複数の民間人が死亡",
+      "en": "Israeli Air Strike Hits Al-Sabra Neighborhood in Gaza City, Multiple Civilian Deaths"
     },
     "summary": {
-      "ja": "イスラエル空軍がガザのサブラ地区の建物に空襲を実施、複数の民間人および子どもを含む死傷者が発生した。",
-      "en": "Israeli air strike hit building in Gaza City's al-Sabra neighborhood, killing several people including children."
+      "ja": "イスラエル軍がガザ市アルサブラ地区の建物を空爆。子どもを含む複数の民間人が犠牲となった。遺族の証言が報道されている。",
+      "en": "Israeli military conducted an air strike on a building in the al-Sabra neighborhood of Gaza City. Multiple civilians, including children, were killed. Family members have testified to the incident."
     },
     "category": "conflict",
     "country": "パレスチナ",
@@ -1460,9 +1320,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_gaza_sabra_airstrike_2026"
+    "reliability": "high"
   },
   {
     "id": "auto-470",
@@ -1483,9 +1341,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_businessman_monaco_bomb_assassination_2026-10"
+    "reliability": "high"
   },
   {
     "id": "auto-306",
@@ -1506,10 +1362,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_killing_rate_202610",
-    "severity": 4
+    "reliability": "medium"
   },
   {
     "id": "auto-307",
@@ -1530,9 +1383,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_iran_alliance_202610"
+    "reliability": "medium"
   },
   {
     "id": "auto-317",
@@ -1553,10 +1404,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_humanitarian_crisis_202610",
-    "severity": 4
+    "reliability": "medium"
   },
   {
     "id": "auto-318",
@@ -1577,9 +1425,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_settlers_olive_harvest_202610"
+    "reliability": "medium"
   },
   {
     "id": "auto-319",
@@ -1600,9 +1446,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_tree_destruction_202610"
+    "reliability": "medium"
   },
   {
     "id": "auto-322",
@@ -1623,9 +1467,7 @@
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_iran_war_aircraft_202610"
+    "reliability": "medium"
   },
   {
     "id": "auto-346",
@@ -1646,9 +1488,28 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83806"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "montenegro_visa_russia_belarus_turkey_2026-11"
+    "reliability": "low"
+  },
+  {
+    "id": "auto-329",
+    "headline": {
+      "ja": "ハリケーン・イザイアスが米国湾岸に接近、危険な風と豪雨の警戒が必要",
+      "en": "Hurricane Isaias Approaches US Gulf Coast with Dangerous Winds and Heavy Rain Expected"
+    },
+    "summary": {
+      "ja": "2026年大西洋シーズン初のハリケーン・イザイアスが米国湾岸に接近中。フロリダ、アラバマ、ミシシッピへの上陸が予想されており、週末にかけて10インチ(約25cm)の降雨が予測されている。",
+      "en": "The first hurricane of the 2026 Atlantic season, Hurricane Isaias, is approaching the US Gulf Coast. A landfall in Florida, Alabama, and Mississippi is expected with rainfall of up to 10 inches forecast for the weekend."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 36.9865,
+    "lon": -95.4433,
+    "occurredAt": "2026-10-08T17:58:07+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss"
+    },
+    "reliability": "high"
   },
   {
     "id": "auto-278",
@@ -1669,10 +1530,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_kramatorsk_bus_strike_202610",
-    "severity": 4
+    "reliability": "medium"
   },
   {
     "id": "auto-338",
@@ -1693,19 +1551,17 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83797"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "yemen_coalition_weakness_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-337",
     "headline": {
-      "ja": "ウクライナがキーウへのドローン攻撃を実施、停電多発",
-      "en": "Ukrainian drone attack on Kyiv causing blackouts and power outages"
+      "ja": "@rybarアカウントが、ロシア軍によるウクライナ軍用ドローンによるキーウ攻撃と停電の発生を報告",
+      "en": "@rybar account reports Russian military's drone attacks on Kyiv and resulting blackouts"
     },
     "summary": {
-      "ja": "ウクライナが複数地域への夜間ドローン攻撃を実施。キーウでは停電が相次ぎ、電力供給に緊急措置が発動された。",
-      "en": "Ukrainian drone attack on Kyiv and surrounding regions causing blackouts; emergency power restrictions implemented."
+      "ja": "@rybarのアカウントで、ロシア軍による夜間のドローン攻撃がキーウ周辺に及んだと投稿。ウクライナでは送電停止(ブラックアウト)が再び発生しているという報告がされた。",
+      "en": "The @rybar account reported that Russian military drone attacks reached Kyiv and surrounding areas at night. Reports indicated that power outages (blackouts) have reoccurred in Ukraine."
     },
     "category": "conflict",
     "country": "ウクライナ",
@@ -1716,9 +1572,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83793"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_drone_attack_kyiv_2026-10-08"
+    "reliability": "low"
   },
   {
     "id": "auto-333",
@@ -1739,9 +1593,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83785"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "mali_kidal_control_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-301",
@@ -1762,10 +1614,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_ceasefire_breakdown_202610",
-    "severity": 4
+    "reliability": "medium"
   },
   {
     "id": "auto-274",
@@ -1786,9 +1635,7 @@
       "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
       "url": "https://t.me/OSINTdefender/20447"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "us_submarine_production_arsenal2_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-254",
@@ -1809,9 +1656,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83780"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_starlink_communications_2026-10-07"
+    "reliability": "low"
   },
   {
     "id": "auto-253",
@@ -1832,10 +1677,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83779"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_flamingo_missile_production_strike_2026-10-07",
-    "severity": 4
+    "reliability": "low"
   },
   {
     "id": "auto-298",
@@ -1856,9 +1698,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ethiopia_eritrea_tigray_202610"
+    "reliability": "medium"
   },
   {
     "id": "auto-252",
@@ -1879,19 +1719,17 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83778"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_slavyansk_liman_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-78",
     "headline": {
-      "ja": "ロシア軍がウクライナで民間住宅を攻撃、19人が死亡",
-      "en": "Russian missile strike kills 19 in Ukrainian apartment block"
+      "ja": "ロシアのミサイル攻撃がウクライナ北部を襲撃、5人の子どもを含む19人が死亡",
+      "en": "Russian Missile Strike Kills 19 in Northern Ukraine, Including 5 Children"
     },
     "summary": {
-      "ja": "ウクライナ北部の集合住宅ブロックがロシアの空襲により破壊され、19人が殺害された。犠牲者には子ども5人を含む。",
-      "en": "Russian missile strike destroyed 30 flats in northern Ukraine, killing 19 people including 5 children."
+      "ja": "ロシアのミサイル攻撃がウクライナ北部の集合住宅を破壊し、30戸が焼失。眠っていた住民5人を含む19人が犠牲となった。",
+      "en": "A Russian missile strike destroyed an apartment building in northern Ukraine, destroying 30 units. Nineteen residents, including five children who were asleep, were killed."
     },
     "category": "conflict",
     "country": "ウクライナ",
@@ -1902,10 +1740,7 @@
       "name": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
     },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_northern_residential_missile_strike_2026-10-07",
-    "severity": 4
+    "reliability": "high"
   },
   {
     "id": "auto-269",
@@ -1926,9 +1761,7 @@
       "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
       "url": "https://t.me/OSINTdefender/20442"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "yemen_taiz_houthis_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-251",
@@ -1949,9 +1782,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83777"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_komar_combat_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-250",
@@ -1972,9 +1803,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83776"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_dobropol_fighting_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-247",
@@ -1995,9 +1824,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83773"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_starlink_drone_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-246",
@@ -2018,9 +1845,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83772"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_peace_proposal_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-245",
@@ -2041,10 +1866,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83771"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_kyiv_missile_strike_202610",
-    "severity": 4
+    "reliability": "low"
   },
   {
     "id": "auto-242",
@@ -2065,9 +1887,7 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83768"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "russia_bryansk_conflict_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-240",
@@ -2088,19 +1908,17 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83766"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_sea_blockade_202610"
+    "reliability": "low"
   },
   {
     "id": "auto-239",
     "headline": {
-      "ja": "ロシア軍がウクライナの防衛産業施設を集中攻撃",
-      "en": "Russia conducts massive strike on Ukrainian defense facilities"
+      "ja": "@rybarアカウントが、ウクライナの軍事・エネルギー施設への夜間攻撃があったと投稿",
+      "en": "@rybar account reports night attacks on Ukrainian military and energy facilities"
     },
     "summary": {
-      "ja": "ロシア軍がウクライナの防衛産業と電力施設に対して大規模な夜間攻撃を実施。キーウ地域を含む複数の州が目標となった。",
-      "en": "Russian forces conducted a massive night strike on Ukrainian defense industry and energy targets across multiple regions."
+      "ja": "@rybarのアカウントで、ロシア軍が7月7日夜間にウクライナの軍需産業施設とエネルギー施設に大規模な攻撃を行ったという投稿があった。",
+      "en": "The @rybar account posted that Russian forces conducted massive attacks on Ukrainian military-industrial and energy facilities during the night of October 7."
     },
     "category": "conflict",
     "country": "ウクライナ",
@@ -2111,9 +1929,6 @@
       "name": "Telegram @rybar(親ロシア・東側)",
       "url": "https://t.me/rybar/83760"
     },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_russian_massive_strike_2026-10-07",
-    "severity": 4
+    "reliability": "low"
   }
 ]
