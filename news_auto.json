@@ -1,5 +1,100 @@
 [
   {
+    "id": "auto-4758",
+    "headline": {
+      "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
+      "en": "Coalition: Drone and Cruise Missile Threat against Saudi Arabia Detected, Engagement Underway"
+    },
+    "summary": {
+      "ja": "サウジアラビア政府は、同国に向かうドローンと巡航ミサイルの脅威を検出し、迎撃作戦を実施中だと発表した。",
+      "en": "Saudi coalition forces reported detecting and engaging a drone and cruise missile threat directed at the kingdom."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.159,
+    "lon": 45.8612,
+    "occurredAt": "2026-10-12T10:29:15+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qSm9XYzVwQjYxVDJ1QS1JSHU4RmJFQm4zdVU5TE16NlFEcEZiMkpTZV9wWUZUdjlUbVFuNTRmY2VKMEx1UmhlMFRB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
+    "severity": 4
+  },
+  {
+    "id": "auto-4767",
+    "headline": {
+      "ja": "RSF、スーダンのブルーナイル州の病院をドローン攻撃",
+      "en": "RSF drone attack destroys hospital, injures 2 medical workers in Sudan's Blue Nile"
+    },
+    "summary": {
+      "ja": "スーダンの紛争勢力RSFが同国ブルーナイル州の病院をドローン攻撃で破壊し、医療従事者2名が負傷した。",
+      "en": "The RSF conducted a drone attack on a hospital in Sudan's Blue Nile state, destroying the facility and injuring two medical workers."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 13.0827,
+    "lon": 30.9635,
+    "occurredAt": "2026-10-12T09:46:17+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG1CVHJQc1M2X1J5UVNLSWk3RUF6NFhfeHRWLXN3LWR4MHlHOEU5X091aGVRX0x6d2V3TUpVZWlPWDhILW1VNzFFTGZIek81OW1iMG1TWnNuZlhfZ3UxalNWaDJKVTlxWTJTc3JiMnMzbDg1YjBORFRHVVQ4UXRXc19GNC13M0pSVTBsdUVZdXNpTG1SaFg3MnlEY01CbEdpYmFxQ2ZfejZTRE9KT20weHB3dWt1MVZuNWJvazJ2RXVFbDAtWThSa2lyMjNFNUhWMkE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_rsf_hospital_attack_2026-10-12"
+  },
+  {
+    "id": "auto-4773",
+    "headline": {
+      "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
+      "en": "Saudi-led coalition says responding to drone, cruise missile threat targeting kingdom"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の有志連合は、同国を狙ったドローンと巡航ミサイルの脅威に対応していると述べた。",
+      "en": "Saudi-led coalition forces reported responding to a drone and cruise missile threat targeting the kingdom."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.479,
+    "lon": 45.3718,
+    "occurredAt": "2026-10-12T09:46:01+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFlXMUZjMFA2SWdRbm1vNGtzLVNFeGV2bE9KdzFnM08ta3BmUW5OYzlpSWlqSDZ4dnNtR000T0VXVDg1SEx4UUltNWNaUVFmTGtpRGd2R3VuX2lDZmhxQUQtVE1JdnRXR25TTmhtcjRLdlpkMEtkSFJlZ0M0VVdaczhmVFI2Y2djSjhIMWtPNTlTZjlVS3o0Tk41RS1vNkdhYzdsNnpJSzA5TGg0MjRKNDBjRXNJTjRxMlJqWGxEdDRhRVFJYktHMg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
+    "severity": 4
+  },
+  {
+    "id": "auto-5017",
+    "headline": {
+      "ja": "ミサイルがリヤド空港に着弾、CCTV映像で確認",
+      "en": "Watch: CCTV shows people take cover as missile hits Riyadh airport"
+    },
+    "summary": {
+      "ja": "BBCが入手した空港内のCCTV映像により、ミサイルがリヤド空港に着弾した瞬間が確認された。",
+      "en": "CCTV footage from inside Riyadh airport shows the moment a missile struck the facility on Saturday."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.1527,
+    "lon": 45.8298,
+    "occurredAt": "2026-10-12T09:38:03+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
+    "severity": 4
+  },
+  {
     "id": "auto-3915",
     "headline": {
       "ja": "北朝鮮のミサイル発射は韓国の極超音速兵器試験への対抗",
@@ -159,6 +254,30 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_egypt_border_airstrike"
+  },
+  {
+    "id": "auto-5115",
+    "headline": {
+      "ja": "サウジアラビア政府、キング・ハーレド国際空港付近で巡航ミサイルを迎撃したと発表",
+      "en": "Coalition: Air Defense Intercepts and Destroys Cruise Missile in Vicinity of King Khalid International Airport"
+    },
+    "summary": {
+      "ja": "サウジアラビア政府は、キング・ハーレド国際空港付近での空域で巡航ミサイルを迎撃・破壊したと発表した。",
+      "en": "Saudi coalition air defense forces reported intercepting and destroying a cruise missile in the vicinity of King Khalid International Airport."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.4139,
+    "lon": 44.5059,
+    "occurredAt": "2026-10-11T15:25:33+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Y2ZBcGNlcHA3a0hsZUxOeUZWR1ZHRWlFYXNsM09aR19SbC1kajlya0FWYkxiVUZjeU45V2NUTWlBS3hhUHEyYTRB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
+    "severity": 4
   },
   {
     "id": "auto-3575",
