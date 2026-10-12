@@ -1,5 +1,189 @@
 [
   {
+    "id": "auto-3915",
+    "headline": {
+      "ja": "北朝鮮のミサイル発射は韓国の極超音速兵器試験への対抗",
+      "en": "North Korea missile launches appear to be response to South Korea hypersonic test"
+    },
+    "summary": {
+      "ja": "北朝鮮がミサイルを発射し、韓国の極超音速兵器試験への対抗措置と見られている。",
+      "en": "North Korea conducts missile launches appearing to respond to South Korea's hypersonic weapon test."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.8976,
+    "lon": 127.2308,
+    "occurredAt": "2026-10-12T04:25:40+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1VfT2V2LXZlYXBEUGF6bExOekpWWU9mUW92Yk1kRnhKTkVtUVRRTU9kVWdUdTN3WEFTYXN3MzhzakxKZ093LW1aMFRZOTlxUWt3d1BTcDE0bko5LU0tMVNxZmY1b3V5aVNMZHcwcHhFaHRVbkt6ZmNnbUFPT0NNdHA5V1pOYVEyX19Ia3pJWmFNdnhtU1lVUC1YZ2NVZVM2ZjF1M25VdEpJZFZtRnBCRmlaQ1IyRW9kUlhSZTdJTi1sRzZCcllhZkswTG5CTXFf?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "korea_missile_response_2026"
+  },
+  {
+    "id": "auto-4162",
+    "headline": {
+      "ja": "北朝鮮が複数の弾道ミサイルを海に向けて発射",
+      "en": "North Korea fires multiple ballistic missiles towards the sea"
+    },
+    "summary": {
+      "ja": "韓国の統合参謀本部によれば、北朝鮮が平壌地域から発射したミサイルの一部は900km以上飛行した。",
+      "en": "South Korea's Joint Chiefs of Staff report North Korea launched missiles from Pyongyang area with at least one flying over 900km."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 40.0796,
+    "lon": 127.9461,
+    "occurredAt": "2026-10-12T03:37:12+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "north_korea_missile_test_2026-10-12"
+  },
+  {
+    "id": "auto-4063",
+    "headline": {
+      "ja": "北朝鮮が複数のミサイルを発射",
+      "en": "North Korea fires several missiles"
+    },
+    "summary": {
+      "ja": "北朝鮮が複数のミサイルを海に向けて発射した。",
+      "en": "North Korea launches multiple missiles toward the sea."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 40.3243,
+    "lon": 127.6575,
+    "occurredAt": "2026-10-12T03:28:19+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TSFJvdlZRVlI0ZHR2UUdGanhVTGVXV2FKaUZUT3RYcFI3SmpqZDV3STRQekNNZ0ZjSTFPUmlLUEE3SHpUY2kwM2RB0gFKQVVfeXFMTVNIUm92VlFWUjRkdHZRR0ZqeFVMZVdXYUppRlRPdFhwUjdKampkNXdJNFB6Q01nRmNJMU9SaUtQQTdIelRjaTAzZEE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_missile_test_2026-10-12"
+  },
+  {
+    "id": "auto-4069",
+    "headline": {
+      "ja": "北朝鮮が2発の弾道ミサイルを発射",
+      "en": "North Korea launches two ballistic missiles"
+    },
+    "summary": {
+      "ja": "日本の主張によると、北朝鮮が2発の弾道ミサイルを発射した。",
+      "en": "Japan claims North Korea launches two ballistic missiles."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 41.1149,
+    "lon": 127.1869,
+    "occurredAt": "2026-10-12T01:25:01+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FQllsOUdTS0ViQktGVURsNF83cGRBY1NtZDJ3LTZaRC10amYySHRBTFVGU2hMMHVHZURfMDR5UExRUHI5Z3VmZUVn0gFKQVVfeXFMTkVCWWw5R1NLRWJCS0ZVRGw0XzdwZEFjU21kMnctNlpELXRqZjJIdEFMVUZTaEwwdUdlRF8wNHlQTFFQcjlndWZlRWc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_missile_test_2026-10-12"
+  },
+  {
+    "id": "auto-4175",
+    "headline": {
+      "ja": "スーダンの採掘地で空爆により少なくとも72人が殺害",
+      "en": "At least 72 Sudanese miners killed in air strike"
+    },
+    "summary": {
+      "ja": "権利監視団が報告したところによると、スーダン北部の採掘地への空爆で少なくとも72人が殺害された。",
+      "en": "A rights monitor reports that at least 72 miners were killed in an airstrike on a mining area in northern Sudan."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 13.0075,
+    "lon": 29.42,
+    "occurredAt": "2026-10-11T22:08:26+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_mining_airstrike_2026-10-11"
+  },
+  {
+    "id": "auto-4179",
+    "headline": {
+      "ja": "スーダンの金鉱への空爆で多数が殺害",
+      "en": "Deadly airstrike kills dozens at Sudan gold mine near Egypt border"
+    },
+    "summary": {
+      "ja": "スーダン・エジプト国境近くの金鉱への空爆により、少なくとも72人が殺害され、50人以上が負傷した。",
+      "en": "An airstrike on a gold mine near the Sudan-Egypt border killed at least 72 people and injured more than 50."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 12.9698,
+    "lon": 30.9573,
+    "occurredAt": "2026-10-11T20:44:17+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_mining_airstrike_2026-10-11"
+  },
+  {
+    "id": "auto-3905",
+    "headline": {
+      "ja": "スーダン・エジプト国境で鉱業労働者が空爆で死傷",
+      "en": "Dozens killed or injured in airstrike near Sudan-Egypt border"
+    },
+    "summary": {
+      "ja": "スーダン・エジプト国境近くの採鉱地で空爆があり、複数の労働者が死傷した。",
+      "en": "Multiple miners killed or injured in an airstrike near the Sudan-Egypt border."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 12.6812,
+    "lon": 29.5518,
+    "occurredAt": "2026-10-11T16:02:52+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2JuMmlrcGRibUNqQUNpRE9WOGUxQjFwczREM0ZabTZGQXRNM1AxZDlmQ3hGcTM1ZW16cFFtY2lSRGhXbVFqMExyYTZVUVNYRkQ3LVpZdGZTU2xmUFZJempERUNaNlZXNF8tcjVMeEE2NDVMZ3QtUUdQSXJ6S2FwZThJeTFUM1ZDODdSeWh1emZvSUc2anNLRWdkQ0JYLVJ0UWJhOVA2Sm9YV3dSYkRnTUxHMjhCZF9vZWVSNUdQRWt4NXgyamswT0x3?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_egypt_border_airstrike"
+  },
+  {
+    "id": "auto-3575",
+    "headline": {
+      "ja": "フーシ派ミサイルがサウジアラビアの防空網を突破",
+      "en": "Houthi missiles breaking through Saudi air defences"
+    },
+    "summary": {
+      "ja": "繰り返されるフーシ派のサウジアラビア攻撃により、高度な防空システムの限界が露呈している。",
+      "en": "Repeated Houthi attacks on Saudi Arabia reveal the limitations of advanced air defence systems."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.3512,
+    "lon": 45.7859,
+    "occurredAt": "2026-10-11T14:25:03+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "houthi_saudi_missile_defense"
+  },
+  {
     "id": "auto-3303",
     "headline": {
       "ja": "ポーランド警察がPM トゥスク首相と国防相の暗殺企図疑惑を調査",
@@ -21,6 +205,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "poland_assassination_plot_tusk_2026-10-11"
+  },
+  {
+    "id": "auto-4195",
+    "headline": {
+      "ja": "グテーレス事務総長がリヤド空港のフーシ派ミサイル攻撃を非難",
+      "en": "Guterres condemns deadly Houthi strike on Riyadh airport"
+    },
+    "summary": {
+      "ja": "国連事務総長アントニオ・グテーレスが、リヤドの主要空港へのフーシ派ミサイル攻撃を非難した。サウジアラビアは12人が殺害され300人以上が負傷したと発表している。",
+      "en": "UN Secretary-General António Guterres condemns Houthi missile attack on Riyadh's main airport which killed 12 and wounded over 300 according to Saudi authorities."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.1253,
+    "lon": 45.7043,
+    "occurredAt": "2026-10-11T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "houthi_riyadh_airport_strike"
   },
   {
     "id": "auto-3042",
