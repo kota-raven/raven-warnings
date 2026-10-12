@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T23:20:02.889Z",
+  "generatedAt": "2026-10-12T00:33:29.153Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 190,
+  "count": 191,
   "warnings": [
     {
       "id": "NAVAREA11-260457",
@@ -314,6 +314,30 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-269995",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "----",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:-------   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\n可能性があるものはすでに落下したとみられる。\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=269995&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-269994",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "----",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:-------   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\n可能性があるものが発射された。\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=269994&LANG=JP"
     },
     {
       "id": "JAPANNW-264009",
@@ -3218,30 +3242,6 @@
       "geometry": null,
       "rawText": "番号:26-1934    発表日時:2026年10月11日 19時\r\n\n\r\n相模灘、\r\r\n初島灯台(35-02.3N 139-10.4E、\r\r\n灯台表第1巻、2425、M6309)消灯。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261934&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261933",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "1933",
-      "title": "日ノ御埼西−友ケ島水道、台船えい航",
-      "publishedAt": "2026-10-11T17:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            135,
-            33.88333333333333
-          ],
-          [
-            135,
-            34.28333333333333
-          ]
-        ]
-      },
-      "rawText": "番号:26-1933    発表日時:2026年10月11日 17時\r\n\n\r\n日ノ御埼西-友ケ島水道、\r\r\n曳船(幸鷹丸、MMSI 432746000)による\r\r\n台船(長さ141メートル)えい航、日ノ御埼西\r\r\n(33-53N 135-00E)10月12日0145通過、\r\r\n友ヶ島水道(34-17N 135-00E)12日0530\r\r\n通過予定、速力約7ノット、長さ最大246メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261933&LANG=JP"
     },
     {
       "id": "NAVTEX-261932",
