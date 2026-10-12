@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T04:24:04.371Z",
+  "generatedAt": "2026-10-12T05:23:35.594Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 201,
+  "count": 200,
   "warnings": [
     {
       "id": "NAVAREA11-260461",
@@ -3304,6 +3304,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261939",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海洋施設",
+      "number": "1939",
+      "title": "襟裳岬西、船舶間貨物油積替作業終了",
+      "publishedAt": "2026-10-12T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1939    発表日時:2026年10月12日 13時\r\n\n\r\n襟裳岬西、\r\r\nTSUGARUによる船舶間貨物油積替作業終了。\r\r\n(1928削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261939&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261938",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3364,18 +3376,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261934&LANG=JP"
     },
     {
-      "id": "NAVTEX-261932",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1932",
-      "title": "入道埼西南西、射撃終了",
-      "publishedAt": "2026-10-11T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1932    発表日時:2026年10月11日 17時\r\n\n\r\n入道埼西南西、\r\r\n射撃終了。\r\r\n(1893削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261932&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261931",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3416,38 +3416,6 @@
       "geometry": null,
       "rawText": "番号:26-1929    発表日時:2026年10月10日 23時\r\n\n\r\n苫小牧港、4区、\r\r\n水中障害物(錨鎖、長さ316メートル)あり、\r\r\n42-34.64N 141-40.96E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261929&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261928",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海洋施設",
-      "number": "1928",
-      "title": "襟裳岬西、船舶間貨物油積替作業",
-      "publishedAt": "2026-10-10T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            141.66666666666666,
-            42.36666666666667
-          ],
-          [
-            142.85,
-            41.833333333333336
-          ],
-          [
-            141.63333333333333,
-            41.733333333333334
-          ],
-          [
-            141.5,
-            41.95
-          ]
-        ]
-      },
-      "rawText": "番号:26-1928    発表日時:2026年10月10日 13時\r\n\n\r\n襟裳岬西、\r\r\nTSUGARU(160463トン)による\r\r\n船舶間貨物油積替作業、10月11日0800-当分の間、\r\r\n42-22N 141-40E 41-50N 142-51E\r\r\n41-44N 141-38E 41-57N 141-30E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261928&LANG=JP"
     },
     {
       "id": "NAVTEX-261927",
