@@ -89,28 +89,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-12-03",
-    "headline": {
-      "ja": "パナマでM7.7の地震、建物倒壊や避難相次ぐ 太平洋沿岸に津波注意報(後に解除)",
-      "en": "Magnitude 7.7 earthquake hits Panama, causing building damage and evacuations; Pacific tsunami warning issued, later lifted"
-    },
-    "summary": {
-      "ja": "米地質調査所(USGS)によれば、10月9日(金)午後(現地時間)、パナマ中部ヘレラ州ピタロサ・アリバ付近の深さ約10kmを震源とするマグニチュード7.7(当初発表はM8.0、その後7.6→7.7に修正)の地震が発生した。その後も強い余震が相次ぎ、パナマ大学の地震学者によれば発生から数日で45回以上の余震(規模5.2~5.8程度を含む)が記録されたという。コクレ州の州都ペノノメでは大聖堂の一部崩壊やホテル外壁の落下が報じられ、瓦礫で負傷者が出たとの報道もある。被害はベラグアス・ヘレラ・ロスサントスの中部3州に集中し、首都パナマ市での大きな被害報告はないという。パナマシティの国際空港は一時運用を停止したが、パナマ運河は通常運航を維持したと報じられている。太平洋沿岸諸国に津波注意報が出されたが、太平洋津波警報センターは後に脅威が去ったと発表した。ムリノ大統領は地震発生当夜の時点で死者は確認されていないとしつつ、数字は今後変わりうると述べた。[信頼性: 高](AP通信〈ITV、CBS News等が配信〉が一致して報道)",
-      "en": "According to the US Geological Survey, a magnitude 7.7 earthquake (initially reported as M8.0, later revised to 7.6 and then 7.7) struck central Panama on the afternoon of Friday, October 9, local time, centered about 10km deep near Pitaloza Arriba in Herrera province. It was followed by numerous strong aftershocks, with University of Panama seismologists logging more than 45 (including some in the 5.2-5.8 range) within days. In Penonome, capital of Cocle province, a cathedral partially collapsed and part of a hotel facade fell, with some reports of injuries from debris. Damage was concentrated in the central provinces of Veraguas, Herrera and Los Santos, with no major damage reported in Panama City. Panama City's international airport briefly suspended operations, while the Panama Canal reportedly continued normal operations. A tsunami warning was issued for Pacific coastal countries but was later lifted by the Pacific Tsunami Warning Center. President Jose Raul Mulino said on the night of the quake that no deaths had been confirmed, while cautioning the toll could change. [Reliability: High] (Consistently reported by AP, distributed via ITV, CBS News and others.)"
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "region": "ヘレラ州(ピタロサ・アリバ付近、震源)",
-    "lat": 7.95,
-    "lon": -80.70,
-    "occurredAt": "2026-10-09T18:00:00+00:00",
-    "source": {
-      "name": "ITV News(AP通信配信)",
-      "url": "https://www.itv.com/news/2026-10-09/powerful-77-earthquake-rocks-panama-prompts-evacuations"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-12-04",
     "headline": {
       "ja": "大西洋初のハリケーン「イザイアス」、フロリダ州パンハンドルに上陸 4人死亡・38万軒超が停電",
