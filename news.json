@@ -42,5 +42,28 @@
     },
     "reliability": "high",
     "severity": 4
+  },
+  {
+    "id": "2026-10-12-01",
+    "headline": {
+      "ja": "サウジ・リヤド空港、日曜に再び被弾 死者1人・11人負傷、フーシ派が犯行声明",
+      "en": "Riyadh airport hit again on Sunday, killing one and wounding 11; Houthis claim attack"
+    },
+    "summary": {
+      "ja": "サウジ民間航空総局などによれば、10月11日(日)、リヤドのキング・ハーリド国際空港が前日10日の攻撃(id: 2026-10-11-02、12人死亡・309人負傷)に続き再び被弾し、ターミナル4で火災が発生、パキスタン人1人が死亡、11人が負傷した。フーシ派は過去24時間の複数の攻撃(同空港への攻撃を含む)について犯行声明を出し、ダンマームのキング・ファハド国際空港への攻撃も主張したという。この影響で空港は日曜遅くまで閉鎖され、600便以上が欠航した。複数メディアは、トランプ米大統領がフーシ派への米軍による直接攻撃への参加を検討していると述べたと報じている。[信頼性: 高](South China Morning Post、CNN、Al Jazeeraが一致して報道)",
+      "en": "According to Saudi Arabia's civil aviation authority, King Khalid International Airport in Riyadh was struck again on Sunday, October 11, a day after Saturday's deadlier attack (previously reported, id 2026-10-11-02: 12 dead, 309 wounded), with a fire breaking out in Terminal 4. One person, a Pakistani national, was killed and 11 others were wounded. The Houthis claimed responsibility for multiple attacks over the prior 24 hours, including this one, and reportedly also claimed to have targeted King Fahd International Airport in Dammam. The airport remained closed into late Sunday, with more than 600 flights cancelled. Multiple outlets reported that President Trump said he is weighing whether the US will join strikes against the Houthis. [Reliability: High] (Consistently reported by South China Morning Post, CNN, and Al Jazeera.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "リヤド(キング・ハーリド国際空港)",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-11T00:00:00+00:00",
+    "source": {
+      "name": "South China Morning Post(CNN、Al Jazeera等の報道集約含む)",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
