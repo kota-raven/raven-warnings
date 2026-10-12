@@ -65,5 +65,71 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-12-02",
+    "headline": {
+      "ja": "ノーベル経済学賞、米ホール氏・ウッドフォード氏に 景気循環の安定化モデルの基礎で",
+      "en": "Nobel Economics Prize awarded to Americans Hall and Woodford for foundations of business-cycle stabilization models"
+    },
+    "summary": {
+      "ja": "スウェーデン王立科学アカデミーは10月12日、2026年のノーベル経済学賞を、米スタンフォード大学のロバート・E・ホール氏と米コロンビア大学のマイケル・ウッドフォード氏の2人に授与すると発表した。個々の家計・企業の購買・価格設定行動の分析を、景気の好不況サイクルを安定化させる政策のマクロ経済モデル(いわゆる「ニューケインジアン」的手法)の基礎として確立した業績が評価された。選考委員長のヨン・ハスラー氏は、両氏の研究が各国の中央銀行・政府が現在使う経済安定化モデルに安定した理論的基盤を与えたと述べた。賞金は2人で1200万スウェーデンクローナ(約1.2億円相当)。[信頼性: 高](AP通信〈NBC News配信〉、CNBC、NPR、CNNが一致して報道)",
+      "en": "The Royal Swedish Academy of Sciences announced on October 12 that the 2026 Nobel Memorial Prize in Economic Sciences goes to Robert E. Hall of Stanford University and Michael Woodford of Columbia University, both American economists, for establishing the microeconomic foundations -- individual households' and firms' purchasing and pricing decisions -- of the macroeconomic models used to stabilize boom-bust business cycles, the basis of the 'New Keynesian' approach. Committee chair John Hassler said their work gave a stable theoretical foundation for the stabilization models now used by central banks and governments worldwide. The prize money, 12 million Swedish kronor (about $1.2 million), is shared between the two laureates. [Reliability: High] (Consistently reported by AP via NBC News, CNBC, NPR, and CNN.)"
+    },
+    "category": "economy",
+    "country": "スウェーデン",
+    "region": "ストックホルム",
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "occurredAt": "2026-10-12T09:45:00+00:00",
+    "source": {
+      "name": "NBC News(AP通信配信)",
+      "url": "https://www.nbcnews.com/world/europe/americans-hall-woodford-win-2026-nobel-economics-prize-rcna602928"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-12-03",
+    "headline": {
+      "ja": "パナマでM7.7の地震、建物倒壊や避難相次ぐ 太平洋沿岸に津波注意報(後に解除)",
+      "en": "Magnitude 7.7 earthquake hits Panama, causing building damage and evacuations; Pacific tsunami warning issued, later lifted"
+    },
+    "summary": {
+      "ja": "米地質調査所(USGS)によれば、10月9日(金)午後(現地時間)、パナマ中部ヘレラ州ピタロサ・アリバ付近の深さ約10kmを震源とするマグニチュード7.7(当初発表はM8.0、その後7.6→7.7に修正)の地震が発生した。その後も強い余震が相次ぎ、パナマ大学の地震学者によれば発生から数日で45回以上の余震(規模5.2~5.8程度を含む)が記録されたという。コクレ州の州都ペノノメでは大聖堂の一部崩壊やホテル外壁の落下が報じられ、瓦礫で負傷者が出たとの報道もある。被害はベラグアス・ヘレラ・ロスサントスの中部3州に集中し、首都パナマ市での大きな被害報告はないという。パナマシティの国際空港は一時運用を停止したが、パナマ運河は通常運航を維持したと報じられている。太平洋沿岸諸国に津波注意報が出されたが、太平洋津波警報センターは後に脅威が去ったと発表した。ムリノ大統領は地震発生当夜の時点で死者は確認されていないとしつつ、数字は今後変わりうると述べた。[信頼性: 高](AP通信〈ITV、CBS News等が配信〉が一致して報道)",
+      "en": "According to the US Geological Survey, a magnitude 7.7 earthquake (initially reported as M8.0, later revised to 7.6 and then 7.7) struck central Panama on the afternoon of Friday, October 9, local time, centered about 10km deep near Pitaloza Arriba in Herrera province. It was followed by numerous strong aftershocks, with University of Panama seismologists logging more than 45 (including some in the 5.2-5.8 range) within days. In Penonome, capital of Cocle province, a cathedral partially collapsed and part of a hotel facade fell, with some reports of injuries from debris. Damage was concentrated in the central provinces of Veraguas, Herrera and Los Santos, with no major damage reported in Panama City. Panama City's international airport briefly suspended operations, while the Panama Canal reportedly continued normal operations. A tsunami warning was issued for Pacific coastal countries but was later lifted by the Pacific Tsunami Warning Center. President Jose Raul Mulino said on the night of the quake that no deaths had been confirmed, while cautioning the toll could change. [Reliability: High] (Consistently reported by AP, distributed via ITV, CBS News and others.)"
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "region": "ヘレラ州(ピタロサ・アリバ付近、震源)",
+    "lat": 7.95,
+    "lon": -80.70,
+    "occurredAt": "2026-10-09T18:00:00+00:00",
+    "source": {
+      "name": "ITV News(AP通信配信)",
+      "url": "https://www.itv.com/news/2026-10-09/powerful-77-earthquake-rocks-panama-prompts-evacuations"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-12-04",
+    "headline": {
+      "ja": "大西洋初のハリケーン「イザイアス」、フロリダ州パンハンドルに上陸 4人死亡・38万軒超が停電",
+      "en": "First Atlantic hurricane of the season, Isaias, makes landfall on Florida Panhandle; 4 dead, over 380,000 without power"
+    },
+    "summary": {
+      "ja": "NPR・CBS Newsなどによれば、2026年大西洋ハリケーンシーズン最初のハリケーンとなった「イザイアス」は、10月9日(金)夜から10日(土)未明にかけてカテゴリー2の強さでフロリダ州パンハンドル(デスティン付近)に上陸した後、数時間以内に温帯低気圧へ弱まった。暴風によりペンサコーラでホテルの屋根が吹き飛び、同市長は空港も被害を受けたと述べ、ミルトン高校の体育館が倒壊したとも報じられている。NPRによれば、これまでに少なくとも4人の死亡が確認されており、倒木による住宅被害で2人が死亡、エスカンビア郡では室内での発電機使用による一酸化炭素中毒死の例があったという。日曜早朝時点で、フロリダ州パンハンドルとアラバマ州南部で38万9000件超が停電していた。デサンティス州知事は上陸前、フロリダ州27郡に非常事態を宣言し避難指示を出していた。[信頼性: 高](NPR、CBS News、ABC7が一致して報道)",
+      "en": "According to NPR and CBS News, Isaias -- the first hurricane of the 2026 Atlantic season -- made landfall as a Category 2 storm on Florida's Panhandle near Destin late Friday, October 9, into early Saturday, October 10, before weakening to a post-tropical cyclone within hours. Hurricane-force winds blew the roof off a hotel in Pensacola, and the city's mayor said the airport also sustained damage; the gymnasium at Milton High School was reported destroyed. NPR has confirmed at least four storm-related deaths: two people died when trees fell on their homes, and in Escambia County a person died of carbon monoxide poisoning after running a generator indoors. As of early Sunday, more than 389,000 customers remained without power across the Florida Panhandle and southern Alabama. Governor DeSantis had declared a state of emergency and ordered evacuations for 27 Florida counties ahead of landfall. [Reliability: High] (Consistently reported by NPR, CBS News, and ABC7.)"
+    },
+    "category": "disaster",
+    "country": "米国",
+    "region": "フロリダ州(パンハンドル、デスティン付近)",
+    "lat": 30.3935,
+    "lon": -86.4958,
+    "occurredAt": "2026-10-10T02:00:00+00:00",
+    "source": {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama"
+    },
+    "reliability": "high"
   }
 ]
