@@ -1,8 +1,56 @@
 {
-  "generatedAt": "2026-10-12T00:33:29.153Z",
+  "generatedAt": "2026-10-12T01:24:11.338Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 191,
+  "count": 201,
   "warnings": [
+    {
+      "id": "NAVAREA11-260461",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0461",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0461    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA\r\r\nPOSSIBLY LANDED.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260461&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260460",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0460",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0460    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260460&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260459",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0459",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0459    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA\r\r\nPOSSIBLY LANDED.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260459&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260458",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0458",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0458    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260458&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260457",
       "type": "NAVAREA11",
@@ -316,28 +364,52 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
-      "id": "JAPANNW-269995",
+      "id": "JAPANNW-264013",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
       "category": "その他",
-      "number": "----",
+      "number": "4013",
       "title": "ミサイル発射",
       "publishedAt": "2026-10-12T09:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:-------   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\n可能性があるものはすでに落下したとみられる。\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=269995&LANG=JP"
+      "rawText": "番号:26-4013   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264013&LANG=JP"
     },
     {
-      "id": "JAPANNW-269994",
+      "id": "JAPANNW-264012",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
       "category": "その他",
-      "number": "----",
+      "number": "4012",
       "title": "ミサイル発射",
       "publishedAt": "2026-10-12T09:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:-------   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\n可能性があるものが発射された。\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=269994&LANG=JP"
+      "rawText": "番号:26-4012   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264012&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264011",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4011",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4011   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264011&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264010",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4010",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4010   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264010&LANG=JP"
     },
     {
       "id": "JAPANNW-264009",
@@ -3230,6 +3302,54 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261938",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1938",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1938    発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261938&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261937",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1937",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1937    発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261937&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261936",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1936",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1936    発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261936&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261935",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1935",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1935    発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261935&LANG=JP"
     },
     {
       "id": "NAVTEX-261934",
