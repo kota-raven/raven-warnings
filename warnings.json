@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:23:55.769Z",
+  "generatedAt": "2026-10-12T12:37:54.009Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 201,
   "warnings": [
@@ -3304,6 +3304,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261941",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1941",
+      "title": "相模灘、初島灯台復旧",
+      "publishedAt": "2026-10-12T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1941    発表日時:2026年10月12日 21時\r\n\n\r\n相模灘、\r\r\n初島灯台復旧。\r\r\n(1934削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261941&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261940",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3386,18 +3398,6 @@
       "geometry": null,
       "rawText": "番号:26-1935    発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261935&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261934",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1934",
-      "title": "相模灘、初島灯台消灯",
-      "publishedAt": "2026-10-11T19:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1934    発表日時:2026年10月11日 19時\r\n\n\r\n相模灘、\r\r\n初島灯台(35-02.3N 139-10.4E、\r\r\n灯台表第1巻、2425、M6309)消灯。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261934&LANG=JP"
     },
     {
       "id": "NAVTEX-261931",
