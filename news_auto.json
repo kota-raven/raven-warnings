@@ -92,6 +92,29 @@
     "eventKey": "north_korea_ballistic_missile_20261013"
   },
   {
+    "id": "auto-6400",
+    "headline": {
+      "ja": "フーシ派がサウジアラビアへの攻撃を主張",
+      "en": "Houthis claim missile and drone attacks on Saudi Arabia"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派勢力が、サウジアラビアのリヤド空港とハミス・ムシャイト基地に対してミサイルとドローンによる攻撃を実行したと主張した。",
+      "en": "Yemen's Houthi forces claimed to have conducted missile and drone attacks on Riyadh airport and Khamis Mushait air base in Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-12T20:23:34+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRTdRY3BLMWEtT3A1RUI1c3VULXpaUTJ1VEswano1MVp6ZTJXMm5Wa0pQNTBHNWsxVk9lMFYzQS16SEt3cmFIR0NEbzR1Z21yMnhtYWQ0QlVuTkdUTmZWNUhTdnNiTjhnVm5udmtGS0FDdnpleWVYamxweFJkV3ptTDFJY1JBMG9jN3FEeGRHR0NsQWNocHFwbUJRU1ZUQWxfWnpnVUR3RTVfUkpsUUlpRHptbEs3MmtVanNZMXJuX1ZJcGpCMHFjdFA0LV9aVVhtTFBuNUFnNA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_riyadh_missile_strike_2026-10-12"
+  },
+  {
     "id": "auto-6091",
     "headline": {
       "ja": "フーシがリヤド空港をミサイルで攻撃したと発表",
