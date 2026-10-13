@@ -1,5 +1,26 @@
 [
   {
+    "id": "auto-5426",
+    "headline": {
+      "ja": "#USA BAE Systems unveiled a High Power M",
+      "en": "#USA BAE Systems unveiled a High Power Microwave (HPM) weapo"
+    },
+    "summary": {
+      "ja": "#USA BAE Systems unveiled a High Power Microwave (HPM) weapon system at AUSA 2026 as part of layered counter-unmanned ai",
+      "en": "#USA BAE Systems unveiled a High Power Microwave (HPM) weapon system at AUSA 2026 as part of layered counter-unmanned ai"
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 37.6139,
+    "lon": -95.8512,
+    "occurredAt": "2026-10-12T17:24:43+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20491"
+    },
+    "reliability": "low"
+  },
+  {
     "id": "auto-4758",
     "headline": {
       "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
