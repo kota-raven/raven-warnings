@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-10-11-01",
-    "headline": {
-      "ja": "台湾・頼清徳総統、国慶節演説で「台湾海峡での武力行使は容認しない」 中国は批判",
-      "en": "Taiwan's Lai Ching-te vows not to tolerate force in Taiwan Strait in National Day speech, China criticizes"
-    },
-    "summary": {
-      "ja": "台湾の頼清徳総統は10月10日、台北の総統府前で行われた建国記念日(双十節)演説で、台湾は平和を重んじるとしつつ「自由を諭さない」と述べ、台湾海峡での武力による現状変更を容認しないと表明した。防衛費増額については「戦争を抑止するため」と説明し、インド太平洋地域の民主主義国家に地域の安定維持への協力を呼びかけた。米中間の対話については歓迎する姿勢を示す一方、平和の維持には歴史の正しい理解が必要だと指摘したという。これに対し中国側は、演説が事実を無視し公衆を誤導するものだと批判したと複数メディアが報じた。[信頼性: 高](AP通信、Al Jazeera、Washington Post、Focus Taiwan〈総統府発表の演説全文〉等複数の報道機関が一致して報道)",
-      "en": "Taiwan's President Lai Ching-te said in his October 10 National Day address outside the Presidential Office in Taipei that while Taiwan cherishes peace, it will 'not give up our freedom,' and that the island would not tolerate any attempt to change the status quo in the Taiwan Strait by force. He said the island's defense spending increase is meant to 'deter war,' and called on Indo-Pacific democracies to help maintain regional stability. He welcomed dialogue between the US and China while saying that maintaining peace requires a correct understanding of history. Beijing criticized the speech as disregarding facts and misleading the public, according to multiple outlets. [Reliability: High] (Consistently reported by AP, Al Jazeera, Washington Post, and Focus Taiwan, which published the Presidential Office's official English text of the speech.)"
-    },
-    "category": "conflict",
-    "country": "台湾",
-    "lat": 23.6978,
-    "lon": 120.9605,
-    "occurredAt": "2026-10-10T01:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-11-02",
-    "headline": {
-      "ja": "サウジ・リヤド空港、週内3度目の攻撃で12人死亡・309人負傷 開戦以来ガルフ諸国で最多の死者",
-      "en": "Third attack this week on Riyadh airport kills 12, wounds 309 — deadliest in Gulf Arab states since Iran war began"
-    },
-    "summary": {
-      "ja": "サウジ民間航空総局(GACA)によれば、10月10日(土)、リヤドのキング・ハーリド国際空港が今週3度目となる攻撃を受け、少なくとも12人が死亡、309人が負傷した。地元当局者によれば、ミサイルが国内線ターミナル3・4を収容する空港施設に命中したという。死者にはサウジ人4人、バングラデシュ人2人、米国・ヨルダン・パレスチナ・シリア・スーダン・エジプト各1人が含まれるとされる。事前の警報は出されず、ダンマームのキング・ファハド国際空港付近にも別の飛来物が落下したと、サウジ主導連合が発表した。Reuters(CNN配信)はフーシ派が本攻撃への犯行声明を出したと報じたが、Al Jazeeraは10日時点でフーシ派が犯行声明を出していないと報じており、犯行声明の有無については報道が分かれる(攻撃の発生・死傷者数自体は複数の有力メディアが一致)。サウジ主導連合はこれを「戦争犯罪」と非難し「断固たる対応」を表明、米国のトランプ大統領はフーシ派への米軍直接攻撃の実施を検討していると複数メディアが報じた。既報(id: 2026-10-09-02、10月8日の攻撃、死者3人)から2日で死傷者数が大幅に拡大し、2026年2月末の米・イスラエル対イラン戦争開戦以来、ガルフ・アラブ諸国で最も死者数の多い攻撃とされる。",
-      "en": "Saudi Arabia's General Authority of Civil Aviation said that on Saturday, October 10, King Khalid International Airport in Riyadh was hit for the third time this week, leaving at least 12 dead and 309 wounded. A regional official said a missile struck an airport complex housing domestic terminals 3 and 4. The dead reportedly included four Saudis, two Bangladeshis, and one national each from the US, Jordan, Palestine, Syria, Sudan and Egypt. No warning was issued beforehand, and the Saudi-led coalition said another projectile fell near King Fahd International Airport in Dammam. Reuters (via CNN) reported the Houthis claimed the attack, while Al Jazeera reported that as of October 10 the Houthis had not claimed responsibility for this particular strike — accounts differ on the claim of responsibility, though the attack and casualty figures are consistently reported across major outlets. The Saudi-led coalition called it a 'war crime' and vowed a 'decisive response,' and multiple outlets reported President Trump is weighing direct US strikes on the Houthis. Casualties rose sharply from the October 8 attack (previously reported, id 2026-10-09-02, 3 dead) within two days, making this the deadliest attack in any Gulf Arab state since the US-Israel war against Iran began in late February 2026."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "リヤド(キング・ハーリド国際空港)",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-10T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera(NBC News、CNN、NPR、Washington Post等の報道集約含む)",
-      "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured"
-    },
-    "reliability": "high",
-    "severity": 4
-  },
-  {
     "id": "2026-10-13-01",
     "headline": {
       "ja": "フーシ派、米国の参戦なら「迅速かつ痛烈な対応」と警告 サウジ石油施設・空港の従業員に退避呼びかけ",
@@ -107,28 +63,6 @@
     "source": {
       "name": "NBC News(AP通信配信)",
       "url": "https://www.nbcnews.com/world/europe/americans-hall-woodford-win-2026-nobel-economics-prize-rcna602928"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-12-04",
-    "headline": {
-      "ja": "大西洋初のハリケーン「イザイアス」、フロリダ州パンハンドルに上陸 4人死亡・38万軒超が停電",
-      "en": "First Atlantic hurricane of the season, Isaias, makes landfall on Florida Panhandle; 4 dead, over 380,000 without power"
-    },
-    "summary": {
-      "ja": "NPR・CBS Newsなどによれば、2026年大西洋ハリケーンシーズン最初のハリケーンとなった「イザイアス」は、10月9日(金)夜から10日(土)未明にかけてカテゴリー2の強さでフロリダ州パンハンドル(デスティン付近)に上陸した後、数時間以内に温帯低気圧へ弱まった。暴風によりペンサコーラでホテルの屋根が吹き飛び、同市長は空港も被害を受けたと述べ、ミルトン高校の体育館が倒壊したとも報じられている。NPRによれば、これまでに少なくとも4人の死亡が確認されており、倒木による住宅被害で2人が死亡、エスカンビア郡では室内での発電機使用による一酸化炭素中毒死の例があったという。日曜早朝時点で、フロリダ州パンハンドルとアラバマ州南部で38万9000件超が停電していた。デサンティス州知事は上陸前、フロリダ州27郡に非常事態を宣言し避難指示を出していた。[信頼性: 高](NPR、CBS News、ABC7が一致して報道)",
-      "en": "According to NPR and CBS News, Isaias -- the first hurricane of the 2026 Atlantic season -- made landfall as a Category 2 storm on Florida's Panhandle near Destin late Friday, October 9, into early Saturday, October 10, before weakening to a post-tropical cyclone within hours. Hurricane-force winds blew the roof off a hotel in Pensacola, and the city's mayor said the airport also sustained damage; the gymnasium at Milton High School was reported destroyed. NPR has confirmed at least four storm-related deaths: two people died when trees fell on their homes, and in Escambia County a person died of carbon monoxide poisoning after running a generator indoors. As of early Sunday, more than 389,000 customers remained without power across the Florida Panhandle and southern Alabama. Governor DeSantis had declared a state of emergency and ordered evacuations for 27 Florida counties ahead of landfall. [Reliability: High] (Consistently reported by NPR, CBS News, and ABC7.)"
-    },
-    "category": "disaster",
-    "country": "米国",
-    "region": "フロリダ州(パンハンドル、デスティン付近)",
-    "lat": 30.3935,
-    "lon": -86.4958,
-    "occurredAt": "2026-10-10T02:00:00+00:00",
-    "source": {
-      "name": "NPR",
-      "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama"
     },
     "reliability": "high"
   },
@@ -211,7 +145,7 @@
     "country": "イエメン",
     "region": "サナア",
     "lat": 15.3694,
-    "lon": 44.1910,
+    "lon": 44.191,
     "occurredAt": "2026-10-13T11:00:00+00:00",
     "source": {
       "name": "CP24(Reuters配信)",
@@ -219,5 +153,50 @@
     },
     "reliability": "high",
     "severity": 4
+  },
+  {
+    "id": "2026-10-14-01",
+    "headline": {
+      "ja": "サウジ連合軍、サナア西郊の石油施設を空爆 フーシ派がアラムコ施設を「正当な標的」と宣言",
+      "en": "Saudi-led coalition strikes oil facility west of Sanaa; Houthis declare Aramco sites 'legitimate targets'"
+    },
+    "summary": {
+      "ja": "フーシ派系メディアは10月13日、サウジ主導連合が事前の退避要求に続きサナア西郊アル・サバハのイエメン石油公社中央施設を空爆したと報じ、現地のAFP記者も爆発音を確認した。連合側はこの空爆を公式には確認していない。イエメン石油公社は同施設に燃料在庫はなく供給には影響しないと説明した。フーシ派は同日、サウジアラムコの関連施設を「正当な標的」と宣言し、報復対象としてダンマン(ザハラン本社)のアラムコ施設やリヤドの製油所などを名指しした。サウジ閣議(ムハンマド皇太子主宰)はフーシ派の攻撃継続に「相応の結果」を与えると表明した。[信頼性: 中](France 24、DAWN、Daily Times、Jerusalem Post系報道。コンコ側の公式確認はなし)",
+      "en": "Houthi-affiliated media reported on October 13 that the Saudi-led coalition struck the Yemen Petroleum Company's al-Sabaha central facility west of Sanaa, following an earlier evacuation order; an AFP correspondent in the city reported hearing an explosion. The coalition had not officially confirmed the strike. The Yemen Petroleum Company said the site held no fuel stocks and that supply would not be affected. The same day, the Houthis declared Saudi Aramco facilities 'legitimate targets,' naming Aramco's Dammam/Dhahran headquarters and a Riyadh refinery as potential retaliation targets. Saudi Arabia's cabinet, chaired by Crown Prince Mohammed bin Salman, said the Houthis would face 'consequences' for continuing attacks. [Reliability: Medium] (France 24, DAWN, Daily Times, Jerusalem Post-affiliated reporting; the coalition has not officially confirmed the strike.)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "サナア",
+    "lat": 15.3694,
+    "lon": 44.191,
+    "occurredAt": "2026-10-13T13:00:00+00:00",
+    "source": {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-14-02",
+    "headline": {
+      "ja": "イエメン・ホデイダの石油会社への攻撃で2人死亡 フーシ派保健省がサウジ側を非難(未確認)",
+      "en": "Two killed in strike on oil company in Yemen's Hodeidah, Houthi health ministry blames Saudi side (unconfirmed)"
+    },
+    "summary": {
+      "ja": "フーシ派運営の保健省は、ホデイダ(紅海沿岸、フーシ派支配地域)の石油会社施設への攻撃で2人が死亡したと発表し、サウジ側の犯行だと非難したと報じられた。サウジ主導連合側からの公式な確認は得られていない。サナアの石油施設への空爆(id: 2026-10-14-01)と同日の一連の報道の一部。[信頼性: 未確認情報](フーシ派保健省発表に基づく報道。独立した複数ソースでの死傷者数・実行者の確証は得られていない)",
+      "en": "Yemen's Houthi-run health ministry said two people were killed in a strike on an oil company facility in Hodeidah, on the Red Sea coast, and blamed the Saudi side, according to reports. The Saudi-led coalition has not officially confirmed the strike. This was reported the same day as the strike on the oil facility near Sanaa (id: 2026-10-14-01). [Reliability: Unconfirmed] (Based on Houthi health ministry statements; casualty figures and responsibility are not independently confirmed by multiple sources.)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "ホデイダ",
+    "lat": 14.7979,
+    "lon": 42.9545,
+    "occurredAt": "2026-10-13T10:00:00+00:00",
+    "source": {
+      "name": "France 24 / Houthi health ministry",
+      "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say"
+    },
+    "reliability": "unconfirmed"
   }
 ]
