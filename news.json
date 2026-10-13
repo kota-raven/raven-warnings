@@ -196,5 +196,28 @@
       "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-13-05",
+    "headline": {
+      "ja": "サウジ主導連合、イエメンの首都サナアの石油施設周辺に作戦前の退避要求 フーシ派「リヤドへ痛烈な報復」警告",
+      "en": "Saudi-led coalition orders evacuation ahead of planned Sanaa operation; Houthis warn of 'harsh, painful' response against Riyadh"
+    },
+    "summary": {
+      "ja": "サウジ主導連合の報道官トゥルキー・アル・マリキ氏は10月13日(火)、イエメンの首都サナア(フーシ派支配地域)にあるイエメン石油公社の中央貯蔵施設(通称サバーハ/サバー中央基地)周辺の住民に対し、今後実施予定の軍事作戦に備えて退避するよう求めたと発表した。具体的な作戦内容・実施時期は明らかにされていない。これに対しフーシ派軍事報道官ヤヒヤ・サリア氏は、サナアが攻撃された場合はサウジの首都リヤドに対し「痛烈かつ厳しい」報復を行うと警告したと複数メディアが報じた。フーシ派は同日、サウジ・アラムコの施設も「正当な標的」とし、周辺からの退避を改めて呼びかけている。背景として、10月6日以降フーシ派によるサウジ国内空港への弾道ミサイル・無人機攻撃が相次ぎ、少なくとも20人が死亡、370人超が負傷しており、サウジ主導連合・米国によるフーシ派への直接的な軍事作戦実施の是非が焦点となっている。これまでの空港・インフラへの相互攻撃から一歩進み、フーシ派の本拠地である首都サナアへの作戦実施が公式に予告された点が新規。[信頼性: 高](Reuters配信〈Yahoo News、The Print、CP24、TRT World等〉、Times of Israel、Gulf Newsが一致して報道)",
+      "en": "Saudi-led coalition spokesman Turki al-Maliki said on Tuesday, October 13, that civilians near the Yemen Oil Company's central storage site (referred to as the Sabah/al-Sabaha central station) in Houthi-held Sanaa should evacuate ahead of a planned military operation; the coalition did not specify what the operation would involve or when it would occur. Houthi military spokesman Yahya Saree warned that any strike on Sanaa would be met with a 'harsh and painful' response against the Saudi capital Riyadh, according to multiple outlets. The Houthis separately renewed a call for people to stay away from Saudi Aramco facilities, calling them 'legitimate targets.' The warning follows a string of Houthi ballistic-missile and drone attacks on Saudi airports since October 6 that have killed at least 20 people and wounded more than 370, amid debate over whether the Saudi-led coalition and the US will carry out direct strikes on the Houthis. The coalition's explicit move toward an operation on the Houthi capital itself marks a step beyond the mutual strikes on airports and infrastructure reported so far. [Reliability: High] (Consistently reported via Reuters-syndicated outlets including Yahoo News, The Print, CP24, and TRT World, as well as Times of Israel and Gulf News.)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "サナア",
+    "lat": 15.3694,
+    "lon": 44.1910,
+    "occurredAt": "2026-10-13T11:00:00+00:00",
+    "source": {
+      "name": "CP24(Reuters配信)",
+      "url": "https://www.cp24.com/news/world/2026/10/13/saudis-tell-sanaa-residents-around-oil-facility-to-evacuate-and-other-middle-east-developments/"
+    },
+    "reliability": "high",
+    "severity": 4
   }
 ]
