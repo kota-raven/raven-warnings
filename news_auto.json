@@ -161,30 +161,6 @@
     "eventKey": "oman_strait_hormuz_tanker_attack_20261012"
   },
   {
-    "id": "auto-4758",
-    "headline": {
-      "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
-      "en": "Coalition: Drone and Cruise Missile Threat against Saudi Arabia Detected, Engagement Underway"
-    },
-    "summary": {
-      "ja": "サウジアラビア政府は、同国に向かうドローンと巡航ミサイルの脅威を検出し、迎撃作戦を実施中だと発表した。",
-      "en": "Saudi coalition forces reported detecting and engaging a drone and cruise missile threat directed at the kingdom."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 23.159,
-    "lon": 45.8612,
-    "occurredAt": "2026-10-12T10:29:15+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qSm9XYzVwQjYxVDJ1QS1JSHU4RmJFQm4zdVU5TE16NlFEcEZiMkpTZV9wWUZUdjlUbVFuNTRmY2VKMEx1UmhlMFRB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
-  },
-  {
     "id": "auto-4767",
     "headline": {
       "ja": "RSF、スーダンのブルーナイル州の病院をドローン攻撃",
@@ -206,30 +182,6 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_rsf_hospital_attack_2026-10-12"
-  },
-  {
-    "id": "auto-4773",
-    "headline": {
-      "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
-      "en": "Saudi-led coalition says responding to drone, cruise missile threat targeting kingdom"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の有志連合は、同国を狙ったドローンと巡航ミサイルの脅威に対応していると述べた。",
-      "en": "Saudi-led coalition forces reported responding to a drone and cruise missile threat targeting the kingdom."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 23.479,
-    "lon": 45.3718,
-    "occurredAt": "2026-10-12T09:46:01+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFlXMUZjMFA2SWdRbm1vNGtzLVNFeGV2bE9KdzFnM08ta3BmUW5OYzlpSWlqSDZ4dnNtR000T0VXVDg1SEx4UUltNWNaUVFmTGtpRGd2R3VuX2lDZmhxQUQtVE1JdnRXR25TTmhtcjRLdlpkMEtkSFJlZ0M0VVdaczhmVFI2Y2djSjhIMWtPNTlTZjlVS3o0Tk41RS1vNkdhYzdsNnpJSzA5TGg0MjRKNDBjRXNJTjRxMlJqWGxEdDRhRVFJYktHMg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
   },
   {
     "id": "auto-5017",
@@ -302,75 +254,6 @@
     "eventKey": "north_korea_missile_test_2026-10-12"
   },
   {
-    "id": "auto-4063",
-    "headline": {
-      "ja": "北朝鮮が複数のミサイルを発射",
-      "en": "North Korea fires several missiles"
-    },
-    "summary": {
-      "ja": "北朝鮮が複数のミサイルを海に向けて発射した。",
-      "en": "North Korea launches multiple missiles toward the sea."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 40.3243,
-    "lon": 127.6575,
-    "occurredAt": "2026-10-12T03:28:19+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TSFJvdlZRVlI0ZHR2UUdGanhVTGVXV2FKaUZUT3RYcFI3SmpqZDV3STRQekNNZ0ZjSTFPUmlLUEE3SHpUY2kwM2RB0gFKQVVfeXFMTVNIUm92VlFWUjRkdHZRR0ZqeFVMZVdXYUppRlRPdFhwUjdKampkNXdJNFB6Q01nRmNJMU9SaUtQQTdIelRjaTAzZEE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "north_korea_missile_test_2026-10-12"
-  },
-  {
-    "id": "auto-4069",
-    "headline": {
-      "ja": "北朝鮮が2発の弾道ミサイルを発射",
-      "en": "North Korea launches two ballistic missiles"
-    },
-    "summary": {
-      "ja": "日本の主張によると、北朝鮮が2発の弾道ミサイルを発射した。",
-      "en": "Japan claims North Korea launches two ballistic missiles."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 41.1149,
-    "lon": 127.1869,
-    "occurredAt": "2026-10-12T01:25:01+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FQllsOUdTS0ViQktGVURsNF83cGRBY1NtZDJ3LTZaRC10amYySHRBTFVGU2hMMHVHZURfMDR5UExRUHI5Z3VmZUVn0gFKQVVfeXFMTkVCWWw5R1NLRWJCS0ZVRGw0XzdwZEFjU21kMnctNlpELXRqZjJIdEFMVUZTaEwwdUdlRF8wNHlQTFFQcjlndWZlRWc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "north_korea_missile_test_2026-10-12"
-  },
-  {
-    "id": "auto-4175",
-    "headline": {
-      "ja": "スーダンの採掘地で空爆により少なくとも72人が殺害",
-      "en": "At least 72 Sudanese miners killed in air strike"
-    },
-    "summary": {
-      "ja": "権利監視団が報告したところによると、スーダン北部の採掘地への空爆で少なくとも72人が殺害された。",
-      "en": "A rights monitor reports that at least 72 miners were killed in an airstrike on a mining area in northern Sudan."
-    },
-    "category": "disaster",
-    "country": "スーダン",
-    "lat": 13.0075,
-    "lon": 29.42,
-    "occurredAt": "2026-10-11T22:08:26+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_mining_airstrike_2026-10-11"
-  },
-  {
     "id": "auto-4179",
     "headline": {
       "ja": "スーダンの金鉱への空爆で多数が殺害",
@@ -415,30 +298,6 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_egypt_border_airstrike"
-  },
-  {
-    "id": "auto-5115",
-    "headline": {
-      "ja": "サウジアラビア政府、キング・ハーレド国際空港付近で巡航ミサイルを迎撃したと発表",
-      "en": "Coalition: Air Defense Intercepts and Destroys Cruise Missile in Vicinity of King Khalid International Airport"
-    },
-    "summary": {
-      "ja": "サウジアラビア政府は、キング・ハーレド国際空港付近での空域で巡航ミサイルを迎撃・破壊したと発表した。",
-      "en": "Saudi coalition air defense forces reported intercepting and destroying a cruise missile in the vicinity of King Khalid International Airport."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.4139,
-    "lon": 44.5059,
-    "occurredAt": "2026-10-11T15:25:33+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94Y2ZBcGNlcHA3a0hsZUxOeUZWR1ZHRWlFYXNsM09aR19SbC1kajlya0FWYkxiVUZjeU45V2NUTWlBS3hhUHEyYTRB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
   },
   {
     "id": "auto-3575",
@@ -809,29 +668,6 @@
     "eventKey": "saudi_riyadh_airport_attack_suspension_2026-10"
   },
   {
-    "id": "auto-848",
-    "headline": {
-      "ja": "米国、パナマ地震について声明を発表",
-      "en": "US State Department Releases Statement on Panama Earthquake"
-    },
-    "summary": {
-      "ja": "米国国務省がパナマの地震について声明を発表した。",
-      "en": "The U.S. State Department released a statement regarding the earthquake in Panama."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.0788,
-    "lon": -81.2914,
-    "occurredAt": "2026-10-10T15:17:59+00:00",
-    "source": {
-      "name": "米国 国務省",
-      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
-  },
-  {
     "id": "auto-1429",
     "headline": {
       "ja": "パナマ中央部で7.7の地震が発生",
@@ -854,29 +690,6 @@
     "auto": true,
     "eventKey": "panama_earthquake_2026-10-09",
     "severity": 4
-  },
-  {
-    "id": "auto-872",
-    "headline": {
-      "ja": "日本外相、パナマ地震についてのメッセージを発表",
-      "en": "Japanese Foreign Minister Releases Message on Panama Earthquake"
-    },
-    "summary": {
-      "ja": "日本外務省の茂木敏充外相がパナマの地震についてのメッセージを発表した。",
-      "en": "Japanese Foreign Minister Motegi Toshimitsu released a message regarding the earthquake in Panama."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.1604,
-    "lon": -79.9863,
-    "occurredAt": "2026-10-10T11:33:08+00:00",
-    "source": {
-      "name": "日本 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qeFBYLXVmNzc2RFVLb0tsejd3MXRWTDBUallYU3F0NFdZSzIzMlc0Ui1ZbHVWZF9PbUItaTFxQ3BjeklCaUpYZm1aTVBpS3FXUWZiZGV0cTdWQy1EU21OY2U3dkVnbldpRDlta0k1Mzk?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
   },
   {
     "id": "auto-2084",
@@ -949,29 +762,6 @@
     "eventKey": "russia_ukraine_drone_losses_2026-10-10"
   },
   {
-    "id": "auto-958",
-    "headline": {
-      "ja": "パナマ地震、初期報告で負傷者 27 人",
-      "en": "Panama Reports 27 Injured in Preliminary Earthquake Toll"
-    },
-    "summary": {
-      "ja": "パナマ政府が地震の初期被害報告として、負傷者 27 人と発表した。",
-      "en": "Panama's preliminary report on earthquake casualties indicates 27 injured."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 9.0576,
-    "lon": -81.1784,
-    "occurredAt": "2026-10-10T08:41:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3p4R25JTmlrVk9QVGNxa2d2RVd1T2J1UE1sMVRwc0dKdGNoN2lRRHpwak9GNTRSdm9kakNyMVdheTRZRVBaUUNDbDViWnlpaXBrTUotT2kwci1DaWJrV05kMHZRQUNudG1taktlVzNLdUU5T2t0cnR3VndPaUhtVzJzWWdVYkNEai10TGxB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
-  },
-  {
     "id": "auto-688",
     "headline": {
       "ja": "ハリケーン・イサイアス、米国南東部上陸後に勢力を弱める",
@@ -989,52 +779,6 @@
     "source": {
       "name": "Al Jazeera All",
       "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_2026-10-10"
-  },
-  {
-    "id": "auto-685",
-    "headline": {
-      "ja": "ハリケーン・イサイアス、米国南東部上陸後に熱帯低気圧に格下げ",
-      "en": "Hurricane Isaias Downgraded After Landfall in Florida"
-    },
-    "summary": {
-      "ja": "ハリケーン・イサイアスがフロリダ州に上陸し、その後熱帯低気圧に格下げされた。フロリダ州とアラバマ州で数十万の世帯が停電している。",
-      "en": "Hurricane Isaias made landfall in Florida and was downgraded to a post-tropical cyclone, with hundreds of thousands of households losing power in Florida and Alabama."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 36.61,
-    "lon": -96.259,
-    "occurredAt": "2026-10-10T08:29:59+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_2026-10-10"
-  },
-  {
-    "id": "auto-674",
-    "headline": {
-      "ja": "ハリケーン・イサイアス、米国南東部上陸後に熱帯低気圧に格下げ",
-      "en": "Hurricane Isaias Downgraded After Landfall in Florida"
-    },
-    "summary": {
-      "ja": "ハリケーン・イサイアスがフロリダ州に上陸し、その後熱帯低気圧に格下げされた。アメリカ南東部で広範な停電が発生している。",
-      "en": "Hurricane Isaias made landfall in Florida and was downgraded to a post-tropical cyclone, causing widespread power outages across the southeastern United States."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 36.3716,
-    "lon": -95.7257,
-    "occurredAt": "2026-10-10T06:54:16+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
     },
     "reliability": "high",
     "auto": true,
@@ -1182,101 +926,6 @@
     "severity": 4
   },
   {
-    "id": "auto-582",
-    "headline": {
-      "ja": "パナマでマグニチュード7.7の強い地震が発生",
-      "en": "Powerful magnitude 7.7 earthquake hits Panama"
-    },
-    "summary": {
-      "ja": "パナマ沖で7.7の地震が発生し、建物に被害が出た。ラテンアメリカの複数国に津波警報が発令された。",
-      "en": "A magnitude 7.7 earthquake struck Panama, causing building damage. Tsunami warnings were issued for multiple Latin American countries including Colombia, Ecuador, Nicaragua, Guatemala, and Chile."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.1792,
-    "lon": -80.6639,
-    "occurredAt": "2026-10-09T19:39:52+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
-  },
-  {
-    "id": "auto-1475",
-    "headline": {
-      "ja": "パナマで7.6の地震を観測",
-      "en": "7.6 Magnitude Earthquake Recorded in Panama"
-    },
-    "summary": {
-      "ja": "パナマで 7.6 の地震が観測されたと UAE 国営通信が報じた。",
-      "en": "A 7.6 magnitude earthquake was recorded in Panama, according to UAE state news."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.2859,
-    "lon": -81.398,
-    "occurredAt": "2026-10-09T19:24:45+00:00",
-    "source": {
-      "name": "UAE 国営WAM通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkdzc3RVSk1ROGFQWERQalpRS0xKWlM3WDAzeHA4NXpLbm8tZmdhZUFXYXhWSDVVU0haRnMzVFppRlM4WUpRbVlMT2c3RC1xVlpEdEw3SnBXNzFrem9sMVFjWmNTQVpLeXpkS2dabTJnWFkwVXRiY0NjcUJTV1hLRmpHQ1lIQWE2?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
-  },
-  {
-    "id": "auto-592",
-    "headline": {
-      "ja": "パナマの7.7地震後、ラテンアメリカ各地に津波警報",
-      "en": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits"
-    },
-    "summary": {
-      "ja": "パナマ沖の7.7地震後、コロンビア、エクアドル、ニカラグア、グアテマラ、チリを含む複数国に津波警報が発令された。",
-      "en": "Following the 7.7 magnitude earthquake off Panama, tsunami warnings were issued to multiple countries including Colombia, Ecuador, Nicaragua, Guatemala, and Chile."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 9.1141,
-    "lon": -80.162,
-    "occurredAt": "2026-10-09T19:22:56+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
-  },
-  {
-    "id": "auto-621",
-    "headline": {
-      "ja": "パナマの7.7地震後、ラテンアメリカ各地に津波警報",
-      "en": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake"
-    },
-    "summary": {
-      "ja": "パナマ沖の7.7地震後、コロンビア、エクアドル、ニカラグア、グアテマラ、チリを含む複数国に津波警報が発令された。",
-      "en": "Following the 7.7 magnitude earthquake off Panama, tsunami warnings were issued to multiple countries including Colombia, Ecuador, Nicaragua, Guatemala, and Chile."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.5745,
-    "lon": -79.9988,
-    "occurredAt": "2026-10-09T19:22:56+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
-  },
-  {
     "id": "auto-1835",
     "headline": {
       "ja": "イランが米国・イスラエルの新たな攻撃に対して徹底的に応じると表明",
@@ -1298,100 +947,6 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "iran_us_israel_retaliation_2026-10"
-  },
-  {
-    "id": "auto-962",
-    "headline": {
-      "ja": "パナマの大規模地震、津波警告が発令",
-      "en": "Major Earthquake Strikes Panama, Tsunami Warning Issued"
-    },
-    "summary": {
-      "ja": "パナマで大規模地震が発生し、津波警告が発令された。",
-      "en": "A major earthquake struck Panama, prompting the issuance of a tsunami warning."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.3173,
-    "lon": -80.6576,
-    "occurredAt": "2026-10-09T18:53:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSW85LVkyWllZSThzSE13ZWRueC1BTlp6QjNqRWVzVFFHNlNiUGhPbWp2Rk1GbWxtbi1aRHZrWDhZQnpNZ1Z4c0xTdXBXWmwyZzY1UWdSVDhnUGpScUZPSEhLekdUMVlNMFNiNUxQUFM3WC1zN0loeW5pUXFNcFl6WXMzTk9JUWtGMWhnNWF3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09",
-    "severity": 4
-  },
-  {
-    "id": "auto-1467",
-    "headline": {
-      "ja": "パナマの地震、津波警告が発令",
-      "en": "Earthquake Hits Panama, Prompts Tsunami Warnings"
-    },
-    "summary": {
-      "ja": "パナマで地震が発生し、津波警告が発令された。",
-      "en": "An earthquake struck Panama, prompting tsunami warnings."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 7.7525,
-    "lon": -81.1471,
-    "occurredAt": "2026-10-09T18:43:18+00:00",
-    "source": {
-      "name": "UAE 国営WAM通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJYNkVYSC13eHp2blN2WjhYalRfNlFWdnBuR1JJdlVpWDVHTmFVRHFtN2lYS0l1UmxZMUtqR1hSdHJiRFlxRmZDbEpZcE1ac2dmNVZiR1RGMkZQSm1sNFFQRGpwNlg5WlM2aGdQUG5NUWRfVTVXT01PR04teWJtNGUycHZERTJES2c1bS1n?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
-  },
-  {
-    "id": "auto-895",
-    "headline": {
-      "ja": "パナマシティで地震の有感な揺れを観測",
-      "en": "Noticeable Earthquake Tremors Felt in Panama City"
-    },
-    "summary": {
-      "ja": "パナマシティで地震による有感な揺れが観測された。",
-      "en": "Noticeable earthquake tremors were felt in Panama City."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 7.9408,
-    "lon": -80.4882,
-    "occurredAt": "2026-10-09T18:13:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsWHNvc0IyUnY0ZEdZc0R6Yk1hN0RRRWd5RHVza2xwamsxS2ZBREs3a0hjY1Bfci1VbDVhUmw0dUNIU3dpMXRLYXp2TmVibGUtejNHY2pyS2ZET1BWMWdWQUphNmRfSEFvQWFjdDBmV1k1eVp5RDhPZHFuZ2c?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
-  },
-  {
-    "id": "auto-900",
-    "headline": {
-      "ja": "パナマで8.0の大規模地震が発生",
-      "en": "8.0-Magnitude Earthquake Strikes Panama"
-    },
-    "summary": {
-      "ja": "パナマのピタロザ・アリバ南西 14 km で USGS 観測により 8.0 の地震が発生した。",
-      "en": "An 8.0-magnitude earthquake struck 14 km southwest of Pitaloza Arriba in Panama according to USGS measurements."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.8192,
-    "lon": -80.049,
-    "occurredAt": "2026-10-09T18:06:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZ2dCQkZvUmF5bTZ3QmRIMEo1VkdrN3hPbVJocnFjVjdjZ01CZW5TVDdfYjloM3dDV1VqWkZpWGprOG9VbmJQYW1MQ0hEdWtidXlTajB2MHF6eUpkalc1SHd5NVZjVFNfOTRkSjhVNl9sOVhWck1vNzBBTWg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09",
-    "severity": 4
   },
   {
     "id": "auto-944",
@@ -1510,29 +1065,6 @@
     "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
   },
   {
-    "id": "auto-1602",
-    "headline": {
-      "ja": "ハリケーン・イザイアス、米湾岸の原油生産の63%と天然ガスの57%を停止させる",
-      "en": "Hurricane Isaias Shuts in 63% of US Gulf Oil, 57% of Gas Output"
-    },
-    "summary": {
-      "ja": "ハリケーン・イザイアスの影響により、米国メキシコ湾地域の原油生産の63%と天然ガス生産の57%が停止されたと報じられた。",
-      "en": "Hurricane Isaias has caused shutdowns of 63% of US Gulf oil production and 57% of gas output."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 36.4594,
-    "lon": -95.3053,
-    "occurredAt": "2026-10-09T13:25:35+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVVfWXBJcnhXYVJrX1NvNWNJOUFGVml3NVlmcUtYRjZyTlJPcmlWc2RaNFBXMWt5YUFlYXNyQ2dUZnFmMUNSMkhzSW1zOGtISk5MdTQ2Q1hlZ080LTNMOERUY0l4aHpnR0IwVWxvSEt3Ry1TMEN2RjFBdDhFUzBLVzlQcllFTXYtM1FNLTBOS3pINFo5Wnh6ZmlkZm10cExhSG5CLWxOQzlrUGF6SzBEcWpGR2hsVHfSAbcBQVVfeXFMT0FVX1lwSXJ4V2FSa19TbzVjSTlBRlZpdzVZZnFLWEY2ck5ST3JpVnNkWjRQVzFreWFBZWFzckNnVGZxZjFDUjJIc0ltczhrSEpOTHU0NkNYZWdPNC0zTDhEVGNJeGh6Z0dCMFVsb0hLd0ctUzBDdkYxQXQ4RVMwS1c5UHJZRU12LTNRTS0wTkt6SDRaOVp4emZpZGZtdHBMYUhuQi1sTkM5a1BhekswRHFqRkdobFR3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_gulf_2026-10-09"
-  },
-  {
     "id": "auto-533",
     "headline": {
       "ja": "ウクライナがロシアのAIデータインフラを標的に",
@@ -1554,29 +1086,6 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_drone_attacks_russia_infrastructure_2026-10-09"
-  },
-  {
-    "id": "auto-496",
-    "headline": {
-      "ja": "フーシ派のミサイル攻撃、リヤド空港でサウジ国民3人殺害",
-      "en": "Three Saudi nationals killed in Houthi missile attacks on Riyadh airport"
-    },
-    "summary": {
-      "ja": "イラン支援のフーシ派がリヤド空港へミサイル攻撃を実施し、サウジ国民3人が殺害された。サウジアラビアとフーシ派の間の軍事紛争の激化を示す事例。",
-      "en": "Three Saudi nationals were killed in missile attacks by Houthi forces on Riyadh airport, marking an escalation in military tensions between Iran-backed Houthis and Saudi Arabia."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.2257,
-    "lon": 44.6063,
-    "occurredAt": "2026-10-09T10:07:04+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
   },
   {
     "id": "auto-477",
