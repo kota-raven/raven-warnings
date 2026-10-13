@@ -131,5 +131,70 @@
       "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-13-02",
+    "headline": {
+      "ja": "トランプ氏「エネルギー停戦」表明も、ロシアはウクライナのエネルギー施設への攻撃継続 ゼレンスキー氏「ロシア側の同意は未確認」",
+      "en": "Trump claims \"energy ceasefire\" with Putin, but Russia keeps striking Ukraine's energy facilities, Zelenskyy says"
+    },
+    "summary": {
+      "ja": "トランプ米大統領は10月11日(日)、プーチン露大統領との電話協議後、両国が互いのエネルギー関連施設への攻撃を停止することで合意したとSNS(Truth Social)で発表し、「破るな」と投稿した。しかしゼレンスキー・ウクライナ大統領は、ロシア側からの同意確認はまだ得られていないとした上で、トランプ氏の発表後もロシア軍がハルキウの火力発電所(CHP-5)を含む複数のエネルギー施設を攻撃したと述べ、直近1週間だけでロシアによる発電・送電施設への攻撃は200件超に上るとした。ロシア大統領府のペスコフ報道官は停戦合意の有無を明言せず「協議は継続中」とのみ述べ、ラブロフ外相は軍事作戦継続の方針を示したと複数メディアが報じた。トランプ氏は9月にも同様の合意を発表したが、その後も攻撃が続き効果がなかった経緯があるとAl Jazeeraは指摘している。[信頼性: 高](Al Jazeera、PBS NewsHour、ABCニュース、The Hillが一致して報道)",
+      "en": "President Trump announced on Truth Social on Sunday, October 11, after a phone call with President Putin, that both sides had agreed to halt strikes on each other's energy infrastructure, adding \"Do not break it!\" Ukrainian President Zelenskyy said Kyiv had not received confirmation that Russia had actually agreed, and said Russian forces struck multiple Ukrainian energy facilities after Trump's announcement, including the CHP-5 thermal power plant in Kharkiv, which was hit at least twice and caught fire; he said Russia has carried out over 200 strikes on power generation and transmission facilities in the past week alone. Kremlin spokesman Dmitry Peskov would not confirm or deny a ceasefire, saying only that \"contacts are ongoing,\" while Foreign Minister Lavrov indicated Russia would press on with its military campaign, according to multiple outlets. Al Jazeera noted Trump made a similar announcement in September that produced no lasting effect. [Reliability: High] (Consistently reported by Al Jazeera, PBS NewsHour, ABC News, and The Hill.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ハルキウ州・キーウ市(エネルギー施設複数)",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-11T20:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-13-03",
+    "headline": {
+      "ja": "サウジ連合軍、リヤド・ハミス・ムシャイト目掛けたフーシ派弾道ミサイルを迎撃 空港閉鎖は17日まで延長",
+      "en": "Saudi-led coalition intercepts Houthi ballistic missiles aimed at Riyadh, Khamis Mushait; airport closure extended to Oct 17"
+    },
+    "summary": {
+      "ja": "サウジ主導連合軍報道官トゥルキー・アル・マリキ氏は10月12日(月)深夜、同日中にリヤド目掛けて発射されたフーシ派の弾道ミサイル1発、続いて南西部ハミス・ムシャイト目掛けて発射された弾道ミサイル2発を迎撃・撃破したとX(旧Twitter)で発表した。フーシ派報道官ヤヒヤ・サリア氏は、弾道ミサイルがリヤドのキング・ハーリド国際空港に直撃し、無人機がハミス・ムシャイトの空軍基地に命中したと主張したが、これを独立して裏付ける情報は確認できていない(フーシ派側の主張のみ)。サウジ民間航空総局は10月10日以降の一連の攻撃を受け、キング・ハーリド国際空港の閉鎖を10月17日21:00(UTC)まで延長したことが確認されており、ルフトハンザ・グループは10月16日まで、エールフランス-KLMは10月末までリヤド便の運休を発表している。トランプ米大統領はサウジ皇太子との電話協議後、フーシ派を「ひどく悪さをしている」と非難したと複数メディアが報じた。[信頼性: 高](Arab News、Times of Israel、Fox Newsが一致して報道。フーシ派による攻撃成功の主張部分は未確認)",
+      "en": "Saudi-led coalition spokesman Turki al-Maliki said on X late Monday, October 12, that coalition forces intercepted and destroyed a Houthi ballistic missile aimed at Riyadh earlier that day, and later two more ballistic missiles fired toward Khamis Mushait in southwestern Saudi Arabia. Houthi spokesman Yahya Saree claimed a ballistic missile had directly struck Riyadh's King Khalid International Airport and that a drone had hit an air base in Khamis Mushait, but these Houthi claims could not be independently verified. Saudi aviation authorities confirmed King Khalid International Airport's closure, in place since the October 10 attacks, has been extended through 21:00 UTC on October 17; Lufthansa Group has suspended Riyadh flights until October 16 and Air France-KLM until the end of October. President Trump, after a call with the Saudi crown prince, denounced the Houthis for \"misbehaving very badly,\" according to multiple outlets. [Reliability: High] (Consistently reported by Arab News, Times of Israel, and Fox News; the Houthi claims of successful strikes are unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "リヤド/ハミス・ムシャイト",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-12T20:00:00+00:00",
+    "source": {
+      "name": "Arab News",
+      "url": "https://www.arabnews.com/saudi-arabia/houthi-ballistic-missiles-targeting-riyadh-khamis-mushait-intercepted-3005280"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-13-04",
+    "headline": {
+      "ja": "仏スーパー数百店で「前例のない」サイバー攻撃 冷蔵設備が高温化し火災・食品廃棄 パリ検察が捜査",
+      "en": "'Unprecedented' cyberattack hits hundreds of French supermarkets, overheating refrigeration units, sparking fires and spoiling food; Paris prosecutor investigates"
+    },
+    "summary": {
+      "ja": "フランスの大手スーパーマーケットチェーン各社は、10月12日(日)夜から13日(月)にかけて、店舗の冷蔵・冷凍設備を標的にした「前例のない」規模のサイバー攻撃を受けたと発表した。影響を受けた冷蔵庫・冷凍庫の一部は最高50度まで温度が上昇し、火災や大量の食品廃棄につながったという。インターマルシェ(系列のネット含む)は少なくとも150〜300店舗規模、カルフールは80店舗、モノプリは全490店舗の約5%が影響を受けたと報告した。インターマルシェは影響を受けた店舗で生鮮・冷凍食品をすべて廃棄せざるを得なかったと説明している。パリ検察当局は「大規模」な攻撃だとして捜査を開始したと発表した。フランスのサイバーセキュリティ機関(ANSSI)は、業務用冷蔵システムを制御するダンフォス製機器の「多数の侵害」を把握しているとし、対象事業者にシステムのインターネット切断を指示した。ダンフォス社は、影響を受けた機器の大半が旧式製品、または古いファームウェアのまま稼働する現行製品だったとしている。攻撃の実行者は現時点で判明していない。[信頼性: 高](Al Jazeera、France 24、CBS Newsが一致して報道)",
+      "en": "Major French supermarket chains said they were hit by an \"unprecedented\" cyberattack targeting store refrigeration and freezer systems overnight from Sunday, October 12, into Monday, October 13. Affected units reportedly reached temperatures as high as 50°C, sparking fires and causing large quantities of food to be thrown out. Intermarché (including its Netto brand stores) reported roughly 150 to 300 affected outlets, Carrefour said 80 of its stores were hit, and Monoprix said about 5% of its roughly 490 stores were affected. Intermarché said affected branches had to discard all fresh and frozen products. The Paris prosecutor's office opened an investigation, describing the attack as \"large-scale.\" France's cybersecurity agency ANSSI said it was aware of \"numerous compromises\" of Danfoss-made commercial refrigeration control systems and told affected operators to disconnect them from the internet; Danfoss said most affected units were legacy products or current products running outdated firmware. Those responsible have not been identified. [Reliability: High] (Consistently reported by Al Jazeera, France 24, and CBS News.)"
+    },
+    "category": "disaster",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-12T22:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses"
+    },
+    "reliability": "high"
   }
 ]
