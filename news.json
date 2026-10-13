@@ -44,6 +44,28 @@
     "severity": 4
   },
   {
+    "id": "2026-10-13-01",
+    "headline": {
+      "ja": "フーシ派、米国の参戦なら「迅速かつ痛烈な対応」と警告 サウジ石油施設・空港の従業員に退避呼びかけ",
+      "en": "Houthis warn of 'swift, painful response' if US joins war, tell workers at Saudi oil facilities and airports to evacuate"
+    },
+    "summary": {
+      "ja": "フーシ派政治局員ムハンマド・アル・ブハイティ氏は10月12日、AFPに対し、米国がイエメン内戦に参戦(フーシ派への直接攻撃)すれば、地域内の米国の権益全般を対象に「迅速かつ痛烈な対応」を取ると警告し、対応の是非を議論する余地はないと述べたという。同氏はさらに、サウジの石油関連施設および空港の従業員に対し、これらが「正当な標的」であるとして現場から退避するよう呼びかけたと複数メディアが一致して報じた。背景として、10/10のリヤド・キング・ハーリド国際空港攻撃(12人死亡・309人負傷、既報)以降、トランプ米大統領がフーシ派への米軍直接参戦を検討していると報じられている。石油施設への標的拡大を明言した点が新規。[信頼性: 高](The New Arab、Malay Mail、Aaj English TV等、AFP配信の複数メディアが同一の引用で一致して報道)",
+      "en": "Mohammed al-Bukhaiti, a member of the Houthi political bureau, told AFP on October 12 that if the US joins the war in Yemen by directly striking the Houthis, it would face a 'swift, painful response' targeting American interests across the region, adding there would be no deliberation over whether to respond. He also called on workers at Saudi oil facilities and airports to stay away from those sites, describing them as 'legitimate targets,' according to multiple outlets. The warning follows the October 10 attack on Riyadh's King Khalid International Airport (12 dead, 309 wounded, previously reported) and reports that President Trump is weighing direct US military action against the Houthis. The explicit extension of threats to oil facilities is new. [Reliability: High] (Consistently reported with the same quotes by AFP-syndicated outlets including The New Arab, Malay Mail, and Aaj English TV.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-12T00:00:00+00:00",
+    "source": {
+      "name": "The New Arab(AFP配信)",
+      "url": "https://www.newarab.com/news/houthi-official-warns-swift-painful-response-if-us-enters"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
     "id": "2026-10-12-01",
     "headline": {
       "ja": "サウジ・リヤド空港、日曜に再び被弾 死者1人・11人負傷、フーシ派が犯行声明",
