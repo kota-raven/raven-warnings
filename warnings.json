@@ -1,55 +1,19 @@
 {
-  "generatedAt": "2026-10-12T23:22:00.726Z",
+  "generatedAt": "2026-10-13T00:35:09.747Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 201,
+  "count": 193,
   "warnings": [
     {
-      "id": "NAVAREA11-260461",
+      "id": "NAVAREA11-260462",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
       "category": "その他",
-      "number": "0461",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "number": "0462",
+      "title": "ミサイル発射情報削除",
+      "publishedAt": "2026-10-13T09:00:00+09:00",
       "geometry": null,
-      "rawText": "NO.26-0461    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA\r\r\nPOSSIBLY LANDED.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260461&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260460",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0460",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0460    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260460&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260459",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0459",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0459    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA\r\r\nPOSSIBLY LANDED.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260459&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260458",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0458",
-      "title": "ミサイル発射",
-      "publishedAt": "2026-10-12T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0458    発表日時:2026年10月12日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260458&LANG=JP"
+      "rawText": "NO.26-0462    発表日時:2026年10月13日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nCANCEL INFORMATION OF OBJECT POTENTIALLY\r\r\nBALLISTIC MISSILE LAUNCHED FROM NORTH \r\r\nKOREA.\r\r\nCANCEL 0458/26, 0459/26, 0460/26, \r\r\n0461/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260462&LANG=JP"
     },
     {
       "id": "NAVAREA11-260457",
@@ -80,30 +44,6 @@
       },
       "rawText": "NO.26-0456    発表日時:2026年10月11日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nGUNNERY. 160400Z TO 161500Z OCT,\r\r\nALTERNATE 200400Z TO 201500Z OCT.\r\r\nWITHIN 7 MILES OF 28-07N 143-08E.\r\r\nCANCEL THIS MSG 201600Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260456&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260453",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "漂流物等",
-      "number": "0453",
-      "title": "北太平洋、マーシャル諸島、バージ漂流",
-      "publishedAt": "2026-10-09T22:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0453    発表日時:2026年10月09日 22時\r\n\n\r\nNORTH PACIFIC, MARSHALLS.\r\r\nDERELICT BARGE ADRIFT IN VICINITY OF\r\r\n05-05.79N 167-14.00E AT 090330Z OCT.\r\r\nCANCEL 0449/26.\r\r\nCANCEL THIS MSG 120330Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260453&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260451",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "漂流物等",
-      "number": "0451",
-      "title": "北太平洋、ハッチカバー漂流",
-      "publishedAt": "2026-10-09T16:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0451    発表日時:2026年10月09日 16時\r\n\n\r\nNORTH PACIFIC, OKINOTORI SHIMA.\r\r\nHATCH COVER, ABOUT 20 METRE IN SQUARE,\r\r\nADRIFT IN \r\r\n16-54.1N 134-39.5E AT 090625Z OCT.\r\r\nCANCEL 0450/26.\r\r\nCANCEL THIS MSG 120625Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260451&LANG=JP"
     },
     {
       "id": "NAVAREA11-260448",
@@ -364,6 +304,60 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-264017",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4017",
+      "title": "オマーン湾、火災船漂流に関する情報削除",
+      "publishedAt": "2026-10-13T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4017   発表日時:2026年10月13日 08時\r\n\n\r\n★ オマーン湾、\r\r\n火災船(PETRO DOLPHIN)漂流に関する情報削除。\r\r\n(4009削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264017&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264016",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4016",
+      "title": "アンダマン海、射撃",
+      "publishedAt": "2026-10-13T08:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          93.66666666666667,
+          13
+        ]
+      },
+      "rawText": "番号:26-4016   発表日時:2026年10月13日 08時\r\n\n\r\n★ アンダマン海、\r\r\n射撃、10月14日、16日毎日0830Z-1030Z、12-50N 13-00N\r\r\n093-40E 094-10Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264016&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264015",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4015",
+      "title": "南太平洋、宇宙ゴミ落下終了",
+      "publishedAt": "2026-10-13T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4015   発表日時:2026年10月13日 08時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下終了。\r\r\n(4005削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264015&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264014",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4014",
+      "title": "ベーリング海、海底線作業終了",
+      "publishedAt": "2026-10-13T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4014   発表日時:2026年10月13日 08時\r\n\n\r\n★ ベーリング海、\r\r\nC/S IT INTEGRITYによる海底線作終了。\r\r\n(3962削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264014&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264013",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -410,18 +404,6 @@
       "geometry": null,
       "rawText": "番号:26-4010   発表日時:2026年10月12日 09時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264010&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264009",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4009",
-      "title": "オマーン湾、火災船漂流",
-      "publishedAt": "2026-10-12T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4009   発表日時:2026年10月12日 08時\r\n\n\r\n★ オマーン湾、\r\r\n火災船(PETRO DOLPHIN)漂流、10月12日、\r\r\n24-41.4N 056-43.5E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264009&LANG=JP"
     },
     {
       "id": "JAPANNW-264008",
@@ -520,24 +502,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264006&LANG=JP"
     },
     {
-      "id": "JAPANNW-264005",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4005",
-      "title": "南太平洋、宇宙ゴミ落下",
-      "publishedAt": "2026-10-11T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          -130,
-          -50
-        ]
-      },
-      "rawText": "番号:26-4005   発表日時:2026年10月11日 20時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下、10月15日、\r\r\n30-30S 50-00S 130-00W 160-00Wの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264005&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264004",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -584,18 +548,6 @@
       },
       "rawText": "番号:26-4002   発表日時:2026年10月11日 20時\r\n\n\r\n父島北東、\r\r\n射撃、10月16日(予備20日)1300-2400、\r\r\n28-07N 143-08Eを中心とする半径7海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264002&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264001",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4001",
-      "title": "入道埼西南西、射撃終了",
-      "publishedAt": "2026-10-11T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4001   発表日時:2026年10月11日 20時\r\n\n\r\n入道埼西南西、\r\r\n射撃終了。\r\r\n(3920削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264001&LANG=JP"
     },
     {
       "id": "JAPANNW-264000",
@@ -692,18 +644,6 @@
       "geometry": null,
       "rawText": "番号:26-3997   発表日時:2026年10月10日 08時\r\n\n\r\n★ インド東岸、射撃、\r\r\n10月11日-15日毎日0130Z-1430Z、\r\r\n19-14.6N 084-53.7Eを中心とする半径41海里の円のうち\r\r\n100-180度の扇形海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263997&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263995",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "3995",
-      "title": "北太平洋、マーシャル諸島、バージ漂流",
-      "publishedAt": "2026-10-09T22:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3995   発表日時:2026年10月09日 22時\r\n\n\r\n北太平洋、マーシャル諸島、\r\r\nバージ漂流、10月9日0330Z、05-05.79N 167-14.00E。\r\r\n(3963削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263995&LANG=JP"
     },
     {
       "id": "JAPANNW-263993",
@@ -1272,24 +1212,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263975&LANG=JP"
     },
     {
-      "id": "JAPANNW-263974",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3974",
-      "title": "南太平洋、宇宙ゴミ落下",
-      "publishedAt": "2026-10-09T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          -131,
-          -50
-        ]
-      },
-      "rawText": "番号:26-3974   発表日時:2026年10月09日 20時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下、10月12日1225Z-1405Z、\r\r\n30-30S 50-00S 131-00W 160-00Wの各線で囲まれる海面。\r\r\n(3966削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263974&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263973",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1354,18 +1276,6 @@
       },
       "rawText": "番号:26-3970   発表日時:2026年10月09日 20時\r\n\n\r\n襟裳岬西北西、\r\r\n射撃、10月14日(予備15日)0900-2400、\r\r\n42-02N 142-33Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263970&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263969",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "3969",
-      "title": "フィリピン海、ハッチカバー漂流",
-      "publishedAt": "2026-10-09T15:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3969   発表日時:2026年10月09日 15時\r\n\n\r\nフィリピン海、\r\r\nハッチカバー(約20メートル四方)\r\r\n漂流、10月9日0625Z、16-54.1N 134-39.5E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263969&LANG=JP"
     },
     {
       "id": "JAPANNW-263968",
@@ -1470,18 +1380,6 @@
       },
       "rawText": "番号:26-3964   発表日時:2026年10月08日 20時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下、10月13日1130Z-1225Z、14日1104Z-1159Z、\r\r\n15日1041Z-1136Z、16日1019Z-1114Z、17日0956Z-\r\r\n1051Z、18日0931Z-1026Z、19日0908Z-1003Z、\r\r\n27-06S 149-35W 28-54S 148-00W\r\r\n37-08S 157-59W 44-20S 170-14W\r\r\n42-41S 171-31W 35-24S 159-30Wで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263964&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263962",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "3962",
-      "title": "ベーリング海、海底線作業",
-      "publishedAt": "2026-10-08T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3962   発表日時:2026年10月08日 20時\r\n\n\r\n★ ベーリング海、\r\r\nC/S IT INTEGRITYによる海底線作業、当分の間、\r\r\n62-52.9N 165-28.0W 62-51.7N 165-12.7W\r\r\nを結ぶ線上付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263962&LANG=JP"
     },
     {
       "id": "JAPANNW-263961",
