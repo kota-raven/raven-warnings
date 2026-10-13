@@ -23,6 +23,52 @@
     "eventKey": "black_sea_ship_attack_2026-10-13"
   },
   {
+    "id": "auto-6695",
+    "headline": {
+      "ja": "インド外務省、ラダック問題に関する中国側のコメントに回答",
+      "en": "Official Spokesperson's response to media queries regarding comments made by the Chinese side on Ladakh"
+    },
+    "summary": {
+      "ja": "インド政府外務省報道官は、ラダック地域に関する中国側のコメントに対する公式回答を発表した。",
+      "en": "The Indian Ministry of External Affairs spokesperson has released an official response to comments made by the Chinese side regarding Ladakh."
+    },
+    "category": "conflict",
+    "country": "インド",
+    "lat": 34.0353,
+    "lon": 77.1234,
+    "occurredAt": "2026-10-13T11:33:27+00:00",
+    "source": {
+      "name": "インド 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQjNjbjN4M0xucWpja2JrODhLZEx4MVo2OWZrTWpKTnJycEJTQUMteHQwYVA2ZlhBQUM2SEdqWUFoVEdwUmRuSmZXcERDMzZnV2JUSm14N2RQZzlJWklEd0JZemMtZzc1OWdWSzJPUmQ2SVlmMlp6c2JEeVdHU05zWmJ3RTlNVVJQdHVkX196aXd0MmVDTWRJZl8wS1oyRkRqdTdRNWs2aE9iZUNuNWd5S2Q4enVDRDNxcEFhZDBYWmNfWXZ3MWVIRTlJSW1vRU1OODE2dThkVllxZVlNeUVtM0J3QVRfV2ZYbXUw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_ladakh_china_diplomatic_response_2026-10"
+  },
+  {
+    "id": "auto-6686",
+    "headline": {
+      "ja": "ブルガリア首相がロシア大使を召喚、商船攻撃に抗議",
+      "en": "Bulgaria PM summons Russian ambassador after merchant ship attacks"
+    },
+    "summary": {
+      "ja": "ブルガリア首相は、商船攻撃への対応として、ロシア大使を召喚して抗議を行った。",
+      "en": "Bulgaria's Prime Minister summoned the Russian ambassador in response to the merchant ship attacks to lodge a protest."
+    },
+    "category": "conflict",
+    "country": "ブルガリア",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "occurredAt": "2026-10-13T11:25:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmpBREF5aGpmUmszZUVrckJNck1qRTRhSWZ6RVNJakRVTEEtZ3h0QU5yVTllcVEtMmZ6YkgwaHNRRDc0QkljZmxDNTdiZFd0RC01MXBiclBWVzMyMTQ0aEZIdjFCX3J1QmVCTDJDZFBqWnc3ZXVYLVFQRkhjUmVlV0FLVjJzdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "bulgaria_russian_ambassador_summons_ship_attacks_2026-10-13"
+  },
+  {
     "id": "auto-5796",
     "headline": {
       "ja": "米英、RAF Fairford事件でイランを責任追及",
@@ -46,6 +92,29 @@
     "eventKey": "us_uk_raf_fairford_iran_statement_2026-10-12"
   },
   {
+    "id": "auto-6685",
+    "headline": {
+      "ja": "ドローンがブルガリア沖の商船2隻を攻撃",
+      "en": "2 merchant ships attacked by drones off Bulgarian coast"
+    },
+    "summary": {
+      "ja": "ブルガリア沖でドローンによる商船への攻撃が報告された。2隻が被害を受けた模様。",
+      "en": "Drone attacks on merchant ships off the Bulgarian coast have been reported. Two vessels appear to have been affected."
+    },
+    "category": "conflict",
+    "country": "ブルガリア",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "occurredAt": "2026-10-13T09:10:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHdrUlpCdjhpeUQtYlpuRWZUVHFOZnkzRDFuLWtnMUF0ZmU5Sm5CZTl6cEh4c1dmMnlCZkd0anNyMXN3QllkZ0dyNzhiUGpxSzdqSVdmME95SGFWVE81NXlzSTN2cVdLbERaWk12UzZzY3UyYTZuZWZuYzY2Vll1MGVMZGdodw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "bulgaria_merchant_ships_drone_attack_2026-10-13"
+  },
+  {
     "id": "auto-6627",
     "headline": {
       "ja": "イラン南部への米国-イスラエル空爆",
@@ -67,6 +136,53 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "iran_lamerd_airstrike_2026-10-13"
+  },
+  {
+    "id": "auto-6692",
+    "headline": {
+      "ja": "中国人民解放軍が台湾周辺で活動を展開",
+      "en": "PLA activities in the waters and airspace around Taiwan"
+    },
+    "summary": {
+      "ja": "台湾国防部によれば、中国人民解放軍が台湾周辺の水域および空域において活動を行っている。",
+      "en": "According to Taiwan's Ministry of Defense, the People's Liberation Army has been conducting activities in the waters and airspace surrounding Taiwan."
+    },
+    "category": "conflict",
+    "country": "台湾",
+    "lat": 24.4609,
+    "lon": 121.0737,
+    "occurredAt": "2026-10-13T07:06:30+00:00",
+    "source": {
+      "name": "台湾 国防部(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55cjFRRzV1RkJhOWZKei1BN3VsSE1lb2xyME9rVDZtVklERGp5YjA2aUdaQTBlajV0VVNNZmtqVmtqcHhjOHFiOU81OTRpNVFoN01Mangta1loVGRMeE1VYmF0SGR0b2tWcjdjcTBnUTFIUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pla_taiwan_military_activities_2026-10-13",
+    "severity": 4
+  },
+  {
+    "id": "auto-6675",
+    "headline": {
+      "ja": "ドローンがブルガリア沖の商船を攻撃",
+      "en": "Merchant ship attacked by drones near Bulgaria"
+    },
+    "summary": {
+      "ja": "ブルガリア沿岸沖のドローンによる商船への攻撃が報告された。詳細な被害状況は明記されていない。",
+      "en": "A merchant ship off the coast of Bulgaria was attacked by drones. Specific damage details remain unspecified."
+    },
+    "category": "conflict",
+    "country": "ブルガリア",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "occurredAt": "2026-10-13T06:02:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHJTOW1sS2tuTldOaF9GcS1Pc3NGUjlIUzlxdi1fTkUxWGUteURTdjVSUmxqVmN1Wng1bFU4NUFoaUwwN3Y0WC1yY0U1YWNBNzY5cWJUY3FQazV4bE9tV3FlZDVsSzRFTEw1X1RPd01zWHZ5cVd5R05JNW4yWTlFY2l4bmZtZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "bulgaria_merchant_ship_drone_attack_2026-10-13"
   },
   {
     "id": "auto-6294",
@@ -159,6 +275,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "north_korea_ballistic_missile_20261013"
+  },
+  {
+    "id": "auto-6896",
+    "headline": {
+      "ja": "フーシ派、サウジアラビアの聖地2か所への攻撃継続、70カ国以上が非難",
+      "en": "Ministers from Over 70 Countries Condemn Houthi Attacks Targeting Two Holy Mosques in Saudi Arabia"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派がサウジアラビアの2つの聖地モスクを攻撃した。70カ国以上の政治指導者および宗教指導者が相次ぎ非難声明を発表した。",
+      "en": "The Houthi group from Yemen attacked two holy mosques in Saudi Arabia. Ministers and Islamic figures from over 70 countries condemned the attacks."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-12T21:54:55+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQzM0XzNVTFM4Wkt0NXRjQVdiVENBRkpzdGhxUFVDcVpwQkkxem1PRm9Wa3RkSTVyS2dCV1FHU0JZanNzMVoxWURn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_houthi_holy_mosques_attack_2026-10"
   },
   {
     "id": "auto-5752",
@@ -577,6 +716,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
+    "severity": 4
+  },
+  {
+    "id": "auto-4603",
+    "headline": {
+      "ja": "フーシ派がサウジアラビア国王ハーリド国際空港への攻撃継続、複数国が非難",
+      "en": "UAE strongly condemns continued Houthi group attacks on King Khalid International Airport"
+    },
+    "summary": {
+      "ja": "アラブ首長国連邦政府は、イエメンを拠点とするフーシ派によるサウジアラビアの国王ハーリド国際空港への攻撃継続を非難する声明を発表。サウジアラビア国営通信とUAE国営メディアも相次ぎ非難を表明した。",
+      "en": "The UAE government issued a statement strongly condemning the continued attacks by the Houthi group on King Khalid International Airport in Saudi Arabia. Saudi Arabian official media and UAE state media also expressed condemnation."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-12T08:39:16+00:00",
+    "source": {
+      "name": "UAE 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTTl4S2Zkald4aGRESk5XUGQ4ak13YmNRRGV0MnRJRkRNSDdLU0lOcDR5ZXo4LWxrT3VkZV8xdUltcmdENzMySmdieFVhUGtPenUyYUphQnlBYWZPc2RrSzBPcWpDN21DTWc4UEJ0M3FNWW8?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_riyadh_houthi_airport_attacks_2026-10",
     "severity": 4
   },
   {
