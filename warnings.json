@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T15:24:56.232Z",
+  "generatedAt": "2026-10-13T16:24:52.996Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 187,
+  "count": 185,
   "warnings": [
     {
       "id": "NAVAREA11-260462",
@@ -504,18 +504,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264018&LANG=JP"
     },
     {
-      "id": "JAPANNW-264017",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4017",
-      "title": "オマーン湾、火災船漂流に関する情報削除",
-      "publishedAt": "2026-10-13T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4017   発表日時:2026年10月13日 08時\r\n\n\r\n★ オマーン湾、\r\r\n火災船(PETRO DOLPHIN)漂流に関する情報削除。\r\r\n(4009削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264017&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264016",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -532,18 +520,6 @@
       },
       "rawText": "番号:26-4016   発表日時:2026年10月13日 08時\r\n\n\r\n★ アンダマン海、\r\r\n射撃、10月14日、16日毎日0830Z-1030Z、12-50N 13-00N\r\r\n093-40E 094-10Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264016&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264015",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4015",
-      "title": "南太平洋、宇宙ゴミ落下終了",
-      "publishedAt": "2026-10-13T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4015   発表日時:2026年10月13日 08時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下終了。\r\r\n(4005削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264015&LANG=JP"
     },
     {
       "id": "JAPANNW-264014",
