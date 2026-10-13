@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-5796",
+    "headline": {
+      "ja": "米英、RAF Fairford事件でイランを責任追及",
+      "en": "US and UK joint statement on Iran's involvement in RAF Fairford attempted attack"
+    },
+    "summary": {
+      "ja": "米国国務省とイギリスが、RAF Fairfordでのテロ企図事件へのイランの関与について共同声明を発表した。",
+      "en": "Joint statement from US and UK attributing Iran's involvement in the attempted terrorist attack at RAF Fairford."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-13T09:34:51+00:00",
+    "source": {
+      "name": "米国 国務省",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-united-kingdoms-attribution-of-irans-involvement-in-attempted-terrorist-attack-at-raf-fairford/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_uk_raf_fairford_iran_statement_2026-10-12"
+  },
+  {
     "id": "auto-6294",
     "headline": {
       "ja": "フーシがリヤドを3日連続で攻撃",
@@ -92,6 +115,53 @@
     "eventKey": "north_korea_ballistic_missile_20261013"
   },
   {
+    "id": "auto-5752",
+    "headline": {
+      "ja": "スーダンで飢饉リスク増加、干ばつと紛争が悪化",
+      "en": "Conflict and drought increasing risk of famine in Sudan"
+    },
+    "summary": {
+      "ja": "スーダンではエルニーニョによる干ばつが国土の約半分に影響し、3年続く戦争との相乗効果で飢饉のリスクが高まっている。",
+      "en": "El Nino-induced drought is affecting roughly half of Sudan as a three-year conflict continues, raising famine risk."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-12T21:27:42+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_drought_famine_risk_2026-10-12",
+    "severity": 4
+  },
+  {
+    "id": "auto-5755",
+    "headline": {
+      "ja": "イスラエルがネゲブ地域で400人のパレスチナ人を強制退去",
+      "en": "Israel demolitions in Negev displace 400 Palestinians"
+    },
+    "summary": {
+      "ja": "イスラエル当局は、ネゲブ砂漠のアル・ダイヤ村で80の建造物を破壊し、400人のパレスチナ人を強制退去させた。",
+      "en": "Israeli authorities demolished 80 structures in Al-Dahiya village, displacing 400 Palestinians."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-12T20:50:37+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_negev_demolition_palestinian_displacement_2026-10-12"
+  },
+  {
     "id": "auto-6400",
     "headline": {
       "ja": "フーシ派がサウジアラビアへの攻撃を主張",
@@ -115,6 +185,30 @@
     "eventKey": "yemen_houthis_saudi_riyadh_missile_strike_2026-10-12"
   },
   {
+    "id": "auto-5757",
+    "headline": {
+      "ja": "イスラエル軍、ガザで爆撃。3人死亡",
+      "en": "Israeli strike on tent in Gaza's Khan Younis kills three"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザのハン・ユーニス地区の天幕に空爆を実施し、3人が死亡した。",
+      "en": "Israeli airstrike hit a tent in Gaza's Khan Younis, killing three people."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.3402,
+    "lon": 34.3063,
+    "occurredAt": "2026-10-12T20:06:04+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_khan_younis_airstrike_2026-10-12",
+    "severity": 4
+  },
+  {
     "id": "auto-6091",
     "headline": {
       "ja": "フーシがリヤド空港をミサイルで攻撃したと発表",
@@ -136,6 +230,121 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "houthi_riyadh_airport_missile_20261012"
+  },
+  {
+    "id": "auto-5759",
+    "headline": {
+      "ja": "フランス校舎での銃撃、14歳少年が校長・教員を狙撃",
+      "en": "Teenager shoots headmaster and teacher at French school"
+    },
+    "summary": {
+      "ja": "フランスのオーバーニュ町の中学校で、14歳の少年がハンティングライフルで校長と教員に発砲した。",
+      "en": "A 14-year-old boy opened fire with a hunting rifle at a middle school in Aubagne, France, shooting the headmaster and a teacher."
+    },
+    "category": "disaster",
+    "country": "フランス",
+    "lat": 43.2928,
+    "lon": 5.5707,
+    "occurredAt": "2026-10-12T19:44:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "france_aubagne_school_shooting_2026-10-12"
+  },
+  {
+    "id": "auto-5789",
+    "headline": {
+      "ja": "イラン、RAF Fairford事件での英国の非難を否定",
+      "en": "Iran condemns UK's claims over RAF Fairford incident as baseless"
+    },
+    "summary": {
+      "ja": "イラン外務省は、RAF Fairford事件をイランのせいにする英国の非難を「根拠のない『汚い陰謀』」と非難した。",
+      "en": "Iran's Ministry of Foreign Affairs strongly condemned British claims blaming Iran for the Fairford incident, calling it baseless and a conspiracy."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-12T19:33:00+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86291010/Iran-condemns-UK-s-baseless-claims-over-Fairford-air-base-incident"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_raf_fairford_denial_2026-10-12"
+  },
+  {
+    "id": "auto-5764",
+    "headline": {
+      "ja": "イギリス、RAF基地事件をイランの仕業と指摘。制裁実施",
+      "en": "UK blames Iran for RAF airbase plot, sanctions two Iranian nationals"
+    },
+    "summary": {
+      "ja": "イギリスがイランをRAF基地での陰謀の犯人と非難し、イラン国民2人に制裁を課した。イランは関与を否定している。",
+      "en": "UK blamed Iran for an RAF airbase plot and sanctioned two Iranian nationals, while Iran denies involvement and offers to assist in investigation."
+    },
+    "category": "conflict",
+    "country": "イギリス",
+    "lat": 51.5085,
+    "lon": -0.1257,
+    "occurredAt": "2026-10-12T18:51:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "uk_iran_raf_airbase_plot_2026-10-12"
+  },
+  {
+    "id": "auto-5765",
+    "headline": {
+      "ja": "イギリス首相、RAF基地事件は『イランが調整』と発表",
+      "en": "UK PM says RAF base incidents likely coordinated by Iran"
+    },
+    "summary": {
+      "ja": "イギリスのアンディ・バーナム首相は、RAF Fairford と RAF Molesworth での事件がイランによって調整された可能性が高いと述べた。",
+      "en": "UK Prime Minister Andy Burnham stated that incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran."
+    },
+    "category": "conflict",
+    "country": "イギリス",
+    "lat": 51.5085,
+    "lon": -0.1257,
+    "occurredAt": "2026-10-12T18:24:42+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "uk_pm_burnham_iran_raf_coordination_2026-10-12"
+  },
+  {
+    "id": "auto-5769",
+    "headline": {
+      "ja": "エチオピア軍、ティグライの戦略的要衝アドワに進撃",
+      "en": "Ethiopian forces enter strategic Tigray town of Adwa"
+    },
+    "summary": {
+      "ja": "目撃者によると、エチオピア軍が戦闘なくティグライ州の戦略的要衝アドワに進撃した。",
+      "en": "Ethiopian forces have entered the strategic Tigray town of Adwa without a fight, according to witnesses."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 14.1635,
+    "lon": 38.8992,
+    "occurredAt": "2026-10-12T18:01:41+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ethiopia_tigray_adwa_capture_2026-10-12"
   },
   {
     "id": "auto-5416",
@@ -182,6 +391,76 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "oman_strait_hormuz_tanker_attack_20261012"
+  },
+  {
+    "id": "auto-5786",
+    "headline": {
+      "ja": "コロンビア和平協定が脆弱化、不安全が増加",
+      "en": "Colombia peace deal must endure as insecurity grows"
+    },
+    "summary": {
+      "ja": "コロンビアは10年前に紛争を終わらせるための歴史的和平協定に署名したが、不安全の増加によって協定が脅かされている。",
+      "en": "Colombia's historic peace deal to end a decades-long conflict faces strain as insecurity grows."
+    },
+    "category": "conflict",
+    "country": "コロンビア",
+    "lat": 4.6097,
+    "lon": -74.0817,
+    "occurredAt": "2026-10-12T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168580"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "colombia_peace_deal_insecurity_2026-10-12"
+  },
+  {
+    "id": "auto-5787",
+    "headline": {
+      "ja": "シリア、移行期の危機。経済悪化と地域紛争",
+      "en": "Syria's fragile transition – economic strain and Israeli incursions"
+    },
+    "summary": {
+      "ja": "シリアの移行過程は経済的困難、イスラエルの南部進出、セクト間の緊張により複数の圧力にさらされている。",
+      "en": "Syria's transition faces pressure from economic hardship, Israeli incursions, and sectarian tensions."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-12T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168578"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "syria_fragile_transition_israel_2026-10-12"
+  },
+  {
+    "id": "auto-5788",
+    "headline": {
+      "ja": "スーダン、干ばつと戦争が飢饉をもたらす。ダルフール・コルドファン",
+      "en": "Sudan: Drought and war push Darfur and Kordofan towards famine"
+    },
+    "summary": {
+      "ja": "戦争によってすでに荒廃したスーダンの一部地域で、エルニーニョ干ばつによってダルフール・コルドファン大地域の飢饉リスクが高まっている。",
+      "en": "Severe El Nino drought and ongoing war are pushing Greater Darfur and Greater Kordofan towards famine."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-12T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168577"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_darfur_kordofan_famine_drought_2026-10-12",
+    "severity": 4
   },
   {
     "id": "auto-4767",
@@ -231,6 +510,29 @@
     "severity": 4
   },
   {
+    "id": "auto-5800",
+    "headline": {
+      "ja": "サウジアラビア・リヤド空港攻撃、セキュリティ懸念と広域紛争リスク",
+      "en": "Deadly Riyadh airport attack heightens security concerns and risks wider conflict"
+    },
+    "summary": {
+      "ja": "リヤド空港での致命的な攻撃は、セキュリティ上の懸念を高め、より広範な紛争へのリスクを増加させた。",
+      "en": "The deadly attack at Riyadh airport heightens security concerns and raises risks of wider regional conflict."
+    },
+    "category": "disaster",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-12T06:33:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02NFFWQ25RMVJlc2pNbTdpSVY0T3JnM3RSdHJ6Wm56ZmcyUHFKczNEWWhpdk45b2dPWS1TUFZlVnRNNE9VZktqVkdOZkwzdExxSFFSZ09KUTZrb25rT05VcFZ1UTFGM00taURreS0xU29HeF9mTC1NMWQxYWI?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_riyadh_airport_attack_security_2026-10-12"
+  },
+  {
     "id": "auto-3915",
     "headline": {
       "ja": "北朝鮮のミサイル発射は韓国の極超音速兵器試験への対抗",
@@ -275,6 +577,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "north_korea_missile_test_2026-10-12"
+  },
+  {
+    "id": "auto-4288",
+    "headline": {
+      "ja": "中国軍、台湾周辺で活動続行",
+      "en": "PLA maintains activities in waters and airspace around Taiwan"
+    },
+    "summary": {
+      "ja": "台湾国防部は、中国人民解放軍(PLA)の活動が台湾周辺の海域・空域で継続していると発表した。",
+      "en": "Taiwan's Ministry of Defense reported that PLA activities continue in the waters and airspace around Taiwan."
+    },
+    "category": "conflict",
+    "country": "台湾",
+    "lat": 24.4609,
+    "lon": 121.0737,
+    "occurredAt": "2026-10-11T23:03:55+00:00",
+    "source": {
+      "name": "台湾 国防部(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01MXF6aTRDdjRYM2s5T2pfMGM0cjZRMG1haWQ2Xzk2cTQwLTMzMWtCNEcxY2hvcE5CQ2JqT1hmQnZBRXo2U21Ha3R2UXhCVDRpczlMUEJ3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "china_pla_taiwan_operations_2026-10-11"
   },
   {
     "id": "auto-4179",
