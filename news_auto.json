@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-6548",
+    "headline": {
+      "ja": "ブルガリア沖で船舶沈没",
+      "en": "Merchant ship sinks off Bulgarian coast in drone attack"
+    },
+    "summary": {
+      "ja": "ブルガリア沿岸の黒海でドローン攻撃により商船が沈没し、乗組員11名が行方不明。",
+      "en": "A merchant ship was sunk off Bulgaria's Black Sea coast in a drone attack, with eleven crew members missing."
+    },
+    "category": "conflict",
+    "country": "ブルガリア",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "occurredAt": "2026-10-13T14:06:27+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "black_sea_ship_attack_2026-10-13"
+  },
+  {
     "id": "auto-5796",
     "headline": {
       "ja": "米英、RAF Fairford事件でイランを責任追及",
@@ -21,6 +44,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "us_uk_raf_fairford_iran_statement_2026-10-12"
+  },
+  {
+    "id": "auto-6627",
+    "headline": {
+      "ja": "イラン南部への米国-イスラエル空爆",
+      "en": "US-Israeli airstrikes hit Iran's Lamerd"
+    },
+    "summary": {
+      "ja": "イランNEWS機関は、南部ファルス州ラメルドで米国とイスラエルによる爆撃キャンペーンの被害地を視察した。",
+      "en": "Iran's news agency visited sites of US-Israeli airstrikes in Lamerd, southern Fars Province."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 27.334,
+    "lon": 53.179,
+    "occurredAt": "2026-10-13T08:30:24+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86291444/IRNA-chief-visits-sites-of-deadly-US-Israeli-airstrikes-on-Iran-s"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_lamerd_airstrike_2026-10-13"
   },
   {
     "id": "auto-6294",
@@ -345,6 +391,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ethiopia_tigray_adwa_capture_2026-10-12"
+  },
+  {
+    "id": "auto-6028",
+    "headline": {
+      "ja": "パナマで7.7の大地震",
+      "en": "7.7-magnitude earthquake hits Panama"
+    },
+    "summary": {
+      "ja": "パナマで7.7の大地震が発生し、6000人以上が被害を受けた。",
+      "en": "A major 7.7-magnitude earthquake struck Panama, affecting over 6,000 people."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 9.0407,
+    "lon": -79.4888,
+    "occurredAt": "2026-10-12T15:34:50+00:00",
+    "source": {
+      "name": "イタリア 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOURDMm5FQ0Y5SmJXc3NlS002bGtsZUdTRXMtQVFHZ3pIeHFCVXpXMVF4dDJhMDRKc1cxTWNNeUtlbFVmS2xHb2JTeVUyQXNBaHhNN0tDZ0xOaTNta19SSE9uaWlvZ1pueENQWGlPbS00bGg3dE9mU19vaERJemtYbUxmUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_2026-10-12",
+    "severity": 4
   },
   {
     "id": "auto-5416",
