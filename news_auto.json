@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-9719",
+    "headline": {
+      "ja": "ウクライナがスターリンク端末の調整を非難",
+      "en": "Ukraine Accuses SpaceX of Throttling Starlink Terminals"
+    },
+    "summary": {
+      "ja": "ウクライナはロシアドローン防止の能力が制限されたとしてSpaceXを非難している。キーウはロシアの弾道ミサイル攻撃を受けている。",
+      "en": "Ukraine accuses SpaceX of restricting its ability to block Russian drones amid ballistic missile attacks on Kyiv."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-14T17:02:31+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_starlink_throttling_2026-10-14"
+  },
+  {
+    "id": "auto-10169",
+    "headline": {
+      "ja": "EUがウクライナへ€2.86億の緊急資金を援助",
+      "en": "EU Commission Disburses €2.86 Billion to Ukraine for Military and Battlefield Needs"
+    },
+    "summary": {
+      "ja": "EU委員会はウクライナへドローンとミサイル、および緊急の戦場支援用として€2.86億を拠出した。",
+      "en": "The EU Commission has disbursed €2.86 billion to Ukraine for drones, missiles, and urgent battlefield support."
+    },
+    "category": "economy",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-14T15:37:58+00:00",
+    "source": {
+      "name": "EU 欧州対外行動庁(EEAS)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaDI3YzNKMDNPbHV0blZWcVF5cUFYMXNpdXpiYXhpQzNhNFI4WjNyb2JWX3RFb3lack96ZS1kcWZTVFFZQTVVOVhDdmFLR0ZrQnZPbm54Q1d4SlFELVJsejBqSWZQUzQ1bXBhS0V1VGtCTVk4MGFaX2NJSWw0ZVNGdjVjbEZCOHhrVVAzYzNZSG43bUlkMUV1ZEtYTUZEbThjX2hOejNPcWlSWUZBclQteVk3dnVuVkJyZ1VORS1ld0traHN4WkxGaEVPcmVwLWNMOU5BTw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "eu_ukraine_funding_2_86billion_2026-10-14"
+  },
+  {
     "id": "auto-9295",
     "headline": {
       "ja": "フーシ派のミサイルがサウジアラムコ本社に着弾",
@@ -2343,99 +2389,5 @@
     "auto": true,
     "eventKey": "gaza_ceasefire_breakdown_202610",
     "severity": 4
-  },
-  {
-    "id": "auto-254",
-    "headline": {
-      "ja": "ウクライナ情勢ダイジェスト：通信システムとスターリンク",
-      "en": "Ukraine situation digest: focus on Starlink communications"
-    },
-    "summary": {
-      "ja": "ウクライナ情勢の日次ダイジェスト。スターリンク衛星通信システムがウクライナのドローン作戦の基盤となっていることについて言及。",
-      "en": "Daily digest of Ukraine situation highlighting importance of Starlink for Ukrainian drone operations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-07T19:51:02+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/83780"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_starlink_communications_2026-10-07"
-  },
-  {
-    "id": "auto-253",
-    "headline": {
-      "ja": "ロシア軍が大規模ミサイル攻撃実施、ウクライナ防衛施設が目標",
-      "en": "Russia conducts large-scale attack on Ukrainian targets including missile production"
-    },
-    "summary": {
-      "ja": "ウクライナの防衛産業施設やロケット生産施設に対する大規模な攻撃が実施された。フラミンゴ（Flamingo）と呼ばれるウクライナの長距離ドローンの生産施設が主要な目標。",
-      "en": "Major Russian attack on Ukrainian defense targets including Flamingo drone production facilities."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-07T18:59:36+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/83779"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_flamingo_missile_production_strike_2026-10-07",
-    "severity": 4
-  },
-  {
-    "id": "auto-78",
-    "headline": {
-      "ja": "ロシアのミサイル攻撃がウクライナ北部を襲撃、5人の子どもを含む19人が死亡",
-      "en": "Russian Missile Strike Kills 19 in Northern Ukraine, Including 5 Children"
-    },
-    "summary": {
-      "ja": "ロシアのミサイル攻撃がウクライナ北部の集合住宅を破壊し、30戸が焼失。眠っていた住民5人を含む19人が犠牲となった。",
-      "en": "A Russian missile strike destroyed an apartment building in northern Ukraine, destroying 30 units. Nineteen residents, including five children who were asleep, were killed."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-07T18:12:58+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_northern_missile_strike_2026-10-07",
-    "severity": 4
-  },
-  {
-    "id": "auto-269",
-    "headline": {
-      "ja": "イエメン・タイズでのフーシー支配強化",
-      "en": "Post on Houthis consolidating control in Taiz"
-    },
-    "summary": {
-      "ja": "@OSINTdefenderのアカウントで、イエメンのタイズでフーシー勢力がモハ港の奪取を契機に支配を強化しているという投稿があった。",
-      "en": "A post on @OSINTdefender reported that Houthis have intensified their control over Taiz, Yemen after seizing the strategic port of Mokha."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-07T17:49:46+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20442"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "yemen_taiz_houthis_202610"
   }
 ]
