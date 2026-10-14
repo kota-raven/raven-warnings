@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-14T11:34:18.921Z",
+  "generatedAt": "2026-10-14T12:40:37.450Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 198,
+  "count": 201,
   "warnings": [
     {
-      "id": "NAVAREA11-260462",
+      "id": "NAVAREA11-260463",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0462",
-      "title": "ミサイル発射情報削除",
-      "publishedAt": "2026-10-13T09:00:00+09:00",
+      "category": "訓練試験",
+      "number": "0463",
+      "title": "マリアナ諸島、グアム島北東、危険な訓練",
+      "publishedAt": "2026-10-14T21:00:00+09:00",
       "geometry": null,
-      "rawText": "NO.26-0462    発表日時:2026年10月13日 09時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nCANCEL INFORMATION OF OBJECT POTENTIALLY\r\r\nBALLISTIC MISSILE LAUNCHED FROM NORTH \r\r\nKOREA.\r\r\nCANCEL 0458/26, 0459/26, 0460/26, \r\r\n0461/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260462&LANG=JP"
+      "rawText": "NO.26-0463    発表日時:2026年10月14日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nHAZARDOUS OPERATIONS. \r\r\n170001Z TO 170600Z OCT. AREA BOUNDED BY\r\r\n17-00.00N 145-04.98E\r\r\n17-00.00N 146-27.65E\r\r\n15-25.00N 146-27.65E\r\r\n15-25.00N 146-25.00E\r\r\n15-40.37N 146-12.03E\r\r\n15-43.60N 145-27.77E.\r\r\nCANCEL THIS MSG 170700Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260463&LANG=JP"
     },
     {
       "id": "NAVAREA11-260457",
@@ -302,6 +302,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264048",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4048",
+      "title": "ホルムズ海峡、コンテナ漂流",
+      "publishedAt": "2026-10-14T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4048   発表日時:2026年10月14日 21時\r\n\n\r\n★ ホルムズ海峡、\r\r\nコンテナ漂流、10月14日、26-16.8N 056-08.6E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264048&LANG=JP"
     },
     {
       "id": "JAPANNW-264047",
@@ -3208,6 +3220,66 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261959",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1959",
+      "title": "本州東岸、日立港、灯台消灯",
+      "publishedAt": "2026-10-14T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1959    発表日時:2026年10月14日 21時\r\n\n\r\n本州東岸、\r\r\n日立港沖防波堤南灯台(36-28.5N 140-38.2E、\r\r\n灯台表第1巻、1836)消灯。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261959&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261958",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1958",
+      "title": "潮岬西南西、射撃終了",
+      "publishedAt": "2026-10-14T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1958    発表日時:2026年10月14日 21時\r\n\n\r\n潮岬西南西、\r\r\n射撃終了。\r\r\n(1919削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261958&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261957",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1957",
+      "title": "潮岬南東、射撃終了",
+      "publishedAt": "2026-10-14T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1957    発表日時:2026年10月14日 21時\r\n\n\r\n潮岬南東、\r\r\n射撃終了。\r\r\n(1908削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261957&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261956",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海洋施設",
+      "number": "1956",
+      "title": "東シナ海、移動式掘削装置不存在",
+      "publishedAt": "2026-10-14T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1956    発表日時:2026年10月14日 21時\r\n\n\r\n東シナ海、\r\r\n移動式掘削装置不存在。\r\r\n(1247削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261956&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261955",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "水深",
+      "number": "1955",
+      "title": "瀬戸内海、苅田港付近、浅所存在",
+      "publishedAt": "2026-10-14T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1955    発表日時:2026年10月14日 17時\r\n\n\r\n瀬戸内海、苅田港付近、\r\r\n浅所(水深 約11.7メートル)あり、\r\r\n33-48-34.3N 131-02-47.9E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261955&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261954",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3520,18 +3592,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261925&LANG=JP"
     },
     {
-      "id": "NAVTEX-261919",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1919",
-      "title": "潮岬西南西、射撃",
-      "publishedAt": "2026-10-09T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1919    発表日時:2026年10月09日 13時\r\n\n\r\n潮岬西南西、\r\r\n射撃、10月14日(予備15日)0800-2400、\r\r\n33-19.2N 135-19.1Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261919&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261918",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3704,24 +3764,6 @@
       },
       "rawText": "番号:26-1909    発表日時:2026年10月08日 13時\r\n\n\r\n尻屋埼東、\r\r\n射撃、10月13日、14日(予備15日、16日)毎日\r\r\n0800-1800、41-20-10N 142-29-47E\r\r\nを中心とする半径15海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261909&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261908",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1908",
-      "title": "潮岬南東、射撃",
-      "publishedAt": "2026-10-08T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          136.38333333333333,
-          32.916666666666664
-        ]
-      },
-      "rawText": "番号:26-1908    発表日時:2026年10月08日 13時\r\n\n\r\n潮岬南東、\r\r\n射撃、10月13日、14日(予備15日)\r\r\n毎日0800-2400、\r\r\n32-55N 136-23Eとする半径8海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261908&LANG=JP"
     },
     {
       "id": "NAVTEX-261851",
@@ -4216,24 +4258,6 @@
       },
       "rawText": "番号:26-1488    発表日時:2026年07月31日 21時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、\r\r\n29-35N 125-46E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261488&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261247",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海洋施設",
-      "number": "1247",
-      "title": "東シナ海、移動式掘削装置存在",
-      "publishedAt": "2026-06-26T21:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          125.21666666666667,
-          29.183333333333334
-        ]
-      },
-      "rawText": "番号:26-1247    発表日時:2026年06月26日 21時\r\n\n\r\n東シナ海、\r\r\n移動式掘削装置あり、29-11N 125-13E付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261247&LANG=JP"
     },
     {
       "id": "NAVTEX-260747",
