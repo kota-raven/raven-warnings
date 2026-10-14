@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-7374",
+    "headline": {
+      "ja": "ロシア軍、キーウの主要発電所を弾道ミサイルで攻撃",
+      "en": "Russian ballistic missile strikes hit key power plant in Kyiv"
+    },
+    "summary": {
+      "ja": "ロシア軍の弾道ミサイルがウクライナの首都キーウにある主要発電所を攻撃した。ゼレンスキー大統領は、NATO同盟国からの事前警告がなかったと述べた。",
+      "en": "Russian ballistic missiles struck a key power plant in Kyiv, Ukraine's capital. President Zelensky said there was no early warning from NATO allies."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-13T22:14:33+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_power_plant_strike_2026-10-13"
+  },
+  {
+    "id": "auto-8361",
+    "headline": {
+      "ja": "ゼレンスキー大統領、ロシアの弾道ミサイル攻撃について外交協議を実施",
+      "en": "President Zelenskyy discusses Russian ballistic missile strike with international officials"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領府は、ゼレンスキー大統領がマーク・カーニーと、ロシアの弾道ミサイル攻撃とそれに関連する可能性のある外交的展開について協議したと発表した。",
+      "en": "Ukraine's presidential office announced that President Zelenskyy discussed the Russian ballistic missile strike on Kyiv and related diplomatic developments with Mark Carney."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-13T21:43:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREkxTkEwSzEzZnBhZUVzTlhqUkdEVG9pU0RyVGdWN2lQM2hRTFkzb0ZXb3BIMzRfdTFmSHl5cVdaTFRZempiS0pWUFVFT0xBRk5pdkJ4V3hNY2pSaVJweVFfTEdfZjNnOFZ2dlpZUmkwakpFVEZGaVBIYXUySXpQVGhoWFNkWFg3Q3J0Z05oU3ZpNVJSMDhZNE1FN1VVeFhzMWNuQzlLUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_zelenskyy_carney_ballistic_strike_2026-10-13"
+  },
+  {
     "id": "auto-6548",
     "headline": {
       "ja": "ブルガリア沖で船舶沈没",
