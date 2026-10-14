@@ -116,6 +116,75 @@
     "eventKey": "ukraine_zelenskyy_carney_ballistic_strike_2026-10-13"
   },
   {
+    "id": "auto-7943",
+    "headline": {
+      "ja": "サウジ主導連合、フーシ派の戦争努力を支援する資源を攻撃",
+      "en": "Saudi-led coalition says it struck resources sustaining Houthi war effort"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の多国籍連合は、フーシ派の軍事活動を支援する資源施設を攻撃したと発表した。",
+      "en": "The Saudi-led coalition announced that it conducted strikes on resources sustaining the Houthi war effort in Yemen."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-13T18:50:21+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0VucVZaRlJiUEQ1bERXMDA2c2gwTFFTeG92bkZaMTlsak9icVJfNktreTFoUnIxY2JRVTJTRkxfWGFiTkJtUFhqajc4bTFDWkdBeHVELVRvdmk3YkFLX2NhRlAtVGI4dXFNNlFLN1pJZ2QxbUFxbWNLRUN5aEdPZ2Z4LWJPUXlCNUh6ZVF0alF0Xzg2cFpaSWUyWXhNY29vWldfSlBqcU5HeXVFUkNNWE1taklQYjRTbHc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_coalition_yemen_houthi_airstrike_2026-10-13"
+  },
+  {
+    "id": "auto-7908",
+    "headline": {
+      "ja": "ホルムズ海峡東側でタンカー火災、イラン海軍報告",
+      "en": "Tanker catches fire east of Strait of Hormuz: Iranian Navy"
+    },
+    "summary": {
+      "ja": "ホルムズ海峡の東側でタンカーが火災発生。イラン海軍が報告した。",
+      "en": "A tanker caught fire east of the Strait of Hormuz, according to the Iranian Navy."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-13T16:26:40+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmw1WTJ6anl6Z2xWcktTZ1UyUGMtLWNwbmY2VUZ6SW9jaVR4Tl9feXpZNXVFanFqWXJzb0ZvV2ZJYzA5SGtGUDBoc1VLRmE0RzQyWFZxSHEwRi1lVkQ4M2FMZ0F6Wklic1NqaEhrY3lSMFNJcjhtY1MxYkluUnFkeFR1aGlSVVlsSDhSeFlRQmpBRUFJaFExbHotM3N6NlE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_tanker_fire_strait_hormuz_2026-10-13"
+  },
+  {
+    "id": "auto-7920",
+    "headline": {
+      "ja": "コンゴ民主共和国、エボラ患者が9,000人超える",
+      "en": "Democratic Republic of Congo's Ebola cases surpass 9,000"
+    },
+    "summary": {
+      "ja": "コンゴ民主共和国（DRC）のエボラ出血熱の患者数が9,000人を超えた。大規模な感染拡大が続いている。",
+      "en": "Confirmed Ebola cases in the Democratic Republic of Congo have exceeded 9,000, marking a significant outbreak."
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "occurredAt": "2026-10-13T16:21:07+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeURuQlV2Zmo2TUZuY2xremVLQ3p0MVJJQ0tRVVFGVTc0SkZqb2ZHV2dTRWNFTUNqWFF2LTcwd0xab1ZIeUs1Y241TmlURGtsT3pURWRIeUJsNVR5cW8tZjlGSjZ4T2I4UzR4WWppaGdZRklOaHJubXEzQ1c1SHRWZWZR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "drc_ebola_cases_exceed_9000_2026-10-13"
+  },
+  {
     "id": "auto-6548",
     "headline": {
       "ja": "ブルガリア沖で船舶沈没",
@@ -137,6 +206,76 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "black_sea_ship_attack_2026-10-13"
+  },
+  {
+    "id": "auto-7904",
+    "headline": {
+      "ja": "イラン軍、ホルムズ海峡付近で6隻の船舶を攻撃",
+      "en": "Iranian forces attack 6 ships near Strait of Hormuz in single day"
+    },
+    "summary": {
+      "ja": "イラン軍がホルムズ海峡近くで1日に6隻の船舶を攻撃。これは米国との緊張が始まって以来、1日当たりの最多件数となった。",
+      "en": "Iranian military attacked six ships near the Strait of Hormuz in a single day, marking the highest number of attacks in one day since tensions with the US intensified."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-13T13:16:15+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGxibXEtZ2FFRTM2RGpqU0FpNTRfb3RLakt5UENVc0pzUGNTWFl3dVA1ZDlFYkUwQWpnN3dCMkJuT0NIMU1JWkNrWkh1UUczZkE2M0Q4R3pEc3lwN2Y5QzdEQXdJc3RzUVBSOFhDbUdkZW5RZnJtREQ1ZUlmLUlNMFhRMWl2T1Z4NXg1SkJFZnY5NmdPVFE1TlN0RWFDRVNoSkhGOXJfT2JseGxtY1c4MW9lbzdmcjcycnh5VDVUNG9GallPMjQzLU1JZkxWNmluZVg1Rw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_strait_hormuz_ship_attacks_2026-10-13",
+    "severity": 4
+  },
+  {
+    "id": "auto-7903",
+    "headline": {
+      "ja": "イエメンフーシ派、サウジアラムコ攻撃を脅迫",
+      "en": "Houthis threaten strikes on Saudi Aramco, Riyadh airport"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派がサナアへの軍事作戦に対抗して、サウジアラビアのアラムコ施設とリヤド空港への攻撃を警告した。",
+      "en": "Yemen's Houthis threatened to strike Saudi Aramco facilities and Riyadh airport in response to potential military operations targeting Sanaa."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-13T13:07:56+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEF2X2dyWU8tNVBPdDN6QmlEN0N2d1dDZjUxRlowUTF3YXlCcFE1N2puS2p6MTVVcVF3NTdubG5Nd0U2Um1wQnc2SjdRMUxUdG10TDdhUDU1d19DLVd2S3JybjFTX1FlZm9aRkJQZHlRR2lfZTdIUkgxNVR3cFJ2T1A5bS05d3NDRGRQQV9GVjhCbC1DRlhqeEZubmxmNXpZT0xkMkxHV3NfMU9xcGFRdEctNEFyT2Z1VFlmYXkxY0s3UQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_aramco_threat_2026-10-13"
+  },
+  {
+    "id": "auto-7909",
+    "headline": {
+      "ja": "サウジ主導連合、フーシ支配地のサナアで石油施設避難を命令",
+      "en": "Saudi-led coalition orders evacuation of oil facility in Houthi-held Sanaa"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の多国籍連合がフーシ派支配下のサナアの石油施設の民間人避難を命令。軍事作戦の事前警告と見られる。",
+      "en": "The Saudi-led coalition ordered evacuation of a civilian oil facility in Houthi-controlled Sanaa, signaling preparations for a potential military operation."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-13T12:31:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa01ibzF3NVZRbmJfSVAtaDJ1LVpzVG5KOUxfcm9hMGNDZzYzSFhrZE9qR0RnVnl5a0dqZWxTX1A4SS1hek9sU3BxSE9ZRmIwZUxrVWJuMGoyZGlwelI1c0N5akoxeVVQYmFDZDN6VURlSnEzSS1WUTZWdXdldEpWVkVaU1ExNTdoYUlMMkctRzhxNE1sR1Z2LU91dE1vZU9YcmJUV0wtMFhYdEszTFJHTUNzRy1RRlEwWTg0T2tURmlieERrcFJucHJHdWRFTThIQngtTXNXc3MtQjYyZ0lpRQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_coalition_sanaa_oil_facility_evacuation_2026-10-13"
   },
   {
     "id": "auto-6695",
@@ -183,6 +322,52 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "bulgaria_russian_ambassador_summons_ship_attacks_2026-10-13"
+  },
+  {
+    "id": "auto-7928",
+    "headline": {
+      "ja": "ウクライナ大統領、パートナー国から事前警告がなかったと指摘",
+      "en": "Zelenskyy says Ukraine did not receive early warning from partners"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、夜間のキーウ攻撃について、西側のパートナー国から事前警告を受けなかったと述べた。",
+      "en": "Ukrainian President Zelenskyy stated that Ukraine did not receive advance warning from Western partners regarding overnight attacks on Kyiv."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-13T10:47:04+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUFWRDhnT3dZQjM0VG83QkpFRS1wVi1uY0ZYNnNzODR3cHBsN1M0T2hNSURtX19tdzU5anFMNVpyc0NmN3g0eUctNDIwYnVyUlp0MGpHVFJYSWlKT19McWlwMkhnYjQwMjhVV2tjZ2VrQVdxejJTQ09hbGlCeHluTUJNbjlNckRQVnVkWFU2X29QdXF5NGVqR3BuZWZxYjgxQXVSd2RQZFotM1dSbU13aVFpQW13Y210ZDlrNFVaOEFabGdNcTVReVkxTG03cXpnZk5od0hrSnFfNFJ0eUV0dg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_attack_zelenskyy_warning_criticism_2026-10-13"
+  },
+  {
+    "id": "auto-7933",
+    "headline": {
+      "ja": "パキスタン、旅客列車がパンジャブ州で脱線、5人死亡30人以上負傷",
+      "en": "Passenger train derails in Pakistan's Punjab province, killing at least 5"
+    },
+    "summary": {
+      "ja": "パキスタンのパンジャブ州で旅客列車が脱線し、少なくとも5人が死亡、30人以上が負傷した。",
+      "en": "A passenger train derailed in Pakistan's Punjab province, killing at least 5 people and injuring more than 30 others."
+    },
+    "category": "disaster",
+    "country": "パキスタン",
+    "lat": 31.4594,
+    "lon": 73.279,
+    "occurredAt": "2026-10-13T09:59:09+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcVI2TS1rZkxXdzVSbDJVWHlFb0VGQzlpT1ZvNjZ3NjB0bzVtM3Z3UHVGV1pjMUdlOTBfc1EzWDhXd003NEViYmdfcE5KUi0zRm1FRVl5b0dYdm55dnBlZTRsRGdPcmRpNU5ud2hIR0NHWUFvQU1aODFfZ29kSF8xZ0dGd0Q1d0hpS25tb3pFQWEwN3pVLXlSY2pjTm13X0ZQcWlFa0lTQ245RVZpbW1YZUV1T29EX3NUQmxQZENFY1YzZTF5TEU3U0hyWVRtNjNzdEN0bG44LXpOUk5RMVZVNGExNURrdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_punjab_train_derailment_2026-10-13"
   },
   {
     "id": "auto-5796",
