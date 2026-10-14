@@ -22,29 +22,6 @@
     "severity": 3
   },
   {
-    "id": "2026-10-12-01",
-    "headline": {
-      "ja": "サウジ・リヤド空港、日曜に再び被弾 死者1人・11人負傷、フーシ派が犯行声明",
-      "en": "Riyadh airport hit again on Sunday, killing one and wounding 11; Houthis claim attack"
-    },
-    "summary": {
-      "ja": "サウジ民間航空総局などによれば、10月11日(日)、リヤドのキング・ハーリド国際空港が前日10日の攻撃(id: 2026-10-11-02、12人死亡・309人負傷)に続き再び被弾し、ターミナル4で火災が発生、パキスタン人1人が死亡、11人が負傷した。フーシ派は過去24時間の複数の攻撃(同空港への攻撃を含む)について犯行声明を出し、ダンマームのキング・ファハド国際空港への攻撃も主張したという。この影響で空港は日曜遅くまで閉鎖され、600便以上が欠航した。複数メディアは、トランプ米大統領がフーシ派への米軍による直接攻撃への参加を検討していると述べたと報じている。[信頼性: 高](South China Morning Post、CNN、Al Jazeeraが一致して報道)",
-      "en": "According to Saudi Arabia's civil aviation authority, King Khalid International Airport in Riyadh was struck again on Sunday, October 11, a day after Saturday's deadlier attack (previously reported, id 2026-10-11-02: 12 dead, 309 wounded), with a fire breaking out in Terminal 4. One person, a Pakistani national, was killed and 11 others were wounded. The Houthis claimed responsibility for multiple attacks over the prior 24 hours, including this one, and reportedly also claimed to have targeted King Fahd International Airport in Dammam. The airport remained closed into late Sunday, with more than 600 flights cancelled. Multiple outlets reported that President Trump said he is weighing whether the US will join strikes against the Houthis. [Reliability: High] (Consistently reported by South China Morning Post, CNN, and Al Jazeera.)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "リヤド(キング・ハーリド国際空港)",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-11T00:00:00+00:00",
-    "source": {
-      "name": "South China Morning Post(CNN、Al Jazeera等の報道集約含む)",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-10-12-02",
     "headline": {
       "ja": "ノーベル経済学賞、米ホール氏・ウッドフォード氏に 景気循環の安定化モデルの基礎で",
@@ -63,28 +40,6 @@
     "source": {
       "name": "NBC News(AP通信配信)",
       "url": "https://www.nbcnews.com/world/europe/americans-hall-woodford-win-2026-nobel-economics-prize-rcna602928"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-13-02",
-    "headline": {
-      "ja": "トランプ氏「エネルギー停戦」表明も、ロシアはウクライナのエネルギー施設への攻撃継続 ゼレンスキー氏「ロシア側の同意は未確認」",
-      "en": "Trump claims \"energy ceasefire\" with Putin, but Russia keeps striking Ukraine's energy facilities, Zelenskyy says"
-    },
-    "summary": {
-      "ja": "トランプ米大統領は10月11日(日)、プーチン露大統領との電話協議後、両国が互いのエネルギー関連施設への攻撃を停止することで合意したとSNS(Truth Social)で発表し、「破るな」と投稿した。しかしゼレンスキー・ウクライナ大統領は、ロシア側からの同意確認はまだ得られていないとした上で、トランプ氏の発表後もロシア軍がハルキウの火力発電所(CHP-5)を含む複数のエネルギー施設を攻撃したと述べ、直近1週間だけでロシアによる発電・送電施設への攻撃は200件超に上るとした。ロシア大統領府のペスコフ報道官は停戦合意の有無を明言せず「協議は継続中」とのみ述べ、ラブロフ外相は軍事作戦継続の方針を示したと複数メディアが報じた。トランプ氏は9月にも同様の合意を発表したが、その後も攻撃が続き効果がなかった経緯があるとAl Jazeeraは指摘している。[信頼性: 高](Al Jazeera、PBS NewsHour、ABCニュース、The Hillが一致して報道)",
-      "en": "President Trump announced on Truth Social on Sunday, October 11, after a phone call with President Putin, that both sides had agreed to halt strikes on each other's energy infrastructure, adding \"Do not break it!\" Ukrainian President Zelenskyy said Kyiv had not received confirmation that Russia had actually agreed, and said Russian forces struck multiple Ukrainian energy facilities after Trump's announcement, including the CHP-5 thermal power plant in Kharkiv, which was hit at least twice and caught fire; he said Russia has carried out over 200 strikes on power generation and transmission facilities in the past week alone. Kremlin spokesman Dmitry Peskov would not confirm or deny a ceasefire, saying only that \"contacts are ongoing,\" while Foreign Minister Lavrov indicated Russia would press on with its military campaign, according to multiple outlets. Al Jazeera noted Trump made a similar announcement in September that produced no lasting effect. [Reliability: High] (Consistently reported by Al Jazeera, PBS NewsHour, ABC News, and The Hill.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ハルキウ州・キーウ市(エネルギー施設複数)",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-10-11T20:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"
     },
     "reliability": "high"
   },
@@ -265,24 +220,45 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-14-06",
+    "id": "2026-10-15-01",
     "headline": {
-      "ja": "ネパール・ゴルカ郡で土砂崩れ起因の洪水、マナスル登山道で外国人トレッカー100人超が孤立",
-      "en": "Landslide-triggered flooding in Nepal's Gorkha district strands over 100 foreign trekkers on the Manaslu trail"
+      "ja": "ロシア軍、キーウ・ハルキウ等でエネルギー施設を再び集中攻撃 少なくとも3人死亡・60万人超が停電",
+      "en": "Russia again pounds Ukraine's energy grid in Kyiv, Kharkiv region; at least 3 killed, over 600,000 without power"
     },
     "summary": {
-      "ja": "10月11日(日)、ネパール・ゴルカ郡でブディ・ガンダキ川沿いに発生した土砂崩れが川をせき止め、その後の決壊で下流に洪水が発生、マナスル登山道の橋・道が流失したという。マナスル保護区域当局者によれば、外国人を含む100人以上のトレッカーが複数地点で孤立し、うち96人(外国人9人含む)は既に救助された。洪水で住宅200棟以上が被害を受け、水力発電所3カ所が損傷、650人超が影響を受けたとされる。死者の報告はないが、村民5人(女性2人含む)と連絡が取れていないという。発生から3日が経過しているが、これまでの収集で未採用だったため今回追加した(`output/news.json`の保持期間〈直近3日〉の対象ぎりぎりであり、次回収集では削除対象となる見込み)。[信頼性: 高](ロイター配信記事〈Khaleej Times、The Star、Bernama等〉が一致して報道)",
-      "en": "On Sunday, October 11, a landslide along the Budhi Gandaki River in Nepal's Gorkha district temporarily blocked the river; its subsequent breach caused downstream flooding that swept away bridges and trails on the Manaslu trekking route, officials said. A Manaslu Conservation Area official said more than 100 trekkers, including foreigners, were stranded at various locations, and 96 people (including 9 foreigners) have already been rescued. The flooding reportedly damaged more than 200 homes, damaged three hydroelectric plants, and affected over 650 people. No deaths have been reported, but five villagers (including two women) remain out of contact. The event is three days old and had not previously been added to this dataset; it is close to the edge of the 3-day retention window and is expected to be removed in the next collection cycle. [Reliability: High] (Reuters-sourced reporting via Khaleej Times, The Star, Bernama and other outlets, consistent across sources.)"
+      "ja": "ウクライナ各当局によれば、10月13日(火)深夜から14日(水)未明にかけて、ロシア軍がキーウ市・キーウ州・ハルキウ州などの発電・送電施設を集中的に攻撃した。キーウ市当局は市内で少なくとも3人が死亡、21人が負傷したと発表した。ゼレンスキー大統領は、この攻撃でエネルギー関連施設約30カ所が被害を受け、60万人超が停電の影響を受けたと述べたという。ロシア国防省は、キーウ市・キーウ州・ハルキウの発電所6カ所を狙った攻撃だったと発表したと報じられている。トランプ米大統領が10月11日に発表した「エネルギー停戦」(既報)後も攻撃が続いている形で、ゼレンスキー氏は停戦の実効性について改めて疑問を示したという。ゼレンスキー氏は、ウクライナ側はロシアの石油精製施設への攻撃を停止することに同意したと述べたとも報じられている。[信頼性: 高](CBCニュース、CP24〈AP通信配信〉、The Globe and Mailが一致して報道)",
+      "en": "Ukrainian officials said Russian forces carried out a concentrated barrage against power generation and transmission facilities in Kyiv city, Kyiv region, and Kharkiv region overnight from Tuesday, October 13, into Wednesday, October 14. Kyiv city authorities said at least three people were killed and 21 wounded in the capital. President Zelenskyy said the strikes damaged about 30 energy facilities and left more than 600,000 people without power. Russia's defense ministry reportedly said it had targeted six power plants in Kyiv city, Kyiv region, and Kharkiv. The attacks continued despite the \"energy ceasefire\" President Trump announced on October 11 (previously reported), with Zelenskyy again questioning whether it is holding; he reportedly also said Ukraine had agreed to halt its own strikes on Russian oil refineries. [Reliability: High] (Consistently reported by CBC News, CP24 via AP, and The Globe and Mail.)"
     },
-    "category": "disaster",
-    "country": "ネパール",
-    "region": "ゴルカ郡(マナスル登山道)",
-    "lat": 28.0,
-    "lon": 84.6333,
-    "occurredAt": "2026-10-11T06:00:00+00:00",
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ市・キーウ州・ハルキウ州(エネルギー施設複数)",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-13T22:00:00+00:00",
     "source": {
-      "name": "Khaleej Times(ロイター配信)",
-      "url": "https://www.khaleejtimes.com/world/asia/nepal-floods-foreign-trekkers-stranded"
+      "name": "CP24(AP通信配信)",
+      "url": "https://www.cp24.com/news/world/2026/10/14/zelenskyy-says-russia-keeps-striking-ukraines-energy-sites-despite-trump-ceasefire-push/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-15-02",
+    "headline": {
+      "ja": "米CPI上振れ受け株価下落、米銀バンク・オブ・アメリカは四半期減収と10億ドル超の制裁金で株価急落",
+      "en": "US stocks fall as hot CPI data lifts rate-hike bets; Bank of America shares slide on revenue miss and $1.2bn-plus fine"
+    },
+    "summary": {
+      "ja": "10月14日(水)の米国市場で、9月の米消費者物価指数(CPI)がコア指数で前月比0.3%・前年同月比2.6%上昇と市場予想を上回る「強い」結果となったことを受け、米連邦準備制度理事会(FRB)が追加利上げに動くとの観測が強まり、国債利回りが上昇、株価は下落した。S&P500種指数は約1%安、ナスダック総合指数は約1.9%安(半導体株が主導)、ダウ工業株30種平均はほぼ変わらず(0.1%安)で終えたという。個別銘柄では、バンク・オブ・アメリカが第3四半期の増収率が市場予想に届かなかったことに加え、12億ドル超の規制当局による制裁金が科されたことを受けて株価が下落したと報じられた。欧州天然ガス指標(TTF)は、在庫水準の低さと中東情勢の供給懸念を背景に4年ぶり高値を付けたという。[信頼性: 高](Yahoo Finance、TheStreet、CNBCが一致して報道)",
+      "en": "In US trading on Wednesday, October 14, stocks fell after September's core Consumer Price Index came in hotter than expected, up 0.3% month-on-month and 2.6% year-on-year, fueling bets that the Federal Reserve could raise rates further and pushing Treasury yields higher. Reports said the S&P 500 ended down about 1%, the Nasdaq Composite fell roughly 1.9% (led by semiconductor stocks), and the Dow Jones Industrial Average was roughly flat, down 0.1%. Among individual stocks, Bank of America shares fell after third-quarter revenue growth missed estimates and the bank was hit with a regulatory fine exceeding $1.2 billion, according to reports. Europe's TTF natural gas benchmark reportedly hit a four-year high amid low storage levels and Middle East-related supply concerns. [Reliability: High] (Consistently reported by Yahoo Finance, TheStreet, and CNBC.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-14T20:00:00+00:00",
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-135249729.html"
     },
     "reliability": "high"
   }
