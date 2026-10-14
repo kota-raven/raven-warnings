@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "id": "2026-10-10-gb-000003",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "RFA Lyme Bay",
+    "shipNumber": "L3007",
+    "shipType": "transport",
+    "position": {
+      "area": "Indian Ocean",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "掃海支援母船、インド洋でホルムズ海峡付近に唯一の英国海軍駐留",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/12/u-k-royal-navy-destroyer-returns-home-from-middle-east-strait-of-hormuz-multinational-mission-in-limbo"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-10T12:00:00Z"
+  },
+  {
+    "id": "2026-10-10-gb-000002",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "HMS Dragon",
+    "shipNumber": "D35",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Portsmouth, UK",
+      "lat": 50.8,
+      "lon": -1.1,
+      "approximate": false
+    },
+    "activity": "Type 45ディストロイヤー、7ヶ月の地中海・中東展開終了、ポーツマスに帰港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/12/u-k-royal-navy-destroyer-returns-home-from-middle-east-strait-of-hormuz-multinational-mission-in-limbo"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-10T12:00:00Z"
+  },
+  {
+    "id": "2026-10-08-us-000001",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Abraham Lincoln",
+    "shipNumber": "CVN-72",
+    "shipType": "carrier",
+    "position": {
+      "area": "San Diego, USA",
+      "lat": 32.7167,
+      "lon": -117.2167,
+      "approximate": false
+    },
+    "activity": "ニミッツ級原子力空母、約10カ月半にわたる展開終了、Operation Epic Fury作戦に参加後、サンディエゴに帰港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34442/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-08T15:15:00Z"
+  },
+  {
+    "id": "2026-10-08-fr-000007",
+    "recordType": "individual",
+    "country": "FR",
+    "shipName": "SNLE Le Vigilant",
+    "shipNumber": "S618",
+    "shipType": "submarine",
+    "position": {
+      "area": "Finistère沖, フランス",
+      "lat": 48.5,
+      "lon": -4.5,
+      "approximate": true
+    },
+    "activity": "トリオンファン級弾道ミサイル原潜、M51.3 SLBMの初の水中発射テスト実施（核弾頭なし）",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/08/france-fires-new-submarine-launched-ballistic-missile-in-first-at-sea-test"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-08T12:00:00Z"
+  },
+  {
+    "id": "2026-10-08-us-000006",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Arleigh Burke",
+    "shipNumber": "DDG-51",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Cadiz, Spain",
+      "lat": 36.5,
+      "lon": -6.3,
+      "approximate": false
+    },
+    "activity": "アーレイ・バーク級ディストロイヤー、スペイン・カディスのナバンティア造船所で定期メンテナンス中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/08/u-s-destroyer-goes-into-spanish-dry-dock-for-maintenance-overhaul"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-08T12:00:00Z"
+  },
+  {
+    "id": "2026-10-05-us-000004",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS George H.W. Bush",
+    "shipNumber": "CVN-77",
+    "shipType": "carrier",
+    "position": {
+      "area": "Phuket, Thailand",
+      "lat": 8.0,
+      "lon": 98.0,
+      "approximate": false
+    },
+    "activity": "ニミッツ級原子力空母、5ヶ月のCENTCOM展開後、タイ・プーケットで寄港。Operation Epic Fury作戦に参加",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/09/usni-news-western-pacific-pulse-oct-9-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-05T12:00:00Z"
+  },
+  {
+    "id": "2026-10-05-us-000005",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Delbert D. Black",
+    "shipNumber": "DDG-119",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Phuket, Thailand",
+      "lat": 8.0,
+      "lon": 98.0,
+      "approximate": false
+    },
+    "activity": "アーレイ・バーク級ディストロイヤー、George H.W. Bush打撃群に所属、タイ・プーケットで寄港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/09/usni-news-western-pacific-pulse-oct-9-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-05T12:00:00Z"
+  },
+  {
+    "id": "-us-000008",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "U.S. Nuclear-powered Aircraft Carrier",
+    "shipNumber": null,
+    "shipType": "carrier",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.3,
+      "lon": 139.7,
+      "approximate": false
+    },
+    "activity": "米国の原子力空母が横須賀に寄港予定（4年ぶり、具体的な日程・艦名未発表）",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/07/u-s-carrier-expected-to-make-port-call-in-yokosuka-first-in-4-years"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  }
+]
