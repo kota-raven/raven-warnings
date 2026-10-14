@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:30:57.153Z",
+  "generatedAt": "2026-10-14T23:28:52.762Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 198,
   "warnings": [
@@ -304,6 +304,84 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-264054",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4054",
+      "title": "ホルムズ海峡、漂流火災船沈没",
+      "publishedAt": "2026-10-15T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4054   発表日時:2026年10月15日 08時\r\n\n\r\n★ ホルムズ海峡、\r\r\n漂流火災船(GFS PRIDE)沈没。\r\r\n(4033削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264054&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264053",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海洋施設",
+      "number": "4053",
+      "title": "インド西岸、掘削装置移設",
+      "publishedAt": "2026-10-15T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4053   発表日時:2026年10月15日 08時\r\n\n\r\n★インド西岸、\r\r\n掘削装置(SAGAR RATNA)移設、20-20.02N 072-21.65E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264053&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264052",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4052",
+      "title": "スリランカ南東、射撃",
+      "publishedAt": "2026-10-15T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4052   発表日時:2026年10月15日 08時\r\n\n\r\n★ スリランカ南東、\r\r\n射撃、\r\r\n(1)10月19日0330Z-1230Z、04-32.42N 05-03.51N \r\r\n   084-47.59E 085-22.36E、\r\r\n(2)10月20日0330Z-1230Z、04-29.39N 05-03.07N\r\r\n   082-04.14E 082-39.27E、\r\r\nの各線で囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264052&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264051",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4051",
+      "title": "南太平洋、宇宙ゴミ落下終了",
+      "publishedAt": "2026-10-15T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4051   発表日時:2026年10月15日 08時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下終了。\r\r\n(3964削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264051&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264050",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4050",
+      "title": "ジャワ海、射撃",
+      "publishedAt": "2026-10-15T08:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          106.95,
+          -5.666666666666667
+        ]
+      },
+      "rawText": "番号:26-4050   発表日時:2026年10月15日 08時\r\n\n\r\n★ ジャワ海、\r\r\n射撃、10月16日0200Z-0600Z、05-30S 05-40S\r\r\n106-57E 107-07Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264050&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264049",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4049",
+      "title": "カムチャツカ周辺、ミサイル射撃情報削除",
+      "publishedAt": "2026-10-15T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4049   発表日時:2026年10月15日 08時\r\n\n\r\n★ カムチャツカ周辺、\r\r\nミサイル射撃情報削除。\r\r\n(3973削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264049&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264048",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -578,18 +656,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264034&LANG=JP"
     },
     {
-      "id": "JAPANNW-264033",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4033",
-      "title": "ホルムズ海峡、火災船漂流",
-      "publishedAt": "2026-10-14T12:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4033   発表日時:2026年10月14日 12時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船(GFS PRIDE)漂流、10月14日、\r\r\n26-23.7N 056-23.6E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264033&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264032",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -618,42 +684,6 @@
       },
       "rawText": "番号:26-4031   発表日時:2026年10月14日 08時\r\n\n\r\n★ インド西岸、\r\r\n射撃、10月16日、17日毎日0230Z-0800Z、\r\r\n10-20N 10-50N 075-00E 075-35Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264031&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264030",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4030",
-      "title": "インド西岸、危険な訓練に関する情報削除",
-      "publishedAt": "2026-10-14T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4030   発表日時:2026年10月14日 08時\r\n\n\r\n★ インド西岸、\r\r\n危険な訓練に関する情報削除。\r\r\n(4008削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264030&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264029",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4029",
-      "title": "北太平洋東部、ロケット打上げ終了",
-      "publishedAt": "2026-10-14T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4029   発表日時:2026年10月14日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nロケット打上げ終了。\r\r\n(3932削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264029&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264028",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4028",
-      "title": "南太平洋東部、宇宙ゴミ落下に関する情報削除",
-      "publishedAt": "2026-10-14T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4028   発表日時:2026年10月14日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下に関する情報削除。\r\r\n(3933削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264028&LANG=JP"
     },
     {
       "id": "JAPANNW-264026",
@@ -1456,18 +1486,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263975&LANG=JP"
     },
     {
-      "id": "JAPANNW-263973",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3973",
-      "title": "カムチャツカ周辺、ミサイル射撃",
-      "publishedAt": "2026-10-09T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3973   発表日時:2026年10月09日 20時\r\n\n\r\n★ カムチャツカ周辺、\r\r\nミサイル射撃、10月11日-15日毎日1400Z-翌日0900Z、\r\r\n56-34.0N 154-14.0E 56-34.0N 156-18.2E\r\r\n55-44.0N 155-32.0E 52-35.0N 155-32.0E\r\r\n52-13.1N 158-25.0E 52-54.3N 159-42.0E\r\r\n52-46.0N 160-30.0E 51-40.0N 160-30.0E\r\r\n50-24.9N 158-53.1E 49-23.5N 157-28.5E\r\r\n50-13.6N 156-03.0E 51-30.1N 158-03.1E\r\r\n52-06.0N 154-14.0Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263973&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263972",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1522,46 +1540,6 @@
       },
       "rawText": "番号:26-3967   発表日時:2026年10月09日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、10月11日-19日毎日0200Z-1100Z、\r\r\n(1)21-51N 091-23E 21-51N 091-40E\r\r\n   21-25N 091-40E 21-25N 091-23E、\r\r\n(2)21-40.00N 091-00.00E\r\r\n   21-40.00N 091-40.00E\r\r\n   21-03.00N 091-40.00E\r\r\n   21-06.00N 091-30.93E\r\r\n   21-10.97N 091-18.92E\r\r\n   21-18.08N 091-10.08E\r\r\n   21-30.00N 091-02.97E、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263967&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263964",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3964",
-      "title": "南太平洋、宇宙ゴミ落下",
-      "publishedAt": "2026-10-08T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -149.58333333333334,
-            -27.1
-          ],
-          [
-            -148,
-            -28.9
-          ],
-          [
-            -157.98333333333332,
-            -37.13333333333333
-          ],
-          [
-            -170.23333333333332,
-            -44.333333333333336
-          ],
-          [
-            -171.51666666666668,
-            -42.68333333333333
-          ],
-          [
-            -159.5,
-            -35.4
-          ]
-        ]
-      },
-      "rawText": "番号:26-3964   発表日時:2026年10月08日 20時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下、10月13日1130Z-1225Z、14日1104Z-1159Z、\r\r\n15日1041Z-1136Z、16日1019Z-1114Z、17日0956Z-\r\r\n1051Z、18日0931Z-1026Z、19日0908Z-1003Z、\r\r\n27-06S 149-35W 28-54S 148-00W\r\r\n37-08S 157-59W 44-20S 170-14W\r\r\n42-41S 171-31W 35-24S 159-30Wで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263964&LANG=JP"
     },
     {
       "id": "JAPANNW-263961",
