@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-8812",
+    "headline": {
+      "ja": "ロシア、ウクライナ首都キーウへ大規模弾道ミサイル攻撃",
+      "en": "Russian ballistic missile attack on Kyiv kills at least six"
+    },
+    "summary": {
+      "ja": "ロシアがウクライナの首都キーウに弾道ミサイルを攻撃し、最低6人が死亡、電力インフラが損傷した。ウクライナ大統領は、パートナー国が事前警告に失敗したと指摘。",
+      "en": "Russia conducted a ballistic missile attack on Kyiv, killing at least six people and damaging power infrastructure. Ukrainian President Zelenskyy criticized international partners for failing to provide advance warning."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-14T07:08:32+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_kyiv_missile_attack_2026-10-14",
+    "severity": 4
+  },
+  {
     "id": "auto-8579",
     "headline": {
       "ja": "サウジアラビア、フーシ派ミサイルを迎撃 リヤドなどを標的",
