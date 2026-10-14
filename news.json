@@ -198,5 +198,49 @@
       "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say"
     },
     "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-10-14-03",
+    "headline": {
+      "ja": "フーシ派ミサイルがサウジ・アラムコ施設に命中、リヤドでも迎撃ミサイル残骸で住宅15棟損壊・4人負傷",
+      "en": "Houthi missile hits Saudi Aramco facility; intercepted-missile debris in Riyadh injures four, damages 15 homes"
+    },
+    "summary": {
+      "ja": "サウジアラビア・エネルギー省は、フーシ派のミサイル攻撃により同国東部地区のアラムコの管理棟が被弾し、限定的な火災が発生したが死傷者はなかったと発表したという。これとは別に、サウジ民間防衛当局は、リヤド上空で迎撃された2発のフーシ派ミサイルの残骸が住宅地に落下し、4人が負傷、住宅15棟が損壊したと発表したという。サウジ閣議は、フーシ派の攻撃継続に「相応の結果」を与えると改めて表明した。サナア西郊の石油施設空爆(id: 2026-10-14-01)と同日の一連の応酬の一部。[信頼性: 高](Al Jazeera。サウジエネルギー省・民間防衛当局の発表に基づく報道)",
+      "en": "Saudi Arabia's Energy Ministry said a Houthi missile strike hit an administrative building at Aramco's Eastern Province operations, sparking a limited fire with no injuries reported, according to reports. Separately, Saudi Civil Defense said debris from two intercepted Houthi missiles fell on residential areas in Riyadh, injuring four people and damaging 15 homes, according to reports. Saudi Arabia's cabinet reiterated that the Houthis would face \"consequences\" for continuing attacks. Part of the same day's exchange as the airstrike on the oil facility near Sanaa (id: 2026-10-14-01). [Reliability: High] (Al Jazeera, based on statements from Saudi Arabia's Energy Ministry and Civil Defense.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "東部地区(アラムコ施設)・リヤド",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-13T16:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
+    },
+    "reliability": "high",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-14-04",
+    "headline": {
+      "ja": "原油価格、フーシ派・サウジ衝突の激化受けて上昇 ブレント105ドル台・WTI94ドル台に",
+      "en": "Oil prices rise as Houthi-Saudi conflict escalates; Brent near $105, WTI near $94"
+    },
+    "summary": {
+      "ja": "フーシ派によるサウジ・アラムコ施設への攻撃や相互の空爆応酬が激化する中、10月13日(火)の原油先物市場でブレント原油は1バレル105.69ドル、WTI原油は94.14ドルで取引を終えたと報じられたという。サウジ国内の石油関連インフラへの攻撃が続いていることが、供給リスクへの懸念から価格を押し上げる要因になっているという。[信頼性: 中](Fox News、Oilprice.comの報道。具体的な終値は速報値で、他の大手通信社による裏付けは確認できていない)",
+      "en": "Amid the escalating Houthi-Saudi conflict, including a missile strike on Saudi Aramco facilities, Brent crude settled at $105.69 a barrel and WTI at $94.14 on Tuesday, October 13, according to reports. Continued attacks on Saudi oil-related infrastructure are cited as a factor pushing up prices on supply-risk concerns, according to reports. [Reliability: Medium] (Fox News, Oilprice.com; the specific closing figures are preliminary and have not been independently confirmed by major wire services.)"
+    },
+    "category": "economy",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-13T21:00:00+00:00",
+    "source": {
+      "name": "Fox News",
+      "url": "https://foxnews.com/live-news/us-iran-war-saudi-arabia-trump-houthis-10-13-26"
+    },
+    "reliability": "medium"
   }
 ]
