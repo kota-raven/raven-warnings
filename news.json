@@ -242,5 +242,48 @@
       "url": "https://foxnews.com/live-news/us-iran-war-saudi-arabia-trump-houthis-10-13-26"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-14-05",
+    "headline": {
+      "ja": "中国9月の貿易統計、輸出36.3%増・貿易黒字1,335億ドルに拡大",
+      "en": "China's September exports jump 36.3%, trade surplus widens to $133.5 billion"
+    },
+    "summary": {
+      "ja": "中国税関総署は10月14日、9月の貿易統計を発表した。ドル建て輸出額は前年同月比36.3%増となり、ロイター調査の市場予想(25.5%増)を上回った。輸入額も同31%増(8月の28.2%増から加速)。貿易黒字は1,335億ドルに拡大し(8月は1,191億ドル)、今年の年間貿易黒字は過去最大を更新する見通しと報じられた。品目別では半導体輸出が108.1%増、自動車輸出も50%超増加した一方、原油輸入量は21.5%減、大豆輸入量は7.7%減。対米輸出は約39.6%増加したという。[信頼性: 高](CNBC、NBCニュース、Yahoo Finance等、複数の大手メディアが中国税関当局の発表に基づき一致して報道)",
+      "en": "China's General Administration of Customs released September trade data on October 14. Dollar-denominated exports rose 36.3% year-on-year, beating a Reuters poll forecast of 25.5%, while imports rose 31% (accelerating from 28.2% in August). The trade surplus widened to $133.5 billion (from $119.1 billion in August), with reports suggesting China is on track for a record annual surplus this year. Semiconductor exports rose 108.1% and auto exports grew more than 50%, while crude oil import volumes fell 21.5% and soybean imports fell 7.7%. Exports to the US reportedly rose about 39.6%. [Reliability: High] (Consistently reported by CNBC, NBC News, Yahoo Finance and other major outlets citing Chinese customs data.)"
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "occurredAt": "2026-10-14T02:00:00+00:00",
+    "source": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/china-september-exports-soar-putting-1-trillion-trade-surplus-sight-rcna603410"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-14-06",
+    "headline": {
+      "ja": "ネパール・ゴルカ郡で土砂崩れ起因の洪水、マナスル登山道で外国人トレッカー100人超が孤立",
+      "en": "Landslide-triggered flooding in Nepal's Gorkha district strands over 100 foreign trekkers on the Manaslu trail"
+    },
+    "summary": {
+      "ja": "10月11日(日)、ネパール・ゴルカ郡でブディ・ガンダキ川沿いに発生した土砂崩れが川をせき止め、その後の決壊で下流に洪水が発生、マナスル登山道の橋・道が流失したという。マナスル保護区域当局者によれば、外国人を含む100人以上のトレッカーが複数地点で孤立し、うち96人(外国人9人含む)は既に救助された。洪水で住宅200棟以上が被害を受け、水力発電所3カ所が損傷、650人超が影響を受けたとされる。死者の報告はないが、村民5人(女性2人含む)と連絡が取れていないという。発生から3日が経過しているが、これまでの収集で未採用だったため今回追加した(`output/news.json`の保持期間〈直近3日〉の対象ぎりぎりであり、次回収集では削除対象となる見込み)。[信頼性: 高](ロイター配信記事〈Khaleej Times、The Star、Bernama等〉が一致して報道)",
+      "en": "On Sunday, October 11, a landslide along the Budhi Gandaki River in Nepal's Gorkha district temporarily blocked the river; its subsequent breach caused downstream flooding that swept away bridges and trails on the Manaslu trekking route, officials said. A Manaslu Conservation Area official said more than 100 trekkers, including foreigners, were stranded at various locations, and 96 people (including 9 foreigners) have already been rescued. The flooding reportedly damaged more than 200 homes, damaged three hydroelectric plants, and affected over 650 people. No deaths have been reported, but five villagers (including two women) remain out of contact. The event is three days old and had not previously been added to this dataset; it is close to the edge of the 3-day retention window and is expected to be removed in the next collection cycle. [Reliability: High] (Reuters-sourced reporting via Khaleej Times, The Star, Bernama and other outlets, consistent across sources.)"
+    },
+    "category": "disaster",
+    "country": "ネパール",
+    "region": "ゴルカ郡(マナスル登山道)",
+    "lat": 28.0,
+    "lon": 84.6333,
+    "occurredAt": "2026-10-11T06:00:00+00:00",
+    "source": {
+      "name": "Khaleej Times(ロイター配信)",
+      "url": "https://www.khaleejtimes.com/world/asia/nepal-floods-foreign-trekkers-stranded"
+    },
+    "reliability": "high"
   }
 ]
