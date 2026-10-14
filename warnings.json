@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T03:31:55.850Z",
+  "generatedAt": "2026-10-14T04:34:48.188Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 186,
+  "count": 190,
   "warnings": [
     {
       "id": "NAVAREA11-260462",
@@ -304,6 +304,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-264033",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4033",
+      "title": "ホルムズ海峡、火災船漂流",
+      "publishedAt": "2026-10-14T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4033   発表日時:2026年10月14日 12時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船(GFS PRIDE)漂流、10月14日、\r\r\n26-23.7N 056-23.6E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264033&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264032",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -528,30 +540,6 @@
       },
       "rawText": "番号:26-4022   発表日時:2026年10月13日 20時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n10月13日-25日毎日0600-2400、27-06-14N 129-09-52\r\r\nE27-06-14N 130-59-52E 26-10-15N 130-59-52\r\r\nE26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(3930削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264022&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264021",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4021",
-      "title": "佐渡島北東、射撃終了",
-      "publishedAt": "2026-10-13T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4021   発表日時:2026年10月13日 20時\r\n\n\r\n佐渡島北東、\r\r\n射撃終了。\r\r\n(3955削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264021&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264020",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4020",
-      "title": "襟裳岬西北西、射撃中止",
-      "publishedAt": "2026-10-13T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4020   発表日時:2026年10月13日 20時\r\n\n\r\n襟裳岬西北西、\r\r\n射撃中止。\r\r\n(3970削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264020&LANG=JP"
     },
     {
       "id": "JAPANNW-264019",
@@ -3118,6 +3106,184 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261952",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1952",
+      "title": "石廊埼南、射撃",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1952    発表日時:2026年10月14日 13時\r\n\n\r\n石廊埼南、\r\r\n射撃、10月19日0900-2400、34-21.2N\r\r\n138-49.7Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261952&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261951",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1951",
+      "title": "若狭湾、射撃",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1951    発表日時:2026年10月14日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、10月19日(予備22日)0900-2400、\r\r\n35-50.2N 135-39.8Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261951&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261950",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1950",
+      "title": "都井岬東北東、射撃",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            133.49749999999997,
+            31.803611111111113
+          ],
+          [
+            133.49749999999997,
+            31.703611111111112
+          ],
+          [
+            132.99749999999997,
+            31.470277777777778
+          ],
+          [
+            132.99749999999997,
+            31.603611111111114
+          ],
+          [
+            132.63083333333333,
+            31.603611111111114
+          ],
+          [
+            132.63083333333333,
+            31.803611111111113
+          ]
+        ]
+      },
+      "rawText": "番号:26-1950    発表日時:2026年10月14日 13時\r\n\n\r\n都井岬東北東、\r\r\n射撃、10月19日(予備20日)0600-1800、\r\r\n31-48-13N 133-29-51E\r\r\n31-42-13N 133-29-51E\r\r\n31-28-13N 132-59-51E\r\r\n31-36-13N 132-59-51E\r\r\n31-36-13N 132-37-51E\r\r\n31-48-13N 132-37-51Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261950&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261949",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1949",
+      "title": "沖大東島付近、爆撃",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          131.1811111111111,
+          24.47083333333333
+        ]
+      },
+      "rawText": "番号:26-1949    発表日時:2026年10月14日 13時\r\n\n\r\n沖大東島付近、\r\r\n爆撃、10月19日(予備20日、21日)0700-2300、\r\r\n24-28-15N 131-10-52Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261949&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261948",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1948",
+      "title": "沖大東島付近、爆撃（１０月中旬）",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1948    発表日時:2026年10月14日 13時\r\n\n\r\n沖大東島付近、\r\r\n爆撃、10月19日0000-20日2400、\r\r\n24-28-15.3N 131-10-52.0E\r\r\nを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261948&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261947",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1947",
+      "title": "沖縄島東南東、爆撃",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            130.79777777777778,
+            24.3875
+          ],
+          [
+            131.6977777777778,
+            25.4375
+          ],
+          [
+            132.51444444444445,
+            25.22083333333333
+          ],
+          [
+            132.99777777777777,
+            24.004444444444445
+          ],
+          [
+            131.37722222222223,
+            24.004166666666666
+          ],
+          [
+            131.17361111111111,
+            24.125833333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-1947    発表日時:2026年10月14日 13時\r\n\n\r\n沖縄島東南東、\r\r\n爆撃、10月19日(予備20日、21日)1100-2300、\r\r\n24-23-15N 130-47-52E\r\r\n25-26-15N 131-41-52E\r\r\n25-13-15N 132-30-52E\r\r\n24-00-16N 132-59-52E\r\r\n24-00-15N 131-22-38E\r\r\n24-07-33N 131-10-25Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261947&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261946",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1946",
+      "title": "沖縄島東南東、射撃",
+      "publishedAt": "2026-10-14T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            128.8647222222222,
+            25.6875
+          ],
+          [
+            129.03861111111112,
+            25.810277777777777
+          ],
+          [
+            129.4311111111111,
+            25.7375
+          ],
+          [
+            130.1811111111111,
+            25.7375
+          ],
+          [
+            130.5977777777778,
+            25.723333333333333
+          ],
+          [
+            130.74777777777777,
+            25.6875
+          ],
+          [
+            130.06444444444446,
+            24.8875
+          ]
+        ]
+      },
+      "rawText": "番号:26-1946    発表日時:2026年10月14日 13時\r\n\n\r\n沖縄島東南東、\r\r\n射撃、10月19日(予備20日)0600-1800、\r\r\n25-41-15N 128-51-53E \r\r\n25-48-37N 129-02-19E\r\r\n25-44-15N 129-25-52E\r\r\n25-44-15N 130-10-52E\r\r\n25-43-24N 130-35-52E\r\r\n25-41-15N 130-44-52E\r\r\n24-53-15N 130-03-52Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261946&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261945",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3160,30 +3326,6 @@
       },
       "rawText": "番号:26-1944    発表日時:2026年10月13日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n10月13日-25日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1902削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261944&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261943",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1943",
-      "title": "佐渡島北東、射撃終了",
-      "publishedAt": "2026-10-13T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1943    発表日時:2026年10月13日 13時\r\n\n\r\n佐渡島北東、\r\r\n射撃終了。\r\r\n(1907削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261943&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261942",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1942",
-      "title": "襟裳岬西北西、射撃中止",
-      "publishedAt": "2026-10-13T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1942    発表日時:2026年10月13日 13時\r\n\n\r\n襟裳岬西北西、\r\r\n射撃中止。\r\r\n(1922削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261942&LANG=JP"
     },
     {
       "id": "NAVTEX-261931",
