@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-9295",
+    "headline": {
+      "ja": "フーシ派のミサイルがサウジアラムコ本社に着弾",
+      "en": "Houthi missile hits Aramco building in Saudi Arabia"
+    },
+    "summary": {
+      "ja": "フーシ派がサウジアラビアのダーラン市にあるアラムコ本社ビルに対してミサイル攻撃を実施し、限定的な火災が発生した。",
+      "en": "Houthi forces attacked Aramco headquarters complex in Dhahran with a missile, causing a limited fire at the facility."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 26.2886,
+    "lon": 50.114,
+    "occurredAt": "2026-10-14T12:26:13+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "houthi_saudi_aramco_missile_dhahran_2026-10-14"
+  },
+  {
+    "id": "auto-9433",
+    "headline": {
+      "ja": "EUがウクライナに32億ドルの軍事支援を実施",
+      "en": "EU disburses $3.2B to Ukraine for military equipment"
+    },
+    "summary": {
+      "ja": "EUがウクライナに対して無人機、ミサイル、防空システムの取得資金として32億ドルを拠出した。",
+      "en": "The EU disbursed $3.2 billion to Ukraine for procurement of drones, missiles, and air defense systems."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-14T11:23:49+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS21pWDNJdFFUeXZoaVgzNnBrQTVhTUY2VUhmR1JHdU84WFEtV0Nxd0NWRl9xY3BwcFhhSnhqWGlfVmt6QW5QUk02QkY5UEU2ZHQ4dVhYZ2FOOHQzZV9mRXAydkRyV2xEQmMzNnJQMGthUFNWVEN5UDN4SjdYTWxkQ3hKN3BuRFZTWEJJWFl4Q0xxWW9BY2phc21BUFAyUi1FUzk5dVVn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "eu_ukraine_military_aid_3p2b_2026-10-14"
+  },
+  {
+    "id": "auto-9136",
+    "headline": {
+      "ja": "イスラエル軍の空爆でガザのパレスチナ女性が殺害",
+      "en": "Palestinian woman killed in Israeli air strike in Gaza City"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザシティで空爆を実施し、パレスチナ人女性が殺害された。幼い娘は火災から救出された。",
+      "en": "Israeli air strike in Gaza City killed a Palestinian woman. Her young daughter was rescued from a fire caused by the attack."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-14T10:08:49+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_city_airstrike_2026-10-14"
+  },
+  {
+    "id": "auto-9097",
+    "headline": {
+      "ja": "ウクライナ、ロシアに2026年最大級の無人機攻撃実施",
+      "en": "Ukraine conducts one of largest drone attacks on Russia in 2026"
+    },
+    "summary": {
+      "ja": "ウクライナがロシアに実施した無人機攻撃は、ロシア通信によると2026年で最も大規模なものの一つであった。",
+      "en": "Ukraine's drone attack on Russia was described by Russian state media as one of the largest in 2026."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-14T07:11:38+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqZmdDa01mSWVsUU5Ndk9xZUt1UU5YRXRsbWtyZUo2aXZEMlhSS0kwZm5zdUtILW9ITnBLOUxnU0M0enZscGJJ0gFMQVVfeXFMTkUxSzZyWkg0ZE51U1FVQkVpZ0R2ZVVybGhCa2MzN0dGQ2ZiYzRoNzh6bHZCb21qWThOOF9QY2dmY21rbW5zWThYMy1ybQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_attack_2026-10-14_massive",
+    "severity": 4
+  },
+  {
     "id": "auto-8812",
     "headline": {
       "ja": "ロシア、ウクライナ首都キーウへ大規模弾道ミサイル攻撃",
@@ -22,6 +115,29 @@
     "auto": true,
     "eventKey": "russia_ukraine_kyiv_missile_attack_2026-10-14",
     "severity": 4
+  },
+  {
+    "id": "auto-9036",
+    "headline": {
+      "ja": "イスラエル軍がレバノン南部を砲撃",
+      "en": "Israeli artillery shelling targets southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍がレバノン南部の複数地域に対して砲撃を実施した。",
+      "en": "Israeli forces conducted artillery strikes on multiple areas in southern Lebanon."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-14T06:47:27+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDRYVlo4QTdBWlI5cmNXUDQyZVBzYUdLUHItaWdheHZRWlhMYWZNV2lfNHJTa24xNDJKYVdGaFdqTUh2YWl2bXlPY3JUZmhZdjVuTjB4cjNsQWJBSW85T18tVmJzSzJFZUM0UUxEMjlRZlFMaEVKTzJwUUxnZVBvS20zc21MaFlfSTlkeTk1Nnk3QnVzeEZvQXB5WlRjOWF5Uy1hYzNRemtRaElHTjI4?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_south_artillery_2026-10-14"
   },
   {
     "id": "auto-8579",
