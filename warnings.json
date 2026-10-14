@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T15:38:15.551Z",
+  "generatedAt": "2026-10-14T16:36:06.764Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 201,
+  "count": 198,
   "warnings": [
     {
       "id": "NAVAREA11-260463",
@@ -1270,46 +1270,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263984&LANG=JP"
     },
     {
-      "id": "JAPANNW-263983",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3983",
-      "title": "大青群島付近（Ｄ−１３１）、射撃",
-      "publishedAt": "2026-10-09T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            124.06944444444444,
-            37.9
-          ],
-          [
-            124.06944444444444,
-            37.983333333333334
-          ],
-          [
-            124.63611111111112,
-            37.983333333333334
-          ],
-          [
-            124.70833333333334,
-            37.98916666666667
-          ],
-          [
-            124.70833333333334,
-            37.9
-          ],
-          [
-            124.63611111111112,
-            37.9
-          ]
-        ]
-      },
-      "rawText": "番号:26-3983   発表日時:2026年10月09日 20時\r\n\n\r\n★ 朝鮮半島西岸、大青群島付近、\r\r\n射撃、10月12日、14日毎日0900Z-1200Z、\r\r\n37-54-00N 124-04-10E 37-59-00N 124-04-10E\r\r\n37-59-00N 124-38-10E 37-59-21N 124-42-30E\r\r\n37-54-00N 124-42-30E 37-54-00N 124-38-10E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263983&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263982",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1790,24 +1750,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263950&LANG=JP"
     },
     {
-      "id": "JAPANNW-263949",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3949",
-      "title": "アデン海湾、被銃撃情報",
-      "publishedAt": "2026-10-08T08:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          43.2,
-          12.966666666666667
-        ]
-      },
-      "rawText": "番号:26-3949   発表日時:2026年10月08日 08時\r\n\n\r\n★ アデン海湾、\r\r\n被銃撃情報、10月7日0615Z、12-58N 043-12E付近、\r\r\nコンテナ船が、小型船から銃撃を受けた。小型船はその後、現場を離脱した。\r\r\n付近航行船舶は注意されたい。\r\r\n(3944削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263949&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263948",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1838,18 +1780,6 @@
       },
       "rawText": "番号:26-3948   発表日時:2026年10月08日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、10月10日、11日、13日-17日毎日0030Z-1030Z、\r\r\n(1)17-58.9N 084-11.7E 17-49.5N 083-59.6E\r\r\n   17-49.5N 084-15.7E 17-58.9N 084-27.3E、\r\r\n(2)17-25N 083-41E 17-14N 083-58E\r\r\n   17-31N 084-10E 17-42N 083-53E、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263948&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263947",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海洋施設",
-      "number": "3947",
-      "title": "インド西岸、掘削装置移設",
-      "publishedAt": "2026-10-08T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3947   発表日時:2026年10月08日 08時\r\n\n\r\n★ インド西岸、\r\r\n掘削装置(JINDAL SUPREME)移設、\r\r\n18-13.03N 070-44.14E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263947&LANG=JP"
     },
     {
       "id": "JAPANNW-263940",
