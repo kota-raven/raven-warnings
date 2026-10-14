@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-8579",
+    "headline": {
+      "ja": "サウジアラビア、フーシ派ミサイルを迎撃 リヤドなどを標的",
+      "en": "Saudi Arabia intercepts Houthi missiles targeting Riyadh and Dhahran"
+    },
+    "summary": {
+      "ja": "サウジアラビアはリヤドとダマム方面に飛来したミサイルを迎撃したと発表した。落下物により複数の被害が報告されている。",
+      "en": "Saudi Arabia intercepted missiles targeting Riyadh and Dhahran, with falling debris causing injuries."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-14T03:09:46+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_houthi_missile_2026-10-14"
+  },
+  {
+    "id": "auto-8582",
+    "headline": {
+      "ja": "キーウがロシアの弾道ミサイルで2日連続攻撃受ける 警告なし",
+      "en": "Kyiv hit by Russian ballistic missiles for second consecutive day without advance warning"
+    },
+    "summary": {
+      "ja": "ロシアの弾道ミサイルがキーウを2日連続で攻撃した。事前警告なしで発射されたと報道されている。",
+      "en": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-14T02:45:40+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_ballistic_missile_strike_2026-10-14"
+  },
+  {
     "id": "auto-7374",
     "headline": {
       "ja": "ロシア軍、キーウの主要発電所を弾道ミサイルで攻撃",
@@ -2066,28 +2112,5 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "yemen_taiz_houthis_202610"
-  },
-  {
-    "id": "auto-239",
-    "headline": {
-      "ja": "@rybarアカウントが、ウクライナの軍事・エネルギー施設への夜間攻撃があったと投稿",
-      "en": "@rybar account reports night attacks on Ukrainian military and energy facilities"
-    },
-    "summary": {
-      "ja": "@rybarのアカウントで、ロシア軍が7月7日夜間にウクライナの軍需産業施設とエネルギー施設に大規模な攻撃を行ったという投稿があった。",
-      "en": "The @rybar account posted that Russian forces conducted massive attacks on Ukrainian military-industrial and energy facilities during the night of October 7."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-07T07:33:59+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/83760"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_russian_attack_flamingo_facilities_2026-10-07"
   }
 ]
