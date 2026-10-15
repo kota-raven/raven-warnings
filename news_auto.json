@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-10885",
+    "headline": {
+      "ja": "北朝鮮が潜水艦発射ミサイルを試射",
+      "en": "North Korea tests submarine-launched missiles"
+    },
+    "summary": {
+      "ja": "北朝鮮は潜水艦から発射可能なミサイル2発の試射を実施。国営メディアは地域における抑止力を示すものと述べた。",
+      "en": "North Korea conducted tests of two submarine-launched missiles, which state media describes as demonstrating deterrent capabilities in the region."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-10-15T03:23:49+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_slbm_test_2026-10-15"
+  },
+  {
     "id": "auto-10263",
     "headline": {
       "ja": "北朝鮮、潜水艦発射戦略巡航ミサイル実験を実施",
@@ -2480,29 +2503,5 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_kyiv_drone_attack_blackout_2026-10-08"
-  },
-  {
-    "id": "auto-301",
-    "headline": {
-      "ja": "ガザ停戦下でも継続する民間人攻撃",
-      "en": "Gaza ceasefire nominal as Israeli strikes continue killing Palestinians"
-    },
-    "summary": {
-      "ja": "ガザではイスラエルの攻撃が停戦下でも継続しており、米国による終戦計画は大きく停滞している。多くのパレスチナ人は今も仮設テント都市での生活を強いられている。",
-      "en": "Despite the ceasefire, Israeli strikes continue in Gaza killing Palestinians, while the U.S. peace plan remains largely stalled with many living in tent camps."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-08T05:06:09+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_ceasefire_breakdown_202610",
-    "severity": 4
   }
 ]
