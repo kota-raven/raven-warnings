@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026-10-29-us-000012",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": null,
+    "position": {
+      "area": "日本西南部島嶼地域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国・日本軍による合同演習「キーン・ソード」(10月19-29日)。統合防空ミサイル防御、水上戦闘、水陸両用上陸、空挺作戦、島嶼配備・増援、実弾演習を実施",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/06/u-s-japanese-forces-to-rehearse-defense-of-japans-southwest-islands"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-14T21:21:55.191694+00:00",
+    "anomalyLevel": "none",
+    "anomalyNote": null,
+    "count": null,
+    "periodStart": "2026-10-19T00:00:00Z",
+    "periodEnd": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "2026-10-14-ph-000010",
+    "recordType": "aggregate",
+    "country": "PH",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": null,
+    "position": {
+      "area": "スカボロー・ショアル/セカンド・トーマス・ショアル/スプラトリー諸島/ルソン海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "フィリピン・中国軍による危機的な交戦が複数回発生。スカボロー・ショアル、セカンド・トーマス・ショアル、スプラトリー諸島、ルソン海峡で小型ボート・カッター・航空機による領土権の強化行動",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/09/philippine-and-chinese-incidents-spike-in-south-china-sea-luzon-strait"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-10-14T21:21:55.191694+00:00",
+    "anomalyLevel": "none",
+    "anomalyNote": null,
+    "count": null,
+    "periodStart": "2026-10-01T00:00:00Z",
+    "periodEnd": "2026-10-14T00:00:00Z"
+  },
+  {
     "id": "2026-10-10-gb-000003",
     "recordType": "individual",
     "country": "GB",
@@ -67,6 +119,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-08T15:15:00Z"
+  },
+  {
+    "id": "2026-10-08-us-000011",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Abraham Lincoln",
+    "shipNumber": "CVN-72",
+    "shipType": "carrier",
+    "position": {
+      "area": "サンディエゴ(カリフォルニア州)",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "ニミッツ級原子力空母「エイブラハム・リンカーン(CVN-72)」が約321日間、265日間連続海上での展開を終え、母港のサンディエゴのノース・アイランド海軍航空基地に帰港。エピック・フューリー作戦に参加していた",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/08/abraham-lincoln-carrier-strike-group-returns-to-san-diego-after-nearly-11-months"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-14T21:21:55.191694+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-08T15:15:00Z"
