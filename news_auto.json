@@ -1,26 +1,212 @@
 [
   {
-    "id": "auto-10885",
+    "id": "auto-11800",
     "headline": {
-      "ja": "北朝鮮が潜水艦発射ミサイルを試射",
-      "en": "North Korea tests submarine-launched missiles"
+      "ja": "ウクライナがイギリスからストームシャドウミサイルを追加供与",
+      "en": "Ukraine to receive additional batch of Storm Shadow cruise missiles from UK"
     },
     "summary": {
-      "ja": "北朝鮮は潜水艦から発射可能なミサイル2発の試射を実施。国営メディアは地域における抑止力を示すものと述べた。",
-      "en": "North Korea conducted tests of two submarine-launched missiles, which state media describes as demonstrating deterrent capabilities in the region."
+      "ja": "ウクライナがイギリスからストームシャドウ巡航ミサイルの追加供与を受けることになった。",
+      "en": "Ukraine will receive additional batch of Storm Shadow cruise missiles from the United Kingdom."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-15T18:19:13+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20524"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_storm_shadow_missiles_uk_2026-10-15"
+  },
+  {
+    "id": "auto-11799",
+    "headline": {
+      "ja": "フーシ派がアデンの大統領官邸をミサイル攻撃",
+      "en": "Houthi missile strike on Aden presidential residence"
+    },
+    "summary": {
+      "ja": "フーシ派がイエメンのアデンにあるアル・マーシク大統領官邸をミサイル攻撃したと報じられている。",
+      "en": "Houthi movement launched missile strike on Al-Maashiq presidential residence in Aden, Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-15T18:18:00+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20523"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "houthi_aden_palace_strike_2026-10-15"
+  },
+  {
+    "id": "auto-11797",
+    "headline": {
+      "ja": "ロシアがロストフ地域に無人機基地を建設中",
+      "en": "Russia building major new drone base in Rostov region"
+    },
+    "summary": {
+      "ja": "ロシアがロストフ地域にジェット動力無人機の新基地を建設中だと報じられている。",
+      "en": "Russia constructing major new base for jet-powered drones in Rostov region."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 47.4487,
+    "lon": 40.1097,
+    "occurredAt": "2026-10-15T17:52:45+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20521"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_drone_base_rostov_2026-10-15"
+  },
+  {
+    "id": "auto-11759",
+    "headline": {
+      "ja": "フーシ派がイエメン大統領宮殿をミサイル攻撃",
+      "en": "Houthis strike Yemen's presidential palace with missiles"
+    },
+    "summary": {
+      "ja": "フーシ派がイエメンのアデンにある大統領宮殿をミサイルで攻撃した。",
+      "en": "Houthi movement launched missile strike on Yemen's presidential palace in Aden."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-15T16:50:42+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "houthi_aden_presidential_palace_2026-10-15"
+  },
+  {
+    "id": "auto-11734",
+    "headline": {
+      "ja": "ドローン攻撃でタンカー炎上、ルーマニア沖で乗組員7人が行方不明",
+      "en": "Tanker ablaze after drone attack off Romania, seven crew missing"
+    },
+    "summary": {
+      "ja": "ブラック海でドローン攻撃によりタンカーが炎上し、捜索救難活動が行われている。乗組員7人が行方不明。",
+      "en": "Tanker caught fire following drone attack in Black Sea off Romania; seven crew members missing, search and rescue operation underway."
+    },
+    "category": "conflict",
+    "country": "ルーマニア",
+    "lat": 44.4323,
+    "lon": 26.1063,
+    "occurredAt": "2026-10-15T14:51:30+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "black_sea_tanker_drone_attack_romania_2026-10-15",
+    "severity": 4
+  },
+  {
+    "id": "auto-11527",
+    "headline": {
+      "ja": "ドイツ裁判所がイラン関連の暗殺計画容疑者に有罪判決",
+      "en": "German court convicts men over Iran-linked assassination plots"
+    },
+    "summary": {
+      "ja": "ドイツの裁判所がイラン関連の暗殺計画容疑で2名を懲役刑に処した。",
+      "en": "German court sentenced two men for alleged Iran-linked assassination plots."
+    },
+    "category": "conflict",
+    "country": "ドイツ",
+    "lat": 52.5244,
+    "lon": 13.4105,
+    "occurredAt": "2026-10-15T12:49:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWx2Y1g3RHo5ZUZtRTRWeTJVdDZoUmY1TkVvZFlnVGV2WnJFdk1YQWRsOW9uSUtWTGNSSlBrZ2lGU1hDdlFWSnV4NU95MkxhcERRbXJqTG0tNV94Z3QwR3VYbU9FYkhwVm5zY3JjRTJROXRvcXZRd2c0ZGtYSTlXQmlaUzduSXYyY3NORzhvLUpxQWx3X2lFLWdvMl9lRXNpOFZjUjNsS2I5UWw5c1E?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_assassination_plot_germany_2026-10-15"
+  },
+  {
+    "id": "auto-11793",
+    "headline": {
+      "ja": "北朝鮮が潜水艦発射型弾道ミサイルを試験発射",
+      "en": "North Korea conducts test firing of submarine-launched ballistic missiles"
+    },
+    "summary": {
+      "ja": "北朝鮮が2種類の戦略潜水艦発射型弾道ミサイル（SLBM）の試験発射を実施したと報じられている。",
+      "en": "North Korea conducted test firings of two distinct types of strategic submarine-launched ballistic missiles."
     },
     "category": "conflict",
     "country": "北朝鮮",
     "lat": 39.0339,
     "lon": 125.7543,
-    "occurredAt": "2026-10-15T03:23:49+00:00",
+    "occurredAt": "2026-10-15T10:47:35+00:00",
     "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss"
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20517"
     },
-    "reliability": "medium",
+    "reliability": "unconfirmed",
     "auto": true,
-    "eventKey": "north_korea_slbm_test_2026-10-15"
+    "eventKey": "north_korea_slbm_test_2026-10-15",
+    "severity": 4
+  },
+  {
+    "id": "auto-11851",
+    "headline": {
+      "ja": "イエメン軍がサウジタイフーン戦闘機を撃墜したと発表",
+      "en": "Yemen claims downing of Saudi Typhoon fighter jet"
+    },
+    "summary": {
+      "ja": "イエメン軍の報道官ヤヒヤ・サリーがサアダ州でサウジアラビアのタイフーン戦闘機を撃墜したと発表したとされている。",
+      "en": "Yemen's military spokesperson claims downing Saudi Typhoon fighter jet over Sa'ada province; Saudi-led coalition attacks escalating."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-15T08:03:57+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86293303/Yemen-says-it-downed-Saudi-Typhoon-fighter"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "yemen_saudi_typhoon_fighter_claim_2026-10-15"
+  },
+  {
+    "id": "auto-11884",
+    "headline": {
+      "ja": "韓国株式市場が8%以上下落でサーキットブレーカー発動",
+      "en": "South Korea's stock market triggers circuit breaker after 8% plunge"
+    },
+    "summary": {
+      "ja": "韓国のKOSPI・KOSDAQが8%以上の下落により取引一時停止（サーキットブレーカー）が発動した。",
+      "en": "South Korea's KOSPI and KOSDAQ stock indices plunged over 8 percent, triggering circuit breaker halt."
+    },
+    "category": "economy",
+    "country": "韓国",
+    "lat": 37.566,
+    "lon": 126.9784,
+    "occurredAt": "2026-10-15T03:50:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSXF3VXg2eklIRWxmYjBWUjB4ZUE5T0c1Y011aUlYZTdMUzI3eWZfSUQ3dkE4UDJvNDFGc0V5NVROOXhjSm9tQTdrWjhCRXUzZktJNi1wOHVxQUdGM0hoWGxPdE10Qm1NRDFBUUdXTmlaOXIyOFBtYUZqVEFkaW1WTHI5VUVfVkdYSXk1NQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "south_korea_stock_market_crash_2026-10-15"
   },
   {
     "id": "auto-10267",
@@ -2571,122 +2757,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_iran_alliance_202610"
-  },
-  {
-    "id": "auto-317",
-    "headline": {
-      "ja": "イエメン人道危機の悪化：5週間で20万人以上が避難",
-      "en": "Yemen's humanitarian crisis worsens with 200,000 displaced in five weeks"
-    },
-    "summary": {
-      "ja": "国連がイエメンの戦闘により5週間で20万人以上が避難したことを発表し、人道危機の深刻化を警告している。",
-      "en": "The UN reported that fighting has displaced over 200,000 people in Yemen in just five weeks, worsening the humanitarian crisis."
-    },
-    "category": "disaster",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-08T20:06:08+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_humanitarian_crisis_202610",
-    "severity": 4
-  },
-  {
-    "id": "auto-346",
-    "headline": {
-      "ja": "10月8日情勢まとめ：モンテネグロがロシア国民にビザを導入",
-      "en": "October 8 summary: Montenegro introduces visa requirements for Russian citizens"
-    },
-    "summary": {
-      "ja": "10月8日の日次ダイジェスト。モンテネグロが2026年11月1日からロシア、ベラルーシ、トルコの国民にビザ要件を導入する予定。",
-      "en": "October 8 summary noting Montenegro's introduction of visa requirements for Russian, Belarusian and Turkish citizens."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-08T18:59:35+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/83806"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "montenegro_visa_russia_belarus_turkey_2026-11"
-  },
-  {
-    "id": "auto-329",
-    "headline": {
-      "ja": "ハリケーン・イザイアスが米国湾岸に接近、危険な風と豪雨の警戒が必要",
-      "en": "Hurricane Isaias Approaches US Gulf Coast with Dangerous Winds and Heavy Rain Expected"
-    },
-    "summary": {
-      "ja": "2026年大西洋シーズン初のハリケーン・イザイアスが米国湾岸に接近中。フロリダ、アラバマ、ミシシッピへの上陸が予想されており、週末にかけて10インチ(約25cm)の降雨が予測されている。",
-      "en": "The first hurricane of the 2026 Atlantic season, Hurricane Isaias, is approaching the US Gulf Coast. A landfall in Florida, Alabama, and Mississippi is expected with rainfall of up to 10 inches forecast for the weekend."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-08T17:58:07+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_gulf_coast_landfall_2026-10-08"
-  },
-  {
-    "id": "auto-278",
-    "headline": {
-      "ja": "クラマトルスク地区バス攻撃で30人以上死亡",
-      "en": "Russian strike on buses in Kramatorsk kills at least 30"
-    },
-    "summary": {
-      "ja": "ウクライナ当局がクラマトルスク前線都市でロシアによるバス２台への攻撃があり、民間人30人以上が殺害されたと発表した。",
-      "en": "Ukrainian officials reported that Russian strikes targeted two crowded buses in the front-line city of Kramatorsk, killing at least 30 civilians."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-08T16:31:29+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_kramatorsk_bus_strike_202610",
-    "severity": 4
-  },
-  {
-    "id": "auto-337",
-    "headline": {
-      "ja": "@rybarアカウントが、ロシア軍によるウクライナ軍用ドローンによるキーウ攻撃と停電の発生を報告",
-      "en": "@rybar account reports Russian military's drone attacks on Kyiv and resulting blackouts"
-    },
-    "summary": {
-      "ja": "@rybarのアカウントで、ロシア軍による夜間のドローン攻撃がキーウ周辺に及んだと投稿。ウクライナでは送電停止(ブラックアウト)が再び発生しているという報告がされた。",
-      "en": "The @rybar account reported that Russian military drone attacks reached Kyiv and surrounding areas at night. Reports indicated that power outages (blackouts) have reoccurred in Ukraine."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-08T11:01:50+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/83793"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_kyiv_drone_attack_blackout_2026-10-08"
   }
 ]
