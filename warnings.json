@@ -1,8 +1,120 @@
 {
-  "generatedAt": "2026-10-15T11:32:55.924Z",
+  "generatedAt": "2026-10-15T12:40:47.405Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 198,
+  "count": 199,
   "warnings": [
+    {
+      "id": "NAVAREA11-260465",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0465",
+      "title": "北太平洋西部、ロケット（Ｈ３）打上げに伴う部品落下区域設定",
+      "publishedAt": "2026-10-15T21:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            140.5327777777778,
+            29.80888888888889
+          ],
+          [
+            140.87,
+            29.865000000000002
+          ],
+          [
+            143.6263888888889,
+            29.421666666666667
+          ],
+          [
+            143.8525,
+            29.296111111111113
+          ],
+          [
+            143.73444444444442,
+            28.561944444444446
+          ],
+          [
+            143.42666666666665,
+            28.495833333333334
+          ],
+          [
+            140.67999999999998,
+            28.923333333333336
+          ],
+          [
+            140.41472222222222,
+            29.06138888888889
+          ],
+          [
+            166.61972222222224,
+            24.889166666666664
+          ],
+          [
+            168,
+            24.542222222222225
+          ],
+          [
+            175.73333333333332,
+            21.324444444444445
+          ],
+          [
+            176.38833333333332,
+            20.925
+          ],
+          [
+            175.73,
+            19.342222222222222
+          ],
+          [
+            174.45,
+            19.647222222222222
+          ],
+          [
+            166.61638888888888,
+            22.893055555555556
+          ],
+          [
+            165.96666666666667,
+            23.304444444444446
+          ]
+        ]
+      },
+      "rawText": "NO.26-0465    発表日時:2026年10月15日 21時\r\n\n\r\nNORTH PACIFIC, WESTERN PART.\r\r\nROCKET, H3, LAUNCHING. ELEMENTS FALL\r\r\n191951Z TO 192013Z OCT, ALTERNATE \r\r\n1951Z TO 2013Z DAILY 20 OCT TO 06 NOV.\r\r\nAREAS BOUNDED BY \r\r\nA. 29-48-32N 140-31-58E\r\r\n   29-51-54N 140-52-12E\r\r\n   29-25-18N 143-37-35E\r\r\n   29-17-46N 143-51-09E\r\r\n   28-33-43N 143-44-04E\r\r\n   28-29-45N 143-25-36E\r\r\n   28-55-24N 140-40-48E\r\r\n   29-03-41N 140-24-53E.\r\r\nB. 24-53-21N 166-37-11E\r\r\n   24-32-32N 168-00-00E\r\r\n   21-19-28N 175-44-00E\r\r\n   20-55-30N 176-23-18E\r\r\n   19-20-32N 175-43-48E\r\r\n   19-38-50N 174-27-00E\r\r\n   22-53-35N 166-36-59E\r\r\n   23-18-16N 165-58-00E.\r\r\nCANCEL THIS MSG 062113Z NOV.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260465&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260464",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0464",
+      "title": "北太平洋、東カロリン諸島、海底線回収作業",
+      "publishedAt": "2026-10-15T21:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            149.66666666666666,
+            10.066666666666666
+          ],
+          [
+            150.38333333333333,
+            9.666666666666666
+          ],
+          [
+            150.66666666666666,
+            9.283333333333333
+          ],
+          [
+            150.71666666666667,
+            9.033333333333333
+          ]
+        ]
+      },
+      "rawText": "NO.26-0464    発表日時:2026年10月15日 21時\r\n\n\r\nNORTH PACIFIC, EAST CAROLINES.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK, 1008 TONS, 152000Z OCT TO\r\r\nUNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n10-04N 149-40E 09-40N 150-23E\r\r\n09-17N 150-40E 09-02N 150-43E.\r\r\nCANCEL 0433/26.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260464&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260463",
       "type": "NAVAREA11",
@@ -56,38 +168,6 @@
       "geometry": null,
       "rawText": "NO.26-0448    発表日時:2026年10月08日 12時\r\n\n\r\nTAIWAN STRAIT.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/S ILE DE RE UNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n24-04.12N 118-46.48E\r\r\n24-03.82N 118-46.95E\r\r\n23-51.56N 119-01.84E\r\r\n23-51.18N 119-02.22E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260448&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260433",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0433",
-      "title": "北太平洋、マリアナ諸島東南東、海底線回収作業",
-      "publishedAt": "2026-09-28T09:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            146.06666666666666,
-            11.866666666666667
-          ],
-          [
-            146.98333333333332,
-            11.216666666666667
-          ],
-          [
-            147.48333333333332,
-            11.3
-          ],
-          [
-            147.65,
-            11.166666666666666
-          ]
-        ]
-      },
-      "rawText": "NO.26-0433    発表日時:2026年09月28日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK, 1008 TONS, UNTIL FURTHER\r\r\nNOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n11-52N 146-04E 11-13N 146-59E\r\r\n11-18N 147-29E 11-10N 147-39E.\r\r\nCANCEL 0432/26.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260433&LANG=JP"
     },
     {
       "id": "NAVAREA11-260430",
@@ -3138,6 +3218,66 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261966",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1966",
+      "title": "本州東岸、日立港、灯台消灯、仮灯設置",
+      "publishedAt": "2026-10-15T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1966    発表日時:2026年10月15日 21時\r\n\n\r\n本州東岸、\r\r\n日立港沖防波堤南灯台(36-28.5N 140-38.2E、\r\r\n灯台表第1巻、1836)消灯、仮灯設置、\r\r\n単閃赤光6秒に1閃。\r\r\n(1959削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261966&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261965",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "1965",
+      "title": "阪神港−日ノ御埼西、起重機船えい航",
+      "publishedAt": "2026-10-15T21:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            135.35,
+            34.68333333333333
+          ],
+          [
+            135,
+            33.88333333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-1965    発表日時:2026年10月15日 21時\r\n\n\r\n阪神港-日ノ御埼西、\r\r\n曳船(明陽丸、MMSI 432579000)による起重機船\r\r\n(宏栄号、長さ63メートル)えい航、阪神港、尼崎西宮芦屋区\r\r\n(34-41N 135-21E)10月15日1800出港、\r\r\n友ケ島水道経由、日ノ御埼西(33-53N 135-00E)、\r\r\n16日0450通過予定、速力約5ノット、長さ340メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261965&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261964",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "1964",
+      "title": "日ノ御埼西−福山港、起重機船えい航",
+      "publishedAt": "2026-10-15T21:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            135,
+            33.88333333333333
+          ],
+          [
+            133.45,
+            34.416666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-1964    発表日時:2026年10月15日 21時\r\n\n\r\n日ノ御埼西-福山港、\r\r\nえい船(第82たけ丸、MMSI 431300812)による\r\r\n起重機船(富士、長さ105メートル)えい航、\r\r\n日ノ御埼西(33-53N 135-00E)、10月16日\r\r\n0140通過、友ケ島水道、明石海峡航路、備讃瀬戸東航路、\r\r\n備讃瀬戸北航路経由、福山港(34-25N 133-27E)、\r\r\n17日0900到着予定、速力約5ノット、\r\r\n長さ約264メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261964&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261963",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3292,42 +3432,6 @@
       "geometry": null,
       "rawText": "番号:26-1960    発表日時:2026年10月15日 13時\r\n\n\r\n釧路港南南東、\r\r\n射撃、10月20日(予備21日)0830-2400、\r\r\n42-39.1N 144-30.4Eを中心とする\r\r\n半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261960&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261959",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1959",
-      "title": "本州東岸、日立港、灯台消灯",
-      "publishedAt": "2026-10-14T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1959    発表日時:2026年10月14日 21時\r\n\n\r\n本州東岸、\r\r\n日立港沖防波堤南灯台(36-28.5N 140-38.2E、\r\r\n灯台表第1巻、1836)消灯。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261959&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261958",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1958",
-      "title": "潮岬西南西、射撃終了",
-      "publishedAt": "2026-10-14T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1958    発表日時:2026年10月14日 21時\r\n\n\r\n潮岬西南西、\r\r\n射撃終了。\r\r\n(1919削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261958&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261957",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1957",
-      "title": "潮岬南東、射撃終了",
-      "publishedAt": "2026-10-14T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1957    発表日時:2026年10月14日 21時\r\n\n\r\n潮岬南東、\r\r\n射撃終了。\r\r\n(1908削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261957&LANG=JP"
     },
     {
       "id": "NAVTEX-261955",
