@@ -23,6 +23,29 @@
     "eventKey": "north_korea_slbm_test_2026-10-15"
   },
   {
+    "id": "auto-10267",
+    "headline": {
+      "ja": "ウクライナが SpaceX による Starlink 軍事利用制限を訴える",
+      "en": "Ukraine says SpaceX restricts military Starlink services"
+    },
+    "summary": {
+      "ja": "ウクライナは SpaceX が軍事用 Starlink サービスの制限を行っており、ドローン作戦に支障が出ていると訴えている。",
+      "en": "Ukraine reports that SpaceX is restricting military Starlink services, disrupting drone operations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-15T02:18:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVNraVp0WlFQZnB4Q0VUQzktQTc4aEh6SS1felNyOWsyZWtaSGlDVHZ2MERrVnBFakJmSXluTEJYS1M5YU1TY0VQaDNQVWEyTDlkbm0xYnhYaFZ2Nkg1eXNweTAyc1lLbk14ei0tT2JNMnAtUm9YRUp3QXpROVBWdUl3OGlDdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_starlink_restriction_2026-10-15"
+  },
+  {
     "id": "auto-10263",
     "headline": {
       "ja": "北朝鮮、潜水艦発射戦略巡航ミサイル実験を実施",
@@ -92,6 +115,122 @@
     "eventKey": "yemen_houthis_saudi_fighter_jet_claim_2026-10-14"
   },
   {
+    "id": "auto-10216",
+    "headline": {
+      "ja": "イスラエルの小型ドローンが南レバノンの村を爆撃",
+      "en": "Israeli quadcopter drone drops bomb in southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエルの小型無人機が、南レバノンのジブキン村郊外を爆撃する映像が記録された。",
+      "en": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-14T20:47:46+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_drone_strike_2026-10-14"
+  },
+  {
+    "id": "auto-10217",
+    "headline": {
+      "ja": "米国政権による船舶攻撃でトリニダード人含む239人以上が死傷",
+      "en": "Trump administration kills 239 people in boat strikes"
+    },
+    "summary": {
+      "ja": "トランプ政権は、多くの者が政治的殺戮と非難する船舶攻撃で、トリニダード人を含む239人以上を殺傷した。遺族が責任追及を求めている。",
+      "en": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-14T20:42:59+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_trinidadian_boat_strike_deaths_2026-10-14"
+  },
+  {
+    "id": "auto-10223",
+    "headline": {
+      "ja": "フーシ攻撃がメッカ巡礼移動に支障",
+      "en": "Houthi attacks disrupt travel plans for Mecca pilgrims"
+    },
+    "summary": {
+      "ja": "フーシの攻撃により、ウムラ（メッカへの小巡礼）のためサウジアラビアへ向かうイスラム教徒の移動に混乱が生じている。",
+      "en": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions due to Houthi attacks."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-14T20:25:04+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_saudi_attacks_2026-10-14"
+  },
+  {
+    "id": "auto-10224",
+    "headline": {
+      "ja": "ロシアがウクライナ首都キーウを攻撃、情報漏洩の報告も",
+      "en": "Russia attacks Kyiv after reported intelligence lapse"
+    },
+    "summary": {
+      "ja": "ロシアがウクライナの首都キーウに攻撃を行った。ウクライナ側から情報セキュリティ上の問題が報告されている。",
+      "en": "Russia conducted an attack on Kyiv, Ukraine's capital, with reports of an intelligence breach on the Ukrainian side."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-14T20:14:57+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_russia_attack_2026-10-14",
+    "severity": 4
+  },
+  {
+    "id": "auto-10234",
+    "headline": {
+      "ja": "ロシアが新型ジェット推進ストライクドローン「Geran-6」を開発中",
+      "en": "Russia developing new jet-powered strike drone Geran-6"
+    },
+    "summary": {
+      "ja": "ロシアが新型ジェット推進ストライクドローン「Geran-6」の開発を進めており、大型弾頭搭載が予定されているとの報告がある。",
+      "en": "Russia is developing a new jet-powered strike drone called Geran-6 with expected warhead capacity."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-14T19:04:34+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20513"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_geran6_drone_development_2026-10-14"
+  },
+  {
     "id": "auto-10602",
     "headline": {
       "ja": "国連、ガザでのイスラエル空爆・砲撃・銃撃を報告",
@@ -136,6 +275,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_houthis_riyadh_airport_missile_attack_2026-10-14"
+  },
+  {
+    "id": "auto-10233",
+    "headline": {
+      "ja": "イランが米国との紛争再開に備え核施設を強化中との報告",
+      "en": "Iran fortifying nuclear facilities in anticipation of possible US conflict"
+    },
+    "summary": {
+      "ja": "イランが米国との可能性のある紛争に備えて、核施設の防御強化を進めているという情報がある。",
+      "en": "Iran is reportedly fortifying its nuclear facilities in preparation for potential conflict with the US."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-14T18:20:17+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20512"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "iran_nuclear_fortification_2026-10-14"
   },
   {
     "id": "auto-9719",
@@ -205,6 +367,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "houthi_saudi_aramco_missile_dhahran_2026-10-14"
+  },
+  {
+    "id": "auto-10245",
+    "headline": {
+      "ja": "ハイチが世界的に最も深刻な安全保障危機に直面",
+      "en": "Haiti living through one of world's most acute security crises"
+    },
+    "summary": {
+      "ja": "ハイチが世界的に最も深刻な安全保障危機に直面しており、武装勢力がポルトープランスや農村地域を支配し、殺傷・強姦・誘拐・恐喝を行っている。",
+      "en": "Haiti is facing one of the world's most acute security crises with armed gangs controlling Port-au-Prince and rural areas."
+    },
+    "category": "conflict",
+    "country": "ハイチ",
+    "lat": 18.5435,
+    "lon": -72.3388,
+    "occurredAt": "2026-10-14T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168598"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "haiti_armed_gangs_crisis_2026-10-14"
   },
   {
     "id": "auto-9433",
