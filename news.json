@@ -283,5 +283,27 @@
       "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-15-04",
+    "headline": {
+      "ja": "ホルムズ海峡でシンガポール船籍コンテナ船が沈没、乗員21人は全員避難",
+      "en": "Singapore-flagged container ship sinks near Strait of Hormuz; all 21 crew evacuated safely"
+    },
+    "summary": {
+      "ja": "シンガポール海事港湾庁(MPA)は、コンテナ船「GFSプライド」がホルムズ海峡航行中の10月13日に未確認の飛来物による損傷と火災を受け、その後沈没したと発表した。乗員21人全員が安全に避難し負傷者はいないという(シンガポール国籍者は乗船していなかった)。イラン革命防衛隊(IRGC)海軍は、同船が許可されていない航路を航行中に機雷に触れたと主張しているが、海事保安会社マリスクスは機雷による被害を示す独立した証拠はないとしている。国連国際海事機関(IMO)のデータによれば、本船は2月28日に始まった米・イラン間の戦争下でホルムズ海峡周辺で沈没した2隻目の船舶となる。同日には姉妹船「GFSジゼル」も未確認の飛来物を受けて船体が損傷したが、自力で安全な錨地に到達したという。[信頼性: 高](Bloomberg、Investing.com、gCaptain、WorldCargo News、India Shipping Newsなど複数の独立した報道が一致)",
+      "en": "Singapore's Maritime and Port Authority (MPA) said the container ship GFS Pride suffered damage and a fire after being struck by an unidentified projectile while transiting the Strait of Hormuz on October 13, and later sank. All 21 crew members were safely evacuated with no injuries reported; no Singaporean nationals were aboard. Iran's Islamic Revolutionary Guard Corps Navy (IRGC Navy) claimed the vessel struck a naval mine while using an unauthorized route, but maritime security firm Marisks said there is no independent evidence of a mine. According to International Maritime Organization (IMO) data, the GFS Pride is the second vessel to sink near the strait since the US-Iran war began on February 28. A sister ship, the GFS Giselle, sustained hull damage from an unidentified projectile the same day but reached a safe anchorage under its own power. [Reliability: High] (Consistently corroborated by independent reporting from Bloomberg, Investing.com, gCaptain, WorldCargo News and India Shipping News.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-10-13T00:00:00+00:00",
+    "source": {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire"
+    },
+    "reliability": "high"
   }
 ]
