@@ -1,5 +1,120 @@
 [
   {
+    "id": "auto-10263",
+    "headline": {
+      "ja": "北朝鮮、潜水艦発射戦略巡航ミサイル実験を実施",
+      "en": "DPRK test-fires submarine-launched strategic cruise missiles"
+    },
+    "summary": {
+      "ja": "北朝鮮が潜水艦から発射可能な戦略巡航ミサイルの実験を実施したと発表した。",
+      "en": "The DPRK announced the successful test-firing of submarine-launched strategic cruise missiles."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-10-15T01:16:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE1ON1V4bC1jUjRkeGdmcEgwSlZZZnB6aUdHSVJzX01yX01Uc3V2RjJ0akRTYzZzaW5jaFNTODU3RTdYMkJlLS1pMnBWSmN3LXVYaGxfZVBTeGl2R2ZoMEUtTkNxQXRTVTZvVlo4WGFRSGNJYTlGODQ1eHBvUG83YU13X1dfN01PS18yZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_submarine_cruise_missile_test_2026-10-15"
+  },
+  {
+    "id": "auto-10580",
+    "headline": {
+      "ja": "イスラエルが南レバノンに空爆、民間人2人が負傷",
+      "en": "Israeli airstrike injures 2, including child, in southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエルが南レバノンへの空爆を実施し、子どもを含む民間人2人が負傷した。",
+      "en": "An Israeli airstrike on southern Lebanon injured 2 civilians, including a child."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-14T23:16:56+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODItTG80R1V6NXRWMmJFeUppaEJNM1FYbTVDSXNLX1VrVi1PTzhVVVVNTzlDbU01NktjdXh1aXZaOGxvVUVUTVBhcFdWdDZMbmdCd3EwVlhadEpYTHVvSVIxZjd3NTBUc243VDh1RFhVbGxta1BmT0pMbWdvTnRUZUwyU2FCZ3d5eTVVNFpFRl9ueXVGV1Rta0E0cTdUX1JNeGZxNldDTWpfLVd2YWpXa0FTMEN5Z3JqaWZnbA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_southern_lebanon_airstrike_civilian_casualties_2026-10-14"
+  },
+  {
+    "id": "auto-10569",
+    "headline": {
+      "ja": "フーシ派、サウジアラビア戦闘機がイエメン北部上空で撃墜されたと主張",
+      "en": "Yemen's Houthis claim missile hit Saudi fighter jet over northern Yemen"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派がサウジアラビアの戦闘機がイエメン北部上空で撃墜されたと主張した。",
+      "en": "Yemen's Houthis claimed that a Saudi fighter jet was shot down over northern Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-14T22:52:02+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMHpqRzlsQW1mblFNazZ3LXlPVnQ3ejhuS20xRnF1QUN4TUM3OFJPQnNiUTNFclBrMmxmTjJCN0RhZ1B5NEh3TzV6dUNkejBNNnlySEN4SHRSbVN3UDFuMGN6R3ltSzFqSVM5S0JZS1Jpam5DdlFBbURDNEw4Ni1IQU8zb0NWaVVXUzBGQzhoU28yNElxVW4xYzhROHhpSWtLS2JGdXBvVjlYUWxwd1o5Vw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_fighter_jet_claim_2026-10-14"
+  },
+  {
+    "id": "auto-10602",
+    "headline": {
+      "ja": "国連、ガザでのイスラエル空爆・砲撃・銃撃を報告",
+      "en": "UN reports Israeli airstrikes, shelling and gunfire across Gaza"
+    },
+    "summary": {
+      "ja": "国連がガザ地区全域でのイスラエルによる空爆・砲撃・銃撃を報告した。",
+      "en": "The UN reported Israeli airstrikes, shelling, and gunfire across the Gaza Strip."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-14T19:00:05+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2TDBJcUJhb0k1VkQwdzhJYmhSMHBkRi1TQzZRVzBMcF93UEdDTVRCS3pxajAteldwWWlWRkozRjRaNEdtRHlhdnd2U19sSHlOMkcyaVpMQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_gaza_airstrikes_un_report_2026-10-14"
+  },
+  {
+    "id": "auto-10554",
+    "headline": {
+      "ja": "フーシ派、サウジアラビアのリヤド空港へのミサイル攻撃を主張",
+      "en": "Houthis claim ballistic missile strike on Riyadh airport"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派がサウジアラビアのリヤド空港に対する弾道ミサイル攻撃を実施したと主張した。",
+      "en": "Yemen's Houthis claimed to have conducted a ballistic missile strike on Riyadh airport in Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-14T18:46:34+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUxLcTRRMEN4aDNUME94WHNWemk1ZlVORDJtNjhsY0drcG9JZklBc09qUmdxQXFqNkY5eW9MaHpocktfdHo4VDJkUFhXR1JKdVpLc2FKMXlMd1FBakE1NVB2NXNpSmZDR0xaVlBGYS05WWJiTDJvVFd3QjhyZ3NsR05sVW52OWRVeUE1Rkk4X1NxOGNXUHNlLXVVTUxXTk9BQlY0?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_riyadh_airport_missile_attack_2026-10-14"
+  },
+  {
     "id": "auto-9719",
     "headline": {
       "ja": "ウクライナがスターリンク端末の調整を非難",
