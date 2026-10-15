@@ -261,5 +261,27 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-135249729.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-15-03",
+    "headline": {
+      "ja": "ガザ停戦「名ばかり」、人道・人権団体100超が共同声明 停戦後1年で死者1,500人超に",
+      "en": "Gaza ceasefire 'exists in name only', say 100+ rights groups; over 1,500 Palestinians killed since truce began a year ago"
+    },
+    "summary": {
+      "ja": "2025年10月10日発効のガザ停戦から1年となった10月9〜10日、アムネスティ・インターナショナル、セーブ・ザ・チルドレン、オックスファムなど人道・人権団体100超が共同声明を出し、イスラエル軍による攻撃・越境射撃が連日続き、支援物資や復旧資材の搬入制限も続いているとして、停戦は「名ばかり」だと指摘したという。声明によれば、停戦発効後の1年間でイスラエル軍の攻撃により子ども327人を含む1,400人超のパレスチナ人が死亡したとされ(ガザ保健当局の集計では1,481人)、アムネスティは説明責任を求めた。Al Jazeeraは10月14日時点の集計としてこの間の死者が1,501人に達したと報じ、ガザ市内での空爆も継続していると伝えた。[信頼性: 高](Al Jazeera、アムネスティ・インターナショナル公式発表、Common Dreams、JURIST等が一致して報道。ガザ保健当局発表の死者数はイスラエル側による独立検証はできていない)",
+      "en": "Around the one-year mark of the Gaza ceasefire that took effect on October 10, 2025, more than 100 humanitarian and human rights organizations — including Amnesty International, Save the Children, and Oxfam — issued a joint statement on October 9-10 saying the truce 'exists in name only,' citing daily Israeli strikes and gunfire along with continued restrictions on aid and reconstruction materials entering Gaza. The statement said Israeli attacks had killed more than 1,400 Palestinians, including at least 327 children, in the year since the deal (Gaza's Health Ministry put the toll at 1,481), and Amnesty called for accountability. Al Jazeera reported on October 14 that the cumulative toll since the ceasefire had reached 1,501, with air strikes in Gaza City continuing. [Reliability: High] (Consistently reported by Al Jazeera, Amnesty International's own statement, Common Dreams, and JURIST; the Gaza health authorities' death toll has not been independently verified by Israel.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ市",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-10-14T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city"
+    },
+    "reliability": "high"
   }
 ]
