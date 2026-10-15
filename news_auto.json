@@ -116,6 +116,29 @@
     "severity": 4
   },
   {
+    "id": "auto-11611",
+    "headline": {
+      "ja": "ロシア、イズマイル港への攻撃を発表",
+      "en": "Russia Claims Strike on Izmail Port Infrastructure"
+    },
+    "summary": {
+      "ja": "ロシア軍は、ウクライナ南部イズマイルの港湾インフラと黒海上の乾貨物船2隻を攻撃したと発表した。",
+      "en": "Russian military claims to have struck Izmail port infrastructure and two dry cargo ships in the Black Sea"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 45.3506,
+    "lon": 28.8375,
+    "occurredAt": "2026-10-15T13:27:11+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFWVlpMFdBUGZVc0FkczhPakszVWV0bW0xZS1BOExRYTI5M056WGV6cDd6bVcwRy1JNWxqNFFzci1JNDdqSjlz0gFMQVVfeXFMT0Q1U09Zb3J6Z1lJYVpRZjI5V0R5QXNuaHZPZlRzZmdmaGMtdlFyYnM5OEozTTl1SGY2NEJoYzk3ZUVfLWU1WXNCTWdVRg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_izmail_port_attack_2026-10-15"
+  },
+  {
     "id": "auto-11527",
     "headline": {
       "ja": "ドイツ裁判所がイラン関連の暗殺計画容疑者に有罪判決",
@@ -137,6 +160,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iran_assassination_plot_germany_2026-10-15"
+  },
+  {
+    "id": "auto-11632",
+    "headline": {
+      "ja": "ザポリージャ原発での一時停戦、設備修理のため宣言",
+      "en": "Ceasefire Declared at Zaporozhye Nuclear Power Plant for Equipment Repairs"
+    },
+    "summary": {
+      "ja": "ロシア国営原子力企業Rosatomのトップは、ザポリージャ原発での戦闘が一時停止され、設備修理が実施されていると発表した。",
+      "en": "Rosatom CEO announces ceasefire at Zaporozhye Thermal Power Plant to allow equipment repair"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.8517,
+    "lon": 35.1171,
+    "occurredAt": "2026-10-15T11:19:18+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OSWo4blIzclJXaXM1T1p2YmFhTDJIT1FpUXBKa1ltc0RCVzJWWEwxc0gzTkpONGhCVGd1WW04LTNXQ3F1?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_zaporozhye_power_plant_ceasefire_2026-10-15"
   },
   {
     "id": "auto-11793",
@@ -163,6 +209,52 @@
     "severity": 4
   },
   {
+    "id": "auto-11619",
+    "headline": {
+      "ja": "ロシア、2026年初頭からウクライナの発電所10施設以上を攻撃と報告",
+      "en": "Russia Reports Strikes on at Least Ten Ukrainian Power Plants Since Early 2026"
+    },
+    "summary": {
+      "ja": "ロシア政府は、2026年初頭以降、ウクライナの火力発電所および水力発電所少なくとも10施設を攻撃したと報告した。",
+      "en": "Russian government reports strikes on at least ten thermal and hydroelectric power plants in Ukraine since early 2026"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-15T09:35:53+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91WkpvbVM4NWdEeWxaYzhGbDZGZ0ZyX3lpU0hzU09hX2tVTmQydUlEcE00c1lEM1l0dW5FRVk2djlkVEtNaEoyZtIBTkFVX3lxTE94VUhtUGdwaENXUWR2STFIc1JiTHBxZEswZjZydjdvQ21OdzFoc3k1NHg3YzBEUlQtWW92TkxNMGR6aDd2aGFaM0hRVDhjdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_power_plants_attack_2026"
+  },
+  {
+    "id": "auto-11618",
+    "headline": {
+      "ja": "ロシア、リャザン州製油所火災、ウクライナ無人機166機撃墜と発表",
+      "en": "Russia Reports Oil Refinery Fire in Ryazan, Claims 166 Ukrainian Drones Downed"
+    },
+    "summary": {
+      "ja": "ロシア政府によると、リャザン州の製油所で火災が発生し、ロシア軍はウクライナの無人機166機を撃墜したと発表した。",
+      "en": "Russian government reports oil refinery fire in Ryazan Region and claims to have downed 166 Ukrainian drones overnight"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 54.627,
+    "lon": 39.7041,
+    "occurredAt": "2026-10-15T08:49:47+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3WGxUajJsQ0VQSnliclplanliTDVIY3VFZm9lSUFndVJhODFtaFYxVS1ObGVZWGxseUpPRXFYZ3pEUDY1U2s0ck5SbnHSAVJBVV95cUxNeUxtb2NWV3dET0pFNHJTMDU1NHhnZm8xTFN5blVLMFFFUGVBNXV0UXFTTV9QdW50LXp1ZHExZ1Z6U3FodHk2dzNEQ3FlSGd4SzlB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ryazan_refinery_fire_2026-10-15"
+  },
+  {
     "id": "auto-11851",
     "headline": {
       "ja": "イエメン軍がサウジタイフーン戦闘機を撃墜したと発表",
@@ -184,6 +276,29 @@
     "reliability": "low",
     "auto": true,
     "eventKey": "yemen_saudi_typhoon_fighter_claim_2026-10-15"
+  },
+  {
+    "id": "auto-11649",
+    "headline": {
+      "ja": "米ロディーゼル取引、制裁停止・解除の先例となりうる",
+      "en": "Russia-US Diesel Deal Could Set Precedent for Sanction Suspension or Removal"
+    },
+    "summary": {
+      "ja": "ロシア側は、米国とのディーゼル取引が国際制裁の停止または解除の先例となる可能性があると主張している。",
+      "en": "Russian analysis suggests US-Russia diesel deal could establish precedent for suspension or removal of sanctions"
+    },
+    "category": "economy",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-15T07:27:33+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1WHJTUUxlUW1JX1dlek03ZUhadEtMVXRwRVNqclh3cDhFUmhHcFo5dy1hWi1OenpSdUFsS0ttLXVHN09VR0xXSHJiSWbSAUxBVV95cUxQdVhyU1FMZVFtSV9XZXpNN2VIWnRLTFV0cEVTanJYd3A4RVJoR3BaOXctYVotTnp6UnVBbEtLbS11RzdPVUdMV0hyYklm?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_us_diesel_sanctions_precedent_2026"
   },
   {
     "id": "auto-11884",
