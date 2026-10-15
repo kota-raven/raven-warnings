@@ -1,92 +1,5 @@
 [
   {
-    "id": "2026-10-13-01",
-    "headline": {
-      "ja": "フーシ派、米国の参戦なら「迅速かつ痛烈な対応」と警告 サウジ石油施設・空港の従業員に退避呼びかけ",
-      "en": "Houthis warn of 'swift, painful response' if US joins war, tell workers at Saudi oil facilities and airports to evacuate"
-    },
-    "summary": {
-      "ja": "フーシ派政治局員ムハンマド・アル・ブハイティ氏は10月12日、AFPに対し、米国がイエメン内戦に参戦(フーシ派への直接攻撃)すれば、地域内の米国の権益全般を対象に「迅速かつ痛烈な対応」を取ると警告し、対応の是非を議論する余地はないと述べたという。同氏はさらに、サウジの石油関連施設および空港の従業員に対し、これらが「正当な標的」であるとして現場から退避するよう呼びかけたと複数メディアが一致して報じた。背景として、10/10のリヤド・キング・ハーリド国際空港攻撃(12人死亡・309人負傷、既報)以降、トランプ米大統領がフーシ派への米軍直接参戦を検討していると報じられている。石油施設への標的拡大を明言した点が新規。[信頼性: 高](The New Arab、Malay Mail、Aaj English TV等、AFP配信の複数メディアが同一の引用で一致して報道)",
-      "en": "Mohammed al-Bukhaiti, a member of the Houthi political bureau, told AFP on October 12 that if the US joins the war in Yemen by directly striking the Houthis, it would face a 'swift, painful response' targeting American interests across the region, adding there would be no deliberation over whether to respond. He also called on workers at Saudi oil facilities and airports to stay away from those sites, describing them as 'legitimate targets,' according to multiple outlets. The warning follows the October 10 attack on Riyadh's King Khalid International Airport (12 dead, 309 wounded, previously reported) and reports that President Trump is weighing direct US military action against the Houthis. The explicit extension of threats to oil facilities is new. [Reliability: High] (Consistently reported with the same quotes by AFP-syndicated outlets including The New Arab, Malay Mail, and Aaj English TV.)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 23.8859,
-    "lon": 45.0792,
-    "occurredAt": "2026-10-12T00:00:00+00:00",
-    "source": {
-      "name": "The New Arab(AFP配信)",
-      "url": "https://www.newarab.com/news/houthi-official-warns-swift-painful-response-if-us-enters"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-12-02",
-    "headline": {
-      "ja": "ノーベル経済学賞、米ホール氏・ウッドフォード氏に 景気循環の安定化モデルの基礎で",
-      "en": "Nobel Economics Prize awarded to Americans Hall and Woodford for foundations of business-cycle stabilization models"
-    },
-    "summary": {
-      "ja": "スウェーデン王立科学アカデミーは10月12日、2026年のノーベル経済学賞を、米スタンフォード大学のロバート・E・ホール氏と米コロンビア大学のマイケル・ウッドフォード氏の2人に授与すると発表した。個々の家計・企業の購買・価格設定行動の分析を、景気の好不況サイクルを安定化させる政策のマクロ経済モデル(いわゆる「ニューケインジアン」的手法)の基礎として確立した業績が評価された。選考委員長のヨン・ハスラー氏は、両氏の研究が各国の中央銀行・政府が現在使う経済安定化モデルに安定した理論的基盤を与えたと述べた。賞金は2人で1200万スウェーデンクローナ(約1.2億円相当)。[信頼性: 高](AP通信〈NBC News配信〉、CNBC、NPR、CNNが一致して報道)",
-      "en": "The Royal Swedish Academy of Sciences announced on October 12 that the 2026 Nobel Memorial Prize in Economic Sciences goes to Robert E. Hall of Stanford University and Michael Woodford of Columbia University, both American economists, for establishing the microeconomic foundations -- individual households' and firms' purchasing and pricing decisions -- of the macroeconomic models used to stabilize boom-bust business cycles, the basis of the 'New Keynesian' approach. Committee chair John Hassler said their work gave a stable theoretical foundation for the stabilization models now used by central banks and governments worldwide. The prize money, 12 million Swedish kronor (about $1.2 million), is shared between the two laureates. [Reliability: High] (Consistently reported by AP via NBC News, CNBC, NPR, and CNN.)"
-    },
-    "category": "economy",
-    "country": "スウェーデン",
-    "region": "ストックホルム",
-    "lat": 59.3293,
-    "lon": 18.0686,
-    "occurredAt": "2026-10-12T09:45:00+00:00",
-    "source": {
-      "name": "NBC News(AP通信配信)",
-      "url": "https://www.nbcnews.com/world/europe/americans-hall-woodford-win-2026-nobel-economics-prize-rcna602928"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-13-03",
-    "headline": {
-      "ja": "サウジ連合軍、リヤド・ハミス・ムシャイト目掛けたフーシ派弾道ミサイルを迎撃 空港閉鎖は17日まで延長",
-      "en": "Saudi-led coalition intercepts Houthi ballistic missiles aimed at Riyadh, Khamis Mushait; airport closure extended to Oct 17"
-    },
-    "summary": {
-      "ja": "サウジ主導連合軍報道官トゥルキー・アル・マリキ氏は10月12日(月)深夜、同日中にリヤド目掛けて発射されたフーシ派の弾道ミサイル1発、続いて南西部ハミス・ムシャイト目掛けて発射された弾道ミサイル2発を迎撃・撃破したとX(旧Twitter)で発表した。フーシ派報道官ヤヒヤ・サリア氏は、弾道ミサイルがリヤドのキング・ハーリド国際空港に直撃し、無人機がハミス・ムシャイトの空軍基地に命中したと主張したが、これを独立して裏付ける情報は確認できていない(フーシ派側の主張のみ)。サウジ民間航空総局は10月10日以降の一連の攻撃を受け、キング・ハーリド国際空港の閉鎖を10月17日21:00(UTC)まで延長したことが確認されており、ルフトハンザ・グループは10月16日まで、エールフランス-KLMは10月末までリヤド便の運休を発表している。トランプ米大統領はサウジ皇太子との電話協議後、フーシ派を「ひどく悪さをしている」と非難したと複数メディアが報じた。[信頼性: 高](Arab News、Times of Israel、Fox Newsが一致して報道。フーシ派による攻撃成功の主張部分は未確認)",
-      "en": "Saudi-led coalition spokesman Turki al-Maliki said on X late Monday, October 12, that coalition forces intercepted and destroyed a Houthi ballistic missile aimed at Riyadh earlier that day, and later two more ballistic missiles fired toward Khamis Mushait in southwestern Saudi Arabia. Houthi spokesman Yahya Saree claimed a ballistic missile had directly struck Riyadh's King Khalid International Airport and that a drone had hit an air base in Khamis Mushait, but these Houthi claims could not be independently verified. Saudi aviation authorities confirmed King Khalid International Airport's closure, in place since the October 10 attacks, has been extended through 21:00 UTC on October 17; Lufthansa Group has suspended Riyadh flights until October 16 and Air France-KLM until the end of October. President Trump, after a call with the Saudi crown prince, denounced the Houthis for \"misbehaving very badly,\" according to multiple outlets. [Reliability: High] (Consistently reported by Arab News, Times of Israel, and Fox News; the Houthi claims of successful strikes are unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "リヤド/ハミス・ムシャイト",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-12T20:00:00+00:00",
-    "source": {
-      "name": "Arab News",
-      "url": "https://www.arabnews.com/saudi-arabia/houthi-ballistic-missiles-targeting-riyadh-khamis-mushait-intercepted-3005280"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-13-04",
-    "headline": {
-      "ja": "仏スーパー数百店で「前例のない」サイバー攻撃 冷蔵設備が高温化し火災・食品廃棄 パリ検察が捜査",
-      "en": "'Unprecedented' cyberattack hits hundreds of French supermarkets, overheating refrigeration units, sparking fires and spoiling food; Paris prosecutor investigates"
-    },
-    "summary": {
-      "ja": "フランスの大手スーパーマーケットチェーン各社は、10月12日(日)夜から13日(月)にかけて、店舗の冷蔵・冷凍設備を標的にした「前例のない」規模のサイバー攻撃を受けたと発表した。影響を受けた冷蔵庫・冷凍庫の一部は最高50度まで温度が上昇し、火災や大量の食品廃棄につながったという。インターマルシェ(系列のネット含む)は少なくとも150〜300店舗規模、カルフールは80店舗、モノプリは全490店舗の約5%が影響を受けたと報告した。インターマルシェは影響を受けた店舗で生鮮・冷凍食品をすべて廃棄せざるを得なかったと説明している。パリ検察当局は「大規模」な攻撃だとして捜査を開始したと発表した。フランスのサイバーセキュリティ機関(ANSSI)は、業務用冷蔵システムを制御するダンフォス製機器の「多数の侵害」を把握しているとし、対象事業者にシステムのインターネット切断を指示した。ダンフォス社は、影響を受けた機器の大半が旧式製品、または古いファームウェアのまま稼働する現行製品だったとしている。攻撃の実行者は現時点で判明していない。[信頼性: 高](Al Jazeera、France 24、CBS Newsが一致して報道)",
-      "en": "Major French supermarket chains said they were hit by an \"unprecedented\" cyberattack targeting store refrigeration and freezer systems overnight from Sunday, October 12, into Monday, October 13. Affected units reportedly reached temperatures as high as 50°C, sparking fires and causing large quantities of food to be thrown out. Intermarché (including its Netto brand stores) reported roughly 150 to 300 affected outlets, Carrefour said 80 of its stores were hit, and Monoprix said about 5% of its roughly 490 stores were affected. Intermarché said affected branches had to discard all fresh and frozen products. The Paris prosecutor's office opened an investigation, describing the attack as \"large-scale.\" France's cybersecurity agency ANSSI said it was aware of \"numerous compromises\" of Danfoss-made commercial refrigeration control systems and told affected operators to disconnect them from the internet; Danfoss said most affected units were legacy products or current products running outdated firmware. Those responsible have not been identified. [Reliability: High] (Consistently reported by Al Jazeera, France 24, and CBS News.)"
-    },
-    "category": "disaster",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-12T22:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-13-05",
     "headline": {
       "ja": "サウジ主導連合、イエメンの首都サナアの石油施設周辺に作戦前の退避要求 フーシ派「リヤドへ痛烈な報復」警告",
@@ -303,6 +216,28 @@
     "source": {
       "name": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-16-01",
+    "headline": {
+      "ja": "ウクライナ、ロシアの石油精製施設への攻撃を再開 「エネルギー停戦」終了を表明、リャザン州の精油所を攻撃",
+      "en": "Ukraine resumes strikes on Russian oil refineries, declares 'energy ceasefire' over; drones hit refinery in Ryazan region"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領は、トランプ米大統領が10月11日に発表した「エネルギー停戦」をロシア側が履行せず、ロシア軍がその後もウクライナのエネルギー施設への攻撃を継続した(既報:id 2026-10-15-01)として、ウクライナ軍によるロシアの石油精製施設への攻撃を再開すると表明したという。英フィナンシャル・タイムズのインタビューでゼレンスキー氏は、米側の要請を受けてロシアのエネルギー関連施設への攻撃を3日間停止していたが、ロシア側が同様の対応を取らなかったため停戦は終了したと述べたという。これを受け、ウクライナ軍の無人機が10月15日未明(現地時間)、ロシア・リャザン州の石油精製施設を攻撃したと複数メディアが報じた。ゼレンスキー氏は、ロシアが追加の米国製パトリオット対空ミサイルを提供すれば攻撃停止を再検討する考えを示し、米側がロシアのエネルギー施設への攻撃を停止しなければ情報共有を停止する可能性を示したとも述べたという。[信頼性: 高](NPR〈ロイター通信配信〉、CNBC、CNNが一致して報道)",
+      "en": "President Zelenskyy said Ukraine would resume strikes on Russian oil refineries after Russia failed to honor the \"energy ceasefire\" President Trump announced on October 11 and continued striking Ukraine's own energy infrastructure (previously reported, id 2026-10-15-01). In an interview with the Financial Times, Zelenskyy said Ukraine had paused attacks on Russian energy facilities for three days at Washington's request, but ended the pause after Russia did not reciprocate. Multiple outlets reported that Ukrainian drones subsequently struck an oil refinery in Russia's Ryazan region in the early hours of October 15 local time. Zelenskyy reportedly said he would consider pausing strikes again if Ukraine received additional US-made Patriot air-defense interceptors, and said US officials had indicated Washington could cut intelligence sharing if Kyiv did not stop striking Russian energy facilities. [Reliability: High] (Consistently reported by NPR via Reuters, CNBC, and CNN.)"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "region": "リャザン州",
+    "lat": 54.6269,
+    "lon": 39.6916,
+    "occurredAt": "2026-10-15T01:00:00+00:00",
+    "source": {
+      "name": "NPR(ロイター通信配信)",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
     },
     "reliability": "high"
   }
