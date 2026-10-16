@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "2026-10-13-us-000015",
+    "recordType": "individual",
+    "country": "US",
+    "unitName": "4th Multi-Domain Task Force",
+    "unitNumber": null,
+    "unitType": "missile",
+    "position": {
+      "area": "Fort Carson, Colorado",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "U.S. Army activated 4th MDTF with ~2,100 personnel for Indo-Pacific operations, equipped with long-range missiles, EW, intelligence, and air defense units",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/13/u-s-army-stands-up-new-indo-pacific-task-force"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-13T17:41:19Z"
+  }
+]

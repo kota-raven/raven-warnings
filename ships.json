@@ -26,6 +26,152 @@
     "periodEnd": "2026-10-29T00:00:00Z"
   },
   {
+    "id": "2026-10-14-us-000023",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS John F. Kennedy",
+    "shipNumber": "CVN-79",
+    "shipType": "carrier",
+    "position": {
+      "area": "Testing facility",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "F-35C fighter landing on new carrier class for first time",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/video-f-35c-lands-on-new-navy-aircraft-carrier-class-for-first-time"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-14T20:06:45Z"
+  },
+  {
+    "id": "2026-10-14-cn-000017",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "遼寧",
+    "shipNumber": "16",
+    "shipType": "carrier",
+    "position": {
+      "area": "Philippine Sea (155 miles south of Ishigaki Island)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Carrier strike group drilling in Philippine Sea, launching and recovering aircraft",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-14T17:41:35Z"
+  },
+  {
+    "id": "2026-10-14-cn-000018",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "鞍山",
+    "shipNumber": "103",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea (155 miles south of Ishigaki Island)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Operating with Liaoning carrier strike group",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-14T17:41:35Z"
+  },
+  {
+    "id": "2026-10-14-cn-000019",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "烏海",
+    "shipNumber": "104",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea (155 miles south of Ishigaki Island)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Operating with Liaoning carrier strike group",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-14T17:41:35Z"
+  },
+  {
+    "id": "2026-10-14-cn-000020",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "淮陰",
+    "shipNumber": "123",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea (155 miles south of Ishigaki Island)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Operating with Liaoning carrier strike group",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-14T17:41:35Z"
+  },
+  {
+    "id": "2026-10-14-cn-000022",
+    "recordType": "aggregate",
+    "country": "CN",
+    "shipName": "遼寧",
+    "shipNumber": "16",
+    "shipType": "carrier",
+    "position": {
+      "area": "Miyako Strait",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "4 ships including carrier transiting Miyako Strait southeastward toward Pacific",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34460/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 4,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
     "id": "2026-10-14-ph-000010",
     "recordType": "aggregate",
     "country": "PH",
@@ -50,6 +196,102 @@
     "count": null,
     "periodStart": "2026-10-01T00:00:00Z",
     "periodEnd": "2026-10-14T00:00:00Z"
+  },
+  {
+    "id": "2026-10-13-us-000014",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Pacific Ocean (7th Fleet)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Carrier strike group transiting Pacific westward on deployment",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/13/usni-news-fleet-and-marine-tracker-oct-13-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-13T19:11:00Z"
+  },
+  {
+    "id": "2026-10-13-us-000013",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Tripoli",
+    "shipNumber": "LHA-7",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Sasebo, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "Amphibious ready group in port",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/13/usni-news-fleet-and-marine-tracker-oct-13-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-13T19:11:00Z"
+  },
+  {
+    "id": "2026-10-13-fr-000016",
+    "recordType": "individual",
+    "country": "FR",
+    "shipName": "French Navy",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Indian Ocean (450 nm south of Reunion)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "French Navy seized shadow fleet tanker MT DF Peak suspected of illicit fuel operations",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/13/french-navy-seizes-suspected-shadow-fleet-tanker-in-indian-ocean"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-13T16:01:52Z"
+  },
+  {
+    "id": "2026-10-13-au-000021",
+    "recordType": "individual",
+    "country": "AU",
+    "shipName": "HMAS Stuart",
+    "shipNumber": "FFH-153",
+    "shipType": "frigate",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "Anzac-class frigate port visit to Yokosuka",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34458/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-13T00:00:00Z"
   },
   {
     "id": "2026-10-10-gb-000003",
