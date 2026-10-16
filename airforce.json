@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-10-16-fr-000032",
+    "recordType": "aggregate",
+    "country": "FR",
+    "unitName": "Falcon 50M",
+    "unitNumber": null,
+    "aircraftType": "reconnaissance",
+    "position": {
+      "area": "Kadena, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "フランス海軍がFalcon 50M哨戒機を嘉手納に派遣。11月上旬までの予定で北朝鮮への瀬取り監視活動を実施。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34446/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
     "id": "2026-10-13-fr-000009",
     "recordType": "individual",
     "country": "FR",

@@ -26,6 +26,200 @@
     "periodEnd": "2026-10-29T00:00:00Z"
   },
   {
+    "id": "2026-10-16-us-000029",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "USS Theodore Roosevelt打撃群がYokosuka海軍施設に入港。Keen Sword 27演習への参加を予定。定期メンテナンスと補給を実施。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/16/carrier-uss-theodore-roosevelt-arrives-in-japan-ahead-of-keen-sword-exercise"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:20:00Z"
+  },
+  {
+    "id": "2026-10-16-us-000030",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Chosin",
+    "shipNumber": "CG-65",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Theodore Roosevelt CSGに同行する巡洋艦",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/16/carrier-uss-theodore-roosevelt-arrives-in-japan-ahead-of-keen-sword-exercise"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:20:00Z"
+  },
+  {
+    "id": "2026-10-16-us-000031",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Decatur",
+    "shipNumber": "DDG-73",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Theodore Roosevelt CSGに同行する駆逐艦",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/16/carrier-uss-theodore-roosevelt-arrives-in-japan-ahead-of-keen-sword-exercise"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:20:00Z"
+  },
+  {
+    "id": "2026-10-16-kp-000024",
+    "recordType": "aggregate",
+    "country": "KP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "Sea of Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "北朝鮮のミサイル管理部が2種類の潜水艦発射戦略巡航ミサイルのテストを実施。テスト発射は約3年ぶり。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/15/north-korea-tests-first-submarine-launched-cruise-missile-in-nearly-3-years"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 2,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
+    "id": "2026-10-15-cn-000026",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Anshan",
+    "shipNumber": "103",
+    "shipType": "frigate",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "遼寧CSGに同行する巡洋艦",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
+    "id": "2026-10-15-cn-000027",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Wuxi",
+    "shipNumber": "104",
+    "shipType": "frigate",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "遼寧CSGに同行する巡洋艦",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
+    "id": "2026-10-15-cn-000028",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Huainen",
+    "shipNumber": "123",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "遼寧CSGに同行する駆逐艦",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
+    "id": "2026-10-15-cn-000025",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Liaoning",
+    "shipNumber": "16",
+    "shipType": "carrier",
+    "position": {
+      "area": "Philippine Sea, 155nm south of Ishigaki Island",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍遼寧(CV-16)が駆逐艦1隻と巡洋艦2隻を伴い、フィリピン海で訓練を実施。戦闘機10機のテイクオフとランディングを実施後、南シナ海へ向かう。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
     "id": "2026-10-14-us-000023",
     "recordType": "individual",
     "country": "US",
