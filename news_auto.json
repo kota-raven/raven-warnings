@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-12266",
+    "headline": {
+      "ja": "フーシ派がイエメン大統領府にミサイル攻撃、5人死亡",
+      "en": "Houthi missile attack on Yemeni presidential palace kills five"
+    },
+    "summary": {
+      "ja": "イエメンの有力派閥フーシ派がアデンの大統領府アル・マアシク宮殿にミサイル攻撃を実施し、少なくとも5人が死亡した。",
+      "en": "Yemen's Houthi group launched a ballistic missile attack on al-Maashiq Palace in Aden, killing at least five people."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-15T23:38:46+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_aden_presidential_palace_houthi_attack_2026-10-15"
+  },
+  {
+    "id": "auto-12672",
+    "headline": {
+      "ja": "黒海での商船無人機攻撃をフランス外務省が報告",
+      "en": "France's Ministry of Europe and Foreign Affairs reports drone attacks on commercial ships in Black Sea"
+    },
+    "summary": {
+      "ja": "フランス外務省は、黒海における商用船舶への無人機攻撃について公式に報告した。",
+      "en": "France's Ministry of Europe and Foreign Affairs issued an official report on drone attacks targeting commercial vessels in the Black Sea."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-15T20:42:24+00:00",
+    "source": {
+      "name": "フランス 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEZ6T0d2UFdzVEFkWnplckRNUTJVdXFmWEgxWWhTSTNIZTNUVUpRbGhIWnNJSUhSanJ4NEl6WFkyVy12eU9aSkJqYmhPaW5XZ2IzYXA5d0JGOXpOODE4anVhS3VxMjNIQkRJQUo3OWN3Vm5sWExfZjgtNThadGg4b3ZSRVk5OUJFcjlhaUoxbUY0N05EMmpXM0w1U3ZqakxCU09QTUdxc1NlY2d5blJSWldudHl3d2xhdEhXUUxUS2E3RmEwRzJyTG9DbU4zdU0wR1ZCbUpVQ01KUFktaHUzVA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "black_sea_merchant_ship_drone_attack_2026-10-15"
+  },
+  {
     "id": "auto-11800",
     "headline": {
       "ja": "ウクライナがイギリスからストームシャドウミサイルを追加供与",
@@ -2778,99 +2824,5 @@
     "auto": true,
     "eventKey": "iran_us_military_campaign_plan_2026-10",
     "severity": 4
-  },
-  {
-    "id": "auto-369",
-    "headline": {
-      "ja": "イスラエルの空爆がガザのアルサブラ地区を襲撃、複数の民間人が死亡",
-      "en": "Israeli Air Strike Hits Al-Sabra Neighborhood in Gaza City, Multiple Civilian Deaths"
-    },
-    "summary": {
-      "ja": "イスラエル軍がガザ市アルサブラ地区の建物を空爆。子どもを含む複数の民間人が犠牲となった。遺族の証言が報道されている。",
-      "en": "Israeli military conducted an air strike on a building in the al-Sabra neighborhood of Gaza City. Multiple civilians, including children, were killed. Family members have testified to the incident."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-09T00:12:18+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_gaza_israeli_airstrike_al_sabra_2026-10-09",
-    "severity": 4
-  },
-  {
-    "id": "auto-470",
-    "headline": {
-      "ja": "モナコ爆弾事件の容疑者がBBCにインタビュー",
-      "en": "Suspect in Monaco bomb attack speaks to BBC"
-    },
-    "summary": {
-      "ja": "ウクライナ系実業家ヴァディム・イェルモラエフへの暗殺未遂事件でモナコで逮捕されたヴィタリー・ジコビッチが、BBC のインタビューで事件についての独自の証言を述べた。",
-      "en": "Vitalii Zhykovych, arrested in Monaco in connection with an attempted assassination of Ukrainian businessman Vadym Yermolayev, gave his account of the incident in a BBC interview."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-08T23:11:10+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_businessman_monaco_bomb_assassination_2026-10"
-  },
-  {
-    "id": "auto-306",
-    "headline": {
-      "ja": "ガザでのパレスチナ人死傷率：停戦下で90分ごと",
-      "en": "Israel kills or wounds Palestinian every 90 minutes in Gaza"
-    },
-    "summary": {
-      "ja": "Al Jazeera報道によると、停戦下のガザではイスラエルの攻撃によって平均90分ごとにパレスチナ人が殺傷されており、人道状況が悪化している。",
-      "en": "Al Jazeera reported that Israel kills or wounds a Palestinian every 90 minutes in Gaza since the ceasefire, worsening humanitarian conditions."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-08T22:54:23+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_killing_rate_202610",
-    "severity": 4
-  },
-  {
-    "id": "auto-307",
-    "headline": {
-      "ja": "プーチン大統領がイランへの米国主導の戦争終結を支持",
-      "en": "Putin pledges Russia's support to end US-led war on Iran"
-    },
-    "summary": {
-      "ja": "ロシア・イラン両大統領がトルクメニスタンで開催された地域サミットの前に会談し、プーチンがイランへの米国主導の戦争終結を支持することを表明した。",
-      "en": "Putin pledged Russia's support to end US-led military actions against Iran during a meeting with Iran's president in Turkmenistan."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-08T22:30:37+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_iran_alliance_202610"
   }
 ]
