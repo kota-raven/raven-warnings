@@ -240,5 +240,26 @@
       "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-16-02",
+    "headline": {
+      "ja": "原油価格小幅下落、米政権による「影の船団」制裁緩和検討が重し ブレント105ドル台・WTI97ドル台",
+      "en": "Oil prices edge down as Trump administration weighs easing 'shadow fleet' sanctions; Brent near $105, WTI near $97"
+    },
+    "summary": {
+      "ja": "10月16日(金)朝の原油先物市場で、ブレント原油は1バレル105.51ドル(前日比0.39%安)、WTI原油は97.43ドル(同0.55%安)で取引されたと報じられたという。米政権当局者は10月15日(水)、ロシア・イラン・ベネズエラ産原油を運ぶ「シャドーフリート(影の船団)」タンカーの一部への制裁解除を検討していると明らかにしたとされ、記録的高水準にある運賃(フレート・レート)の緩和を狙っているという。これに先立ちトランプ大統領はロシア産ディーゼル燃料への制裁を一時的に解除しており、ゼレンスキー大統領・欧州各国・一部の共和党議員から批判を受けたという。サウジアラビアとイエメン・フーシ派の衝突激化やホルムズ海峡での船舶への攻撃は、依然価格を支える要因になっているという。国際エネルギー機関(IEA)は10月15日、ディーゼル需給の引き締まりに対応するため加盟国が2,000万バレル超のディーゼルを「可能な限り速やかに」放出することに合意したと発表したという。[信頼性: 中](CNBC。シャドーフリート制裁緩和の検討については匿名の米政権当局者の発言を引用した単独ソースの報道で、他の大手通信社による裏付けは確認できていない。IEAのディーゼル放出合意は同機関自身の発表に基づく)",
+      "en": "In early trading Friday, October 16, Brent crude was reported at $105.51 a barrel (down 0.39% from the prior session) and WTI at $97.43 (down 0.55%). A US administration official reportedly said on October 15 that Washington is weighing lifting sanctions on some 'shadow fleet' tankers carrying Russian, Iranian and Venezuelan oil, aiming to ease record-high freight rates. The move follows Trump's earlier temporary lifting of sanctions on Russian diesel, which drew criticism from President Zelenskyy, European governments and some Republican lawmakers. Escalating Saudi-Houthi clashes and attacks on ships in the Strait of Hormuz reportedly remain a price-supporting factor. The IEA said on October 15 that member countries agreed to release more than 20 million barrels of diesel 'as soon as possible' to address tightening supply. [Reliability: Medium] (CNBC; the shadow-fleet sanctions report cites a single anonymous US official and has not been independently corroborated by other major wire services. The IEA diesel release is based on the agency's own announcement.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-16T00:12:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet.html"
+    },
+    "reliability": "medium"
   }
 ]
