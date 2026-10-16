@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-13222",
+    "headline": {
+      "ja": "ロシア・カムチャッカでマグニチュード6.9の地震",
+      "en": "6.9-magnitude earthquake strikes Russia's Kamchatka"
+    },
+    "summary": {
+      "ja": "ロシアのカムチャッカ地域でマグニチュード6.9の地震が発生した。",
+      "en": "A magnitude 6.9 earthquake struck Russia's Kamchatka region."
+    },
+    "category": "disaster",
+    "country": "ロシア",
+    "lat": 53.2441,
+    "lon": 158.6522,
+    "occurredAt": "2026-10-16T05:54:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzB1NEdRNEctU1pmQnd1MDBnanR4eF9odWZKM0FpR2ZoRVlyaU14cVZkSnJOX2xGWmpTVVdnOUlKTnpxV1ZwY2t3eHc4cGVmMDhZOVdpanNJbXNfb3pkYkhibHkzaWYwbTlLTFhBRVBRM2czakhfV195Umh3V3BRVXJMVm80UQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_kamchatka_earthquake_2026-10-16"
+  },
+  {
     "id": "auto-12266",
     "headline": {
       "ja": "フーシ派がイエメン大統領府にミサイル攻撃、5人死亡",
@@ -2800,29 +2823,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_drone_attacks_russia_infrastructure_2026-10-09"
-  },
-  {
-    "id": "auto-477",
-    "headline": {
-      "ja": "米防省がイラン軍事作戦計画を準備中という投稿",
-      "en": "Telegram post claims US Pentagon preparing Iran military campaign"
-    },
-    "summary": {
-      "ja": "米国防省がイランに対する3日間の軍事キャンペーン計画を立案しているという投稿が Telegram に上がった。対象はミサイル・ドローン能力、エネルギーインフラ、軍事施設とされている。",
-      "en": "A Telegram post claimed that the US Pentagon is preparing plans for a three-day military campaign against Iran, targeting missile and drone capabilities, energy infrastructure, and military sites."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-09T06:59:44+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20463"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "iran_us_military_campaign_plan_2026-10",
-    "severity": 4
   }
 ]
