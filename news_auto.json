@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-13521",
+    "headline": {
+      "ja": "トランプ大統領、イラン攻撃に核兵器使用を除外",
+      "en": "Trump rules out using nuclear bomb on Iran"
+    },
+    "summary": {
+      "ja": "米国大統領が、イラン関連の軍事行動において核兵器の使用を除外すると述べた。ただし、従来型の大規模爆弾（MOAB）の使用は否定していない。",
+      "en": "The U.S. president stated that nuclear weapons would not be used in military operations against Iran, though he did not rule out other large conventional weapons."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-16T10:21:12+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_us_nuclear_escalation_2026-10-16"
+  },
+  {
+    "id": "auto-13972",
+    "headline": {
+      "ja": "米退役将軍がイラン有事での防空能力不足を警告",
+      "en": "Ousted U.S. general warned of missile defense shortages for Iran conflict"
+    },
+    "summary": {
+      "ja": "米国の退役将軍がイラン戦争に備えた防空システムの不足が2030年まで継続すると警告した報告書が公開された。",
+      "en": "A report revealed that a retired U.S. general warned of significant missile defense shortages that would persist until 2030 in preparation for potential Iran conflict."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-16T06:27:05+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMVd5LWZzSlNfcXNBV01KeFhFRGpvZExJLVUtMTYwZExGVkc0Qzl1Y05hZDRoZE9leDJwRXRlLW1LOFlxOTFQUm9BczFoMjIxVG14UmxVRFAybElBaUpMbFRfOUdQdHowdEEtdmJzVUtQT21qMWJlVlFOSmxGbEFhRmFfT19rOE8yeHQ0TEdZRU40MVJ1cHc3c05vWm1hWkFKeVJFUFR1bTRpMkhuREk4eks3V1lJaW9qVG8xZEN5RmJid3puclNNWThERU45ZXQ1dFBN?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_us_missile_defense_2026-10-16"
+  },
+  {
     "id": "auto-13222",
     "headline": {
       "ja": "ロシア・カムチャッカでマグニチュード6.9の地震",
@@ -44,6 +90,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "istanbul_flash_floods_2026-10-16"
+  },
+  {
+    "id": "auto-13443",
+    "headline": {
+      "ja": "ガザ停戦中にイスラエルが民間住宅に空爆",
+      "en": "Israeli airstrikes target civilian homes in Gaza despite ceasefire"
+    },
+    "summary": {
+      "ja": "ガザ地区マガジー難民キャンプの2軒の民宅がイスラエルの空爆の対象となった。停戦合意中の軍事行動として注視される。",
+      "en": "Two civilian homes in Gaza's Maghazi refugee camp were targeted by Israeli airstrikes during the ceasefire period."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-16T02:06:48+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmlwTUxxdHpYd0x1VkMzeDdnZWE2SVBGbFBaZUVfN00wQzFmUjd4VnFFTHFrTE5FVHpWSHk4cFZ6OHE1MHEwazFZeFFJLUM4TFRGc3poSlZGejhiS05VWldHbEpKT2poR0w5cDhTcG9EQThpazVOcWRCd2NDTUhJRjZiX0p3bktaUERVeXBmS1NUNXZIOTVEalc1WUJMQkx5M1NTemRaNXJMREozTnVxMTdPbFF6TGs1OG1lRkFxRTNmSlpQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israel_airstrike_ceasefire_2026-10-16"
   },
   {
     "id": "auto-12266",
@@ -2824,74 +2893,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_energy_infrastructure_damage_2026-10"
-  },
-  {
-    "id": "auto-1562",
-    "headline": {
-      "ja": "イスラエル、枠組み合意にもかかわらず南レバノンへの砲撃と空爆を実施",
-      "en": "Israeli Artillery and Airstrikes Target Southern Lebanon Despite Framework Deal"
-    },
-    "summary": {
-      "ja": "イスラエル軍が枠組み合意にもかかわらず、南レバノンへの砲撃と空爆を実施していると報じられた。",
-      "en": "Israeli forces have been conducting artillery strikes and airstrikes against southern Lebanon despite a framework agreement."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-09T14:02:30+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlY1M1ZlNzhkMHEyQ05KY2p3ZDktZDZxMEpaZEt2d3k3OWVteDNGRjJyMlRXZlpPQThteXh3Q1pSdEZydFdibTFSQnd6c2JYa1dYcFVUZW80R2FMdV9XMWhybTZHY3RiWkJwaVlDSDNGVWc4aUIyb3ZhUFM2Q29SV3RjVGpDN2ZrR2hnY3J5YUQ1MktKRGlvb0w1V0hwMjFKN0xScFpZbi0teGktbDlyc2lCMlNpLVhLbGp6OA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_airstrikes_2026-10-09"
-  },
-  {
-    "id": "auto-541",
-    "headline": {
-      "ja": "フーシ派のミサイル攻撃、リヤド空港でサウジ国民3人殺害",
-      "en": "Three Saudi nationals killed in Houthi missile attacks on Riyadh airport"
-    },
-    "summary": {
-      "ja": "イラン支援のフーシ派がリヤド空港へミサイル攻撃を実施し、サウジ国民3人が殺害された。サウジアラビアとフーシ派の間の軍事紛争の激化を示す事例。",
-      "en": "Three Saudi nationals were killed in missile attacks by Houthi forces on Riyadh airport, marking an escalation in military tensions between Iran-backed Houthis and Saudi Arabia."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-09T13:50:25+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_houthi_missile_attack_2026-10-09"
-  },
-  {
-    "id": "auto-533",
-    "headline": {
-      "ja": "ウクライナがロシアのAIデータインフラを標的に",
-      "en": "Ukraine targets Russia's AI data infrastructure with drone attacks"
-    },
-    "summary": {
-      "ja": "ウクライナはドローン攻撃によってロシアの大手デジタル企業ヤンデックスや精密兵器工場、石油精製所を集中的に標的にしている。",
-      "en": "Ukraine is conducting drone attacks on Russian digital infrastructure including tech giant Yandex, missile manufacturing plants, and oil refineries."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-09T13:01:57+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_drone_attacks_russia_infrastructure_2026-10-09"
   }
 ]
