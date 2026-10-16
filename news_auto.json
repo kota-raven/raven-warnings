@@ -23,6 +23,29 @@
     "eventKey": "russia_kamchatka_earthquake_2026-10-16"
   },
   {
+    "id": "auto-12327",
+    "headline": {
+      "ja": "トルコ・イスタンブールの豪雨で3人死亡、5人行方不明",
+      "en": "3 killed, 5 missing in Istanbul flash floods"
+    },
+    "summary": {
+      "ja": "トルコのイスタンブール市が豪雨に見舞われ、3人が死亡、5人が行方不明となった。",
+      "en": "Flash floods in Istanbul, Turkey resulted in 3 deaths and 5 people missing."
+    },
+    "category": "disaster",
+    "country": "トルコ",
+    "lat": 41.0138,
+    "lon": 28.9497,
+    "occurredAt": "2026-10-16T02:12:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DaWh0M1IycnRNR2hrU1ZyRXRHM0F4WVA1Y0ktczFWN2hVaTk0a1ZUUkk0ZkhGYzdLc2FoWXRJNzhhUjEtNTAyNkVVNDFpamtiaXc5YXBBUnBHblRyZWxXVW9QdFdmTzdkbHlhZjhfdlRvbjZpdFJSY0FRZ3U?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "istanbul_flash_floods_2026-10-16"
+  },
+  {
     "id": "auto-12266",
     "headline": {
       "ja": "フーシ派がイエメン大統領府にミサイル攻撃、5人死亡",
@@ -46,6 +69,30 @@
     "eventKey": "yemen_aden_presidential_palace_houthi_attack_2026-10-15"
   },
   {
+    "id": "auto-12283",
+    "headline": {
+      "ja": "米オレゴン州で学校銃撃、4人死亡",
+      "en": "Three children and one teacher killed in Oregon school shooting"
+    },
+    "summary": {
+      "ja": "米オレゴン州ベンド市で学校銃撃事件が発生。16歳の容疑者が3人の児童と1人の教員を殺害し、学校にいた市民に射殺された。",
+      "en": "A school shooting occurred in Bend, Oregon. A 16-year-old shooter killed three children and one teacher before being killed by a bystander at the school."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 44.0582,
+    "lon": -121.3153,
+    "occurredAt": "2026-10-15T22:51:56+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "bend_oregon_school_shooting_2026-10-15",
+    "severity": 4
+  },
+  {
     "id": "auto-12672",
     "headline": {
       "ja": "黒海での商船無人機攻撃をフランス外務省が報告",
@@ -67,6 +114,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "black_sea_merchant_ship_drone_attack_2026-10-15"
+  },
+  {
+    "id": "auto-12330",
+    "headline": {
+      "ja": "メキシコ北西部、熱帯低気圧レイチェルで8人死亡",
+      "en": "Death toll from Tropical Storm Rachel rises to 8 in northwestern Mexico"
+    },
+    "summary": {
+      "ja": "メキシコ北西部を襲った熱帯低気圧レイチェルにより、死者が8人に上った。",
+      "en": "Tropical Storm Rachel caused 8 deaths in northwestern Mexico."
+    },
+    "category": "disaster",
+    "country": "メキシコ",
+    "lat": 19.4285,
+    "lon": -99.1277,
+    "occurredAt": "2026-10-15T20:17:17+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeC0yM3ZhYk1Rb1dtdklnbnhqc3BlcVg0b2d4WllnTC1EMVloNE5kSHkwd1Z0a0RnWlBKNkc5LVJVSXBnRGFvQmFWenF0QzNaV3RxbmlSQ29uSS1BVmJvRGwyM1dzMmo5T2dkbXA5R3p6T2ViTXhNbFpkWUZnVFVHNWVrV3BYem5pMVFma0Nn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "mexico_tropical_storm_rachel_2026-10-15"
   },
   {
     "id": "auto-11800",
