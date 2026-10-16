@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:39:47.900Z",
+  "generatedAt": "2026-10-16T08:34:51.929Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 203,
   "warnings": [
@@ -3316,6 +3316,102 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261977",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1977",
+      "title": "恵山岬東南東、射撃終了",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1977    発表日時:2026年10月16日 17時\r\n\n\r\n恵山岬東南東、\r\r\n射撃終了。\r\r\n(1954削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261977&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261976",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "水深",
+      "number": "1976",
+      "title": "酒田港、水中障害物撤去",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1976    発表日時:2026年10月16日 17時\r\n\n\r\n本州北西岸、酒田港、\r\r\n水中障害物撤去。\r\r\n(1930削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261976&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261975",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "1975",
+      "title": "駿河湾、大井川港灯浮標復旧",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1975    発表日時:2026年10月16日 17時\r\n\n\r\n駿河湾、\r\r\n大井川港第1号灯浮標及び大井川港第2号灯浮標復旧\r\r\n(1823削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261975&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261974",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "1974",
+      "title": "日ノ御埼西−阪神港、起重機船えい航",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            135,
+            33.88333333333333
+          ],
+          [
+            135.33333333333334,
+            34.666666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-1974    発表日時:2026年10月16日 17時\r\n\n\r\n日ノ御埼西-阪神港、\r\r\nえい船(昇陽丸、MMSI 432543000)による\r\r\n起重機船(金剛)えい航、日ノ御埼西\r\r\n(33-53N 135-00E)10月16日2315通過、\r\r\n友ケ島水道経由、阪神港(34-40N 135-20E)17日\r\r\n1356到着予定、速力約5ノット、長さ310メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261974&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261973",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "1973",
+      "title": "日ノ御埼西−友ヶ島水道、起重機船えい航",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            135.03333333333333,
+            33.88333333333333
+          ],
+          [
+            135,
+            34.28333333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-1973    発表日時:2026年10月16日 17時\r\n\n\r\n日ノ御埼西-友ヶ島水道、\r\r\n曳船(神隆丸、MMSI 431030206)による\r\r\n起重機船(新建隆)えい航、日ノ御埼西(33-53N \r\r\n135-02E)10月16日2200通過、\r\r\n友ケ島水道(34-17N 135-00E)17日0300\r\r\n通過予定、速力約5ノット、長さ最大350メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261973&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261972",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1972",
+      "title": "五島列島東、射撃終了",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1972    発表日時:2026年10月16日 17時\r\n\n\r\n五島列島東、\r\r\n射撃終了。\r\r\n(1931削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261972&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261971",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3454,18 +3550,6 @@
       "geometry": null,
       "rawText": "番号:26-1967    発表日時:2026年10月16日 13時\r\n\n\r\n犬吠埼北、\r\r\n射撃、10月21日(予備22日)0800-2400、\r\r\n36-13.1N 140-55.2Eを中心とする\r\r\n半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261967&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261966",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1966",
-      "title": "本州東岸、日立港、灯台消灯、仮灯設置",
-      "publishedAt": "2026-10-15T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1966    発表日時:2026年10月15日 21時\r\n\n\r\n本州東岸、\r\r\n日立港沖防波堤南灯台(36-28.5N 140-38.2E、\r\r\n灯台表第1巻、1836)消灯、仮灯設置、\r\r\n単閃赤光6秒に1閃。\r\r\n(1959削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261966&LANG=JP"
     },
     {
       "id": "NAVTEX-261964",
@@ -3658,18 +3742,6 @@
       "geometry": null,
       "rawText": "番号:26-1955    発表日時:2026年10月14日 17時\r\n\n\r\n瀬戸内海、苅田港付近、\r\r\n浅所(水深 約11.7メートル)あり、\r\r\n33-48-34.3N 131-02-47.9E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261955&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261954",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1954",
-      "title": "恵山岬東南東、射撃",
-      "publishedAt": "2026-10-14T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1954    発表日時:2026年10月14日 17時\r\n\n\r\n恵山岬東南東、\r\r\n射撃、10月16日0800-2400、\r\r\n41-43.0N 141-29.4Eを中心とする半径5海里の\r\r\n円内。\r\r\n(1927削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261954&LANG=JP"
     },
     {
       "id": "NAVTEX-261953",
@@ -3906,36 +3978,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261944&LANG=JP"
     },
     {
-      "id": "NAVTEX-261931",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1931",
-      "title": "五島列島東、射撃",
-      "publishedAt": "2026-10-11T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          129.35,
-          32.81666666666667
-        ]
-      },
-      "rawText": "番号:26-1931    発表日時:2026年10月11日 13時\r\n\n\r\n五島列島東、\r\r\n射撃、10月16日1000-2400、\r\r\n32-49N 129-21Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261931&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261930",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "水深",
-      "number": "1930",
-      "title": "酒田港、水中障害物存在",
-      "publishedAt": "2026-10-11T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1930    発表日時:2026年10月11日 08時\r\n\n\r\n本州北西岸、酒田港、\r\r\n水中障害物(約4メートル)あり、\r\r\n38-54-59.5N 139-49-28.5E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261930&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261929",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3958,50 +4000,6 @@
       "geometry": null,
       "rawText": "番号:26-1925    発表日時:2026年10月10日 11時\r\n\n\r\n姫路港、\r\r\n広畑航路第4号灯浮標(34-44.5N\r\r\n134-37.4E、灯台表第1巻、3869)流失。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261925&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261918",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1918",
-      "title": "巨済島南西（Ｄ−７２）、射撃",
-      "publishedAt": "2026-10-09T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128,
-            34.16138888888889
-          ],
-          [
-            128.19083333333333,
-            34.30027777777777
-          ],
-          [
-            128.58333333333334,
-            34.3
-          ],
-          [
-            128.58722222222224,
-            34.336666666666666
-          ],
-          [
-            128.71972222222223,
-            34.15361111111111
-          ],
-          [
-            128.58333333333334,
-            34
-          ],
-          [
-            128,
-            34
-          ]
-        ]
-      },
-      "rawText": "番号:26-1918    発表日時:2026年10月09日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月12日、14日毎日0900-1700、\r\r\n13日1300-1700、15日0900-2200、\r\r\n16日0900-1600、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261918&LANG=JP"
     },
     {
       "id": "NAVTEX-261917",
@@ -4498,18 +4496,6 @@
       },
       "rawText": "番号:26-1839    発表日時:2026年09月26日 13時\r\n\n\r\n八戸港北、\r\r\n爆撃、10月1日-31日毎日0700-2000、\r\r\n40-51-53N 141-20-37Eを中心とする\r\r\n半径6.3海里の円のうち58-108度の扇形海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261839&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261823",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "1823",
-      "title": "駿河湾、大井川港灯浮標不存在及び移動",
-      "publishedAt": "2026-09-23T14:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1823    発表日時:2026年09月23日 14時\r\n\n\r\n駿河湾、\r\r\n(1)大井川港第1号灯浮標(34-46.7N\r\r\n   138-18.4E、灯台表第1巻、2489.8)\r\r\n   不存在。\r\r\n(2)大井川港第2号灯浮標(34-46.8N\r\r\n   138-18.4E、灯台表第1巻、2489.81)  \r\r\n   移動、図載位置の北東、約30メートル。\r\r\n(1820削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261823&LANG=JP"
     },
     {
       "id": "NAVTEX-261821",
