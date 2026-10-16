@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-10-16T11:33:07.905Z",
+  "generatedAt": "2026-10-16T12:39:58.997Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 217,
+  "count": 214,
   "warnings": [
+    {
+      "id": "NAVAREA11-260468",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "訓練試験",
+      "number": "0468",
+      "title": "父島北東、射撃終了",
+      "publishedAt": "2026-10-16T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0468    発表日時:2026年10月16日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nGUNNERY CONCLUDED. \r\r\nCANCEL 0456/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260468&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260467",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "訓練試験",
+      "number": "0467",
+      "title": "マリアナ諸島、グアム島北東、危険な訓練",
+      "publishedAt": "2026-10-16T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0467    発表日時:2026年10月16日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nHAZARDOUS OPERATIONS. \r\r\n0200Z TO 0800Z DAILY 20 AND 21 OCT.\r\r\nAREA BOUNDED BY 17-00.00N 145-05.00E\r\r\n17-00.00N 147-00.00E\r\r\n16-09.47N 148-09.77E\r\r\n15-25.00N 148-04.00E\r\r\n15-25.00N 146-25.00E\r\r\n15-40.37N 146-12.05E\r\r\n15-43.62N 145-27.77E.\r\r\nCANCEL THIS MSG 210900Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260467&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260466",
       "type": "NAVAREA11",
@@ -150,24 +174,6 @@
       "geometry": null,
       "rawText": "NO.26-0457    発表日時:2026年10月11日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nPAWAI BUOY, 01-11.50N 103-40.44E,\r\r\nMISSING.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260457&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260456",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "訓練試験",
-      "number": "0456",
-      "title": "父島北東、射撃",
-      "publishedAt": "2026-10-11T21:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          143.13333333333333,
-          28.116666666666667
-        ]
-      },
-      "rawText": "NO.26-0456    発表日時:2026年10月11日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nGUNNERY. 160400Z TO 161500Z OCT,\r\r\nALTERNATE 200400Z TO 201500Z OCT.\r\r\nWITHIN 7 MILES OF 28-07N 143-08E.\r\r\nCANCEL THIS MSG 201600Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260456&LANG=JP"
     },
     {
       "id": "NAVAREA11-260430",
@@ -4498,78 +4504,6 @@
       },
       "rawText": "番号:26-1913    発表日時:2026年10月08日 13時\r\n\n\r\n五島列島南、\r\r\n射撃、10月13日-25日毎日0800-1700、\r\r\n31-47-12N 32-20-12N 128-45-52E\r\r\n129-09-52Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261913&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261912",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1912",
-      "title": "経ケ岬北、射撃",
-      "publishedAt": "2026-10-08T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          135.1638888888889,
-          36.08638888888889
-        ]
-      },
-      "rawText": "番号:26-1912    発表日時:2026年10月08日 13時\r\n\n\r\n経ケ岬北、\r\r\n射撃、10月13日-16日毎日0800-1800、\r\r\n36-05-11N 135-09-50Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261912&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261911",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1911",
-      "title": "伊豆諸島、大島東、射撃",
-      "publishedAt": "2026-10-08T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          139.64694444444444,
-          34.736666666666665
-        ]
-      },
-      "rawText": "番号:26-1911    発表日時:2026年10月08日 13時\r\n\n\r\n伊豆諸島、大島東、\r\r\n射撃、10月13日-16日毎日0800-1900、\r\r\n34-44-12N 139-38-49Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261911&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261910",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1910",
-      "title": "龍飛埼西南西、射撃",
-      "publishedAt": "2026-10-08T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          139.07999999999998,
-          40.91916666666666
-        ]
-      },
-      "rawText": "番号:26-1910    発表日時:2026年10月08日 13時\r\n\n\r\n龍飛埼西南西、\r\r\n射撃、10月13日、14日(予備15日、16日)毎日0800\r\r\n-1800、40-55-09N 139-04-48E\r\r\nを中心とする半径10海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261910&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261909",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1909",
-      "title": "尻屋埼東、射撃",
-      "publishedAt": "2026-10-08T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          142.49638888888887,
-          41.336111111111116
-        ]
-      },
-      "rawText": "番号:26-1909    発表日時:2026年10月08日 13時\r\n\n\r\n尻屋埼東、\r\r\n射撃、10月13日、14日(予備15日、16日)毎日\r\r\n0800-1800、41-20-10N 142-29-47E\r\r\nを中心とする半径15海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261909&LANG=JP"
     },
     {
       "id": "NAVTEX-261851",
