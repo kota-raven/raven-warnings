@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T03:32:25.687Z",
+  "generatedAt": "2026-10-16T04:32:07.992Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 200,
+  "count": 203,
   "warnings": [
     {
       "id": "NAVAREA11-260466",
@@ -3316,6 +3316,146 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261971",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1971",
+      "title": "済州島東（Ｄ−１１８）、射撃",
+      "publishedAt": "2026-10-16T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            127.66666666666667,
+            34
+          ],
+          [
+            128.5,
+            34
+          ],
+          [
+            127.83333333333333,
+            33.166666666666664
+          ],
+          [
+            127.66666666666667,
+            33.166666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-1971    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、10月21日、22日毎日1300-1800、\r\r\n34-00N 127-40E 34-00N 128-30E \r\r\n33-10N 127-50E 33-10N 127-40E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261971&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261970",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1970",
+      "title": "巨済島南東（Ｄ−９９）、射撃",
+      "publishedAt": "2026-10-16T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            128.72416666666666,
+            34.68444444444444
+          ],
+          [
+            128.84194444444447,
+            34.76833333333333
+          ],
+          [
+            128.89388888888888,
+            34.778888888888886
+          ],
+          [
+            129.05583333333334,
+            34.56305555555555
+          ],
+          [
+            128.71972222222223,
+            34.15361111111111
+          ],
+          [
+            128.58722222222224,
+            34.336666666666666
+          ]
+        ]
+      },
+      "rawText": "番号:26-1970    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、10月19日-23日毎日0800-1800、\r\r\n34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E\r\r\n34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E\r\r\n34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261970&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261969",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1969",
+      "title": "巨済島南西（Ｄ−７２）、射撃",
+      "publishedAt": "2026-10-16T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            128,
+            34.16138888888889
+          ],
+          [
+            128.19083333333333,
+            34.30027777777777
+          ],
+          [
+            128.58333333333334,
+            34.3
+          ],
+          [
+            128.58722222222224,
+            34.336666666666666
+          ],
+          [
+            128.71972222222223,
+            34.15361111111111
+          ],
+          [
+            128.58333333333334,
+            34
+          ],
+          [
+            128,
+            34
+          ]
+        ]
+      },
+      "rawText": "番号:26-1969    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月19日、21日、23日毎日0900-1600、\r\r\n20日、22日毎日0900-2200、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261969&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261968",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海底施設",
+      "number": "1968",
+      "title": "潮岬南、海底線敷設作業",
+      "publishedAt": "2026-10-16T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1968    発表日時:2026年10月16日 13時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業、当分の間、\r\r\n33-06.0N 136-22.5E\r\r\n32-27.0N 136-17.5E\r\r\n32-10.0N 134-57.0Eで囲まれる海面。\r\r\n(1926削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261968&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261967",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1967",
+      "title": "犬吠埼北、射撃",
+      "publishedAt": "2026-10-16T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1967    発表日時:2026年10月16日 13時\r\n\n\r\n犬吠埼北、\r\r\n射撃、10月21日(予備22日)0800-2400、\r\r\n36-13.1N 140-55.2Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261967&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261966",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3326,30 +3466,6 @@
       "geometry": null,
       "rawText": "番号:26-1966    発表日時:2026年10月15日 21時\r\n\n\r\n本州東岸、\r\r\n日立港沖防波堤南灯台(36-28.5N 140-38.2E、\r\r\n灯台表第1巻、1836)消灯、仮灯設置、\r\r\n単閃赤光6秒に1閃。\r\r\n(1959削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261966&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261965",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "1965",
-      "title": "阪神港−日ノ御埼西、起重機船えい航",
-      "publishedAt": "2026-10-15T21:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            135.35,
-            34.68333333333333
-          ],
-          [
-            135,
-            33.88333333333333
-          ]
-        ]
-      },
-      "rawText": "番号:26-1965    発表日時:2026年10月15日 21時\r\n\n\r\n阪神港-日ノ御埼西、\r\r\n曳船(明陽丸、MMSI 432579000)による起重機船\r\r\n(宏栄号、長さ63メートル)えい航、阪神港、尼崎西宮芦屋区\r\r\n(34-41N 135-21E)10月15日1800出港、\r\r\n友ケ島水道経由、日ノ御埼西(33-53N 135-00E)、\r\r\n16日0450通過予定、速力約5ノット、長さ340メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261965&LANG=JP"
     },
     {
       "id": "NAVTEX-261964",
@@ -3830,18 +3946,6 @@
       "geometry": null,
       "rawText": "番号:26-1929    発表日時:2026年10月10日 23時\r\n\n\r\n苫小牧港、4区、\r\r\n水中障害物(錨鎖、長さ316メートル)あり、\r\r\n42-34.64N 141-40.96E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261929&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261926",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海底施設",
-      "number": "1926",
-      "title": "潮岬南、海底線敷設作業",
-      "publishedAt": "2026-10-10T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1926    発表日時:2026年10月10日 13時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業、当分の間、\r\r\n(1)33-06.0N 136-22.5E\r\r\n   32-27.0N 136-17.5E\r\r\n   32-10.0N 134-57.0Eで囲まれる海面、\r\r\n(2)ケーブル浮標(黄色)設置、\r\r\n   32-11.7N 135-03.8E付近、\r\r\n(1920削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261926&LANG=JP"
     },
     {
       "id": "NAVTEX-261925",
