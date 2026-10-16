@@ -1,117 +1,5 @@
 [
   {
-    "id": "2026-10-13-05",
-    "headline": {
-      "ja": "サウジ主導連合、イエメンの首都サナアの石油施設周辺に作戦前の退避要求 フーシ派「リヤドへ痛烈な報復」警告",
-      "en": "Saudi-led coalition orders evacuation ahead of planned Sanaa operation; Houthis warn of 'harsh, painful' response against Riyadh"
-    },
-    "summary": {
-      "ja": "サウジ主導連合の報道官トゥルキー・アル・マリキ氏は10月13日(火)、イエメンの首都サナア(フーシ派支配地域)にあるイエメン石油公社の中央貯蔵施設(通称サバーハ/サバー中央基地)周辺の住民に対し、今後実施予定の軍事作戦に備えて退避するよう求めたと発表した。具体的な作戦内容・実施時期は明らかにされていない。これに対しフーシ派軍事報道官ヤヒヤ・サリア氏は、サナアが攻撃された場合はサウジの首都リヤドに対し「痛烈かつ厳しい」報復を行うと警告したと複数メディアが報じた。フーシ派は同日、サウジ・アラムコの施設も「正当な標的」とし、周辺からの退避を改めて呼びかけている。背景として、10月6日以降フーシ派によるサウジ国内空港への弾道ミサイル・無人機攻撃が相次ぎ、少なくとも20人が死亡、370人超が負傷しており、サウジ主導連合・米国によるフーシ派への直接的な軍事作戦実施の是非が焦点となっている。これまでの空港・インフラへの相互攻撃から一歩進み、フーシ派の本拠地である首都サナアへの作戦実施が公式に予告された点が新規。[信頼性: 高](Reuters配信〈Yahoo News、The Print、CP24、TRT World等〉、Times of Israel、Gulf Newsが一致して報道)",
-      "en": "Saudi-led coalition spokesman Turki al-Maliki said on Tuesday, October 13, that civilians near the Yemen Oil Company's central storage site (referred to as the Sabah/al-Sabaha central station) in Houthi-held Sanaa should evacuate ahead of a planned military operation; the coalition did not specify what the operation would involve or when it would occur. Houthi military spokesman Yahya Saree warned that any strike on Sanaa would be met with a 'harsh and painful' response against the Saudi capital Riyadh, according to multiple outlets. The Houthis separately renewed a call for people to stay away from Saudi Aramco facilities, calling them 'legitimate targets.' The warning follows a string of Houthi ballistic-missile and drone attacks on Saudi airports since October 6 that have killed at least 20 people and wounded more than 370, amid debate over whether the Saudi-led coalition and the US will carry out direct strikes on the Houthis. The coalition's explicit move toward an operation on the Houthi capital itself marks a step beyond the mutual strikes on airports and infrastructure reported so far. [Reliability: High] (Consistently reported via Reuters-syndicated outlets including Yahoo News, The Print, CP24, and TRT World, as well as Times of Israel and Gulf News.)"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "region": "サナア",
-    "lat": 15.3694,
-    "lon": 44.191,
-    "occurredAt": "2026-10-13T11:00:00+00:00",
-    "source": {
-      "name": "CP24(Reuters配信)",
-      "url": "https://www.cp24.com/news/world/2026/10/13/saudis-tell-sanaa-residents-around-oil-facility-to-evacuate-and-other-middle-east-developments/"
-    },
-    "reliability": "high",
-    "severity": 4
-  },
-  {
-    "id": "2026-10-14-01",
-    "headline": {
-      "ja": "サウジ連合軍、サナア西郊の石油施設を空爆 フーシ派がアラムコ施設を「正当な標的」と宣言",
-      "en": "Saudi-led coalition strikes oil facility west of Sanaa; Houthis declare Aramco sites 'legitimate targets'"
-    },
-    "summary": {
-      "ja": "フーシ派系メディアは10月13日、サウジ主導連合が事前の退避要求に続きサナア西郊アル・サバハのイエメン石油公社中央施設を空爆したと報じ、現地のAFP記者も爆発音を確認した。連合側はこの空爆を公式には確認していない。イエメン石油公社は同施設に燃料在庫はなく供給には影響しないと説明した。フーシ派は同日、サウジアラムコの関連施設を「正当な標的」と宣言し、報復対象としてダンマン(ザハラン本社)のアラムコ施設やリヤドの製油所などを名指しした。サウジ閣議(ムハンマド皇太子主宰)はフーシ派の攻撃継続に「相応の結果」を与えると表明した。[信頼性: 中](France 24、DAWN、Daily Times、Jerusalem Post系報道。コンコ側の公式確認はなし)",
-      "en": "Houthi-affiliated media reported on October 13 that the Saudi-led coalition struck the Yemen Petroleum Company's al-Sabaha central facility west of Sanaa, following an earlier evacuation order; an AFP correspondent in the city reported hearing an explosion. The coalition had not officially confirmed the strike. The Yemen Petroleum Company said the site held no fuel stocks and that supply would not be affected. The same day, the Houthis declared Saudi Aramco facilities 'legitimate targets,' naming Aramco's Dammam/Dhahran headquarters and a Riyadh refinery as potential retaliation targets. Saudi Arabia's cabinet, chaired by Crown Prince Mohammed bin Salman, said the Houthis would face 'consequences' for continuing attacks. [Reliability: Medium] (France 24, DAWN, Daily Times, Jerusalem Post-affiliated reporting; the coalition has not officially confirmed the strike.)"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "region": "サナア",
-    "lat": 15.3694,
-    "lon": 44.191,
-    "occurredAt": "2026-10-13T13:00:00+00:00",
-    "source": {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
-    "id": "2026-10-14-02",
-    "headline": {
-      "ja": "イエメン・ホデイダの石油会社への攻撃で2人死亡 フーシ派保健省がサウジ側を非難(未確認)",
-      "en": "Two killed in strike on oil company in Yemen's Hodeidah, Houthi health ministry blames Saudi side (unconfirmed)"
-    },
-    "summary": {
-      "ja": "フーシ派運営の保健省は、ホデイダ(紅海沿岸、フーシ派支配地域)の石油会社施設への攻撃で2人が死亡したと発表し、サウジ側の犯行だと非難したと報じられた。サウジ主導連合側からの公式な確認は得られていない。サナアの石油施設への空爆(id: 2026-10-14-01)と同日の一連の報道の一部。[信頼性: 未確認情報](フーシ派保健省発表に基づく報道。独立した複数ソースでの死傷者数・実行者の確証は得られていない)",
-      "en": "Yemen's Houthi-run health ministry said two people were killed in a strike on an oil company facility in Hodeidah, on the Red Sea coast, and blamed the Saudi side, according to reports. The Saudi-led coalition has not officially confirmed the strike. This was reported the same day as the strike on the oil facility near Sanaa (id: 2026-10-14-01). [Reliability: Unconfirmed] (Based on Houthi health ministry statements; casualty figures and responsibility are not independently confirmed by multiple sources.)"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "region": "ホデイダ",
-    "lat": 14.7979,
-    "lon": 42.9545,
-    "occurredAt": "2026-10-13T10:00:00+00:00",
-    "source": {
-      "name": "France 24 / Houthi health ministry",
-      "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say"
-    },
-    "reliability": "unconfirmed"
-  },
-  {
-    "id": "2026-10-14-03",
-    "headline": {
-      "ja": "フーシ派ミサイルがサウジ・アラムコ施設に命中、リヤドでも迎撃ミサイル残骸で住宅15棟損壊・4人負傷",
-      "en": "Houthi missile hits Saudi Aramco facility; intercepted-missile debris in Riyadh injures four, damages 15 homes"
-    },
-    "summary": {
-      "ja": "サウジアラビア・エネルギー省は、フーシ派のミサイル攻撃により同国東部地区のアラムコの管理棟が被弾し、限定的な火災が発生したが死傷者はなかったと発表したという。これとは別に、サウジ民間防衛当局は、リヤド上空で迎撃された2発のフーシ派ミサイルの残骸が住宅地に落下し、4人が負傷、住宅15棟が損壊したと発表したという。サウジ閣議は、フーシ派の攻撃継続に「相応の結果」を与えると改めて表明した。サナア西郊の石油施設空爆(id: 2026-10-14-01)と同日の一連の応酬の一部。[信頼性: 高](Al Jazeera。サウジエネルギー省・民間防衛当局の発表に基づく報道)",
-      "en": "Saudi Arabia's Energy Ministry said a Houthi missile strike hit an administrative building at Aramco's Eastern Province operations, sparking a limited fire with no injuries reported, according to reports. Separately, Saudi Civil Defense said debris from two intercepted Houthi missiles fell on residential areas in Riyadh, injuring four people and damaging 15 homes, according to reports. Saudi Arabia's cabinet reiterated that the Houthis would face \"consequences\" for continuing attacks. Part of the same day's exchange as the airstrike on the oil facility near Sanaa (id: 2026-10-14-01). [Reliability: High] (Al Jazeera, based on statements from Saudi Arabia's Energy Ministry and Civil Defense.)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "東部地区(アラムコ施設)・リヤド",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-13T16:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
-    },
-    "reliability": "high",
-    "severity": 4
-  },
-  {
-    "id": "2026-10-14-04",
-    "headline": {
-      "ja": "原油価格、フーシ派・サウジ衝突の激化受けて上昇 ブレント105ドル台・WTI94ドル台に",
-      "en": "Oil prices rise as Houthi-Saudi conflict escalates; Brent near $105, WTI near $94"
-    },
-    "summary": {
-      "ja": "フーシ派によるサウジ・アラムコ施設への攻撃や相互の空爆応酬が激化する中、10月13日(火)の原油先物市場でブレント原油は1バレル105.69ドル、WTI原油は94.14ドルで取引を終えたと報じられたという。サウジ国内の石油関連インフラへの攻撃が続いていることが、供給リスクへの懸念から価格を押し上げる要因になっているという。[信頼性: 中](Fox News、Oilprice.comの報道。具体的な終値は速報値で、他の大手通信社による裏付けは確認できていない)",
-      "en": "Amid the escalating Houthi-Saudi conflict, including a missile strike on Saudi Aramco facilities, Brent crude settled at $105.69 a barrel and WTI at $94.14 on Tuesday, October 13, according to reports. Continued attacks on Saudi oil-related infrastructure are cited as a factor pushing up prices on supply-risk concerns, according to reports. [Reliability: Medium] (Fox News, Oilprice.com; the specific closing figures are preliminary and have not been independently confirmed by major wire services.)"
-    },
-    "category": "economy",
-    "country": "サウジアラビア",
-    "lat": 23.8859,
-    "lon": 45.0792,
-    "occurredAt": "2026-10-13T21:00:00+00:00",
-    "source": {
-      "name": "Fox News",
-      "url": "https://foxnews.com/live-news/us-iran-war-saudi-arabia-trump-houthis-10-13-26"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-14-05",
     "headline": {
       "ja": "中国9月の貿易統計、輸出36.3%増・貿易黒字1,335億ドルに拡大",
@@ -129,28 +17,6 @@
     "source": {
       "name": "NBC News",
       "url": "https://www.nbcnews.com/world/asia/china-september-exports-soar-putting-1-trillion-trade-surplus-sight-rcna603410"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-15-01",
-    "headline": {
-      "ja": "ロシア軍、キーウ・ハルキウ等でエネルギー施設を再び集中攻撃 少なくとも3人死亡・60万人超が停電",
-      "en": "Russia again pounds Ukraine's energy grid in Kyiv, Kharkiv region; at least 3 killed, over 600,000 without power"
-    },
-    "summary": {
-      "ja": "ウクライナ各当局によれば、10月13日(火)深夜から14日(水)未明にかけて、ロシア軍がキーウ市・キーウ州・ハルキウ州などの発電・送電施設を集中的に攻撃した。キーウ市当局は市内で少なくとも3人が死亡、21人が負傷したと発表した。ゼレンスキー大統領は、この攻撃でエネルギー関連施設約30カ所が被害を受け、60万人超が停電の影響を受けたと述べたという。ロシア国防省は、キーウ市・キーウ州・ハルキウの発電所6カ所を狙った攻撃だったと発表したと報じられている。トランプ米大統領が10月11日に発表した「エネルギー停戦」(既報)後も攻撃が続いている形で、ゼレンスキー氏は停戦の実効性について改めて疑問を示したという。ゼレンスキー氏は、ウクライナ側はロシアの石油精製施設への攻撃を停止することに同意したと述べたとも報じられている。[信頼性: 高](CBCニュース、CP24〈AP通信配信〉、The Globe and Mailが一致して報道)",
-      "en": "Ukrainian officials said Russian forces carried out a concentrated barrage against power generation and transmission facilities in Kyiv city, Kyiv region, and Kharkiv region overnight from Tuesday, October 13, into Wednesday, October 14. Kyiv city authorities said at least three people were killed and 21 wounded in the capital. President Zelenskyy said the strikes damaged about 30 energy facilities and left more than 600,000 people without power. Russia's defense ministry reportedly said it had targeted six power plants in Kyiv city, Kyiv region, and Kharkiv. The attacks continued despite the \"energy ceasefire\" President Trump announced on October 11 (previously reported), with Zelenskyy again questioning whether it is holding; he reportedly also said Ukraine had agreed to halt its own strikes on Russian oil refineries. [Reliability: High] (Consistently reported by CBC News, CP24 via AP, and The Globe and Mail.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ市・キーウ州・ハルキウ州(エネルギー施設複数)",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-10-13T22:00:00+00:00",
-    "source": {
-      "name": "CP24(AP通信配信)",
-      "url": "https://www.cp24.com/news/world/2026/10/14/zelenskyy-says-russia-keeps-striking-ukraines-energy-sites-despite-trump-ceasefire-push/"
     },
     "reliability": "high"
   },
@@ -198,36 +64,14 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-15-04",
-    "headline": {
-      "ja": "ホルムズ海峡でシンガポール船籍コンテナ船が沈没、乗員21人は全員避難",
-      "en": "Singapore-flagged container ship sinks near Strait of Hormuz; all 21 crew evacuated safely"
-    },
-    "summary": {
-      "ja": "シンガポール海事港湾庁(MPA)は、コンテナ船「GFSプライド」がホルムズ海峡航行中の10月13日に未確認の飛来物による損傷と火災を受け、その後沈没したと発表した。乗員21人全員が安全に避難し負傷者はいないという(シンガポール国籍者は乗船していなかった)。イラン革命防衛隊(IRGC)海軍は、同船が許可されていない航路を航行中に機雷に触れたと主張しているが、海事保安会社マリスクスは機雷による被害を示す独立した証拠はないとしている。国連国際海事機関(IMO)のデータによれば、本船は2月28日に始まった米・イラン間の戦争下でホルムズ海峡周辺で沈没した2隻目の船舶となる。同日には姉妹船「GFSジゼル」も未確認の飛来物を受けて船体が損傷したが、自力で安全な錨地に到達したという。[信頼性: 高](Bloomberg、Investing.com、gCaptain、WorldCargo News、India Shipping Newsなど複数の独立した報道が一致)",
-      "en": "Singapore's Maritime and Port Authority (MPA) said the container ship GFS Pride suffered damage and a fire after being struck by an unidentified projectile while transiting the Strait of Hormuz on October 13, and later sank. All 21 crew members were safely evacuated with no injuries reported; no Singaporean nationals were aboard. Iran's Islamic Revolutionary Guard Corps Navy (IRGC Navy) claimed the vessel struck a naval mine while using an unauthorized route, but maritime security firm Marisks said there is no independent evidence of a mine. According to International Maritime Organization (IMO) data, the GFS Pride is the second vessel to sink near the strait since the US-Iran war began on February 28. A sister ship, the GFS Giselle, sustained hull damage from an unidentified projectile the same day but reached a safe anchorage under its own power. [Reliability: High] (Consistently corroborated by independent reporting from Bloomberg, Investing.com, gCaptain, WorldCargo News and India Shipping News.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-10-13T00:00:00+00:00",
-    "source": {
-      "name": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-16-01",
     "headline": {
       "ja": "ウクライナ、ロシアの石油精製施設への攻撃を再開 「エネルギー停戦」終了を表明、リャザン州の精油所を攻撃",
       "en": "Ukraine resumes strikes on Russian oil refineries, declares 'energy ceasefire' over; drones hit refinery in Ryazan region"
     },
     "summary": {
-      "ja": "ゼレンスキー大統領は、トランプ米大統領が10月11日に発表した「エネルギー停戦」をロシア側が履行せず、ロシア軍がその後もウクライナのエネルギー施設への攻撃を継続した(既報:id 2026-10-15-01)として、ウクライナ軍によるロシアの石油精製施設への攻撃を再開すると表明したという。英フィナンシャル・タイムズのインタビューでゼレンスキー氏は、米側の要請を受けてロシアのエネルギー関連施設への攻撃を3日間停止していたが、ロシア側が同様の対応を取らなかったため停戦は終了したと述べたという。これを受け、ウクライナ軍の無人機が10月15日未明(現地時間)、ロシア・リャザン州の石油精製施設を攻撃したと複数メディアが報じた。ゼレンスキー氏は、ロシアが追加の米国製パトリオット対空ミサイルを提供すれば攻撃停止を再検討する考えを示し、米側がロシアのエネルギー施設への攻撃を停止しなければ情報共有を停止する可能性を示したとも述べたという。[信頼性: 高](NPR〈ロイター通信配信〉、CNBC、CNNが一致して報道)",
-      "en": "President Zelenskyy said Ukraine would resume strikes on Russian oil refineries after Russia failed to honor the \"energy ceasefire\" President Trump announced on October 11 and continued striking Ukraine's own energy infrastructure (previously reported, id 2026-10-15-01). In an interview with the Financial Times, Zelenskyy said Ukraine had paused attacks on Russian energy facilities for three days at Washington's request, but ended the pause after Russia did not reciprocate. Multiple outlets reported that Ukrainian drones subsequently struck an oil refinery in Russia's Ryazan region in the early hours of October 15 local time. Zelenskyy reportedly said he would consider pausing strikes again if Ukraine received additional US-made Patriot air-defense interceptors, and said US officials had indicated Washington could cut intelligence sharing if Kyiv did not stop striking Russian energy facilities. [Reliability: High] (Consistently reported by NPR via Reuters, CNBC, and CNN.)"
+      "ja": "ゼレンスキー大統領は、トランプ米大統領が10月11日に発表した「エネルギー停戦」をロシア側が履行せず、ロシア軍がその後もウクライナのエネルギー施設への攻撃を継続した(既報:id 2026-10-15-01、保持期間外)として、ウクライナ軍によるロシアの石油精製施設への攻撃を再開すると表明したという。英フィナンシャル・タイムズのインタビューでゼレンスキー氏は、米側の要請を受けてロシアのエネルギー関連施設への攻撃を3日間停止していたが、ロシア側が同様の対応を取らなかったため停戦は終了したと述べたという。これを受け、ウクライナ軍の無人機が10月15日未明(現地時間)、ロシア・リャザン州の石油精製施設を攻撃したと複数メディアが報じた。ゼレンスキー氏は、ロシアが追加の米国製パトリオット対空ミサイルを提供すれば攻撃停止を再検討する考えを示し、米側がロシアのエネルギー施設への攻撃を停止しなければ情報共有を停止する可能性を示したとも述べたという。[信頼性: 高](NPR〈ロイター通信配信〉、CNBC、CNNが一致して報道)",
+      "en": "President Zelenskyy said Ukraine would resume strikes on Russian oil refineries after Russia failed to honor the \"energy ceasefire\" President Trump announced on October 11 and continued striking Ukraine's own energy infrastructure (previously reported, id 2026-10-15-01, now outside the retention window). In an interview with the Financial Times, Zelenskyy said Ukraine had paused attacks on Russian energy facilities for three days at Washington's request, but ended the pause after Russia did not reciprocate. Multiple outlets reported that Ukrainian drones subsequently struck an oil refinery in Russia's Ryazan region in the early hours of October 15 local time. Zelenskyy reportedly said he would consider pausing strikes again if Ukraine received additional US-made Patriot air-defense interceptors, and said US officials had indicated Washington could cut intelligence sharing if Kyiv did not stop striking Russian energy facilities. [Reliability: High] (Consistently reported by NPR via Reuters, CNBC, and CNN.)"
     },
     "category": "conflict",
     "country": "ロシア",
