@@ -46,6 +46,191 @@
     "eventKey": "saudi_coalition_red_sea_missile_intercept_2026"
   },
   {
+    "id": "auto-13817",
+    "headline": {
+      "ja": "国連報告：イスラエル入植者によるオリーブ収穫者への攻撃が 200 件超",
+      "en": "UN: Israeli colonist attacks on olive pickers in occupied West Bank surpass 200 this season"
+    },
+    "summary": {
+      "ja": "国連の報告によると、占領下のウェストバンク地域でイスラエル入植者がオリーブ収穫者に対して行った攻撃が今季 200 件を超えた。",
+      "en": "According to UN reports, Israeli colonist attacks on Palestinian olive pickers in the occupied West Bank have exceeded 200 incidents this season."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-16T12:19:54+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BeWsxVXZiZ09CelN4ZFU1N1BxeWJHY0VIQ2RENndyWXBiZVhxeEplSWV3WXBfVXMwVDFpeWw3eGdYWk1ybUVna1FSek1RRHpUaERSMjF3RQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_west_bank_olive_pickers_attacks"
+  },
+  {
+    "id": "auto-13695",
+    "headline": {
+      "ja": "パキスタン学校の屋根崩壊で35人死亡、当局が学校検査を命令",
+      "en": "Pakistan orders school inspections following deadly roof collapse"
+    },
+    "summary": {
+      "ja": "パキスタンの学校で屋根が崩壊し、35人が死亡した。当局は全国の学校に対して安全検査を命じた。遺族は既に屋根の危険を警告していたと述べている。",
+      "en": "A school roof collapse in Pakistan killed 35 people, prompting authorities to order inspections at schools nationwide. Families claim they had previously warned about the dangerous condition."
+    },
+    "category": "disaster",
+    "country": "パキスタン",
+    "lat": 33.7215,
+    "lon": 73.0433,
+    "occurredAt": "2026-10-16T12:18:06+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_school_roof_collapse"
+  },
+  {
+    "id": "auto-13691",
+    "headline": {
+      "ja": "ウクライナのスターリンク速度制限が米上院議員から調査要求",
+      "en": "US senators call for investigation into Ukraine's Starlink restrictions"
+    },
+    "summary": {
+      "ja": "ウクライナが一時的に導入したスターリンク通信ネットワークの速度制限が戦場での軍事任務を阻害したとして、米上院議員らが調査を求めている。",
+      "en": "US senators have called for an investigation into Ukraine's temporary speed restrictions on the Starlink internet network, which Ukraine says disrupted its battlefield operations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-16T12:16:42+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_starlink_restrictions_inquiry"
+  },
+  {
+    "id": "auto-13708",
+    "headline": {
+      "ja": "イエメン・アデンの大統領宮殿で攻撃、5人が死亡",
+      "en": "5 killed in presidential palace attack in Yemen's Aden"
+    },
+    "summary": {
+      "ja": "イエメンのアデンにある大統領宮殿が攻撃を受け、5人が死亡した。フーシ勢力はサウジ軍の将校が殺害されたと主張している。",
+      "en": "An attack on the presidential palace in Aden, Yemen, left 5 people dead. The Houthis claimed responsibility and stated that Saudi military officers were among the casualties."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-16T12:15:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUUnU1RFJSSm9KMHdIVzNPTTV3Q2JNMjZVaVpsYUdPYlBPSWJpYkE1dWJxT193eXRXSUpoTDZsTmp3TG9wUlhmc1Q1bzI1RHVZeUxlSVVFTy1FcUplQno3dTRUOWR3WFoxSkh5Qi15YnhuX21mTnRycnpJQnM?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_aden_presidential_palace_attack"
+  },
+  {
+    "id": "auto-13856",
+    "headline": {
+      "ja": "ウクライナの貿易ルート攻撃が世界の食糧安全保障を脅かす",
+      "en": "Attacks on Ukraine's trade routes threaten global food security"
+    },
+    "summary": {
+      "ja": "ウクライナの貿易ルートへの攻撃が継続し、世界的な食糧安全保障に危機をもたらしている。食糧へのアクセスが戦争の新たな武器になることは許されるべきではないと EU は主張している。",
+      "en": "Attacks on Ukraine's trade routes continue to threaten global food security. The EU emphasizes that access to food should not become another weapon of war."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-16T11:37:15+00:00",
+    "source": {
+      "name": "EU 欧州対外行動庁(EEAS)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWUxrZXVOMmwyMmQxZDI3M2pMRWk2Y0tvaW9FdFl3aHhHdVoyaXlfRlpnWXJFQ1pMMFVMWkliNGxyX091QnJVSFRLMkVRdmJZd0cwSUgwZFBKU254b3ZpUDZBSDJfc09tWFo2Nktxa2VCVEh2VFJyLVJaZUxpbk9sX2VFU1IyMW51cXp5THVGYUs3MFozNVFSRkJCV2YtRFNOenRVNHhUNDhvRzgwcVZqM05venVMSkxMZTBEZU1FaTFCOXpVQ3JSRlJSb2JpT0JwcDUtUmVRUTlKVlU4SzVNNnVyb21GeE1hNGFJTDgtVDNuczQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_trade_routes_food_security"
+  },
+  {
+    "id": "auto-13839",
+    "headline": {
+      "ja": "ロシア第 1 戦団がウクライナ東部で主要高速道路を支配下に",
+      "en": "Russia's Battlegroup North takes control of Volchansk-Budarki highway in Kharkov Region"
+    },
+    "summary": {
+      "ja": "ロシアの第 1 戦団がウクライナ東部ハルコフ地域のボルチャンスク・ブダルキ高速道路を支配下に置いたと報告された。",
+      "en": "Russia's Battlegroup North has taken control of the Volchansk-Budarki highway in Ukraine's Kharkov Region."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 49.9818,
+    "lon": 36.2548,
+    "occurredAt": "2026-10-16T11:13:22+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVbHBYVmNveWJRYVZoVVZLR1ZmNHI4T3QzUDRtT2F0QjNLamx0Qk5VckE0YkgtY1NWNXV5ai1pbFFRSzA2V2xv0gFMQVVfeXFMTmxsQkt0amRlZjY0NnVrTGdRcEdMZVFhTUlPaHNDOTFJRlFjMy1FcEIta0xJUDR1bDNMakk0LUxrQTZKZW96TXFHMHVUbA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_volchansk_budarki_highway",
+    "severity": 4
+  },
+  {
+    "id": "auto-13836",
+    "headline": {
+      "ja": "ウクライナの Patriot インターセプター著しく不足、供給破綻で",
+      "en": "Ukraine critically low on Patriot interceptors amid supply disruptions"
+    },
+    "summary": {
+      "ja": "ウクライナの Patriot インターセプターが著しく不足している。供給破綻により備蓄が危機的水準に達したと報道されている。",
+      "en": "Ukraine is critically low on Patriot air defense interceptors due to supply disruptions."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-16T10:56:35+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB5R2ZaOW5BMWEwaGdjd2pXSXJzbHNaQkxfcDlKc0k0LTNUYlNQdGxGVTliakxXWDM5eVlHUlpyelJVV3E40gFKQVVfeXFMTzU1SHpYMi1IZF9ZVUdNazBuazVERks2bFZ4Vk9zRzRiTGdhVFdOdWJZel9iSEpiOTJvWjJOMG1lX1FaRHhxZm9paVE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_patriot_interceptor_shortage"
+  },
+  {
+    "id": "auto-13668",
+    "headline": {
+      "ja": "ロシアがウクライナ西部を攻撃、ポーランドが戦闘機を発進",
+      "en": "Poland scrambles fighter jets as Russia strikes western Ukraine"
+    },
+    "summary": {
+      "ja": "ロシアがウクライナ西部を攻撃。NATO東側国境沿いの国々が紛争拡大のリスクに対する懸念を強めている。",
+      "en": "Russia conducted strikes on western Ukraine, prompting Poland to scramble fighter jets. NATO eastern flank countries express heightened concerns about potential escalation."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "occurredAt": "2026-10-16T10:56:20+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_western_strike_2026"
+  },
+  {
     "id": "auto-13521",
     "headline": {
       "ja": "トランプ大統領、イラン攻撃に核兵器使用を除外",
@@ -67,6 +252,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iran_us_nuclear_escalation_2026-10-16"
+  },
+  {
+    "id": "auto-13274",
+    "headline": {
+      "ja": "ベルギーがウクライナにF-16戦闘機10機を年内供与予定",
+      "en": "Belgium to deliver 10 F-16 fighter jets to Ukraine this year"
+    },
+    "summary": {
+      "ja": "ベルギーの首相が、同国がウクライナにF-16戦闘機10機を今年中に引き渡す予定であることを表明した。",
+      "en": "Belgium's premier announced that the country will deliver 10 F-16 fighter jets to Ukraine before the end of this year."
+    },
+    "category": "conflict",
+    "country": "ベルギー",
+    "lat": 50.8505,
+    "lon": 4.3488,
+    "occurredAt": "2026-10-16T07:46:34+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeV9vRV9MMGdxU09oSWxPdWowSlBlVDJFbmtXc2FjY1U0a25FMXFPQVduWV9VZ1N6LXdLNjlram5BTm5IVS1FQUZiT3ZHQ2hicVJ2OFp3OHJaeVE5VDBONXVwbFdQTmw3a2NDZ2hwU3dGR2lKUFFMbFlDaUp5dFZpbmpMVXdxWHEyY29LV2dDOFN1Y0dONmR0N1NJSWZZeUttcWxjM0VXNUY3WFl1bUE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "belgium_f16_ukraine_2026"
   },
   {
     "id": "auto-13972",
@@ -2822,29 +3030,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "israel_lebanon_drone_attack_2026-10-10"
-  },
-  {
-    "id": "auto-610",
-    "headline": {
-      "ja": "パナマでマグニチュード7.7の強い地震が発生",
-      "en": "Powerful magnitude 7.7 earthquake hits Panama"
-    },
-    "summary": {
-      "ja": "パナマ沖で7.7の地震が発生し、建物に被害が出た。ラテンアメリカの複数国に津波警報が発令された。",
-      "en": "A magnitude 7.7 earthquake struck Panama, causing building damage. Tsunami warnings were issued for multiple Latin American countries."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.9936,
-    "lon": -79.5197,
-    "occurredAt": "2026-10-09T21:26:30+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_7.7_2026-10-09",
-    "severity": 4
   }
 ]
