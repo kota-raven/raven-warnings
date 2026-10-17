@@ -23,6 +23,29 @@
     "eventKey": "yemen_taiz_houthis_civilian_casualties_2026-10"
   },
   {
+    "id": "auto-15492",
+    "headline": {
+      "ja": "パキスタン・バロチスタン州でマグニチュード5.6の地震発生",
+      "en": "Magnitude 5.6 earthquake strikes Pakistan's Balochistan province"
+    },
+    "summary": {
+      "ja": "パキスタンのバロチスタン州でマグニチュード5.6の地震が発生した。",
+      "en": "A magnitude 5.6 earthquake occurred in Balochistan province, Pakistan."
+    },
+    "category": "disaster",
+    "country": "パキスタン",
+    "lat": 28.9716,
+    "lon": 66.678,
+    "occurredAt": "2026-10-17T05:51:01+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWnlld2xBU1FZVlp2d0RKeWJPRjN5NUhIcHVDS0tneG5JMGszQkJ4ajUwdmNBWHd2Y3dOaHZOUzFzbTV3UEp5ZTM1b1gzdkVHX1U1ZElIX01Md3dfWFdMWG1aMWhzemYwM1NFMWlUc1Fnb01RMmhtX3BnTW5tQXVDYnVvaGllUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_balochistan_earthquake_2026-10-17"
+  },
+  {
     "id": "auto-15003",
     "headline": {
       "ja": "パナマでマグニチュード7.5の大規模地震発生、746回の余震を記録",
