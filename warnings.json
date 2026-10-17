@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T17:26:27.703Z",
+  "generatedAt": "2026-10-17T18:29:32.789Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 201,
+  "count": 200,
   "warnings": [
     {
       "id": "NAVAREA11-260472",
@@ -378,6 +378,24 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-264114",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4114",
+      "title": "アデン海湾、被銃撃情報",
+      "publishedAt": "2026-10-18T02:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          47.916666666666664,
+          12.9
+        ]
+      },
+      "rawText": "番号:26-4114   発表日時:2026年10月18日 02時\r\n\n\r\n★ アデン海湾、\r\r\n被銃撃情報、10月17日1030Z頃、12-54N 047-55E、\r\r\nLNGタンカーが、小型船から銃撃を受けた。LNGタンカーに乗船していた\r\r\n武装警備員が警告射撃を行ったところ、小型船は現場を離脱した。\r\r\n付近航行船舶は注意されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264114&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264113",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -612,18 +630,6 @@
       "geometry": null,
       "rawText": "番号:26-4102   発表日時:2026年10月17日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nロケット打上げ終了。\r\r\n(4006削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264102&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264101",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "4101",
-      "title": "メキシコ、灯台消灯情報削除",
-      "publishedAt": "2026-10-17T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4101   発表日時:2026年10月17日 08時\r\n\n\r\n★ メキシコ、\r\r\nCORONADO ISLAND南灯台消灯情報削除。\r\r\n(4年1122削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264101&LANG=JP"
     },
     {
       "id": "JAPANNW-264100",
@@ -2098,18 +2104,6 @@
       "geometry": null,
       "rawText": "番号:26-4026   発表日時:2026年10月13日 20時\r\n\n\r\n南太平洋、ペルー、\r\r\nMANCORA灯台(04-06.50S 081-03.43W)運用不能。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264026&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264023",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4023",
-      "title": "択捉島、単冠湾、爆撃",
-      "publishedAt": "2026-10-13T19:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4023   発表日時:2026年10月13日 19時\r\n\n\r\n択捉島、単冠湾、\r\r\n爆撃、10月13日2300-17日2300、\r\r\n44-56.5N 147-48.3E 44-56.0N 147-50.1E\r\r\n44-53.3N 147-39.3E 44-54.3N 147-38.1E\r\r\nを結ぶ線及び陸岸で囲まれる海域。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264023&LANG=JP"
     },
     {
       "id": "JAPANNW-264022",
