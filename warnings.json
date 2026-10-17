@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-17T12:32:50.955Z",
+  "generatedAt": "2026-10-17T13:30:59.698Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 200,
+  "count": 201,
   "warnings": [
+    {
+      "id": "NAVAREA11-260472",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0472",
+      "title": "シンガポール海峡、武装強盗情報",
+      "publishedAt": "2026-10-17T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0472    発表日時:2026年10月17日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nARMED ROBBERY INFORMATION. 170725Z OCT.\r\r\n01-14.26N 104-00.46E.\r\r\nACCORDING TO INFORMATION, ROBBERS\r\r\nBOARDED A BARGE. VESSEL REQUESTED TO BE\r\r\nCAUTION ADVISED.\r\r\nCANCEL THIS MSG 241400Z OCT.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260472&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260470",
       "type": "NAVAREA11",
@@ -364,6 +376,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264113",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4113",
+      "title": "シンガポール海峡、武装強盗情報",
+      "publishedAt": "2026-10-17T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4113   発表日時:2026年10月17日 21時\r\n\n\r\nシンガポール海峡、\r\r\n武装強盗情報、10月17日0725Z、01-14.26N 104-00.46E、\r\r\n航行中の台船が何者かに乗り込まれたとの報告あり。付近航行船舶は注意されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264113&LANG=JP"
     },
     {
       "id": "JAPANNW-264112",
@@ -1872,18 +1896,6 @@
       "geometry": null,
       "rawText": "番号:26-4052   発表日時:2026年10月15日 08時\r\n\n\r\n★ スリランカ南東、\r\r\n射撃、\r\r\n(1)10月19日0330Z-1230Z、04-32.42N 05-03.51N \r\r\n   084-47.59E 085-22.36E、\r\r\n(2)10月20日0330Z-1230Z、04-29.39N 05-03.07N\r\r\n   082-04.14E 082-39.27E、\r\r\nの各線で囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264052&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264048",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4048",
-      "title": "ホルムズ海峡、コンテナ漂流",
-      "publishedAt": "2026-10-14T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4048   発表日時:2026年10月14日 21時\r\n\n\r\n★ ホルムズ海峡、\r\r\nコンテナ漂流、10月14日、26-16.8N 056-08.6E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264048&LANG=JP"
     },
     {
       "id": "JAPANNW-264046",
