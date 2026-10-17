@@ -105,5 +105,27 @@
       "url": "https://www.cnbc.com/2026/10/16/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet.html"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-17-01",
+    "headline": {
+      "ja": "パキスタン・バロチスタン州でM5.7の地震",
+      "en": "M5.7 earthquake strikes Balochistan, Pakistan"
+    },
+    "summary": {
+      "ja": "米地質調査所(USGS)によると、10月17日05:06(UTC)、パキスタン・バロチスタン州クズダール北西約48kmを震源とするマグニチュード5.7、震源の深さ10kmの地震が発生した。現時点で死傷者・大きな被害の報告はない。",
+      "en": "According to the USGS, a magnitude 5.7 earthquake with a depth of 10km struck about 48km WNW of Khuzdar, Balochistan, Pakistan, at 05:06 UTC on October 17. No casualties or major damage have been reported so far."
+    },
+    "category": "disaster",
+    "country": "Pakistan",
+    "region": "Balochistan",
+    "lat": 27.99,
+    "lon": 66.17,
+    "occurredAt": "2026-10-17T05:06:57+00:00",
+    "source": {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1"
+    },
+    "reliability": "high"
   }
 ]
