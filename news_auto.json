@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-14373",
+    "headline": {
+      "ja": "ウクライナ大統領、EUサミットでロシアの脅威について警告",
+      "en": "Ukraine president warns about Russian threat at EU summit"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領はEUサミットで、ロシアの野望はウクライナ東部にとどまらず、ロシアのドローン攻撃がNATOへの脅威になると警告した。",
+      "en": "President Zelenskyy warned at the EU summit that Russia's ambitions extend beyond eastern Ukraine and that Russian drone attacks threaten NATO."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-16T17:59:48+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_zelenskyy_eu_summit_nato_threat_2026-10-16"
+  },
+  {
     "id": "auto-14039",
     "headline": {
       "ja": "レバノン ヒズボラ爆薬押収で政治分裂",
@@ -44,6 +67,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_coalition_red_sea_missile_intercept_2026"
+  },
+  {
+    "id": "auto-14638",
+    "headline": {
+      "ja": "イスラエル軍、レバノン南部で空爆・砲撃・破壊活動を展開",
+      "en": "Israeli army conducts airstrikes, artillery shelling, and demolitions in southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍がレバノン南部で空爆、砲撃、建物破壊などの軍事作戦を展開している。",
+      "en": "Israeli army is conducting military operations in southern Lebanon including airstrikes, artillery shelling, and demolitions."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-16T14:34:58+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWNBeVR6U1hXWm1vUVVyblpjQmxHZEw2WjFNd0lsVXdtS1Y3eUNidFQ5RzZiQVRzLUk2WXhOdS1UVFFMTkoyLVdkam1GYWFZSlFuTVppbEVLMzBYYzZPWDZyVHBnNG5TMnl3N0dKUGI3SXhwU213RWl6dDdMVXV0Ti1wazBVcGRMMnJsdVhPdGEwQmFaWE9tOGZXTEIwOUc1WmcxWjBCOEk1RmpsYURibC1qZFhZVTNoS085SXBtWVRoVWxBZi1z?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_military_operations_2026-10-16"
   },
   {
     "id": "auto-13817",
@@ -2936,99 +2982,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "hurricane_isaias_gulf_2026-10-09"
-  },
-  {
-    "id": "auto-638",
-    "headline": {
-      "ja": "ハリケーン・イザイアスがフロリダに上陸",
-      "en": "Hurricane Isaias makes landfall in Florida"
-    },
-    "summary": {
-      "ja": "危険度の高いハリケーン・イザイアスがフロリダに上陸し、アラバマ、ジョージア、ルイジアナにも影響を及ぼす見通し。",
-      "en": "Life-threatening Hurricane Isaias has made landfall in Florida and is expected to impact Alabama, Georgia, and Louisiana."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-10T01:58:56+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_florida_2026-10-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-639",
-    "headline": {
-      "ja": "プーチン大統領、ウクライナ交渉は困難だと述べる",
-      "en": "Putin tells Trump peace talks are unlikely"
-    },
-    "summary": {
-      "ja": "ロシア大統領プーチンは、先月のモスクワへのドローン攻撃が三国間平和交渉を妨げたとして、ウクライナ平和交渉の可能性は低いとトランプ大統領に述べた。",
-      "en": "Putin stated that drone attacks on Moscow during last month's election have undermined trilateral peace negotiations, making peace talks unlikely."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-10T01:40:51+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_peace_talks_2026-10"
-  },
-  {
-    "id": "auto-641",
-    "headline": {
-      "ja": "パナマ南部で2つの地震が発生、大規模災害を宣言",
-      "en": "Dual quakes devastate southern Panama"
-    },
-    "summary": {
-      "ja": "パナマ南部で2つの地震が相次いで発生し、大統領が大規模災害を宣言した。",
-      "en": "Panama's president declared a major disaster after two earthquakes struck the country's south."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.9936,
-    "lon": -79.5197,
-    "occurredAt": "2026-10-10T00:53:15+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_southern_earthquake_2026-10-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-642",
-    "headline": {
-      "ja": "イスラエルのドローン攻撃でレバノン国境近くで6人負傷",
-      "en": "Israeli drone attack wounds six in Lebanon near Syria border"
-    },
-    "summary": {
-      "ja": "イスラエルのドローン攻撃により、シリア・レバノン国境近くで5人のシリア人と1人のレバノン人が負傷した。",
-      "en": "An Israeli drone attack wounded five Syrians and one Lebanese person in an area near the Lebanon-Syria border."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-10T00:22:52+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_lebanon_drone_attack_2026-10-10"
   }
 ]
