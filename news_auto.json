@@ -23,6 +23,52 @@
     "eventKey": "yemen_taiz_houthis_civilian_casualties_2026-10"
   },
   {
+    "id": "auto-15275",
+    "headline": {
+      "ja": "トランプ大統領、ロシア制裁を一部撤廃しゼレンスキーとの対立激化",
+      "en": "Trump waives several Russia sanctions as row with Zelensky intensifies"
+    },
+    "summary": {
+      "ja": "米国大統領はロシアに対する複数の制裁を一時的に終了した。制裁は議会が最近可決したものであるが、国家安全保障上の懸念を理由に撤廃された。これによりゼレンスキー大統領との対立が激化している。",
+      "en": "The US president has temporarily ended several Russia sanctions recently passed by Congress, citing national security concerns, intensifying tensions with President Zelensky."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T06:39:40+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_trump_russia_sanctions_zelensky_2026-10-17"
+  },
+  {
+    "id": "auto-15202",
+    "headline": {
+      "ja": "イスラエル人入植者がパレスチナ人オリーブ収穫者を攻撃",
+      "en": "Israeli colonists attack Palestinian olive harvesters"
+    },
+    "summary": {
+      "ja": "ラマッラー近郊でイスラエル人入植者がパレスチナ人のオリーブ収穫作業と支援者を攻撃した事件が報告された。",
+      "en": "Israeli colonists attacked Palestinian olive harvesters and their supporters near Ramallah in a reported incident."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.8996,
+    "lon": 35.2042,
+    "occurredAt": "2026-10-17T06:04:07+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tSzJ0OWFQLTU4RUc3ejlFaUctd2RvdmVnUFJMenQ2dUJtMmljdGFaclRvTTRZRmcwV0VlajBVZ1pWaUxoSkZVQ3FfbXdxaS1aeDNFb3N1cw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_israel_settler_attack_ramallah_2026-10-17"
+  },
+  {
     "id": "auto-15492",
     "headline": {
       "ja": "パキスタン・バロチスタン州でマグニチュード5.6の地震発生",
@@ -44,6 +90,192 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "pakistan_balochistan_earthquake_2026-10-17"
+  },
+  {
+    "id": "auto-15219",
+    "headline": {
+      "ja": "石油スーパータンカーが機雷衝突後に火災・爆発",
+      "en": "Oil supertanker catches fire after striking mine in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イスラム革命防衛隊海軍によると、200万バレル以上の原油を運搬するスーパータンカーがホルムズ海峡での不認可ルートで機雷に衝突し、火災と爆発を起こした。",
+      "en": "The Islamic Revolution Guards Corps (IRGC) Navy reported that a supertanker carrying over 2 million barrels of crude oil caught fire and exploded after striking a naval mine while attempting to cross the Strait of Hormuz through an unauthorized route."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-17T05:22:30+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86294516/Oil-supertanker-catches-fire-after-striking-mine-in-Strait-of"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_oil_supertanker_fire_strait_hormuz_2026-10-17",
+    "severity": 4
+  },
+  {
+    "id": "auto-15208",
+    "headline": {
+      "ja": "ロシアのウクライナ攻撃で8人以上が死亡、100万人が停電",
+      "en": "Russian attacks in Ukraine kill at least 8, cut power to 1 million"
+    },
+    "summary": {
+      "ja": "ロシアはハルキウ、クラマトルスク、ボリン、リヴネを攻撃し、少なくとも8人が殺害され、約100万人の住民が停電に見舞われた。モスクワはウクライナの電力網に対する攻撃キャンペーンを続行している。",
+      "en": "Russian strikes on Kharkiv, Kramatorsk, Volyn and Rivne resulted in at least 8 deaths and cut power to approximately 1 million residents as Moscow presses its campaign against Ukraine's power grid."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-17T05:19:19+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russian_attacks_power_grid_2026-10-17"
+  },
+  {
+    "id": "auto-15211",
+    "headline": {
+      "ja": "トランプ大統領、ロシア制裁を撤廃しゼレンスキーとの溝が拡大",
+      "en": "Trump waives Russia sanctions as rift with Zelenskyy widens"
+    },
+    "summary": {
+      "ja": "米国大統領ドナルド・トランプはエネルギー価格を緩和する目的でロシアに対する制裁をさらに撤廃した。この措置はウクライナ大統領ゼレンスキーとの間の外交的距離を拡大させている。",
+      "en": "US President Donald Trump has waived further sanctions on Russia to ease energy prices, a move that is widening the diplomatic gap with Ukrainian President Zelenskyy."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T04:58:32+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_trump_russia_sanctions_zelenskyy_rift_2026-10-17"
+  },
+  {
+    "id": "auto-15152",
+    "headline": {
+      "ja": "トランプ大統領、新たなロシア制裁法案に署名後、実施を一時保留",
+      "en": "Trump puts on hold new Russia sanctions he signed into law"
+    },
+    "summary": {
+      "ja": "トランプ大統領は、署名したばかりの新しいロシア制裁法の実施を一時的に保留する行政命令を発令した。これは制裁期限の2日前とプーチン大統領とのディーゼル取引の1週間後に発表された。",
+      "en": "President Trump has issued an executive order to temporarily hold the implementation of new Russia sanctions he just signed into law, coming two days before the sanctions deadline and a week after a diesel deal with Putin."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T04:45:03+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_trump_russia_sanctions_hold_2026-10-17"
+  },
+  {
+    "id": "auto-15199",
+    "headline": {
+      "ja": "米国、イランを海上貿易から排除と発表",
+      "en": "US says Iran barred from maritime trade"
+    },
+    "summary": {
+      "ja": "米国はイランを国際海上貿易から排除する圧力キャンペーンを展開し、イランの石油収益と軍事資金を制限する方針を発表した。",
+      "en": "The United States announced measures to bar Iran from maritime trade as part of a pressure campaign targeting Iran's oil revenue and military funding."
+    },
+    "category": "economy",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-17T04:41:24+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamFGQ1FqRGxUcTJ6bFJGSEEwa1gzYVM1eUNGX3FaWFdUVjhNN0xKLW5yNmYycXZ3WHRKd2R5NlRMci1EZEJ4aVVjMm1WZkJXRjB5NnVrcm1GX0ZQaDloTV9BODJsUEg4QTZDeVlMZ05ISFRKQjdXQVlCc1hfLURCNF9OZUFJbHBRNFpKUXVndTRiN0ZYWnFhTlJvRC0yRDhZUmU4akZ6TkdlMkRyUzhWV0dWY3E0UzlhWDRnNVZTY0JlX1VJdFdrdDZ1a0ZqS2Z6SkljNA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_iran_maritime_trade_ban_2026-10-17"
+  },
+  {
+    "id": "auto-15079",
+    "headline": {
+      "ja": "南カリフォルニア野火、多数の住宅を焼失",
+      "en": "Southern California wildfire engulfs homes"
+    },
+    "summary": {
+      "ja": "オレンジ郡で急速に広がるノルテ火災は、強い暖風と季節外れの高気温に促進され、複数の住宅が焼失し多数の避難勧告が発令された。",
+      "en": "The fast-spreading Norte Fire in Orange County is fueled by intense warm winds and unseasonably high temperatures, causing homes to be engulfed and triggering evacuation orders."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 33.7878,
+    "lon": -117.8531,
+    "occurredAt": "2026-10-17T03:30:36+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_california_norte_fire_orange_county_2026-10-17"
+  },
+  {
+    "id": "auto-15196",
+    "headline": {
+      "ja": "イランの石油タンカー、ホルムズ海峡で機雷に衝突",
+      "en": "Iran says oil tanker hit naval mine in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン政府によると、ホルムズ海峡で石油タンカーが機雷に衝突したという。同海峡は世界的に重要な石油輸送路であり、この事件は地域の安定と国際エネルギー市場に影響を与える可能性がある。",
+      "en": "According to Iran, an oil tanker struck a naval mine in the Strait of Hormuz, a critical global oil shipping route, an incident that could impact regional stability and international energy markets."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-17T03:19:05+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTVJWkNWMEtwLWYxZGRNcGNkS3pQMGhmTGUzZ2F1MVVrM0JJTTgzbGhnd3k0aldmOVAtY3NaQ2hMMGJLUjN1XzlORFJRTkY1bS01dkhndjI2VVZTd091MWgwWDdpbTNhRjBnYks0SHdST202MnQtOVpPSmRHSFdkdHBsVGJCQnAwcE91M1ZhZGZYR3VqajM1SGxBYmloMDNSNVE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_oil_tanker_mine_strait_hormuz_2026-10-17",
+    "severity": 4
+  },
+  {
+    "id": "auto-15123",
+    "headline": {
+      "ja": "トランプ政権、新ロシア制裁法下でしたがって関税を一部撤廃",
+      "en": "Trump waives tariffs under new Russia sanctions law"
+    },
+    "summary": {
+      "ja": "トランプ政権は新しいロシア制裁法の枠組みの下で、複数の制裁および関税を撤廃した措置を発表した。",
+      "en": "The Trump administration has announced measures to waive tariffs and many sanctions under a new Russia sanctions law framework."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T02:56:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk1Na2QzczVDWHdWZjQtTWRRYUwtemVCV3BhZVliTS1MdGpPMzJoMTJBWFVnRnYtS2lGdUxEeGZrR09pXzlxX000ZU8tMmNtMkRWTG40RFRnWndaeEJ0Z2d2ZDVCcUZROUlKS2RvNGNWM0NTUU1BVEI4VmNjRzlnQUxDTFZ5c3NxRnA3RVh5eHVsbnFpUW1JS2l1UEI0Z1MtRjVrV1h2OA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_trump_russia_tariffs_sanctions_2026-10-17"
   },
   {
     "id": "auto-14799",
@@ -91,6 +323,29 @@
     "auto": true,
     "eventKey": "north_korea_superspeed_torpedo_test_2026-10",
     "severity": 4
+  },
+  {
+    "id": "auto-15136",
+    "headline": {
+      "ja": "トランプ大統領、ロシアエネルギー購入者への100%関税を撤廃",
+      "en": "Trump waives 100% tariffs on key buyers of Russian energy"
+    },
+    "summary": {
+      "ja": "トランプ大統領は、ロシアエネルギーの主要購入者に対する100%の関税を撤廃する措置を発表した。",
+      "en": "President Trump has announced a waiver of 100% tariffs on key buyers of Russian energy."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T02:00:01+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53RzFPRTRFUG9pYjUzU0JvWEwtMVlTZ2NUTUdQQlhxMU5SN0xTRzg2bnJvVk1SMms1c1FOUFZfdzFRMjZJWVdyLW5oNFrSAUxBVV95cUxOd0cxT0U0RVBvaWI1M1NCb1hMLTFZU2djVE1HUEJYcTFOUjdMU0c4Nm5yb1ZNUjJrNXNRTlBWX3cxUTI2SVlXci1uaDRa?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_trump_russian_energy_tariffs_2026-10-17"
   },
   {
     "id": "auto-14804",
@@ -3171,97 +3426,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "usa_florida_hurricane_isaias_2026-10-10"
-  },
-  {
-    "id": "auto-3186",
-    "headline": {
-      "ja": "ハリケーン・イザイアの米国死者数が4人に",
-      "en": "US Death Toll from Hurricane Isaias Reaches Four"
-    },
-    "summary": {
-      "ja": "ハリケーン・イザイアによる米国の死者数が4人に達したと報じられている。",
-      "en": "The death toll from Hurricane Isaias in the United States has reached four people."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-10T19:59:36+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1na0R6RFg1NUJqTlE2Qm5RUWNBU0dCZGR1ODN0NWFuSDBYS2xSdEdYYl9PcWQtT2lTc1JtYnlubnNBMEF0ZWJpWEx1cmFXbU8xTFHSAVJBVV95cUxNZ2tEekRYNTVCak5RNkJuUVFjQVNHQmRkdTgzdDVhbkgwWEtsUnRHWGJfT3FkLU9pU3NSbWJ5bm5zQTBBdGViaVhMdXJhV21PMUxR?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_florida_hurricane_isaias_deaths_2026-10"
-  },
-  {
-    "id": "auto-2355",
-    "headline": {
-      "ja": "イランのミサイル・ドローン生産能力が維持されていると西側が指摘",
-      "en": "Western officials say Iran has preserved missile and drone manufacturing capacity"
-    },
-    "summary": {
-      "ja": "西側当局者によると、イランはミサイルとドローン工場を保有し、弾道ミサイルと対艦兵器の備蓄を維持しており、ロシアから追加ミサイル供給を受けているという。",
-      "en": "According to Western officials, Iran has maintained its missile and drone factories with significant stockpiles of ballistic and anti-ship weapons, including new supplies from Russia."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-10T17:09:01+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20477"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "iran_missile_production_capability"
-  },
-  {
-    "id": "auto-2889",
-    "headline": {
-      "ja": "サウジ民間航空庁、リヤド空港への攻撃を報告、運用を一時停止",
-      "en": "GACA Reports Attack on King Khalid Airport in Riyadh, Operations Temporarily Suspended"
-    },
-    "summary": {
-      "ja": "サウジアラビア民間航空庁(GACA)は、キング・ハーリド国際空港がリヤドで攻撃を受けたことを報告。空港の運用が一時的に停止された。",
-      "en": "Saudi Arabia's General Authority of Civil Aviation (GACA) reported attack on King Khalid International Airport in Riyadh with operations temporarily suspended."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-10T16:58:23+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yMmlycG94b2dlMjZkb0NfSTJxQ3VSclQzd01teWp0blRaVG9UaVlhX3BQSGFOcVp4bzAxN1FTcTVkcUhUMlBLenFR?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_airport_attack_suspension_2026-10"
-  },
-  {
-    "id": "auto-848",
-    "headline": {
-      "ja": "米国、パナマ地震について声明を発表",
-      "en": "US State Department Releases Statement on Panama Earthquake"
-    },
-    "summary": {
-      "ja": "米国国務省がパナマの地震について声明を発表した。",
-      "en": "The U.S. State Department released a statement regarding the earthquake in Panama."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.9936,
-    "lon": -79.5197,
-    "occurredAt": "2026-10-10T15:17:59+00:00",
-    "source": {
-      "name": "米国 国務省",
-      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09"
   }
 ]
