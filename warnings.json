@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-10-16T23:27:08.362Z",
+  "generatedAt": "2026-10-17T00:41:04.613Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 215,
+  "count": 212,
   "warnings": [
+    {
+      "id": "NAVAREA11-260470",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "海底施設",
+      "number": "0470",
+      "title": "シンガポール海峡、海底線修理作業終了",
+      "publishedAt": "2026-10-17T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0470    発表日時:2026年10月17日 09時\r\n\n\r\nSOUTH CHINA SEA, SOUTHERN PART.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/V PETER FABER  CONCLUDED.\r\r\nCANCEL 0428/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260470&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260469",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0469",
+      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
+      "publishedAt": "2026-10-17T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0469    発表日時:2026年10月17日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nA. APRA HARBOR, 13-27.20N 144-39.21E.\r\r\nB. ROTA HARBOR, 14-08.35N 145-08.09E.\r\r\nC. TINIAN, 14-57.95N 145-37.26E.\r\r\nD. SAIPAN, 15-13.56N 145-44.25E.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260469&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260468",
       "type": "NAVAREA11",
@@ -26,18 +50,6 @@
       "geometry": null,
       "rawText": "NO.26-0467    発表日時:2026年10月16日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nHAZARDOUS OPERATIONS. \r\r\n0200Z TO 0800Z DAILY 20 AND 21 OCT.\r\r\nAREA BOUNDED BY 17-00.00N 145-05.00E\r\r\n17-00.00N 147-00.00E\r\r\n16-09.47N 148-09.77E\r\r\n15-25.00N 148-04.00E\r\r\n15-25.00N 146-25.00E\r\r\n15-40.37N 146-12.05E\r\r\n15-43.62N 145-27.77E.\r\r\nCANCEL THIS MSG 210900Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260467&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260466",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "海底施設",
-      "number": "0466",
-      "title": "台湾海峡、海底線修理作業終了",
-      "publishedAt": "2026-10-16T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0466    発表日時:2026年10月16日 09時\r\n\n\r\nTAIWAN STRAIT.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/S ILE DE RE CONCLUDED.\r\r\nCANCEL 0448/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260466&LANG=JP"
     },
     {
       "id": "NAVAREA11-260465",
@@ -206,18 +218,6 @@
       },
       "rawText": "NO.26-0430    発表日時:2026年09月26日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nGUNNERY. 2300Z TO 0900Z COMMENCING DAILY\r\r\n30 SEP TO 30 OCT. AREA BOUNDED BY\r\r\n28-15-15N 146-29-47E\r\r\n25-25-16N 147-37-47E\r\r\n25-00-16N 145-35-48E\r\r\n27-55-15N 144-57-48E.\r\r\nCANCEL THIS MSG 311000Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260430&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260428",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "海底施設",
-      "number": "0428",
-      "title": "シンガポール海峡、海底線修理作業",
-      "publishedAt": "2026-09-25T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0428    発表日時:2026年09月25日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nSUBMARINE CABLE REPAIRING WORKS BY\r\r\nC/V PETER FABER, 23 SEP TO UNTIL \r\r\nFURTHER NOTICE. IN VICINITY OF\r\r\n01-16.75N 104-08.14E.\r\r\nCANCEL 0412/26 AND 0423/26.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260428&LANG=JP"
     },
     {
       "id": "NAVAREA11-260408",
@@ -3724,54 +3724,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261975&LANG=JP"
     },
     {
-      "id": "NAVTEX-261974",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "1974",
-      "title": "日ノ御埼西−阪神港、起重機船えい航",
-      "publishedAt": "2026-10-16T17:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            135,
-            33.88333333333333
-          ],
-          [
-            135.33333333333334,
-            34.666666666666664
-          ]
-        ]
-      },
-      "rawText": "番号:26-1974    発表日時:2026年10月16日 17時\r\n\n\r\n日ノ御埼西-阪神港、\r\r\nえい船(昇陽丸、MMSI 432543000)による\r\r\n起重機船(金剛)えい航、日ノ御埼西\r\r\n(33-53N 135-00E)10月16日2315通過、\r\r\n友ケ島水道経由、阪神港(34-40N 135-20E)17日\r\r\n1356到着予定、速力約5ノット、長さ310メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261974&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261973",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "1973",
-      "title": "日ノ御埼西−友ヶ島水道、起重機船えい航",
-      "publishedAt": "2026-10-16T17:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            135.03333333333333,
-            33.88333333333333
-          ],
-          [
-            135,
-            34.28333333333333
-          ]
-        ]
-      },
-      "rawText": "番号:26-1973    発表日時:2026年10月16日 17時\r\n\n\r\n日ノ御埼西-友ヶ島水道、\r\r\n曳船(神隆丸、MMSI 431030206)による\r\r\n起重機船(新建隆)えい航、日ノ御埼西(33-53N \r\r\n135-02E)10月16日2200通過、\r\r\n友ケ島水道(34-17N 135-00E)17日0300\r\r\n通過予定、速力約5ノット、長さ最大350メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261973&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261972",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3922,30 +3874,6 @@
       "geometry": null,
       "rawText": "番号:26-1967    発表日時:2026年10月16日 13時\r\n\n\r\n犬吠埼北、\r\r\n射撃、10月21日(予備22日)0800-2400、\r\r\n36-13.1N 140-55.2Eを中心とする\r\r\n半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261967&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261964",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "1964",
-      "title": "日ノ御埼西−福山港、起重機船えい航",
-      "publishedAt": "2026-10-15T21:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            135,
-            33.88333333333333
-          ],
-          [
-            133.45,
-            34.416666666666664
-          ]
-        ]
-      },
-      "rawText": "番号:26-1964    発表日時:2026年10月15日 21時\r\n\n\r\n日ノ御埼西-福山港、\r\r\nえい船(第82たけ丸、MMSI 431300812)による\r\r\n起重機船(富士、長さ105メートル)えい航、\r\r\n日ノ御埼西(33-53N 135-00E)、10月16日\r\r\n0140通過、友ケ島水道、明石海峡航路、備讃瀬戸東航路、\r\r\n備讃瀬戸北航路経由、福山港(34-25N 133-27E)、\r\r\n17日0900到着予定、速力約5ノット、\r\r\n長さ約264メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261964&LANG=JP"
     },
     {
       "id": "NAVTEX-261963",
