@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T11:27:36.588Z",
+  "generatedAt": "2026-10-17T12:32:50.955Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 204,
+  "count": 200,
   "warnings": [
     {
       "id": "NAVAREA11-260470",
@@ -26,18 +26,6 @@
       "geometry": null,
       "rawText": "NO.26-0469    発表日時:2026年10月17日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nA. APRA HARBOR, 13-27.20N 144-39.21E.\r\r\nB. ROTA HARBOR, 14-08.35N 145-08.09E.\r\r\nC. TINIAN, 14-57.95N 145-37.26E.\r\r\nD. SAIPAN, 15-13.56N 145-44.25E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260469&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260468",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "訓練試験",
-      "number": "0468",
-      "title": "父島北東、射撃終了",
-      "publishedAt": "2026-10-16T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0468    発表日時:2026年10月16日 21時\r\n\n\r\nNORTH PACIFIC, NANPO SHOTO.\r\r\nGUNNERY CONCLUDED. \r\r\nCANCEL 0456/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260468&LANG=JP"
     },
     {
       "id": "NAVAREA11-260467",
@@ -162,18 +150,6 @@
       },
       "rawText": "NO.26-0464    発表日時:2026年10月15日 21時\r\n\n\r\nNORTH PACIFIC, EAST CAROLINES.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK, 1008 TONS, 152000Z OCT TO\r\r\nUNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n10-04N 149-40E 09-40N 150-23E\r\r\n09-17N 150-40E 09-02N 150-43E.\r\r\nCANCEL 0433/26.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260464&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260463",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "訓練試験",
-      "number": "0463",
-      "title": "マリアナ諸島、グアム島北東、危険な訓練",
-      "publishedAt": "2026-10-14T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0463    発表日時:2026年10月14日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nHAZARDOUS OPERATIONS. \r\r\n170001Z TO 170600Z OCT. AREA BOUNDED BY\r\r\n17-00.00N 145-04.98E\r\r\n17-00.00N 146-27.65E\r\r\n15-25.00N 146-27.65E\r\r\n15-25.00N 146-25.00E\r\r\n15-40.37N 146-12.03E\r\r\n15-43.60N 145-27.77E.\r\r\nCANCEL THIS MSG 170700Z OCT.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260463&LANG=JP"
     },
     {
       "id": "NAVAREA11-260457",
@@ -3594,6 +3570,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261979",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海底施設",
+      "number": "1979",
+      "title": "潮岬南、海底線敷設作業終了",
+      "publishedAt": "2026-10-17T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1979    発表日時:2026年10月17日 21時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業終了。\r\r\n(1968削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261979&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261978",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3604,18 +3592,6 @@
       "geometry": null,
       "rawText": "番号:26-1978    発表日時:2026年10月17日 13時\r\n\n\r\n浜田港北西、\r\r\n射撃、10月22日(予備23日)0700-2400、\r\r\n35-03.4N 131-51.4Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261978&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261976",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "水深",
-      "number": "1976",
-      "title": "酒田港、水中障害物撤去",
-      "publishedAt": "2026-10-16T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1976    発表日時:2026年10月16日 17時\r\n\n\r\n本州北西岸、酒田港、\r\r\n水中障害物撤去。\r\r\n(1930削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261976&LANG=JP"
     },
     {
       "id": "NAVTEX-261971",
@@ -3732,18 +3708,6 @@
       },
       "rawText": "番号:26-1969    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月19日、21日、23日毎日0900-1600、\r\r\n20日、22日毎日0900-2200、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261969&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261968",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海底施設",
-      "number": "1968",
-      "title": "潮岬南、海底線敷設作業",
-      "publishedAt": "2026-10-16T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1968    発表日時:2026年10月16日 13時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業、当分の間、\r\r\n33-06.0N 136-22.5E\r\r\n32-27.0N 136-17.5E\r\r\n32-10.0N 134-57.0Eで囲まれる海面。\r\r\n(1926削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261968&LANG=JP"
     },
     {
       "id": "NAVTEX-261967",
@@ -4182,46 +4146,6 @@
       "geometry": null,
       "rawText": "番号:26-1925    発表日時:2026年10月10日 11時\r\n\n\r\n姫路港、\r\r\n広畑航路第4号灯浮標(34-44.5N\r\r\n134-37.4E、灯台表第1巻、3869)流失。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261925&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261917",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1917",
-      "title": "巨済島南東（Ｄ−９９）、射撃",
-      "publishedAt": "2026-10-09T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128.72416666666666,
-            34.68444444444444
-          ],
-          [
-            128.84194444444447,
-            34.76833333333333
-          ],
-          [
-            128.89388888888888,
-            34.778888888888886
-          ],
-          [
-            129.05583333333334,
-            34.56305555555555
-          ],
-          [
-            128.71972222222223,
-            34.15361111111111
-          ],
-          [
-            128.58722222222224,
-            34.336666666666666
-          ]
-        ]
-      },
-      "rawText": "番号:26-1917    発表日時:2026年10月09日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、10月12日-15日毎日0800-1800、\r\r\n16日0700-1300、1330-1630、\r\r\n17日1000-1600、\r\r\n34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E\r\r\n34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E\r\r\n34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261917&LANG=JP"
     },
     {
       "id": "NAVTEX-261913",
