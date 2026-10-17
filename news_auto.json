@@ -3242,97 +3242,26 @@
     "eventKey": "saudi_riyadh_airport_attack_suspension_2026-10"
   },
   {
-    "id": "auto-1429",
+    "id": "auto-848",
     "headline": {
-      "ja": "パナマ中央部で7.7の地震が発生",
-      "en": "7.7-Magnitude Earthquake Strikes Central Panama"
+      "ja": "米国、パナマ地震について声明を発表",
+      "en": "US State Department Releases Statement on Panama Earthquake"
     },
     "summary": {
-      "ja": "パナマの中央部で 7.7 の地震が発生した。複数の独立した国営通信社がこれを報道している。",
-      "en": "A 7.7-magnitude earthquake struck central Panama, reported by multiple independent state news agencies."
+      "ja": "米国国務省がパナマの地震について声明を発表した。",
+      "en": "The U.S. State Department released a statement regarding the earthquake in Panama."
     },
     "category": "disaster",
     "country": "パナマ",
     "lat": 8.9936,
     "lon": -79.5197,
-    "occurredAt": "2026-10-10T12:05:14+00:00",
+    "occurredAt": "2026-10-10T15:17:59+00:00",
     "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55RmZEZWQyc1RwZzhXNDY2dWw0djdWNVUtRDk5b1BRTE5rN3hnanFWN1ZmMFg3UzdPM2ZhNzdjTHJlZVc3cVhqUWNR?oc=5"
+      "name": "米国 国務省",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
     },
     "reliability": "high",
     "auto": true,
-    "eventKey": "panama_earthquake_2026-10-09",
-    "severity": 4
-  },
-  {
-    "id": "auto-2084",
-    "headline": {
-      "ja": "ロシア軍、ザポリージャへの滑空爆弾攻撃で 15 人以上が死亡",
-      "en": "Russian Glide Bomb Attack on Zaporizhzhia Kills 15+ People"
-    },
-    "summary": {
-      "ja": "ロシア軍がウクライナ南東部のザポリージャに滑空爆弾で攻撃を実施。大規模集合住宅が破壊され、15人以上が死亡、子ども多数を含む。さらなる犠牲者ががれきの下にいる可能性がある。",
-      "en": "Russian military conducted a glide bomb attack on Zaporizhzhia in southeastern Ukraine, destroying a large apartment building with at least 15 killed including children, and potentially more victims buried in rubble."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-10T11:17:15+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhzhia_russia_bomb_attack_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-1856",
-    "headline": {
-      "ja": "ロシアの北部戦闘群がハルキウ地域のルカショボとロバノフカを支配下に置いた",
-      "en": "Russia's Battlegroup North takes control of Lukashovo, Lobanovka in Kharkov Region"
-    },
-    "summary": {
-      "ja": "ロシアの北部戦闘群は、ハルキウ地域のルカショボとロバノフカの支配を確保したと発表した。",
-      "en": "Russia's Battlegroup North announced taking control of Lukashovo and Lobanovka in Kharkov Region."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-10T10:26:38+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UMWtWODVSUXFfSzU2bUw2VlhvMkFSN3ZGSTVmWmhHaGVtaUdnYnFkQ3k4Y1Ytb3BkSTlnYzFkdWJSa0RKd2dkby1fOFPSAUxBVV95cUxOVDFrVjg1UlFxX0s1Nm1MNlZYbzJBUjd2Rkk1ZlpoR2hlbWlHZ2JxZEN5OGNWLW9wZEk5Z2MxZHViUmtESndnZG8tXzhT?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_north_kharkov_2026-10-10"
-  },
-  {
-    "id": "auto-1851",
-    "headline": {
-      "ja": "ロシアが 725 機のドローンを撃墜し、ウクライナ軍の損失は約 1,455 人",
-      "en": "Russian air defenses down 725 drones, Ukrainian losses total about 1,455 troops"
-    },
-    "summary": {
-      "ja": "ロシアは、ロシア空軍がウクライナのドローン 725 機を撃墜し、ウクライナ軍の損失は約 1,455 人に達したと発表した。",
-      "en": "Russia reported that its air defenses downed 725 Ukrainian drones, with Ukrainian losses totaling about 1,455 troops."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-10T09:55:39+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zQldDaUJwbnJwcExULVpyNzJWUmVJdXFKbXRpM1N6TV9Nb1IyeVpPaWpVQ205TGViRjNvNHQzeHBzZ2ZqN0JpdVJPTELSAUxBVV95cUxOM0JXQ2lCcG5ycHBMVC1acjcyVlJlSXVxSm10aTNTek1fTW9SMnlaT2lqVUNtOUxlYkYzbzR0M3hwc2dmajdCaXVST0xC?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_drone_losses_2026-10-10"
+    "eventKey": "panama_earthquake_2026-10-09"
   }
 ]
