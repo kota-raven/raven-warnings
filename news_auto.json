@@ -46,6 +46,76 @@
     "eventKey": "pakistan_balochistan_earthquake_2026-10-17"
   },
   {
+    "id": "auto-14799",
+    "headline": {
+      "ja": "トランプ大統領、新米国法によるロシア制裁の一部を緩和",
+      "en": "Trump waives several Russia sanctions as new US law takes effect"
+    },
+    "summary": {
+      "ja": "トランプ米国大統領は、ウクライナ戦争でのモスクワへの懲罰を目的とする新米法の一部は米国の国家利益に反すると述べ、ロシアに対する複数の制裁を緩和した。",
+      "en": "US President Trump waived several Russia sanctions, stating that parts of a new US law targeting Moscow for its war against Ukraine are against US national interests."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T02:48:36+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "trump_russia_sanctions_waiver_2026-10"
+  },
+  {
+    "id": "auto-14814",
+    "headline": {
+      "ja": "北朝鮮が超高速魚雷の水中試験を実施",
+      "en": "DPRK conducts underwater test-firing of superspeed torpedo"
+    },
+    "summary": {
+      "ja": "北朝鮮は、超高速魚雷の水中試験発射を実施したと報告した。",
+      "en": "North Korea conducted an underwater test-firing of a superspeed torpedo."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-10-17T02:18:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90a29FNXozbE12OHBESjg4NXd2UjRfOHk0R2MwRHRoMmR2VTM4eWE2d2pYLXV3MWpzUWxaSkVwbEFNWFJhWUROajdQYkJfaDB5SmkwVDhhcF84Ukl4SEVQbGhIc3R6cGNrd0ZFYzgtc3hDLXVWemJodmJ5UE4?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_superspeed_torpedo_test_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-14804",
+    "headline": {
+      "ja": "イエメン・タイズの医療危機が深刻化",
+      "en": "Healthcare crisis escalating in Yemen's besieged Taiz"
+    },
+    "summary": {
+      "ja": "イエメンでのイエメン・フーシ派と国際的に認識された政府との戦闘がタイズにおける人道危機を深刻化させている。",
+      "en": "Fighting between Yemen's Houthis and the internationally recognized government is deepening the humanitarian crisis in besieged Taiz."
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-10-17T01:37:07+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_taiz_healthcare_crisis_2026"
+  },
+  {
     "id": "auto-15003",
     "headline": {
       "ja": "パナマでマグニチュード7.5の大規模地震発生、746回の余震を記録",
@@ -68,6 +138,124 @@
     "auto": true,
     "eventKey": "panama_earthquake_75_2026-10-17",
     "severity": 4
+  },
+  {
+    "id": "auto-14807",
+    "headline": {
+      "ja": "イランのホルムズ海峡でスーパータンカーが機雷に接触して火災",
+      "en": "Iran reports oil supertanker hit by naval mine in Strait of Hormuz, catches fire"
+    },
+    "summary": {
+      "ja": "イランの革命防衛隊（IRGC）は、ホルムズ海峡でスーパータンカーが機雷に接触し火災が発生したと報告した。",
+      "en": "Iran's IRGC reported that an oil supertanker struck a naval mine in the Strait of Hormuz and caught fire."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-17T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_hormuz_tanker_mine_fire_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-14723",
+    "headline": {
+      "ja": "ロシア軍がウクライナの戦略目標への攻撃継続を報告",
+      "en": "Russian forces striking strategic targets in Ukraine"
+    },
+    "summary": {
+      "ja": "ロシア軍参謀総長ゲラシモフは、ウクライナの戦略目標への攻撃を継続していると述べた。",
+      "en": "Russian military chief Gerasimov stated that Russian forces are conducting strikes on strategic targets in Ukraine."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-16T21:16:36+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nNUNib1VrOUJiWUg3ekJOS2JnOUpDNHRJU1F2dzBzX0Itdy1rNGxIaVJkc3R6RlpkQXFhemdUNmsyRWNTaW9UetIBTkFVX3lxTFBfN1YtQjRRSW1fdUxmZ3pSd0hucU5qT2FRNEU1bWlzWThhXzlzeG03UThOQ1NrX1A1LWRQQ0JTajFvWmluTy02WENtX2Zjdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_strategic_targets_2026-10"
+  },
+  {
+    "id": "auto-14700",
+    "headline": {
+      "ja": "プーチン大統領、DPR解放と大規模攻撃継続を表明",
+      "en": "Putin states commitment to liberation of DPR and continuation of massive strikes"
+    },
+    "summary": {
+      "ja": "ロシア政府のプーチン大統領は、DPR解放、セキュリティゾーン設置、ウクライナへの大規模攻撃の継続を表明した。",
+      "en": "Russian President Putin stated commitment to the liberation of the DPR, establishment of a security zone, and continuation of massive strikes against Ukraine."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-16T20:10:57+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzZFlYaFMxMDBxMVo1Q2FPSUQ0TGo3WlR3UjJwQnl6RlpJZ1JvcmZyclBxSGRmRnVQMXRiTkhSa1dVZmVwejQza9IBTkFVX3lxTE92emJxNFktWENSZERtNGw1NjRwckZNSVpUZEZmZGZ4ank0UzVQN21HWC15cWtLcWJhU3dVQkh6cWdUOHBpM0NFdlhlSGRvQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_putin_dpr_offensive_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-14646",
+    "headline": {
+      "ja": "ガザでの停戦以降、イスラエル当局による子ども340人以上の殺害が報告される",
+      "en": "UNICEF: Israeli occupation forces have killed more than 340 children in Gaza since ceasefire"
+    },
+    "summary": {
+      "ja": "UNICEFの報告によると、停戦開始後、ガザでイスラエル当局によって340人を超える子どもが殺害されたとされている。",
+      "en": "According to UNICEF, more than 340 children have been killed by Israeli forces in Gaza since the ceasefire began."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-16T19:46:12+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Xc2puMlktMVFYVGcxWTZwVWNtVlUwbl9ha2szUnk5TDJ5V3RHdEhlZG1UaDRKSnZ4b1JfVXFRM1hmWUtFTUt4S0lPS2dialhTQzhDek1IVQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_children_casualties_ceasefire_2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-14790",
+    "headline": {
+      "ja": "トランプ前大統領、ウクライナへのスターリンク制限を否定",
+      "en": "Trump denies limiting Ukraine's Starlink access"
+    },
+    "summary": {
+      "ja": "トランプ前大統領は、ウクライナのスターリンク・ネットワークへのアクセスを制限しているという報道を否定した。",
+      "en": "Trump denied limiting Ukraine's access to the Starlink network despite reports of speed curbs affecting Ukraine's defenses."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-16T19:33:48+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "trump_starlink_ukraine_statement_2026-10"
   },
   {
     "id": "auto-14373",
@@ -93,6 +281,100 @@
     "eventKey": "ukraine_zelenskyy_eu_summit_nato_threat_2026-10-16"
   },
   {
+    "id": "auto-14735",
+    "headline": {
+      "ja": "プーチン大統領、DPRの領土の90%をロシア支配下と主張",
+      "en": "Putin claims Russia controls 90% of DPR territory"
+    },
+    "summary": {
+      "ja": "ロシア大統領プーチンは、ドネツク人民共和国（DPR）の領土の90%がロシアの支配下にあり、ウクライナ（キーフ）が支配しているのは10%に過ぎないと述べた。",
+      "en": "Russian President Putin stated that Russia controls 90% of DPR territory, with Ukraine controlling only 10%."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-16T17:41:03+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ja3J2cjVHd0ZWa1NtYUc5dkd6akhTYmFjc3N3UmtNNU9jemdSM2VzVlg4ZGlqSWRYTkVuZ0ZzbTBSWmxCR2otMW8zZkhnZ9IBTkFVX3lxTE9Ja3J2cjVHd0ZWa1NtYUc5dkd6akhTYmFjc3N3UmtNNU9jemdSM2VzVlg4ZGlqSWRYTkVuZ0ZzbTBSWmxCR2otMW8zZkhnZw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_dpr_territorial_control_2026-10"
+  },
+  {
+    "id": "auto-14740",
+    "headline": {
+      "ja": "リトアニアがレオパルド2A8戦車組立・修理施設の建設開始",
+      "en": "Lithuania starts construction of Leopard 2A8 assembly and repair facility"
+    },
+    "summary": {
+      "ja": "リトアニア国防省は、レオパルド2A8戦車の組立および修理施設の建設開始を発表した。",
+      "en": "Lithuania's defense ministry announced the start of construction for a Leopard 2A8 tank assembly and repair facility."
+    },
+    "category": "conflict",
+    "country": "リトアニア",
+    "lat": 54.6892,
+    "lon": 25.2798,
+    "occurredAt": "2026-10-16T17:08:15+00:00",
+    "source": {
+      "name": "リトアニア 国防省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1Q0UjY5UWNjWDJ6cjhkN1kyTnlSeUtBVW54blZFYXFVTWFGc2M3b0hWY1R6eV82UVNTa2FLR1dtR1A2WUhrVDRMcFkxRUQ2LU9TT1hFNlRvTmFOUjNFYzF0bm45SUxqcUZ3bnhrNGZ3MERRQXUtUWhtYjdmN2dSeVJTblk0S0R5OWppLTdUREVVSy0zSm0yVGxhc01UWmdJdXEtXzdoRjA4OU1OSnpNdWE5UQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "lithuania_leopard_tank_facility_2026"
+  },
+  {
+    "id": "auto-14732",
+    "headline": {
+      "ja": "プーチン大統領、ウクライナの防衛施設・兵站センター攻撃の継続を指示",
+      "en": "Putin calls for continuing strikes on enemy defense facilities and logistics centers"
+    },
+    "summary": {
+      "ja": "ロシア政府のプーチン大統領は、敵（ウクライナ）の防衛施設と兵站センターへの攻撃継続を呼びかけた。",
+      "en": "Russian President Putin called for continuing strikes on Ukraine's defense facilities and logistics centers."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-16T17:08:12+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50SnJVaW95NE1jNExIWUg5THlIZjc2di1OZnpWb1BlUHFCcldkOFlVbjhNSzE1YXZwSHlGVzBua0dYUThCcGNIT3dvMTlPUdIBTkFVX3lxTE50SnJVaW95NE1jNExIWUg5THlIZjc2di1OZnpWb1BlUHFCcldkOFlVbjhNSzE1YXZwSHlGVzBua0dYUThCcGNIT3dvMTlPUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_putin_ukraine_strike_orders_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-14403",
+    "headline": {
+      "ja": "ケニアでエボラ出血熱の3番目の症例が確認",
+      "en": "Kenya confirms third Ebola case"
+    },
+    "summary": {
+      "ja": "ケニアでエボラ出血熱の3番目の症例が確認された。",
+      "en": "Kenya has confirmed the third case of Ebola virus."
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-16T16:54:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkJpVXA3ZkUtc3VheVc1WGNSQWFFa2hzN1dIYjI1aEtlTUY1eU1aODlIT2ZKTUNBcjRRMHQtMlBPdmZOcGJBOWJVZmNHdHRXRHRQT2swVnRGMGs2V0ZrZzhjQnlWSTNPMWJQVnhCLU03ckVmMTM0QnU1QkktRGtlTGhBdXZVUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_ebola_outbreak_2026-10",
+    "severity": 4
+  },
+  {
     "id": "auto-14039",
     "headline": {
       "ja": "レバノン ヒズボラ爆薬押収で政治分裂",
@@ -114,6 +396,52 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "lebanon_hezbollah_explosives_seizure_2026"
+  },
+  {
+    "id": "auto-14787",
+    "headline": {
+      "ja": "ウクライナの反撃作戦「オペレーション・ヴィヴァルディ」がロシア軍を後退させる",
+      "en": "Ukrainian Operation Vivaldi pushes Russia back with Starlink support"
+    },
+    "summary": {
+      "ja": "ウクライナはオペレーション・ヴィヴァルディ作戦を実施しており、スターリンクの支援を受けながらドンバスで重要な領土をロシアから奪還している。",
+      "en": "Ukraine's Operation Vivaldi is reclaiming crucial territory in the Donbas from Russian forces with key support from Starlink."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-16T16:00:30+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_operation_vivaldi_counteroffensive_2026-10"
+  },
+  {
+    "id": "auto-14701",
+    "headline": {
+      "ja": "ロシア軍がウクライナの軍事施設に無人機で攻撃",
+      "en": "Russian forces strike Ukrainian army facilities with attack drones"
+    },
+    "summary": {
+      "ja": "ロシア軍は、ウクライナ軍の格納庫・シェルター・スターリンク端末に対して無人機による攻撃を実施した。",
+      "en": "Russian forces conducted attacks with drones on Ukrainian army hangars, shelters, and Starlink terminals."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-16T15:26:06+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kYWt0MWFacWlXZTI5N3VVRThnaDZLdlBpQWNDZDlqSWkzNDJ0ek5MQzRuVjhsUGNNUGlVMlkydUh2dUJNakVZ0gFMQVVfeXFMTkxrWGo0eGtuVy1GdUNqOE4wT2tQeExRWlNWQV9yc3lYaGZ1UlA1UklYZ1VlX0hWczd0SVRSWHdMek9RTHlfMFdsQjFMTg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_drone_strike_2026-10"
   },
   {
     "id": "auto-14202",
