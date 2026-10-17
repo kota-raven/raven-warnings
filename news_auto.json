@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-15418",
+    "headline": {
+      "ja": "イエメン・タイズでフーシ族による砲撃、民間人3人死亡5人負傷",
+      "en": "Houthi Shelling in Taiz, Yemen Kills 3 Civilians and Wounds 5"
+    },
+    "summary": {
+      "ja": "イエメン北西部のタイズでフーシ族による砲撃により、民間人3人が死亡、5人が負傷した。",
+      "en": "Houthi shelling in Taiz, Yemen killed 3 civilians and injured 5 others."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-10-17T07:24:14+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHdNWlZtcjZrTVByZERRNkw3amgxSHFBa2c1ZlNKeVZvcXlHdkY3OFNfQk05TE5BZmVUZWpYUVg5TTBWYmc4RkZFNk5OTXdtWUp5bG1PWV9xV3Z3MFRVY296eHBsVUVfUmg1TDlUQ1FlbUNzWmhCR0VJTFBvNGs2NDBFLXVuN1hET3BWTm82NVdxQ1JzNjhXc0JhbTBXcEZoeVhONTQ4WElKVkJT?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_taiz_houthis_civilian_casualties_2026-10"
+  },
+  {
+    "id": "auto-15003",
+    "headline": {
+      "ja": "パナマでマグニチュード7.5の大規模地震発生、746回の余震を記録",
+      "en": "Panama Hit by 7.5-Magnitude Earthquake with 746 Aftershocks"
+    },
+    "summary": {
+      "ja": "パナマでマグニチュード7.5の大規模地震が発生し、その後746回の余震が観測された。",
+      "en": "A 7.5-magnitude earthquake struck Panama, followed by 746 recorded aftershocks."
+    },
+    "category": "disaster",
+    "country": "パナマ",
+    "lat": 9.0407,
+    "lon": -79.4888,
+    "occurredAt": "2026-10-17T01:36:10+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1VheUZWcVB2UWswX0xvM3JUMnF0MTRyaTR4UzY0UnFwaEw0T3MzY0c5azloQTBXUWVxRlNNVUxzY3JhZWNTVi1Lb29YZWdCTGJzWGo2S0ZrWEg0bjVhM1JKUHBrSDBqcEFRQ3pnWmNXNDRvNWoxdkZma0JGT3BMRTlSQzAyTmxUQTNQYWFxUldScENKdVloTWppazZOZ3VvYzk5SzNWVTRJQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "panama_earthquake_75_2026-10-17",
+    "severity": 4
+  },
+  {
     "id": "auto-14373",
     "headline": {
       "ja": "ウクライナ大統領、EUサミットでロシアの脅威について警告",
@@ -2936,51 +2983,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_ukraine_drone_losses_2026-10-10"
-  },
-  {
-    "id": "auto-688",
-    "headline": {
-      "ja": "ハリケーン・イサイアス、米国南東部上陸後に勢力を弱める",
-      "en": "Hurricane Isaias Weakens After Making Landfall in US Gulf Coast"
-    },
-    "summary": {
-      "ja": "ハリケーン・イサイアスがアメリカ湾岸に上陸した後、勢力が減弱している。フロリダ州とアラバマ州で664,000以上の顧客が停電し、倒木と電線被害が発生している。",
-      "en": "Hurricane Isaias weakened after making landfall on the US Gulf Coast, leaving more than 664,000 customers without power in Florida and Alabama and causing downed trees and power line damage."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-10T08:33:44+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_hurricane_isaias_2026-10-10"
-  },
-  {
-    "id": "auto-1629",
-    "headline": {
-      "ja": "ハリケーン・イザイアス、米湾岸に上陸し避難と停電を引き起こす",
-      "en": "Hurricane Isaias Makes Landfall on US Gulf Coast, Forcing Evacuations, Power Outages"
-    },
-    "summary": {
-      "ja": "ハリケーン・イザイアスが米国メキシコ湾沿岸に上陸し、住民避難と広範な停電を引き起こしたと報じられた。",
-      "en": "Hurricane Isaias made landfall on the US Gulf Coast, forcing evacuations and causing widespread power outages."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-10T04:20:50+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR09FWjFKWmNpa05xQ0pvdWZ1dERtYWdEckJ6VTdQYnlPRm16eWxuczBBRU4xNzhsVnVsdWVybjNWMmk5cVZxcTlFc3hBMDVtOXVRYzQ3YmxuekpTN1VjN2ZESE1WSGoyUVoxbnBoRlFtQkJaMHpMeFloekwzR1hEd2hrdjRvUjAwSUVIanlhY2UxQ0JZNEh4QXZ1WmxvT1lhWlpiLTJmd2VhNDQwbi1seXhRTzNZZ0pvbE1xb3h6YmNiZw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "hurricane_isaias_gulf_2026-10-09"
   }
 ]
