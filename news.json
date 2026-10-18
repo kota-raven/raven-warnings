@@ -84,5 +84,49 @@
       "url": "https://www.foxweather.com/weather-news/typhoon-champi-could-make-rare-landfall-guam-after-rapidly-intensifying-el-nino-enhances-pacific-storms"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-18-02",
+    "headline": {
+      "ja": "カナダ・アルバータ州の陸軍基地で大規模火災、死傷者発生 国防相「記憶にある中で最悪の集団死傷事案」",
+      "en": "Large fire at Canadian Army base in Alberta leaves deaths and injuries; minister calls it worst mass-casualty event in recent memory"
+    },
+    "summary": {
+      "ja": "カナダ国防省によると、10月17日午後4時頃(現地時間)、アルバータ州のカナダ軍基地CFBワインライトの訓練エリアで火災が発生し、強風により基地の外にも延焼したという。マッギンティ国防相は、この火災で死者・負傷者が出ていると明らかにしたが、遺族への通知が完了するまで具体的な人数は公表しないとしたという。同国防相は、自身が知る限り近年で最悪の集団死傷事案だと述べたという。アルバータ州のスミス州首相も「重大で悲劇的な火災」と述べ、多数の軍関係者に影響が及んでいるとしたという。エドモントン市は多数の患者受け入れに備えて「コード・オレンジ」を発令し、エドモントン・サスカトーン両市からドクターヘリが派遣されたという。カナダ騎馬警察(RCMP)が原因を調査中としている。[信頼性: 高](CBC、CBSニュース、ABCニュース(オーストラリア)、アルジャジーラ、グローブ・アンド・メールが一致して報道。カナダ国防省・アルバータ州政府の発表に基づく)",
+      "en": "According to Canada's Department of National Defence, a fire broke out in the training area of Canadian Forces Base Wainwright in Alberta around 4 p.m. local time on October 17, and spread beyond the base due to strong winds. Defence Minister David McGuinty said the fire caused deaths and injuries, but said the department would not confirm numbers until next of kin are notified. He reportedly called it the worst mass-casualty event he was aware of in recent memory. Alberta Premier Danielle Smith called it a \"significant and tragic\" fire affecting many military personnel. Edmonton declared a \"code orange\" to prepare for a high number of patients, and air ambulances were dispatched from Edmonton and Saskatoon. The RCMP is investigating the cause. [Reliability: High] (Consistently reported by CBC, CBS News, ABC News Australia, Al Jazeera, and the Globe and Mail, based on statements from Canada's Department of National Defence and the Alberta government.)"
+    },
+    "category": "disaster",
+    "country": "カナダ",
+    "region": "アルバータ州",
+    "lat": 52.8365,
+    "lon": -110.8561,
+    "occurredAt": "2026-10-17T22:00:00+00:00",
+    "source": {
+      "name": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-strong-winds-9.7385505"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-18-03",
+    "headline": {
+      "ja": "フランス全土で生活費高騰への抗議デモが暴動化 1,800人超逮捕、警官ら500人超負傷、マクロン大統領が緊急対応",
+      "en": "Nationwide cost-of-living protests turn violent across France; over 1,800 arrested, 500+ police injured, Macron calls emergency meeting"
+    },
+    "summary": {
+      "ja": "フランス国内の複数都市で10月17日(土)、生活費の高騰や学校施設の老朽化などに対する抗議デモが行われ、一部が暴動化したと複数メディアが報じたという。主催者側は参加者を約80万人、当局は約55万人と発表したという。覆面の集団が各都市で放火や市庁舎など公共施設への攻撃を行ったとされ、少なくとも1,800人が逮捕されたとAP通信が報じたという。ヌネズ内相によると、警官・憲兵・消防士など500人超が負傷したという。パリ警察は、心臓発作により1人が死亡したと明らかにしたほか、サンテティエンヌ市では抗議参加者1人が手を切断する重傷を負ったと地元当局が明らかにしたという。ヌネズ内相は暴力について「極左の過激な集団」を非難したという。マクロン大統領は10月18日午後に治安当局高官らと緊急協議を行い、その後国民向け演説を行う予定としている。[信頼性: 高](CBCニュース、ABCニュース、CBSニュース、CNNが一致して報道。フランス政府(首相府・内務省)の発表内容に基づく)",
+      "en": "Multiple outlets reported that protests over the rising cost of living and deteriorating school conditions took place in several French cities on Saturday, October 17, with some turning violent. Organizers put the turnout at about 800,000, while authorities estimated about 550,000. Masked groups reportedly set fires and attacked public buildings, including city halls, in several cities; AP reported at least 1,800 arrests. Interior Minister Laurent Nuñez said more than 500 police officers, gendarmes and firefighters were injured. Paris police said one person died of a heart attack, and local officials in Saint-Étienne said a protester suffered a severed hand. Nuñez blamed \"extremely violent, radical far-left groups\" for the violence. President Macron was reportedly set to hold an emergency meeting with top security officials on the afternoon of October 18, followed by a national address. [Reliability: High] (Consistently reported by CBC News, ABC News, CBS News and CNN, based on statements from the French government.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-17T20:00:00+00:00",
+    "source": {
+      "name": "CBC News",
+      "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"
+    },
+    "reliability": "high"
   }
 ]
