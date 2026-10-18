@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-11-30-in-000041",
+    "recordType": "individual",
+    "country": "IN",
+    "shipName": "Shounack",
+    "shipNumber": null,
+    "shipType": "coast_guard",
+    "position": {
+      "area": "Japan to Australia transit",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上保安庁職員が日米豪印4カ国での2回目の「シップオブザーバー・ミッション」に参加。インド沿岸警備隊の巡視船「ショウナック」で豪州まで航海",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34494/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "2026-11-30-us-000038",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.28,
+      "lon": 139.6569,
+      "approximate": true
+    },
+    "activity": "セオドア・ルーズベルト打撃群は日米共同統合演習「Keen Sword27」に参加予定。横須賀で準備中。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34484/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "2026-10-31-jp-000039",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "巡視船ごとう",
+    "shipNumber": "PL-205",
+    "shipType": "coast_guard",
+    "position": {
+      "area": "Nagasaki, Japan",
+      "lat": 32.7449,
+      "lon": 129.8711,
+      "approximate": true
+    },
+    "activity": "第七管区海上保安本部の巡視船「ごとう」(PL-205、3,500トン級)が10月31日に長崎・水辺の森公園で就役後初の一般公開を実施予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34482/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "2026-10-29-us-000012",
     "recordType": "aggregate",
     "country": "US",
@@ -96,6 +168,78 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:20:00Z"
+  },
+  {
+    "id": "2026-10-16-us-000033",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.28,
+      "lon": 139.6569,
+      "approximate": true
+    },
+    "activity": "USNI Newsによると、原子力空母セオドア・ルーズベルト(CVN-71)は10月16日に横須賀海軍施設に入港。4年ぶりの前方展開ではない空母の寄港。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:00:00Z"
+  },
+  {
+    "id": "2026-10-16-us-000034",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Chosin",
+    "shipNumber": "CG-65",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.28,
+      "lon": 139.6569,
+      "approximate": true
+    },
+    "activity": "セオドア・ルーズベルト打撃群に含まれるミサイル巡洋艦チョーシン(CG-65)が横須賀に入港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:00:00Z"
+  },
+  {
+    "id": "2026-10-16-us-000035",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Decatur",
+    "shipNumber": "DDG-73",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.28,
+      "lon": 139.6569,
+      "approximate": true
+    },
+    "activity": "セオドア・ルーズベルト打撃群に含まれるミサイル駆逐艦ディケーター(DDG-73)が横須賀に入港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:00:00Z"
   },
   {
     "id": "2026-10-16-kp-000024",
@@ -215,6 +359,54 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
+    "id": "2026-10-15-ph-000037",
+    "recordType": "individual",
+    "country": "PH",
+    "shipName": "Miguel Malvar",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "Philippine EEZ",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "フィリピン海軍フリゲート「ミゲル・マルバー」が米掃海艦ウォリアーなどとEEZ内で海上協力活動を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34492/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
+    "id": "2026-10-15-us-000036",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Warrior",
+    "shipNumber": "MCM-10",
+    "shipType": "other",
+    "position": {
+      "area": "Philippine EEZ",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米掃海艦ウォリアー(MCM-10)がフィリピン海軍フリゲート「ミゲル・マルバー」などと比EEZ内で海上協力活動(MCA)を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34492/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-15T00:00:00Z"
@@ -488,6 +680,30 @@
     "observedAt": "2026-10-13T00:00:00Z"
   },
   {
+    "id": "2026-10-13-au-000042",
+    "recordType": "individual",
+    "country": "AU",
+    "shipName": "HMAS Stewart",
+    "shipNumber": "FFH-06",
+    "shipType": "frigate",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.28,
+      "lon": 139.6569,
+      "approximate": true
+    },
+    "activity": "オーストラリア海軍アンザック級フリゲート「スチュワート」(FFH-06)が10月13日に横須賀に入港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34458/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-13T00:00:00Z"
+  },
+  {
     "id": "2026-10-10-gb-000003",
     "recordType": "individual",
     "country": "GB",
@@ -678,6 +894,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-05T12:00:00Z"
+  },
+  {
+    "id": "-cn-000040",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "遼寧(Liaoning)",
+    "shipNumber": null,
+    "shipType": "carrier",
+    "position": {
+      "area": "Miyako Strait",
+      "lat": 25.35,
+      "lon": 125.45,
+      "approximate": true
+    },
+    "activity": "中国海軍空母「遼寧」を含む4艦が宮古海峡を南東進して太平洋へ向かっている。石垣島南方で艦載機の発着艦も確認。護衛艦ゆうぎり等が警戒監視。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34460/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-us-000008",
