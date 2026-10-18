@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-16565",
+    "headline": {
+      "ja": "サウジ主導軍がイエメン・タイズ市でのフーシ派包囲破りに空爆を実施",
+      "en": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導軍は、イエメンのタイズ市でのフーシ派による包囲を破るため、複数地点への空爆を実施した。",
+      "en": "Saudi-led forces struck multiple positions around the Yemeni city of Taiz to break the Houthi siege."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-10-18T01:12:44+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_taiz_saudi_led_airstrikes_2026-10-17"
+  },
+  {
+    "id": "auto-16418",
+    "headline": {
+      "ja": "サウジ主導連合軍がフーシ派のミサイル2発を迎撃",
+      "en": "Saudi-led coalition says it intercepted 2 Houthi ballistic missiles"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合軍は、southwestern Saudi Arabiaに向かったフーシ派のミサイル2発を迎撃したと発表した。",
+      "en": "The Saudi-led coalition announced it intercepted 2 Houthi ballistic missiles headed for southwestern Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-17T22:41:19+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZnA5aEhZclZ6U1p1RG5EN3ZGb2dOMFVxeTFjSTg5bzBYeUlnSGJiVktidWFscGJzZHZtQWRUWHVaMllRZ0lSMlZlR1Qya18yNFUtNnBLVlpfN21mTzZaZ25uOXVJUU1pWEFLaTZIRHhGbUdhamtTVGoySmVhSkhLS0xrT04tNFRmRTl5WXFkalpSTzNzdGhubDRlWUlSYWtBcjBHb2V3cktSUVpyTnRYcURJd21OUzk0U2ZNZWpzS2lJUVVMZmFRVkdScmZaUE93ZEc0OVk2N3JmWjJzSmc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_missile_interception_2026-10-17"
+  },
+  {
+    "id": "auto-16402",
+    "headline": {
+      "ja": "フーシ派がサウジアラビア軍のアパッチヘリの撃墜を主張",
+      "en": "Houthis claim to have shot down Saudi Apache helicopter"
+    },
+    "summary": {
+      "ja": "フーシ派は、イエメン国境近くでサウジアラビア軍のアパッチヘリを撃墜したと主張した。",
+      "en": "Houthis claim to have shot down a Saudi Apache helicopter near the Yemen border."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-17T22:36:39+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjlRa0w5dnc1TU95ckRWMldtNUJGc2l1UDNJWUFDakdxZENWQUVlbEJ3eHZhd2lQSWFsMzdfSWYxenFEaWpORkZfTlQtd1F5b296Q01NTVV0YXdOT2JaNzRGbVZsQTZycnlRZjk4eUtVMmZ4M19Sd3NxOEd3WXBuQ29jZnVUMmwzXzI0YmlUUFhYOUZ5cC14em1tZ2xid1NZaGxYNjVqWFUwb3lyZ3c3MTJ3MEZSRlVkUmc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_apache_claim_2026-10-17"
+  },
+  {
+    "id": "auto-16581",
+    "headline": {
+      "ja": "停戦中のガザでイスラエルドローン攻撃により民間人6人が死亡",
+      "en": "Israeli drone attacks kill six Palestinians across Gaza despite 'ceasefire'"
+    },
+    "summary": {
+      "ja": "イスラエルのドローン攻撃がガザ各地で実施され、停戦開始から1年で340人以上の子どもが殺害されたとUNICEFが報告する中、新たに民間人6人が死亡した。",
+      "en": "Israeli drone attacks across Gaza killed six Palestinians during the ceasefire period, while UNICEF reports over 340 children killed since the ceasefire began a year ago."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-17T18:26:59+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israeli_drone_attack_2026-10-17",
+    "severity": 4
+  },
+  {
     "id": "auto-15418",
     "headline": {
       "ja": "イエメン・タイズでフーシ族による砲撃、民間人3人死亡5人負傷",
@@ -488,6 +581,29 @@
     "auto": true,
     "eventKey": "gaza_children_casualties_ceasefire_2026",
     "severity": 4
+  },
+  {
+    "id": "auto-16003",
+    "headline": {
+      "ja": "フーシ派のミサイルがイエメン・アデン空港に着弾",
+      "en": "2 Houthi missiles land near passenger plane at Yemen's Aden airport"
+    },
+    "summary": {
+      "ja": "トルコのアナドル通信は、フーシ派のミサイル2発がイエメンのアデン空港で客機の近くに着弾したと報道した。",
+      "en": "Anadolu Agency reports that two Houthi missiles landed near a passenger plane at Yemen's Aden airport."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-16T19:44:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVhaVFltdFhDWGpOWTBzZWNma01pQWtzVkFyTEE5dVJtQi10SE5HYW9RV3pIOWtUNWFZQ0hfNnBOS0o4MVJidUlXN1VaX2RVb1k4akdfd1hMV3haaUJwcEF4eF9rSXJGUjF4aFdjalpseTdGUV9mTXhybU5VVU9fNDFBSklYdkl1ZV9qZnZpeDlVZThyV1hOaUpXbGhfYmxwZWVTdm5kaTdKdURvYjJCZQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_aden_houthi_missile_attack_2026-10-17"
   },
   {
     "id": "auto-14790",
@@ -3334,97 +3450,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "usa_florida_hurricane_isaias_2026-10-11"
-  },
-  {
-    "id": "auto-2572",
-    "headline": {
-      "ja": "パナマが大地震を受けて非常事態を宣言",
-      "en": "Panama Declares State of Emergency After Powerful Earthquake"
-    },
-    "summary": {
-      "ja": "パナマが大規模地震を受けて非常事態を宣言したと報じられている。",
-      "en": "Panama has declared a state of emergency following a powerful earthquake."
-    },
-    "category": "disaster",
-    "country": "パナマ",
-    "lat": 8.9936,
-    "lon": -79.5197,
-    "occurredAt": "2026-10-11T03:04:16+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBQVVsZ2c5RFhodjBxNW84bTkta3ZFdXZSbllxMDVoWl9jMXJFSE00Y3k5a2F1ZVBBalZHZkFYRlBzSXQ5RFdOMWFyYWdKV2RGNUl1ZjVfOTdtUDVES2xFaE14a1dWVXRxSGJWRHRySjVUcDI0WmVLR2M3MA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "panama_earthquake_state_emergency_2026-10-11"
-  },
-  {
-    "id": "auto-2872",
-    "headline": {
-      "ja": "有志連合、リヤド空港攻撃をテロ行為と認定、断定的な対応を表明",
-      "en": "Coalition Designates King Khalid Airport Attack as Terrorist Act, Vows Decisive Response"
-    },
-    "summary": {
-      "ja": "サウジアラビアを含む有志連合は、キング・ハーリド国際空港への攻撃をテロ行為と公式に認定し、断定的な対応を行うことを表明した。",
-      "en": "Coalition including Saudi Arabia officially designated the King Khalid International Airport attack as a terrorist act and stated it will respond decisively."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-10T23:45:27+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zZkhqQjlJaGE4QWUwQWtIUTM1SUliQ1N0eWFxUDR6emVSa1BWeGh1TURLWWhxNGc2OUQzeEE0TkU5Y2pfUWIxeTNn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_coalition_airport_attack_response_2026-10"
-  },
-  {
-    "id": "auto-2874",
-    "headline": {
-      "ja": "サウジ民間航空庁、リヤド空港攻撃に関する続報声明を発表",
-      "en": "GACA Issues Follow-up Statement on King Khalid Airport Attack"
-    },
-    "summary": {
-      "ja": "サウジアラビア民間航空庁(GACA)は、キング・ハーリド国際空港への攻撃に関する続報声明を発表。空港の運用状況などの詳細情報を提供。",
-      "en": "Saudi Arabia's General Authority of Civil Aviation (GACA) issued follow-up statement on the attack on King Khalid International Airport."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-10T22:12:57+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GYlRaOV9WSVBMeVVtNm5lWEY0NmxXR1I4ZktQTUNMUTNPUFFLdUtQZWJJVmgtSC16dDNuWXk1Y1pOWEhkazBrNUt3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_gaca_airport_attack_followup_2026-10"
-  },
-  {
-    "id": "auto-2604",
-    "headline": {
-      "ja": "ハリケーン・イザイアがフロリダ上陸、4人死亡、数十万人が停電",
-      "en": "Hurricane Isaias Lands in Florida; 4 Dead, Hundreds of Thousands Without Power"
-    },
-    "summary": {
-      "ja": "ハリケーン・イザイアが米国フロリダ州に上陸し、4人が死亡、数十万人が停電の影響を受けたと報じられている。",
-      "en": "Hurricane Isaias made landfall in Florida, resulting in 4 deaths and leaving hundreds of thousands without power."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-10T22:01:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVAzQ2Y4MVh4Q1Z4Ql9iZnVRa1NPdEo5Xy1MYUxYV290aVhRV1hqZUpmR1hlb0F4OXpiTXAxSF9rV29DbDNFUVZITWl0TFppUldwUzMwSTlsNGxPaFlDNlAwZC00X01vXzM5cUI2T2stbmhlRUpzMXBNcTB6Q3JHUkVOSzJ1ZWZjWEZqeF9R?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_florida_hurricane_isaias_2026-10-10"
   }
 ]
