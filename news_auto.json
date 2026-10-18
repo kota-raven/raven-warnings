@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-17083",
+    "headline": {
+      "ja": "イラン大統領が米国の暗殺脅迫を言及、防衛相候補擁護",
+      "en": "Iran's president cites US assassination threats regarding defense minister nominee"
+    },
+    "summary": {
+      "ja": "イラン大統領がアナドル通信に対し、防衛相候補が米国の「暗殺リスト」に載っていることを懸念していると述べた。",
+      "en": "Iran's president expressed concern that the defense minister nominee is on a US 'assassination list'."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-18T07:35:55+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVJRWGNESUJ4QWlXX2VWaFFLOWdmSmE4MG1mUzdxaTZHaGEzTzkzNElOZDlTSENaVkxTYnd6UEx6cEkyekJMMnl0aGFtZFNzZXBrX2dPMVA3QmR6M3VZQVRuVTV1QmZ4T2hfR0RXMk5NTUxnUUlZVGt1dUE2SzlWUklLUnZuRmE0RzNtbjN6UTdlcDJCYXdYYWNBQ25iaEUyaDlDMF9OQnFwNjFna1VleUhBVGY1TjNBQWNSV1BURjZCUVdoTU5Ibw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_defense_minister_us_tensions_2026-10"
+  },
+  {
+    "id": "auto-17122",
+    "headline": {
+      "ja": "レニングラード州への4年以内で最大級のドローン攻撃",
+      "en": "Drone attack on Leningrad Region one of largest in four years"
+    },
+    "summary": {
+      "ja": "ロシア国営タス通信は、レニングラード州が受けたドローン攻撃が過去4年間で最大規模のものだと報道した。",
+      "en": "Russian TASS reports that the drone attack on Leningrad Region is the largest in the past four years."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-18T05:34:00+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZRUM2TjBsNHpFQ2d1bVlyUDliUl96VGhjLUZGVGN4c01uNkVtVEo4NXFuaU5ZcnJBOHlyVnhTTEc4OG9ZbExxa3NOV1RVbEViTkHSAVJBVV95cUxQWUVDNk4wbDR6RUNndW1ZclA5YlJfelRoYy1GRlRjeHNNbjZFbVRKODVxbmlOWXJyQTh5clZ4U0xHODhvWWxMcWtzTldUVWxFYk5B?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_leningrad_largest_drone_attack_2026-10-18",
+    "severity": 4
+  },
+  {
+    "id": "auto-17106",
+    "headline": {
+      "ja": "ロシア・レニングラード州のVKデータセンターがドローン攻撃を受ける",
+      "en": "VK data center in Leningrad Region targeted by drone attack"
+    },
+    "summary": {
+      "ja": "ロシア国営タス通信は、レニングラード州のロシア大手SNS企業VKのデータセンターがドローン攻撃の目標になったと報道した。",
+      "en": "Russian TASS reports that the VK data center in Leningrad Region was targeted by a drone attack."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-18T03:17:19+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GT0lkZTMyYUFYVUp0NFFMTW1mY2F3MlVFNUROS3lnc19HNU4tdjZ6YzZBWms3dG5PeU16eTFnQV9UX3BqOVJXMElIRFHSAVJBVV95cUxOQm9tRmJzRTJ2Z2JsMlE1NXVJb2dsZHlNbGROYm9ldGYtYzlQem96MzJKQVlCZGFORDR6YWs2aW8wN2FDYWRwTzBWX1NEdUZyZDZB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_leningrad_vk_datacenter_attack_2026-10-18",
+    "severity": 4
+  },
+  {
     "id": "auto-16565",
     "headline": {
       "ja": "サウジ主導軍がイエメン・タイズ市でのフーシ派包囲破りに空爆を実施",
@@ -3404,51 +3475,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_yandex_datacenter_drone_attacks_escalation_2026-10-11"
-  },
-  {
-    "id": "auto-2540",
-    "headline": {
-      "ja": "NATO・EUがギリシャとスペインに愛国者ミサイルのウクライナ供与を促す",
-      "en": "NATO and EU Press Greece and Spain to Transfer Patriot Missiles to Ukraine"
-    },
-    "summary": {
-      "ja": "NATO・EUの当局者らが、運用寿命が終わりに近いPatriot PAC-2ミサイルをギリシャとスペインからウクライナに提供するよう促しているという報告があった。ウクライナはロシアの空中攻撃への防御のためにこれらのミサイルを緊急に必要としているとされている。",
-      "en": "NATO and EU officials are reportedly urging Greece and Spain to transfer their stocks of Patriot PAC-2 interceptor missiles to Ukraine. These missiles are nearing the end of their operational lifespan but are urgently needed for Ukraine's defense against Russian aerial attacks."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-11T06:02:43+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20479"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_patriot_missiles_nato_greece_spain_transfer_2026-10"
-  },
-  {
-    "id": "auto-3249",
-    "headline": {
-      "ja": "ハリケーン・イザイアがフロリダで4人死亡、65万人が停電",
-      "en": "Hurricane Isaias Kills Four, Leaves 650,000 Without Power in Florida"
-    },
-    "summary": {
-      "ja": "ハリケーン・イザイアがフロリダで4人を殺害し、65万人以上が停電の影響を受けたと報じられている。",
-      "en": "Hurricane Isaias has killed four people and left more than 650,000 people without power in Florida."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-11T04:28:51+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_florida_hurricane_isaias_2026-10-11"
   }
 ]
