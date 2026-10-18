@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-10-16-01",
-    "headline": {
-      "ja": "ウクライナ、ロシアの石油精製施設への攻撃を再開 「エネルギー停戦」終了を表明、リャザン州の精油所を攻撃",
-      "en": "Ukraine resumes strikes on Russian oil refineries, declares 'energy ceasefire' over; drones hit refinery in Ryazan region"
-    },
-    "summary": {
-      "ja": "ゼレンスキー大統領は、トランプ米大統領が10月11日に発表した「エネルギー停戦」をロシア側が履行せず、ロシア軍がその後もウクライナのエネルギー施設への攻撃を継続した(既報:id 2026-10-15-01、保持期間外)として、ウクライナ軍によるロシアの石油精製施設への攻撃を再開すると表明したという。英フィナンシャル・タイムズのインタビューでゼレンスキー氏は、米側の要請を受けてロシアのエネルギー関連施設への攻撃を3日間停止していたが、ロシア側が同様の対応を取らなかったため停戦は終了したと述べたという。これを受け、ウクライナ軍の無人機が10月15日未明(現地時間)、ロシア・リャザン州の石油精製施設を攻撃したと複数メディアが報じた。ゼレンスキー氏は、ロシアが追加の米国製パトリオット対空ミサイルを提供すれば攻撃停止を再検討する考えを示し、米側がロシアのエネルギー施設への攻撃を停止しなければ情報共有を停止する可能性を示したとも述べたという。[信頼性: 高](NPR〈ロイター通信配信〉、CNBC、CNNが一致して報道)",
-      "en": "President Zelenskyy said Ukraine would resume strikes on Russian oil refineries after Russia failed to honor the \"energy ceasefire\" President Trump announced on October 11 and continued striking Ukraine's own energy infrastructure (previously reported, id 2026-10-15-01, now outside the retention window). In an interview with the Financial Times, Zelenskyy said Ukraine had paused attacks on Russian energy facilities for three days at Washington's request, but ended the pause after Russia did not reciprocate. Multiple outlets reported that Ukrainian drones subsequently struck an oil refinery in Russia's Ryazan region in the early hours of October 15 local time. Zelenskyy reportedly said he would consider pausing strikes again if Ukraine received additional US-made Patriot air-defense interceptors, and said US officials had indicated Washington could cut intelligence sharing if Kyiv did not stop striking Russian energy facilities. [Reliability: High] (Consistently reported by NPR via Reuters, CNBC, and CNN.)"
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "region": "リャザン州",
-    "lat": 54.6269,
-    "lon": 39.6916,
-    "occurredAt": "2026-10-15T01:00:00+00:00",
-    "source": {
-      "name": "NPR(ロイター通信配信)",
-      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-16-02",
     "headline": {
       "ja": "原油価格小幅下落、米政権による「影の船団」制裁緩和検討が重し ブレント105ドル台・WTI97ドル台",
@@ -41,6 +19,27 @@
       "url": "https://www.cnbc.com/2026/10/16/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet.html"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-19-01",
+    "headline": {
+      "ja": "アルバニアの首都ティラナで学費・教育環境への抗議デモが激化、160人超拘束 首相は「外国の関与」を主張し辞任を拒否",
+      "en": "Anti-government protests over tuition and education conditions intensify in Tirana, Albania; over 160 detained as PM blames 'foreign hands' and refuses to resign"
+    },
+    "summary": {
+      "ja": "アルバニアの首都ティラナで、学費の高騰や大学の施設環境などへの抗議から始まったデモが数日間続き、一部が警官隊との衝突に発展したと複数メディアが報じたという。デモはその後、汚職批判や、南部沿岸地域の開発をめぐる政府のリゾート計画(ジャレッド・クシュナー氏が関与する事業との報道あり)への批判にも広がったという。ラマ内相(インテリオール相)ことエルヴィン・デモ内相によると、警察側97人を含む計156人が負傷し、木曜夜(10月15日)の衝突後だけで160人が拘束されたという。警察は催涙ガスと放水砲を使用したという。ラマ首相は10月16日、一連の混乱の背景に「外国の関与」があるとの見方を示し、学生側の要求とは無関係な公共施設の破壊・治安への脅威を非難する一方、退陣要求には応じない考えを示したという。同首相の「外国の関与」発言について、独立した裏付けは確認できていない。[信頼性: 高](Euronews、Arab News(AFP配信)、Albanian Daily Newsなど複数メディアが一致して報道。アルバニア政府(ラマ首相・デモ内相)の発言に基づく)",
+      "en": "Multiple outlets reported that protests in Tirana, Albania — which began over rising tuition fees and poor university conditions — continued for several days, with some clashes breaking out between demonstrators and police. The protests reportedly broadened to include criticism of government corruption and a coastal resort development deal reportedly linked to Jared Kushner. Interior Minister Ervin Demo said 156 people, including 97 police officers, were injured, and that 160 people were detained following violent incidents on the night of October 15 alone. Police reportedly used tear gas and water cannon. On October 16, Prime Minister Edi Rama said he believed 'foreign hands' were behind the escalating unrest, condemning the destruction of public property and threats to public safety as unrelated to students' demands, while refusing calls to resign. Rama's claim of foreign involvement has not been independently corroborated. [Reliability: High] (Consistently reported by Euronews, Arab News via AFP, and Albanian Daily News, among others, based on statements from Albania's government — PM Rama and Interior Minister Demo.)"
+    },
+    "category": "conflict",
+    "country": "アルバニア",
+    "lat": 41.1533,
+    "lon": 20.1683,
+    "occurredAt": "2026-10-16T12:00:00+00:00",
+    "source": {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest"
+    },
+    "reliability": "high"
   },
   {
     "id": "2026-10-17-01",
@@ -86,6 +85,27 @@
     "reliability": "high"
   },
   {
+    "id": "2026-10-18-03",
+    "headline": {
+      "ja": "フランス全土で生活費高騰への抗議デモが暴動化 1,800人超逮捕、警官ら500人超負傷、マクロン大統領が緊急対応",
+      "en": "Nationwide cost-of-living protests turn violent across France; over 1,800 arrested, 500+ police injured, Macron calls emergency meeting"
+    },
+    "summary": {
+      "ja": "フランス国内の複数都市で10月17日(土)、生活費の高騰や学校施設の老朽化などに対する抗議デモが行われ、一部が暴動化したと複数メディアが報じたという。主催者側は参加者を約80万人、当局は約55万人と発表したという。覆面の集団が各都市で放火や市庁舎など公共施設への攻撃を行ったとされ、少なくとも1,800人が逮捕されたとAP通信が報じたという。ヌネズ内相によると、警官・憲兵・消防士など500人超が負傷したという。パリ警察は、心臓発作により1人が死亡したと明らかにしたほか、サンテティエンヌ市では抗議参加者1人が手を切断する重傷を負ったと地元当局が明らかにしたという。ヌネズ内相は暴力について「極左の過激な集団」を非難したという。マクロン大統領は10月18日午後に治安当局高官らと緊急協議を行い、その後国民向け演説を行う予定としている。[信頼性: 高](CBCニュース、ABCニュース、CBSニュース、CNNが一致して報道。フランス政府(首相府・内務省)の発表内容に基づく)",
+      "en": "Multiple outlets reported that protests over the rising cost of living and deteriorating school conditions took place in several French cities on Saturday, October 17, with some turning violent. Organizers put the turnout at about 800,000, while authorities estimated about 550,000. Masked groups reportedly set fires and attacked public buildings, including city halls, in several cities; AP reported at least 1,800 arrests. Interior Minister Laurent Nuñez said more than 500 police officers, gendarmes and firefighters were injured. Paris police said one person died of a heart attack, and local officials in Saint-Étienne said a protester suffered a severed hand. Nuñez blamed \"extremely violent, radical far-left groups\" for the violence. President Macron was reportedly set to hold an emergency meeting with top security officials on the afternoon of October 18, followed by a national address. [Reliability: High] (Consistently reported by CBC News, ABC News, CBS News and CNN, based on statements from the French government.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-17T20:00:00+00:00",
+    "source": {
+      "name": "CBC News",
+      "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"
+    },
+    "reliability": "high"
+  },
+  {
     "id": "2026-10-18-02",
     "headline": {
       "ja": "カナダ・アルバータ州の陸軍基地で大規模火災、死傷者発生 国防相「記憶にある中で最悪の集団死傷事案」",
@@ -107,26 +127,5 @@
     },
     "reliability": "high",
     "severity": 3
-  },
-  {
-    "id": "2026-10-18-03",
-    "headline": {
-      "ja": "フランス全土で生活費高騰への抗議デモが暴動化 1,800人超逮捕、警官ら500人超負傷、マクロン大統領が緊急対応",
-      "en": "Nationwide cost-of-living protests turn violent across France; over 1,800 arrested, 500+ police injured, Macron calls emergency meeting"
-    },
-    "summary": {
-      "ja": "フランス国内の複数都市で10月17日(土)、生活費の高騰や学校施設の老朽化などに対する抗議デモが行われ、一部が暴動化したと複数メディアが報じたという。主催者側は参加者を約80万人、当局は約55万人と発表したという。覆面の集団が各都市で放火や市庁舎など公共施設への攻撃を行ったとされ、少なくとも1,800人が逮捕されたとAP通信が報じたという。ヌネズ内相によると、警官・憲兵・消防士など500人超が負傷したという。パリ警察は、心臓発作により1人が死亡したと明らかにしたほか、サンテティエンヌ市では抗議参加者1人が手を切断する重傷を負ったと地元当局が明らかにしたという。ヌネズ内相は暴力について「極左の過激な集団」を非難したという。マクロン大統領は10月18日午後に治安当局高官らと緊急協議を行い、その後国民向け演説を行う予定としている。[信頼性: 高](CBCニュース、ABCニュース、CBSニュース、CNNが一致して報道。フランス政府(首相府・内務省)の発表内容に基づく)",
-      "en": "Multiple outlets reported that protests over the rising cost of living and deteriorating school conditions took place in several French cities on Saturday, October 17, with some turning violent. Organizers put the turnout at about 800,000, while authorities estimated about 550,000. Masked groups reportedly set fires and attacked public buildings, including city halls, in several cities; AP reported at least 1,800 arrests. Interior Minister Laurent Nuñez said more than 500 police officers, gendarmes and firefighters were injured. Paris police said one person died of a heart attack, and local officials in Saint-Étienne said a protester suffered a severed hand. Nuñez blamed \"extremely violent, radical far-left groups\" for the violence. President Macron was reportedly set to hold an emergency meeting with top security officials on the afternoon of October 18, followed by a national address. [Reliability: High] (Consistently reported by CBC News, ABC News, CBS News and CNN, based on statements from the French government.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-17T20:00:00+00:00",
-    "source": {
-      "name": "CBC News",
-      "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"
-    },
-    "reliability": "high"
   }
 ]
