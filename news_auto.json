@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-17181",
+    "headline": {
+      "ja": "ウクライナ軍がサンクトペテルブルク攻撃、1人死亡",
+      "en": "Ukrainian drone attack on St Petersburg kills one, hits energy sites"
+    },
+    "summary": {
+      "ja": "ウクライナ軍がロシア第2の都市サンクトペテルブルクへの無人機攻撃を実施し、1人が死亡し複数のエネルギー施設が被害を受けた。",
+      "en": "Ukrainian forces conducted a drone attack on Russia's second-largest city, killing one person and damaging multiple energy infrastructure sites."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 59.9364,
+    "lon": 30.312,
+    "occurredAt": "2026-10-18T10:34:09+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_st_petersburg_drone_attack_2026-10-18",
+    "severity": 4
+  },
+  {
     "id": "auto-17083",
     "headline": {
       "ja": "イラン大統領が米国の暗殺脅迫を言及、防衛相候補擁護",
@@ -3360,143 +3384,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_egypt_border_airstrike"
-  },
-  {
-    "id": "auto-3575",
-    "headline": {
-      "ja": "フーシ派ミサイルがサウジアラビアの防空網を突破",
-      "en": "Houthi missiles breaking through Saudi air defences"
-    },
-    "summary": {
-      "ja": "繰り返されるフーシ派のサウジアラビア攻撃により、高度な防空システムの限界が露呈している。",
-      "en": "Repeated Houthi attacks on Saudi Arabia reveal the limitations of advanced air defence systems."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-11T14:25:03+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "houthi_saudi_missile_defense"
-  },
-  {
-    "id": "auto-3303",
-    "headline": {
-      "ja": "ポーランド警察がPM トゥスク首相と国防相の暗殺企図疑惑を調査",
-      "en": "Polish Police Probe Alleged Plot to Assassinate PM Tusk and Defence Minister"
-    },
-    "summary": {
-      "ja": "ポーランド警察がPMドナルド・トゥスク首相と国防相に対する暗殺計画疑惑を調査していると報じられている。治安当局者が潜在的な攻撃に関する情報を受け取った後、緊急会議が開かれたとされている。",
-      "en": "Polish police are investigating an alleged plot to assassinate PM Donald Tusk and the defence minister. An emergency meeting was held by security officials after receiving information about a potential attack."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-10-11T12:09:54+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_assassination_plot_tusk_2026-10-11"
-  },
-  {
-    "id": "auto-4195",
-    "headline": {
-      "ja": "グテーレス事務総長がリヤド空港のフーシ派ミサイル攻撃を非難",
-      "en": "Guterres condemns deadly Houthi strike on Riyadh airport"
-    },
-    "summary": {
-      "ja": "国連事務総長アントニオ・グテーレスが、リヤドの主要空港へのフーシ派ミサイル攻撃を非難した。サウジアラビアは12人が殺害され300人以上が負傷したと発表している。",
-      "en": "UN Secretary-General António Guterres condemns Houthi missile attack on Riyadh's main airport which killed 12 and wounded over 300 according to Saudi authorities."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-11T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "houthi_riyadh_airport_strike"
-  },
-  {
-    "id": "auto-3042",
-    "headline": {
-      "ja": "イスラエルが米国協定に反して南レバノンで空爆・砲撃を再開",
-      "en": "Israeli Military Renews Airstrikes and Artillery in Southern Lebanon Despite US Deal"
-    },
-    "summary": {
-      "ja": "イスラエル軍が米国との協定に反して南レバノンでの空爆と砲撃を再開したと報じられている。",
-      "en": "The Israeli military has renewed airstrikes and artillery shelling in southern Lebanon in apparent violation of a US agreement."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-11T11:31:46+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXI1WndMaEtGQkZkRVI2RmNtNU94bkVxaFozNjktalNacHh2NFZYa1d1a19NX19wMGJHeVdWYzFaSHphVU83ZHNWTllRUl9BemttVFI4SU5jLWUzazgzeGtDeks4OUxHaEhldkRnX1dxU3pCY2k1VkNKSmJPS2VVWHo4NGdycjl3VFdMZzJ4bG9QNmF2Z3JjN21nUFZKSnR1VC1DMlpyX1hoeGJiUFh3Uzg5VU1ZbTdHU2FrMVpENTMxSTVp?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "lebanon_israeli_military_airstrikes_artillery_2026-10-11"
-  },
-  {
-    "id": "auto-3012",
-    "headline": {
-      "ja": "ポーランドが首相および国防相の暗殺企図疑惑を調査",
-      "en": "Poland Investigates Alleged Plot to Assassinate Premier and Defense Minister"
-    },
-    "summary": {
-      "ja": "ポーランド当局が首相および国防大臣の暗殺を目論んだとされる疑惑について調査していると報じられている。",
-      "en": "Polish authorities are investigating an alleged plot to assassinate the premier and defense minister."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-10-11T11:21:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazdmV2ozOHBqTjFYWE91UUdHS09zdVM3TTVoLTlfSnhSUTdac3ZabnM4UTRLVWJ5ZHN4QVZYTldRaVpIYnE2ZTZpNnpleXl2cUdDb3pldEhhVFZZM09pUUhnS1FER3FSNGlMZHV2TWItMXdFRGdjUjdZSDBBSW1CNHpwbG9MaThyUWhkS18waDRBVjZZSUZ2TDhGOXFLSDc1UUt2UHlCUjZzU1N1dDE5MnBn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "poland_assassination_plot_investigation_2026-10-11"
-  },
-  {
-    "id": "auto-3232",
-    "headline": {
-      "ja": "フーシ派がサウジアラビアの首都リヤドの国際空港にミサイル攻撃を実施",
-      "en": "Houthis Attack Saudi Arabia's Riyadh International Airport with Missile Strike"
-    },
-    "summary": {
-      "ja": "イエメンの紛争が拡大し、フーシ派がサウジアラビアの首都リヤドの主要国際空港に対してミサイル攻撃を実施したとサウジアラビア有志連合が発表した。",
-      "en": "Yemen fighting has escalated as the Houthi group carried out a missile strike on Riyadh's main international airport, according to the Saudi-led coalition."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-11T10:45:15+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthis_saudi_riyadh_airport_missile_attack_2026-10-11"
   }
 ]
