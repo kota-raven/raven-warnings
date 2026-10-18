@@ -164,6 +164,52 @@
     "severity": 4
   },
   {
+    "id": "auto-16382",
+    "headline": {
+      "ja": "インド東部のヒンドゥー教祭典での群集事故、17人以上が死亡",
+      "en": "At least 17 killed in stampede at Hindu festival in eastern India"
+    },
+    "summary": {
+      "ja": "インド東部でヒンドゥー教祭典中の群集事故で、少なくとも17人が死亡した。",
+      "en": "A stampede at a Hindu festival in eastern India killed at least 17 people."
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 28.6214,
+    "lon": 77.2148,
+    "occurredAt": "2026-10-17T18:21:23+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnZvRFFlQUxsa0R2ZlhHZy01Z3BkeTJES0RXNW5Na2dvejgxQTVhZElHbnZQYUZrcEpTdnBiWXdXY1VSN2xUN0EycEJsNzFfTTJ5c05xN1JFWmdRUDNDdUVqLUJmaUVfZ25yQk8xaGZlRGZ0VGJYQU9DNTl1ZTRzYm1WWExFRmJoaWZSblpLYmFOeERVak1IRXFMZUJ4ejFELUIxZk8zbVU0VmtyVUx4Ng?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_festival_stampede_2026-10"
+  },
+  {
+    "id": "auto-16380",
+    "headline": {
+      "ja": "ポーランド、ロシアのウクライナ西部攻撃に対応して航空機をスクランブル",
+      "en": "Poland scrambles aircraft as Russia strikes western Ukraine amid Warsaw-Trump rift"
+    },
+    "summary": {
+      "ja": "ポーランドは、ロシアがウクライナ西部を攻撃する中、航空機を出動させた。Warsaw-Trump関係に溝がある状況で発生。",
+      "en": "Poland scrambles military aircraft in response to Russian strikes on western Ukraine, amid tensions with the Trump administration."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "occurredAt": "2026-10-17T16:18:46+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFhnNERObm8ydkZCakszNDdqMTB2bkdmMmcxN0N3c0UtZUVEeG5CN1pZN3M0ZDFDQzZxLWFvLUtpdlVxT1U4TDBrQXc2UlFUVmVSM1paY1ZsWV9wRFpjN05KaFJ2ZjJVZE8wcjItQzdtOUtFbFpZVEhnaDlYaC1sSUY1OG9JSnBCdDhVcUlfYldMNy1HRlI4RHdnSzB4R2VubkVqZWJLS0JkemRWaENmaTR3WFp1OGl6YWNBMlRaMA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_russia_ukraine_airscramble_2026-10"
+  },
+  {
     "id": "auto-15418",
     "headline": {
       "ja": "イエメン・タイズでフーシ族による砲撃、民間人3人死亡5人負傷",
@@ -3452,28 +3498,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "yemen_houthis_saudi_riyadh_airport_missile_attack_2026-10-11"
-  },
-  {
-    "id": "auto-3238",
-    "headline": {
-      "ja": "ロシアのYandexがウラジミール州のデータセンター閉鎖を発表、1週間で3度目の攻撃",
-      "en": "Russia's Yandex Announces Data Centre Shutdown in Vladimir After Drone Attack"
-    },
-    "summary": {
-      "ja": "ロシアのテクノロジー企業Yandexがウラジミール州のデータセンターをドローン攻撃により閉鎖したと発表した。これは1週間以内にYandexの施設に対する3度目の攻撃であり、ロシアとウクライナがテクノロジーインフラストラクチャーへの攻撃をエスカレートさせている。",
-      "en": "Russia's Yandex announced the shutdown of its data centre in Vladimir following a drone attack. This is the third strike on Yandex facilities in a week as Russia and Ukraine escalate attacks on tech infrastructure."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-11T09:33:03+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_yandex_datacenter_drone_attacks_escalation_2026-10-11"
   }
 ]
