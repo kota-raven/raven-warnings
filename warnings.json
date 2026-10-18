@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T15:27:03.008Z",
+  "generatedAt": "2026-10-18T16:29:05.212Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 197,
+  "count": 195,
   "warnings": [
     {
       "id": "NAVAREA11-260474",
@@ -2142,42 +2142,6 @@
       "geometry": null,
       "rawText": "番号:26-4018   発表日時:2026年10月13日 12時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V SKANDI HERCULESによる水中作業、当分の間、\r\r\n19-57.30S 115-12.32E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264018&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263988",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3988",
-      "title": "済州島南（Ｄ−１４７）、射撃",
-      "publishedAt": "2026-10-09T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          126.33333333333333,
-          32.666666666666664
-        ]
-      },
-      "rawText": "番号:26-3988   発表日時:2026年10月09日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南、\r\r\n射撃、10月12日、13日毎日0300Z-1200Z、14日-18日毎日\r\r\n0000Z-1200Z、32-40N 126-20Eを中心とする半径6海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263988&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263986",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3986",
-      "title": "鬱陵島東（Ｄ−１４１）、射撃",
-      "publishedAt": "2026-10-09T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          131.2,
-          37.668055555555554
-        ]
-      },
-      "rawText": "番号:26-3986   発表日時:2026年10月09日 20時\r\n\n\r\n★ 朝鮮半島東岸、鬱陵島東、\r\r\n射撃、10月11日2100Z-翌日1400Z、13日、14日、16日-18日毎日\r\r\n0000Z-1400Z、15日0100Z-1000Z、37-30-05N\r\r\n37-40-05N 131-12-00E 131-25-00E\r\r\nの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263986&LANG=JP"
     },
     {
       "id": "JAPANNW-263967",
