@@ -63,5 +63,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-18-01",
+    "headline": {
+      "ja": "スーパー台風チャンピ、グアム至近を通過 直接上陸は回避も暴風・大雨で被害、非常事態宣言",
+      "en": "Super Typhoon Champi skirts Guam, triggers emergency declaration despite avoiding direct landfall"
+    },
+    "summary": {
+      "ja": "グアム準州(米国領)の南岸付近を、スーパー台風チャンピが10月18日未明(現地時間、グアムはUTC+10)に最接近したと複数メディアが報じたという。最接近は現地時間午前4時26分頃、グアム南部メリゾの南約10マイル(約16km)の海上で、台風の目の壁雲が島の南岸をかすめる形となり、グアムへの直接上陸は回避されたという。チャンピは中心付近の最大風速が約185km/h、最大瞬間風速は約230km/hに達し、フィリピン気象当局(PAGASA)の基準でスーパー台風に相当する勢力だったという。米国家気象局(NWS)はグアム南部に「極端な暴風警報(Extreme Wind Warning)」を発出していたという。グアム準州は非常事態宣言を発令し、空港では多数のフライトが欠航したという。グアム記念病院では台風関連の受診が3件報告されたが、大規模な死傷者の報告は確認できていないという。台風はその後、東アジア方面へ進路を取り、フィリピン付近への上陸の可能性は低いとみられるという。[信頼性: 高](Fox Weather、Yale Climate Connectionsが一致して報道。グアム準州(Guam Homeland Security)・米国家気象局の発表内容に基づく報道)",
+      "en": "Multiple outlets reported that Super Typhoon Champi made its closest approach to Guam, a US territory, in the early hours of October 18 local time (Guam is UTC+10), passing roughly 10 miles south of Merizo at about 4:26 a.m. local time. The storm's eyewall reportedly scraped Guam's southern coast, and the typhoon narrowly avoided a direct landfall. Champi reportedly had maximum sustained winds of about 185 km/h with gusts to roughly 230 km/h, meeting the PAGASA threshold for a super typhoon. The US National Weather Service had issued an Extreme Wind Warning for southern Guam, and the Government of Guam declared a state of emergency; numerous flights were canceled. Guam Memorial Hospital reportedly recorded three storm-related visits, with no reports yet of major casualties. The storm is reportedly tracking toward East Asia next, with a landfall near the Philippines considered unlikely. [Reliability: High] (Consistently reported by Fox Weather and Yale Climate Connections, based on statements from Guam Homeland Security and the US National Weather Service.)"
+    },
+    "category": "disaster",
+    "country": "グアム(米国領)",
+    "lat": 13.4443,
+    "lon": 144.7937,
+    "occurredAt": "2026-10-17T18:26:00+00:00",
+    "source": {
+      "name": "Fox Weather",
+      "url": "https://www.foxweather.com/weather-news/typhoon-champi-could-make-rare-landfall-guam-after-rapidly-intensifying-el-nino-enhances-pacific-storms"
+    },
+    "reliability": "high"
   }
 ]
