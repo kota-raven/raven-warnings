@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T07:32:56.958Z",
+  "generatedAt": "2026-10-18T08:29:32.448Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 198,
   "warnings": [
@@ -3540,6 +3540,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261982",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1982",
+      "title": "南西諸島、那覇ＮＡＶＴＥＸ局一時利用範囲減少",
+      "publishedAt": "2026-10-18T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1982    発表日時:2026年10月18日 17時\r\n\n\r\n南西諸島、\r\r\n那覇NAVTEX局(G)(26-05.5N\r\r\n127-40.1E)一時利用範囲減少、10月19日-23日\r\r\n(予備26日-28日)毎日0745-1730。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261982&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261981",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3568,18 +3580,6 @@
       "geometry": null,
       "rawText": "番号:26-1980    発表日時:2026年10月18日 11時\r\n\n\r\n男女群島南、\r\r\n宇宙ゴミ落下、10月21日1100-1700、\r\r\n(1)31-01.04N 128-10.27E\r\r\n   30-34.60N 128-54.59E\r\r\n   30-21.34N 128-43.85E\r\r\n   30-47.72N 127-59.59E、\r\r\n(2)31-03.52N 128-06.19E\r\r\n   30-37.10N 128-50.54E\r\r\n   30-23.84N 128-39.80E\r\r\n   30-50.20N 127-55.50E、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261980&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261979",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海底施設",
-      "number": "1979",
-      "title": "潮岬南、海底線敷設作業終了",
-      "publishedAt": "2026-10-17T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1979    発表日時:2026年10月17日 21時\r\n\n\r\n潮岬南、\r\r\nC/S RENE DESCARTESによる\r\r\n海底線敷設作業終了。\r\r\n(1968削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261979&LANG=JP"
     },
     {
       "id": "NAVTEX-261978",
