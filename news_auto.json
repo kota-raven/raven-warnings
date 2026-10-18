@@ -164,6 +164,98 @@
     "eventKey": "yemen_houthis_saudi_apache_claim_2026-10-17"
   },
   {
+    "id": "auto-16485",
+    "headline": {
+      "ja": "ロシア大統領特使、ウクライナ情勢を『チェックメイト』と表現",
+      "en": "ロシア大統領特使、ウクライナ情勢を『チェックメイト』と表現"
+    },
+    "summary": {
+      "ja": "ロシアの大統領特使は、ウクライナ周辺の状況を『チェックメイト』と述べた。",
+      "en": "ロシアの大統領特使は、ウクライナ周辺の状況を『チェックメイト』と述べた。"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-17T22:34:06+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CcjFrTjViTzFwWnRTaXY4OXpjQUFZa3EwS3hlMXhOQ2ItVXljYzhrbThzSkEwRmlNSFRZV3dOTkJmMVZZbmpxN9IBTkFVX3lxTFBsMHdSc3hZNm1rNzBiUEZQQUlNR3NEelRUVkZFU2tmd25XMktRdHRnWW91dTVTbHlZTzctMmNacER1SElHb2JCUjNQQ2I4QQ?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "russia_ukraine_checkmate"
+  },
+  {
+    "id": "auto-16146",
+    "headline": {
+      "ja": "米カリフォルニア州で複数の大規模火災、赤い旗警告下で消防が対応",
+      "en": "米カリフォルニア州で複数の大規模火災、赤い旗警告下で消防が対応"
+    },
+    "summary": {
+      "ja": "カリフォルニア南部で赤い旗警告の下、複数の大規模火災が発生し、消防隊が対応している。",
+      "en": "カリフォルニア南部で赤い旗警告の下、複数の大規模火災が発生し、消防隊が対応している。"
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-17T22:10:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHZlM2ZBMEs4bEVneEpyYlhna1ZKZHdhMUs2TW1INVZ1YlBxRHA5SFVfV1htMGxQSjlqMG5ZdTNzUnFBaFZ2NTQ1cFFGV0RmbTFXYUZuaHc0cThqc1hrT2NQSy15ckhyVlVYRWN6azdvTTJvYkhpdUI3X2ZDYk8zeEFCMVl3SFNwVUlkcW9n?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "california_wildfires_2026"
+  },
+  {
+    "id": "auto-16157",
+    "headline": {
+      "ja": "インド東部の群衆事故で17人死亡、35人負傷",
+      "en": "インド東部の群衆事故で17人死亡、35人負傷"
+    },
+    "summary": {
+      "ja": "インド東部で群衆事故が発生し、17人が殺害され、35人が負傷した。",
+      "en": "インド東部で群衆事故が発生し、17人が殺害され、35人が負傷した。"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 22.5626,
+    "lon": 88.363,
+    "occurredAt": "2026-10-17T21:36:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3dxSURlUlVteHJOMFRycU5HdVVrc1Rzd2xDVnV6d3BVVGVwYXpFY1B2MFNLZkRYTU13UWlHY01Mb0U4SE5jaGE0VmlkUElBUUVGMlI3VEY2cm1VZmlNNUN2Uy1sMkZ3QXg5QU1tcXJSUWhJa1Y3S1k3WUowdENOaU9xUlBlVzhDWDFTTQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_stampede_kolkata_2026"
+  },
+  {
+    "id": "auto-16126",
+    "headline": {
+      "ja": "インドでヒンドゥー祭典中に群衆事故、17人死亡",
+      "en": "インドでヒンドゥー祭典中に群衆事故、17人死亡"
+    },
+    "summary": {
+      "ja": "インドのコルカタで行われたヒンドゥー祭典のイベント中に群衆による圧死事故が発生し、少なくとも17人が死亡、多数が負傷した。",
+      "en": "インドのコルカタで行われたヒンドゥー祭典のイベント中に群衆による圧死事故が発生し、少なくとも17人が死亡、多数が負傷した。"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 22.5626,
+    "lon": 88.363,
+    "occurredAt": "2026-10-17T19:19:16+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_kolkata_festival_stampede"
+  },
+  {
     "id": "auto-16581",
     "headline": {
       "ja": "停戦中のガザでイスラエルドローン攻撃により民間人6人が死亡",
@@ -211,6 +303,29 @@
     "eventKey": "india_festival_stampede_2026-10"
   },
   {
+    "id": "auto-16154",
+    "headline": {
+      "ja": "インドのドゥルガプージャ祭典中の事故で17人以上が死亡、多数が負傷",
+      "en": "インドのドゥルガプージャ祭典中の事故で17人以上が死亡、多数が負傷"
+    },
+    "summary": {
+      "ja": "インドで行われたドゥルガプージャ祭典中の群衆事故で、17人以上が殺害され、多くが負傷した。",
+      "en": "インドで行われたドゥルガプージャ祭典中の群衆事故で、17人以上が殺害され、多くが負傷した。"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 22.5626,
+    "lon": 88.363,
+    "occurredAt": "2026-10-17T17:05:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW1SRFNpRVlLeDMwZDdlbDR5dnl0SHJENll6QUhGM19hTmF4cEo5UzdqUzhJTHc0OGd3cWVzX0NBT0JvQ0hrRVpBRUpZb1NfdG1fdEl4R1M4VXBxVm1VdDFlbi1wT1BPUWRDWU5XQjBpejdXWUVfaGpmVWkzcV94TVdwUnloZTVuNTB3Zg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_durga_puja_stampede"
+  },
+  {
     "id": "auto-16380",
     "headline": {
       "ja": "ポーランド、ロシアのウクライナ西部攻撃に対応して航空機をスクランブル",
@@ -232,6 +347,121 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "poland_russia_ukraine_airscramble_2026-10"
+  },
+  {
+    "id": "auto-16143",
+    "headline": {
+      "ja": "ケニアで新たなエボラ患者4人を確認、計7人に",
+      "en": "ケニアで新たなエボラ患者4人を確認、計7人に"
+    },
+    "summary": {
+      "ja": "ケニアで新たなエボラ患者4人が確認され、患者の総数は7人となった。",
+      "en": "ケニアで新たなエボラ患者4人が確認され、患者の総数は7人となった。"
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-17T15:11:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzhuQ183clJ3SVpjNE92NWNsNmZhNHR4QXVOc0lYcGNiV0xIbzlIZ1hsWnBrSzdRcVBuNzB5LUZqYXNQeHRVWkFQdkk1UHNWVTdxWGYzSkhYbWpHWl9fbG1Vc19MUm9uNVVzZFVxcVFkeGZGRlZzT0Z4eUVYUmQ0eVJtWllTdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_ebola_cases_2026"
+  },
+  {
+    "id": "auto-16139",
+    "headline": {
+      "ja": "イラン南部シリク県で爆発が報告される",
+      "en": "イラン南部シリク県で爆発が報告される"
+    },
+    "summary": {
+      "ja": "イランの南部シリク県で爆発が聞こえたと報じられた。",
+      "en": "イランの南部シリク県で爆発が聞こえたと報じられた。"
+    },
+    "category": "disaster",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-17T15:02:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tVktWcUZ0blRvQ0R3M1pDR0U3LXgyTHB4blN2RXYxdHQ4dXhCRDAwbDcyRDlkUFF5YmNkYm8wU1MzSnUxWEZoM1g4SERYSnQ1VVVXeFNGR1hpX2xLNEdMZThxTnlNUTdya09kUjBPOUZhUjdXN0FPSm5haw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_sirik_explosion"
+  },
+  {
+    "id": "auto-16086",
+    "headline": {
+      "ja": "ロシア軍、ドンバス地方のドブロポーリエ解放を発表",
+      "en": "ロシア軍、ドンバス地方のドブロポーリエ解放を発表"
+    },
+    "summary": {
+      "ja": "ロシア国防省は、ドンバス地方のドブロポーリエを「解放」したと発表した。",
+      "en": "ロシア国防省は、ドンバス地方のドブロポーリエを「解放」したと発表した。"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-17T12:37:59+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56UFJsSHBqa2N5YkZOdzVmZ3F1QXZoc3pYQmhNVkJaNWNXbTloN1d5YWdteDc4bFBHU1I4SnRDc2tpODNRdndRSFNxdW1hUdIBTkFVX3lxTE56UFJsSHBqa2N5YkZOdzVmZ3F1QXZoc3pYQmhNVkJaNWNXbTloN1d5YWdteDc4bFBHU1I4SnRDc2tpODNRdndRSFNxdW1hUQ?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "ukraine_dobropolye_russian_claim"
+  },
+  {
+    "id": "auto-16089",
+    "headline": {
+      "ja": "ゼレンスキー大統領、ウクライナのエネルギーシステムへの大規模攻撃を報告",
+      "en": "ゼレンスキー大統領、ウクライナのエネルギーシステムへの大規模攻撃を報告"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領ゼレンスキーは、同国のエネルギーシステムに対する大規模な攻撃があったと報告した。",
+      "en": "ウクライナ大統領ゼレンスキーは、同国のエネルギーシステムに対する大規模な攻撃があったと報告した。"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-17T12:35:12+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sdVluVkI1R2JGUHJyUmhwbmZWRWprZDYxbzVVem5jTWhrQ2tnWWtwNU5uWHA5ZTREMnBWRzB3TjEwOHVhekptQXZ30gFKQVVfeXFMTWx1WW5WQjVHYkZQcnJSaHBuZlZFamtkNjFvNVV6bmNNaGtDa2dZa3A1Tm5YcDllNEQycFZHMHdOMTA4dWF6Sm1Bdnc?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "ukraine_energy_system_attack"
+  },
+  {
+    "id": "auto-16129",
+    "headline": {
+      "ja": "ガザでは冬を迎えても避難所がない状況が続く",
+      "en": "ガザでは冬を迎えても避難所がない状況が続く"
+    },
+    "summary": {
+      "ja": "戦争で荒廃したガザ地区の住民は、ボロボロのテントと破損した建物で過ごす中、冷たい雨と洪水の脅威にさらされた冬を迎える準備をしている。",
+      "en": "戦争で荒廃したガザ地区の住民は、ボロボロのテントと破損した建物で過ごす中、冷たい雨と洪水の脅威にさらされた冬を迎える準備をしている。"
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-17T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_winter_shelter_crisis"
   },
   {
     "id": "auto-15418",
@@ -3340,49 +3570,26 @@
     "eventKey": "china_pla_taiwan_operations_2026-10-11"
   },
   {
-    "id": "auto-4179",
+    "id": "auto-4175",
     "headline": {
-      "ja": "スーダンの金鉱への空爆で多数が殺害",
-      "en": "Deadly airstrike kills dozens at Sudan gold mine near Egypt border"
+      "ja": "スーダンの採掘地で空爆により少なくとも72人が殺害",
+      "en": "At least 72 Sudanese miners killed in air strike"
     },
     "summary": {
-      "ja": "スーダン・エジプト国境近くの金鉱への空爆により、少なくとも72人が殺害され、50人以上が負傷した。",
-      "en": "An airstrike on a gold mine near the Sudan-Egypt border killed at least 72 people and injured more than 50."
+      "ja": "権利監視団が報告したところによると、スーダン北部の採掘地への空爆で少なくとも72人が殺害された。",
+      "en": "A rights monitor reports that at least 72 miners were killed in an airstrike on a mining area in northern Sudan."
     },
     "category": "disaster",
     "country": "スーダン",
     "lat": 15.5518,
     "lon": 32.5324,
-    "occurredAt": "2026-10-11T20:44:17+00:00",
+    "occurredAt": "2026-10-11T22:08:26+00:00",
     "source": {
       "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_mining_airstrike_2026-10-11"
-  },
-  {
-    "id": "auto-3905",
-    "headline": {
-      "ja": "スーダン・エジプト国境で鉱業労働者が空爆で死傷",
-      "en": "Dozens killed or injured in airstrike near Sudan-Egypt border"
-    },
-    "summary": {
-      "ja": "スーダン・エジプト国境近くの採鉱地で空爆があり、複数の労働者が死傷した。",
-      "en": "Multiple miners killed or injured in an airstrike near the Sudan-Egypt border."
-    },
-    "category": "disaster",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-11T16:02:52+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2JuMmlrcGRibUNqQUNpRE9WOGUxQjFwczREM0ZabTZGQXRNM1AxZDlmQ3hGcTM1ZW16cFFtY2lSRGhXbVFqMExyYTZVUVNYRkQ3LVpZdGZTU2xmUFZJempERUNaNlZXNF8tcjVMeEE2NDVMZ3QtUUdQSXJ6S2FwZThJeTFUM1ZDODdSeWh1emZvSUc2anNLRWdkQ0JYLVJ0UWJhOVA2Sm9YV3dSYkRnTUxHMjhCZF9vZWVSNUdQRWt4NXgyamswT0x3?oc=5"
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss"
     },
     "reliability": "medium",
     "auto": true,
-    "eventKey": "sudan_egypt_border_airstrike"
+    "eventKey": "sudan_mining_airstrike_2026-10-11"
   }
 ]
