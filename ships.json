@@ -48,6 +48,30 @@
     "observedAt": null
   },
   {
+    "id": "2026-11-30-us-000046",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "横須賀",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国海軍の原子力空母セオドア・ルーズベルトが日米共同統合演習「Keen Sword 27」に参加する予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34484/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "2026-10-31-jp-000039",
     "recordType": "individual",
     "country": "JP",
@@ -96,6 +120,54 @@
     "count": null,
     "periodStart": "2026-10-19T00:00:00Z",
     "periodEnd": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "2026-10-19-us-000044",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "横須賀港",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国海軍の原子力空母セオドア・ルーズベルトが横須賀港から出港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34502/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T09:00:00Z"
+  },
+  {
+    "id": "2026-10-18-jp-000045",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "くにさき",
+    "shipNumber": "LST-4003",
+    "shipType": "transport",
+    "position": {
+      "area": "横須賀",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊輸送艦くにさきがインドネシア山林火災支援から横須賀へ帰国。防衛大臣が帰国行事に出席",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34507/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-18T00:00:00Z"
   },
   {
     "id": "2026-10-16-us-000029",
@@ -237,6 +309,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T09:00:00Z"
+  },
+  {
+    "id": "2026-10-16-us-000043",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "横須賀港",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国海軍の原子力空母セオドア・ルーズベルトが横須賀港に入港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34472/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:00:00Z"
