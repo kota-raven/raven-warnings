@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T15:35:27.970Z",
+  "generatedAt": "2026-10-19T16:36:42.412Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 200,
+  "count": 198,
   "warnings": [
     {
       "id": "NAVAREA11-260476",
@@ -768,18 +768,6 @@
       "geometry": null,
       "rawText": "番号:26-4110   発表日時:2026年10月17日 20時\r\n\n\r\n浜田港北西、\r\r\n射撃、10月22日(予備23日)0700-2400、\r\r\n35-03.4N 131-51.4Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264110&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264109",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4109",
-      "title": "オマーン湾、半没船（MV CAPE DAＯ）漂流",
-      "publishedAt": "2026-10-17T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4109   発表日時:2026年10月17日 08時\r\n\n\r\n★ オマーン湾、\r\r\n半没船(MV CAPE DAO)漂流、10月16日1550Z、\r\r\n24-21.48N 057-40.65E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264109&LANG=JP"
     },
     {
       "id": "JAPANNW-264108",
@@ -3888,54 +3876,6 @@
       },
       "rawText": "番号:26-1963    発表日時:2026年10月15日 13時\r\n\n\r\n種子島、\r\r\nロケット(H3)打ち上げに伴う警戒区域設定、\r\r\n10月20日(予備21日-11月7日)0011-0511頃、\r\r\n30-25-40N 130-58-21E\r\r\n30-26-48N 130-59-53E\r\r\n30-27-36N 131-00-20E\r\r\n30-27-36N 131-28-12E\r\r\n30-18-00N 131-28-12E\r\r\n30-18-00N 130-57-49E\r\r\n30-21-57N 130-57-49E\r\r\n30-22-20N 130-57-41E\r\r\nを結ぶ線及び陸岸で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261963&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261962",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海洋調査",
-      "number": "1962",
-      "title": "相模灘及び駿河湾、自律型無人探査機による潜航試験",
-      "publishedAt": "2026-10-15T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            139.2,
-            35.1
-          ],
-          [
-            139.4,
-            35.1
-          ],
-          [
-            139.4,
-            35
-          ],
-          [
-            139.2,
-            34.9
-          ],
-          [
-            138.56666666666666,
-            35.06666666666667
-          ],
-          [
-            138.75,
-            35.083333333333336
-          ],
-          [
-            138.68333333333334,
-            34.583333333333336
-          ],
-          [
-            138.51666666666668,
-            34.583333333333336
-          ]
-        ]
-      },
-      "rawText": "番号:26-1962    発表日時:2026年10月15日 13時\r\n\n\r\n相模灘及び駿河湾、\r\r\n自律型無人探査機(母船よこすか)による潜航試験、\r\r\n10月16日-19日、\r\r\n(1)35-06N 139-12E\r\r\n   35-06N 139-24E\r\r\n   35-00N 139-24E\r\r\n   34-54N 139-12E、\r\r\n(2)35-04N 138-34E\r\r\n   35-05N 138-45E\r\r\n   34-35N 138-41E\r\r\n   34-35N 138-31E、\r\r\nで囲まれる各海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261962&LANG=JP"
     },
     {
       "id": "NAVTEX-261961",
