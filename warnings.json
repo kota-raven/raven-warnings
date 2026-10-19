@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:33:37.975Z",
+  "generatedAt": "2026-10-19T04:35:22.838Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 198,
   "warnings": [
@@ -12,20 +12,8 @@
       "title": "南シナ海北部及びスールー海、宇宙ゴミ落下",
       "publishedAt": "2026-10-19T09:00:00+09:00",
       "geometry": null,
-      "rawText": "NO.26-0475    発表日時:2026年10月19日 09時\r\n\n\r\nSOUTH CHINA SEA, NORTHERN PART AND SULU \r\r\nSEA.\r\r\nHAZARDOUS OPERATIONS, SPACE DEBRIS.\r\r\n220100Z TO 220700Z OCT. AREAS BOUNDED BY\r\r\nA. 12-25.8N 116-36.6E\r\r\n   13-16.8N 115-54.6E\r\r\n   13-37.8N 116-21.6E\r\r\n   12-46.2N 117-03.0E\r\r\nB. 07-08.4N 120-43.8E\r\r\n   08-00.0N 120-03.6E\r\r\n   08-20.4N 120-30.0E\r\r\n   07-28.2N 121-10.2E\r\r\nC. 07-08.4N 120-37.2E\r\r\n   08-00.0N 119-57.0E\r\r\n   08-26.4N 120-32.4E\r\r\n   07-34.8N 121-12.6E\r\r\nCANCEL THIS MSG 220800Z OCT.",
+      "rawText": "NO.26-0475    発表日時:2026年10月19日 09時\r\n\n\r\nSOUTH CHINA SEA, NORTHERN PART AND SULU \r\r\nSEA.\r\r\nHAZARDOUS OPERATIONS, SPACE DEBRIS.\r\r\n220100Z TO 220700Z OCT. AREAS BOUNDED BY\r\r\nA. 12-25.8N 116-36.6E\r\r\n   13-16.8N 115-54.6E\r\r\n   13-37.8N 116-21.6E\r\r\n   12-46.2N 117-03.0E.\r\r\nB. 07-08.4N 120-43.8E\r\r\n   08-00.0N 120-03.6E\r\r\n   08-20.4N 120-30.0E\r\r\n   07-28.2N 121-10.2E.\r\r\nC. 07-08.4N 120-37.2E\r\r\n   08-00.0N 119-57.0E\r\r\n   08-26.4N 120-32.4E\r\r\n   07-34.8N 121-12.6E.\r\r\nCANCEL THIS MSG 220800Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260475&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260474",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "航路標識",
-      "number": "0474",
-      "title": "シンガポール海峡、灯浮標流失に関する情報削除",
-      "publishedAt": "2026-10-18T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0474    発表日時:2026年10月18日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nCANCEL INFORMATION OF PAWAI BUOY\r\r\nMISSING.\r\r\nCANCEL 0457/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260474&LANG=JP"
     },
     {
       "id": "NAVAREA11-260473",
@@ -3488,6 +3476,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261984",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1984",
+      "title": "若狭湾、射撃",
+      "publishedAt": "2026-10-19T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1984    発表日時:2026年10月19日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、10月22日0900-2400、35-50.2N \r\r\n135-39.8Eを中心とする半径5海里の円内。\r\r\n(1951削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261984&LANG=JP"
     },
     {
       "id": "NAVTEX-261983",
