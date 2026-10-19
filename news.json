@@ -1,47 +1,5 @@
 [
   {
-    "id": "2026-10-16-02",
-    "headline": {
-      "ja": "原油価格小幅下落、米政権による「影の船団」制裁緩和検討が重し ブレント105ドル台・WTI97ドル台",
-      "en": "Oil prices edge down as Trump administration weighs easing 'shadow fleet' sanctions; Brent near $105, WTI near $97"
-    },
-    "summary": {
-      "ja": "10月16日(金)朝の原油先物市場で、ブレント原油は1バレル105.51ドル(前日比0.39%安)、WTI原油は97.43ドル(同0.55%安)で取引されたと報じられたという。米政権当局者は10月15日(水)、ロシア・イラン・ベネズエラ産原油を運ぶ「シャドーフリート(影の船団)」タンカーの一部への制裁解除を検討していると明らかにしたとされ、記録的高水準にある運賃(フレート・レート)の緩和を狙っているという。これに先立ちトランプ大統領はロシア産ディーゼル燃料への制裁を一時的に解除しており、ゼレンスキー大統領・欧州各国・一部の共和党議員から批判を受けたという。サウジアラビアとイエメン・フーシ派の衝突激化やホルムズ海峡での船舶への攻撃は、依然価格を支える要因になっているという。国際エネルギー機関(IEA)は10月15日、ディーゼル需給の引き締まりに対応するため加盟国が2,000万バレル超のディーゼルを「可能な限り速やかに」放出することに合意したと発表したという。[信頼性: 中](CNBC。シャドーフリート制裁緩和の検討については匿名の米政権当局者の発言を引用した単独ソースの報道で、他の大手通信社による裏付けは確認できていない。IEAのディーゼル放出合意は同機関自身の発表に基づく)",
-      "en": "In early trading Friday, October 16, Brent crude was reported at $105.51 a barrel (down 0.39% from the prior session) and WTI at $97.43 (down 0.55%). A US administration official reportedly said on October 15 that Washington is weighing lifting sanctions on some 'shadow fleet' tankers carrying Russian, Iranian and Venezuelan oil, aiming to ease record-high freight rates. The move follows Trump's earlier temporary lifting of sanctions on Russian diesel, which drew criticism from President Zelenskyy, European governments and some Republican lawmakers. Escalating Saudi-Houthi clashes and attacks on ships in the Strait of Hormuz reportedly remain a price-supporting factor. The IEA said on October 15 that member countries agreed to release more than 20 million barrels of diesel 'as soon as possible' to address tightening supply. [Reliability: Medium] (CNBC; the shadow-fleet sanctions report cites a single anonymous US official and has not been independently corroborated by other major wire services. The IEA diesel release is based on the agency's own announcement.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-16T00:12:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet.html"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-19-01",
-    "headline": {
-      "ja": "アルバニアの首都ティラナで学費・教育環境への抗議デモが激化、160人超拘束 首相は「外国の関与」を主張し辞任を拒否",
-      "en": "Anti-government protests over tuition and education conditions intensify in Tirana, Albania; over 160 detained as PM blames 'foreign hands' and refuses to resign"
-    },
-    "summary": {
-      "ja": "アルバニアの首都ティラナで、学費の高騰や大学の施設環境などへの抗議から始まったデモが数日間続き、一部が警官隊との衝突に発展したと複数メディアが報じたという。デモはその後、汚職批判や、南部沿岸地域の開発をめぐる政府のリゾート計画(ジャレッド・クシュナー氏が関与する事業との報道あり)への批判にも広がったという。ラマ内相(インテリオール相)ことエルヴィン・デモ内相によると、警察側97人を含む計156人が負傷し、木曜夜(10月15日)の衝突後だけで160人が拘束されたという。警察は催涙ガスと放水砲を使用したという。ラマ首相は10月16日、一連の混乱の背景に「外国の関与」があるとの見方を示し、学生側の要求とは無関係な公共施設の破壊・治安への脅威を非難する一方、退陣要求には応じない考えを示したという。同首相の「外国の関与」発言について、独立した裏付けは確認できていない。[信頼性: 高](Euronews、Arab News(AFP配信)、Albanian Daily Newsなど複数メディアが一致して報道。アルバニア政府(ラマ首相・デモ内相)の発言に基づく)",
-      "en": "Multiple outlets reported that protests in Tirana, Albania — which began over rising tuition fees and poor university conditions — continued for several days, with some clashes breaking out between demonstrators and police. The protests reportedly broadened to include criticism of government corruption and a coastal resort development deal reportedly linked to Jared Kushner. Interior Minister Ervin Demo said 156 people, including 97 police officers, were injured, and that 160 people were detained following violent incidents on the night of October 15 alone. Police reportedly used tear gas and water cannon. On October 16, Prime Minister Edi Rama said he believed 'foreign hands' were behind the escalating unrest, condemning the destruction of public property and threats to public safety as unrelated to students' demands, while refusing calls to resign. Rama's claim of foreign involvement has not been independently corroborated. [Reliability: High] (Consistently reported by Euronews, Arab News via AFP, and Albanian Daily News, among others, based on statements from Albania's government — PM Rama and Interior Minister Demo.)"
-    },
-    "category": "conflict",
-    "country": "アルバニア",
-    "lat": 41.1533,
-    "lon": 20.1683,
-    "occurredAt": "2026-10-16T12:00:00+00:00",
-    "source": {
-      "name": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-17-01",
     "headline": {
       "ja": "パキスタン・バロチスタン州でM5.7の地震",
@@ -148,5 +106,26 @@
       "url": "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-20-01",
+    "headline": {
+      "ja": "トランプ大統領、対ロシア制裁「グラム法」の発動を大統領令で一時停止 発効期限(10/18)の直前に",
+      "en": "Trump waives mandatory Russia sanctions under the Graham Act by executive order, days before they were set to take effect"
+    },
+    "summary": {
+      "ja": "米トランプ大統領が10月16日(金)、「リンゼー・O・グラム ロシア・イラン制裁法」(2026年、H.R. 5334)に基づき義務付けられていた対ロシア制裁・関税措置の発効を、大統領令により一時停止(waive)したと複数メディアが報じたという。同法は9月18日に成立し、制裁・関税の発動期限は10月18日と定められていたが、その2日前に発効が止められた形になるという。大統領令は、ロシア産原油・ガス購入国への関税(最大100%)、ロシアの国有銀行と大口取引を行う外国銀行への制裁、ロシアの政府債・投資に関する禁止事項など、同法のロシア関連条項をすべて対象に一時停止したとされ、一方で既存の大統領令(EO14024等)に基づく従来の対ロシア制裁は維持されるという。トランプ大統領による対ロシア制裁の一時停止は、ロシア産ディーゼル燃料の輸出を認める措置(10月上旬)に続き、この数週間で2度目となるという。ウクライナのゼレンスキー大統領はこの措置を批判したと報じられたという。[信頼性: 高](ABC News、CNBC、The Hillが一致して報道)",
+      "en": "Multiple outlets reported that US President Trump signed an executive order on Friday, October 16, waiving mandatory Russia sanctions and tariffs required under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (H.R. 5334), just two days before they were set to take effect under the law's October 18 deadline. The law was signed September 18. The order reportedly waives every operative Russia-related section of the act, including tariffs of up to 100% on buyers of Russian oil and gas, sanctions on foreign banks doing significant business with Russian state banks, and bans on Russian sovereign debt and investment, while existing sanctions under earlier executive orders (e.g., EO 14024) remain in place. It is reportedly the second time in as many weeks that Trump has waived Russia-related sanctions, following an earlier move allowing Russian diesel exports. Ukrainian President Zelenskyy reportedly criticized the move. [Reliability: High] (Consistently reported by ABC News, CNBC and The Hill.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-17T00:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+    },
+    "reliability": "high"
   }
 ]
