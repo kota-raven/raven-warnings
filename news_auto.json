@@ -23,6 +23,29 @@
     "eventKey": "ukraine_russia_major_drone_attack_2026-10-19"
   },
   {
+    "id": "auto-17308",
+    "headline": {
+      "ja": "コンゴ民主共和国でエボラが8番目の州に拡大",
+      "en": "Ebola outbreak spreads to 8th province in DR Congo"
+    },
+    "summary": {
+      "ja": "コンゴ民主共和国でエボラウイルスの流行が新たな州に拡大し、公衆衛生上の脅威が増している。",
+      "en": "Ebola outbreak in DR Congo has expanded to an 8th province, escalating public health threat."
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "occurredAt": "2026-10-18T10:54:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORndCeEo0bVVuNkVBRUNqdllxbDhUcndXQnR5WFUzUU1KcFcyeVBwdEJENjRlS19UYUJSaUt1cU5OelJId19QcEVwV3NXZHR3WUNuX2x1OTJjT19ZSEJBeG8tdzAyTU5tTFFmeTB2eEsyV2pKTklPV01JcEtzbFlKUkVtVzJHdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "drc_ebola_outbreak_2026"
+  },
+  {
     "id": "auto-17181",
     "headline": {
       "ja": "ウクライナ軍がサンクトペテルブルク攻撃、1人死亡",
@@ -3430,46 +3453,23 @@
     "severity": 4
   },
   {
-    "id": "auto-4767",
+    "id": "auto-4758",
     "headline": {
-      "ja": "RSF、スーダンのブルーナイル州の病院をドローン攻撃",
-      "en": "RSF drone attack destroys hospital, injures 2 medical workers in Sudan's Blue Nile"
+      "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
+      "en": "Coalition: Drone and Cruise Missile Threat against Saudi Arabia Detected, Engagement Underway"
     },
     "summary": {
-      "ja": "スーダンの紛争勢力RSFが同国ブルーナイル州の病院をドローン攻撃で破壊し、医療従事者2名が負傷した。",
-      "en": "The RSF conducted a drone attack on a hospital in Sudan's Blue Nile state, destroying the facility and injuring two medical workers."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-12T09:46:17+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG1CVHJQc1M2X1J5UVNLSWk3RUF6NFhfeHRWLXN3LWR4MHlHOEU5X091aGVRX0x6d2V3TUpVZWlPWDhILW1VNzFFTGZIek81OW1iMG1TWnNuZlhfZ3UxalNWaDJKVTlxWTJTc3JiMnMzbDg1YjBORFRHVVQ4UXRXc19GNC13M0pSVTBsdUVZdXNpTG1SaFg3MnlEY01CbEdpYmFxQ2ZfejZTRE9KT20weHB3dWt1MVZuNWJvazJ2RXVFbDAtWThSa2lyMjNFNUhWMkE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_rsf_hospital_attack_2026-10-12"
-  },
-  {
-    "id": "auto-5017",
-    "headline": {
-      "ja": "ミサイルがリヤド空港に着弾、CCTV映像で確認",
-      "en": "Watch: CCTV shows people take cover as missile hits Riyadh airport"
-    },
-    "summary": {
-      "ja": "BBCが入手した空港内のCCTV映像により、ミサイルがリヤド空港に着弾した瞬間が確認された。",
-      "en": "CCTV footage from inside Riyadh airport shows the moment a missile struck the facility on Saturday."
+      "ja": "サウジアラビア政府は、同国に向かうドローンと巡航ミサイルの脅威を検出し、迎撃作戦を実施中だと発表した。",
+      "en": "Saudi coalition forces reported detecting and engaging a drone and cruise missile threat directed at the kingdom."
     },
     "category": "conflict",
     "country": "サウジアラビア",
     "lat": 24.6877,
     "lon": 46.7219,
-    "occurredAt": "2026-10-12T09:38:03+00:00",
+    "occurredAt": "2026-10-12T10:29:15+00:00",
     "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss"
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qSm9XYzVwQjYxVDJ1QS1JSHU4RmJFQm4zdVU5TE16NlFEcEZiMkpTZV9wWUZUdjlUbVFuNTRmY2VKMEx1UmhlMFRB?oc=5"
     },
     "reliability": "high",
     "auto": true,
