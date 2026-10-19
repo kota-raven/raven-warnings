@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-18895",
+    "headline": {
+      "ja": "ロシア、キーウ近郊の工場にミサイル攻撃で大きな被害と発表",
+      "en": "ロシア、キーウ近郊の工場にミサイル攻撃で大きな被害と発表"
+    },
+    "summary": {
+      "ja": "ロシア当局は、キーウ近郊のプラネタ・プラスティク工場に対するミサイル攻撃を実施し、大きな被害を与えたと発表した。",
+      "en": "ロシア当局は、キーウ近郊のプラネタ・プラスティク工場に対するミサイル攻撃を実施し、大きな被害を与えたと発表した。"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-19T13:30:28+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTOVdSQzE2VXE2N1BZckM4ek9OSG12Z3lYcDJNbUdibWRJSVBPblo1S2NPNEczRFVJQy1pZ0RtczdUSTdBTHk5ddIBTkFVX3lxTE1TeHc2aTR1TUtRTHgwUGNNOFhNRDhrdHN2TWphbGVXajNKdWZsUmtfUXRzYmJRWE94QU1pMWxRUloyX3U5YlFDUjhIZjZoZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_planeta_strike_2026-10-19"
+  },
+  {
+    "id": "auto-18995",
+    "headline": {
+      "ja": "イエメン・シャブワ軍営地へのフーシ派攻撃で53人以上が殺害",
+      "en": "イエメン・シャブワ軍営地へのフーシ派攻撃で53人以上が殺害"
+    },
+    "summary": {
+      "ja": "フーシ派がイエメン南部シャブワ州の軍営地に弾道ミサイルで攻撃し、訓練中の軍人53人以上が殺害されたと報道されている。",
+      "en": "フーシ派がイエメン南部シャブワ州の軍営地に弾道ミサイルで攻撃し、訓練中の軍人53人以上が殺害されたと報道されている。"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-19T12:51:46+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_shabwa_military_attack_2026-10-19",
+    "severity": 4
+  },
+  {
+    "id": "auto-18872",
+    "headline": {
+      "ja": "ロシア、キーウ攻撃でミサイル貯蔵施設とデータセンターに命中と発表",
+      "en": "ロシア、キーウ攻撃でミサイル貯蔵施設とデータセンターに命中と発表"
+    },
+    "summary": {
+      "ja": "ロシア当局は、キーウを対象とした大規模ミサイル攻撃を実施し、ミサイル貯蔵施設やデータセンターに命中したと発表した。",
+      "en": "ロシア当局は、キーウを対象とした大規模ミサイル攻撃を実施し、ミサイル貯蔵施設やデータセンターに命中したと発表した。"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-19T08:21:51+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByUW5wdlppcm9OMXNQc0M0QkNRVUI1Rk1SWm1zc182V2JDYVFrUFQtRkNLWjdHdEJ0TU9xX3BnLU9VMU5XMnNocNIBTkFVX3lxTFBvZEtLSVI1S0ZvU1hWcE5ZcFlzc0ZRTldDVGctQWxZaEZKZEtFTmF6SXhqS3JnZGJvVGFpYlZrR0NwZDdSU25ES2RUTks0QQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_kyiv_attack_2026-10-19",
+    "severity": 4
+  },
+  {
     "id": "auto-17909",
     "headline": {
       "ja": "ウクライナ、ロシアへ1000機以上のドローン攻撃 石油施設に火",
@@ -3381,99 +3452,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "oman_strait_hormuz_tanker_attack_20261012"
-  },
-  {
-    "id": "auto-5786",
-    "headline": {
-      "ja": "コロンビア和平協定が脆弱化、不安全が増加",
-      "en": "Colombia peace deal must endure as insecurity grows"
-    },
-    "summary": {
-      "ja": "コロンビアは10年前に紛争を終わらせるための歴史的和平協定に署名したが、不安全の増加によって協定が脅かされている。",
-      "en": "Colombia's historic peace deal to end a decades-long conflict faces strain as insecurity grows."
-    },
-    "category": "conflict",
-    "country": "コロンビア",
-    "lat": 4.6097,
-    "lon": -74.0817,
-    "occurredAt": "2026-10-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168580"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "colombia_peace_deal_insecurity_2026-10-12"
-  },
-  {
-    "id": "auto-5787",
-    "headline": {
-      "ja": "シリア、移行期の危機。経済悪化と地域紛争",
-      "en": "Syria's fragile transition – economic strain and Israeli incursions"
-    },
-    "summary": {
-      "ja": "シリアの移行過程は経済的困難、イスラエルの南部進出、セクト間の緊張により複数の圧力にさらされている。",
-      "en": "Syria's transition faces pressure from economic hardship, Israeli incursions, and sectarian tensions."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168578"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "syria_fragile_transition_israel_2026-10-12"
-  },
-  {
-    "id": "auto-5788",
-    "headline": {
-      "ja": "スーダン、干ばつと戦争が飢饉をもたらす。ダルフール・コルドファン",
-      "en": "Sudan: Drought and war push Darfur and Kordofan towards famine"
-    },
-    "summary": {
-      "ja": "戦争によってすでに荒廃したスーダンの一部地域で、エルニーニョ干ばつによってダルフール・コルドファン大地域の飢饉リスクが高まっている。",
-      "en": "Severe El Nino drought and ongoing war are pushing Greater Darfur and Greater Kordofan towards famine."
-    },
-    "category": "disaster",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168577"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_darfur_kordofan_famine_drought_2026-10-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-4758",
-    "headline": {
-      "ja": "サウジアラビア政府、ドローンと巡航ミサイルの脅威に対応中と発表",
-      "en": "Coalition: Drone and Cruise Missile Threat against Saudi Arabia Detected, Engagement Underway"
-    },
-    "summary": {
-      "ja": "サウジアラビア政府は、同国に向かうドローンと巡航ミサイルの脅威を検出し、迎撃作戦を実施中だと発表した。",
-      "en": "Saudi coalition forces reported detecting and engaging a drone and cruise missile threat directed at the kingdom."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-12T10:29:15+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qSm9XYzVwQjYxVDJ1QS1JSHU4RmJFQm4zdVU5TE16NlFEcEZiMkpTZV9wWUZUdjlUbVFuNTRmY2VKMEx1UmhlMFRB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
-    "severity": 4
   }
 ]
