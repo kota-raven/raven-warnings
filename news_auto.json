@@ -3173,29 +3173,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_houthi_holy_mosques_attack_2026-10"
-  },
-  {
-    "id": "auto-5752",
-    "headline": {
-      "ja": "スーダンで飢饉リスク増加、干ばつと紛争が悪化",
-      "en": "Conflict and drought increasing risk of famine in Sudan"
-    },
-    "summary": {
-      "ja": "スーダンではエルニーニョによる干ばつが国土の約半分に影響し、3年続く戦争との相乗効果で飢饉のリスクが高まっている。",
-      "en": "El Nino-induced drought is affecting roughly half of Sudan as a three-year conflict continues, raising famine risk."
-    },
-    "category": "disaster",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-12T21:27:42+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_drought_famine_risk_2026-10-12",
-    "severity": 4
   }
 ]
