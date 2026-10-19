@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:50:23.579Z",
+  "generatedAt": "2026-10-19T08:41:09.548Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 198,
   "warnings": [
@@ -3478,6 +3478,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261986",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1986",
+      "title": "釧路港南南東、射撃中止",
+      "publishedAt": "2026-10-19T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1986    発表日時:2026年10月19日 17時\r\n\n\r\n釧路港南南東、\r\r\n射撃中止。\r\r\n(1960削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261986&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261985",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1985",
+      "title": "石廊埼南、射撃終了",
+      "publishedAt": "2026-10-19T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1985    発表日時:2026年10月19日 17時\r\n\n\r\n石廊埼南、\r\r\n射撃終了。\r\r\n(1952削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261985&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261984",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3834,18 +3858,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261961&LANG=JP"
     },
     {
-      "id": "NAVTEX-261960",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1960",
-      "title": "釧路港南南東、射撃",
-      "publishedAt": "2026-10-15T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1960    発表日時:2026年10月15日 13時\r\n\n\r\n釧路港南南東、\r\r\n射撃、10月20日(予備21日)0830-2400、\r\r\n42-39.1N 144-30.4Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261960&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261955",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3868,18 +3880,6 @@
       "geometry": null,
       "rawText": "番号:26-1953    発表日時:2026年10月14日 17時\r\n\n\r\n石垣島南東、\r\r\nC/S ILE D’AIXによる海底線修理作業、\r\r\n10月15日-当分の間、\r\r\n22-30.67N 125-07.61E\r\r\n22-25.75N 125-10.97E\r\r\n22-26.35N 125-23.81E\r\r\n22-21.21N 125-25.38E\r\r\n22-17.23N 125-06.51E\r\r\n21-59.70N 124-47.87E\r\r\n22-06.39N 124-41.57E\r\r\n22-22.84N 125-00.30E\r\r\n22-29.47N 124-58.00Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261953&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261952",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1952",
-      "title": "石廊埼南、射撃",
-      "publishedAt": "2026-10-14T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1952    発表日時:2026年10月14日 13時\r\n\n\r\n石廊埼南、\r\r\n射撃、10月19日0900-2400、34-21.2N\r\r\n138-49.7Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261952&LANG=JP"
     },
     {
       "id": "NAVTEX-261950",
