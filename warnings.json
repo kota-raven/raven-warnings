@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-10-19T11:34:45.250Z",
+  "generatedAt": "2026-10-19T12:42:43.273Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 200,
   "warnings": [
+    {
+      "id": "NAVAREA11-260476",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0476",
+      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
+      "publishedAt": "2026-10-19T21:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            145.2,
+            14.15
+          ],
+          [
+            145.63333333333333,
+            15
+          ]
+        ]
+      },
+      "rawText": "NO.26-0476    発表日時:2026年10月19日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nA. ROTA HARBOR, 14-09N 145-12E\r\r\nB. TINIAN, 15-00N 145-38E\r\r\nCANCEL 0469/26.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260476&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260475",
       "type": "NAVAREA11",
@@ -38,18 +62,6 @@
       "geometry": null,
       "rawText": "NO.26-0472    発表日時:2026年10月17日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nARMED ROBBERY INFORMATION. 170725Z OCT.\r\r\n01-14.26N 104-00.46E.\r\r\nACCORDING TO INFORMATION, ROBBERS\r\r\nBOARDED A BARGE. VESSEL REQUESTED TO BE\r\r\nCAUTION ADVISED.\r\r\nCANCEL THIS MSG 241400Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260472&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260469",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0469",
-      "title": "マリアナ諸島、熱帯低気圧による港湾の閉鎖",
-      "publishedAt": "2026-10-17T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0469    発表日時:2026年10月17日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDUE TO TROPICAL STORM, THE FOLLOWING\r\r\nPORTS ARE CLOSED, UNTIL FURTHER NOTICE.\r\r\nA. APRA HARBOR, 13-27.20N 144-39.21E.\r\r\nB. ROTA HARBOR, 14-08.35N 145-08.09E.\r\r\nC. TINIAN, 14-57.95N 145-37.26E.\r\r\nD. SAIPAN, 15-13.56N 145-44.25E.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260469&LANG=JP"
     },
     {
       "id": "NAVAREA11-260467",
