@@ -108,12 +108,12 @@
   {
     "id": "2026-10-18-02",
     "headline": {
-      "ja": "カナダ・アルバータ州の陸軍基地で大規模火災、死傷者発生 国防相「記憶にある中で最悪の集団死傷事案」",
-      "en": "Large fire at Canadian Army base in Alberta leaves deaths and injuries; minister calls it worst mass-casualty event in recent memory"
+      "ja": "カナダ・アルバータ州の陸軍基地火災、死者4人・負傷39人と確定 原因は訓練中の弾薬由来か、テロの兆候はないとの見方",
+      "en": "Fire at Canadian Army base in Alberta confirmed to have killed 4, injured 39; preliminary findings point to training munition, no indication of terrorism"
     },
     "summary": {
-      "ja": "カナダ国防省によると、10月17日午後4時頃(現地時間)、アルバータ州のカナダ軍基地CFBワインライトの訓練エリアで火災が発生し、強風により基地の外にも延焼したという。マッギンティ国防相は、この火災で死者・負傷者が出ていると明らかにしたが、遺族への通知が完了するまで具体的な人数は公表しないとしたという。同国防相は、自身が知る限り近年で最悪の集団死傷事案だと述べたという。アルバータ州のスミス州首相も「重大で悲劇的な火災」と述べ、多数の軍関係者に影響が及んでいるとしたという。エドモントン市は多数の患者受け入れに備えて「コード・オレンジ」を発令し、エドモントン・サスカトーン両市からドクターヘリが派遣されたという。カナダ騎馬警察(RCMP)が原因を調査中としている。[信頼性: 高](CBC、CBSニュース、ABCニュース(オーストラリア)、アルジャジーラ、グローブ・アンド・メールが一致して報道。カナダ国防省・アルバータ州政府の発表に基づく)",
-      "en": "According to Canada's Department of National Defence, a fire broke out in the training area of Canadian Forces Base Wainwright in Alberta around 4 p.m. local time on October 17, and spread beyond the base due to strong winds. Defence Minister David McGuinty said the fire caused deaths and injuries, but said the department would not confirm numbers until next of kin are notified. He reportedly called it the worst mass-casualty event he was aware of in recent memory. Alberta Premier Danielle Smith called it a \"significant and tragic\" fire affecting many military personnel. Edmonton declared a \"code orange\" to prepare for a high number of patients, and air ambulances were dispatched from Edmonton and Saskatoon. The RCMP is investigating the cause. [Reliability: High] (Consistently reported by CBC, CBS News, ABC News Australia, Al Jazeera, and the Globe and Mail, based on statements from Canada's Department of National Defence and the Alberta government.)"
+      "ja": "カナダ国防省は、10月17日午後4時頃(現地時間)にアルバータ州のカナダ軍基地CFBワインライトで発生した火災関連の訓練事故により、カナダ軍人4人(モーガン・ウォン軍曹、ショーン・ファレル氏、エイダン・グールディング氏、ヘイデン・リッケマーク氏)が死亡し、39人が負傷したと公式に発表したという。当初CBCが複数の関係者の話として「死者7人」と報じていたが、国防当局がこれを4人に修正したという。Global Newsが確認した内部文書によると、予備調査では実弾訓練中の弾薬が急速に延焼するグラスファイアを引き起こし、その後「予期しない突発的な風向きの変化」により火が人員に向かって広がり爆発が起きたとみられるという(あくまで予備的な見方であり確定ではない)。国防省はCBCに対し、テロ行為によるものを示す兆候はないとしているという。カーニー首相は、この事故を「カナダの平時において軍にとって最悪の悲劇の一つ」と述べたという。[信頼性: 高](カナダ国防省(Canada.ca)の公式発表に基づき、CBC・CNN・Global Newsが一致して報道)",
+      "en": "Canada's Department of National Defence officially confirmed that a fire-related training incident at Canadian Forces Base Wainwright in Alberta, which broke out around 4 p.m. local time on October 17, killed four Canadian Armed Forces members — Sgt. Morgan Wong, Pte. Shaun Farrell, Aidan Goulding and Hayden Lykkemark — and injured 39 others. CBC had initially reported, citing multiple sources, that seven people had died, but defence officials later corrected that to four. According to an internal memo reviewed by Global News, a preliminary investigation suggests a munition from a live-fire training exercise sparked a fast-moving grass fire, and an 'unexpected, sudden' wind shift then drove the fire toward personnel, triggering an explosion — findings described as preliminary, not final. The Department of National Defence told CBC there is no indication the incident was the result of terrorist activity. Prime Minister Mark Carney called it 'one of the worst tragedies for the Forces on Canadian soil in peacetime.' [Reliability: High] (Based on the official announcement from Canada's Department of National Defence (Canada.ca), consistently reported by CBC, CNN and Global News.)"
     },
     "category": "disaster",
     "country": "カナダ",
@@ -122,10 +122,31 @@
     "lon": -110.8561,
     "occurredAt": "2026-10-17T22:00:00+00:00",
     "source": {
-      "name": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-strong-winds-9.7385505"
+      "name": "カナダ国防省(Canada.ca)",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html"
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-19-02",
+    "headline": {
+      "ja": "アルバニア・ティラナの反政府デモが6日目に拡大、負傷者計272人(警察169人)に ラマ首相はイランの関与を改めて主張、イラン側は否定",
+      "en": "Anti-government protests in Tirana, Albania enter sixth day; injuries reach 272 including 169 police as PM Rama again alleges Iranian involvement, which Iran denies"
+    },
+    "summary": {
+      "ja": "Euronewsによると、アルバニアの首都ティラナで続く反政府デモは10月18日(日)に6日目を迎え、警察は催涙ガスと放水砲を使用したという。これまでの衝突による負傷者は、警察官169人を含め計272人に達したと報じられたという。デモは大学の学費・施設環境への抗議から始まり、汚職批判や南部沿岸のリゾート開発計画への反対にも広がっているという(既報〈id: 2026-10-19-01〉の続報)。ラマ首相は改めて辞任要求を拒否し、デモを支持するオンライン上の動きについて「イランが背景にあるハイブリッド戦だ」との見方を示したとされ、イラン側はこの主張を否定しているという。[信頼性: 中](Euronews単独の報道。負傷者数・ラマ首相発言の内容について、本時間帯では他メディアによる裏付けは確認できなかった)",
+      "en": "According to Euronews, the ongoing anti-government protests in Tirana, Albania entered their sixth day on Sunday, October 18, with police using tear gas and water cannon. Injuries from the clashes so far reportedly reached 272, including 169 police officers. The protests, which began over university tuition and conditions, have reportedly broadened to include corruption allegations and opposition to a southern coastal resort development (a continuation of previously reported events, id: 2026-10-19-01). PM Edi Rama again rejected calls to resign and reportedly reiterated his view that online activity supporting the protests amounts to an Iran-backed 'hybrid war,' a claim Iran denies. [Reliability: Medium] (Based solely on Euronews reporting; the injury figures and PM Rama's remarks could not be independently corroborated by other outlets within this collection window.)"
+    },
+    "category": "conflict",
+    "country": "アルバニア",
+    "lat": 41.1533,
+    "lon": 20.1683,
+    "occurredAt": "2026-10-18T18:00:00+00:00",
+    "source": {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day"
+    },
+    "reliability": "medium"
   }
 ]
