@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:32:23.789Z",
+  "generatedAt": "2026-10-19T03:33:37.975Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 198,
   "warnings": [
@@ -3490,6 +3490,24 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261983",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "水深",
+      "number": "1983",
+      "title": "関門港、西山区、水中障害物存在",
+      "publishedAt": "2026-10-19T12:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          130.88944444444445,
+          33.93055555555555
+        ]
+      },
+      "rawText": "番号:26-1983    発表日時:2026年10月19日 12時\r\n\n\r\n関門港、西山区、\r\r\n水中障害物(錨)存在、\r\r\n33-55-50N 130-53-22E付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261983&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261982",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3862,18 +3880,6 @@
       "geometry": null,
       "rawText": "番号:26-1952    発表日時:2026年10月14日 13時\r\n\n\r\n石廊埼南、\r\r\n射撃、10月19日0900-2400、34-21.2N\r\r\n138-49.7Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261952&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261951",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1951",
-      "title": "若狭湾、射撃",
-      "publishedAt": "2026-10-14T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1951    発表日時:2026年10月14日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、10月19日(予備22日)0900-2400、\r\r\n35-50.2N 135-39.8Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261951&LANG=JP"
     },
     {
       "id": "NAVTEX-261950",
