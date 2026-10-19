@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-17909",
+    "headline": {
+      "ja": "ウクライナ、ロシアへ1000機以上のドローン攻撃 石油施設に火",
+      "en": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze"
+    },
+    "summary": {
+      "ja": "ウクライナは戦争中最大規模となる1000機以上のドローン攻撃をロシアに対して実施し、石油施設に火をつけた。キーウとワシントン間の緊張関係の高まりの中での攻撃である。",
+      "en": "Ukraine conducted its largest drone attack of the war with over 1,000 drones against Russia, resulting in fires at oil facilities. The attack occurred amid rising tensions between Kyiv and Washington."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 59.9386,
+    "lon": 30.3141,
+    "occurredAt": "2026-10-19T02:10:09+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_major_drone_attack_2026-10-19"
+  },
+  {
     "id": "auto-17181",
     "headline": {
       "ja": "ウクライナ軍がサンクトペテルブルク攻撃、1人死亡",
@@ -3452,144 +3475,5 @@
     "auto": true,
     "eventKey": "saudi_arabia_riyadh_airport_missile_strike_2026-10-12",
     "severity": 4
-  },
-  {
-    "id": "auto-4603",
-    "headline": {
-      "ja": "フーシ派がサウジアラビア国王ハーリド国際空港への攻撃継続、複数国が非難",
-      "en": "UAE strongly condemns continued Houthi group attacks on King Khalid International Airport"
-    },
-    "summary": {
-      "ja": "アラブ首長国連邦政府は、イエメンを拠点とするフーシ派によるサウジアラビアの国王ハーリド国際空港への攻撃継続を非難する声明を発表。サウジアラビア国営通信とUAE国営メディアも相次ぎ非難を表明した。",
-      "en": "The UAE government issued a statement strongly condemning the continued attacks by the Houthi group on King Khalid International Airport in Saudi Arabia. Saudi Arabian official media and UAE state media also expressed condemnation."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-12T08:39:16+00:00",
-    "source": {
-      "name": "UAE 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTTl4S2Zkald4aGRESk5XUGQ4ak13YmNRRGV0MnRJRkRNSDdLU0lOcDR5ZXo4LWxrT3VkZV8xdUltcmdENzMySmdieFVhUGtPenUyYUphQnlBYWZPc2RrSzBPcWpDN21DTWc4UEJ0M3FNWW8?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_houthi_airport_attacks_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-5800",
-    "headline": {
-      "ja": "サウジアラビア・リヤド空港攻撃、セキュリティ懸念と広域紛争リスク",
-      "en": "Deadly Riyadh airport attack heightens security concerns and risks wider conflict"
-    },
-    "summary": {
-      "ja": "リヤド空港での致命的な攻撃は、セキュリティ上の懸念を高め、より広範な紛争へのリスクを増加させた。",
-      "en": "The deadly attack at Riyadh airport heightens security concerns and raises risks of wider regional conflict."
-    },
-    "category": "disaster",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-12T06:33:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02NFFWQ25RMVJlc2pNbTdpSVY0T3JnM3RSdHJ6Wm56ZmcyUHFKczNEWWhpdk45b2dPWS1TUFZlVnRNNE9VZktqVkdOZkwzdExxSFFSZ09KUTZrb25rT05VcFZ1UTFGM00taURreS0xU29HeF9mTC1NMWQxYWI?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_airport_attack_security_2026-10-12"
-  },
-  {
-    "id": "auto-3915",
-    "headline": {
-      "ja": "北朝鮮のミサイル発射は韓国の極超音速兵器試験への対抗",
-      "en": "North Korea missile launches appear to be response to South Korea hypersonic test"
-    },
-    "summary": {
-      "ja": "北朝鮮がミサイルを発射し、韓国の極超音速兵器試験への対抗措置と見られている。",
-      "en": "North Korea conducts missile launches appearing to respond to South Korea's hypersonic weapon test."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-12T04:25:40+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1VfT2V2LXZlYXBEUGF6bExOekpWWU9mUW92Yk1kRnhKTkVtUVRRTU9kVWdUdTN3WEFTYXN3MzhzakxKZ093LW1aMFRZOTlxUWt3d1BTcDE0bko5LU0tMVNxZmY1b3V5aVNMZHcwcHhFaHRVbkt6ZmNnbUFPT0NNdHA5V1pOYVEyX19Ia3pJWmFNdnhtU1lVUC1YZ2NVZVM2ZjF1M25VdEpJZFZtRnBCRmlaQ1IyRW9kUlhSZTdJTi1sRzZCcllhZkswTG5CTXFf?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "korea_missile_response_2026"
-  },
-  {
-    "id": "auto-4162",
-    "headline": {
-      "ja": "北朝鮮が複数の弾道ミサイルを海に向けて発射",
-      "en": "North Korea fires multiple ballistic missiles towards the sea"
-    },
-    "summary": {
-      "ja": "韓国の統合参謀本部によれば、北朝鮮が平壌地域から発射したミサイルの一部は900km以上飛行した。",
-      "en": "South Korea's Joint Chiefs of Staff report North Korea launched missiles from Pyongyang area with at least one flying over 900km."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-12T03:37:12+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "north_korea_missile_test_2026-10-12"
-  },
-  {
-    "id": "auto-4288",
-    "headline": {
-      "ja": "中国軍、台湾周辺で活動続行",
-      "en": "PLA maintains activities in waters and airspace around Taiwan"
-    },
-    "summary": {
-      "ja": "台湾国防部は、中国人民解放軍(PLA)の活動が台湾周辺の海域・空域で継続していると発表した。",
-      "en": "Taiwan's Ministry of Defense reported that PLA activities continue in the waters and airspace around Taiwan."
-    },
-    "category": "conflict",
-    "country": "台湾",
-    "lat": 24.4609,
-    "lon": 121.0737,
-    "occurredAt": "2026-10-11T23:03:55+00:00",
-    "source": {
-      "name": "台湾 国防部(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01MXF6aTRDdjRYM2s5T2pfMGM0cjZRMG1haWQ2Xzk2cTQwLTMzMWtCNEcxY2hvcE5CQ2JqT1hmQnZBRXo2U21Ha3R2UXhCVDRpczlMUEJ3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "china_pla_taiwan_operations_2026-10-11"
-  },
-  {
-    "id": "auto-4175",
-    "headline": {
-      "ja": "スーダンの採掘地で空爆により少なくとも72人が殺害",
-      "en": "At least 72 Sudanese miners killed in air strike"
-    },
-    "summary": {
-      "ja": "権利監視団が報告したところによると、スーダン北部の採掘地への空爆で少なくとも72人が殺害された。",
-      "en": "A rights monitor reports that at least 72 miners were killed in an airstrike on a mining area in northern Sudan."
-    },
-    "category": "disaster",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-11T22:08:26+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_mining_airstrike_2026-10-11"
   }
 ]
