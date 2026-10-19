@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:42:43.273Z",
+  "generatedAt": "2026-10-19T13:48:35.190Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 200,
   "warnings": [
@@ -388,6 +388,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264128",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4128",
+      "title": "オーストラリア南西岸、水中作業",
+      "publishedAt": "2026-10-19T22:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4128   発表日時:2026年10月19日 22時\r\n\n\r\n★ オーストラリア南西岸、\r\r\nM/V REACH REMOTE2による水中作業、当分の間、\r\r\n34-24.1S 34-53.6S 114-56.4E 115-39.7E\r\r\nの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264128&LANG=JP"
     },
     {
       "id": "JAPANNW-264127",
@@ -2314,38 +2326,6 @@
       "geometry": null,
       "rawText": "番号:26-4018   発表日時:2026年10月13日 12時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V SKANDI HERCULESによる水中作業、当分の間、\r\r\n19-57.30S 115-12.32E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264018&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-263967",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "3967",
-      "title": "ベンガル湾、射撃",
-      "publishedAt": "2026-10-09T08:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            91.38333333333334,
-            21.85
-          ],
-          [
-            91.66666666666667,
-            21.85
-          ],
-          [
-            91.66666666666667,
-            21.416666666666668
-          ],
-          [
-            91.38333333333334,
-            21.416666666666668
-          ]
-        ]
-      },
-      "rawText": "番号:26-3967   発表日時:2026年10月09日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、10月11日-19日毎日0200Z-1100Z、\r\r\n(1)21-51N 091-23E 21-51N 091-40E\r\r\n   21-25N 091-40E 21-25N 091-23E、\r\r\n(2)21-40.00N 091-00.00E\r\r\n   21-40.00N 091-40.00E\r\r\n   21-03.00N 091-40.00E\r\r\n   21-06.00N 091-30.93E\r\r\n   21-10.97N 091-18.92E\r\r\n   21-18.08N 091-10.08E\r\r\n   21-30.00N 091-02.97E、\r\r\nで囲まれる各海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263967&LANG=JP"
     },
     {
       "id": "JAPANNW-263961",
