@@ -1,5 +1,120 @@
 [
   {
+    "id": "auto-20942",
+    "headline": {
+      "ja": "英国、フーシ派の攻撃からサウジアラビアを防衛するためタイフーン戦闘機を配置",
+      "en": "UK to Deploy Typhoon Jets to Help Defend Saudi Arabia from Houthi Attacks"
+    },
+    "summary": {
+      "ja": "英国国防省は、フーシ派の攻撃からサウジアラビアを防衛するため、タイフーン戦闘機をサウジアラビアに配置すると発表した。",
+      "en": "The UK Ministry of Defence announced the deployment of Typhoon fighter jets to Saudi Arabia for defensive operations against Houthi attacks."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-20T11:37:43+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "uk_typhoon_deployment_saudi_2026-10-20"
+  },
+  {
+    "id": "auto-20484",
+    "headline": {
+      "ja": "サウジアラビア主導の連合軍、フーシ派の弾道ミサイルをリヤド方向で迎撃",
+      "en": "Saudi-led Coalition Intercepts Houthi Ballistic Missile Toward Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合軍がフーシ派の弾道ミサイルをリヤドに向かう途中で迎撃した。",
+      "en": "The Saudi-led coalition intercepted a ballistic missile launched by Houthi forces targeting Riyadh."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-20T09:40:18+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXZNQllVY0w2QWNVWEdiaUNBaWlaTlUzSGhxemlocWlyOWZzV3pIR3NqMGk5VlZkazBRenc5N2VIXzV5bWtYWVgydkd2VExVZmYwcU10MnV0T2NvdWFLNGpZLUxIc2FYbU5ORV9HZFlEekxqa0hkOGRXVUFfWU91MWRmaUJSVGg2Rllqbzl2bVduZl9JdmdjQ3kySVFIaUlpVGxPVVZEemdDaC1j?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_houthi_missile_riyadh_2026-10-20"
+  },
+  {
+    "id": "auto-20567",
+    "headline": {
+      "ja": "米国、ウクライナへの愛国者迎撃ミサイル承認未実施",
+      "en": "US Has Not Approved Deliveries of Patriot Interceptor Missiles to Ukraine"
+    },
+    "summary": {
+      "ja": "ロシア政府は、米国がウクライナへの愛国者迎撃ミサイル供与をまだ承認していないと報じた。",
+      "en": "Russia reports that the US has not approved the delivery of Patriot interceptor missiles to Ukraine."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-20T09:04:49+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBpUXdFVThBQVRVdDhEUHBHVUxoRGVudlBzS2FZWWdLeHdzZFg1RzROYjl4dXV2LTFDbkpjTjBXZVpuNHlX0gFKQVVfeXFMUGgxN0FlOW5ZT1dfN0FSYTJMZWVMdDFwTkdSc2JWOHVaamd2S3pqUHo3ZEVYN1A4dFJLVDVVV08tWng4VE40bjdJWHc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_patriot_missiles_ukraine_delay_2026-10"
+  },
+  {
+    "id": "auto-20552",
+    "headline": {
+      "ja": "ウクライナ大統領、ロシア弾道ミサイル攻撃の早期警戒とスターリンク協議をルビオと実施",
+      "en": "Early Warning of Russian Ballistic Missile Attacks and Starlink Discussion: Zelenskyy Meets with Marco Rubio"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領は、ロシアの弾道ミサイル攻撃の早期警戒体制についてマルコ・ルビオと協議した。",
+      "en": "Ukraine's president discussed early warning systems for Russian ballistic missile attacks and Starlink support with Marco Rubio."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-20T07:06:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazFfSl96ZVc1My1xZVV5dm45TmxwbnkzWWpuOVdvbEtZbm9nWEQwckQ5Z09hS0Eyd04tRzRqSDNGakE3UmJ1UGJtUG5ta0VlSmsxOGRkVTZ6Nm13WE1TWDZvQnBVQkU5MDlDYlRMVlMzSjgtWlBJTFdxSEJ2ekFITHNyeTZ5UWgxMVNLa1JJZldhSmhDWU5VS0hnTFJsSGN2RVdBSm5xaw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russian_missile_threat_2026-10-20"
+  },
+  {
+    "id": "auto-20707",
+    "headline": {
+      "ja": "米国のソマリア空爆が急増、トランプ政権が加速",
+      "en": "The Human Cost of Surging US Air Strikes in Somalia"
+    },
+    "summary": {
+      "ja": "トランプ政権が対ソマリア武装勢力の空爆を加速させており、民間人の死傷者や避難民が増加している。",
+      "en": "The Trump administration has accelerated US air strikes against armed groups in Somalia, resulting in civilian casualties and displacement."
+    },
+    "category": "conflict",
+    "country": "ソマリア",
+    "lat": 2.0371,
+    "lon": 45.3438,
+    "occurredAt": "2026-10-20T01:52:32+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_airstrikes_somalia_2026-10"
+  },
+  {
     "id": "auto-19492",
     "headline": {
       "ja": "スーダンでのドローン攻撃激化で160人が死亡と報告",
@@ -2989,190 +3104,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "drc_ebola_cases_exceed_9000_2026-10-13"
-  },
-  {
-    "id": "auto-6548",
-    "headline": {
-      "ja": "ブルガリア沖で船舶沈没",
-      "en": "Merchant ship sinks off Bulgarian coast in drone attack"
-    },
-    "summary": {
-      "ja": "ブルガリア沿岸の黒海でドローン攻撃により商船が沈没し、乗組員11名が行方不明。",
-      "en": "A merchant ship was sunk off Bulgaria's Black Sea coast in a drone attack, with eleven crew members missing."
-    },
-    "category": "conflict",
-    "country": "ブルガリア",
-    "lat": 42.6975,
-    "lon": 23.3241,
-    "occurredAt": "2026-10-13T14:06:27+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "black_sea_ship_attack_2026-10-13"
-  },
-  {
-    "id": "auto-7904",
-    "headline": {
-      "ja": "イラン軍、ホルムズ海峡付近で6隻の船舶を攻撃",
-      "en": "Iranian forces attack 6 ships near Strait of Hormuz in single day"
-    },
-    "summary": {
-      "ja": "イラン軍がホルムズ海峡近くで1日に6隻の船舶を攻撃。これは米国との緊張が始まって以来、1日当たりの最多件数となった。",
-      "en": "Iranian military attacked six ships near the Strait of Hormuz in a single day, marking the highest number of attacks in one day since tensions with the US intensified."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-13T13:16:15+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGxibXEtZ2FFRTM2RGpqU0FpNTRfb3RLakt5UENVc0pzUGNTWFl3dVA1ZDlFYkUwQWpnN3dCMkJuT0NIMU1JWkNrWkh1UUczZkE2M0Q4R3pEc3lwN2Y5QzdEQXdJc3RzUVBSOFhDbUdkZW5RZnJtREQ1ZUlmLUlNMFhRMWl2T1Z4NXg1SkJFZnY5NmdPVFE1TlN0RWFDRVNoSkhGOXJfT2JseGxtY1c4MW9lbzdmcjcycnh5VDVUNG9GallPMjQzLU1JZkxWNmluZVg1Rw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_strait_hormuz_ship_attacks_2026-10-13",
-    "severity": 4
-  },
-  {
-    "id": "auto-7903",
-    "headline": {
-      "ja": "イエメンフーシ派、サウジアラムコ攻撃を脅迫",
-      "en": "Houthis threaten strikes on Saudi Aramco, Riyadh airport"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派がサナアへの軍事作戦に対抗して、サウジアラビアのアラムコ施設とリヤド空港への攻撃を警告した。",
-      "en": "Yemen's Houthis threatened to strike Saudi Aramco facilities and Riyadh airport in response to potential military operations targeting Sanaa."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-13T13:07:56+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEF2X2dyWU8tNVBPdDN6QmlEN0N2d1dDZjUxRlowUTF3YXlCcFE1N2puS2p6MTVVcVF3NTdubG5Nd0U2Um1wQnc2SjdRMUxUdG10TDdhUDU1d19DLVd2S3JybjFTX1FlZm9aRkJQZHlRR2lfZTdIUkgxNVR3cFJ2T1A5bS05d3NDRGRQQV9GVjhCbC1DRlhqeEZubmxmNXpZT0xkMkxHV3NfMU9xcGFRdEctNEFyT2Z1VFlmYXkxY0s3UQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_houthis_saudi_aramco_threat_2026-10-13"
-  },
-  {
-    "id": "auto-7909",
-    "headline": {
-      "ja": "サウジ主導連合、フーシ支配地のサナアで石油施設避難を命令",
-      "en": "Saudi-led coalition orders evacuation of oil facility in Houthi-held Sanaa"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の多国籍連合がフーシ派支配下のサナアの石油施設の民間人避難を命令。軍事作戦の事前警告と見られる。",
-      "en": "The Saudi-led coalition ordered evacuation of a civilian oil facility in Houthi-controlled Sanaa, signaling preparations for a potential military operation."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-13T12:31:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa01ibzF3NVZRbmJfSVAtaDJ1LVpzVG5KOUxfcm9hMGNDZzYzSFhrZE9qR0RnVnl5a0dqZWxTX1A4SS1hek9sU3BxSE9ZRmIwZUxrVWJuMGoyZGlwelI1c0N5akoxeVVQYmFDZDN6VURlSnEzSS1WUTZWdXdldEpWVkVaU1ExNTdoYUlMMkctRzhxNE1sR1Z2LU91dE1vZU9YcmJUV0wtMFhYdEszTFJHTUNzRy1RRlEwWTg0T2tURmlieERrcFJucHJHdWRFTThIQngtTXNXc3MtQjYyZ0lpRQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_coalition_sanaa_oil_facility_evacuation_2026-10-13"
-  },
-  {
-    "id": "auto-6695",
-    "headline": {
-      "ja": "インド外務省、ラダック問題に関する中国側のコメントに回答",
-      "en": "Official Spokesperson's response to media queries regarding comments made by the Chinese side on Ladakh"
-    },
-    "summary": {
-      "ja": "インド政府外務省報道官は、ラダック地域に関する中国側のコメントに対する公式回答を発表した。",
-      "en": "The Indian Ministry of External Affairs spokesperson has released an official response to comments made by the Chinese side regarding Ladakh."
-    },
-    "category": "conflict",
-    "country": "インド",
-    "lat": 34.0353,
-    "lon": 77.1234,
-    "occurredAt": "2026-10-13T11:33:27+00:00",
-    "source": {
-      "name": "インド 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQjNjbjN4M0xucWpja2JrODhLZEx4MVo2OWZrTWpKTnJycEJTQUMteHQwYVA2ZlhBQUM2SEdqWUFoVEdwUmRuSmZXcERDMzZnV2JUSm14N2RQZzlJWklEd0JZemMtZzc1OWdWSzJPUmQ2SVlmMlp6c2JEeVdHU05zWmJ3RTlNVVJQdHVkX196aXd0MmVDTWRJZl8wS1oyRkRqdTdRNWs2aE9iZUNuNWd5S2Q4enVDRDNxcEFhZDBYWmNfWXZ3MWVIRTlJSW1vRU1OODE2dThkVllxZVlNeUVtM0J3QVRfV2ZYbXUw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "india_ladakh_china_diplomatic_response_2026-10"
-  },
-  {
-    "id": "auto-6686",
-    "headline": {
-      "ja": "ブルガリア首相がロシア大使を召喚、商船攻撃に抗議",
-      "en": "Bulgaria PM summons Russian ambassador after merchant ship attacks"
-    },
-    "summary": {
-      "ja": "ブルガリア首相は、商船攻撃への対応として、ロシア大使を召喚して抗議を行った。",
-      "en": "Bulgaria's Prime Minister summoned the Russian ambassador in response to the merchant ship attacks to lodge a protest."
-    },
-    "category": "conflict",
-    "country": "ブルガリア",
-    "lat": 42.6975,
-    "lon": 23.3241,
-    "occurredAt": "2026-10-13T11:25:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmpBREF5aGpmUmszZUVrckJNck1qRTRhSWZ6RVNJakRVTEEtZ3h0QU5yVTllcVEtMmZ6YkgwaHNRRDc0QkljZmxDNTdiZFd0RC01MXBiclBWVzMyMTQ0aEZIdjFCX3J1QmVCTDJDZFBqWnc3ZXVYLVFQRkhjUmVlV0FLVjJzdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "bulgaria_russian_ambassador_summons_ship_attacks_2026-10-13"
-  },
-  {
-    "id": "auto-7928",
-    "headline": {
-      "ja": "ウクライナ大統領、パートナー国から事前警告がなかったと指摘",
-      "en": "Zelenskyy says Ukraine did not receive early warning from partners"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領は、夜間のキーウ攻撃について、西側のパートナー国から事前警告を受けなかったと述べた。",
-      "en": "Ukrainian President Zelenskyy stated that Ukraine did not receive advance warning from Western partners regarding overnight attacks on Kyiv."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-13T10:47:04+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUFWRDhnT3dZQjM0VG83QkpFRS1wVi1uY0ZYNnNzODR3cHBsN1M0T2hNSURtX19tdzU5anFMNVpyc0NmN3g0eUctNDIwYnVyUlp0MGpHVFJYSWlKT19McWlwMkhnYjQwMjhVV2tjZ2VrQVdxejJTQ09hbGlCeHluTUJNbjlNckRQVnVkWFU2X29QdXF5NGVqR3BuZWZxYjgxQXVSd2RQZFotM1dSbU13aVFpQW13Y210ZDlrNFVaOEFabGdNcTVReVkxTG03cXpnZk5od0hrSnFfNFJ0eUV0dg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_kyiv_attack_zelenskyy_warning_criticism_2026-10-13"
-  },
-  {
-    "id": "auto-7933",
-    "headline": {
-      "ja": "パキスタン、旅客列車がパンジャブ州で脱線、5人死亡30人以上負傷",
-      "en": "Passenger train derails in Pakistan's Punjab province, killing at least 5"
-    },
-    "summary": {
-      "ja": "パキスタンのパンジャブ州で旅客列車が脱線し、少なくとも5人が死亡、30人以上が負傷した。",
-      "en": "A passenger train derailed in Pakistan's Punjab province, killing at least 5 people and injuring more than 30 others."
-    },
-    "category": "disaster",
-    "country": "パキスタン",
-    "lat": 31.4594,
-    "lon": 73.279,
-    "occurredAt": "2026-10-13T09:59:09+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcVI2TS1rZkxXdzVSbDJVWHlFb0VGQzlpT1ZvNjZ3NjB0bzVtM3Z3UHVGV1pjMUdlOTBfc1EzWDhXd003NEViYmdfcE5KUi0zRm1FRVl5b0dYdm55dnBlZTRsRGdPcmRpNU5ud2hIR0NHWUFvQU1aODFfZ29kSF8xZ0dGd0Q1d0hpS25tb3pFQWEwN3pVLXlSY2pjTm13X0ZQcWlFa0lTQ245RVZpbW1YZUV1T29EX3NUQmxQZENFY1YzZTF5TEU3U0hyWVRtNjNzdEN0bG44LXpOUk5RMVZVNGExNURrdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "pakistan_punjab_train_derailment_2026-10-13"
   }
 ]
