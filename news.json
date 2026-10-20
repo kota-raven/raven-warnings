@@ -148,5 +148,70 @@
       "url": "https://english.news.cn/20261019/6c02c8b4fcdb48f9b6a043076673c046/c.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-20-03",
+    "headline": {
+      "ja": "イエメン・シャブワ州でフーシ派の攻撃により政府軍訓練キャンプで58人死亡、200人超負傷・14人不明",
+      "en": "Houthi attack on Yemeni government training camp in Shabwa kills 58, wounds over 200, leaves 14 missing"
+    },
+    "summary": {
+      "ja": "Reuters、CBCニュース、Al-Monitor等によると、イエメン南部シャブワ州の政府治安部隊訓練キャンプ(アル・アラムキャンプ)が、フーシ派による弾道ミサイル(3発)の攻撃を受け、シャブワ州知事アワド・アル・ワズィール氏によると58人が死亡、200人超が負傷、14人が行方不明になったという。被害者はシャブワ州内部治安部隊の新規採用の訓練生で、前線から離れた場所での訓練中だったと政府報道官が述べたという。フーシ派の軍事報道官ヤヒヤ・サリー氏は同キャンプを「サウジ軍が運営するもの」として攻撃を認める声明をXに投稿したという。暫定大統領評議会(PLC)は強い対応を行うと表明したという。これとは別に、フーシ派は過去48時間以内に、サウジアラビアのシャイバ油田、リヤドのキング・ハーリド国際空港、アブハ国際空港、ヤンブーのアラムコ施設への攻撃を実施したと主張しているが、サウジ当局が確認したのはダーランのアラムコ事務棟への攻撃1件(死傷者なし)のみで、他の主張内容は未確認という。[信頼性: 高](Reuters発の報道をCBC・Al-Monitor等が一致して引用。サウジ施設への攻撃主張部分は未確認情報)",
+      "en": "According to Reuters, CBC News and Al-Monitor, a Houthi ballistic-missile attack (three missiles) on a Yemeni government security forces training camp (Al-Alam camp) in Shabwa province reportedly killed 58 people, wounded more than 200 and left 14 missing, according to Shabwa Governor Awad al-Wazir. The victims were reportedly new recruits of Shabwa's internal security forces undergoing training far from the front lines, a government spokesman said. Houthi military spokesman Yahya Saree reportedly claimed the attack on social media, describing the camp as being run by Saudi forces. Yemen's Presidential Leadership Council reportedly vowed a firm response. Separately, the Houthis claim to have struck Saudi Arabia's Shaybah oil field and airports in Riyadh and Abha, as well as an Aramco facility in Yanbu, within the past 48 hours; Saudi authorities have only confirmed one incident, at an Aramco administrative building in Dhahran, with no casualties, and the other claims remain unverified. [Reliability: High] (Consistently reported by CBC and Al-Monitor citing Reuters; the claims of strikes on Saudi facilities remain unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "シャブワ州",
+    "lat": 14.5452,
+    "lon": 46.8304,
+    "occurredAt": "2026-10-19T00:00:00+00:00",
+    "source": {
+      "name": "CBC News",
+      "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-government-forces-camp-9.7386538"
+    },
+    "reliability": "high",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-20-04",
+    "headline": {
+      "ja": "フランス、パリ・リヨン等主要都市で夜間外出禁止令を発令 抗議デモの暴動化続く、逮捕者2,500人超・被害店舗3,000件超",
+      "en": "France imposes nighttime curfews in Paris, Lyon and other major cities as cost-of-living protests turn violent; over 2,500 arrested, 3,000+ businesses damaged"
+    },
+    "summary": {
+      "ja": "France24、CNN、ABC News、CNBC等によると、フランス国内で続く生活費高騰等への抗議デモの暴動化(既報〈id: 2026-10-18-03〉)を受け、フランス政府・各都市当局は10月19日(月)夜から20日(火)未明にかけて、パリ(共和国広場・レアール地区、23時〜翌6時)、リヨン(21時〜翌6時)のほか、マルセイユ・ニース・リール・ボルドー等の主要都市で夜間外出禁止令を発令し、20時以降の集会・デモも禁止したという。これまでの暴動で全国の逮捕者数は2,500人超(報道により差異あり)、損壊・略奪に遭った店舗は3,000件超に上るとされるという。ルコルニュ首相は、外出禁止令により「平穏な一夜」になったと述べ、必要な地域では新たな外出禁止令を発令する方針を示したという。一方、マクロン大統領の中東3カ国歴訪について、対応の遅れを批判する声も強まっているという。[信頼性: 高](France24、CNN、ABCニュース、CNBCが一致して報道)",
+      "en": "According to France24, CNN, ABC News and CNBC, French authorities imposed overnight curfews from Monday night, October 19, into Tuesday morning in Paris (Place de la République and Les Halles, 11 p.m.–6 a.m.), Lyon (9 p.m.–6 a.m.) and other major cities including Marseille, Nice, Lille and Bordeaux, and banned gatherings after 8 p.m., following continued rioting amid cost-of-living protests (continuation of previously reported id: 2026-10-18-03). Nationwide arrests reportedly topped 2,500 (figures vary by outlet), with more than 3,000 businesses damaged or looted. PM Sébastien Lecornu said the curfews produced a 'calm' night and that new curfews would be imposed where needed. Criticism of President Macron's three-country Middle East tour was reportedly growing. [Reliability: High] (Consistently reported by France24, CNN, ABC News and CNBC.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-19T21:00:00+00:00",
+    "source": {
+      "name": "France24",
+      "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-20-05",
+    "headline": {
+      "ja": "原油価格、フーシ派のサウジ関連攻撃を受け2024年以来の高値圏に急伸 米株式市場は下落",
+      "en": "Oil prices surge to highest since 2024 on Houthi attacks tied to Saudi Arabia; US stocks fall"
+    },
+    "summary": {
+      "ja": "Yahoo Finance、Benzinga、CNBC等によると、10月20日(火)の米国市場前場、フーシ派によるサウジアラビアの石油・空港関連施設への攻撃主張や中東情勢の緊迫化を背景に、原油価格が2024年夏以来の高値圏まで急伸したと報じられたという。具体的な価格については報道間に差異があり、Fortuneは同日午前8時15分(米東部時間)時点でブレント原油が1バレル112.85ドルと報じた一方、AOLはこれより早い時間帯にブレント約109ドル・WTI約98ドル近辺と報じているという。原油高を受け、同日の米株式市場はダウ工業株30種・S&P500・ナスダック100の先物が軟調となり、ハイテク株中心に売りが広がったとBenzingaが報じたという。イラン革命防衛隊(IRGC)報道官が10月19日、ホルムズ海峡を通る海底通信ケーブル(7本)を新たな標的として挙げる旨の発言をしたことも、市場の懸念材料として報じられているという(攻撃の実行は示唆したものの、実際の攻撃には至っていない)。[信頼性: 高](原油急伸・米株軟調という事実自体はYahoo Finance、Benzinga、CNBCが一致して報道。個別の価格数値は報道間に差異があり中程度の確度)",
+      "en": "According to Yahoo Finance, Benzinga and CNBC, oil prices surged to their highest level since 2024 in US premarket trading on Tuesday, October 20, amid Houthi claims of strikes on Saudi oil and airport facilities and broader Middle East tensions. Specific price levels varied by outlet: Fortune reported Brent at $112.85 a barrel as of 8:15 a.m. ET, while AOL reported Brent around $109 and WTI around $98 earlier in the morning. The oil spike reportedly weighed on US equity futures, with Dow, S&P 500 and Nasdaq 100 futures softening and tech shares leading declines, per Benzinga. A statement by an Iranian Revolutionary Guard Corps spokesman on October 19 naming seven undersea communications cables under the Strait of Hormuz as potential new targets was also cited as a market concern, though no such attack has occurred. [Reliability: High] (The surge in oil and softness in US equities is consistently reported by Yahoo Finance, Benzinga and CNBC; specific price figures vary somewhat by outlet.)"
+    },
+    "category": "economy",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-20T12:15:00+00:00",
+    "source": {
+      "name": "Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62460028/stock-market-today-dow-jones-futures-rise-nasdaq-100-falls-as-iran-threatens-to-target-undersea-cables-spcx-nflx-stld-in-focus"
+    },
+    "reliability": "high"
   }
 ]
