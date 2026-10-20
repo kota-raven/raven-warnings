@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-19492",
+    "headline": {
+      "ja": "スーダンでのドローン攻撃激化で160人が死亡と報告",
+      "en": "160 reported killed in escalating drone attacks across Sudan"
+    },
+    "summary": {
+      "ja": "スーダン全土でドローン攻撃が増加し、民間人と基盤施設が標的にされており、160人の死亡が報告されている。国際人権団体はこれらの攻撃がいずれも民間人を対象にしていると警告している。",
+      "en": "Escalating drone attacks across Sudan have killed 160 people, with civilians and infrastructure being targeted. Rights groups warn that these unmanned aircraft attacks are intentionally targeting civilian populations."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-19T21:38:46+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_drone_attacks_casualties_2026-10-19",
+    "severity": 4
+  },
+  {
+    "id": "auto-19478",
+    "headline": {
+      "ja": "ウクライナ大統領顧問、米国の情報共有制限でウクライナ国民が死亡していると指摘",
+      "en": "Ukraine's presidential adviser claims US intelligence restrictions leading to Ukrainian casualties"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領の顧問セルヒー・ベスクレスノフは、米国が情報共有を制限しているため、ウクライナ国民が十分な警告時間を得られず死亡していると述べた。",
+      "en": "Presidential adviser Serhii Beskrestnov stated that Ukrainian civilians are dying because the US is restricting intelligence sharing and providing insufficient warning time."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-19T20:49:00+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_us_intelligence_sharing_2026-10-19"
+  },
+  {
+    "id": "auto-19524",
+    "headline": {
+      "ja": "イスラエル国防軍参謀総長、全面動員の導入を発表",
+      "en": "IDF Chief of General Staff announces full mobilization of Israeli military"
+    },
+    "summary": {
+      "ja": "イスラエル国防軍の参謀総長は国防軍の全面動員を導入すると発表した。",
+      "en": "The Chief of the General Staff of the Israeli Defense Forces announced the introduction of full mobilization of the military."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-19T17:46:55+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20556"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "israel_idf_mobilization_2026-10-19",
+    "severity": 4
+  },
+  {
     "id": "auto-19253",
     "headline": {
       "ja": "イエメン訓練キャンプへのミサイル攻撃で50人が殺害",
@@ -950,6 +1021,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "usa_trump_russian_energy_tariffs_2026-10-17"
+  },
+  {
+    "id": "auto-15195",
+    "headline": {
+      "ja": "ハリケーン・トゥルディ、メキシコ沿岸沖でカテゴリー3に発達",
+      "en": "Hurricane Trudy reaches category 3 off Mexico's coast"
+    },
+    "summary": {
+      "ja": "メキシコ沿岸沖でハリケーン・トゥルディが発生し、カテゴリー3に達した。",
+      "en": "Hurricane Trudy has developed and reached category 3 status off Mexico's coast."
+    },
+    "category": "disaster",
+    "country": "メキシコ",
+    "lat": 19.4285,
+    "lon": -99.1277,
+    "occurredAt": "2026-10-17T01:47:15+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEtURlZzSFBQX3hnaUpneDByUEdfWl96T2ZMcjJOekNnQ3NhenRsVVVqTjJ0VWNDcDdOc3FGN2YzNXlwQk9GenBRQ19EVTYwMVppR0toNGl0b0lZVzhXekxPNVVYNFZkem8tbkxvNWdGVGFXZEdQVEtUSDAwb1ZmT0R5Ml9DRzFSWHF3ZHJMeXpOVE5Ub2RFMkRR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "mexico_hurricane_trudy_2026-10-17"
   },
   {
     "id": "auto-14804",
@@ -3058,120 +3152,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "bulgaria_merchant_ship_drone_attack_2026-10-13"
-  },
-  {
-    "id": "auto-6294",
-    "headline": {
-      "ja": "フーシがリヤドを3日連続で攻撃",
-      "en": "Houthi missile attack targets Saudi capital Riyadh for third day in a row"
-    },
-    "summary": {
-      "ja": "フーシ運動がサウジアラビアの首都リヤドに対してミサイル攻撃を継続し、3日連続での攻撃となった。サウジ側は弾道ミサイルを撃墜したと主張している。",
-      "en": "Houthis continue missile attacks on Riyadh as Saudi Arabia claims to have intercepted a ballistic missile, marking the third consecutive day of attacks."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-12T23:54:05+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "houthi_riyadh_missile_attack_20261012"
-  },
-  {
-    "id": "auto-6138",
-    "headline": {
-      "ja": "ハリケーン・シモンとハリケーン・レイチェルがメキシコ沿岸を襲撃",
-      "en": "Hurricanes Simon and Rachel devastate Mexico's coast"
-    },
-    "summary": {
-      "ja": "太平洋での記録的な暴風雨シーズンの一環として、ハリケーン・シモンと嵐レイチェルがメキシコ沿岸に甚大な被害をもたらし、複数の死者が報告されている。",
-      "en": "As part of a record-breaking Pacific hurricane season, Hurricanes Simon and Rachel have battered Mexico's coast causing multiple deaths."
-    },
-    "category": "disaster",
-    "country": "メキシコ",
-    "lat": 19.4285,
-    "lon": -99.1277,
-    "occurredAt": "2026-10-12T23:09:50+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "mexico_hurricanes_simon_rachel_20261012"
-  },
-  {
-    "id": "auto-5806",
-    "headline": {
-      "ja": "北朝鮮が戦術弾道ミサイルを発射",
-      "en": "North Korea test-fires tactical ballistic missile"
-    },
-    "summary": {
-      "ja": "北朝鮮が戦術弾道ミサイルの発射実験を実施した。",
-      "en": "North Korea conducted a test-firing of a tactical ballistic missile."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-12T22:39:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wNjBWMTlOY3pkZ2xFWHd3eHpLZXlkel83Z0kyM29SV2NyUFpueHQtLVN4Zk4wOEFTSUtYQ1l3RktCemJpcDBKTkhBQlZ5VXU3OC1YbUU4UEI0bldyRGVkOHlFY0h5eFNsWExyckJHcXRQVVdzT01uR1FGeEE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "north_korea_ballistic_missile_20261012"
-  },
-  {
-    "id": "auto-6285",
-    "headline": {
-      "ja": "北朝鮮が戦術弾道ミサイルを発射",
-      "en": "North Korea test-fires tactical ballistic missile"
-    },
-    "summary": {
-      "ja": "北朝鮮が戦術弾道ミサイルの発射実験を実施した。",
-      "en": "North Korea conducted a test-firing of a tactical ballistic missile."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-12T22:24:43+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9lMmM0VXpXdmtLa01ZeW5mTFNRZDB0SFV1QV9jb21ib2hxWDFIeUlZTDVpaHFkZ2tJWHo2UW9GTTV1Z0Z0a3pDVzNR0gFKQVVfeXFMT2UyYzRVeld2a0trTVl5bmZMU1FkMHRIVXVBX2NvbWJvaHFYMUh5SVlMNWlocWRna0lYejZRb0ZNNXVnRnRrekNXM1E?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "north_korea_ballistic_missile_20261013"
-  },
-  {
-    "id": "auto-6896",
-    "headline": {
-      "ja": "フーシ派、サウジアラビアの聖地2か所への攻撃継続、70カ国以上が非難",
-      "en": "Ministers from Over 70 Countries Condemn Houthi Attacks Targeting Two Holy Mosques in Saudi Arabia"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派がサウジアラビアの2つの聖地モスクを攻撃した。70カ国以上の政治指導者および宗教指導者が相次ぎ非難声明を発表した。",
-      "en": "The Houthi group from Yemen attacked two holy mosques in Saudi Arabia. Ministers and Islamic figures from over 70 countries condemned the attacks."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-12T21:54:55+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQzM0XzNVTFM4Wkt0NXRjQVdiVENBRkpzdGhxUFVDcVpwQkkxem1PRm9Wa3RkSTVyS2dCV1FHU0JZanNzMVoxWURn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_houthi_holy_mosques_attack_2026-10"
   }
 ]
