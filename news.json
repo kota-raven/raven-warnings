@@ -1,92 +1,5 @@
 [
   {
-    "id": "2026-10-17-01",
-    "headline": {
-      "ja": "パキスタン・バロチスタン州でM5.7の地震",
-      "en": "M5.7 earthquake strikes Balochistan, Pakistan"
-    },
-    "summary": {
-      "ja": "米地質調査所(USGS)によると、10月17日05:06(UTC)、パキスタン・バロチスタン州クズダール北西約48kmを震源とするマグニチュード5.7、震源の深さ10kmの地震が発生した。現時点で死傷者・大きな被害の報告はない。",
-      "en": "According to the USGS, a magnitude 5.7 earthquake with a depth of 10km struck about 48km WNW of Khuzdar, Balochistan, Pakistan, at 05:06 UTC on October 17. No casualties or major damage have been reported so far."
-    },
-    "category": "disaster",
-    "country": "Pakistan",
-    "region": "Balochistan",
-    "lat": 27.99,
-    "lon": 66.17,
-    "occurredAt": "2026-10-17T05:06:57+00:00",
-    "source": {
-      "name": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-18-01",
-    "headline": {
-      "ja": "スーパー台風チャンピ、グアム至近を通過 直接上陸は回避も暴風・大雨で被害、非常事態宣言",
-      "en": "Super Typhoon Champi skirts Guam, triggers emergency declaration despite avoiding direct landfall"
-    },
-    "summary": {
-      "ja": "グアム準州(米国領)の南岸付近を、スーパー台風チャンピが10月18日未明(現地時間、グアムはUTC+10)に最接近したと複数メディアが報じたという。最接近は現地時間午前4時26分頃、グアム南部メリゾの南約10マイル(約16km)の海上で、台風の目の壁雲が島の南岸をかすめる形となり、グアムへの直接上陸は回避されたという。チャンピは中心付近の最大風速が約185km/h、最大瞬間風速は約230km/hに達し、フィリピン気象当局(PAGASA)の基準でスーパー台風に相当する勢力だったという。米国家気象局(NWS)はグアム南部に「極端な暴風警報(Extreme Wind Warning)」を発出していたという。グアム準州は非常事態宣言を発令し、空港では多数のフライトが欠航したという。グアム記念病院では台風関連の受診が3件報告されたが、大規模な死傷者の報告は確認できていないという。台風はその後、東アジア方面へ進路を取り、フィリピン付近への上陸の可能性は低いとみられるという。[信頼性: 高](Fox Weather、Yale Climate Connectionsが一致して報道。グアム準州(Guam Homeland Security)・米国家気象局の発表内容に基づく報道)",
-      "en": "Multiple outlets reported that Super Typhoon Champi made its closest approach to Guam, a US territory, in the early hours of October 18 local time (Guam is UTC+10), passing roughly 10 miles south of Merizo at about 4:26 a.m. local time. The storm's eyewall reportedly scraped Guam's southern coast, and the typhoon narrowly avoided a direct landfall. Champi reportedly had maximum sustained winds of about 185 km/h with gusts to roughly 230 km/h, meeting the PAGASA threshold for a super typhoon. The US National Weather Service had issued an Extreme Wind Warning for southern Guam, and the Government of Guam declared a state of emergency; numerous flights were canceled. Guam Memorial Hospital reportedly recorded three storm-related visits, with no reports yet of major casualties. The storm is reportedly tracking toward East Asia next, with a landfall near the Philippines considered unlikely. [Reliability: High] (Consistently reported by Fox Weather and Yale Climate Connections, based on statements from Guam Homeland Security and the US National Weather Service.)"
-    },
-    "category": "disaster",
-    "country": "グアム(米国領)",
-    "lat": 13.4443,
-    "lon": 144.7937,
-    "occurredAt": "2026-10-17T18:26:00+00:00",
-    "source": {
-      "name": "Fox Weather",
-      "url": "https://www.foxweather.com/weather-news/typhoon-champi-could-make-rare-landfall-guam-after-rapidly-intensifying-el-nino-enhances-pacific-storms"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-18-03",
-    "headline": {
-      "ja": "フランス全土で生活費高騰への抗議デモが暴動化 1,800人超逮捕、警官ら500人超負傷、マクロン大統領が緊急対応",
-      "en": "Nationwide cost-of-living protests turn violent across France; over 1,800 arrested, 500+ police injured, Macron calls emergency meeting"
-    },
-    "summary": {
-      "ja": "フランス国内の複数都市で10月17日(土)、生活費の高騰や学校施設の老朽化などに対する抗議デモが行われ、一部が暴動化したと複数メディアが報じたという。主催者側は参加者を約80万人、当局は約55万人と発表したという。覆面の集団が各都市で放火や市庁舎など公共施設への攻撃を行ったとされ、少なくとも1,800人が逮捕されたとAP通信が報じたという。ヌネズ内相によると、警官・憲兵・消防士など500人超が負傷したという。パリ警察は、心臓発作により1人が死亡したと明らかにしたほか、サンテティエンヌ市では抗議参加者1人が手を切断する重傷を負ったと地元当局が明らかにしたという。ヌネズ内相は暴力について「極左の過激な集団」を非難したという。マクロン大統領は10月18日午後に治安当局高官らと緊急協議を行い、その後国民向け演説を行う予定としている。[信頼性: 高](CBCニュース、ABCニュース、CBSニュース、CNNが一致して報道。フランス政府(首相府・内務省)の発表内容に基づく)",
-      "en": "Multiple outlets reported that protests over the rising cost of living and deteriorating school conditions took place in several French cities on Saturday, October 17, with some turning violent. Organizers put the turnout at about 800,000, while authorities estimated about 550,000. Masked groups reportedly set fires and attacked public buildings, including city halls, in several cities; AP reported at least 1,800 arrests. Interior Minister Laurent Nuñez said more than 500 police officers, gendarmes and firefighters were injured. Paris police said one person died of a heart attack, and local officials in Saint-Étienne said a protester suffered a severed hand. Nuñez blamed \"extremely violent, radical far-left groups\" for the violence. President Macron was reportedly set to hold an emergency meeting with top security officials on the afternoon of October 18, followed by a national address. [Reliability: High] (Consistently reported by CBC News, ABC News, CBS News and CNN, based on statements from the French government.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-17T20:00:00+00:00",
-    "source": {
-      "name": "CBC News",
-      "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-18-02",
-    "headline": {
-      "ja": "カナダ・アルバータ州の陸軍基地火災、死者4人・負傷39人と確定 原因は訓練中の弾薬由来か、テロの兆候はないとの見方",
-      "en": "Fire at Canadian Army base in Alberta confirmed to have killed 4, injured 39; preliminary findings point to training munition, no indication of terrorism"
-    },
-    "summary": {
-      "ja": "カナダ国防省は、10月17日午後4時頃(現地時間)にアルバータ州のカナダ軍基地CFBワインライトで発生した火災関連の訓練事故により、カナダ軍人4人(モーガン・ウォン軍曹、ショーン・ファレル氏、エイダン・グールディング氏、ヘイデン・リッケマーク氏)が死亡し、39人が負傷したと公式に発表したという。当初CBCが複数の関係者の話として「死者7人」と報じていたが、国防当局がこれを4人に修正したという。Global Newsが確認した内部文書によると、予備調査では実弾訓練中の弾薬が急速に延焼するグラスファイアを引き起こし、その後「予期しない突発的な風向きの変化」により火が人員に向かって広がり爆発が起きたとみられるという(あくまで予備的な見方であり確定ではない)。国防省はCBCに対し、テロ行為によるものを示す兆候はないとしているという。カーニー首相は、この事故を「カナダの平時において軍にとって最悪の悲劇の一つ」と述べたという。[信頼性: 高](カナダ国防省(Canada.ca)の公式発表に基づき、CBC・CNN・Global Newsが一致して報道)",
-      "en": "Canada's Department of National Defence officially confirmed that a fire-related training incident at Canadian Forces Base Wainwright in Alberta, which broke out around 4 p.m. local time on October 17, killed four Canadian Armed Forces members — Sgt. Morgan Wong, Pte. Shaun Farrell, Aidan Goulding and Hayden Lykkemark — and injured 39 others. CBC had initially reported, citing multiple sources, that seven people had died, but defence officials later corrected that to four. According to an internal memo reviewed by Global News, a preliminary investigation suggests a munition from a live-fire training exercise sparked a fast-moving grass fire, and an 'unexpected, sudden' wind shift then drove the fire toward personnel, triggering an explosion — findings described as preliminary, not final. The Department of National Defence told CBC there is no indication the incident was the result of terrorist activity. Prime Minister Mark Carney called it 'one of the worst tragedies for the Forces on Canadian soil in peacetime.' [Reliability: High] (Based on the official announcement from Canada's Department of National Defence (Canada.ca), consistently reported by CBC, CNN and Global News.)"
-    },
-    "category": "disaster",
-    "country": "カナダ",
-    "region": "アルバータ州",
-    "lat": 52.8365,
-    "lon": -110.8561,
-    "occurredAt": "2026-10-17T22:00:00+00:00",
-    "source": {
-      "name": "カナダ国防省(Canada.ca)",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-10-19-02",
     "headline": {
       "ja": "アルバニア・ティラナの反政府デモが6日目に拡大、負傷者計272人(警察169人)に ラマ首相はイランの関与を改めて主張、イラン側は否定",
@@ -106,27 +19,6 @@
       "url": "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-10-20-01",
-    "headline": {
-      "ja": "トランプ大統領、対ロシア制裁「グラム法」の発動を大統領令で一時停止 発効期限(10/18)の直前に",
-      "en": "Trump waives mandatory Russia sanctions under the Graham Act by executive order, days before they were set to take effect"
-    },
-    "summary": {
-      "ja": "米トランプ大統領が10月16日(金)、「リンゼー・O・グラム ロシア・イラン制裁法」(2026年、H.R. 5334)に基づき義務付けられていた対ロシア制裁・関税措置の発効を、大統領令により一時停止(waive)したと複数メディアが報じたという。同法は9月18日に成立し、制裁・関税の発動期限は10月18日と定められていたが、その2日前に発効が止められた形になるという。大統領令は、ロシア産原油・ガス購入国への関税(最大100%)、ロシアの国有銀行と大口取引を行う外国銀行への制裁、ロシアの政府債・投資に関する禁止事項など、同法のロシア関連条項をすべて対象に一時停止したとされ、一方で既存の大統領令(EO14024等)に基づく従来の対ロシア制裁は維持されるという。トランプ大統領による対ロシア制裁の一時停止は、ロシア産ディーゼル燃料の輸出を認める措置(10月上旬)に続き、この数週間で2度目となるという。ウクライナのゼレンスキー大統領はこの措置を批判したと報じられたという。[信頼性: 高](ABC News、CNBC、The Hillが一致して報道)",
-      "en": "Multiple outlets reported that US President Trump signed an executive order on Friday, October 16, waiving mandatory Russia sanctions and tariffs required under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (H.R. 5334), just two days before they were set to take effect under the law's October 18 deadline. The law was signed September 18. The order reportedly waives every operative Russia-related section of the act, including tariffs of up to 100% on buyers of Russian oil and gas, sanctions on foreign banks doing significant business with Russian state banks, and bans on Russian sovereign debt and investment, while existing sanctions under earlier executive orders (e.g., EO 14024) remain in place. It is reportedly the second time in as many weeks that Trump has waived Russia-related sanctions, following an earlier move allowing Russian diesel exports. Ukrainian President Zelenskyy reportedly criticized the move. [Reliability: High] (Consistently reported by ABC News, CNBC and The Hill.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-17T00:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-10-20-02",
