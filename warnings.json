@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-20T00:14:23.039Z",
+  "generatedAt": "2026-10-20T05:55:25.722Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 201,
+  "count": 202,
   "warnings": [
+    {
+      "id": "NAVAREA11-260477",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0477",
+      "title": "北太平洋西部、ロケット（Ｈ３）打上げに伴う部品落下区域設定解除",
+      "publishedAt": "2026-10-20T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0477    発表日時:2026年10月20日 09時\r\n\n\r\nNORTH PACIFIC, WESTERN PART.\r\r\nROCKET, H3, LAUNCHING. ELEMENTS FALL\r\r\nRELEASED.\r\r\nCANCEL 0465/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260477&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260476",
       "type": "NAVAREA11",
@@ -74,86 +86,6 @@
       "geometry": null,
       "rawText": "NO.26-0467    発表日時:2026年10月16日 21時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nHAZARDOUS OPERATIONS. \r\r\n0200Z TO 0800Z DAILY 20 AND 21 OCT.\r\r\nAREA BOUNDED BY 17-00.00N 145-05.00E\r\r\n17-00.00N 147-00.00E\r\r\n16-09.47N 148-09.77E\r\r\n15-25.00N 148-04.00E\r\r\n15-25.00N 146-25.00E\r\r\n15-40.37N 146-12.05E\r\r\n15-43.62N 145-27.77E.\r\r\nCANCEL THIS MSG 210900Z OCT.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260467&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260465",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0465",
-      "title": "北太平洋西部、ロケット（Ｈ３）打上げに伴う部品落下区域設定",
-      "publishedAt": "2026-10-15T21:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            140.5327777777778,
-            29.80888888888889
-          ],
-          [
-            140.87,
-            29.865000000000002
-          ],
-          [
-            143.6263888888889,
-            29.421666666666667
-          ],
-          [
-            143.8525,
-            29.296111111111113
-          ],
-          [
-            143.73444444444442,
-            28.561944444444446
-          ],
-          [
-            143.42666666666665,
-            28.495833333333334
-          ],
-          [
-            140.67999999999998,
-            28.923333333333336
-          ],
-          [
-            140.41472222222222,
-            29.06138888888889
-          ],
-          [
-            166.61972222222224,
-            24.889166666666664
-          ],
-          [
-            168,
-            24.542222222222225
-          ],
-          [
-            175.73333333333332,
-            21.324444444444445
-          ],
-          [
-            176.38833333333332,
-            20.925
-          ],
-          [
-            175.73,
-            19.342222222222222
-          ],
-          [
-            174.45,
-            19.647222222222222
-          ],
-          [
-            166.61638888888888,
-            22.893055555555556
-          ],
-          [
-            165.96666666666667,
-            23.304444444444446
-          ]
-        ]
-      },
-      "rawText": "NO.26-0465    発表日時:2026年10月15日 21時\r\n\n\r\nNORTH PACIFIC, WESTERN PART.\r\r\nROCKET, H3, LAUNCHING. ELEMENTS FALL\r\r\n191951Z TO 192013Z OCT, ALTERNATE \r\r\n1951Z TO 2013Z DAILY 20 OCT TO 06 NOV.\r\r\nAREAS BOUNDED BY \r\r\nA. 29-48-32N 140-31-58E\r\r\n   29-51-54N 140-52-12E\r\r\n   29-25-18N 143-37-35E\r\r\n   29-17-46N 143-51-09E\r\r\n   28-33-43N 143-44-04E\r\r\n   28-29-45N 143-25-36E\r\r\n   28-55-24N 140-40-48E\r\r\n   29-03-41N 140-24-53E.\r\r\nB. 24-53-21N 166-37-11E\r\r\n   24-32-32N 168-00-00E\r\r\n   21-19-28N 175-44-00E\r\r\n   20-55-30N 176-23-18E\r\r\n   19-20-32N 175-43-48E\r\r\n   19-38-50N 174-27-00E\r\r\n   22-53-35N 166-36-59E\r\r\n   23-18-16N 165-58-00E.\r\r\nCANCEL THIS MSG 062113Z NOV.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260465&LANG=JP"
     },
     {
       "id": "NAVAREA11-260464",
@@ -3488,6 +3420,110 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261991",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1991",
+      "title": "済州島東（Ｄ−１１８）、射撃",
+      "publishedAt": "2026-10-20T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            127.66666666666667,
+            34
+          ],
+          [
+            128.5,
+            34
+          ],
+          [
+            127.83333333333333,
+            33.166666666666664
+          ],
+          [
+            127.66666666666667,
+            33.166666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-1991    発表日時:2026年10月20日 13時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、10月25日1500-2000、\r\r\n34-00N 127-40E 34-00N 128-30E \r\r\n33-10N 127-50E 33-10N 127-40E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261991&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261990",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1990",
+      "title": "沖縄島東（ホテル・ホテル）、爆撃",
+      "publishedAt": "2026-10-20T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            129.16444444444446,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            26.170833333333334
+          ],
+          [
+            129.16666666666666,
+            26.325
+          ],
+          [
+            129.16444444444446,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            26.170833333333334
+          ],
+          [
+            128.33138888888888,
+            26.38722222222222
+          ]
+        ]
+      },
+      "rawText": "番号:26-1990    発表日時:2026年10月20日 13時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n(1)10月20日-26日、30日-11月1日\r\r\n   毎日0600-2400、\r\r\n   27-06-14N 129-09-52E \r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-19-30N 129-10-00E\r\r\n   で囲まれる海面、\r\r\n(2)10月27日-29日毎日0600-2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-23-14N 128-19-53E\r\r\n   で囲まれる海面。\r\r\n(1944削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261990&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261989",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1989",
+      "title": "種子島、ロケット（Ｈ３）打上げに伴う警戒区域設定解除",
+      "publishedAt": "2026-10-20T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1989    発表日時:2026年10月20日 09時\r\n\n\r\n種子島、\r\r\nロケット(H3)打ち上げに伴う警戒区域設定解除。\r\r\n(1963削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261989&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261988",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "1988",
+      "title": "北太平洋西部、ロケット（Ｈ３）打上げに伴う部品落下区域設定解除",
+      "publishedAt": "2026-10-20T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1988    発表日時:2026年10月20日 09時\r\n\n\r\n北太平洋西部、\r\r\nロケット(H3)打上げに伴う部品落下区域設定解除。\r\r\n(1961削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261988&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261987",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3510,18 +3546,6 @@
       "geometry": null,
       "rawText": "番号:26-1986    発表日時:2026年10月19日 17時\r\n\n\r\n釧路港南南東、\r\r\n射撃中止。\r\r\n(1960削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261986&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261985",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1985",
-      "title": "石廊埼南、射撃終了",
-      "publishedAt": "2026-10-19T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1985    発表日時:2026年10月19日 17時\r\n\n\r\n石廊埼南、\r\r\n射撃終了。\r\r\n(1952削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261985&LANG=JP"
     },
     {
       "id": "NAVTEX-261984",
@@ -3736,54 +3760,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261967&LANG=JP"
     },
     {
-      "id": "NAVTEX-261961",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "1961",
-      "title": "北太平洋西部、ロケット（Ｈ３）打上げに伴う部品落下区域設定",
-      "publishedAt": "2026-10-15T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            134.83777777777777,
-            30.18722222222222
-          ],
-          [
-            134.9897222222222,
-            30.266944444444444
-          ],
-          [
-            136.02305555555557,
-            30.14611111111111
-          ],
-          [
-            136.12722222222223,
-            30.06722222222222
-          ],
-          [
-            136.09333333333333,
-            29.693055555555556
-          ],
-          [
-            135.91305555555556,
-            29.60527777777778
-          ],
-          [
-            134.9127777777778,
-            29.733611111111113
-          ],
-          [
-            134.79222222222222,
-            29.821944444444444
-          ]
-        ]
-      },
-      "rawText": "番号:26-1961    発表日時:2026年10月15日 13時\r\n\n\r\n北太平洋西部、\r\r\nロケット(H3)打上げに伴う部品落下区域設定、\r\r\n10月20日(予備21日-11月7日)0447-0451、\r\r\n30-11-14N 134-50-16E\r\r\n30-16-01N 134-59-23E\r\r\n30-08-46N 136-01-23E\r\r\n30-04-02N 136-07-38E\r\r\n29-41-35N 136-05-36E\r\r\n29-36-19N 135-54-47E\r\r\n29-44-01N 134-54-46E\r\r\n29-49-19N 134-47-32Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261961&LANG=JP"
-    },
-    {
       "id": "NAVTEX-261955",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3960,38 +3936,6 @@
       },
       "rawText": "番号:26-1946    発表日時:2026年10月14日 13時\r\n\n\r\n沖縄島東南東、\r\r\n射撃、10月19日(予備20日)0600-1800、\r\r\n25-41-15N 128-51-53E \r\r\n25-48-37N 129-02-19E\r\r\n25-44-15N 129-25-52E\r\r\n25-44-15N 130-10-52E\r\r\n25-43-24N 130-35-52E\r\r\n25-41-15N 130-44-52E\r\r\n24-53-15N 130-03-52Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261946&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261944",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1944",
-      "title": "沖縄島東（ホテル・ホテル）、爆撃",
-      "publishedAt": "2026-10-13T17:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            129.16444444444446,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            26.170833333333334
-          ],
-          [
-            129.16666666666666,
-            26.325
-          ]
-        ]
-      },
-      "rawText": "番号:26-1944    発表日時:2026年10月13日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n10月13日-25日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(1902削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261944&LANG=JP"
     },
     {
       "id": "NAVTEX-261929",
