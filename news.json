@@ -127,5 +127,26 @@
       "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-20-02",
+    "headline": {
+      "ja": "中国の7〜9月期GDP、前年同期比4.5%成長 輸出主導で市場予想・前期を上回る",
+      "en": "China's Q3 2026 GDP grows 4.5% year-on-year, beating forecasts and the prior quarter on strong exports"
+    },
+    "summary": {
+      "ja": "中国国家統計局(NBS)は10月19日(月)、2026年7〜9月期の実質GDPが前年同期比4.5%増となったと発表したと新華社等が報じたという。ロイター調査の事前予測(4.4%増)および4〜6月期(4.3%増、3年超ぶりの低水準)を上回ったとされる。前期比では1.2%増(予測1.1%増)で、1〜9月期累計では前年同期比4.6%増になったという。一方、1〜9月の固定資産投資は前年同期比7.2%減、不動産開発投資は同20.6%減と大きく落ち込み、小売売上高の伸びも1.1%増にとどまったと報じられたという。輸出が成長を主導した形だが、EUとの貿易摩擦激化などにより今後の輸出の先行きには不透明感があるとされる。[信頼性: 高](新華社〈国家統計局発表〉、U.S. News、Vantage Markets等が同趣旨で報道)",
+      "en": "Xinhua and other outlets reported that China's National Bureau of Statistics (NBS) said on Monday, October 19, that real GDP grew 4.5% year-on-year in the third quarter of 2026, beating a Reuters poll forecast of 4.4% and improving on the prior quarter's 4.3% (a more-than-three-year low). Quarter-on-quarter growth was reportedly 1.2% (vs. a 1.1% forecast), bringing year-to-date growth for the first three quarters to 4.6%. At the same time, fixed-asset investment reportedly fell 7.2% year-on-year over the first nine months, with real-estate development investment down 20.6% and retail sales growth slowing to 1.1%. Exports were reported to have driven the growth, though outlets noted uncertainty ahead given escalating trade tensions with the EU. [Reliability: High] (Consistently reported by Xinhua citing the official NBS release, U.S. News, and Vantage Markets.)"
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "occurredAt": "2026-10-19T02:00:00+00:00",
+    "source": {
+      "name": "新華社(Xinhua)",
+      "url": "https://english.news.cn/20261019/6c02c8b4fcdb48f9b6a043076673c046/c.html"
+    },
+    "reliability": "high"
   }
 ]
