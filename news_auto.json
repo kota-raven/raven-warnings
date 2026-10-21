@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-22120",
+    "headline": {
+      "ja": "米特使、ゼレンスキーとの会談後プーチンに更新の和平案を提示へ",
+      "en": "US Envoy to Present Updated Ukraine Peace Proposal to Putin After Zelenskyy Talks"
+    },
+    "summary": {
+      "ja": "米国の特使がゼレンスキー大統領との協議後、更新されたウクライナ和平案をプーチン大統領に提示する予定。停戦交渉の進展を示す動き。",
+      "en": "US envoy to present updated Ukraine peace proposal to Putin following talks with President Zelenskyy, advancing peace negotiations"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-21T00:40:17+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOak11M1UwV0F5aTBzdXhoMTBIRGo5cHhOZ255WFkyUVI1akVhY29IWUxIaUpncU9VUzB1UmFBUUkxbVBiWjlEMWdUQVNkbFhnQXhpNUkyV2ZIS0hoQjJFX2FsSjlHWGV0Mklob0VFSG9JRmxYQjRlZDFyc0p1YjN4OGh6Q2pCcG9RNElvbnZlVGxVQ295WnhLSXFuRExBNm5NaHhuZ05PMy1GUjV5WC1kUEswXzdkaS1YdDZ4YlE1ZWppUHNJY2c5bHZn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_peace_proposal_october_2026"
+  },
+  {
+    "id": "auto-21901",
+    "headline": {
+      "ja": "国連、スーダンでのドローン攻撃を非難",
+      "en": "UN Condemns Drone Strikes in Sudan"
+    },
+    "summary": {
+      "ja": "国連はスーダンで行われたドローン攻撃を非難した。民間人への被害が懸念されている。",
+      "en": "UN condemns drone strikes in Sudan, raising concerns about civilian casualties"
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-20T22:31:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV0NZaUljZ0x0MzlaZnM1V2xqWmp5V05MV0tRZTVTOVptd0wxX0FUTFk4eHk2VUp6THNrUUpCX1Q4LUhFNzh2bnh4OHBxalM2TGtsUk5MV3ZVX21IelllUkIzbm9fb3VGRGE3QzJvaWt2NERXd3pQRmVGdnlvTjFkRlA5SDYyQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_drone_strikes_un_condemn_oct2026"
+  },
+  {
     "id": "auto-22121",
     "headline": {
       "ja": "ポーランド政府がウクライナへのパトリオット・ミサイル供給不可と発表",
@@ -23,6 +69,218 @@
     "eventKey": "poland_ukraine_patriot_denial_2026-10-20"
   },
   {
+    "id": "auto-21863",
+    "headline": {
+      "ja": "イラン軍幹部、戦争再開時のより強硬な報復を警告",
+      "en": "Top Iranian General Warns of Harsher Retaliation if War Resumes"
+    },
+    "summary": {
+      "ja": "イラン軍最高指揮官は、イランへの再度の攻撃がある場合、より強力な報復措置で応じると警告した。",
+      "en": "Iran's top military commander warns that renewed aggression against Iran would face a more forceful response"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-20T20:50:46+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86298787/Top-Iranian-general-warns-of-harsher-retaliation-if-war-resumes"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_retaliation_warning_oct2026"
+  },
+  {
+    "id": "auto-21883",
+    "headline": {
+      "ja": "ウクライナ大統領、米特使とオスロで停戦案協議",
+      "en": "Zelensky Discusses Ceasefire Proposals with U.S. Envoy Witkoff in Oslo"
+    },
+    "summary": {
+      "ja": "ゼレンスキー・ウクライナ大統領は米国の特使ウィトコフとオスロで会談し、停戦提案について協議した。ロシアとの和平交渉の進展に関わる重要な協議。",
+      "en": "Ukrainian President Zelensky meets with U.S. envoy Witkoff in Oslo to discuss ceasefire proposals in ongoing Ukraine conflict"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-20T20:31:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80bE1CSVhaTE1jcXdKV1kxWjN4QzJtc2FpLVhZRXRUa05hUmNRajNyckdSSmRuNmhJSEFDY1F2Q0c1SjFPNEFEelVON2lSVUY0a0drbFJMV1dSZW05MF8xMGJlbFZZVXJxUXhEOUJXZUFtUi1aQ05xZ3BMcHo?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_ceasefire_talks_oslo_oct2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-21885",
+    "headline": {
+      "ja": "ホルムズ海峡でさらに別のタンカー火災",
+      "en": "Third Tanker Catches Fire After Hitting Mine Near Hormuz Strait"
+    },
+    "summary": {
+      "ja": "イランのIRGC海軍は、ホルムズ海峡近くで別のタンカーが機雷に接触して火災を起こしたと発表。海上交通と石油輸送への脅威が継続している。",
+      "en": "Iran's IRGC reports third tanker catches fire after hitting mine near Hormuz Strait, continuing threat to maritime traffic and oil transport"
+    },
+    "category": "disaster",
+    "country": "イラン",
+    "lat": 27.095,
+    "lon": 56.4529,
+    "occurredAt": "2026-10-20T20:25:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WZFBHS00zXzZTYVQyME9kR2gyTktWZG1YMzdKY1RIRDh0cVVjTEJsR3FvamdJRFYza1BDcTV4Wkl4MzFBTnJydDNnZzd2THJXVEhDTDJ4OFd1aEhnT21aUVdxXzdHeEtRSUVhVWV0RFRXOVRCWk5MSkZSeXI?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hormuz_tanker_fire_third_oct2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-21864",
+    "headline": {
+      "ja": "ホルムズ海峡でタンカー爆発炎上",
+      "en": "Super Tanker Catches Fire After Hitting Naval Mine in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "200万バレル以上の原油を積載したスーパータンカーがホルムズ海峡南方で機雷に接触し爆発・炎上した。イランのIRGC海軍が報告。",
+      "en": "Super tanker carrying over 2 million barrels of crude oil explodes and catches fire after striking mine south of Strait of Hormuz"
+    },
+    "category": "disaster",
+    "country": "イラン",
+    "lat": 27.095,
+    "lon": 56.4529,
+    "occurredAt": "2026-10-20T20:06:21+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86298772/Super-tanker-catches-fire-after-hitting-mine-in-Hormuz"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hormuz_tanker_fire_oct2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-21895",
+    "headline": {
+      "ja": "ナイジェリア首都でエボラ確認",
+      "en": "Nigeria Confirms First Ebola Case in Capital"
+    },
+    "summary": {
+      "ja": "ナイジェリア政府がアブジャ首都での初のエボラ確認患者を発表。感染症拡大への警戒が高まる。",
+      "en": "Nigerian government confirms first Ebola case in the capital, raising concerns about disease spread"
+    },
+    "category": "disaster",
+    "country": "ナイジェリア",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "occurredAt": "2026-10-20T19:42:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXVHdDJ2SXVTSnVvakJCaVB2Rlh4X09zMDBkSWIyX1gwdThkUXpDbzE0U0hTTnZMYUN6SGZXUTlDZlFhbDVwam9mSjJ3QXNiVm1pNTYwZGtJZEMzVUdnNTRlTkk5czgxVnczdDlYN0xoYktjVHM5ajVNMDNmVEtHcHRCTjZRZw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "nigeria_ebola_capital_oct2026"
+  },
+  {
+    "id": "auto-21866",
+    "headline": {
+      "ja": "イラン、濃縮ウランの流出を全面否定",
+      "en": "Iran Vows Enriched Uranium Will Not Exit Country Under Any Circumstances"
+    },
+    "summary": {
+      "ja": "イラン最高安全保障評議会書記は、濃縮ウランのいかなる流出も絶対に許さないと表明した。パキスタンの仲介者に対する発言。",
+      "en": "Iran's National Security Council Secretary declares that no enriched uranium will be allowed to leave the country under any circumstances"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-20T18:56:55+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86298732/Rezaei-Enriched-uranium-will-not-exit-Iran-by-any-means"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_uranium_enrichment_2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-22073",
+    "headline": {
+      "ja": "ホルムズ海峡でスーパータンカーが機雷に接触、火災発生",
+      "en": "Supertanker Carrying 2 Million Barrels Hit Mine Near Hormuz"
+    },
+    "summary": {
+      "ja": "200万バレル以上の原油を積載したスーパータンカーがホルムズ海峡近くで機雷に接触して炎上。海上輸送と世界のエネルギー供給に影響。",
+      "en": "Major supertanker carrying over 2 million barrels hits mine near Hormuz Strait, impacting global energy supply"
+    },
+    "category": "disaster",
+    "country": "イラン",
+    "lat": 27.095,
+    "lon": 56.4529,
+    "occurredAt": "2026-10-20T18:31:34+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2Y2cHlZX3FtNkhmYk1oQU1sczFCZzk1MVN5YXJxQ201UlpKN29WTndtSUFRekZNSmhHRWxMMXU5M1pUNUtiSHdsNktEUmYteThOZ1B6RC1yemhxQUlKZzJsQ25aR2VaZWFyS09WNjV4T1BQNklINmUyQ29SdzVWQmVtY29oak16djRhaG15Y1FtSEtQeVgwdk1PNi13MzlNQjl4b1d1a0pLUjZBUmIzRUhxS2lLOWdROVpwWWdNZ2pzdld4?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hormuz_supertanker_mine_fire_oct2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-22069",
+    "headline": {
+      "ja": "トルコ、リビアとの海上管轄権協定を発表",
+      "en": "Türkiye and Libya Agree on Maritime Jurisdiction Delimitation"
+    },
+    "summary": {
+      "ja": "トルコとリビアは海上管轄権地域の区分に関する覚書に署名した。地中海での領土問題に関わる重要な合意。",
+      "en": "Türkiye and Libya sign memorandum on delimitation of maritime jurisdiction areas in Mediterranean"
+    },
+    "category": "conflict",
+    "country": "トルコ",
+    "lat": 41.0138,
+    "lon": 28.9497,
+    "occurredAt": "2026-10-20T18:13:17+00:00",
+    "source": {
+      "name": "トルコ 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSUxURFhoQXZiVV9ZX05tWTkwbU1GMmlXbkEzY1JRa0ZqWnNLc29GTm80aHIzN1BrQVg2YVBRVTJrLVBmaFJLTnlNeWcyc2VjUjZLYmtyQXE1Rm1vUmVFamdHVzdQOV9fT1J1NGFzandGRlREblJYcTdiZUZyTEw3Zmk5Z3pFRGwtbUxoWGlnYUJrUW54Y0hqdXZjT2ZJYkk0Z3RwdkdJVXhfUE1wa0NwbjV1cWRuYkZVMHh1dUxJLWZuUDh1d3prX0cyUEdQY1EwMVcwM1RoMmJNUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "turkey_libya_maritime_agreement_oct2026"
+  },
+  {
+    "id": "auto-22081",
+    "headline": {
+      "ja": "リビア議会、トルコとの海上協定を承認",
+      "en": "Libya Parliament Approves Maritime Agreement with Türkiye"
+    },
+    "summary": {
+      "ja": "リビア議会がトルコとの海上管轄権に関する協定を承認。地中海での領土合意の進展。",
+      "en": "Libya Parliament approves maritime delimitation agreement with Türkiye, advancing Mediterranean territorial accord"
+    },
+    "category": "conflict",
+    "country": "リビア",
+    "lat": 32.8874,
+    "lon": 13.1873,
+    "occurredAt": "2026-10-20T17:51:19+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXN0YXJCd0tfVHNtMVFHYWVFYnhpRDRaOVNRQU5QNnBseWFTVG14dndROW1rX2F0STBvMS1DVHcxVnpQLVVibDBia3Y3TjFlS3VaZS02ZXdTQ09Bc1hTRTlmM1Zybko3Y0owWVVsRmZfYmVIXzZpcTZRNkdkVWVkMUhBd1NHNXZXME14OEVHazhUSlpTV2FnR2pXM3ExZ3JNU21KQVNHSF92a1k?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "libya_turkey_maritime_approval_oct2026"
+  },
+  {
     "id": "auto-21849",
     "headline": {
       "ja": "ロシアがバルト地域での軍事インフラを拡張",
@@ -44,6 +302,100 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "russia_baltic_military_expansion_2026-10"
+  },
+  {
+    "id": "auto-21908",
+    "headline": {
+      "ja": "ケニアのエボラ患者が9人に増加",
+      "en": "Kenya's Ebola Cases Rise to Nine, All in One Cluster"
+    },
+    "summary": {
+      "ja": "ケニアでのエボラウイルス患者が9人に増加し、全て同一のクラスター内。感染拡大への警戒が必要。",
+      "en": "Kenya's Ebola cases increase to nine, all confirmed in single cluster, raising outbreak concerns"
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-20T17:06:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaGNPYXRBYjhVMnFQejhkSDZ5WW5hcFE5Y3gxWi1POEVvejFpWWdCQkp1T3FMRHVJZVZZQ181RjY0cFRkcnh4d25IQ2lLUGsxb0JmUUJNZzh4aDAzXzJ3S29ITWpEN1NvbFhCMHZvMkJOc3J4MnhTc0NXekt0ZDdUaUZEdHlfUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_ebola_cluster_oct2026"
+  },
+  {
+    "id": "auto-22072",
+    "headline": {
+      "ja": "北朝鮮、金正恩の写真を公開",
+      "en": "North Korea Releases Photos of Kim Jong Un Amid Death Rumors"
+    },
+    "summary": {
+      "ja": "北朝鮮の国営メディアが金正恩の写真を公開し、死亡うわさに対抗した。体制内での権力継続を示す動き。",
+      "en": "North Korea releases photos of Kim Jong Un to counter death rumors, demonstrating regime continuity"
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-10-20T17:04:38+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWm90U1RBS1RUbzRlRmNzWmFaNVpxQlBWeWFLSDNiWGRLcTJCZWg4SWxRcElIRmZWdGdDdmNVX3N5X0FPM1F2U2owUnFLOWJXc1hxWmZ3UmdNR2RzQ0huUkFySUxJaFZpSWlvclFpcHltS3hRSGx1SzJfMTJCRVZXbkFoTkwtcWxkYTlGWU1XN3cwQ2xZcWw2V0tTdjlEcUlCX3p1dGRVNVZTQVAwblRrS1picG9GckFmazZz?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_kim_jong_un_photos_oct2026"
+  },
+  {
+    "id": "auto-21860",
+    "headline": {
+      "ja": "スーダン紛争がCAR に波及、国連が懸念",
+      "en": "UN Warns Against Early Peacekeeper Withdrawal as Sudan War Spills into CAR"
+    },
+    "summary": {
+      "ja": "スーダンの戦争が中央アフリカ共和国に波及する中、国連はPKO部隊の時期尚早な撤退に対して警告を発した。人道的危機の深刻化が懸念されている。",
+      "en": "UN warns against early withdrawal of peacekeepers as Sudan conflict expands into Central African Republic, deepening humanitarian crisis"
+    },
+    "category": "conflict",
+    "country": "中央アフリカ",
+    "lat": 4.3612,
+    "lon": 18.555,
+    "occurredAt": "2026-10-20T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_car_conflict_spillover_oct2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-21862",
+    "headline": {
+      "ja": "アフガニスタンで飢饉寸前の危機",
+      "en": "Afghanistan Faces Severe Hunger Crisis with Food Available but Inaccessible"
+    },
+    "summary": {
+      "ja": "アフガニスタンでは食糧が流通しているにもかかわらず、数百万人が入手できない深刻な飢餓危機に直面している。経済的制裁と政治的混乱が原因。",
+      "en": "Afghanistan faces severe hunger crisis as millions lack access to available food due to economic sanctions and political instability"
+    },
+    "category": "disaster",
+    "country": "アフガニスタン",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "occurredAt": "2026-10-20T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168631"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "afghanistan_hunger_crisis_2026",
+    "severity": 4
   },
   {
     "id": "auto-20942",
@@ -229,6 +581,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_us_intelligence_sharing_2026-10-19"
+  },
+  {
+    "id": "auto-19795",
+    "headline": {
+      "ja": "サウジ、フーシ派の攻撃継続を非難",
+      "en": "Saudi Arabia Condemns Continuation of Houthi Terrorist Attacks"
+    },
+    "summary": {
+      "ja": "サウジアラビア政府とUAE政府は、イエメンのフーシ派によるサウジアラビアへのテロ攻撃の継続を非難する声明を発表した。",
+      "en": "Saudi Arabia and UAE condemn continued Houthi terrorist attacks on Saudi Arabia"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-19T18:47:09+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92Q19QOEtLT1Z4bFVwZS1GVVJMWVVLcjhxY0ZTM1Nfa2VQWlI5UjFRTi1CX1JUTjJJU3hXb3FiNF9nVmdyamRySGtB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_houthi_attacks_oct2026"
   },
   {
     "id": "auto-19524",
