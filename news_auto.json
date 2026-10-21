@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-22121",
+    "headline": {
+      "ja": "ポーランド政府がウクライナへのパトリオット・ミサイル供給不可と発表",
+      "en": "Poland announces inability to supply Patriot missiles to Ukraine"
+    },
+    "summary": {
+      "ja": "ポーランド政府が、ウクライナへのPatriotミサイルの供給ができないと発表した。",
+      "en": "Poland announced it is unable to supply Patriot missiles to Ukraine."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "occurredAt": "2026-10-20T21:20:53+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndzQjJ3dGlOanV5dlBjRUEybDZDZENIU09Kd3BUOWlnb0o0dVc4LTEwMmQ2NjY0SUQ3OWROc0ZESHRFRWNaMjd0dXpLRGZfZFg1MFdza2dzeGRJS2twVU9XWWNwMVphWi03c3ZQenpWeU5VLVprNURGNUo0WEp0bzEtSS1NbXBVS2hhWnNJdWxnbTUzcEpUUXFLVS1zR0JON2s1clN3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_ukraine_patriot_denial_2026-10-20"
+  },
+  {
+    "id": "auto-21849",
+    "headline": {
+      "ja": "ロシアがバルト地域での軍事インフラを拡張",
+      "en": "Russia expands military infrastructure in Baltic region"
+    },
+    "summary": {
+      "ja": "西側系のOSINT情報によると、ロシアはバルト地域で新しい兵舎やミサイル施設など軍事インフラの拡張を進めている。",
+      "en": "Western OSINT sources report Russia is expanding military infrastructure including new barracks and missile facilities in the Baltic region."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-20T17:18:38+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20560"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_baltic_military_expansion_2026-10"
+  },
+  {
     "id": "auto-20942",
     "headline": {
       "ja": "英国、フーシ派の攻撃からサウジアラビアを防衛するためタイフーン戦闘機を配置",
@@ -67,6 +113,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "us_patriot_missiles_ukraine_delay_2026-10"
+  },
+  {
+    "id": "auto-22103",
+    "headline": {
+      "ja": "ウクライナ大統領がRubioと防空体制について協議",
+      "en": "Ukraine's Zelenskyy discusses air defense with Rubio"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領が、防空システムと弾道ミサイル警告について、Rubio氏と協議した。",
+      "en": "Ukraine's President Zelenskyy discussed air defense systems and ballistic missile warning mechanisms with U.S. official Rubio."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-20T07:49:09+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGo5Y2U5OVkwOW4wNFFCZUI1TEFnazBWOU9vZ0FRWnh5cU9YM1ppZDd5ZUtVZnVvREx5TWlJbTh0RHZmZ0F0WGdVQUhvZlpEQ3hqN3A5VHFBMmh5ZVhqT3NOa3pjNU93STk0UE5mZ3lUdWRtaGF1ZzBSU2Q3QUItcWpEeUxUZVBTNHdlQWw2Q1ZYMVZLRDBvVWxGd29RV2pwWlQ2N2t3RndTei1nN19iUzBFVQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_zelensky_rubio_defense_talks_2026-10-20"
   },
   {
     "id": "auto-20552",
@@ -2945,72 +3014,26 @@
     "eventKey": "israel_lebanon_south_artillery_2026-10-14"
   },
   {
-    "id": "auto-8579",
+    "id": "auto-8696",
     "headline": {
-      "ja": "サウジアラビア、フーシ派ミサイルを迎撃 リヤドなどを標的",
-      "en": "Saudi Arabia intercepts Houthi missiles targeting Riyadh and Dhahran"
+      "ja": "ロシアのミサイル攻撃、同盟国からの警告なし＝ゼレンスキー",
+      "en": "Russian missiles hit Kyiv with no advance warning from allies: Zelensky"
     },
     "summary": {
-      "ja": "サウジアラビアはリヤドとダマム方面に飛来したミサイルを迎撃したと発表した。落下物により複数の被害が報告されている。",
-      "en": "Saudi Arabia intercepted missiles targeting Riyadh and Dhahran, with falling debris causing injuries."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-14T03:09:46+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_houthi_missile_2026-10-14"
-  },
-  {
-    "id": "auto-8582",
-    "headline": {
-      "ja": "キーウがロシアの弾道ミサイルで2日連続攻撃受ける 警告なし",
-      "en": "Kyiv hit by Russian ballistic missiles for second consecutive day without advance warning"
-    },
-    "summary": {
-      "ja": "ロシアの弾道ミサイルがキーウを2日連続で攻撃した。事前警告なしで発射されたと報道されている。",
-      "en": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning."
+      "ja": "ウクライナのゼレンスキー大統領は、ロシアのキーウミサイル攻撃について、同盟国からの事前警告がなかったと述べた。",
+      "en": "President Zelensky stated that Russian missile strikes on Kyiv lacked advance warning from allies."
     },
     "category": "conflict",
     "country": "ウクライナ",
     "lat": 50.4547,
     "lon": 30.5238,
-    "occurredAt": "2026-10-14T02:45:40+00:00",
+    "occurredAt": "2026-10-14T05:13:30+00:00",
     "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTm5ncGQwN1I1MHZ3MTg0Z0xsTXBiaHpwMDRkUWJycjF4SmZoM0dTQW9IWW5Fb21FbUFuSUctd0hxWWwtVXFxR0FEOU5LUlFwYkY1eTExX0k5MGMzZTZralhLRDNleFROZnhLOXUxYktzdGxoMTRicjhMeEpaRTMwZ0NNdE5LZw?oc=5"
     },
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_kyiv_ballistic_missile_strike_2026-10-14"
-  },
-  {
-    "id": "auto-7374",
-    "headline": {
-      "ja": "ロシア軍、キーウの主要発電所を弾道ミサイルで攻撃",
-      "en": "Russian ballistic missile strikes hit key power plant in Kyiv"
-    },
-    "summary": {
-      "ja": "ロシア軍の弾道ミサイルがウクライナの首都キーウにある主要発電所を攻撃した。ゼレンスキー大統領は、NATO同盟国からの事前警告がなかったと述べた。",
-      "en": "Russian ballistic missiles struck a key power plant in Kyiv, Ukraine's capital. President Zelensky said there was no early warning from NATO allies."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-13T22:14:33+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_kyiv_power_plant_strike_2026-10-13"
   }
 ]
