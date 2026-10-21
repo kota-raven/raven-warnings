@@ -122,6 +122,30 @@
     "periodEnd": "2026-10-29T00:00:00Z"
   },
   {
+    "id": "2026-10-20-jp-000059",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "くにさき",
+    "shipNumber": "LST-4002",
+    "shipType": "transport",
+    "position": {
+      "area": "横須賀港",
+      "lat": 35.27,
+      "lon": 139.66,
+      "approximate": true
+    },
+    "activity": "インドネシア山林火災支援から横須賀へ帰国",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34507/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
     "id": "2026-10-20-ph-000050",
     "recordType": "individual",
     "country": "PH",
@@ -165,6 +189,30 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
+    "id": "2026-10-20-us-000060",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS San Antonio",
+    "shipNumber": "LPD-17",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "ノーフォーク",
+      "lat": 36.95,
+      "lon": -76.33,
+      "approximate": true
+    },
+    "activity": "14ヶ月の分割デプロイメントから帰港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-20T00:00:00Z"
@@ -218,6 +266,30 @@
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
+    "id": "2026-10-19-us-000056",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "横須賀港",
+      "lat": 35.27,
+      "lon": 139.66,
+      "approximate": true
+    },
+    "activity": "横須賀から出港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34502/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T09:00:00Z"
+  },
+  {
     "id": "2026-10-19-cn-000053",
     "recordType": "individual",
     "country": "CN",
@@ -261,6 +333,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
+  },
+  {
+    "id": "2026-10-19-cn-000057",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "玉衡星",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "大隅海峡",
+      "lat": 31.0,
+      "lon": 131.0,
+      "approximate": true
+    },
+    "activity": "大隅海峡を東進し太平洋へ向けて航行（防衛省統合幕僚監部発表）",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34539/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
@@ -314,6 +410,30 @@
     "count": 2,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "2026-10-19-cn-000058",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "開陽星",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "宮古海峡",
+      "lat": 24.8,
+      "lon": 125.3,
+      "approximate": true
+    },
+    "activity": "宮古海峡を南進し太平洋へ進出（防衛省統合幕僚監部発表）",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34534/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
   },
   {
     "id": "2026-10-19-us-000052",

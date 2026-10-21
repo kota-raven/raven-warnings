@@ -48,5 +48,31 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-13T00:00:00Z"
+  },
+  {
+    "id": "2026-09-30-jp-000061",
+    "recordType": "aggregate",
+    "country": "JP",
+    "unitName": null,
+    "unitNumber": null,
+    "aircraftType": null,
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "2026年度前期（4月-9月）における領空侵犯への対応スクランブル。うち285回（65%）は中国機・無人機対応、残り34%はロシア機対応",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/20/japan-reports-surge-in-airspace-violations-by-chinese-russian-aircraft"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
+    "anomalyLevel": "none",
+    "anomalyNote": null,
+    "count": 442,
+    "periodStart": "2026-04-01T00:00:00Z",
+    "periodEnd": "2026-09-30T23:59:59Z"
   }
 ]
