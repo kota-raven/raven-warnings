@@ -122,6 +122,78 @@
     "periodEnd": "2026-10-29T00:00:00Z"
   },
   {
+    "id": "2026-10-20-ph-000050",
+    "recordType": "individual",
+    "country": "PH",
+    "shipName": "Miguel Malvar",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "フィリピンEEZ",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "フィリピン海軍フリゲート「ミゲル・マルバー」が米掃海艦と協力活動を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34492/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
+    "id": "2026-10-20-us-000055",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Charleston",
+    "shipNumber": "LCS-18",
+    "shipType": "frigate",
+    "position": {
+      "area": "Sabina Shoal (南シナ海)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米軍独立級沿海域戦闘艦USS Charleston (LCS-18)が、中国が主張する南シナ海の係争地点Sabina Shoal近辺で、中国軍に追跡・監視された",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
+    "id": "2026-10-20-us-000049",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Warrior",
+    "shipNumber": "LCS-18",
+    "shipType": "frigate",
+    "position": {
+      "area": "フィリピンEEZ",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米掃海艦「ウォリアー」がフィリピン海軍フリゲートと協力活動を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34492/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
     "id": "2026-10-19-us-000044",
     "recordType": "individual",
     "country": "US",
@@ -144,6 +216,152 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T09:00:00Z"
+  },
+  {
+    "id": "2026-10-19-cn-000053",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛省統合幕僚監部の公表により、中国海軍のルーヤンIII級駆逐艦「斉斉哈爾」が大隅海峡を東進し太平洋へ向かった",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
+  },
+  {
+    "id": "2026-10-19-cn-000054",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "呼倫湖",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍の高速戦闘支援艦「呼倫湖」が大隅海峡を東進し太平洋へ向かった",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
+  },
+  {
+    "id": "2026-10-19-cn-000047",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "唐山",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛省統合幕僚監部の公表により、中国海軍の駆逐艦「唐山」が宮古海峡を北西進し東シナ海へ向かった",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34521/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
+  },
+  {
+    "id": "2026-10-19-cn-000048",
+    "recordType": "aggregate",
+    "country": "CN",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛省統合幕僚監部の公表により、中国海軍のフリゲート「大慶」などを含む艦艇2隻が宮古海峡を北西進",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34521/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 2,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
+    "id": "2026-10-19-us-000052",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Tripoli",
+    "shipNumber": "LHA-7",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "佐世保",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "強襲揚陸艦USS Tripoli (LHA-7)が佐世保に寄港中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
+  },
+  {
+    "id": "2026-10-19-us-000051",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "横須賀",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "空母USS Theodore Roosevelt (CVN-71)が横須賀に寄港後、10月19日(月)に出港した",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-19T00:00:00Z"
   },
   {
     "id": "2026-10-18-jp-000045",
@@ -963,8 +1181,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-05T12:00:00Z"
   },
   {
@@ -987,8 +1205,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-05T12:00:00Z"
   },
   {
