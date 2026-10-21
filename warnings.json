@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T04:31:22.093Z",
+  "generatedAt": "2026-10-21T10:02:10.678Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 195,
+  "count": 196,
   "warnings": [
     {
       "id": "NAVAREA11-260479",
@@ -308,6 +308,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264146",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4146",
+      "title": "ホルムズ海峡、火災船漂流",
+      "publishedAt": "2026-10-21T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4146   発表日時:2026年10月21日 13時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船(AL DASMA)漂流、10月21日、\r\r\n26-09.0N 055-56.1E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264146&LANG=JP"
     },
     {
       "id": "JAPANNW-264145",
@@ -1068,38 +1080,6 @@
       },
       "rawText": "番号:26-4098   発表日時:2026年10月16日 20時\r\n\n\r\n★ 朝鮮半島西岸、大青群島南、\r\r\n射撃、10月21日0500Z-0900Z、\r\r\n37-25N 37-30N 124-43E 124-50Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264098&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264097",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4097",
-      "title": "格列飛列島南西、射撃",
-      "publishedAt": "2026-10-16T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            124.52166666666666,
-            36.53611111111111
-          ],
-          [
-            125.6,
-            36.53333333333333
-          ],
-          [
-            125.6,
-            35.57666666666667
-          ],
-          [
-            124.52166666666666,
-            35.57666666666667
-          ]
-        ]
-      },
-      "rawText": "番号:26-4097   発表日時:2026年10月16日 20時\r\n\n\r\n★ 朝鮮半島西岸、格列飛列島南西、\r\r\n射撃、10月19日0700Z-0900Z、20日2300Z-翌日0200Z、\r\r\n36-32-10N 124-31-18E 36-32-00N 125-36-00E\r\r\n35-34-36N 125-36-00E 35-34-36N 124-31-18E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264097&LANG=JP"
     },
     {
       "id": "JAPANNW-264096",
@@ -3322,6 +3302,42 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261998",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1998",
+      "title": "犬吠埼北、射撃終了",
+      "publishedAt": "2026-10-21T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1998    発表日時:2026年10月21日 17時\r\n\n\r\n犬吠埼北、\r\r\n射撃終了。\r\r\n(1967削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261998&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261997",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1997",
+      "title": "若狭湾、射撃中止",
+      "publishedAt": "2026-10-21T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1997    発表日時:2026年10月21日 17時\r\n\n\r\n若狭湾、\r\r\n射撃中止。\r\r\n(1984削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261997&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261996",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "漂流物等",
+      "number": "1996",
+      "title": "四国南岸、土佐湾、木材漂流",
+      "publishedAt": "2026-10-21T14:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1996    発表日時:2026年10月21日 14時\r\n\n\r\n四国南岸、土佐湾、\r\r\n木材(長さ約8メートル)漂流、10月21日1230、\r\r\n33-00.6N 133-42.4E付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261996&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261995",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3448,18 +3464,6 @@
       "geometry": null,
       "rawText": "番号:26-1987    発表日時:2026年10月20日 07時\r\n\n\r\n北海道南岸、釧路港南東、\r\r\n遺棄火災船(長さ約30メートル)漂流、10月20日0650、\r\r\n40-36.6N 150-08.1E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261987&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261984",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1984",
-      "title": "若狭湾、射撃",
-      "publishedAt": "2026-10-19T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1984    発表日時:2026年10月19日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、10月22日0900-2400、35-50.2N \r\r\n135-39.8Eを中心とする半径5海里の円内。\r\r\n(1951削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261984&LANG=JP"
     },
     {
       "id": "NAVTEX-261983",
@@ -3648,18 +3652,6 @@
       },
       "rawText": "番号:26-1969    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月19日、21日、23日毎日0900-1600、\r\r\n20日、22日毎日0900-2200、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261969&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261967",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1967",
-      "title": "犬吠埼北、射撃",
-      "publishedAt": "2026-10-16T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1967    発表日時:2026年10月16日 13時\r\n\n\r\n犬吠埼北、\r\r\n射撃、10月21日(予備22日)0800-2400、\r\r\n36-13.1N 140-55.2Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261967&LANG=JP"
     },
     {
       "id": "NAVTEX-261955",
