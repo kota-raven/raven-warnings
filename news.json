@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-19-02",
-    "headline": {
-      "ja": "アルバニア・ティラナの反政府デモが6日目に拡大、負傷者計272人(警察169人)に ラマ首相はイランの関与を改めて主張、イラン側は否定",
-      "en": "Anti-government protests in Tirana, Albania enter sixth day; injuries reach 272 including 169 police as PM Rama again alleges Iranian involvement, which Iran denies"
-    },
-    "summary": {
-      "ja": "Euronewsによると、アルバニアの首都ティラナで続く反政府デモは10月18日(日)に6日目を迎え、警察は催涙ガスと放水砲を使用したという。これまでの衝突による負傷者は、警察官169人を含め計272人に達したと報じられたという。デモは大学の学費・施設環境への抗議から始まり、汚職批判や南部沿岸のリゾート開発計画への反対にも広がっているという(既報〈id: 2026-10-19-01〉の続報)。ラマ首相は改めて辞任要求を拒否し、デモを支持するオンライン上の動きについて「イランが背景にあるハイブリッド戦だ」との見方を示したとされ、イラン側はこの主張を否定しているという。[信頼性: 中](Euronews単独の報道。負傷者数・ラマ首相発言の内容について、本時間帯では他メディアによる裏付けは確認できなかった)",
-      "en": "According to Euronews, the ongoing anti-government protests in Tirana, Albania entered their sixth day on Sunday, October 18, with police using tear gas and water cannon. Injuries from the clashes so far reportedly reached 272, including 169 police officers. The protests, which began over university tuition and conditions, have reportedly broadened to include corruption allegations and opposition to a southern coastal resort development (a continuation of previously reported events, id: 2026-10-19-01). PM Edi Rama again rejected calls to resign and reportedly reiterated his view that online activity supporting the protests amounts to an Iran-backed 'hybrid war,' a claim Iran denies. [Reliability: Medium] (Based solely on Euronews reporting; the injury figures and PM Rama's remarks could not be independently corroborated by other outlets within this collection window.)"
-    },
-    "category": "conflict",
-    "country": "アルバニア",
-    "lat": 41.1533,
-    "lon": 20.1683,
-    "occurredAt": "2026-10-18T18:00:00+00:00",
-    "source": {
-      "name": "Euronews",
-      "url": "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-20-02",
     "headline": {
       "ja": "中国の7〜9月期GDP、前年同期比4.5%成長 輸出主導で市場予想・前期を上回る",
@@ -103,6 +82,70 @@
     "source": {
       "name": "Benzinga",
       "url": "https://www.benzinga.com/markets/equities/26/10/62460028/stock-market-today-dow-jones-futures-rise-nasdaq-100-falls-as-iran-threatens-to-target-undersea-cables-spcx-nflx-stld-in-focus"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-22-01",
+    "headline": {
+      "ja": "イエメン政府、フーシ派によるアデン・ムカッラ両空港への攻撃を非難 アデンで爆発音",
+      "en": "Yemen government accuses Houthis of attacking Aden and Mukalla airports; blast heard in Aden"
+    },
+    "summary": {
+      "ja": "イエメンの国際承認政府は、フーシ派が暫定首都アデンおよびムカッラ(ハドラマウト州)の両空港を攻撃したと非難した。アデン市内では爆発音が確認されており、フーシ派側は軍事施設への攻撃だったとする趣旨の発表をしたとの報道がある(伝聞形、独立した検証はできていない)。双方の主張について第三者による確証は得られていない。",
+      "en": "Yemen's internationally recognized government accused Houthi forces of striking airports in the interim capital Aden and in Mukalla, Hadhramaut province. An explosion was reported in Aden, and the Houthis reportedly said they had targeted a military site. Neither side's claims have been independently verified."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7855,
+    "lon": 45.0187,
+    "occurredAt": "2026-10-21T06:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-22-02",
+    "headline": {
+      "ja": "スーダン・アビエイ係争地の市場をドローン攻撃、推定73人死亡(未確認) 南スーダンが抗議",
+      "en": "Drone strike hits market in disputed Abyei area between Sudan and South Sudan, reportedly killing 73 (unconfirmed); South Sudan protests"
+    },
+    "summary": {
+      "ja": "スーダン・南スーダン間の係争地アビエイ地域のアミエト(アルナーム)市場がドローン攻撃を受けた。スーダン軍機とみられるドローンが、南スーダンからダルフールへ向かう燃料輸送トラックや燃料貯蔵施設を狙ったとされる。現地報道(Sudan Tribune)は市民73人が死亡したと伝えているが、公式の確認は得られていない(未確認情報)。南スーダン外務省はジュバ駐在のスーダン大使を呼び抗議し、アビエイ問題は外交的に解決するようハルツームに求めた。",
+      "en": "A drone strike hit the Amiet (al-Naam) market in the disputed Abyei area between Sudan and South Sudan. Drones believed to belong to the Sudanese military reportedly targeted fuel-carrying trucks and fuel depots used for transport from South Sudan to Darfur. Local outlet Sudan Tribune reported 73 civilians killed, though the toll has not been officially confirmed. South Sudan's foreign ministry summoned Sudan's ambassador in Juba to protest and urged Khartoum to resolve Abyei-related issues through diplomatic channels."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 9.594,
+    "lon": 28.4332,
+    "occurredAt": "2026-10-19T12:00:00+00:00",
+    "source": {
+      "name": "Sudan Tribune",
+      "url": "https://sudantribune.com/article/320174"
+    },
+    "reliability": "medium",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-22-03",
+    "headline": {
+      "ja": "原油価格が続伸、ブレント108ドル台 中東の供給不安と海上輸送コスト高騰で",
+      "en": "Oil prices extend gains, Brent near $109, amid Middle East supply fears and surging shipping costs"
+    },
+    "summary": {
+      "ja": "中東情勢の緊迫化を背景に原油価格の上昇が続いている。ブレント先物は1バレル=108.82ドルで引け、WTIは97.15ドルで引けた。イラン革命防衛隊はホルムズ海峡でタンカー3隻が機雷により足止めされたと主張しているが独立した確証はない。フーシ派もサウジアラムコの施設・空港への攻撃を主張しているが、サウジ側は公式に確認していない。ゴールドマン・サックスのレポートによると、原油の海上輸送(フレート)コストは1バレルあたり20ドル超まで上昇し、1年前の約3ドルから急騰した。米国内のディーゼル価格も1ガロン平均6.33ドルと前年同期比7割超の上昇となっている。",
+      "en": "Oil prices continued to rise amid escalating Middle East tensions. Brent crude futures settled at $108.82 a barrel and U.S. WTI crude at $97.15. Iran's Revolutionary Guards claimed three tankers were disabled by mines in the Strait of Hormuz, a claim that has not been independently verified. Houthi forces also claimed strikes on Saudi Aramco facilities and airports, which Saudi officials have not officially confirmed. A Goldman Sachs report cited by CNBC says the global average crude shipping (freight) cost has surged above $20 a barrel, up from about $3 a year earlier. U.S. diesel prices averaged $6.33 a gallon, more than 70% above the same period last year, according to AAA data."
+    },
+    "category": "economy",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-10-21T20:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"
     },
     "reliability": "high"
   }
