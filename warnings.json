@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T23:48:09.863Z",
+  "generatedAt": "2026-10-21T04:31:22.093Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 192,
+  "count": 195,
   "warnings": [
     {
       "id": "NAVAREA11-260479",
@@ -308,6 +308,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264145",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4145",
+      "title": "コーラル海、海底線回収作業",
+      "publishedAt": "2026-10-21T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4145   発表日時:2026年10月21日 11時\r\n\n\r\n★ コーラル海、\r\r\nM/V LAYLAによる海底線回収作業、当分の間、\r\r\n13-06.14S 161-11.58E 12-23.69S 162-08.91E\r\r\n11-43.41S 163-07.90E 10-50.91S 163-20.29E\r\r\nを結ぶ線上付近。\r\r\n(3809削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264145&LANG=JP"
     },
     {
       "id": "JAPANNW-264144",
@@ -2186,18 +2198,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263824&LANG=JP"
     },
     {
-      "id": "JAPANNW-263809",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "3809",
-      "title": "コーラル海、海底線回収作業",
-      "publishedAt": "2026-09-27T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3809   発表日時:2026年09月27日 08時\r\n\n\r\n★ コーラル海、\r\r\nM/V LAYLAによる海底線回収作業、9月26日-当分の間\r\r\n14-45.98S 159-08.93E 15-26.23S 158-28.20E\r\r\n17-11.66S 157-52.33E 20-05.93S 156-46.34E\r\r\n20-17.59S 156-01.37E 20-40.48S 155-22.64E\r\r\nを結ぶ線上付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263809&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263806",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -3322,6 +3322,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-261995",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1995",
+      "title": "潮岬西南西、射撃",
+      "publishedAt": "2026-10-21T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1995    発表日時:2026年10月21日 13時\r\n\n\r\n潮岬西南西、\r\r\n射撃、10月26日0700-2400、33-19.2N\r\r\n135-19.1Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261995&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261994",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1994",
+      "title": "入道埼西南西、射撃",
+      "publishedAt": "2026-10-21T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-1994    発表日時:2026年10月21日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月26日0800-翌日2400、39-56.0N \r\r\n139-22.5Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261994&LANG=JP"
+    },
+    {
       "id": "NAVTEX-261993",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3332,6 +3356,38 @@
       "geometry": null,
       "rawText": "番号:26-1993    発表日時:2026年10月21日 07時\r\n\n\r\n京浜港、横浜区、川崎区、\r\r\n荒天により対象船舶に対し錨泊自粛の勧告、\r\r\n10月21日0600-解除発表までの間、\r\r\n詳細は京浜港長に問い合わせられたい。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261993&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-261991",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "1991",
+      "title": "済州島東（Ｄ−１１８）、射撃",
+      "publishedAt": "2026-10-20T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            127.66666666666667,
+            34
+          ],
+          [
+            128.5,
+            34
+          ],
+          [
+            127.83333333333333,
+            33.166666666666664
+          ],
+          [
+            127.66666666666667,
+            33.166666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-1991    発表日時:2026年10月20日 13時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、10月25日1500-2000、\r\r\n34-00N 127-40E 34-00N 128-30E \r\r\n33-10N 127-50E 33-10N 127-40E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261991&LANG=JP"
     },
     {
       "id": "NAVTEX-261990",
