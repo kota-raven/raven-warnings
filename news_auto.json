@@ -2974,28 +2974,5 @@
     "auto": true,
     "eventKey": "north_korea_slbm_test_2026-10-15",
     "severity": 4
-  },
-  {
-    "id": "auto-11619",
-    "headline": {
-      "ja": "ロシア、2026年初頭からウクライナの発電所10施設以上を攻撃と報告",
-      "en": "Russia Reports Strikes on at Least Ten Ukrainian Power Plants Since Early 2026"
-    },
-    "summary": {
-      "ja": "ロシア政府は、2026年初頭以降、ウクライナの火力発電所および水力発電所少なくとも10施設を攻撃したと報告した。",
-      "en": "Russian government reports strikes on at least ten thermal and hydroelectric power plants in Ukraine since early 2026"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-15T09:35:53+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91WkpvbVM4NWdEeWxaYzhGbDZGZ0ZyX3lpU0hzU09hX2tVTmQydUlEcE00c1lEM1l0dW5FRVk2djlkVEtNaEoyZtIBTkFVX3lxTE94VUhtUGdwaENXUWR2STFIc1JiTHBxZEswZjZydjdvQ21OdzFoc3k1NHg3YzBEUlQtWW92TkxNMGR6aDd2aGFaM0hRVDhjdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_power_plants_attack_2026"
   }
 ]
