@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-25344",
+    "headline": {
+      "ja": "スーダンのドローン戦争、市民危機を激化",
+      "en": "Sudan's shift to drone warfare fuels civilian crisis"
+    },
+    "summary": {
+      "ja": "スーダンでは、補給線と安全都市を狙ったドローン攻撃により、市民に甚大な被害がもたらされている。",
+      "en": "Drone attacks on supply lines and safe cities in Sudan are taking a devastating toll on civilians."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-22T13:35:31+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_drone_attacks_civilian_crisis_2026-10-22"
+  },
+  {
+    "id": "auto-25121",
+    "headline": {
+      "ja": "イスラエル軍、南レバノンを空爆・砲撃",
+      "en": "Israeli airstrikes and artillery shelling hit southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍は南レバノンに対する空爆と砲撃を実施し、軍事進攻を継続している。",
+      "en": "Israeli forces conduct airstrikes and artillery shelling in southern Lebanon as military operations advance."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-22T09:38:51+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZy1VejA1anI5VjhsQlFFaFJQdUF3eld4QXFXdnNmUGJLaFVVcjVUcmFpXzJKc2h4cjNDV0V1VzljMkdiVUJrRWJkVnZtR2h3WVlNcHFhQnR6eGtwNzhFZkZDay1KX1JyVG5kZVVORVkybEladTROd0tnelJQU3JfeklZYWN1LVBWbjdKbEVwQ3l0MUlWbUZ6XzdtcVh0Mkx0VTdkVXVqVFBjYm1UMnU2d1VZMzJkUU5memZvak4zZVRFeDhzR2l4c09GZlJRWi1CcFN0QWpraw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_airstrike_2026-10-22"
+  },
+  {
+    "id": "auto-25141",
+    "headline": {
+      "ja": "ウクライナ、モスクワへの大規模ドローン攻撃を実施",
+      "en": "Ukraine conducts major drone attack on Moscow"
+    },
+    "summary": {
+      "ja": "ウクライナ軍は大規模なドローン攻撃によってモスクワを攻撃した。",
+      "en": "Ukrainian forces conducted one of the largest drone attacks on Moscow."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-22T09:23:14+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UYVJsbU16M1l1Wkx6NkRlU0J3a2xraVdLTWg4WXlYZzlxTXc3cFlyMlJHb1l3SG9LR3RnWFAzbEtZYUVSZjRSOENaS3U0QdIBTkFVX3lxTE1UYVJsbU16M1l1Wkx6NkRlU0J3a2xraVdLTWg4WXlYZzlxTXc3cFlyMlJHb1l3SG9LR3RnWFAzbEtZYUVSZjRSOENaS3U0QQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_moscow_2026-10-22"
+  },
+  {
     "id": "auto-24301",
     "headline": {
       "ja": "イラン革命防衛隊、攻撃国への侵略を誓約 防衛方針が「攻撃的」に転換",
@@ -2926,122 +2995,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "houthi_aden_presidential_palace_2026-10-15"
-  },
-  {
-    "id": "auto-11734",
-    "headline": {
-      "ja": "ドローン攻撃でタンカー炎上、ルーマニア沖で乗組員7人が行方不明",
-      "en": "Tanker ablaze after drone attack off Romania, seven crew missing"
-    },
-    "summary": {
-      "ja": "ブラック海でドローン攻撃によりタンカーが炎上し、捜索救難活動が行われている。乗組員7人が行方不明。",
-      "en": "Tanker caught fire following drone attack in Black Sea off Romania; seven crew members missing, search and rescue operation underway."
-    },
-    "category": "conflict",
-    "country": "ルーマニア",
-    "lat": 44.4323,
-    "lon": 26.1063,
-    "occurredAt": "2026-10-15T14:51:30+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "black_sea_tanker_drone_attack_romania_2026-10-15",
-    "severity": 4
-  },
-  {
-    "id": "auto-11611",
-    "headline": {
-      "ja": "ロシア、イズマイル港への攻撃を発表",
-      "en": "Russia Claims Strike on Izmail Port Infrastructure"
-    },
-    "summary": {
-      "ja": "ロシア軍は、ウクライナ南部イズマイルの港湾インフラと黒海上の乾貨物船2隻を攻撃したと発表した。",
-      "en": "Russian military claims to have struck Izmail port infrastructure and two dry cargo ships in the Black Sea"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 45.3506,
-    "lon": 28.8375,
-    "occurredAt": "2026-10-15T13:27:11+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFWVlpMFdBUGZVc0FkczhPakszVWV0bW0xZS1BOExRYTI5M056WGV6cDd6bVcwRy1JNWxqNFFzci1JNDdqSjlz0gFMQVVfeXFMT0Q1U09Zb3J6Z1lJYVpRZjI5V0R5QXNuaHZPZlRzZmdmaGMtdlFyYnM5OEozTTl1SGY2NEJoYzk3ZUVfLWU1WXNCTWdVRg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_izmail_port_attack_2026-10-15"
-  },
-  {
-    "id": "auto-11527",
-    "headline": {
-      "ja": "ドイツ裁判所がイラン関連の暗殺計画容疑者に有罪判決",
-      "en": "German court convicts men over Iran-linked assassination plots"
-    },
-    "summary": {
-      "ja": "ドイツの裁判所がイラン関連の暗殺計画容疑で2名を懲役刑に処した。",
-      "en": "German court sentenced two men for alleged Iran-linked assassination plots."
-    },
-    "category": "conflict",
-    "country": "ドイツ",
-    "lat": 52.5244,
-    "lon": 13.4105,
-    "occurredAt": "2026-10-15T12:49:35+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWx2Y1g3RHo5ZUZtRTRWeTJVdDZoUmY1TkVvZFlnVGV2WnJFdk1YQWRsOW9uSUtWTGNSSlBrZ2lGU1hDdlFWSnV4NU95MkxhcERRbXJqTG0tNV94Z3QwR3VYbU9FYkhwVm5zY3JjRTJROXRvcXZRd2c0ZGtYSTlXQmlaUzduSXYyY3NORzhvLUpxQWx3X2lFLWdvMl9lRXNpOFZjUjNsS2I5UWw5c1E?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_assassination_plot_germany_2026-10-15"
-  },
-  {
-    "id": "auto-11632",
-    "headline": {
-      "ja": "ザポリージャ原発での一時停戦、設備修理のため宣言",
-      "en": "Ceasefire Declared at Zaporozhye Nuclear Power Plant for Equipment Repairs"
-    },
-    "summary": {
-      "ja": "ロシア国営原子力企業Rosatomのトップは、ザポリージャ原発での戦闘が一時停止され、設備修理が実施されていると発表した。",
-      "en": "Rosatom CEO announces ceasefire at Zaporozhye Thermal Power Plant to allow equipment repair"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 47.8517,
-    "lon": 35.1171,
-    "occurredAt": "2026-10-15T11:19:18+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OSWo4blIzclJXaXM1T1p2YmFhTDJIT1FpUXBKa1ltc0RCVzJWWEwxc0gzTkpONGhCVGd1WW04LTNXQ3F1?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_zaporozhye_power_plant_ceasefire_2026-10-15"
-  },
-  {
-    "id": "auto-11793",
-    "headline": {
-      "ja": "北朝鮮が潜水艦発射型弾道ミサイルを試験発射",
-      "en": "North Korea conducts test firing of submarine-launched ballistic missiles"
-    },
-    "summary": {
-      "ja": "北朝鮮が2種類の戦略潜水艦発射型弾道ミサイル（SLBM）の試験発射を実施したと報じられている。",
-      "en": "North Korea conducted test firings of two distinct types of strategic submarine-launched ballistic missiles."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-15T10:47:35+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20517"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "north_korea_slbm_test_2026-10-15",
-    "severity": 4
   }
 ]
