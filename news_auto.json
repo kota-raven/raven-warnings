@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-25343",
+    "headline": {
+      "ja": "イエメン・タイズで深刻な食糧・水不足、フーシ派のブロケード影響",
+      "en": "Severe shortages in Yemen's Taiz amid Houthi blockade"
+    },
+    "summary": {
+      "ja": "イエメンのタイズで、フーシ派のブロケードにより、食糧と水の深刻な不足に直面している。主要供給ルートが遮断されている。",
+      "en": "Residents in Yemen's Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route."
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-10-22T13:42:26+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_taiz_humanitarian_crisis_2026-10"
+  },
+  {
     "id": "auto-25344",
     "headline": {
       "ja": "スーダンのドローン戦争、市民危機を激化",
@@ -44,6 +67,123 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_houthi_saudi_attack_2026-10-22",
+    "severity": 4
+  },
+  {
+    "id": "auto-25333",
+    "headline": {
+      "ja": "イランが攻撃的ドクトリン公表、米国が警告 戦争の危機迫る",
+      "en": "Iran reveals offensive doctrine, US issues alert: War tensions escalate"
+    },
+    "summary": {
+      "ja": "イランが攻撃的なドクトリンを公表し、米国がサウジアラビアから外交官を撤退させるなど警戒を強めている。米国によるイランへの攻撃の可能性も報じられている。",
+      "en": "Iran has revealed an offensive doctrine, prompting the US to issue an alert and withdraw diplomatic staff from Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-22T12:12:32+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_us_conflict_escalation_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-25283",
+    "headline": {
+      "ja": "ガザの人道危機が継続、キリスト系村落への攻撃も懸念",
+      "en": "Latin Patriarch warns of Gaza humanitarian crisis and attacks on Christian villages"
+    },
+    "summary": {
+      "ja": "ラテン族総大司教はガザの人道的危機の継続と、キリスト系村落への攻撃増加に警鐘を鳴らした。",
+      "en": "The Latin Patriarch warned that Gaza's humanitarian crisis persists and expressed alarm over increasing attacks on Christian villages."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-22T12:12:20+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5waTVyLXlKRV9QMGJYa3lSVm5kcEdSTk5tNk1oWG1pZGdwVDhvcFlyeXh3amE4SUZSRnN4SFZuc0FNUUtuSWYtdmVQSnRiRzktYnJGNXlZTQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_humanitarian_crisis_2026-10"
+  },
+  {
+    "id": "auto-25252",
+    "headline": {
+      "ja": "UAEがフーシ派の空港攻撃を強く非難",
+      "en": "UAE strongly condemns Houthi attack on airport"
+    },
+    "summary": {
+      "ja": "UAEはサウジアラビアのキング・ファハド国際空港へのフーシ派の攻撃を強く非難する声明を発表した。",
+      "en": "The UAE issued a strong condemnation of the Houthi group's attack on King Fahd International Airport in Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "アラブ首長国連邦",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "occurredAt": "2026-10-22T12:04:57+00:00",
+    "source": {
+      "name": "UAE 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55RnRrd2hYbVd4TUxnVVB1TWhPRkZLNmQ1NEhvSkJTLUV5SnZfcHpUaW16eFVKbV9ncVYxY0pjUGczMDJGaENlOG8tUUtJWnh0TlNVbVJhd2ctUVNQOVBxd0dvU011aHYtUUVhcnRiLS01NkZhZWJV?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_airport_attack_2026-10-22"
+  },
+  {
+    "id": "auto-25182",
+    "headline": {
+      "ja": "トルコ・リビア海事協定、EUとエジプトが反発",
+      "en": "Turkey-Libya maritime deal draws EU and Egypt opposition"
+    },
+    "summary": {
+      "ja": "リビア東部議会がアンカラとの海境界協定を承認した。この協定はリビアの同盟関係を再編成し、EUとエジプトの反発を招いている。",
+      "en": "Libya's eastern parliament backed a maritime border pact with Turkey, a move analysts say reshapes Libya's alliances and draws opposition from the EU and Egypt."
+    },
+    "category": "economy",
+    "country": "リビア",
+    "lat": 32.8874,
+    "lon": 13.1873,
+    "occurredAt": "2026-10-22T11:36:02+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "turkey_libya_maritime_deal_2026-10"
+  },
+  {
+    "id": "auto-25272",
+    "headline": {
+      "ja": "イエメン紛争激化で1,574人死亡、8月以降の急増",
+      "en": "Yemen escalation since August: 1,574 killed, 6,939 injured"
+    },
+    "summary": {
+      "ja": "WHOの報告によると、8月以降のイエメンの紛争激化により1,574人が殺害され、6,939人が負傷した。",
+      "en": "According to WHO, Yemen escalation since August has resulted in 1,574 deaths and 6,939 injuries."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-22T10:44:02+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU1qRjVRT1lqSzVtMF9ZNVpUMl9OcHZNa3lNdVNJbV9pYjU0NDlDb0tXc1p4Tmx0YUJyVVd0S3VNZUd4MGZ6SUZxNkdPaU8taDRIdjFCLTFPTm5sQ2MxMGo5YjA1cVdGcExaMllJekJmdjVXNHVlNzlfd0dwRWg3NjNKTU9SWmtrSjRvX2U5X1g3WHo1NVZQRVhDYTdXVEJ4WFZBSExDWnB4TGV1?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_escalation_casualties_2026-08-10",
     "severity": 4
   },
   {
