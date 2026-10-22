@@ -71,6 +71,29 @@
     "eventKey": "saudi_aramco_drone_attack_2026-10"
   },
   {
+    "id": "auto-24135",
+    "headline": {
+      "ja": "パレスチナ当局、ガザシティでのドローン攻撃で2人殺害と報告",
+      "en": "Two Palestinians killed in Israeli drone strike in Gaza City"
+    },
+    "summary": {
+      "ja": "パレスチナ当局はガザシティでのドローン攻撃により2人が殺害されたと報じた。複数名の負傷も報告されている。",
+      "en": "Palestinian authorities report two killed and several injured in Israeli drone strike in Gaza City"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-21T19:33:38+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jbjZIaHl3dXVJMF85LXlBYWNlV09Ub1E5OUdmeVp2YTVzTzh1SzF0MHk3eFpIRVFKeEN4eHRZNE1vRDFQM1lXdUY3SkRRcnZjRGJJemRDOA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "palestine_gaza_city_drone_strike_2026-10-21"
+  },
+  {
     "id": "auto-23786",
     "headline": {
       "ja": "イエメン南部、訓練兵75名がフーシュ派ミサイル攻撃で死亡",
@@ -93,6 +116,52 @@
     "auto": true,
     "eventKey": "yemen_houthi_training_camp_strike_2026-10-21",
     "severity": 4
+  },
+  {
+    "id": "auto-24133",
+    "headline": {
+      "ja": "パレスチナ当局、ベツレヘムでのイスラエル軍襲撃に関する報道",
+      "en": "Palestinian authorities report on Israeli military raid in Bethlehem"
+    },
+    "summary": {
+      "ja": "パレスチナ当局はベツレヘムでのイスラエル軍による襲撃で複数名が呼吸困難状態に陥ったと報じた。",
+      "en": "Palestinian authorities report several suffocated during Israeli military raid in Bethlehem"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7049,
+    "lon": 35.2038,
+    "occurredAt": "2026-10-21T16:52:38+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tQTE1S2l0VEY4VW1OMjN1Zi1LR29pQWZ5S3NHbkUteFNfOHdkbS0wN0ZtWnlhb1JyMjBPdXU0bTFXNkJ2dldUUTdQazFNUW0xT3NJcU92MA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "palestine_bethlehem_israeli_raid_2026-10-21"
+  },
+  {
+    "id": "auto-24205",
+    "headline": {
+      "ja": "トランプ大統領がG20首脳会談でウクライナ和平協議の成立を希望",
+      "en": "Trump seeks to conclude Ukraine peace deal during G20 summit"
+    },
+    "summary": {
+      "ja": "トランプ大統領はG20首脳会談中にウクライナ和平協議を実現したいと考えていると報じられた。",
+      "en": "Trump wants to conclude Ukraine peace deal during G20 summit"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-21T16:42:42+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1LN25TNGFHMXFWQnlVMVlsX0hCQUxfYkF1Q3loVHpUSUY1dWRrUnRQUEJwaE9yLUQ1bnlqVnlMMXdsY3FV0gFKQVVfeXFMT3dDQzd2bXZiMHliSWdtT3hpS0dHeDRJYXpfbHh6Wk5BVkFLRDN5NGNjeWtRU0dac1otdDdPN0U3b0tQRTRHWUl3VlE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_peace_deal_g20_summit_2026-10"
   },
   {
     "id": "auto-23100",
