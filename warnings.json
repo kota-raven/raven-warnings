@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T19:59:24.768Z",
+  "generatedAt": "2026-10-22T23:15:18.023Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 173,
+  "count": 171,
   "warnings": [
     {
       "id": "NAVAREA11-260480",
@@ -250,6 +250,50 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
     },
     {
+      "id": "JAPANNW-264162",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4162",
+      "title": "ホルムズ海峡、火災船ありに関する情報削除",
+      "publishedAt": "2026-10-23T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4162   発表日時:2026年10月23日 08時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船(AL DASMA)ありに関する情報削除。\r\r\n(4156削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264162&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264161",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4161",
+      "title": "インド東岸、射撃",
+      "publishedAt": "2026-10-23T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            83.68333333333334,
+            17.416666666666668
+          ],
+          [
+            83.96666666666667,
+            17.233333333333334
+          ],
+          [
+            84.16666666666667,
+            17.516666666666666
+          ],
+          [
+            83.88333333333334,
+            17.7
+          ]
+        ]
+      },
+      "rawText": "番号:26-4161   発表日時:2026年10月23日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、10月24日、25日、29日-11月1日毎日0030Z-1030Z、\r\r\n(1)17-58.9N 084-11.7E 17-49.5N 083-59.6E\r\r\n   17-49.5N 084-15.7E 17-58.9N 084-27.3E、\r\r\n(2)17-25N 083-41E 17-14N 083-58E\r\r\n   17-31N 084-10E 17-42N 083-53E、\r\r\nで囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264161&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264160",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -296,18 +340,6 @@
       "geometry": null,
       "rawText": "番号:26-4157   発表日時:2026年10月22日 20時\r\n\n\r\n沖縄島南西、\r\r\n射撃、10月27日(予備28日)0800-2400、\r\r\n25-56.0N 127-30.2Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264157&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264156",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4156",
-      "title": "ホルムズ海峡、火災船あり",
-      "publishedAt": "2026-10-22T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4156   発表日時:2026年10月22日 08時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船(AL DASMA)あり、10月22日、\r\r\n26-14.0N 056-04.6E\r\r\n(4146削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264156&LANG=JP"
     },
     {
       "id": "JAPANNW-264155",
@@ -984,18 +1016,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264107&LANG=JP"
     },
     {
-      "id": "JAPANNW-264106",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4106",
-      "title": "ベンガル湾、射撃",
-      "publishedAt": "2026-10-17T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4106   発表日時:2026年10月17日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、10月20日-22日毎日1030Z-1230Z、\r\r\n13-32.02N 093-08.63E 13-48.13N 093-10.20E\r\r\n14-49.00N 090-59.32E 13-18.44N 091-04.57E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264106&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264105",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1216,46 +1236,6 @@
       },
       "rawText": "番号:26-4086   発表日時:2026年10月16日 20時\r\n\n\r\n★ 朝鮮半島東岸、注文津港東、\r\r\n射撃、10月18日、19日毎日2300Z-翌日1200Z、20日-22日毎日\r\r\n2300Z-翌日0900Z、24日0030Z-0230Z、\r\r\n38-06-00N 128-57-45E 38-09-30N 129-04-00E\r\r\n37-37-00N 129-30-20E 37-33-30N 129-24-15E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264086&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264085",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4085",
-      "title": "大青群島付近（Ｄ−１３１）、射撃",
-      "publishedAt": "2026-10-16T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            124.06944444444444,
-            37.9
-          ],
-          [
-            124.06944444444444,
-            37.983333333333334
-          ],
-          [
-            124.63611111111112,
-            37.983333333333334
-          ],
-          [
-            124.70833333333334,
-            37.98916666666667
-          ],
-          [
-            124.70833333333334,
-            37.9
-          ],
-          [
-            124.63611111111112,
-            37.9
-          ]
-        ]
-      },
-      "rawText": "番号:26-4085   発表日時:2026年10月16日 20時\r\n\n\r\n★ 朝鮮半島西岸、大青群島付近、\r\r\n射撃、10月19日、21日毎日0900Z-1200Z、20日、22日毎日\r\r\n1000Z-1400Z、37-54-00N 124-04-10E \r\r\n37-59-00N 124-04-10E 37-59-00N 124-38-10E\r\r\n37-59-21N 124-42-30E 37-54-00N 124-42-30E\r\r\n37-54-00N 124-38-10Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264085&LANG=JP"
     },
     {
       "id": "JAPANNW-264084",
@@ -1706,30 +1686,6 @@
       },
       "rawText": "番号:26-4058   発表日時:2026年10月15日 20時\r\n\n\r\n北太平洋、東カロリン諸島、\r\r\nM/V ANIEK(1008トン)による海底線回収作業、10月15日2000Z-\r\r\n当分の間、10-04N 149-40E 09-40N 150-23E\r\r\n09-17N 150-40E 09-02N 150-43Eを結ぶ線上付近。\r\r\n(3808削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264058&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264056",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4056",
-      "title": "グアム島付近、危険な訓練",
-      "publishedAt": "2026-10-15T20:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            145.13333333333333,
-            13.45
-          ],
-          [
-            144.6,
-            13.7
-          ]
-        ]
-      },
-      "rawText": "番号:26-4056   発表日時:2026年10月15日 20時\r\n\n\r\n★ グアム島付近、\r\r\n危険な訓練、10月20日-22日毎日0100Z-1300Z、\r\r\n(1)13-27N 145-08E、\r\r\n(2)13-42N 144-36E、\r\r\nを中心とする半径3海里の各円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264056&LANG=JP"
     },
     {
       "id": "JAPANNW-264026",
