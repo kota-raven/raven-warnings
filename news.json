@@ -63,28 +63,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-10-22-02",
-    "headline": {
-      "ja": "スーダン・アビエイ係争地の市場をドローン攻撃、推定73人死亡(未確認) 南スーダンが抗議",
-      "en": "Drone strike hits market in disputed Abyei area between Sudan and South Sudan, reportedly killing 73 (unconfirmed); South Sudan protests"
-    },
-    "summary": {
-      "ja": "スーダン・南スーダン間の係争地アビエイ地域のアミエト(アルナーム)市場がドローン攻撃を受けた。スーダン軍機とみられるドローンが、南スーダンからダルフールへ向かう燃料輸送トラックや燃料貯蔵施設を狙ったとされる。現地報道(Sudan Tribune)は市民73人が死亡したと伝えているが、公式の確認は得られていない(未確認情報)。南スーダン外務省はジュバ駐在のスーダン大使を呼び抗議し、アビエイ問題は外交的に解決するようハルツームに求めた。",
-      "en": "A drone strike hit the Amiet (al-Naam) market in the disputed Abyei area between Sudan and South Sudan. Drones believed to belong to the Sudanese military reportedly targeted fuel-carrying trucks and fuel depots used for transport from South Sudan to Darfur. Local outlet Sudan Tribune reported 73 civilians killed, though the toll has not been officially confirmed. South Sudan's foreign ministry summoned Sudan's ambassador in Juba to protest and urged Khartoum to resolve Abyei-related issues through diplomatic channels."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 9.594,
-    "lon": 28.4332,
-    "occurredAt": "2026-10-19T12:00:00+00:00",
-    "source": {
-      "name": "Sudan Tribune",
-      "url": "https://sudantribune.com/article/320174"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
     "id": "2026-10-22-03",
     "headline": {
       "ja": "原油価格が続伸、ブレント108ドル台 中東の供給不安と海上輸送コスト高騰で",
@@ -102,6 +80,72 @@
     "source": {
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-22-04",
+    "headline": {
+      "ja": "フーシ派、サウジ・ダンマンのキング・ファハド国際空港とシャイバ油田をドローン・ミサイルで攻撃 合計4人死亡を確認、米が非常駐在員の退避を指示",
+      "en": "Houthis strike Saudi Arabia's King Fahd airport in Dammam and Shaybah oilfield with drones/missiles, killing 4; US orders non-essential staff to leave"
+    },
+    "summary": {
+      "ja": "サウジアラビア民間航空総局(GACA)は、10月21日(水)にダンマンのキング・ファハド国際空港が攻撃を受け、サウジ人1人とインド人居住者1人の合計2人が死亡、8人が負傷したと確認した(空港運用は後に正常化)。フーシ派は過去48時間でキング・ファハド空港のほか、アブハ国際空港、リヤドの国防省、ヤンブーのアラムコ施設も攻撃したと主張しているが、これらの主張についてサウジ側の公式確認は得られていない(伝聞形)。別途、サウジ・エネルギー省は、アラムコのシャイバ油田の施設を狙ったドローンを防空システムが撃墜した際に2人が死亡したと確認した(サウジ通信SPA経由)。一連の攻撃を受け、米国務省はサウジアラビア駐在の非緊急職員とその家族に国外退避を指示した(ロイターによると、湾岸地域の他の公館の家族についても退避対象に含める計画との報道があるが、国務省報道官はサウジアラビア以外への拡大を否定しているという)。[信頼性: 高](死傷者数・空港攻撃・米国務省の退避指示はGACA・サウジ・エネルギー省・米国務省の公式確認に基づく。フーシ派による他施設への攻撃主張は未確認)",
+      "en": "Saudi Arabia's General Authority of Civil Aviation (GACA) confirmed that King Fahd International Airport in Dammam was attacked on Wednesday, October 21, killing a Saudi national and an Indian resident (2 total) and wounding 8; airport operations later returned to normal. The Houthis claimed to have carried out attacks over the preceding 48 hours on King Fahd airport as well as Abha International Airport, Saudi Arabia's defence ministry in Riyadh, and Aramco facilities in Yanbu, though these additional claims have not been officially confirmed by Saudi authorities. Separately, Saudi Arabia's Ministry of Energy confirmed, via the Saudi Press Agency, that two people were killed when air defences intercepted a drone targeting a facility at Aramco's Shaybah oilfield. Following the attacks, the US State Department ordered non-essential staff and their families to leave Saudi Arabia; Reuters reported that Washington also plans to withdraw family members from other Gulf missions, though a State Department spokesperson denied the order extends beyond Saudi Arabia. [Reliability: High] (Casualty figures, the airport attack and the US evacuation order are based on official confirmation by GACA, Saudi Arabia's Ministry of Energy and the US State Department; the Houthis' claims about additional targets remain unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "ダンマン(東部州)",
+    "lat": 26.4712,
+    "lon": 49.7979,
+    "occurredAt": "2026-10-21T15:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-22-05",
+    "headline": {
+      "ja": "イラン革命防衛隊、「攻撃的」な新防衛ドクトリンを発表し米軍基地を威嚇 NYT報道:米・イスラエルが中間選挙後の対イラン攻撃計画を策定",
+      "en": "Iran's IRGC announces 'offensive' defence doctrine, threatens US bases; NYT reports US and Israel have drawn up plans for renewed Iran strikes after midterms"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊(IRGC)のモヘビ報道官は10月22日、今後は報復的な軍事行動に限定しない「攻撃的・非対称」な防衛ドクトリンへ転換したと発表し、イランを攻撃する国に対しては侵攻も辞さないと威嚇した。また、ホルムズ海峡で機雷が敷設された海域を米国が船舶に通航させ続けるなら、対抗措置を米軍基地にも拡大すると威嚇したという。これはIRGC高官自身の発言であり、政府見解としての事実である。一方、CNBCが報じたニューヨーク・タイムズ(NYT)の報道によると、米国・イスラエル両軍は匿名の米政府関係者の話として、11月の米中間選挙後に「短期集中型」のイラン再攻撃の具体的な計画を策定しているとされる(トランプ大統領はまだ承認していないという)。米政府は中間選挙前にイランへの攻撃を再開する計画はないとしているが、トランプ大統領は「いずれにせよ近いうちに何かが起こる」と述べたという。[信頼性: 中](IRGC報道官自身の発言は政府発表として確実な事実。米・イスラエルの攻撃計画はNYTが匿名の米政府関係者を根拠に報じたものであり、独立した確証はない)",
+      "en": "IRGC spokesman Hossein Mohebi announced on October 22 that Iran has shifted to an 'offensive and asymmetrical' defence doctrine no longer limited to retaliatory strikes, and threatened to invade countries that attack it. He also reportedly threatened to extend confrontation to US bases in the region if Washington keeps urging vessels through waters Iran says are mined. This is a direct statement by an IRGC official and counts as an official government position. Separately, per CNBC's citation of a New York Times report, the US and Israeli militaries have reportedly drawn up specific plans, according to unnamed US officials, for a 'short but intensive' renewed operation against Iran after the November midterm elections; President Trump has not yet approved such strikes. Washington says it has no plans to resume strikes before the midterms, though Trump said 'something one way or the other' would 'happen fairly soon' regarding Iran. [Reliability: Medium] (The IRGC spokesman's own statement is a confirmed government position; the US/Israel strike-planning report is based on unnamed US officials cited by the New York Times and is not independently verified.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-22T04:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / CNBC (citing New York Times)",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-22-06",
+    "headline": {
+      "ja": "金価格、中東情勢を背景とした原油高騰によるインフレ懸念で2週間ぶりの安値に",
+      "en": "Gold falls to two-week low as oil-driven inflation fears weigh on precious metal"
+    },
+    "summary": {
+      "ja": "CNBCによると、10月22日午前9時(米東部時間)時点でスポット金価格は1オンス=4,083.82ドルとなり、前日同時刻の4,129.91ドルから下落、2週間超ぶりの安値を付けた。中東情勢の緊迫化(サウジアラビアでのフーシ派による攻撃拡大など)を背景とした原油価格の上昇がインフレ懸念を強め、米連邦準備制度理事会(FRB)による利上げ観測が強まったことで、無利息資産である金の魅力が後退したとされる。CMEのFedWatchツールによると、市場は12月の利上げの可能性を91%と見込んでいるという。次の重要指標である米個人消費支出(PCE)物価指数は10月29日に発表予定。[信頼性: 高](CNBC報道に基づく)",
+      "en": "According to CNBC, spot gold stood at $4,083.82 an ounce as of 9:00 a.m. ET on October 22, down from $4,129.91 at the same time the previous day, marking its lowest level in more than two weeks. Rising oil prices driven by escalating Middle East tensions, including expanding Houthi attacks on Saudi Arabia, have stoked inflation fears and bolstered expectations of a Federal Reserve rate hike, reducing the appeal of non-yielding gold. Per CME's FedWatch tool, markets are pricing in a 91% chance of a rate hike in December. The next major data point, the US PCE inflation report, is due October 29. [Reliability: High] (Based on CNBC reporting.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-22T13:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/amp/2026/10/22/gold-hits-over-two-week-low-as-oil-rally-fuels-inflation-worries.html"
     },
     "reliability": "high"
   }
