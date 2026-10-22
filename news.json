@@ -148,5 +148,27 @@
       "url": "https://www.cnbc.com/amp/2026/10/22/gold-hits-over-two-week-low-as-oil-rally-fuels-inflation-worries.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-23-01",
+    "headline": {
+      "ja": "米露、ウクライナ停戦交渉再開へ ウィトコフ特使がプーチン氏とサンクトペテルブルクで会談、米国人拘束者を解放",
+      "en": "US and Russia move to resume Ukraine peace talks; Witkoff meets Putin in St. Petersburg, American detainee released"
+    },
+    "summary": {
+      "ja": "Axios、CBS News、Al Jazeera、ABCニュース/CNN等によると、米国のウィトコフ特使(クシュナー氏も関与。同席か映像参加かは報道により異同あり)は10月21日(水)、ロシアのサンクトペテルブルクでプーチン大統領と会談した。プーチン氏は、ロシア・ウクライナ・米国による3者協議を原則再開する意向を示したという。クレムリンのウシャコフ大統領府高官は、同協議がアブダビで11月上旬(10日頃)に技術レベルで行われる可能性があると述べたという。米政府関係者によると、ウクライナは前日20日にオスロで行われた協議で提案を受け入れたという。会談開始前、ロシアは友好的な措置として、拘束していた74歳の米国人スティーブン・ハバード氏を解放したという。一方、安全保障の枠組みや領土問題など核心的な論点では依然双方の立場に大きな差があると報じられている。[信頼性: 高](Axios、CBS News、Al Jazeera、ABCニュース/CNN等の複数の独立したメディアが一致して報道。ただしクシュナー氏の同席形態など一部詳細は報道間に差異あり)",
+      "en": "According to Axios, CBS News, Al Jazeera, ABC News/CNN and others, US envoy Steve Witkoff (with Jared Kushner also involved, though reports differ on whether he attended in person or by video) met Russian President Vladimir Putin in St. Petersburg on Wednesday, October 21. Putin reportedly indicated Russia is willing in principle to resume trilateral talks among Russia, Ukraine and the US. Kremlin aide Yuri Ushakov said the talks could be held at a technical level in Abu Dhabi around early November (around the 10th). A US official said Ukraine had accepted a proposal during talks in Oslo the day before, October 20. As a goodwill gesture ahead of the meeting, Russia released Stephen Hubbard, a 74-year-old American who had been detained. Reports note the two sides remain far apart on core issues such as security guarantees and territory. [Reliability: High] (Consistently reported by multiple independent outlets including Axios, CBS News, Al Jazeera and ABC News/CNN; some details, such as the manner of Kushner's participation, vary by outlet.)"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "region": "サンクトペテルブルク",
+    "lat": 59.9343,
+    "lon": 30.3351,
+    "occurredAt": "2026-10-21T12:00:00+00:00",
+    "source": {
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+    },
+    "reliability": "high"
   }
 ]
