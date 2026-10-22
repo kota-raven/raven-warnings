@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-10-20-02",
-    "headline": {
-      "ja": "中国の7〜9月期GDP、前年同期比4.5%成長 輸出主導で市場予想・前期を上回る",
-      "en": "China's Q3 2026 GDP grows 4.5% year-on-year, beating forecasts and the prior quarter on strong exports"
-    },
-    "summary": {
-      "ja": "中国国家統計局(NBS)は10月19日(月)、2026年7〜9月期の実質GDPが前年同期比4.5%増となったと発表したと新華社等が報じたという。ロイター調査の事前予測(4.4%増)および4〜6月期(4.3%増、3年超ぶりの低水準)を上回ったとされる。前期比では1.2%増(予測1.1%増)で、1〜9月期累計では前年同期比4.6%増になったという。一方、1〜9月の固定資産投資は前年同期比7.2%減、不動産開発投資は同20.6%減と大きく落ち込み、小売売上高の伸びも1.1%増にとどまったと報じられたという。輸出が成長を主導した形だが、EUとの貿易摩擦激化などにより今後の輸出の先行きには不透明感があるとされる。[信頼性: 高](新華社〈国家統計局発表〉、U.S. News、Vantage Markets等が同趣旨で報道)",
-      "en": "Xinhua and other outlets reported that China's National Bureau of Statistics (NBS) said on Monday, October 19, that real GDP grew 4.5% year-on-year in the third quarter of 2026, beating a Reuters poll forecast of 4.4% and improving on the prior quarter's 4.3% (a more-than-three-year low). Quarter-on-quarter growth was reportedly 1.2% (vs. a 1.1% forecast), bringing year-to-date growth for the first three quarters to 4.6%. At the same time, fixed-asset investment reportedly fell 7.2% year-on-year over the first nine months, with real-estate development investment down 20.6% and retail sales growth slowing to 1.1%. Exports were reported to have driven the growth, though outlets noted uncertainty ahead given escalating trade tensions with the EU. [Reliability: High] (Consistently reported by Xinhua citing the official NBS release, U.S. News, and Vantage Markets.)"
-    },
-    "category": "economy",
-    "country": "中国",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "occurredAt": "2026-10-19T02:00:00+00:00",
-    "source": {
-      "name": "新華社(Xinhua)",
-      "url": "https://english.news.cn/20261019/6c02c8b4fcdb48f9b6a043076673c046/c.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-20-03",
-    "headline": {
-      "ja": "イエメン・シャブワ州でフーシ派の攻撃により政府軍訓練キャンプで58人死亡、200人超負傷・14人不明",
-      "en": "Houthi attack on Yemeni government training camp in Shabwa kills 58, wounds over 200, leaves 14 missing"
-    },
-    "summary": {
-      "ja": "Reuters、CBCニュース、Al-Monitor等によると、イエメン南部シャブワ州の政府治安部隊訓練キャンプ(アル・アラムキャンプ)が、フーシ派による弾道ミサイル(3発)の攻撃を受け、シャブワ州知事アワド・アル・ワズィール氏によると58人が死亡、200人超が負傷、14人が行方不明になったという。被害者はシャブワ州内部治安部隊の新規採用の訓練生で、前線から離れた場所での訓練中だったと政府報道官が述べたという。フーシ派の軍事報道官ヤヒヤ・サリー氏は同キャンプを「サウジ軍が運営するもの」として攻撃を認める声明をXに投稿したという。暫定大統領評議会(PLC)は強い対応を行うと表明したという。これとは別に、フーシ派は過去48時間以内に、サウジアラビアのシャイバ油田、リヤドのキング・ハーリド国際空港、アブハ国際空港、ヤンブーのアラムコ施設への攻撃を実施したと主張しているが、サウジ当局が確認したのはダーランのアラムコ事務棟への攻撃1件(死傷者なし)のみで、他の主張内容は未確認という。[信頼性: 高](Reuters発の報道をCBC・Al-Monitor等が一致して引用。サウジ施設への攻撃主張部分は未確認情報)",
-      "en": "According to Reuters, CBC News and Al-Monitor, a Houthi ballistic-missile attack (three missiles) on a Yemeni government security forces training camp (Al-Alam camp) in Shabwa province reportedly killed 58 people, wounded more than 200 and left 14 missing, according to Shabwa Governor Awad al-Wazir. The victims were reportedly new recruits of Shabwa's internal security forces undergoing training far from the front lines, a government spokesman said. Houthi military spokesman Yahya Saree reportedly claimed the attack on social media, describing the camp as being run by Saudi forces. Yemen's Presidential Leadership Council reportedly vowed a firm response. Separately, the Houthis claim to have struck Saudi Arabia's Shaybah oil field and airports in Riyadh and Abha, as well as an Aramco facility in Yanbu, within the past 48 hours; Saudi authorities have only confirmed one incident, at an Aramco administrative building in Dhahran, with no casualties, and the other claims remain unverified. [Reliability: High] (Consistently reported by CBC and Al-Monitor citing Reuters; the claims of strikes on Saudi facilities remain unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "region": "シャブワ州",
-    "lat": 14.5452,
-    "lon": 46.8304,
-    "occurredAt": "2026-10-19T00:00:00+00:00",
-    "source": {
-      "name": "CBC News",
-      "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-government-forces-camp-9.7386538"
-    },
-    "reliability": "high",
-    "severity": 4
-  },
-  {
     "id": "2026-10-20-04",
     "headline": {
       "ja": "フランス、パリ・リヨン等主要都市で夜間外出禁止令を発令 抗議デモの暴動化続く、逮捕者2,500人超・被害店舗3,000件超",
