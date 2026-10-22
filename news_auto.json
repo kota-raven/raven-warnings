@@ -23,6 +23,30 @@
     "eventKey": "sudan_drone_attacks_civilian_crisis_2026-10-22"
   },
   {
+    "id": "auto-25554",
+    "headline": {
+      "ja": "イエメン武装勢力がサウジアラビア国防施設の攻撃を発表",
+      "en": "Yemeni forces announce attacks on Saudi Arabian defense facilities"
+    },
+    "summary": {
+      "ja": "イエメン武装勢力は、過去48時間でサウジアラビアのリヤド国防省、ヤンブア石油施設、キングファハド空港、アブハ空港の4つの主要施設をミサイルとドローンで攻撃したと発表した。",
+      "en": "Yemeni armed forces announced attacks on four major Saudi Arabian targets including the defense ministry building in Riyadh, an Aramco facility in Yanbu, and King Fahd and Abha airports using ballistic missiles and drones."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-22T13:22:48+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86300432/Yemeni-forces-target-Saudi-defense-ministry-oil-and-airport"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_saudi_attack_2026-10-22",
+    "severity": 4
+  },
+  {
     "id": "auto-25121",
     "headline": {
       "ja": "イスラエル軍、南レバノンを空爆・砲撃",
@@ -674,6 +698,30 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "north_korea_kim_jong_un_photos_oct2026"
+  },
+  {
+    "id": "auto-21439",
+    "headline": {
+      "ja": "フーシ派がイエメン政府支配地の兵営にミサイル攻撃、73人殺害",
+      "en": "Houthi missile strike on Yemen training camp kills 73 recruits"
+    },
+    "summary": {
+      "ja": "イエメンの反政府勢力フーシ派がシャブワ州の政府軍訓練センターへミサイル3発で攻撃し、採用予定者73人が殺害されたと報告された。",
+      "en": "Houthi forces launched a missile strike with three missiles against a government-controlled military training camp in Shabwa province, Yemen, killing 73 recruits according to local authorities."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-20T14:09:42+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthi_missile_attack_shabwa_2026-10-20",
+    "severity": 4
   },
   {
     "id": "auto-21860",
@@ -2857,143 +2905,5 @@
     "auto": true,
     "eventKey": "bend_oregon_school_shooting_2026-10-15",
     "severity": 4
-  },
-  {
-    "id": "auto-12672",
-    "headline": {
-      "ja": "黒海での商船無人機攻撃をフランス外務省が報告",
-      "en": "France's Ministry of Europe and Foreign Affairs reports drone attacks on commercial ships in Black Sea"
-    },
-    "summary": {
-      "ja": "フランス外務省は、黒海における商用船舶への無人機攻撃について公式に報告した。",
-      "en": "France's Ministry of Europe and Foreign Affairs issued an official report on drone attacks targeting commercial vessels in the Black Sea."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-15T20:42:24+00:00",
-    "source": {
-      "name": "フランス 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEZ6T0d2UFdzVEFkWnplckRNUTJVdXFmWEgxWWhTSTNIZTNUVUpRbGhIWnNJSUhSanJ4NEl6WFkyVy12eU9aSkJqYmhPaW5XZ2IzYXA5d0JGOXpOODE4anVhS3VxMjNIQkRJQUo3OWN3Vm5sWExfZjgtNThadGg4b3ZSRVk5OUJFcjlhaUoxbUY0N05EMmpXM0w1U3ZqakxCU09QTUdxc1NlY2d5blJSWldudHl3d2xhdEhXUUxUS2E3RmEwRzJyTG9DbU4zdU0wR1ZCbUpVQ01KUFktaHUzVA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "black_sea_merchant_ship_drone_attack_2026-10-15"
-  },
-  {
-    "id": "auto-12330",
-    "headline": {
-      "ja": "メキシコ北西部、熱帯低気圧レイチェルで8人死亡",
-      "en": "Death toll from Tropical Storm Rachel rises to 8 in northwestern Mexico"
-    },
-    "summary": {
-      "ja": "メキシコ北西部を襲った熱帯低気圧レイチェルにより、死者が8人に上った。",
-      "en": "Tropical Storm Rachel caused 8 deaths in northwestern Mexico."
-    },
-    "category": "disaster",
-    "country": "メキシコ",
-    "lat": 19.4285,
-    "lon": -99.1277,
-    "occurredAt": "2026-10-15T20:17:17+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeC0yM3ZhYk1Rb1dtdklnbnhqc3BlcVg0b2d4WllnTC1EMVloNE5kSHkwd1Z0a0RnWlBKNkc5LVJVSXBnRGFvQmFWenF0QzNaV3RxbmlSQ29uSS1BVmJvRGwyM1dzMmo5T2dkbXA5R3p6T2ViTXhNbFpkWUZnVFVHNWVrV3BYem5pMVFma0Nn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "mexico_tropical_storm_rachel_2026-10-15"
-  },
-  {
-    "id": "auto-11800",
-    "headline": {
-      "ja": "ウクライナがイギリスからストームシャドウミサイルを追加供与",
-      "en": "Ukraine to receive additional batch of Storm Shadow cruise missiles from UK"
-    },
-    "summary": {
-      "ja": "ウクライナがイギリスからストームシャドウ巡航ミサイルの追加供与を受けることになった。",
-      "en": "Ukraine will receive additional batch of Storm Shadow cruise missiles from the United Kingdom."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-15T18:19:13+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20524"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_storm_shadow_missiles_uk_2026-10-15"
-  },
-  {
-    "id": "auto-11799",
-    "headline": {
-      "ja": "フーシ派がアデンの大統領官邸をミサイル攻撃",
-      "en": "Houthi missile strike on Aden presidential residence"
-    },
-    "summary": {
-      "ja": "フーシ派がイエメンのアデンにあるアル・マーシク大統領官邸をミサイル攻撃したと報じられている。",
-      "en": "Houthi movement launched missile strike on Al-Maashiq presidential residence in Aden, Yemen."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-15T18:18:00+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20523"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "houthi_aden_palace_strike_2026-10-15"
-  },
-  {
-    "id": "auto-11797",
-    "headline": {
-      "ja": "ロシアがロストフ地域に無人機基地を建設中",
-      "en": "Russia building major new drone base in Rostov region"
-    },
-    "summary": {
-      "ja": "ロシアがロストフ地域にジェット動力無人機の新基地を建設中だと報じられている。",
-      "en": "Russia constructing major new base for jet-powered drones in Rostov region."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 47.4487,
-    "lon": 40.1097,
-    "occurredAt": "2026-10-15T17:52:45+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20521"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "russia_drone_base_rostov_2026-10-15"
-  },
-  {
-    "id": "auto-11759",
-    "headline": {
-      "ja": "フーシ派がイエメン大統領宮殿をミサイル攻撃",
-      "en": "Houthis strike Yemen's presidential palace with missiles"
-    },
-    "summary": {
-      "ja": "フーシ派がイエメンのアデンにある大統領宮殿をミサイルで攻撃した。",
-      "en": "Houthi movement launched missile strike on Yemen's presidential palace in Aden."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-15T16:50:42+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "houthi_aden_presidential_palace_2026-10-15"
   }
 ]
