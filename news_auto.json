@@ -1,5 +1,100 @@
 [
   {
+    "id": "auto-24301",
+    "headline": {
+      "ja": "イラン革命防衛隊、攻撃国への侵略を誓約 防衛方針が「攻撃的」に転換",
+      "en": "Iran's IRGC vows invasion of any attacking nation; defense doctrine becomes offensive"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊（IRGC）は、自国を攻撃する国への侵略を誓約。新しい防衛方針は従来の防衛的から「攻撃的かつ非対称的」へ転換した。",
+      "en": "Iran's IRGC vows to invade any country attacking Iran, marking a shift to an 'offensive and asymmetrical' defense doctrine."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-22T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_irgc_offensive_doctrine_2026-10-22",
+    "severity": 4
+  },
+  {
+    "id": "auto-23749",
+    "headline": {
+      "ja": "キーウ攻撃後、ロシアが和平交渉の再開意思を表明",
+      "en": "Russia signals willingness to resume Ukraine peace talks after Kyiv missile strike"
+    },
+    "summary": {
+      "ja": "ロシア政府は和平交渉の再開に「原則的に同意」すると表明。米大統領は「戦争終結に最も近い状態」と述べた。",
+      "en": "Russia signals readiness to resume peace talks in principle; US President says world is closest to ending the war."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-21T21:27:41+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_peace_talks_2026-10-21",
+    "severity": 5
+  },
+  {
+    "id": "auto-24203",
+    "headline": {
+      "ja": "サウジアラムコ施設へのドローン攻撃で2名が死亡",
+      "en": "Two killed in drone attack on Saudi Aramco facility"
+    },
+    "summary": {
+      "ja": "サウジアラムコの施設がドローン攻撃を受け、2人が死亡した。",
+      "en": "Two people killed in a drone attack targeting a Saudi Aramco facility."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-21T20:23:45+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jeUo5ZUk4SXlRM3E3cl9NbEVFaGJFb3Byc1ZfdWljTHl5V2E2dEdfMEtfNGczY3RYNk5zaXYzOWlENXpm0gFKQVVfeXFMUGNWdTFla3lxSERjQklmZWJHeXpBRXRIQzJxa045X3ZLSDUwOUE3UUI1YnJpaldvUE9zUXd2NlA1REEzU3hreEdJaWc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_aramco_drone_attack_2026-10"
+  },
+  {
+    "id": "auto-23786",
+    "headline": {
+      "ja": "イエメン南部、訓練兵75名がフーシュ派ミサイル攻撃で死亡",
+      "en": "Houthi missile strike on Yemen training camp kills 75 recruits"
+    },
+    "summary": {
+      "ja": "イエメン南部の訓練キャンプがフーシュ派のミサイルで攻撃され、75名の訓練兵が死亡。南部では大規模な合同葬礼が実施された。",
+      "en": "A Houthi missile strike on a training camp in southern Yemen killed 75 recruits; mass funeral held."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-21T18:29:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthi_training_camp_strike_2026-10-21",
+    "severity": 4
+  },
+  {
     "id": "auto-23100",
     "headline": {
       "ja": "イエメンがフーシ派位置への空爆実施、アデン空港へのミサイル攻撃を報告",
@@ -21,6 +116,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_aden_airstrikes_oct2026"
+  },
+  {
+    "id": "auto-24101",
+    "headline": {
+      "ja": "イエメン、ハドラマウト空港へのフーシュ派ドローン攻撃を報告",
+      "en": "Yemen reports Houthi drone attack on Hadramout airport and missile strikes on Aden"
+    },
+    "summary": {
+      "ja": "イエメン政府は、ハドラマウト空港へのフーシュ派ドローン攻撃及びアデンへのミサイル攻撃が実施されたと報告した。",
+      "en": "Yemen reports Houthi drone attacks on Hadramout airport and missile strikes on Aden."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-21T09:47:53+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDlmbk1VUUxpX3p3QlpaUnZkSUUtWk1WdFlMRHg3LTdmU1BHZzBUUUl5QV95ZEpyeFRVVm1yS1hKU2N4Q2R2bG52LU5ZWGJmTU1hTGVGdkJqbDRVd0VLeXE2cWwyNGxmY0h4Y0xQOW02dDROZU8xcGxlTG5HcEt3NDY1dUkzMlZGbmdhbFI2NEkzUWtUbTNxVHQ3SzI3Y00xT0xiajdNUkhjWmdiY3lOQXVSaFVwRFVDODZlYg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthi_hadramout_aden_2026-10-21"
   },
   {
     "id": "auto-23399",
@@ -2971,97 +3089,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "south_korea_stock_market_crash_2026-10-15"
-  },
-  {
-    "id": "auto-10267",
-    "headline": {
-      "ja": "ウクライナが SpaceX による Starlink 軍事利用制限を訴える",
-      "en": "Ukraine says SpaceX restricts military Starlink services"
-    },
-    "summary": {
-      "ja": "ウクライナは SpaceX が軍事用 Starlink サービスの制限を行っており、ドローン作戦に支障が出ていると訴えている。",
-      "en": "Ukraine reports that SpaceX is restricting military Starlink services, disrupting drone operations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-15T02:18:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVNraVp0WlFQZnB4Q0VUQzktQTc4aEh6SS1felNyOWsyZWtaSGlDVHZ2MERrVnBFakJmSXluTEJYS1M5YU1TY0VQaDNQVWEyTDlkbm0xYnhYaFZ2Nkg1eXNweTAyc1lLbk14ei0tT2JNMnAtUm9YRUp3QXpROVBWdUl3OGlDdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_starlink_restriction_2026-10-15"
-  },
-  {
-    "id": "auto-10263",
-    "headline": {
-      "ja": "北朝鮮、潜水艦発射戦略巡航ミサイル実験を実施",
-      "en": "DPRK test-fires submarine-launched strategic cruise missiles"
-    },
-    "summary": {
-      "ja": "北朝鮮が潜水艦から発射可能な戦略巡航ミサイルの実験を実施したと発表した。",
-      "en": "The DPRK announced the successful test-firing of submarine-launched strategic cruise missiles."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-15T01:16:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE1ON1V4bC1jUjRkeGdmcEgwSlZZZnB6aUdHSVJzX01yX01Uc3V2RjJ0akRTYzZzaW5jaFNTODU3RTdYMkJlLS1pMnBWSmN3LXVYaGxfZVBTeGl2R2ZoMEUtTkNxQXRTVTZvVlo4WGFRSGNJYTlGODQ1eHBvUG83YU13X1dfN01PS18yZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "north_korea_submarine_cruise_missile_test_2026-10-15"
-  },
-  {
-    "id": "auto-10580",
-    "headline": {
-      "ja": "イスラエルが南レバノンに空爆、民間人2人が負傷",
-      "en": "Israeli airstrike injures 2, including child, in southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエルが南レバノンへの空爆を実施し、子どもを含む民間人2人が負傷した。",
-      "en": "An Israeli airstrike on southern Lebanon injured 2 civilians, including a child."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-14T23:16:56+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODItTG80R1V6NXRWMmJFeUppaEJNM1FYbTVDSXNLX1VrVi1PTzhVVVVNTzlDbU01NktjdXh1aXZaOGxvVUVUTVBhcFdWdDZMbmdCd3EwVlhadEpYTHVvSVIxZjd3NTBUc243VDh1RFhVbGxta1BmT0pMbWdvTnRUZUwyU2FCZ3d5eTVVNFpFRl9ueXVGV1Rta0E0cTdUX1JNeGZxNldDTWpfLVd2YWpXa0FTMEN5Z3JqaWZnbA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_southern_lebanon_airstrike_civilian_casualties_2026-10-14"
-  },
-  {
-    "id": "auto-10569",
-    "headline": {
-      "ja": "フーシ派、サウジアラビア戦闘機がイエメン北部上空で撃墜されたと主張",
-      "en": "Yemen's Houthis claim missile hit Saudi fighter jet over northern Yemen"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派がサウジアラビアの戦闘機がイエメン北部上空で撃墜されたと主張した。",
-      "en": "Yemen's Houthis claimed that a Saudi fighter jet was shot down over northern Yemen."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-14T22:52:02+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMHpqRzlsQW1mblFNazZ3LXlPVnQ3ejhuS20xRnF1QUN4TUM3OFJPQnNiUTNFclBrMmxmTjJCN0RhZ1B5NEh3TzV6dUNkejBNNnlySEN4SHRSbVN3UDFuMGN6R3ltSzFqSVM5S0JZS1Jpam5DdlFBbURDNEw4Ni1IQU8zb0NWaVVXUzBGQzhoU28yNElxVW4xYzhROHhpSWtLS2JGdXBvVjlYUWxwd1o5Vw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_houthis_saudi_fighter_jet_claim_2026-10-14"
   }
 ]
