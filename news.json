@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-20-04",
-    "headline": {
-      "ja": "フランス、パリ・リヨン等主要都市で夜間外出禁止令を発令 抗議デモの暴動化続く、逮捕者2,500人超・被害店舗3,000件超",
-      "en": "France imposes nighttime curfews in Paris, Lyon and other major cities as cost-of-living protests turn violent; over 2,500 arrested, 3,000+ businesses damaged"
-    },
-    "summary": {
-      "ja": "France24、CNN、ABC News、CNBC等によると、フランス国内で続く生活費高騰等への抗議デモの暴動化(既報〈id: 2026-10-18-03〉)を受け、フランス政府・各都市当局は10月19日(月)夜から20日(火)未明にかけて、パリ(共和国広場・レアール地区、23時〜翌6時)、リヨン(21時〜翌6時)のほか、マルセイユ・ニース・リール・ボルドー等の主要都市で夜間外出禁止令を発令し、20時以降の集会・デモも禁止したという。これまでの暴動で全国の逮捕者数は2,500人超(報道により差異あり)、損壊・略奪に遭った店舗は3,000件超に上るとされるという。ルコルニュ首相は、外出禁止令により「平穏な一夜」になったと述べ、必要な地域では新たな外出禁止令を発令する方針を示したという。一方、マクロン大統領の中東3カ国歴訪について、対応の遅れを批判する声も強まっているという。[信頼性: 高](France24、CNN、ABCニュース、CNBCが一致して報道)",
-      "en": "According to France24, CNN, ABC News and CNBC, French authorities imposed overnight curfews from Monday night, October 19, into Tuesday morning in Paris (Place de la République and Les Halles, 11 p.m.–6 a.m.), Lyon (9 p.m.–6 a.m.) and other major cities including Marseille, Nice, Lille and Bordeaux, and banned gatherings after 8 p.m., following continued rioting amid cost-of-living protests (continuation of previously reported id: 2026-10-18-03). Nationwide arrests reportedly topped 2,500 (figures vary by outlet), with more than 3,000 businesses damaged or looted. PM Sébastien Lecornu said the curfews produced a 'calm' night and that new curfews would be imposed where needed. Criticism of President Macron's three-country Middle East tour was reportedly growing. [Reliability: High] (Consistently reported by France24, CNN, ABC News and CNBC.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-19T21:00:00+00:00",
-    "source": {
-      "name": "France24",
-      "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-20-05",
     "headline": {
       "ja": "原油価格、フーシ派のサウジ関連攻撃を受け2024年以来の高値圏に急伸 米株式市場は下落",
@@ -168,6 +147,28 @@
     "source": {
       "name": "Axios",
       "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-23-02",
+    "headline": {
+      "ja": "スーパー台風「ロサール」(国際名チャンピ)、2026年フィリピン近海で最強の台風に 上陸なしもバタネス諸島等に影響",
+      "en": "Super Typhoon Rosal (Champi) becomes strongest cyclone of 2026 near the Philippines; no landfall but Batanes islands affected"
+    },
+    "summary": {
+      "ja": "フィリピン気象庁(PAGASA)は、10月20日にフィリピン管轄海域(PAR)に入ったスーパー台風「ロサール」(国際名:チャンピ)が、2026年にフィリピン近海で発生した台風として最強になったと発表した。中心付近の最大風速は約215km/h、最大瞬間風速は265km/hに達したという(衛星観測ベースの一部報道では瞬間最大296km/hとする推定もあり、算出方法の違いによる差とみられる)。フィリピン本土への直接上陸はないとされるが、北部ルソン及び最北端のバタネス諸島では強風・高波(最大8m)・大雨の影響が出ており、バタネス諸島には暴風警報(シグナル)が発令された。同台風は10月24日未明にかけてフィリピン管轄海域を抜ける見通し。",
+      "en": "The Philippine weather bureau PAGASA said Super Typhoon Rosal (international name Champi), which entered the Philippine Area of Responsibility on October 20, became the strongest tropical cyclone to form near the Philippines in 2026. Maximum sustained winds near the center reached about 215 km/h, with gusts up to 265 km/h (some satellite-based reports cite a peak gust of 296 km/h, likely reflecting differing measurement methods). While direct landfall on the Philippines is not expected, northern Luzon and the northernmost Batanes islands have seen strong winds, waves up to 8 meters, and heavy rain, prompting wind signal warnings for Batanes. The storm is forecast to exit the PAR by early morning on October 24."
+    },
+    "category": "disaster",
+    "country": "フィリピン",
+    "region": "バタネス州",
+    "lat": 20.4486,
+    "lon": 121.9709,
+    "occurredAt": "2026-10-22T06:00:00+00:00",
+    "source": {
+      "name": "Philstar / Rappler / GMA Network (PAGASA発表報道)",
+      "url": "https://www.philstar.com/headlines/2026/10/22/2564850/rosal-declared-strongest-cyclone-2026"
     },
     "reliability": "high"
   }
