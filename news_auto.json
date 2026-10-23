@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-27035",
+    "headline": {
+      "ja": "スーダン飢饉リスク、国際社会が共同声明で警告",
+      "en": "International partners issue joint statement on famine risk in Sudan"
+    },
+    "summary": {
+      "ja": "スペインを含む国際社会がスーダンの飢饉リスクに関する共同声明を発表した。",
+      "en": "International partners, including Spain, issued a joint statement addressing the risk of famine in Sudan."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-23T17:16:17+00:00",
+    "source": {
+      "name": "スペイン 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHZfcldNSFhxeWVSV1ZuVHJSRkpoVHJ0bTRRdGZhOHJvZTBEWVZlUVFTQmJndG9qaWFUa215VFNuWWxRMk9Ocjd0WTgyUmZoVTlIZk5oWUpReUhuM1lBTm1zWjJDcTJzV21nMXQzNmtXOWtxRWp2TmxvVWhSRVIzcHBmM2R6NThZeTZiLUdTeVpkMWRCSWVLb1F6M19BWXBYV3pxV2QyM01yT0hNT3JveGtOS3ZXcFdIM2R5eHpoVHRnOXk3YWc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_famine_risk_international_statement_2026-10"
+  },
+  {
     "id": "auto-26963",
     "headline": {
       "ja": "イスラエル軍、レバノン南部に空爆と砲撃を実施",
@@ -21,6 +44,52 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "lebanon_israeli_airstrikes_2026-10-23"
+  },
+  {
+    "id": "auto-27140",
+    "headline": {
+      "ja": "ネタニャフ首相、1967年以来最大の西岸作戦を発表",
+      "en": "Netanyahu announces largest operation in West Bank since 1967"
+    },
+    "summary": {
+      "ja": "イスラエルのネタニャフ首相が、1967年以来最大の西岸での軍事作戦を発表した。",
+      "en": "Prime Minister Netanyahu announced the largest military operation in the West Bank since 1967."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-23T12:40:35+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LRHZZaG1HeXNBX3YzN3M2MExKYnE1dEZfUGREb05ERGFrRnBhczdkczNqSnFOc2VRUG01YlV1WXhYMF9XR05WT0dB0gFKQVVfeXFMT0tEdllobUd5c0FfdjM3czYwTEpicTV0Rl9QZERvTkREYWtGcGFzN2RzM2pKcU5zZVFQbTViVXVZeFgwX1dHTlZPR0E?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_west_bank_operation_2026-10"
+  },
+  {
+    "id": "auto-27006",
+    "headline": {
+      "ja": "パレスチナ、イスラエル軍がジェニン地域住民に1週間以内の退去を命令",
+      "en": "Israeli forces order evacuation of Jenin area families within one week"
+    },
+    "summary": {
+      "ja": "イスラエル軍がジェニン地域の住民に1週間以内に家と家畜舎から退去するよう命令した。",
+      "en": "Israeli military forces issued orders for families in the Jenin area to evacuate their homes and livestock shelters within one week."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 32.4594,
+    "lon": 35.3009,
+    "occurredAt": "2026-10-23T12:22:08+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fdzZjMUJrM1BWZzQyQnJ4WEdqbmt1MWItRV82bWF5aEg3TnNsT2kxdTBCWWxfVktfNGJtaldrVklMcFp1RGNMcHNBVjhtRzBKYksxSGllVQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_jenin_evacuation_order_2026-10"
   },
   {
     "id": "auto-26900",
@@ -139,6 +208,29 @@
     "severity": 4
   },
   {
+    "id": "auto-26992",
+    "headline": {
+      "ja": "ケニア、エチオピアの武力紛争激化に対応し緊急援助を開始",
+      "en": "Kenya launches emergency aid efforts as hundreds flee deadly clashes in Ethiopia"
+    },
+    "summary": {
+      "ja": "ケニアが、エチオピアの紛争激化により数百人が難民化したことに対応し、緊急援助活動を開始した。",
+      "en": "Kenya has launched emergency aid efforts in response to deadly clashes in Ethiopia that have forced hundreds to flee."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 9.025,
+    "lon": 38.7469,
+    "occurredAt": "2026-10-23T00:50:29+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzFpZG41aExldEZVdzBrUURocFNVdGhVTmtaTnY2SlR3UUdnOGN1Um54WWxfVFNOZi1VSmJZd0ZfSzB0QU56MV82TUpDaW1qaVlJUzEtbDZNUnZxNEVIZDFPMWJ2VUhPR19lNkFlcFZvLTA5SlRWU0ROdnFweWFBY0h5cm5uZDNoWElKaExRUTFlR1JEb3RpWlVGQXo4QVJkM2EtZk5EZEtyX0JFOTJ3RU5MLXM3OXc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ethiopia_kenya_border_conflict_2026-10"
+  },
+  {
     "id": "auto-26340",
     "headline": {
       "ja": "チベット地域でマグニチュード7.0の大地震、16人が死亡",
@@ -208,6 +300,29 @@
     "auto": true,
     "eventKey": "ukraine_missile_strike_after_peace_talks_2026-10-22",
     "severity": 4
+  },
+  {
+    "id": "auto-27005",
+    "headline": {
+      "ja": "パレスチナ、イスラエルの空爆でガザで1名が死亡、13人が負傷",
+      "en": "Palestinian killed in Israeli strike in central Gaza, 13 injured in Gaza City"
+    },
+    "summary": {
+      "ja": "イスラエルの空爆によりパレスチナ人1名が死亡し、ガザシティで13人が負傷した。",
+      "en": "One Palestinian was killed in an Israeli airstrike in central Gaza, with 13 others wounded in Gaza City."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-22T14:17:33+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rVUJ5bnBINGtYcEl2MVpCbGdCa3BFNjdwQ0VJakRJNmFyMGJuWThwcVVLdEhBNTBpM19PUEZPaXZJXzJFQk1NRWRXU1JkZHNvaGhPM2ZEcw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_israel_airstrikes_gaza_2026-10"
   },
   {
     "id": "auto-25343",
@@ -2536,28 +2651,5 @@
     "auto": true,
     "eventKey": "iran_hormuz_tanker_mine_fire_2026-10",
     "severity": 4
-  },
-  {
-    "id": "auto-14723",
-    "headline": {
-      "ja": "ロシア軍がウクライナの戦略目標への攻撃継続を報告",
-      "en": "Russian forces striking strategic targets in Ukraine"
-    },
-    "summary": {
-      "ja": "ロシア軍参謀総長ゲラシモフは、ウクライナの戦略目標への攻撃を継続していると述べた。",
-      "en": "Russian military chief Gerasimov stated that Russian forces are conducting strikes on strategic targets in Ukraine."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-16T21:16:36+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nNUNib1VrOUJiWUg3ekJOS2JnOUpDNHRJU1F2dzBzX0Itdy1rNGxIaVJkc3R6RlpkQXFhemdUNmsyRWNTaW9UetIBTkFVX3lxTFBfN1YtQjRRSW1fdUxmZ3pSd0hucU5qT2FRNEU1bWlzWThhXzlzeG03UThOQ1NrX1A1LWRQQ0JTajFvWmluTy02WENtX2Zjdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_strategic_targets_2026-10"
   }
 ]
