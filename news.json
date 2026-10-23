@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-20-05",
-    "headline": {
-      "ja": "原油価格、フーシ派のサウジ関連攻撃を受け2024年以来の高値圏に急伸 米株式市場は下落",
-      "en": "Oil prices surge to highest since 2024 on Houthi attacks tied to Saudi Arabia; US stocks fall"
-    },
-    "summary": {
-      "ja": "Yahoo Finance、Benzinga、CNBC等によると、10月20日(火)の米国市場前場、フーシ派によるサウジアラビアの石油・空港関連施設への攻撃主張や中東情勢の緊迫化を背景に、原油価格が2024年夏以来の高値圏まで急伸したと報じられたという。具体的な価格については報道間に差異があり、Fortuneは同日午前8時15分(米東部時間)時点でブレント原油が1バレル112.85ドルと報じた一方、AOLはこれより早い時間帯にブレント約109ドル・WTI約98ドル近辺と報じているという。原油高を受け、同日の米株式市場はダウ工業株30種・S&P500・ナスダック100の先物が軟調となり、ハイテク株中心に売りが広がったとBenzingaが報じたという。イラン革命防衛隊(IRGC)報道官が10月19日、ホルムズ海峡を通る海底通信ケーブル(7本)を新たな標的として挙げる旨の発言をしたことも、市場の懸念材料として報じられているという(攻撃の実行は示唆したものの、実際の攻撃には至っていない)。[信頼性: 高](原油急伸・米株軟調という事実自体はYahoo Finance、Benzinga、CNBCが一致して報道。個別の価格数値は報道間に差異があり中程度の確度)",
-      "en": "According to Yahoo Finance, Benzinga and CNBC, oil prices surged to their highest level since 2024 in US premarket trading on Tuesday, October 20, amid Houthi claims of strikes on Saudi oil and airport facilities and broader Middle East tensions. Specific price levels varied by outlet: Fortune reported Brent at $112.85 a barrel as of 8:15 a.m. ET, while AOL reported Brent around $109 and WTI around $98 earlier in the morning. The oil spike reportedly weighed on US equity futures, with Dow, S&P 500 and Nasdaq 100 futures softening and tech shares leading declines, per Benzinga. A statement by an Iranian Revolutionary Guard Corps spokesman on October 19 naming seven undersea communications cables under the Strait of Hormuz as potential new targets was also cited as a market concern, though no such attack has occurred. [Reliability: High] (The surge in oil and softness in US equities is consistently reported by Yahoo Finance, Benzinga and CNBC; specific price figures vary somewhat by outlet.)"
-    },
-    "category": "economy",
-    "country": "サウジアラビア",
-    "lat": 23.8859,
-    "lon": 45.0792,
-    "occurredAt": "2026-10-20T12:15:00+00:00",
-    "source": {
-      "name": "Benzinga",
-      "url": "https://www.benzinga.com/markets/equities/26/10/62460028/stock-market-today-dow-jones-futures-rise-nasdaq-100-falls-as-iran-threatens-to-target-undersea-cables-spcx-nflx-stld-in-focus"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-22-01",
     "headline": {
       "ja": "イエメン政府、フーシ派によるアデン・ムカッラ両空港への攻撃を非難 アデンで爆発音",
@@ -169,6 +148,28 @@
     "source": {
       "name": "Philstar / Rappler / GMA Network (PAGASA発表報道)",
       "url": "https://www.philstar.com/headlines/2026/10/22/2564850/rosal-declared-strongest-cyclone-2026"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-23-03",
+    "headline": {
+      "ja": "ロシア・ウクライナ和平協議、11月前半にUAE(アブダビ)で開催予定 クレムリンが確認、ゼレンスキー氏も支持を表明",
+      "en": "Russia-Ukraine-US talks planned for first half of November in UAE, Kremlin confirms; Zelenskyy voices support"
+    },
+    "summary": {
+      "ja": "Al Jazeera、Sputnikによると、クレムリンのペスコフ報道官は、ロシア・ウクライナ・米国による3者協議が11月前半にアブダビ(UAE)で開催される予定だと述べたという(ただし開催地については「現在協議中」とも述べたという)。ウクライナのゼレンスキー大統領は「我々はこれを支持する」と述べ、可能であれば11月の早い時期の開催を望んでいるという。ロシア大統領府のウシャコフ補佐官は、前回予定されていた協議が、ウクライナの議会選挙当日にロシアへの攻撃があったことを理由に中止されたと説明したという。協議は技術レベルで行われ、ロシア・ウクライナ間の戦後安全保障の枠組みが主要議題になる見通しと報じられている。既報(id: 2026-10-21のウィトコフ特使・プーチン氏会談、2026-10-23-01)で示された「アブダビで技術レベルの協議の可能性」が、本時間帯にクレムリン報道官自身の発言とゼレンスキー氏の公式な反応により具体化・確認された。[信頼性: 高](Al Jazeera、Axios、CBS News、Sputnik等の複数の独立したメディアが、クレムリン・ウクライナ双方の当局者発言として一致して報道。ただし開催地・具体的日程は未確定)",
+      "en": "According to Al Jazeera and Sputnik, Kremlin spokesman Dmitry Peskov said talks among Russia, Ukraine and the US are planned for the first half of November in Abu Dhabi, UAE (though he reportedly also said the venue is still 'under discussion'). Ukrainian President Volodymyr Zelenskyy said 'we support this' and said Ukraine would prefer the talks to take place as early as possible in November. Kremlin aide Yuri Ushakov reportedly said a previously planned round was cancelled after Ukrainian strikes on Russia on the day of Ukraine's parliamentary elections. The talks are expected to be held at a technical level, with a post-war security framework for Russia and Ukraine as the main topic. This confirms and sharpens the 'possible technical-level talks in Abu Dhabi' mentioned in an earlier report (id: 2026-10-23-01, on the Witkoff-Putin meeting), now via the Kremlin spokesman's own statement and Zelenskyy's public response. [Reliability: High] (Consistently reported by multiple independent outlets including Al Jazeera, Axios, CBS News and Sputnik, citing officials on both the Russian and Ukrainian sides; the exact venue and date remain unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "UAE",
+    "region": "アブダビ",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "occurredAt": "2026-10-22T18:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
     },
     "reliability": "high"
   }
