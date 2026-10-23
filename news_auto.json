@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-26963",
+    "headline": {
+      "ja": "イスラエル軍、レバノン南部に空爆と砲撃を実施",
+      "en": "Israeli Military Conducts Airstrikes and Artillery Shelling in Southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍がレバノン南部に空爆と砲撃を行い、無人機活動が激化している。",
+      "en": "Israeli military conducted airstrikes and artillery shelling in southern Lebanon amid intensified drone activity."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-23T15:01:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlGOTF3eHNRQjBKRmlaVkJROF9peTlGSkM0bV9YUWRUaDdseVRzM19Wc0dYWFVyOXVyR2ZnTzhuWThDRjJBQWFZR0FWR1NkNDF2RWpXbGttVjd0VVRWZDZ6V2tTZUthdXVJNVVrRmdQRXJiRm5IY3BMV2dPdG9nbnhiYlItZkllZlh3VzlDdkV4VFgyalo4NEN2aW0yaXEtVkVXbVQxVzVLSC1MeU94WEJMbmlUWnZEZjN4QnZUYUhZeVhmTWdWRVFvTQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "lebanon_israeli_airstrikes_2026-10-23"
+  },
+  {
+    "id": "auto-26900",
+    "headline": {
+      "ja": "サウジアラビア軍、イエメン首都サナアを空爆",
+      "en": "Saudi Military Airstrikes Hit Yemen's Capital Sanaa"
+    },
+    "summary": {
+      "ja": "イエメンメディアが10月23日、首都サナアで爆発が相次いだと報道した。",
+      "en": "Yemeni media reported multiple explosions in Yemen's capital Sanaa on October 23."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-23T11:34:22+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86301006/Saudi-airstrikes-target-Yemen-s-capital-Sanaa"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_sanaa_saudi_airstrikes_2026-10-23"
+  },
+  {
+    "id": "auto-27120",
+    "headline": {
+      "ja": "ロシア政府、ウクライナドローン攻撃で443機を撃墜したと発表",
+      "en": "Russia Claims 443 Ukrainian Drones Downed in Attack"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ウクライナによるドローン攻撃でロシア地域の443機の無人機を撃墜したと発表した。",
+      "en": "Russia announced it downed 443 drones in a Ukrainian attack on Russian regions."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-23T10:15:30+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53R1l2VkY5cVJLQi1xd2lHc1BRdXVKZ1pyTkdnMHVRUjAyWGJtRlZSMHBTN2IxeEw5TktFNVJHTFlrQm0wR0FrTlpGZjPSAVJBVV95cUxQVGMtOEFyV3d5b05OUGRRZ3VBazJQbzJ3QVI3RmZVaHMyT3JHYlljbnROYXI3VnFwOS1yM29EbGFOQVhYYVItZmVRNzZWOVgtc2Jn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_russian_regions_2026-10-23"
+  },
+  {
+    "id": "auto-27183",
+    "headline": {
+      "ja": "台湾で台風シャンピーが上陸、数百便がキャンセル、1人が死亡",
+      "en": "Typhoon Champi Shuts Taiwan, Hundreds of Flights Cancelled, 1 Death"
+    },
+    "summary": {
+      "ja": "台風シャンピーで台湾の数百便のフライトがキャンセルされ、リウキウ島で波に流された1人が死亡した。",
+      "en": "Typhoon Champi caused hundreds of flight cancellations in Taiwan; one person died after being swept away by waves on Liuqiu island."
+    },
+    "category": "disaster",
+    "country": "台湾",
+    "lat": 25.0531,
+    "lon": 121.5264,
+    "occurredAt": "2026-10-23T08:45:58+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "taiwan_typhoon_champi_2026-10-23"
+  },
+  {
     "id": "auto-26836",
     "headline": {
       "ja": "習主席が地震救助を最優先で指示",
@@ -21,6 +113,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "china_xizang_earthquake_2026-10-23"
+  },
+  {
+    "id": "auto-26957",
+    "headline": {
+      "ja": "中国チベット地域でマグニチュード7.0の地震が発生",
+      "en": "7.0-Magnitude Earthquake Strikes China's Tibet"
+    },
+    "summary": {
+      "ja": "マグニチュード7.0の地震が中国チベット地域を襲った。",
+      "en": "A magnitude 7.0 earthquake struck China's Tibet region."
+    },
+    "category": "disaster",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-23T06:46:02+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PUVZaMzJkT3VxN1NtcVctSnEzUFM4N1V4RWxMVjN0cTJQZzJrMEp6dUpZQWk1dUx2QjdDTy14MUVrbmI4enRNeHFXMzFaa1h1TXBFOU9R?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "china_tibet_earthquake_2026-10-23",
+    "severity": 4
   },
   {
     "id": "auto-26340",
@@ -2443,539 +2559,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_ukraine_strategic_targets_2026-10"
-  },
-  {
-    "id": "auto-14700",
-    "headline": {
-      "ja": "プーチン大統領、DPR解放と大規模攻撃継続を表明",
-      "en": "Putin states commitment to liberation of DPR and continuation of massive strikes"
-    },
-    "summary": {
-      "ja": "ロシア政府のプーチン大統領は、DPR解放、セキュリティゾーン設置、ウクライナへの大規模攻撃の継続を表明した。",
-      "en": "Russian President Putin stated commitment to the liberation of the DPR, establishment of a security zone, and continuation of massive strikes against Ukraine."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-16T20:10:57+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzZFlYaFMxMDBxMVo1Q2FPSUQ0TGo3WlR3UjJwQnl6RlpJZ1JvcmZyclBxSGRmRnVQMXRiTkhSa1dVZmVwejQza9IBTkFVX3lxTE92emJxNFktWENSZERtNGw1NjRwckZNSVpUZEZmZGZ4ank0UzVQN21HWC15cWtLcWJhU3dVQkh6cWdUOHBpM0NFdlhlSGRvQQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_putin_dpr_offensive_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-14646",
-    "headline": {
-      "ja": "ガザでの停戦以降、イスラエル当局による子ども340人以上の殺害が報告される",
-      "en": "UNICEF: Israeli occupation forces have killed more than 340 children in Gaza since ceasefire"
-    },
-    "summary": {
-      "ja": "UNICEFの報告によると、停戦開始後、ガザでイスラエル当局によって340人を超える子どもが殺害されたとされている。",
-      "en": "According to UNICEF, more than 340 children have been killed by Israeli forces in Gaza since the ceasefire began."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-16T19:46:12+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Xc2puMlktMVFYVGcxWTZwVWNtVlUwbl9ha2szUnk5TDJ5V3RHdEhlZG1UaDRKSnZ4b1JfVXFRM1hmWUtFTUt4S0lPS2dialhTQzhDek1IVQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_children_casualties_ceasefire_2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-16003",
-    "headline": {
-      "ja": "フーシ派のミサイルがイエメン・アデン空港に着弾",
-      "en": "2 Houthi missiles land near passenger plane at Yemen's Aden airport"
-    },
-    "summary": {
-      "ja": "トルコのアナドル通信は、フーシ派のミサイル2発がイエメンのアデン空港で客機の近くに着弾したと報道した。",
-      "en": "Anadolu Agency reports that two Houthi missiles landed near a passenger plane at Yemen's Aden airport."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-16T19:44:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVhaVFltdFhDWGpOWTBzZWNma01pQWtzVkFyTEE5dVJtQi10SE5HYW9RV3pIOWtUNWFZQ0hfNnBOS0o4MVJidUlXN1VaX2RVb1k4akdfd1hMV3haaUJwcEF4eF9rSXJGUjF4aFdjalpseTdGUV9mTXhybU5VVU9fNDFBSklYdkl1ZV9qZnZpeDlVZThyV1hOaUpXbGhfYmxwZWVTdm5kaTdKdURvYjJCZQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_aden_houthi_missile_attack_2026-10-17"
-  },
-  {
-    "id": "auto-14790",
-    "headline": {
-      "ja": "トランプ前大統領、ウクライナへのスターリンク制限を否定",
-      "en": "Trump denies limiting Ukraine's Starlink access"
-    },
-    "summary": {
-      "ja": "トランプ前大統領は、ウクライナのスターリンク・ネットワークへのアクセスを制限しているという報道を否定した。",
-      "en": "Trump denied limiting Ukraine's access to the Starlink network despite reports of speed curbs affecting Ukraine's defenses."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-16T19:33:48+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "trump_starlink_ukraine_statement_2026-10"
-  },
-  {
-    "id": "auto-14373",
-    "headline": {
-      "ja": "ウクライナ大統領、EUサミットでロシアの脅威について警告",
-      "en": "Ukraine president warns about Russian threat at EU summit"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領はEUサミットで、ロシアの野望はウクライナ東部にとどまらず、ロシアのドローン攻撃がNATOへの脅威になると警告した。",
-      "en": "President Zelenskyy warned at the EU summit that Russia's ambitions extend beyond eastern Ukraine and that Russian drone attacks threaten NATO."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-16T17:59:48+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_zelenskyy_eu_summit_nato_threat_2026-10-16"
-  },
-  {
-    "id": "auto-14735",
-    "headline": {
-      "ja": "プーチン大統領、DPRの領土の90%をロシア支配下と主張",
-      "en": "Putin claims Russia controls 90% of DPR territory"
-    },
-    "summary": {
-      "ja": "ロシア大統領プーチンは、ドネツク人民共和国（DPR）の領土の90%がロシアの支配下にあり、ウクライナ（キーフ）が支配しているのは10%に過ぎないと述べた。",
-      "en": "Russian President Putin stated that Russia controls 90% of DPR territory, with Ukraine controlling only 10%."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-16T17:41:03+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ja3J2cjVHd0ZWa1NtYUc5dkd6akhTYmFjc3N3UmtNNU9jemdSM2VzVlg4ZGlqSWRYTkVuZ0ZzbTBSWmxCR2otMW8zZkhnZ9IBTkFVX3lxTE9Ja3J2cjVHd0ZWa1NtYUc5dkd6akhTYmFjc3N3UmtNNU9jemdSM2VzVlg4ZGlqSWRYTkVuZ0ZzbTBSWmxCR2otMW8zZkhnZw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_dpr_territorial_control_2026-10"
-  },
-  {
-    "id": "auto-14740",
-    "headline": {
-      "ja": "リトアニアがレオパルド2A8戦車組立・修理施設の建設開始",
-      "en": "Lithuania starts construction of Leopard 2A8 assembly and repair facility"
-    },
-    "summary": {
-      "ja": "リトアニア国防省は、レオパルド2A8戦車の組立および修理施設の建設開始を発表した。",
-      "en": "Lithuania's defense ministry announced the start of construction for a Leopard 2A8 tank assembly and repair facility."
-    },
-    "category": "conflict",
-    "country": "リトアニア",
-    "lat": 54.6892,
-    "lon": 25.2798,
-    "occurredAt": "2026-10-16T17:08:15+00:00",
-    "source": {
-      "name": "リトアニア 国防省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1Q0UjY5UWNjWDJ6cjhkN1kyTnlSeUtBVW54blZFYXFVTWFGc2M3b0hWY1R6eV82UVNTa2FLR1dtR1A2WUhrVDRMcFkxRUQ2LU9TT1hFNlRvTmFOUjNFYzF0bm45SUxqcUZ3bnhrNGZ3MERRQXUtUWhtYjdmN2dSeVJTblk0S0R5OWppLTdUREVVSy0zSm0yVGxhc01UWmdJdXEtXzdoRjA4OU1OSnpNdWE5UQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "lithuania_leopard_tank_facility_2026"
-  },
-  {
-    "id": "auto-14732",
-    "headline": {
-      "ja": "プーチン大統領、ウクライナの防衛施設・兵站センター攻撃の継続を指示",
-      "en": "Putin calls for continuing strikes on enemy defense facilities and logistics centers"
-    },
-    "summary": {
-      "ja": "ロシア政府のプーチン大統領は、敵（ウクライナ）の防衛施設と兵站センターへの攻撃継続を呼びかけた。",
-      "en": "Russian President Putin called for continuing strikes on Ukraine's defense facilities and logistics centers."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-16T17:08:12+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50SnJVaW95NE1jNExIWUg5THlIZjc2di1OZnpWb1BlUHFCcldkOFlVbjhNSzE1YXZwSHlGVzBua0dYUThCcGNIT3dvMTlPUdIBTkFVX3lxTE50SnJVaW95NE1jNExIWUg5THlIZjc2di1OZnpWb1BlUHFCcldkOFlVbjhNSzE1YXZwSHlGVzBua0dYUThCcGNIT3dvMTlPUQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_putin_ukraine_strike_orders_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-14403",
-    "headline": {
-      "ja": "ケニアでエボラ出血熱の3番目の症例が確認",
-      "en": "Kenya confirms third Ebola case"
-    },
-    "summary": {
-      "ja": "ケニアでエボラ出血熱の3番目の症例が確認された。",
-      "en": "Kenya has confirmed the third case of Ebola virus."
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-10-16T16:54:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkJpVXA3ZkUtc3VheVc1WGNSQWFFa2hzN1dIYjI1aEtlTUY1eU1aODlIT2ZKTUNBcjRRMHQtMlBPdmZOcGJBOWJVZmNHdHRXRHRQT2swVnRGMGs2V0ZrZzhjQnlWSTNPMWJQVnhCLU03ckVmMTM0QnU1QkktRGtlTGhBdXZVUQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kenya_ebola_outbreak_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-14039",
-    "headline": {
-      "ja": "レバノン ヒズボラ爆薬押収で政治分裂",
-      "en": "Lebanon Divided Over Hezbollah's Confiscated Explosives"
-    },
-    "summary": {
-      "ja": "ヒズボラが押収爆薬はイスラエル攻撃用と主張する一方、政治指導者は暗殺への悪用を懸念している。",
-      "en": "Hezbollah claims confiscated explosives were for use against Israel, while Lebanese political figures fear they could be used for assassinations."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-16T16:09:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "lebanon_hezbollah_explosives_seizure_2026"
-  },
-  {
-    "id": "auto-14787",
-    "headline": {
-      "ja": "ウクライナの反撃作戦「オペレーション・ヴィヴァルディ」がロシア軍を後退させる",
-      "en": "Ukrainian Operation Vivaldi pushes Russia back with Starlink support"
-    },
-    "summary": {
-      "ja": "ウクライナはオペレーション・ヴィヴァルディ作戦を実施しており、スターリンクの支援を受けながらドンバスで重要な領土をロシアから奪還している。",
-      "en": "Ukraine's Operation Vivaldi is reclaiming crucial territory in the Donbas from Russian forces with key support from Starlink."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-16T16:00:30+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_operation_vivaldi_counteroffensive_2026-10"
-  },
-  {
-    "id": "auto-14701",
-    "headline": {
-      "ja": "ロシア軍がウクライナの軍事施設に無人機で攻撃",
-      "en": "Russian forces strike Ukrainian army facilities with attack drones"
-    },
-    "summary": {
-      "ja": "ロシア軍は、ウクライナ軍の格納庫・シェルター・スターリンク端末に対して無人機による攻撃を実施した。",
-      "en": "Russian forces conducted attacks with drones on Ukrainian army hangars, shelters, and Starlink terminals."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-16T15:26:06+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kYWt0MWFacWlXZTI5N3VVRThnaDZLdlBpQWNDZDlqSWkzNDJ0ek5MQzRuVjhsUGNNUGlVMlkydUh2dUJNakVZ0gFMQVVfeXFMTkxrWGo0eGtuVy1GdUNqOE4wT2tQeExRWlNWQV9yc3lYaGZ1UlA1UklYZ1VlX0hWczd0SVRSWHdMek9RTHlfMFdsQjFMTg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_drone_strike_2026-10"
-  },
-  {
-    "id": "auto-14202",
-    "headline": {
-      "ja": "サウジ連合軍 紅海でミサイル2発撃墜",
-      "en": "Saudi-led Coalition Intercepts Two Cruise Missiles over Red Sea"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合軍は、紅海上空でミサイル2発を迎撃・破壊したと発表した。",
-      "en": "Saudi-led coalition reports intercepting and destroying two cruise missiles over the Red Sea."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-16T14:42:42+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBQlc0b28waVBNaDNyVnRHZDdQc0ZSejAydXhqM1ZGX004YUYwWEk2YmNxV0Faek95b1RyemNrWnk5QXFsbmw2TGdB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_coalition_red_sea_missile_intercept_2026"
-  },
-  {
-    "id": "auto-14638",
-    "headline": {
-      "ja": "イスラエル軍、レバノン南部で空爆・砲撃・破壊活動を展開",
-      "en": "Israeli army conducts airstrikes, artillery shelling, and demolitions in southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエル軍がレバノン南部で空爆、砲撃、建物破壊などの軍事作戦を展開している。",
-      "en": "Israeli army is conducting military operations in southern Lebanon including airstrikes, artillery shelling, and demolitions."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-16T14:34:58+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWNBeVR6U1hXWm1vUVVyblpjQmxHZEw2WjFNd0lsVXdtS1Y3eUNidFQ5RzZiQVRzLUk2WXhOdS1UVFFMTkoyLVdkam1GYWFZSlFuTVppbEVLMzBYYzZPWDZyVHBnNG5TMnl3N0dKUGI3SXhwU213RWl6dDdMVXV0Ti1wazBVcGRMMnJsdVhPdGEwQmFaWE9tOGZXTEIwOUc1WmcxWjBCOEk1RmpsYURibC1qZFhZVTNoS085SXBtWVRoVWxBZi1z?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_military_operations_2026-10-16"
-  },
-  {
-    "id": "auto-13817",
-    "headline": {
-      "ja": "国連報告：イスラエル入植者によるオリーブ収穫者への攻撃が 200 件超",
-      "en": "UN: Israeli colonist attacks on olive pickers in occupied West Bank surpass 200 this season"
-    },
-    "summary": {
-      "ja": "国連の報告によると、占領下のウェストバンク地域でイスラエル入植者がオリーブ収穫者に対して行った攻撃が今季 200 件を超えた。",
-      "en": "According to UN reports, Israeli colonist attacks on Palestinian olive pickers in the occupied West Bank have exceeded 200 incidents this season."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-16T12:19:54+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BeWsxVXZiZ09CelN4ZFU1N1BxeWJHY0VIQ2RENndyWXBiZVhxeEplSWV3WXBfVXMwVDFpeWw3eGdYWk1ybUVna1FSek1RRHpUaERSMjF3RQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_west_bank_olive_pickers_attacks"
-  },
-  {
-    "id": "auto-13695",
-    "headline": {
-      "ja": "パキスタン学校の屋根崩壊で35人死亡、当局が学校検査を命令",
-      "en": "Pakistan orders school inspections following deadly roof collapse"
-    },
-    "summary": {
-      "ja": "パキスタンの学校で屋根が崩壊し、35人が死亡した。当局は全国の学校に対して安全検査を命じた。遺族は既に屋根の危険を警告していたと述べている。",
-      "en": "A school roof collapse in Pakistan killed 35 people, prompting authorities to order inspections at schools nationwide. Families claim they had previously warned about the dangerous condition."
-    },
-    "category": "disaster",
-    "country": "パキスタン",
-    "lat": 33.7215,
-    "lon": 73.0433,
-    "occurredAt": "2026-10-16T12:18:06+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "pakistan_school_roof_collapse"
-  },
-  {
-    "id": "auto-13691",
-    "headline": {
-      "ja": "ウクライナのスターリンク速度制限が米上院議員から調査要求",
-      "en": "US senators call for investigation into Ukraine's Starlink restrictions"
-    },
-    "summary": {
-      "ja": "ウクライナが一時的に導入したスターリンク通信ネットワークの速度制限が戦場での軍事任務を阻害したとして、米上院議員らが調査を求めている。",
-      "en": "US senators have called for an investigation into Ukraine's temporary speed restrictions on the Starlink internet network, which Ukraine says disrupted its battlefield operations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-16T12:16:42+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_starlink_restrictions_inquiry"
-  },
-  {
-    "id": "auto-13708",
-    "headline": {
-      "ja": "イエメン・アデンの大統領宮殿で攻撃、5人が死亡",
-      "en": "5 killed in presidential palace attack in Yemen's Aden"
-    },
-    "summary": {
-      "ja": "イエメンのアデンにある大統領宮殿が攻撃を受け、5人が死亡した。フーシ勢力はサウジ軍の将校が殺害されたと主張している。",
-      "en": "An attack on the presidential palace in Aden, Yemen, left 5 people dead. The Houthis claimed responsibility and stated that Saudi military officers were among the casualties."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-16T12:15:16+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUUnU1RFJSSm9KMHdIVzNPTTV3Q2JNMjZVaVpsYUdPYlBPSWJpYkE1dWJxT193eXRXSUpoTDZsTmp3TG9wUlhmc1Q1bzI1RHVZeUxlSVVFTy1FcUplQno3dTRUOWR3WFoxSkh5Qi15YnhuX21mTnRycnpJQnM?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_aden_presidential_palace_attack"
-  },
-  {
-    "id": "auto-13856",
-    "headline": {
-      "ja": "ウクライナの貿易ルート攻撃が世界の食糧安全保障を脅かす",
-      "en": "Attacks on Ukraine's trade routes threaten global food security"
-    },
-    "summary": {
-      "ja": "ウクライナの貿易ルートへの攻撃が継続し、世界的な食糧安全保障に危機をもたらしている。食糧へのアクセスが戦争の新たな武器になることは許されるべきではないと EU は主張している。",
-      "en": "Attacks on Ukraine's trade routes continue to threaten global food security. The EU emphasizes that access to food should not become another weapon of war."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-16T11:37:15+00:00",
-    "source": {
-      "name": "EU 欧州対外行動庁(EEAS)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWUxrZXVOMmwyMmQxZDI3M2pMRWk2Y0tvaW9FdFl3aHhHdVoyaXlfRlpnWXJFQ1pMMFVMWkliNGxyX091QnJVSFRLMkVRdmJZd0cwSUgwZFBKU254b3ZpUDZBSDJfc09tWFo2Nktxa2VCVEh2VFJyLVJaZUxpbk9sX2VFU1IyMW51cXp5THVGYUs3MFozNVFSRkJCV2YtRFNOenRVNHhUNDhvRzgwcVZqM05venVMSkxMZTBEZU1FaTFCOXpVQ3JSRlJSb2JpT0JwcDUtUmVRUTlKVlU4SzVNNnVyb21GeE1hNGFJTDgtVDNuczQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_trade_routes_food_security"
-  },
-  {
-    "id": "auto-13839",
-    "headline": {
-      "ja": "ロシア第 1 戦団がウクライナ東部で主要高速道路を支配下に",
-      "en": "Russia's Battlegroup North takes control of Volchansk-Budarki highway in Kharkov Region"
-    },
-    "summary": {
-      "ja": "ロシアの第 1 戦団がウクライナ東部ハルコフ地域のボルチャンスク・ブダルキ高速道路を支配下に置いたと報告された。",
-      "en": "Russia's Battlegroup North has taken control of the Volchansk-Budarki highway in Ukraine's Kharkov Region."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 49.9818,
-    "lon": 36.2548,
-    "occurredAt": "2026-10-16T11:13:22+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVbHBYVmNveWJRYVZoVVZLR1ZmNHI4T3QzUDRtT2F0QjNLamx0Qk5VckE0YkgtY1NWNXV5ai1pbFFRSzA2V2xv0gFMQVVfeXFMTmxsQkt0amRlZjY0NnVrTGdRcEdMZVFhTUlPaHNDOTFJRlFjMy1FcEIta0xJUDR1bDNMakk0LUxrQTZKZW96TXFHMHVUbA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_volchansk_budarki_highway",
-    "severity": 4
-  },
-  {
-    "id": "auto-13836",
-    "headline": {
-      "ja": "ウクライナの Patriot インターセプター著しく不足、供給破綻で",
-      "en": "Ukraine critically low on Patriot interceptors amid supply disruptions"
-    },
-    "summary": {
-      "ja": "ウクライナの Patriot インターセプターが著しく不足している。供給破綻により備蓄が危機的水準に達したと報道されている。",
-      "en": "Ukraine is critically low on Patriot air defense interceptors due to supply disruptions."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-16T10:56:35+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB5R2ZaOW5BMWEwaGdjd2pXSXJzbHNaQkxfcDlKc0k0LTNUYlNQdGxGVTliakxXWDM5eVlHUlpyelJVV3E40gFKQVVfeXFMTzU1SHpYMi1IZF9ZVUdNazBuazVERks2bFZ4Vk9zRzRiTGdhVFdOdWJZel9iSEpiOTJvWjJOMG1lX1FaRHhxZm9paVE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_patriot_interceptor_shortage"
-  },
-  {
-    "id": "auto-13668",
-    "headline": {
-      "ja": "ロシアがウクライナ西部を攻撃、ポーランドが戦闘機を発進",
-      "en": "Poland scrambles fighter jets as Russia strikes western Ukraine"
-    },
-    "summary": {
-      "ja": "ロシアがウクライナ西部を攻撃。NATO東側国境沿いの国々が紛争拡大のリスクに対する懸念を強めている。",
-      "en": "Russia conducted strikes on western Ukraine, prompting Poland to scramble fighter jets. NATO eastern flank countries express heightened concerns about potential escalation."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-10-16T10:56:20+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_western_strike_2026"
-  },
-  {
-    "id": "auto-13521",
-    "headline": {
-      "ja": "トランプ大統領、イラン攻撃に核兵器使用を除外",
-      "en": "Trump rules out using nuclear bomb on Iran"
-    },
-    "summary": {
-      "ja": "米国大統領が、イラン関連の軍事行動において核兵器の使用を除外すると述べた。ただし、従来型の大規模爆弾（MOAB）の使用は否定していない。",
-      "en": "The U.S. president stated that nuclear weapons would not be used in military operations against Iran, though he did not rule out other large conventional weapons."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-16T10:21:12+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_us_nuclear_escalation_2026-10-16"
   }
 ]
