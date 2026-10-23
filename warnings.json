@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T04:35:22.071Z",
+  "generatedAt": "2026-10-23T09:56:58.539Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 174,
+  "count": 173,
   "warnings": [
     {
       "id": "NAVAREA11-260480",
@@ -2922,6 +2922,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262013",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "2013",
+      "title": "南西諸島及び九州東岸、避難勧告",
+      "publishedAt": "2026-10-23T18:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2013    発表日時:2026年10月23日 18時\r\n\n\r\n南西諸島及び九州東岸\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。\r\r\n(2000削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262013&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262012",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2012",
+      "title": "浜田港北西、射撃終了",
+      "publishedAt": "2026-10-23T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2012    発表日時:2026年10月23日 17時\r\n\n\r\n浜田港北西、\r\r\n射撃終了。\r\r\n(2003削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262012&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262011",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3122,18 +3146,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262004&LANG=JP"
     },
     {
-      "id": "NAVTEX-262003",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2003",
-      "title": "浜田港北西、射撃",
-      "publishedAt": "2026-10-22T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2003    発表日時:2026年10月22日 13時\r\n\n\r\n浜田港北西、\r\r\n射撃、10月23日0700-2400、\r\r\n35-03.4N 131-51.4Eを中心とする半径5海里の\r\r\n円内。\r\r\n(1978削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262003&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262002",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3144,18 +3156,6 @@
       "geometry": null,
       "rawText": "番号:26-2002    発表日時:2026年10月22日 13時\r\n\n\r\n沖縄島南西、\r\r\n射撃、10月27日(予備28日)0800-2400、\r\r\n25-56.0N 127-30.2Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262002&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262000",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "2000",
-      "title": "南西諸島、避難勧告",
-      "publishedAt": "2026-10-22T00:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2000    発表日時:2026年10月22日 00時\r\n\n\r\n南西諸島、\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262000&LANG=JP"
     },
     {
       "id": "NAVTEX-261999",
@@ -3374,50 +3374,6 @@
       },
       "rawText": "番号:26-1970    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、10月19日-23日毎日0800-1800、\r\r\n34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E\r\r\n34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E\r\r\n34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261970&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261969",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1969",
-      "title": "巨済島南西（Ｄ−７２）、射撃",
-      "publishedAt": "2026-10-16T13:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128,
-            34.16138888888889
-          ],
-          [
-            128.19083333333333,
-            34.30027777777777
-          ],
-          [
-            128.58333333333334,
-            34.3
-          ],
-          [
-            128.58722222222224,
-            34.336666666666666
-          ],
-          [
-            128.71972222222223,
-            34.15361111111111
-          ],
-          [
-            128.58333333333334,
-            34
-          ],
-          [
-            128,
-            34
-          ]
-        ]
-      },
-      "rawText": "番号:26-1969    発表日時:2026年10月16日 13時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、10月19日、21日、23日毎日0900-1600、\r\r\n20日、22日毎日0900-2200、\r\r\n34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E\r\r\n34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E\r\r\n34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E\r\r\n34-00-00N 128-00-00Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261969&LANG=JP"
     },
     {
       "id": "NAVTEX-261955",
