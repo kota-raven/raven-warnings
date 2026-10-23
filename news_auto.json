@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-26836",
+    "headline": {
+      "ja": "習主席が地震救助を最優先で指示",
+      "en": "Xi orders all-out rescue efforts after earthquake in Xizang"
+    },
+    "summary": {
+      "ja": "中国の習近平主席は、西蔵でのマグニチュード7.0の地震を受けて、全力での救難活動を指示した。",
+      "en": "China's Xi Jinping ordered all-out rescue efforts following the magnitude 7.0 earthquake in Xizang."
+    },
+    "category": "disaster",
+    "country": "中国",
+    "lat": 31.4768,
+    "lon": 92.0573,
+    "occurredAt": "2026-10-23T06:54:59+00:00",
+    "source": {
+      "name": "中国 国防部(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLaHdSdWV4TG10YXVvOUphOGZKNW1pZnFpU1BJaUVoOVZtdUpHLUs2dzVYSnFTVVVxSnZlWDNQR25xUThtR2ZkSGo2N0V4cWk1dWFDQ3o4bHZFdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "china_xizang_earthquake_2026-10-23"
+  },
+  {
     "id": "auto-26340",
     "headline": {
       "ja": "チベット地域でマグニチュード7.0の大地震、16人が死亡",
@@ -2954,74 +2977,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iran_us_nuclear_escalation_2026-10-16"
-  },
-  {
-    "id": "auto-13274",
-    "headline": {
-      "ja": "ベルギーがウクライナにF-16戦闘機10機を年内供与予定",
-      "en": "Belgium to deliver 10 F-16 fighter jets to Ukraine this year"
-    },
-    "summary": {
-      "ja": "ベルギーの首相が、同国がウクライナにF-16戦闘機10機を今年中に引き渡す予定であることを表明した。",
-      "en": "Belgium's premier announced that the country will deliver 10 F-16 fighter jets to Ukraine before the end of this year."
-    },
-    "category": "conflict",
-    "country": "ベルギー",
-    "lat": 50.8505,
-    "lon": 4.3488,
-    "occurredAt": "2026-10-16T07:46:34+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeV9vRV9MMGdxU09oSWxPdWowSlBlVDJFbmtXc2FjY1U0a25FMXFPQVduWV9VZ1N6LXdLNjlram5BTm5IVS1FQUZiT3ZHQ2hicVJ2OFp3OHJaeVE5VDBONXVwbFdQTmw3a2NDZ2hwU3dGR2lKUFFMbFlDaUp5dFZpbmpMVXdxWHEyY29LV2dDOFN1Y0dONmR0N1NJSWZZeUttcWxjM0VXNUY3WFl1bUE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "belgium_f16_ukraine_2026"
-  },
-  {
-    "id": "auto-13972",
-    "headline": {
-      "ja": "米退役将軍がイラン有事での防空能力不足を警告",
-      "en": "Ousted U.S. general warned of missile defense shortages for Iran conflict"
-    },
-    "summary": {
-      "ja": "米国の退役将軍がイラン戦争に備えた防空システムの不足が2030年まで継続すると警告した報告書が公開された。",
-      "en": "A report revealed that a retired U.S. general warned of significant missile defense shortages that would persist until 2030 in preparation for potential Iran conflict."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-16T06:27:05+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMVd5LWZzSlNfcXNBV01KeFhFRGpvZExJLVUtMTYwZExGVkc0Qzl1Y05hZDRoZE9leDJwRXRlLW1LOFlxOTFQUm9BczFoMjIxVG14UmxVRFAybElBaUpMbFRfOUdQdHowdEEtdmJzVUtQT21qMWJlVlFOSmxGbEFhRmFfT19rOE8yeHQ0TEdZRU40MVJ1cHc3c05vWm1hWkFKeVJFUFR1bTRpMkhuREk4eks3V1lJaW9qVG8xZEN5RmJid3puclNNWThERU45ZXQ1dFBN?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_missile_defense_2026-10-16"
-  },
-  {
-    "id": "auto-13222",
-    "headline": {
-      "ja": "ロシア・カムチャッカでマグニチュード6.9の地震",
-      "en": "6.9-magnitude earthquake strikes Russia's Kamchatka"
-    },
-    "summary": {
-      "ja": "ロシアのカムチャッカ地域でマグニチュード6.9の地震が発生した。",
-      "en": "A magnitude 6.9 earthquake struck Russia's Kamchatka region."
-    },
-    "category": "disaster",
-    "country": "ロシア",
-    "lat": 53.2441,
-    "lon": 158.6522,
-    "occurredAt": "2026-10-16T05:54:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzB1NEdRNEctU1pmQnd1MDBnanR4eF9odWZKM0FpR2ZoRVlyaU14cVZkSnJOX2xGWmpTVVdnOUlKTnpxV1ZwY2t3eHc4cGVmMDhZOVdpanNJbXNfb3pkYkhibHkzaWYwbTlLTFhBRVBRM2czakhfV195Umh3V3BRVXJMVm80UQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_kamchatka_earthquake_2026-10-16"
   }
 ]
