@@ -122,6 +122,150 @@
     "periodEnd": "2026-10-29T00:00:00Z"
   },
   {
+    "id": "2026-10-22-us-000072",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Vermont",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "Yokosuka",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "バージニア級攻撃型原子力潜水艦USS Vermont、横須賀港に入港。寄港目的は休養・補給",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37281/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-22T10:15:00Z"
+  },
+  {
+    "id": "2026-10-21-cn-000065",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦「斉斉哈爾」が大隅海峡を東進し太平洋へ向けて航行",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-21T00:00:00Z"
+  },
+  {
+    "id": "2026-10-21-cn-000066",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "呼倫湖",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍高速戦闘支援艦「呼倫湖」が大隅海峡を東進し太平洋へ向けて航行",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-21T00:00:00Z"
+  },
+  {
+    "id": "2026-10-21-cn-000067",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "唐山",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦「唐山」が宮古海峡を北西進し東シナ海へ向けて航行",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34521/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-21T00:00:00Z"
+  },
+  {
+    "id": "2026-10-21-cn-000068",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "大慶",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍フリゲート「大慶」が宮古海峡を北西進し東シナ海へ向けて航行",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34521/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-21T00:00:00Z"
+  },
+  {
+    "id": "2026-10-20-cn-000064",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "荊州",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ジャンカイII型フリゲート「荊州」が大隅海峡を東進し太平洋へ向けて航行",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37268/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
     "id": "2026-10-20-jp-000059",
     "recordType": "individual",
     "country": "JP",
@@ -261,8 +405,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -285,8 +429,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -671,8 +815,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1205,8 +1349,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-08T15:15:00Z"
   },
   {
@@ -1229,8 +1373,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-14T21:21:55.191694+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-08T15:15:00Z"
   },
   {
@@ -1253,8 +1397,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-08T12:00:00Z"
   },
   {
@@ -1277,8 +1421,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-08T12:00:00Z"
   },
   {
@@ -1330,6 +1474,54 @@
     "observedAt": "2026-10-05T12:00:00Z"
   },
   {
+    "id": "-au-000062",
+    "recordType": "individual",
+    "country": "AU",
+    "shipName": "Ghost Shark",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "ゴーストシャーク無人潜水艇が機雷敷設、UAV スワーム、補給ペイロード機能を装備する予定",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/21/royal-australian-navys-ghost-shark-uuvs-will-have-minelaying-uav-payloads"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-au-000071",
+    "recordType": "individual",
+    "country": "AU",
+    "shipName": "HMAS Stuart",
+    "shipNumber": "FFH-153",
+    "shipType": "frigate",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Royal Australian Navy frigate HMAS Stuart (FFH-153)がKeen Sword 27演習に参加",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-cn-000040",
     "recordType": "individual",
     "country": "CN",
@@ -1352,6 +1544,132 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "-cn-000073",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "玉衡星",
+    "shipNumber": null,
+    "shipType": "reconnaissance",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍情報収集艦玉衡星が大隅海峡を東進し太平洋へ進出。海自あまくさ及びP-1が警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34539/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-cn-000074",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "開陽星",
+    "shipNumber": null,
+    "shipType": "reconnaissance",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍情報収集艦開陽星が宮古海峡を南進し太平洋へ進出。海自P-1が警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-34534/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000070",
+    "recordType": "aggregate",
+    "country": "JP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "JMSDF JS Ise (DDH-182)、JS Kongo (DDG-173)、JS Asahi (DD-119)がKeen Sword 27演習に参加、米国及び豪州・カナダ・フランスの艦艇と共同訓練実施中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 3,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
+    "id": "-nato-000063",
+    "recordType": "aggregate",
+    "country": "NATO",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "地中海からバルト海地域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "NATO Neptune Strike 26-4演習が開始。17NATO加盟国が参加、20隻以上の艦船と40機以上の航空機が約50の協調活動を実施",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/21/nato-kicks-off-neptune-strike-across-european-waters"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 20,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
+    "id": "-us-000069",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "carrier",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Theodore Roosevelt Carrier Strike Group (USS Theodore Roosevelt CVN-71, USS Chosin CG-65)と日本・豪州・カナダ・フランスの艦艇が集結し、Keen Sword 27演習に参加",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": null,
+    "periodEnd": null
   },
   {
     "id": "-us-000008",

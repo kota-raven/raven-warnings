@@ -1,5 +1,30 @@
 [
   {
+    "id": "2026-10-16-us-000075",
+    "recordType": "individual",
+    "country": "US",
+    "unitName": "3rd Battalion, 43rd Air Defense Artillery Regiment",
+    "unitNumber": null,
+    "unitType": "missile",
+    "position": {
+      "area": "Guam",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "米陸軍第3大隊第43防空砲兵連隊がグアムで新編成。中国及び北朝鮮の航空・ミサイル脅威に対するグアム防衛を担当",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/army-activates-air-defense-guam-battalion-focused-on-chinese-north-korean-threats"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-23T19:35:00Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-16T00:00:00Z",
+    "sizeClass": "medium"
+  },
+  {
     "id": "2026-10-13-us-000015",
     "recordType": "individual",
     "country": "US",
