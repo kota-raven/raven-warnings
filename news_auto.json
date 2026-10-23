@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-26340",
+    "headline": {
+      "ja": "チベット地域でマグニチュード7.0の大地震、16人が死亡",
+      "en": "Tibet rocked by 7.0-magnitude earthquake"
+    },
+    "summary": {
+      "ja": "チベット地域でマグニチュード7.0の地震が発生し、16人が死亡、32人が負傷した。複数の国営通信が同じ被害規模を報道している。",
+      "en": "A 7.0-magnitude earthquake struck Tibet, killing 16 people and injuring 32 others according to official reports."
+    },
+    "category": "disaster",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-23T00:33:16+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "china_tibet_earthquake_magnitude_7.0_2026-10-22",
+    "severity": 4
+  },
+  {
+    "id": "auto-26123",
+    "headline": {
+      "ja": "サウジアラビア南西部で、フーシ派の弾道ミサイルを連合軍が迎撃",
+      "en": "Saudi-led coalition intercepts Houthi ballistic missile"
+    },
+    "summary": {
+      "ja": "サウジアラビア南西部を狙ったフーシ派の弾道ミサイルを、サウジ主導の連合軍が迎撃した。",
+      "en": "The Saudi-led coalition successfully intercepted a Houthi ballistic missile targeting southwestern Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-22T19:45:12+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdkJfaERCVDVuZVVySmNlbjlCZEtrLThRNEZxdlVVaWpydkVKVVBpanR3Y3laeV9YeWNBVmRoWHM5Q2ZXeUtOZTU2MlkwVl9YY010SDRZYUw5VmZ3LV8yWHcwWmVzcGtUWXUwWFBhdFh6b3RGdzViWWNQY2xOTUp6VXp4bzFyVHh5a1BBSl9ZdU8zRFRDTWVHUHYwTXk4dVlHZThwRDNEc3lsSjdiMXktZUNtMnQ4d1VLckx4OVhzbXo3elJrQ0E1aXB4bFF6WUdBMmc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_missile_interception_2026-10-22"
+  },
+  {
+    "id": "auto-25857",
+    "headline": {
+      "ja": "ロシア、和平交渉合意直後にウクライナへのミサイル攻撃継続",
+      "en": "Ukraine hit by strikes after Russia agrees to new peace talks"
+    },
+    "summary": {
+      "ja": "ロシア政府が米国・ウクライナとの和平交渉再開に「原則的に合意」と表明した直後に、3波に分けてロシア製ミサイルがウクライナに発射された。",
+      "en": "Russia launched three waves of missiles at Ukraine just hours after announcing its readiness to resume peace talks with the US and Ukraine."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-22T17:49:13+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_missile_strike_after_peace_talks_2026-10-22",
+    "severity": 4
+  },
+  {
     "id": "auto-25343",
     "headline": {
       "ja": "イエメン・タイズで深刻な食糧・水不足、フーシ派のブロケード影響",
@@ -2952,98 +3023,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_kamchatka_earthquake_2026-10-16"
-  },
-  {
-    "id": "auto-12327",
-    "headline": {
-      "ja": "トルコ・イスタンブールの豪雨で3人死亡、5人行方不明",
-      "en": "3 killed, 5 missing in Istanbul flash floods"
-    },
-    "summary": {
-      "ja": "トルコのイスタンブール市が豪雨に見舞われ、3人が死亡、5人が行方不明となった。",
-      "en": "Flash floods in Istanbul, Turkey resulted in 3 deaths and 5 people missing."
-    },
-    "category": "disaster",
-    "country": "トルコ",
-    "lat": 41.0138,
-    "lon": 28.9497,
-    "occurredAt": "2026-10-16T02:12:16+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DaWh0M1IycnRNR2hrU1ZyRXRHM0F4WVA1Y0ktczFWN2hVaTk0a1ZUUkk0ZkhGYzdLc2FoWXRJNzhhUjEtNTAyNkVVNDFpamtiaXc5YXBBUnBHblRyZWxXVW9QdFdmTzdkbHlhZjhfdlRvbjZpdFJSY0FRZ3U?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "istanbul_flash_floods_2026-10-16"
-  },
-  {
-    "id": "auto-13443",
-    "headline": {
-      "ja": "ガザ停戦中にイスラエルが民間住宅に空爆",
-      "en": "Israeli airstrikes target civilian homes in Gaza despite ceasefire"
-    },
-    "summary": {
-      "ja": "ガザ地区マガジー難民キャンプの2軒の民宅がイスラエルの空爆の対象となった。停戦合意中の軍事行動として注視される。",
-      "en": "Two civilian homes in Gaza's Maghazi refugee camp were targeted by Israeli airstrikes during the ceasefire period."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-16T02:06:48+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmlwTUxxdHpYd0x1VkMzeDdnZWE2SVBGbFBaZUVfN00wQzFmUjd4VnFFTHFrTE5FVHpWSHk4cFZ6OHE1MHEwazFZeFFJLUM4TFRGc3poSlZGejhiS05VWldHbEpKT2poR0w5cDhTcG9EQThpazVOcWRCd2NDTUhJRjZiX0p3bktaUERVeXBmS1NUNXZIOTVEalc1WUJMQkx5M1NTemRaNXJMREozTnVxMTdPbFF6TGs1OG1lRkFxRTNmSlpQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_israel_airstrike_ceasefire_2026-10-16"
-  },
-  {
-    "id": "auto-12266",
-    "headline": {
-      "ja": "フーシ派がイエメン大統領府にミサイル攻撃、5人死亡",
-      "en": "Houthi missile attack on Yemeni presidential palace kills five"
-    },
-    "summary": {
-      "ja": "イエメンの有力派閥フーシ派がアデンの大統領府アル・マアシク宮殿にミサイル攻撃を実施し、少なくとも5人が死亡した。",
-      "en": "Yemen's Houthi group launched a ballistic missile attack on al-Maashiq Palace in Aden, killing at least five people."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-15T23:38:46+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_aden_presidential_palace_houthi_attack_2026-10-15"
-  },
-  {
-    "id": "auto-12283",
-    "headline": {
-      "ja": "米オレゴン州で学校銃撃、4人死亡",
-      "en": "Three children and one teacher killed in Oregon school shooting"
-    },
-    "summary": {
-      "ja": "米オレゴン州ベンド市で学校銃撃事件が発生。16歳の容疑者が3人の児童と1人の教員を殺害し、学校にいた市民に射殺された。",
-      "en": "A school shooting occurred in Bend, Oregon. A 16-year-old shooter killed three children and one teacher before being killed by a bystander at the school."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 44.0582,
-    "lon": -121.3153,
-    "occurredAt": "2026-10-15T22:51:56+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "bend_oregon_school_shooting_2026-10-15",
-    "severity": 4
   }
 ]
