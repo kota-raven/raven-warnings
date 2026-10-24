@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-29101",
+    "headline": {
+      "ja": "ロシア・オムスク工業施設、ドローン攻撃",
+      "en": "Omsk industrial cluster in Siberia comes under drone attack"
+    },
+    "summary": {
+      "ja": "ロシア・シベリアのオムスク北部工業地帯が敵のドローン攻撃を受けたと報じられた。",
+      "en": "Omsk industrial cluster in Siberia reportedly came under enemy drone attack."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 54.9924,
+    "lon": 73.3686,
+    "occurredAt": "2026-10-24T17:57:38+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0UnM1WF85MWc4RG9mMWgwb2JEbXpELUpNUUlEMnZlZTFLZ3hmdnFNTmo5Q0ZTcFBleTlzd0pkTmxKbUY5OTJOeG5SSjPSAVJBVV95cUxObUMwWTAwZ3RtdjdEc1pyZmFCZzZVVFAtT193eUp1SVhydm5PZGtLNExxTkh4Rms5dEZiSjZoaWltcU1QaGZQTzNTekVINWhfTmtB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_omsk_drone_attack_2026-10-24"
+  },
+  {
+    "id": "auto-28937",
+    "headline": {
+      "ja": "サウジ、フーシの弾道ミサイル2発を迎撃",
+      "en": "Saudi Arabia intercepts two Houthi ballistic missiles"
+    },
+    "summary": {
+      "ja": "サウジアラビア民間防衛当局は、メッカ・メディナを標的としたフーシ派の弾道ミサイル2発を迎撃したと発表した。",
+      "en": "Saudi Civil Defense announced the interception of two Houthi ballistic missiles aimed at Makkah and Madinah."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 21.4266,
+    "lon": 39.8256,
+    "occurredAt": "2026-10-24T17:11:11+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15bkxIMFE5V0NUdjdjX21WZFphdnZfTDk5UE1YY3ZOclpuSnF0YTE4a3NpTzM4SXNVR1dteDlHSnpReHdEU2EwSU9B?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_missile_2026-10-24"
+  },
+  {
+    "id": "auto-28981",
+    "headline": {
+      "ja": "イエメン、フーシのアデン空港・港湾攻撃を報告",
+      "en": "Yemen reports Houthi attacks on Aden airport and port"
+    },
+    "summary": {
+      "ja": "イエメン政府は、フーシ派がアデン空港・港湾・沿岸警備隊施設を弾道ミサイルで攻撃したと発表した。",
+      "en": "Yemen reported Houthi attacks on Aden airport, port facilities, and coast guard with ballistic missiles."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-24T16:22:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORV9RZmFhUC1SYU5Lb2NFN0N1U0Rlc2lQOFhfQXJJRXI5cFVqUk84UDE1ajNDMFN0Y29aVEVkbTJSNG0ybFdQZWpEYW91OWJPYVpHUzU2QnlQNEdDckJ1V2htbUhTSnR5ZkRFNDk2ckdXQThtMmxQb0xrc21TWFMzdURmS1BnbGFvXzBGYzZxVktiVEpXRnhLVzFpMmJkQi1qcHVoVzlidzVPZl9IQW1pUi1JUU5mZHBPVDJwMWJ5Q1dTQkRTTnZMWHhFQmdLZ1Q2ZHhMUW5n?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthis_aden_attack_2026-10-24"
+  },
+  {
+    "id": "auto-28842",
+    "headline": {
+      "ja": "中国西蔵で7.0級地震",
+      "en": "7.0-magnitude earthquake strikes Xizang, China"
+    },
+    "summary": {
+      "ja": "中国西蔵自治区で7.0級の地震が発生し、救助活動が継続されている。",
+      "en": "A 7.0-magnitude earthquake struck Xizang Autonomous Region in China, with rescue operations ongoing."
+    },
+    "category": "disaster",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-24T15:12:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NLUF2Y3pNUFVBSDBaVm1VQ044dkJiTDZDNDFjSUUwU2dfRHVfb3E3SzZzR0JJUUg1dFQ3Uk5UVDhfeFZhM0JZNU91YXlaRzNvWXl5WHNQWi15czhnWHBCNmxpQVk5TmJOZDk0Z2RYNlpaMWV0bGZwMWc0ZDA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "china_xizang_earthquake_7_0_2026-10-24",
+    "severity": 4
+  },
+  {
     "id": "auto-28348",
     "headline": {
       "ja": "台湾のタイフーン・チャンピーで死傷者多数",
@@ -21,6 +114,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "taiwan_typhoon_champi_2026-10-24"
+  },
+  {
+    "id": "auto-28852",
+    "headline": {
+      "ja": "バヌアツで2件の地震、津波警報発令",
+      "en": "2 major earthquakes strike Vanuatu, tsunami warning issued"
+    },
+    "summary": {
+      "ja": "バヌアツで大規模な2件の地震が発生し、津波警報が発令された。",
+      "en": "Two major earthquakes hit Vanuatu, prompting a tsunami warning."
+    },
+    "category": "disaster",
+    "country": "バヌアツ",
+    "lat": -17.7365,
+    "lon": 168.3137,
+    "occurredAt": "2026-10-24T04:13:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXJIT2tpUVlIY0w4SF9HMVdxcllPcTFrOVRPLTJlZmUtd0h6amM4Ym9UMHNsTjRoMUtZa1ExQnV6UVJubEdBMjdIY2NnWC01WnVVeDducm42cnJUTUNDOEFhZUhNVTRqRHUyUG0tZnJVT1pDck02ZmhheVo1R1Z0ZWl2UFFqSERaMGRVWA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "vanuatu_earthquakes_tsunami_2026-10-24"
   },
   {
     "id": "auto-28036",
@@ -2026,167 +2142,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "california_wildfires_2026"
-  },
-  {
-    "id": "auto-16157",
-    "headline": {
-      "ja": "インド東部の群衆事故で17人死亡、35人負傷",
-      "en": "インド東部の群衆事故で17人死亡、35人負傷"
-    },
-    "summary": {
-      "ja": "インド東部で群衆事故が発生し、17人が殺害され、35人が負傷した。",
-      "en": "インド東部で群衆事故が発生し、17人が殺害され、35人が負傷した。"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "lat": 22.5626,
-    "lon": 88.363,
-    "occurredAt": "2026-10-17T21:36:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3dxSURlUlVteHJOMFRycU5HdVVrc1Rzd2xDVnV6d3BVVGVwYXpFY1B2MFNLZkRYTU13UWlHY01Mb0U4SE5jaGE0VmlkUElBUUVGMlI3VEY2cm1VZmlNNUN2Uy1sMkZ3QXg5QU1tcXJSUWhJa1Y3S1k3WUowdENOaU9xUlBlVzhDWDFTTQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "india_stampede_kolkata_2026"
-  },
-  {
-    "id": "auto-16126",
-    "headline": {
-      "ja": "インドでヒンドゥー祭典中に群衆事故、17人死亡",
-      "en": "インドでヒンドゥー祭典中に群衆事故、17人死亡"
-    },
-    "summary": {
-      "ja": "インドのコルカタで行われたヒンドゥー祭典のイベント中に群衆による圧死事故が発生し、少なくとも17人が死亡、多数が負傷した。",
-      "en": "インドのコルカタで行われたヒンドゥー祭典のイベント中に群衆による圧死事故が発生し、少なくとも17人が死亡、多数が負傷した。"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "lat": 22.5626,
-    "lon": 88.363,
-    "occurredAt": "2026-10-17T19:19:16+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "india_kolkata_festival_stampede"
-  },
-  {
-    "id": "auto-16581",
-    "headline": {
-      "ja": "停戦中のガザでイスラエルドローン攻撃により民間人6人が死亡",
-      "en": "Israeli drone attacks kill six Palestinians across Gaza despite 'ceasefire'"
-    },
-    "summary": {
-      "ja": "イスラエルのドローン攻撃がガザ各地で実施され、停戦開始から1年で340人以上の子どもが殺害されたとUNICEFが報告する中、新たに民間人6人が死亡した。",
-      "en": "Israeli drone attacks across Gaza killed six Palestinians during the ceasefire period, while UNICEF reports over 340 children killed since the ceasefire began a year ago."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-17T18:26:59+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_israeli_drone_attack_2026-10-17",
-    "severity": 4
-  },
-  {
-    "id": "auto-16382",
-    "headline": {
-      "ja": "インド東部のヒンドゥー教祭典での群集事故、17人以上が死亡",
-      "en": "At least 17 killed in stampede at Hindu festival in eastern India"
-    },
-    "summary": {
-      "ja": "インド東部でヒンドゥー教祭典中の群集事故で、少なくとも17人が死亡した。",
-      "en": "A stampede at a Hindu festival in eastern India killed at least 17 people."
-    },
-    "category": "disaster",
-    "country": "インド",
-    "lat": 28.6214,
-    "lon": 77.2148,
-    "occurredAt": "2026-10-17T18:21:23+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnZvRFFlQUxsa0R2ZlhHZy01Z3BkeTJES0RXNW5Na2dvejgxQTVhZElHbnZQYUZrcEpTdnBiWXdXY1VSN2xUN0EycEJsNzFfTTJ5c05xN1JFWmdRUDNDdUVqLUJmaUVfZ25yQk8xaGZlRGZ0VGJYQU9DNTl1ZTRzYm1WWExFRmJoaWZSblpLYmFOeERVak1IRXFMZUJ4ejFELUIxZk8zbVU0VmtyVUx4Ng?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "india_festival_stampede_2026-10"
-  },
-  {
-    "id": "auto-16154",
-    "headline": {
-      "ja": "インドのドゥルガプージャ祭典中の事故で17人以上が死亡、多数が負傷",
-      "en": "インドのドゥルガプージャ祭典中の事故で17人以上が死亡、多数が負傷"
-    },
-    "summary": {
-      "ja": "インドで行われたドゥルガプージャ祭典中の群衆事故で、17人以上が殺害され、多くが負傷した。",
-      "en": "インドで行われたドゥルガプージャ祭典中の群衆事故で、17人以上が殺害され、多くが負傷した。"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "lat": 22.5626,
-    "lon": 88.363,
-    "occurredAt": "2026-10-17T17:05:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW1SRFNpRVlLeDMwZDdlbDR5dnl0SHJENll6QUhGM19hTmF4cEo5UzdqUzhJTHc0OGd3cWVzX0NBT0JvQ0hrRVpBRUpZb1NfdG1fdEl4R1M4VXBxVm1VdDFlbi1wT1BPUWRDWU5XQjBpejdXWUVfaGpmVWkzcV94TVdwUnloZTVuNTB3Zg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "india_durga_puja_stampede"
-  },
-  {
-    "id": "auto-16380",
-    "headline": {
-      "ja": "ポーランド、ロシアのウクライナ西部攻撃に対応して航空機をスクランブル",
-      "en": "Poland scrambles aircraft as Russia strikes western Ukraine amid Warsaw-Trump rift"
-    },
-    "summary": {
-      "ja": "ポーランドは、ロシアがウクライナ西部を攻撃する中、航空機を出動させた。Warsaw-Trump関係に溝がある状況で発生。",
-      "en": "Poland scrambles military aircraft in response to Russian strikes on western Ukraine, amid tensions with the Trump administration."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-10-17T16:18:46+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFhnNERObm8ydkZCakszNDdqMTB2bkdmMmcxN0N3c0UtZUVEeG5CN1pZN3M0ZDFDQzZxLWFvLUtpdlVxT1U4TDBrQXc2UlFUVmVSM1paY1ZsWV9wRFpjN05KaFJ2ZjJVZE8wcjItQzdtOUtFbFpZVEhnaDlYaC1sSUY1OG9JSnBCdDhVcUlfYldMNy1HRlI4RHdnSzB4R2VubkVqZWJLS0JkemRWaENmaTR3WFp1OGl6YWNBMlRaMA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_russia_ukraine_airscramble_2026-10"
-  },
-  {
-    "id": "auto-16143",
-    "headline": {
-      "ja": "ケニアで新たなエボラ患者4人を確認、計7人に",
-      "en": "ケニアで新たなエボラ患者4人を確認、計7人に"
-    },
-    "summary": {
-      "ja": "ケニアで新たなエボラ患者4人が確認され、患者の総数は7人となった。",
-      "en": "ケニアで新たなエボラ患者4人が確認され、患者の総数は7人となった。"
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-10-17T15:11:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzhuQ183clJ3SVpjNE92NWNsNmZhNHR4QXVOc0lYcGNiV0xIbzlIZ1hsWnBrSzdRcVBuNzB5LUZqYXNQeHRVWkFQdkk1UHNWVTdxWGYzSkhYbWpHWl9fbG1Vc19MUm9uNVVzZFVxcVFkeGZGRlZzT0Z4eUVYUmQ0eVJtWllTdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kenya_ebola_cases_2026"
   }
 ]
