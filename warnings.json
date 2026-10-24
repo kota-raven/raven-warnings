@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:36:13.070Z",
+  "generatedAt": "2026-10-24T05:41:56.386Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 183,
   "warnings": [
@@ -248,6 +248,24 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264196",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "自然現象",
+      "number": "4196",
+      "title": "南太平洋、バヌアツ諸島、津波情報",
+      "publishedAt": "2026-10-24T12:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          165.7,
+          -13.8
+        ]
+      },
+      "rawText": "番号:26-4196   発表日時:2026年10月24日 12時\r\n\n\r\n★ 津波情報、\r\r\n南太平洋、バヌアツ諸島、気象庁によれば、13-48S 165-42E、\r\r\n10月24日0231Z、マグニチュード7.2の地震に伴い、震源近傍で津波発\r\r\n生のおそれあり。沿岸の船舶は注意されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264196&LANG=JP"
     },
     {
       "id": "JAPANNW-264195",
@@ -1752,38 +1770,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264088&LANG=JP"
     },
     {
-      "id": "JAPANNW-264086",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4086",
-      "title": "注文津港東（Ｄ−１３５）、射撃",
-      "publishedAt": "2026-10-16T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128.96249999999998,
-            38.1
-          ],
-          [
-            129.06666666666666,
-            38.15833333333333
-          ],
-          [
-            129.50555555555556,
-            37.61666666666667
-          ],
-          [
-            129.40416666666667,
-            37.55833333333333
-          ]
-        ]
-      },
-      "rawText": "番号:26-4086   発表日時:2026年10月16日 20時\r\n\n\r\n★ 朝鮮半島東岸、注文津港東、\r\r\n射撃、10月18日、19日毎日2300Z-翌日1200Z、20日-22日毎日\r\r\n2300Z-翌日0900Z、24日0030Z-0230Z、\r\r\n38-06-00N 128-57-45E 38-09-30N 129-04-00E\r\r\n37-37-00N 129-30-20E 37-33-30N 129-24-15E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264086&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264084",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -3236,6 +3222,36 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262015",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2015",
+      "title": "若狭湾、射撃",
+      "publishedAt": "2026-10-24T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2015    発表日時:2026年10月24日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、10月29日(予備30日)0830-2400、\r\r\n35-54.6N 135-42.2Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262015&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262014",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2014",
+      "title": "チキウ岬南東、射撃",
+      "publishedAt": "2026-10-24T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          141.23333333333332,
+          42.11666666666667
+        ]
+      },
+      "rawText": "番号:26-2014    発表日時:2026年10月24日 13時\r\n\n\r\nチキウ岬南東、\r\r\n射撃、10月29日(予備30日)0900-2400、\r\r\n42-07N 141-14Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262014&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262013",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3458,50 +3474,6 @@
       "geometry": null,
       "rawText": "番号:26-2002    発表日時:2026年10月22日 13時\r\n\n\r\n沖縄島南西、\r\r\n射撃、10月27日(予備28日)0800-2400、\r\r\n25-56.0N 127-30.2Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262002&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261999",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "1999",
-      "title": "奄美大島北西、宇宙ゴミ落下",
-      "publishedAt": "2026-10-21T21:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            125.38333333333334,
-            30.316666666666666
-          ],
-          [
-            125.75,
-            30.766666666666666
-          ],
-          [
-            126.6,
-            30.25
-          ],
-          [
-            126.25,
-            29.8
-          ]
-        ]
-      },
-      "rawText": "番号:26-1999    発表日時:2026年10月21日 21時\r\n\n\r\n奄美大島北西、\r\r\n宇宙ゴミ落下、10月24日0419-0446、\r\r\n30-19N 125-23E 30-46N 125-45E\r\r\n30-15N 126-36E 29-48N 126-15E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261999&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261996",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "1996",
-      "title": "四国南岸、土佐湾、木材漂流",
-      "publishedAt": "2026-10-21T14:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1996    発表日時:2026年10月21日 14時\r\n\n\r\n四国南岸、土佐湾、\r\r\n木材(長さ約8メートル)漂流、10月21日1230、\r\r\n33-00.6N 133-42.4E付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261996&LANG=JP"
     },
     {
       "id": "NAVTEX-261995",
