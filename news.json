@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-22-01",
-    "headline": {
-      "ja": "イエメン政府、フーシ派によるアデン・ムカッラ両空港への攻撃を非難 アデンで爆発音",
-      "en": "Yemen government accuses Houthis of attacking Aden and Mukalla airports; blast heard in Aden"
-    },
-    "summary": {
-      "ja": "イエメンの国際承認政府は、フーシ派が暫定首都アデンおよびムカッラ(ハドラマウト州)の両空港を攻撃したと非難した。アデン市内では爆発音が確認されており、フーシ派側は軍事施設への攻撃だったとする趣旨の発表をしたとの報道がある(伝聞形、独立した検証はできていない)。双方の主張について第三者による確証は得られていない。",
-      "en": "Yemen's internationally recognized government accused Houthi forces of striking airports in the interim capital Aden and in Mukalla, Hadhramaut province. An explosion was reported in Aden, and the Houthis reportedly said they had targeted a military site. Neither side's claims have been independently verified."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7855,
-    "lon": 45.0187,
-    "occurredAt": "2026-10-21T06:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-22-03",
     "headline": {
       "ja": "原油価格が続伸、ブレント108ドル台 中東の供給不安と海上輸送コスト高騰で",
@@ -259,6 +238,50 @@
     "source": {
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-24-05",
+    "headline": {
+      "ja": "イスラエル、ヘブロンで複数日に及ぶ軍事作戦を開始 国防相「地区全体の退去」方針を表明",
+      "en": "Israel launches multi-day military operation in Hebron; defense minister vows to evacuate entire neighborhood"
+    },
+    "summary": {
+      "ja": "10月23日夜、ヨルダン川西岸ヘブロンでの銃撃事件(イスラエル兵2人死亡、既報id: 2026-10-24-01)を受け、イスラエル軍とシンベットが銃撃犯の出身地区を対象に「複数日間」継続するとされる軍事作戦を開始したという。住民は検問を経て3カ所の出口からのみ退出可能とされ、軍は現場周辺の「違法建築物」の破壊を実施しているという。カッツ国防相は、銃撃犯が出たヘブロンの地区全体の住民退去を進める方針を表明し、ネタニヤフ首相も作戦・破壊の拡大を明言したという。来週に総選挙を控える中での動き。",
+      "en": "Following the October 23 night shooting attack in Hebron that killed two Israeli soldiers (previously reported, id: 2026-10-24-01), the Israeli military and Shin Bet reportedly launched a military operation in the gunmen's home neighborhood expected to last 'several days.' Residents can reportedly leave only through three designated checkpoints after screening, and troops are reportedly demolishing 'illegal structures' near the attack site. Defense Minister Katz reportedly said the entire neighborhood would be evacuated, and Netanyahu reportedly vowed to expand the operation and demolitions, days ahead of Israel's parliamentary election."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ヘブロン",
+    "lat": 31.5326,
+    "lon": 35.0998,
+    "occurredAt": "2026-10-23T21:00:00+00:00",
+    "source": {
+      "name": "The Japan Times / Haaretz",
+      "url": "https://www.japantimes.co.jp/news/2026/10/24/world/israel-west-bank-operation/"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-24-06",
+    "headline": {
+      "ja": "欧州初の命名ストーム「Austen」、アイルランド南部を直撃 数千戸停電・倒木30本超",
+      "en": "Storm Austen, Europe's first named storm of the season, hits southern Ireland: thousands without power, over 30 trees downed"
+    },
+    "summary": {
+      "ja": "今季欧州初の命名ストーム「Austen」が10月23日夜、アイルランド南部(マンスター州・レンスター州南部)を通過し、その後コノート州・レンスター州北部にも影響したという。ウォーターフォード州で数千戸が停電し、倒木30本超が報じられたという。アイルランド気象局(Met Éireann)は地盤が既に飽和状態にあるとして洪水リスクへの警戒を呼びかけたという。ウォーターフォード州の担当者は「想定され得たよりは軽微な影響だった」と述べたという。",
+      "en": "Storm Austen, the first named storm of the season in Europe, reportedly swept across southern Ireland (Munster and south Leinster) on the night of October 23 before affecting Connacht and northern Leinster. Thousands of homes in County Waterford reportedly lost power, and more than 30 trees were reported downed. Met Éireann reportedly warned of an increased flood risk due to already-saturated ground. A Waterford council director reportedly said the impact was less severe than it could have been."
+    },
+    "category": "disaster",
+    "country": "アイルランド",
+    "lat": 53.4129,
+    "lon": -8.2439,
+    "occurredAt": "2026-10-23T20:00:00+00:00",
+    "source": {
+      "name": "The Irish Times",
+      "url": "https://www.irishtimes.com/environment/2026/10/23/storm-austen-weather-ireland-live-updates/"
     },
     "reliability": "high"
   }
