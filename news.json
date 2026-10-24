@@ -172,5 +172,94 @@
       "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-24-01",
+    "headline": {
+      "ja": "イスラエル、ヘブロンでの銃撃事件後にヨルダン川西岸の「完全封鎖」を準備 兵士2人死亡、ネタニヤフ氏「1967年以来の規模」の軍事作戦を警告",
+      "en": "Israel prepares 'full lockdown' of West Bank after Hebron shooting kills two soldiers; Netanyahu warns of operation 'unseen since 1967'"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、10月23日、ヨルダン川西岸ヘブロン近郊の検問所で、車に乗った2人のパレスチナ人がイスラエル兵に向けて発砲したという。イスラエル軍は兵士2人が死亡、3人が負傷したと発表し、銃撃は約20分間続いたとの目撃証言があるという。軍は実行犯2人を共に殺害したと発表した。この事件を受けネタニヤフ首相はヘブロンの封鎖を命じ、ヨルダン川西岸(「ユダヤ・サマリア」)全域での「完全封鎖」の準備を進めていると表明し、1967年以来の規模の軍事作戦になりうると警告したという。イスラエル軍は23日、西岸各地での捜索で36人のパレスチナ人を拘束したとされ、24日にはヘブロンで「標的を絞った徹底的な」軍事作戦を開始したという。一連の動きは来週に予定されているイスラエルの選挙を前にして起きている。[信頼性: 高](Al Jazeeraの複数の記事・ライブブログに基づく。他の独立した媒体による確証はこの時点で確認できていない)",
+      "en": "According to Al Jazeera, on October 23 two Palestinians in a car opened fire on Israeli soldiers at a checkpoint near Hebron in the occupied West Bank. The Israeli military said two soldiers were killed and three wounded, with witnesses describing gunfire lasting about 20 minutes; the army said it killed both gunmen. In response, Prime Minister Netanyahu ordered Hebron closed and said he was preparing a 'full lockdown' across the West Bank ('Judea and Samaria'), warning of a military operation on a scale unseen since 1967. The Israeli military reportedly arrested 36 Palestinians in raids across the West Bank on October 23, and on October 24 launched a 'targeted and thorough' operation in Hebron. The developments come ahead of Israeli elections scheduled for next week. [Reliability: High] (Based on multiple Al Jazeera reports and live-blog updates; independent corroboration from other outlets has not yet been found.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ヘブロン(ヨルダン川西岸地区)",
+    "lat": 31.5326,
+    "lon": 35.0998,
+    "occurredAt": "2026-10-23T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-24-02",
+    "headline": {
+      "ja": "台風チャンピ、台湾に接近・直撃 1人死亡、350人超負傷",
+      "en": "Typhoon Champi hits Taiwan, killing one and injuring over 350"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、スーパー台風「チャンピ」(フィリピンでの呼称「ロサール」、既報id: 2026-10-23-02)が台湾に接近・直撃し、10月23日時点で1人が死亡、350人以上が負傷したという。暴風により倒木や休校・休業が相次ぎ、数千戸で停電、4,300人超が避難したとされる。チャンピは一時最大風速296km/hに達する「スーパー台風」級だったが、台湾接近時には勢力を落としていたという。台湾気象署(CWA)によると、23日から25日にかけて台湾東北部を中心に最大900mmの降雨が予想されており、被害がさらに拡大する可能性がある。[信頼性: 高](Al Jazeeraの報道に基づく。負傷者数は調査の進行に伴い変動している〈当初163人から350人超に上方修正〉)",
+      "en": "According to Al Jazeera, Super Typhoon Champi (called Rosal in the Philippines; see earlier report id 2026-10-23-02) struck or closely approached Taiwan, killing one person and injuring more than 350 as of October 23. High winds felled trees and forced school and business closures, cut power to thousands of households, and displaced more than 4,300 people. Champi had briefly reached 'super typhoon' strength with winds near 296 km/h but had weakened by the time it reached Taiwan. Taiwan's Central Weather Administration warned of up to 900mm of rain in the northeast between October 23-25, raising the risk of further damage. [Reliability: High] (Based on Al Jazeera reporting; the injury count has been revised upward as assessments continue, from an initial 163 to over 350.)"
+    },
+    "category": "disaster",
+    "country": "台湾",
+    "region": "台湾東北部",
+    "lat": 23.6978,
+    "lon": 120.9605,
+    "occurredAt": "2026-10-23T08:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-24-03",
+    "headline": {
+      "ja": "WHO、コンゴ民主共和国のエボラ出血熱でワクチン臨床試験開始を発表 感染9,700人超・死者4,600人超",
+      "en": "WHO announces start of Ebola vaccine clinical trial in DR Congo as cases top 9,700, deaths exceed 4,600"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、世界保健機関(WHO)は10月24日、コンゴ民主共和国(DRC)で続くエボラ出血熱(ブンディブギョ株)流行に対する初のワクチン臨床試験「Tumaini」の開始を発表した。イトゥリ州の州都ブニアで参加者への接種が始まったという。同株には承認されたワクチンがなく、既存のエボラワクチン「Ervebo」(主にザイール株向け)が交差免疫を持つかを検証する。DRCは本流行(同国にとって過去最悪規模の17回目の流行、5月に宣言)で、感染者数が9,700人超、死者数が4,600人超に達したと報じられており、WHOは「国際的に懸念される公衆衛生上の緊急事態(PHEIC)」(警戒レベルとしては2番目に高い)を発令しているという。[信頼性: 中](Al Jazeeraの報道に基づく。感染者数・死者数の具体的な数字についてはWHO公式発表文での直接確認はできていない)",
+      "en": "According to Al Jazeera, the World Health Organization announced on October 24 the start of 'Tumaini,' the first clinical trial of an Ebola vaccine against the Bundibugyo-strain outbreak ongoing in the Democratic Republic of the Congo (DRC), with vaccinations beginning in Bunia, the capital of Ituri province. No vaccine is approved against the Bundibugyo strain; the trial will test whether the existing Ervebo vaccine (developed mainly for the Zaire strain) provides cross-protection. The outbreak -- the DRC's 17th and worst-ever, declared in May -- has reportedly reached more than 9,700 cases and over 4,600 deaths, and the WHO has declared a Public Health Emergency of International Concern (PHEIC), its second-highest alert level. [Reliability: Medium] (Based on Al Jazeera reporting; the specific case and death counts have not been independently confirmed against an official WHO statement.)"
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "region": "イトゥリ州",
+    "lat": 1.5667,
+    "lon": 30.25,
+    "occurredAt": "2026-10-24T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo"
+    },
+    "reliability": "medium",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-24-04",
+    "headline": {
+      "ja": "米株式市場、AI投資懸念と原油高騰で続落 ダウ652ドル安、原油は4月以来の高値圏",
+      "en": "US stocks extend slide on AI spending worries and surging oil; Dow drops 652 points, oil at highest since April"
+    },
+    "summary": {
+      "ja": "CNBCによると、10月23日(金)の米株式市場は、ダウ工業株30種平均が652.82ポイント(1.23%)安の52,215.16、S&P500が0.52%安の7,623.68、ナスダック総合が0.21%安の25,955.34で取引を終えた。ダウ構成銘柄のアメリカン・エキスプレスは、AI活用を理由とした人員削減(全世界の従業員の約5%)を発表し3%超下落した。前日22日(木)にはナスダックが2.6%安(終値26,008.86)と6月以来最大の下落となり、AI関連投資への懸念と原油高が売りを誘ったとされる。原油価格は中東情勢の緊迫化(既報id: 2026-10-22-03〜05のサウジ・イラン関連の動き)を背景に上昇が続き、22日の取引でWTIが3.8%高の1バレル=103.27ドル、ブレントが3.1%高の116.72ドルとなり、ブレントは4月以来の高値を付けたという。週間ではS&P500が0.5%安、ナスダックが0.7%安となったが、ダウは週間で0.4%高だったとされる。[信頼性: 高](CNBC報道に基づく)",
+      "en": "According to CNBC, in trading on Friday, October 23, the Dow Jones Industrial Average fell 652.82 points (1.23%) to close at 52,215.16, the S&P 500 slipped 0.52% to 7,623.68, and the Nasdaq Composite lost 0.21% to 25,955.34. Dow component American Express fell more than 3% after announcing it would cut about 5% of its global workforce, citing AI adoption. The prior day, Thursday October 22, the Nasdaq had its worst session since June, falling 2.6% to close at 26,008.86, as concerns over AI spending and rising oil prices drove the sell-off. Oil prices continued climbing amid Middle East tensions (see earlier reports id 2026-10-22-03 through -05 on Saudi Arabia and Iran): on October 22, WTI rose 3.8% to settle at $103.27 a barrel and Brent rose 3.1% to $116.72, its highest settle since April. For the week, the S&P 500 fell 0.5% and the Nasdaq 0.7%, while the Dow gained 0.4%. [Reliability: High] (Based on CNBC reporting.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-23T20:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+    },
+    "reliability": "high"
   }
 ]
