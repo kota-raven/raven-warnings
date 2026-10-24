@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-10-22-03",
-    "headline": {
-      "ja": "原油価格が続伸、ブレント108ドル台 中東の供給不安と海上輸送コスト高騰で",
-      "en": "Oil prices extend gains, Brent near $109, amid Middle East supply fears and surging shipping costs"
-    },
-    "summary": {
-      "ja": "中東情勢の緊迫化を背景に原油価格の上昇が続いている。ブレント先物は1バレル=108.82ドルで引け、WTIは97.15ドルで引けた。イラン革命防衛隊はホルムズ海峡でタンカー3隻が機雷により足止めされたと主張しているが独立した確証はない。フーシ派もサウジアラムコの施設・空港への攻撃を主張しているが、サウジ側は公式に確認していない。ゴールドマン・サックスのレポートによると、原油の海上輸送(フレート)コストは1バレルあたり20ドル超まで上昇し、1年前の約3ドルから急騰した。米国内のディーゼル価格も1ガロン平均6.33ドルと前年同期比7割超の上昇となっている。",
-      "en": "Oil prices continued to rise amid escalating Middle East tensions. Brent crude futures settled at $108.82 a barrel and U.S. WTI crude at $97.15. Iran's Revolutionary Guards claimed three tankers were disabled by mines in the Strait of Hormuz, a claim that has not been independently verified. Houthi forces also claimed strikes on Saudi Aramco facilities and airports, which Saudi officials have not officially confirmed. A Goldman Sachs report cited by CNBC says the global average crude shipping (freight) cost has surged above $20 a barrel, up from about $3 a year earlier. U.S. diesel prices averaged $6.33 a gallon, more than 70% above the same period last year, according to AAA data."
-    },
-    "category": "economy",
-    "country": "サウジアラビア",
-    "lat": 23.8859,
-    "lon": 45.0792,
-    "occurredAt": "2026-10-21T20:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-22-04",
-    "headline": {
-      "ja": "フーシ派、サウジ・ダンマンのキング・ファハド国際空港とシャイバ油田をドローン・ミサイルで攻撃 合計4人死亡を確認、米が非常駐在員の退避を指示",
-      "en": "Houthis strike Saudi Arabia's King Fahd airport in Dammam and Shaybah oilfield with drones/missiles, killing 4; US orders non-essential staff to leave"
-    },
-    "summary": {
-      "ja": "サウジアラビア民間航空総局(GACA)は、10月21日(水)にダンマンのキング・ファハド国際空港が攻撃を受け、サウジ人1人とインド人居住者1人の合計2人が死亡、8人が負傷したと確認した(空港運用は後に正常化)。フーシ派は過去48時間でキング・ファハド空港のほか、アブハ国際空港、リヤドの国防省、ヤンブーのアラムコ施設も攻撃したと主張しているが、これらの主張についてサウジ側の公式確認は得られていない(伝聞形)。別途、サウジ・エネルギー省は、アラムコのシャイバ油田の施設を狙ったドローンを防空システムが撃墜した際に2人が死亡したと確認した(サウジ通信SPA経由)。一連の攻撃を受け、米国務省はサウジアラビア駐在の非緊急職員とその家族に国外退避を指示した(ロイターによると、湾岸地域の他の公館の家族についても退避対象に含める計画との報道があるが、国務省報道官はサウジアラビア以外への拡大を否定しているという)。[信頼性: 高](死傷者数・空港攻撃・米国務省の退避指示はGACA・サウジ・エネルギー省・米国務省の公式確認に基づく。フーシ派による他施設への攻撃主張は未確認)",
-      "en": "Saudi Arabia's General Authority of Civil Aviation (GACA) confirmed that King Fahd International Airport in Dammam was attacked on Wednesday, October 21, killing a Saudi national and an Indian resident (2 total) and wounding 8; airport operations later returned to normal. The Houthis claimed to have carried out attacks over the preceding 48 hours on King Fahd airport as well as Abha International Airport, Saudi Arabia's defence ministry in Riyadh, and Aramco facilities in Yanbu, though these additional claims have not been officially confirmed by Saudi authorities. Separately, Saudi Arabia's Ministry of Energy confirmed, via the Saudi Press Agency, that two people were killed when air defences intercepted a drone targeting a facility at Aramco's Shaybah oilfield. Following the attacks, the US State Department ordered non-essential staff and their families to leave Saudi Arabia; Reuters reported that Washington also plans to withdraw family members from other Gulf missions, though a State Department spokesperson denied the order extends beyond Saudi Arabia. [Reliability: High] (Casualty figures, the airport attack and the US evacuation order are based on official confirmation by GACA, Saudi Arabia's Ministry of Energy and the US State Department; the Houthis' claims about additional targets remain unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "ダンマン(東部州)",
-    "lat": 26.4712,
-    "lon": 49.7979,
-    "occurredAt": "2026-10-21T15:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-10-22-05",
     "headline": {
       "ja": "イラン革命防衛隊、「攻撃的」な新防衛ドクトリンを発表し米軍基地を威嚇 NYT報道:米・イスラエルが中間選挙後の対イラン攻撃計画を策定",
