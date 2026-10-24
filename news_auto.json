@@ -1,24 +1,24 @@
 [
   {
-    "id": "auto-27999",
+    "id": "auto-28348",
     "headline": {
-      "ja": "台湾、台風で500人以上被害",
-      "en": "Typhoon Champi affects over 500 people in Taiwan"
+      "ja": "台湾のタイフーン・チャンピーで死傷者多数",
+      "en": "Typhoon Champi causes casualties in Taiwan"
     },
     "summary": {
-      "ja": "台風Champiが台湾を襲い、500人以上の人々に影響を与えた。",
-      "en": "Typhoon Champi struck Taiwan, affecting over 500 people."
+      "ja": "台湾を襲ったタイフーン・チャンピーにより、1人が死亡し、約530人が負傷した。",
+      "en": "Typhoon Champi struck Taiwan, killing 1 and injuring nearly 530 people."
     },
     "category": "disaster",
     "country": "台湾",
-    "lat": 24.4609,
-    "lon": 121.0737,
-    "occurredAt": "2026-10-24T04:08:01+00:00",
+    "lat": 25.0531,
+    "lon": 121.5264,
+    "occurredAt": "2026-10-24T05:59:50+00:00",
     "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94djRPR21IYVEzVlRzRHRmZEFIdWtZa2c0SVhJNWpESTF4T0JDZGdSUk9lSzVyQXVPNF9CQkVFNnBDRER3WUx1WGhDVmPSAVJBVV95cUxPTnpCenozekZUUHY5RUtJdWFNNnJMNUcwcFIxY05LeVBhalRRSk93bmQwOHhBWUNsU0Y5alc1Q1BCS3FiR3NnZVRyTzJPaS1ySXV3?oc=5"
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3c4TUZoYUlITm1DNWtyaktiVUJEVkoxSmFFMmo1eXJ2WFRPSkZfR01rNmIzRDRkNXZwbTVpZXlzd3NxWnNDVnVpbGY4NjBXZWlwN191aTBlTVUyT3hJUUVSREoxWU05RkppSkRHcHo3dEdQbFdPeWVoWkZFY3NiSEp2WUtUZ2JfNEE?oc=5"
     },
-    "reliability": "medium",
+    "reliability": "high",
     "auto": true,
     "eventKey": "taiwan_typhoon_champi_2026-10-24"
   },
