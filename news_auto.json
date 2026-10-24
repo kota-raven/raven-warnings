@@ -210,6 +210,29 @@
     "eventKey": "sudan_famine_risk_international_statement_2026-10"
   },
   {
+    "id": "auto-27900",
+    "headline": {
+      "ja": "ヨルダン・カラク教会での葬儀攻撃、7人死亡",
+      "en": "Funeral attack at church in Karak, Jordan kills 7"
+    },
+    "summary": {
+      "ja": "ヨルダン南部のカラク教会での葬儀攻撃で7人が死亡、27人が負傷した。",
+      "en": "A funeral attack at a church in Karak, southern Jordan, killed 7 people and injured 27."
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "lat": 31.1282,
+    "lon": 35.6902,
+    "occurredAt": "2026-10-23T15:01:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVc4YXJpa2V0MXJnZWMxZXZwNmlOQWhMSHdDMFdNVDZtdWR1cjJtNFJzd19abUs5V0ptRWZ2ZG1pZE9rNEhtcnY2WWtyaGgtYkhXYk53TUd1aFdjaGNJbE0zZnlzdVJQZUhkZGZ1YUhHcFZ4aFBjbTdrUHpWS1RxOHk0ZmtUcU14RDl5S3RkMW90aW5QLTRFZ0pWR2ZSM0xfampxYUp4U2xMeEI2Q2QwQmdXeV8ycDJyRlR5ZVhrSThrelo0RmlPM2NkY0VJRWtTQmg4WXFn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_karak_church_attack_2026-10-23"
+  },
+  {
     "id": "auto-26963",
     "headline": {
       "ja": "イスラエル軍、レバノン南部に空爆と砲撃を実施",
