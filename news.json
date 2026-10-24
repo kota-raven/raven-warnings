@@ -87,28 +87,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-23-01",
-    "headline": {
-      "ja": "米露、ウクライナ停戦交渉再開へ ウィトコフ特使がプーチン氏とサンクトペテルブルクで会談、米国人拘束者を解放",
-      "en": "US and Russia move to resume Ukraine peace talks; Witkoff meets Putin in St. Petersburg, American detainee released"
-    },
-    "summary": {
-      "ja": "Axios、CBS News、Al Jazeera、ABCニュース/CNN等によると、米国のウィトコフ特使(クシュナー氏も関与。同席か映像参加かは報道により異同あり)は10月21日(水)、ロシアのサンクトペテルブルクでプーチン大統領と会談した。プーチン氏は、ロシア・ウクライナ・米国による3者協議を原則再開する意向を示したという。クレムリンのウシャコフ大統領府高官は、同協議がアブダビで11月上旬(10日頃)に技術レベルで行われる可能性があると述べたという。米政府関係者によると、ウクライナは前日20日にオスロで行われた協議で提案を受け入れたという。会談開始前、ロシアは友好的な措置として、拘束していた74歳の米国人スティーブン・ハバード氏を解放したという。一方、安全保障の枠組みや領土問題など核心的な論点では依然双方の立場に大きな差があると報じられている。[信頼性: 高](Axios、CBS News、Al Jazeera、ABCニュース/CNN等の複数の独立したメディアが一致して報道。ただしクシュナー氏の同席形態など一部詳細は報道間に差異あり)",
-      "en": "According to Axios, CBS News, Al Jazeera, ABC News/CNN and others, US envoy Steve Witkoff (with Jared Kushner also involved, though reports differ on whether he attended in person or by video) met Russian President Vladimir Putin in St. Petersburg on Wednesday, October 21. Putin reportedly indicated Russia is willing in principle to resume trilateral talks among Russia, Ukraine and the US. Kremlin aide Yuri Ushakov said the talks could be held at a technical level in Abu Dhabi around early November (around the 10th). A US official said Ukraine had accepted a proposal during talks in Oslo the day before, October 20. As a goodwill gesture ahead of the meeting, Russia released Stephen Hubbard, a 74-year-old American who had been detained. Reports note the two sides remain far apart on core issues such as security guarantees and territory. [Reliability: High] (Consistently reported by multiple independent outlets including Axios, CBS News, Al Jazeera and ABC News/CNN; some details, such as the manner of Kushner's participation, vary by outlet.)"
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "region": "サンクトペテルブルク",
-    "lat": 59.9343,
-    "lon": 30.3351,
-    "occurredAt": "2026-10-21T12:00:00+00:00",
-    "source": {
-      "name": "Axios",
-      "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-23-02",
     "headline": {
       "ja": "スーパー台風「ロサール」(国際名チャンピ)、2026年フィリピン近海で最強の台風に 上陸なしもバタネス諸島等に影響",
@@ -282,6 +260,73 @@
     "source": {
       "name": "The Irish Times",
       "url": "https://www.irishtimes.com/environment/2026/10/23/storm-austen-weather-ireland-live-updates/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-24-07",
+    "headline": {
+      "ja": "ヨルダン・カラクの教会で葬儀中に銃撃テロ 7人死亡・34人負傷、国王「テロ行為」",
+      "en": "Gunmen attack funeral at church in Karak, Jordan, killing 7 and wounding 34; king calls it terrorism"
+    },
+    "summary": {
+      "ja": "ヨルダン南部カラク州フムード村のギリシャ正教会で10月23日(金)、葬儀のため150〜200人が集まっていたところに武装した集団が車で現場に乗り付け発砲したという。ヨルダン治安当局(公安局長)によると7人が死亡、34人が負傷した。実行犯は逃走し身元は未判明のまま大規模な捜索が行われているという。アブドラ国王はこれを「テロ行為」と断定し、「最も厳しい報復」で応じると表明、ヨルダンは3日間の国喪を発表した。カラクはイスラム教徒多数派のヨルダンにおいてキリスト教徒が比較的多く住む地域であり、教会を狙った襲撃は同国では稀とされる。[信頼性: 高](CBS News、Haaretz、Fox Newsなど複数メディアの報道、ヨルダン治安当局の発表に基づく。負傷者数は報道により34人・40人の表記の揺れがある)",
+      "en": "Gunmen opened fire from a vehicle at a Greek Orthodox church funeral attended by 150-200 people in Hammoud village, Karak governorate, southern Jordan, on Friday, October 23, according to Jordanian security officials. Jordan's public security chief said 7 people were killed and 34 wounded. The attackers fled and remain unidentified as a large manhunt continues. King Abdullah II called it an act of terrorism and vowed the 'harshest response'; Jordan declared three days of national mourning. Karak is home to a sizeable Christian community in Muslim-majority Jordan, and an attack targeting a church is described as rare there. [Reliability: High] (Based on CBS News, Haaretz, Fox News and other outlets, citing Jordanian security officials; wounded figures vary between 34 and 40 across reports)"
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "region": "カラク州(フムード村)",
+    "lat": 31.1853,
+    "lon": 35.7047,
+    "occurredAt": "2026-10-23T11:00:00+00:00",
+    "source": {
+      "name": "CBS News / Haaretz",
+      "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-24-08",
+    "headline": {
+      "ja": "中国チベット自治区ナクチュでM7.0の地震 16人死亡・76人負傷、1万2千人超避難",
+      "en": "Magnitude 7.0 earthquake hits Nagqu, Tibet, China: 16 dead, 76 injured, over 12,000 evacuated"
+    },
+    "summary": {
+      "ja": "中国チベット自治区ナクチュ(那曲)市の タンネゾン地区で10月22日(木)夜、マグニチュード7.0の地震が発生したという。新華社(Xinhua)によると16人が死亡、76人が負傷し、住宅339棟・畜舎20棟が損壊した。23日午前10時までに1万2千人超が避難し、413回の余震が発生して救助活動を妨げているという。付近の国道317号線の一部は落石で通行止め、鉄道の運行も予防的に見合わせられたという。[信頼性: 中](新華社発の報道をインド系メディア(Tribune India等)経由で確認。ロイター・AFP等の欧米主要通信社による独立確認は本収集時点で見当たらない)",
+      "en": "A magnitude 7.0 earthquake struck the Tangnezong area of Nagqu (Nakchu) City in the Tibet Autonomous Region, China, on Thursday night, October 22, according to Xinhua. At least 16 people were killed and 76 injured, with 339 houses and 20 livestock sheds damaged or destroyed. Over 12,000 residents had been evacuated by 10 a.m. the following day, and 413 aftershocks reportedly hampered rescue efforts. Part of National Highway 317 was closed due to rockfalls, and rail service was suspended as a precaution. [Reliability: Medium] (Reported via Xinhua as relayed by Indian outlets such as Tribune India; no independent confirmation from Reuters, AFP or other Western wire services found at time of collection)"
+    },
+    "category": "disaster",
+    "country": "中国",
+    "region": "チベット自治区(ナクチュ市)",
+    "lat": 29.65,
+    "lon": 91.1,
+    "occurredAt": "2026-10-22T14:00:00+00:00",
+    "source": {
+      "name": "Xinhua (via Tribune India)",
+      "url": "https://www.tribuneindia.com/news/world/tibet-earthquake-76-injured-16-killed-after-7-0-magnitude-quake-hits-nakchu-rescue-operations-underway"
+    },
+    "reliability": "medium",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-24-09",
+    "headline": {
+      "ja": "金価格が4,000ドルを割り込み6月以来の大幅な週間下落 原油高と米利上げ観測が背景",
+      "en": "Gold falls below $4,000, posting steepest weekly drop since June, as oil rally fuels Fed rate-hike bets"
+    },
+    "summary": {
+      "ja": "10月23日(金)、金相場が7月中旬以来初めて1オンス=4,000ドルを割り込み、1オンス=3,998.35ドル(前日比0.6%安)まで下落、6月以来最大の週間下落となる見込みだという。原油価格の上昇(ブレント原油は約5カ月ぶりの高値、1バレル=114〜116ドル付近)がインフレ懸念を強め、米連邦準備制度理事会(FRB)が高金利を維持するとの観測を強めたことが要因とされる。市場は10月27〜28日のFOMCで政策金利が維持されると広く予想しているという。[信頼性: 高](ロイター発、CNBC・Investing.com等で報道)",
+      "en": "Gold fell below $4,000 an ounce for the first time since mid-July on Friday, October 23, dropping 0.6% to $3,998.35, putting it on track for its steepest weekly loss since June, according to Reuters reporting carried by CNBC and Investing.com. Rising oil prices (Brent near a five-month high around $114-116 a barrel) have stoked inflation worries and reinforced bets that the Federal Reserve will keep interest rates elevated. Markets widely expect the Fed to hold rates steady at its October 27-28 meeting. [Reliability: High] (Reuters, via CNBC and Investing.com)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-23T15:20:00+00:00",
+    "source": {
+      "name": "Reuters (via CNBC)",
+      "url": "https://www.cnbc.com/amp/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
     },
     "reliability": "high"
   }
