@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:41:56.386Z",
+  "generatedAt": "2026-10-24T10:48:39.684Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 183,
   "warnings": [
@@ -3222,6 +3222,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262016",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "2016",
+      "title": "九州東岸、避難勧告",
+      "publishedAt": "2026-10-24T16:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2016    発表日時:2026年10月24日 16時\r\n\n\r\n九州東岸、\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。\r\r\n(2013削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262016&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262015",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3250,18 +3262,6 @@
       },
       "rawText": "番号:26-2014    発表日時:2026年10月24日 13時\r\n\n\r\nチキウ岬南東、\r\r\n射撃、10月29日(予備30日)0900-2400、\r\r\n42-07N 141-14Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262014&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262013",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "2013",
-      "title": "南西諸島及び九州東岸、避難勧告",
-      "publishedAt": "2026-10-23T18:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2013    発表日時:2026年10月23日 18時\r\n\n\r\n南西諸島及び九州東岸\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。\r\r\n(2000削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262013&LANG=JP"
     },
     {
       "id": "NAVTEX-262011",
