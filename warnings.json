@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T14:17:59.485Z",
+  "generatedAt": "2026-10-25T18:21:52.197Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 181,
+  "count": 178,
   "warnings": [
     {
       "id": "NAVAREA11-260483",
@@ -410,24 +410,6 @@
       },
       "rawText": "番号:26-4197   発表日時:2026年10月24日 20時\r\n\n\r\nチキウ岬南東、\r\r\n射撃、10月29日(予備30日)0900-2400、42-07N 141-14E\r\r\nを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264197&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264196",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "自然現象",
-      "number": "4196",
-      "title": "南太平洋、バヌアツ諸島、津波情報",
-      "publishedAt": "2026-10-24T12:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          165.7,
-          -13.8
-        ]
-      },
-      "rawText": "番号:26-4196   発表日時:2026年10月24日 12時\r\n\n\r\n★ 津波情報、\r\r\n南太平洋、バヌアツ諸島、気象庁によれば、13-48S 165-42E、\r\r\n10月24日0231Z、マグニチュード7.2の地震に伴い、震源近傍で津波発\r\r\n生のおそれあり。沿岸の船舶は注意されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264196&LANG=JP"
     },
     {
       "id": "JAPANNW-264195",
@@ -1428,38 +1410,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264142&LANG=JP"
     },
     {
-      "id": "JAPANNW-264136",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4136",
-      "title": "済州島東（Ｄ−１１８）、射撃",
-      "publishedAt": "2026-10-20T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            127.66666666666667,
-            34
-          ],
-          [
-            128.5,
-            34
-          ],
-          [
-            127.83333333333333,
-            33.166666666666664
-          ],
-          [
-            127.66666666666667,
-            33.166666666666664
-          ]
-        ]
-      },
-      "rawText": "番号:26-4136   発表日時:2026年10月20日 20時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、10月25日0600Z-1100Z、\r\r\n34-00N 127-40E 34-00N 128-30E\r\r\n33-10N 127-50E 33-10N 127-40Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264136&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264134",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1758,24 +1708,6 @@
       },
       "rawText": "番号:26-4105   発表日時:2026年10月17日 08時\r\n\n\r\n★ 日本海北部、\r\r\n射撃、10月18日2300Z-30日0700Z、\r\r\n47-33N 139-11E 47-21N 139-35E\r\r\n47-03N 139-16E 47-13N 138-54E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264105&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264088",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4088",
-      "title": "鬱陵島東（Ｄ−１４１）、射撃",
-      "publishedAt": "2026-10-16T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          131.2,
-          37.668055555555554
-        ]
-      },
-      "rawText": "番号:26-4088   発表日時:2026年10月16日 20時\r\n\n\r\n★ 朝鮮半島東岸、鬱陵島東、\r\r\n射撃、10月18日2100Z-翌日1500Z、20日-25日毎日0000Z-\r\r\n1400Z、37-30-05N 37-40-05N 131-12-00E \r\r\n131-25-00Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264088&LANG=JP"
     },
     {
       "id": "JAPANNW-264071",
