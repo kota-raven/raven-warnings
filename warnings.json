@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T04:29:39.123Z",
+  "generatedAt": "2026-10-25T09:45:14.855Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 184,
+  "count": 187,
   "warnings": [
     {
       "id": "NAVAREA11-260481",
@@ -3146,6 +3146,88 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262020",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "2020",
+      "title": "瀬戸内海、相生港−呉港、起重機船えい航",
+      "publishedAt": "2026-10-25T17:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            134.46666666666667,
+            34.78333333333333
+          ],
+          [
+            132.53333333333333,
+            34.233333333333334
+          ]
+        ]
+      },
+      "rawText": "番号:26-2020    発表日時:2026年10月25日 17時\r\n\n\r\n瀬戸内海、相生港-呉港、\r\r\nえい船(明陽丸、MMSI 432579000)による\r\r\n起重機船(武蔵、長さ107メートル)えい航、\r\r\n相生港(34-47N 134-28E)\r\r\n10月25日1930出港、\r\r\n備讃瀬戸東航路、備讃瀬戸北航路、来島海峡航路経由、\r\r\n呉港(34-14N 132-32E)26日2233到着予定、\r\r\n速力約6ノット、長さ約290メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262020&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262019",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2019",
+      "title": "五島列島南、射撃",
+      "publishedAt": "2026-10-25T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          128.76444444444445,
+          32.336666666666666
+        ]
+      },
+      "rawText": "番号:26-2019    発表日時:2026年10月25日 13時\r\n\n\r\n五島列島南、\r\r\n射撃、10月30日(予備31日)0800-1700、\r\r\n31-47-12N 32-20-12N 128-45-52E\r\r\n129-09-52Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262019&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262018",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2018",
+      "title": "都井岬東北東、射撃",
+      "publishedAt": "2026-10-25T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            133.49749999999997,
+            31.803611111111113
+          ],
+          [
+            133.49749999999997,
+            31.703611111111112
+          ],
+          [
+            132.99749999999997,
+            31.470277777777778
+          ],
+          [
+            132.99749999999997,
+            31.603611111111114
+          ],
+          [
+            132.63083333333333,
+            31.603611111111114
+          ],
+          [
+            132.63083333333333,
+            31.803611111111113
+          ]
+        ]
+      },
+      "rawText": "番号:26-2018    発表日時:2026年10月25日 13時\r\n\n\r\n都井岬東北東、\r\r\n射撃、10月30日(予備31日)0600-1800、\r\r\n31-48-13N 133-29-51E\r\r\n31-42-13N 133-29-51E\r\r\n31-28-13N 132-59-51E\r\r\n31-36-13N 132-59-51E\r\r\n31-36-13N 132-37-51E\r\r\n31-48-13N 132-37-51Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262018&LANG=JP"
     },
     {
       "id": "NAVTEX-262017",
