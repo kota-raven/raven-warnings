@@ -285,5 +285,114 @@
       "url": "https://www.cnbc.com/amp/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-25-01",
+    "headline": {
+      "ja": "トランプ米大統領、「日曜日にもイラン攻撃」の可能性に言及 イラン大統領は米側の交渉失敗を非難",
+      "en": "Trump says US considers possible Sunday attack on Iran, or a deal; Iranian president blames US for collapse of talks"
+    },
+    "summary": {
+      "ja": "Al Jazeeraのライブブログ(10月25日)によると、トランプ米大統領は、米国が早ければ日曜日にもイランへの攻撃を検討していること、またはイランとの大型の合意に達する可能性があることに言及したという。これに先立つ報道では、イランのペゼシュキアン大統領が、6月の戦闘終結・ホルムズ海峡再開に関する米イラン覚書(8月に失効)をめぐる協議決裂の責任は米国にあると非難する一方、合意妥結へ改めて取り組むべきだとも述べたとされる。背景として、イラン軍参謀総長は米軍のペルシャ湾への展開を「いかなる状況でも認めない」と述べ、イラン側はホルムズ海峡で7隻の船舶が被害を受けたとして米側に警告しているという。トランプ氏自身も10月23日(金)、2月末開始の米・イスラエル対イラン戦争の作戦名「エピック・フューリー」を再び実施する可能性に言及したとされる。[信頼性: 中](Al Jazeeraの報道に基づく。トランプ氏・ペゼシュキアン氏それぞれの発言自体は確実だが、「日曜日の攻撃」自体は検討段階の言及であり、実際に攻撃が行われるかは未確定)",
+      "en": "According to an Al Jazeera live blog (October 25), Trump said the US is considering a possible attack on Iran as soon as Sunday, or could instead reach a major deal with Tehran. Earlier reports said Iranian President Masoud Pezeshkian blamed Washington for the breakdown of talks over the June memorandum that had ended the fighting and reopened the Strait of Hormuz (which expired in August), while also saying both sides should work to conclude an agreement. Iran's armed forces chief of staff has said the US military will not be allowed in the Gulf \"under any circumstances,\" and Iran says seven vessels have been hit in the Strait of Hormuz, warning of a wider response. Trump himself reportedly said on Friday, October 23, that he \"may do another Epic Fury,\" the codename for the US-Israeli operation against Iran that began February 28. [Reliability: Medium] (Based on Al Jazeera reporting. The statements themselves by Trump and Pezeshkian are reliable as their own remarks, but the \"Sunday attack\" remains at the consideration stage and whether an attack will actually occur is unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-24T15:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-25-02",
+    "headline": {
+      "ja": "フーシ派、サウジアラビアとイエメン・アデンへ攻撃 サウジ治安当局「メッカ・メディナ方向へミサイル」、フーシ派は否定",
+      "en": "Houthis attack Saudi Arabia and Yemen's Aden; Saudi authorities say missiles fired toward Mecca and Medina, Houthis deny"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、イエメンのフーシ派(イラン支援)は10月24日、サウジアラビアとイエメン・アデン(国際的に承認されたイエメン政府の拠点)の両方を狙った一連の攻撃を行ったという。イエメン政府運輸省は、フーシ派がアデン国際空港に弾道ミサイル2発を発射したとし、今月に入って4回目の攻撃だと説明、沿岸警備隊本部なども被弾したとした。フーシ派側は、ナスル駐屯地とアデン海軍基地を狙ったと主張しているという。サウジアラビア側(民間防衛当局)は、フーシ派がメッカ・メディナ方向へ弾道ミサイル2発を発射したとし、サウジ通信(SPA)は同国内に落下した黒く焦げたミサイル状の物体の画像を公開したという。フーシ派側はメッカ・メディナを狙ったとの主張を「全くの虚偽」と否定し、標的はサウジ国内の空港3カ所・石油関連施設・空軍基地だったと主張しているという。このほかフーシ派は、サウジ主導連合軍の空爆によりサナアとホデイダで民間人が死亡したと主張しているが、この点は独立した確認ができていないという。[信頼性: 中](Al Jazeera報道に基づく。攻撃の発生自体は両政府の発表が一致するが、標的や被害の詳細は当事者間で主張が対立しており、独立した確証は得られていない)",
+      "en": "According to Al Jazeera, Yemen's Iran-aligned Houthi movement carried out a series of attacks on October 24 targeting both Saudi Arabia and Aden, the seat of Yemen's internationally recognized government. Yemen's Transport Ministry said the Houthis fired two ballistic missiles at Aden International Airport, the fourth such attack this month, and that the coastguard headquarters and another building were also hit; the Houthis claimed they targeted the al-Nasr camp and Aden's naval base. Saudi civil defense said the Houthis fired two ballistic missiles toward Mecca and Medina, and the Saudi Press Agency released images of a blackened, missile-shaped object that landed inside the kingdom. The Houthis called the claim about targeting the holy cities \"a complete lie,\" saying their targets were three Saudi airports, oil infrastructure and an air base. The Houthis also said Saudi coalition air strikes killed civilians in Sanaa and Hodeidah, a claim that could not be independently verified. [Reliability: Medium] (Based on Al Jazeera reporting; both governments agree an attack occurred, but the parties dispute the specific targets and damage, which are not independently confirmed.)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "アデン(暫定首都、政府支持派支配地域)",
+    "lat": 12.7855,
+    "lon": 45.0187,
+    "occurredAt": "2026-10-24T10:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
+    },
+    "reliability": "medium",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-25-03",
+    "headline": {
+      "ja": "仏パリ郊外トラップで銃撃、1人死亡・5人負傷 マクロン大統領「人種差別的なテロ攻撃」と非難",
+      "en": "Shooting in Trappes, Paris suburb, kills one and wounds five; Macron calls it a 'racist terrorist attack'"
+    },
+    "summary": {
+      "ja": "France 24・Al Jazeeraによると、10月23日(金)朝、パリ近郊イヴリーヌ県トラップで、車から発砲した男が1人を殺害し、12歳の少女を含む5人を負傷させたという。警察は39歳の男(ケビン・T容疑者)を逮捕した。検察当局は「テロ目的の殺人」容疑で捜査を開始し、被害者の実際の、または推定される人種・民族・国籍・宗教を理由とした犯行かどうかを調べているという。マクロン大統領はこれを「テロ的かつ人種差別的な攻撃」と断定した。一部報道では、容疑者が「外国人を殺したかった」と供述したとされるが、この情報は地元国会議員の発言を根拠としており、捜査当局による直接の確認は得られていないという。[信頼性: 中](France 24・Al Jazeeraの報道に基づく。動機に関する詳細な供述内容は地元議員の発言が根拠で、未確証)",
+      "en": "According to France 24 and Al Jazeera, a gunman firing from a car killed one person and wounded five, including a 12-year-old girl, in Trappes, in the Yvelines department near Paris, on the morning of Friday, October 23. Police arrested a 39-year-old suspect identified as Kevin T. Prosecutors opened an investigation for \"murder in connection with a terrorist enterprise\" and are examining whether the attack targeted victims over their real or perceived race, ethnicity, nationality or religion. President Macron called it a \"terrorist and racist attack.\" Some reports say the suspect told police he wanted to \"kill foreigners,\" though that claim is attributed to a local member of parliament and has not been directly confirmed by investigators. [Reliability: Medium] (Based on France 24 and Al Jazeera reporting; the detailed account of the suspect's motive is sourced to a local MP's remarks and remains unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "region": "トラップ(イヴリーヌ県)",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-23T05:00:00+00:00",
+    "source": {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-25-04",
+    "headline": {
+      "ja": "仏全土で生活費高騰への抗議デモ、推定41万人超 治安当局7万人超を配備",
+      "en": "Hundreds of thousands protest nationwide in France over cost of living; over 70,000 police deployed"
+    },
+    "summary": {
+      "ja": "France 24によると、10月24日(土)、フランス全土で生活費高騰等に抗議する大規模デモが行われたという。フランス内務省は全国で41万人が参加したとし、このうちパリでは11万人としたが、労働組合CGTは実際の人数は公式発表の2倍近いと主張しているという。内務省のヌニェス大臣は、全国で7万人超の警察官・憲兵を配備したと述べた。主要美術館を含むパリの施設の一部は、デモに備えて休館したという。[信頼性: 中](France 24の報道に基づく。参加人数は政府発表と主催者側の主張で大きく異なり、いずれも独立した確証ができる客観数値ではない)",
+      "en": "According to France 24, large-scale protests over the rising cost of living took place across France on Saturday, October 24. France's Interior Ministry said 410,000 people took part nationwide, including 110,000 in Paris, while the CGT union claimed the real turnout was nearly double the official figures. Interior Minister Laurent Nunez said more than 70,000 police officers and gendarmes were deployed nationwide. Some major Paris museums and other facilities closed ahead of the demonstrations. [Reliability: Medium] (Based on France 24 reporting; participant numbers differ significantly between the government's figures and organizers' claims, and neither is an independently verified objective count.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-24T10:00:00+00:00",
+    "source": {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-25-05",
+    "headline": {
+      "ja": "ケニアでエボラ出血熱2人目の死者、隣国ナイジェリアでも初の感染確認 DRC株と一致",
+      "en": "Kenya reports second Ebola death as Nigeria confirms its first case, matching DRC strain"
+    },
+    "summary": {
+      "ja": "Al Jazeera・NPRによると、ケニア保健当局は10月23日、エボラ出血熱(ブンディブギョ株)による2人目の死者を確認したと発表した。保健総局長パトリック・アモス氏は、確認された感染者9人は全て単一のクラスターに属し、クラスター外への感染拡大の兆候はないとした上で、接触者135人のうち134人の追跡・隔離が完了していると述べた。ケニアの最初の患者は、コンゴ民主共和国(DRC)から来た旅行者で、10月5日にナイロビで死亡していたという。一方、隣国ナイジェリアでも10月20日、ウガンダから到着した女性のエボラ感染がアブジャで確認され、保健当局者によるとDRCの流行株と一致したという。ケニア・ナイジェリア両国の初発患者の行動歴に接点があったかどうかについて、当局が調査しているとされる。[信頼性: 中](Al Jazeera・NPRの報道に基づく。クラスター数・死者数はケニア保健当局発表によるが、ナイジェリア症例との関連性は調査中で未確定)",
+      "en": "According to Al Jazeera and NPR, Kenyan health authorities announced on October 23 a second death from the Ebola outbreak (Bundibugyo strain). Director-General of Health Patrick Amoth said all nine confirmed cases belong to a single cluster with no sign of spread beyond it, and that 134 of 135 traced contacts have been quarantined. Kenya's first patient was a traveler from the DRC who died in Nairobi on October 5. Separately, neighboring Nigeria confirmed its first Ebola case on October 20, in a woman who had arrived from Uganda and tested positive in Abuja; health officials said it matched the strain circulating in the DRC outbreak. Authorities are reportedly investigating whether the index cases in Kenya and Nigeria crossed paths. [Reliability: Medium] (Based on Al Jazeera and NPR reporting. Cluster and death counts come from Kenyan health authorities; the link to the Nigerian case remains under investigation and unconfirmed.)"
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -0.0236,
+    "lon": 37.9062,
+    "occurredAt": "2026-10-23T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread"
+    },
+    "reliability": "medium"
   }
 ]
