@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-10-22-06",
-    "headline": {
-      "ja": "金価格、中東情勢を背景とした原油高騰によるインフレ懸念で2週間ぶりの安値に",
-      "en": "Gold falls to two-week low as oil-driven inflation fears weigh on precious metal"
-    },
-    "summary": {
-      "ja": "CNBCによると、10月22日午前9時(米東部時間)時点でスポット金価格は1オンス=4,083.82ドルとなり、前日同時刻の4,129.91ドルから下落、2週間超ぶりの安値を付けた。中東情勢の緊迫化(サウジアラビアでのフーシ派による攻撃拡大など)を背景とした原油価格の上昇がインフレ懸念を強め、米連邦準備制度理事会(FRB)による利上げ観測が強まったことで、無利息資産である金の魅力が後退したとされる。CMEのFedWatchツールによると、市場は12月の利上げの可能性を91%と見込んでいるという。次の重要指標である米個人消費支出(PCE)物価指数は10月29日に発表予定。[信頼性: 高](CNBC報道に基づく)",
-      "en": "According to CNBC, spot gold stood at $4,083.82 an ounce as of 9:00 a.m. ET on October 22, down from $4,129.91 at the same time the previous day, marking its lowest level in more than two weeks. Rising oil prices driven by escalating Middle East tensions, including expanding Houthi attacks on Saudi Arabia, have stoked inflation fears and bolstered expectations of a Federal Reserve rate hike, reducing the appeal of non-yielding gold. Per CME's FedWatch tool, markets are pricing in a 91% chance of a rate hike in December. The next major data point, the US PCE inflation report, is due October 29. [Reliability: High] (Based on CNBC reporting.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-22T13:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/amp/2026/10/22/gold-hits-over-two-week-low-as-oil-rally-fuels-inflation-worries.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-24-08",
-    "headline": {
-      "ja": "中国チベット自治区ナクチュでM7.0の地震 16人死亡・76人負傷、1万2千人超避難",
-      "en": "Magnitude 7.0 earthquake hits Nagqu, Tibet, China: 16 dead, 76 injured, over 12,000 evacuated"
-    },
-    "summary": {
-      "ja": "中国チベット自治区ナクチュ(那曲)市の タンネゾン地区で10月22日(木)夜、マグニチュード7.0の地震が発生したという。新華社(Xinhua)によると16人が死亡、76人が負傷し、住宅339棟・畜舎20棟が損壊した。23日午前10時までに1万2千人超が避難し、413回の余震が発生して救助活動を妨げているという。付近の国道317号線の一部は落石で通行止め、鉄道の運行も予防的に見合わせられたという。[信頼性: 中](新華社発の報道をインド系メディア(Tribune India等)経由で確認。ロイター・AFP等の欧米主要通信社による独立確認は本収集時点で見当たらない)",
-      "en": "A magnitude 7.0 earthquake struck the Tangnezong area of Nagqu (Nakchu) City in the Tibet Autonomous Region, China, on Thursday night, October 22, according to Xinhua. At least 16 people were killed and 76 injured, with 339 houses and 20 livestock sheds damaged or destroyed. Over 12,000 residents had been evacuated by 10 a.m. the following day, and 413 aftershocks reportedly hampered rescue efforts. Part of National Highway 317 was closed due to rockfalls, and rail service was suspended as a precaution. [Reliability: Medium] (Reported via Xinhua as relayed by Indian outlets such as Tribune India; no independent confirmation from Reuters, AFP or other Western wire services found at time of collection)"
-    },
-    "category": "disaster",
-    "country": "中国",
-    "region": "チベット自治区(ナクチュ市)",
-    "lat": 29.65,
-    "lon": 91.1,
-    "occurredAt": "2026-10-22T14:00:00+00:00",
-    "source": {
-      "name": "Xinhua (via Tribune India)",
-      "url": "https://www.tribuneindia.com/news/world/tibet-earthquake-76-injured-16-killed-after-7-0-magnitude-quake-hits-nakchu-rescue-operations-underway"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
     "id": "2026-10-23-03",
     "headline": {
       "ja": "ロシア・ウクライナ和平協議、11月前半にUAE(アブダビ)で開催予定 クレムリンが確認、ゼレンスキー氏も支持を表明",
@@ -435,6 +391,27 @@
     "source": {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-25-10",
+    "headline": {
+      "ja": "仏生活費デモ、週末の拘束者1,314人・警官53人負傷に(抗議者の重傷例も)",
+      "en": "France cost-of-living protests: 1,314 arrested, 53 officers hurt over the weekend"
+    },
+    "summary": {
+      "ja": "France 24・Al Jazeeraによると、フランス内務省は10/24の生活費高騰抗議デモについて、全国で1,314人を拘束、警官53人が負傷したと発表した。抗議者側にもトゥールーズで右手の指数本を失う重傷、クレルモン=フェランで負傷との報道があり、商店24店舗の略奪・75件の火災対応があったという。既報(id: 2026-10-25-04, 2026-10-25-07)の参加者数・拘束者数の続報・確定値として新規採用した。",
+      "en": "According to France 24 and Al Jazeera, France's Interior Ministry said 1,314 people were arrested nationwide and 53 police officers were injured during the October 24 cost-of-living protests. Protesters were also hurt, including a man in Toulouse reported to have lost several fingers on his right hand; police also responded to 75 fires and 24 looted shops. This updates earlier reports (id: 2026-10-25-04, 2026-10-25-07) with finalized arrest and injury figures."
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-25T07:00:00+00:00",
+    "source": {
+      "name": "France 24 / Al Jazeera",
+      "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france"
     },
     "reliability": "medium"
   }
