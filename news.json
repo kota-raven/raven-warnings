@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-10-23-03",
-    "headline": {
-      "ja": "ロシア・ウクライナ和平協議、11月前半にUAE(アブダビ)で開催予定 クレムリンが確認、ゼレンスキー氏も支持を表明",
-      "en": "Russia-Ukraine-US talks planned for first half of November in UAE, Kremlin confirms; Zelenskyy voices support"
-    },
-    "summary": {
-      "ja": "Al Jazeera、Sputnikによると、クレムリンのペスコフ報道官は、ロシア・ウクライナ・米国による3者協議が11月前半にアブダビ(UAE)で開催される予定だと述べたという(ただし開催地については「現在協議中」とも述べたという)。ウクライナのゼレンスキー大統領は「我々はこれを支持する」と述べ、可能であれば11月の早い時期の開催を望んでいるという。ロシア大統領府のウシャコフ補佐官は、前回予定されていた協議が、ウクライナの議会選挙当日にロシアへの攻撃があったことを理由に中止されたと説明したという。協議は技術レベルで行われ、ロシア・ウクライナ間の戦後安全保障の枠組みが主要議題になる見通しと報じられている。既報(id: 2026-10-21のウィトコフ特使・プーチン氏会談、2026-10-23-01)で示された「アブダビで技術レベルの協議の可能性」が、本時間帯にクレムリン報道官自身の発言とゼレンスキー氏の公式な反応により具体化・確認された。[信頼性: 高](Al Jazeera、Axios、CBS News、Sputnik等の複数の独立したメディアが、クレムリン・ウクライナ双方の当局者発言として一致して報道。ただし開催地・具体的日程は未確定)",
-      "en": "According to Al Jazeera and Sputnik, Kremlin spokesman Dmitry Peskov said talks among Russia, Ukraine and the US are planned for the first half of November in Abu Dhabi, UAE (though he reportedly also said the venue is still 'under discussion'). Ukrainian President Volodymyr Zelenskyy said 'we support this' and said Ukraine would prefer the talks to take place as early as possible in November. Kremlin aide Yuri Ushakov reportedly said a previously planned round was cancelled after Ukrainian strikes on Russia on the day of Ukraine's parliamentary elections. The talks are expected to be held at a technical level, with a post-war security framework for Russia and Ukraine as the main topic. This confirms and sharpens the 'possible technical-level talks in Abu Dhabi' mentioned in an earlier report (id: 2026-10-23-01, on the Witkoff-Putin meeting), now via the Kremlin spokesman's own statement and Zelenskyy's public response. [Reliability: High] (Consistently reported by multiple independent outlets including Al Jazeera, Axios, CBS News and Sputnik, citing officials on both the Russian and Ukrainian sides; the exact venue and date remain unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "UAE",
-    "region": "アブダビ",
-    "lat": 23.4241,
-    "lon": 53.8478,
-    "occurredAt": "2026-10-22T18:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-25-05",
     "headline": {
       "ja": "ケニアでエボラ出血熱2人目の死者、隣国ナイジェリアでも初の感染確認 DRC株と一致",
@@ -412,6 +390,135 @@
     "source": {
       "name": "France 24 / Al Jazeera",
       "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-01",
+    "headline": {
+      "ja": "セルビア総選挙、投票率64.9%で1992年以来最高 結果発表は月曜以降",
+      "en": "Serbia holds parliamentary election with highest turnout since 1992; final results due Monday"
+    },
+    "summary": {
+      "ja": "Al Jazeera・France24によると、セルビアの議会選挙(与党・ヴチッチ氏のSNSと学生運動系「学生のリスト」の対決)で投票が締め切られ、中央選管によると投票率は64.9%でユーゴスラビア解体後最高となったという。事前調査ではSNS47%・学生側40%程度と接近していたとされ、公式集計の発表は月曜以降の見込みという。",
+      "en": "According to Al Jazeera and France 24, voting closed in Serbia's parliamentary election pitting President Vučić's SNS against the Students' List movement, with the state election commission reporting 64.9% turnout, the highest since Yugoslavia's breakup. Pre-vote polling had shown a close race (around SNS 47% to Students' List 40%). The official tally is not expected before Monday."
+    },
+    "category": "conflict",
+    "country": "セルビア",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "occurredAt": "2026-10-25T17:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / France 24",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-26-02",
+    "headline": {
+      "ja": "トランプ氏「今日の攻撃はない」、イラン情勢は停戦協議へ カタールが仲介",
+      "en": "Trump says 'no strike today' on Iran as Qatari mediators push for renewed talks"
+    },
+    "summary": {
+      "ja": "Al Jazeeraのライブブログ(10/25)によると、トランプ米大統領は「今日イランを攻撃することはない」と述べ、カタールの仲介者がテヘラン入りして米イラン協議再開への「慎重な楽観論」が伝えられているという。一方で米メディアは国防総省が中間選挙後のイラン攻撃選択肢を準備済みと報じており、ペゼシュキアン・イラン大統領は米側の交渉決裂を非難したという。既報(id: 2026-10-25-01)の「日曜攻撃の可能性」を巡る続報で、本時点では軍事行動は回避されたため新たなseverityは付与していない。",
+      "en": "According to an Al Jazeera live blog (Oct 25), US President Trump said there would be 'no strike today' on Iran, while Qatari mediators traveled to Tehran amid reports of 'cautious optimism' about resuming stalled US-Iran talks. US media separately reported the Pentagon has prepared strike options for after the midterm elections, and Iran's President Pezeshkian blamed the US for the collapse of interim talks. This is a follow-up to the previously reported possibility of a Sunday strike (id: 2026-10-25-01); since military action was avoided at this point, no new severity is assigned."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-25T15:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-03",
+    "headline": {
+      "ja": "リヤド国際空港、2週間の閉鎖を経て運航再開 フーシ派は「依然危険」と警告継続",
+      "en": "Riyadh airport resumes flights after two-week closure; Houthis maintain 'unsafe' warning"
+    },
+    "summary": {
+      "ja": "France24によると、フーシ派の攻撃による約2週間の閉鎖を経て、リヤドのキング・ハーリド国際空港が10/25(日)に運航を再開したという。一方でフーシ派の軍事報道官サリー氏は同空港が依然「安全でない」「軍事目標」であると警告を継続しているという。既報のフーシ派対サウジの攻撃・警告(id: 2026-10-25-02, 06)の続報。",
+      "en": "According to France 24, Riyadh's King Khalid International Airport resumed flights on Sunday, Oct 25, after about two weeks of closure caused by Houthi attacks. Houthi military spokesman Yahya Saree, however, continued to warn that the airport remains 'unsafe' and a 'military target.' This is a follow-up to previously reported Houthi attacks and warnings against Saudi Arabia (ids: 2026-10-25-02, 2026-10-25-06)."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-25T06:00:00+00:00",
+    "source": {
+      "name": "France 24",
+      "url": "https://france24.com/en/live-news/20261025-riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-04",
+    "headline": {
+      "ja": "ウクライナ・ハルキウ州ロゾヴァへのロシア軍ミサイル攻撃で1人死亡",
+      "en": "Russian missile strike on Lozova, Kharkiv region, kills one in Ukraine"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ハルキウ州知事シニエフボフ氏は10/24(土)、同州ロゾヴァへのロシア軍ミサイル攻撃で男性1人が死亡、2人が負傷したと発表したという。既報(id: 2026-10-25-09)の夜間弾道ミサイル攻撃(キーウのエネルギー施設狙い)とは別の、同日の攻撃事案。",
+      "en": "According to Al Jazeera, Kharkiv region Governor Oleh Syniehubov said a Russian missile strike on Lozova in the region on Saturday, Oct 24, killed one man and wounded two others. This is a separate incident from the previously reported overnight ballistic missile attack on Kyiv-area energy facilities (id: 2026-10-25-09), occurring the same day."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ハルキウ州",
+    "lat": 48.8929,
+    "lon": 36.3297,
+    "occurredAt": "2026-10-24T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-05",
+    "headline": {
+      "ja": "ウクライナ・ドニプロペトロフスク州へのロシア軍ドローン攻撃で3人死亡・8人負傷",
+      "en": "Russian drone attack on Dnipropetrovsk region kills three, injures eight in Ukraine"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ドニプロペトロフスク州知事代理ハイヴァネンコ氏は10/24(土)、同州へのロシア軍ドローン攻撃で少なくとも3人が死亡、8人が負傷したと発表したという。ロゾヴァの攻撃(id: 2026-10-26-04)と同日の別地域での事案。",
+      "en": "According to Al Jazeera, acting Dnipropetrovsk region Governor Vladyslav Haivanenko said a Russian drone attack on the region on Saturday, Oct 24, killed at least three people and injured eight others. This occurred the same day as, but in a different region from, the Lozova strike (id: 2026-10-26-04)."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ドニプロペトロフスク州",
+    "lat": 48.4647,
+    "lon": 35.0462,
+    "occurredAt": "2026-10-24T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-06",
+    "headline": {
+      "ja": "原油価格、ブレント117ドルまで上昇 4月以来の高値 フーシ派のサウジ関連タンカー攻撃が背景",
+      "en": "Brent crude climbs to $117, highest since April, as Houthi attacks on Saudi-linked tankers add to market pressure"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ホルムズ海峡でのイラン関連の緊張に加え、フーシ派がサウジアラビアに対する海上封鎖を宣言し、紅海でサウジ関連の2隻のタンカー(Encelia、Layla)への攻撃を主張したことを受け、ブレント原油先物は1バレル約117ドルまで上昇し4月以来の高値となったという。海上保険料(戦争リスク保険料)も過去5年平均の4倍程度に上昇しているとの分析があるという。",
+      "en": "According to Al Jazeera, Brent crude futures rose to about $117 a barrel, the highest since April, amid Iran-related tension in the Strait of Hormuz and after Houthi forces declared a naval blockade against Saudi Arabia and claimed attacks on two Saudi-linked oil tankers (the Encelia and the Layla) in the Red Sea. Analysts cited war-risk shipping insurance premiums running at roughly four times their five-year average."
+    },
+    "category": "economy",
+    "country": "イエメン",
+    "region": "紅海",
+    "lat": 20.0,
+    "lon": 38.0,
+    "occurredAt": "2026-10-24T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
     },
     "reliability": "medium"
   }
