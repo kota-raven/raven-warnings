@@ -266,6 +266,30 @@
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
+    "id": "2026-10-23-jp-000084",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "きりさめ",
+    "shipNumber": "DD-104",
+    "shipType": "destroyer",
+    "position": {
+      "area": "南シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛省統合幕僚監部の発表により、護衛艦きりさめ(DD-104)が10月23日に南シナ海でアメリカ沿岸警備隊、フィリピン海軍・空軍、フィリピン沿岸警備隊との日米比共同訓練を実施したと報告",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37301/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
     "id": "2026-10-23-us-000077",
     "recordType": "individual",
     "country": "US",
@@ -336,6 +360,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-22T10:15:00Z"
+  },
+  {
+    "id": "2026-10-22-us-000086",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "バーモント",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "横須賀",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米バージニア級原子力潜水艦バーモントが横須賀に入港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37281/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-22T00:00:00Z"
   },
   {
     "id": "2026-10-21-cn-000065",
@@ -818,6 +866,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
+  },
+  {
+    "id": "2026-10-18-au-000085",
+    "recordType": "individual",
+    "country": "AU",
+    "shipName": "Sydney",
+    "shipNumber": "DDG-42",
+    "shipType": "destroyer",
+    "position": {
+      "area": "インド太平洋地域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "オーストラリア国防省が、ホバート級駆逐艦シドニー(DDG-42)が131日間のインド太平洋地域での展開を終えて帰国したと発表",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37299/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-18T00:00:00Z"
   },
   {
     "id": "2026-10-18-jp-000045",
@@ -1493,8 +1565,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-10T12:00:00Z"
   },
   {
@@ -1517,8 +1589,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-10T12:00:00Z"
   },
   {
