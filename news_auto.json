@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-30091",
+    "headline": {
+      "ja": "イエメン・アデンで爆発、フーシ派ミサイルとみられる",
+      "en": "Explosion in Aden, Yemen, suspected to be from Houthi missile"
+    },
+    "summary": {
+      "ja": "イエメンのアデンで爆発が発生し、フーシ派からのミサイル攻撃の可能性があり、軍事司令部近くに着弾したと報道されている。",
+      "en": "An explosion occurred in Aden, Yemen, with suspected Houthi missile attack landing near military headquarters."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-25T21:02:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXlmVTRWYmtmUWljOHJWWXpHcTFIZkxRQ2E1YWluZjllQXZ1bXpWMEJkYVNRalk5SFliQjlLM04tWGlSVWw0SUUwTWl0b3I3clVCYnIxdTRLZ0drb0lZNmJqbnpuc0UwZUQ0MDVmS0oyT2haOG5uRUJWNFFYbEtLOEhOYS1DQlZrVEJKVEtJUDQxc095V2pyeWV6Q2ZKOXFPTERKdDFPcHpMcEVXcE0zdjBqclhFZnVNdHI1eHFxUkZzeWtfUXQxU1VDUnJvdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_aden_houthi_missile_2026-10-25"
+  },
+  {
+    "id": "auto-30088",
+    "headline": {
+      "ja": "フーシ派がサウジアラビアの空港・軍事基地へのミサイル攻撃を主張",
+      "en": "Houthis claim missile attacks on Saudi airports and military bases"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派は、サウジアラビアの空港および軍事基地に対してミサイルで攻撃したと主張した。",
+      "en": "Houthi forces claim to have launched missile attacks on Saudi airports and military bases."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-25T20:36:16+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWxUVEo3Y1hnOWJKUEViQ2NqX0hZbVM3N0w3bS1SLXdmWEpIamEwU3FkS3NhRHFUN2ZzeGZfV3hjSEpvQzhrS3dxZHg0ZjdIdm1kTHRfM3Y4RDRmYVhmaHF4Z0VWM1JUdkJCRzVicGZXVGhoZ1ZkRVgtUEZhSWFYeV91TG1BV0ZXYlY1aXFndEtuR2lLR3BxeU5VTXkweTYtZnlsLTJwM29xeFpweWVadG90bGdjdk1QTVhn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_targets_missile_2026-10-25"
+  },
+  {
+    "id": "auto-29845",
+    "headline": {
+      "ja": "フーシ派がサウジ目標への攻撃7件を主張、イエメンへの大規模空爆継続",
+      "en": "Houthis claim 7 attacks on Saudi targets as heavy airstrikes hit Yemen"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派はサウジアラビアの目標に対する7件の攻撃を主張し、同時にイエメンに対するサウジ主導の大規模空爆が続いていると報道されている。",
+      "en": "Houthi forces claim 7 attacks on Saudi targets while Saudi-led coalition continues heavy airstrikes on Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-25T13:57:17+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MWTJsc01kbUN0RUFQS3gxVEN6LW5tSUZ0bzBPNGtDOHFfRk1zeV9rd1pRMUpLUVZicERfME5kem53Q3JvTXRXV3ViUUlTUGtNZ1lhZTAtUXZYQnpZekxnWGRGS05nM3UzaHZMNGRGS3BCbmpQQkZxeW1Cdlg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saudi_conflict_2026-10-25"
+  },
+  {
     "id": "auto-29287",
     "headline": {
       "ja": "サウジアラビア、フーシ派の攻撃を迎撃",
@@ -21,6 +90,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_arabia_houthi_interception_2026-10-25"
+  },
+  {
+    "id": "auto-29665",
+    "headline": {
+      "ja": "イラン政府が米ドローンの撃墜を発表",
+      "en": "Iran claims to have shot down US drone"
+    },
+    "summary": {
+      "ja": "イラン政府は、同国南部でアメリカの無人機を撃墜したと発表した。",
+      "en": "The Iranian government announced it shot down an American drone in the southern part of the country."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-25T08:16:46+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFJENjlMYWxIUU9NV3E5N2tWbURNU3Y2RHhOV2dvQUpCQW05blNfS3RJWVZQbUF6VnhhLWU3bnl4OVRLVlVoZVk2UDcyMy1PU1o4MUtrNWcxMUpPTDZROGJOQ3lKQ3FidFFtRy15bnZSUF9lQndkTXVhM0NPTW1kTTlHdFNIWWg1TXhCUXlMMklUdE52LVR6d0FCWVZKdzh1?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_southern_us_drone_2026-10-25"
   },
   {
     "id": "auto-29336",
