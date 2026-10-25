@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-10-22-05",
-    "headline": {
-      "ja": "イラン革命防衛隊、「攻撃的」な新防衛ドクトリンを発表し米軍基地を威嚇 NYT報道:米・イスラエルが中間選挙後の対イラン攻撃計画を策定",
-      "en": "Iran's IRGC announces 'offensive' defence doctrine, threatens US bases; NYT reports US and Israel have drawn up plans for renewed Iran strikes after midterms"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)のモヘビ報道官は10月22日、今後は報復的な軍事行動に限定しない「攻撃的・非対称」な防衛ドクトリンへ転換したと発表し、イランを攻撃する国に対しては侵攻も辞さないと威嚇した。また、ホルムズ海峡で機雷が敷設された海域を米国が船舶に通航させ続けるなら、対抗措置を米軍基地にも拡大すると威嚇したという。これはIRGC高官自身の発言であり、政府見解としての事実である。一方、CNBCが報じたニューヨーク・タイムズ(NYT)の報道によると、米国・イスラエル両軍は匿名の米政府関係者の話として、11月の米中間選挙後に「短期集中型」のイラン再攻撃の具体的な計画を策定しているとされる(トランプ大統領はまだ承認していないという)。米政府は中間選挙前にイランへの攻撃を再開する計画はないとしているが、トランプ大統領は「いずれにせよ近いうちに何かが起こる」と述べたという。[信頼性: 中](IRGC報道官自身の発言は政府発表として確実な事実。米・イスラエルの攻撃計画はNYTが匿名の米政府関係者を根拠に報じたものであり、独立した確証はない)",
-      "en": "IRGC spokesman Hossein Mohebi announced on October 22 that Iran has shifted to an 'offensive and asymmetrical' defence doctrine no longer limited to retaliatory strikes, and threatened to invade countries that attack it. He also reportedly threatened to extend confrontation to US bases in the region if Washington keeps urging vessels through waters Iran says are mined. This is a direct statement by an IRGC official and counts as an official government position. Separately, per CNBC's citation of a New York Times report, the US and Israeli militaries have reportedly drawn up specific plans, according to unnamed US officials, for a 'short but intensive' renewed operation against Iran after the November midterm elections; President Trump has not yet approved such strikes. Washington says it has no plans to resume strikes before the midterms, though Trump said 'something one way or the other' would 'happen fairly soon' regarding Iran. [Reliability: Medium] (The IRGC spokesman's own statement is a confirmed government position; the US/Israel strike-planning report is based on unnamed US officials cited by the New York Times and is not independently verified.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-22T04:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera / CNBC (citing New York Times)",
-      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
     "id": "2026-10-22-06",
     "headline": {
       "ja": "金価格、中東情勢を背景とした原油高騰によるインフレ懸念で2週間ぶりの安値に",
@@ -43,26 +21,27 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-23-02",
+    "id": "2026-10-24-08",
     "headline": {
-      "ja": "スーパー台風「ロサール」(国際名チャンピ)、2026年フィリピン近海で最強の台風に 上陸なしもバタネス諸島等に影響",
-      "en": "Super Typhoon Rosal (Champi) becomes strongest cyclone of 2026 near the Philippines; no landfall but Batanes islands affected"
+      "ja": "中国チベット自治区ナクチュでM7.0の地震 16人死亡・76人負傷、1万2千人超避難",
+      "en": "Magnitude 7.0 earthquake hits Nagqu, Tibet, China: 16 dead, 76 injured, over 12,000 evacuated"
     },
     "summary": {
-      "ja": "フィリピン気象庁(PAGASA)は、10月20日にフィリピン管轄海域(PAR)に入ったスーパー台風「ロサール」(国際名:チャンピ)が、2026年にフィリピン近海で発生した台風として最強になったと発表した。中心付近の最大風速は約215km/h、最大瞬間風速は265km/hに達したという(衛星観測ベースの一部報道では瞬間最大296km/hとする推定もあり、算出方法の違いによる差とみられる)。フィリピン本土への直接上陸はないとされるが、北部ルソン及び最北端のバタネス諸島では強風・高波(最大8m)・大雨の影響が出ており、バタネス諸島には暴風警報(シグナル)が発令された。同台風は10月24日未明にかけてフィリピン管轄海域を抜ける見通し。",
-      "en": "The Philippine weather bureau PAGASA said Super Typhoon Rosal (international name Champi), which entered the Philippine Area of Responsibility on October 20, became the strongest tropical cyclone to form near the Philippines in 2026. Maximum sustained winds near the center reached about 215 km/h, with gusts up to 265 km/h (some satellite-based reports cite a peak gust of 296 km/h, likely reflecting differing measurement methods). While direct landfall on the Philippines is not expected, northern Luzon and the northernmost Batanes islands have seen strong winds, waves up to 8 meters, and heavy rain, prompting wind signal warnings for Batanes. The storm is forecast to exit the PAR by early morning on October 24."
+      "ja": "中国チベット自治区ナクチュ(那曲)市の タンネゾン地区で10月22日(木)夜、マグニチュード7.0の地震が発生したという。新華社(Xinhua)によると16人が死亡、76人が負傷し、住宅339棟・畜舎20棟が損壊した。23日午前10時までに1万2千人超が避難し、413回の余震が発生して救助活動を妨げているという。付近の国道317号線の一部は落石で通行止め、鉄道の運行も予防的に見合わせられたという。[信頼性: 中](新華社発の報道をインド系メディア(Tribune India等)経由で確認。ロイター・AFP等の欧米主要通信社による独立確認は本収集時点で見当たらない)",
+      "en": "A magnitude 7.0 earthquake struck the Tangnezong area of Nagqu (Nakchu) City in the Tibet Autonomous Region, China, on Thursday night, October 22, according to Xinhua. At least 16 people were killed and 76 injured, with 339 houses and 20 livestock sheds damaged or destroyed. Over 12,000 residents had been evacuated by 10 a.m. the following day, and 413 aftershocks reportedly hampered rescue efforts. Part of National Highway 317 was closed due to rockfalls, and rail service was suspended as a precaution. [Reliability: Medium] (Reported via Xinhua as relayed by Indian outlets such as Tribune India; no independent confirmation from Reuters, AFP or other Western wire services found at time of collection)"
     },
     "category": "disaster",
-    "country": "フィリピン",
-    "region": "バタネス州",
-    "lat": 20.4486,
-    "lon": 121.9709,
-    "occurredAt": "2026-10-22T06:00:00+00:00",
+    "country": "中国",
+    "region": "チベット自治区(ナクチュ市)",
+    "lat": 29.65,
+    "lon": 91.1,
+    "occurredAt": "2026-10-22T14:00:00+00:00",
     "source": {
-      "name": "Philstar / Rappler / GMA Network (PAGASA発表報道)",
-      "url": "https://www.philstar.com/headlines/2026/10/22/2564850/rosal-declared-strongest-cyclone-2026"
+      "name": "Xinhua (via Tribune India)",
+      "url": "https://www.tribuneindia.com/news/world/tibet-earthquake-76-injured-16-killed-after-7-0-magnitude-quake-hits-nakchu-rescue-operations-underway"
     },
-    "reliability": "high"
+    "reliability": "medium",
+    "severity": 3
   },
   {
     "id": "2026-10-23-03",
@@ -87,27 +66,47 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-24-01",
+    "id": "2026-10-25-05",
     "headline": {
-      "ja": "イスラエル、ヘブロンでの銃撃事件後にヨルダン川西岸の「完全封鎖」を準備 兵士2人死亡、ネタニヤフ氏「1967年以来の規模」の軍事作戦を警告",
-      "en": "Israel prepares 'full lockdown' of West Bank after Hebron shooting kills two soldiers; Netanyahu warns of operation 'unseen since 1967'"
+      "ja": "ケニアでエボラ出血熱2人目の死者、隣国ナイジェリアでも初の感染確認 DRC株と一致",
+      "en": "Kenya reports second Ebola death as Nigeria confirms its first case, matching DRC strain"
     },
     "summary": {
-      "ja": "Al Jazeeraによると、10月23日、ヨルダン川西岸ヘブロン近郊の検問所で、車に乗った2人のパレスチナ人がイスラエル兵に向けて発砲したという。イスラエル軍は兵士2人が死亡、3人が負傷したと発表し、銃撃は約20分間続いたとの目撃証言があるという。軍は実行犯2人を共に殺害したと発表した。この事件を受けネタニヤフ首相はヘブロンの封鎖を命じ、ヨルダン川西岸(「ユダヤ・サマリア」)全域での「完全封鎖」の準備を進めていると表明し、1967年以来の規模の軍事作戦になりうると警告したという。イスラエル軍は23日、西岸各地での捜索で36人のパレスチナ人を拘束したとされ、24日にはヘブロンで「標的を絞った徹底的な」軍事作戦を開始したという。一連の動きは来週に予定されているイスラエルの選挙を前にして起きている。[信頼性: 高](Al Jazeeraの複数の記事・ライブブログに基づく。他の独立した媒体による確証はこの時点で確認できていない)",
-      "en": "According to Al Jazeera, on October 23 two Palestinians in a car opened fire on Israeli soldiers at a checkpoint near Hebron in the occupied West Bank. The Israeli military said two soldiers were killed and three wounded, with witnesses describing gunfire lasting about 20 minutes; the army said it killed both gunmen. In response, Prime Minister Netanyahu ordered Hebron closed and said he was preparing a 'full lockdown' across the West Bank ('Judea and Samaria'), warning of a military operation on a scale unseen since 1967. The Israeli military reportedly arrested 36 Palestinians in raids across the West Bank on October 23, and on October 24 launched a 'targeted and thorough' operation in Hebron. The developments come ahead of Israeli elections scheduled for next week. [Reliability: High] (Based on multiple Al Jazeera reports and live-blog updates; independent corroboration from other outlets has not yet been found.)"
+      "ja": "Al Jazeera・NPRによると、ケニア保健当局は10月23日、エボラ出血熱(ブンディブギョ株)による2人目の死者を確認したと発表した。保健総局長パトリック・アモス氏は、確認された感染者9人は全て単一のクラスターに属し、クラスター外への感染拡大の兆候はないとした上で、接触者135人のうち134人の追跡・隔離が完了していると述べた。ケニアの最初の患者は、コンゴ民主共和国(DRC)から来た旅行者で、10月5日にナイロビで死亡していたという。一方、隣国ナイジェリアでも10月20日、ウガンダから到着した女性のエボラ感染がアブジャで確認され、保健当局者によるとDRCの流行株と一致したという。ケニア・ナイジェリア両国の初発患者の行動歴に接点があったかどうかについて、当局が調査しているとされる。[信頼性: 中](Al Jazeera・NPRの報道に基づく。クラスター数・死者数はケニア保健当局発表によるが、ナイジェリア症例との関連性は調査中で未確定)",
+      "en": "According to Al Jazeera and NPR, Kenyan health authorities announced on October 23 a second death from the Ebola outbreak (Bundibugyo strain). Director-General of Health Patrick Amoth said all nine confirmed cases belong to a single cluster with no sign of spread beyond it, and that 134 of 135 traced contacts have been quarantined. Kenya's first patient was a traveler from the DRC who died in Nairobi on October 5. Separately, neighboring Nigeria confirmed its first Ebola case on October 20, in a woman who had arrived from Uganda and tested positive in Abuja; health officials said it matched the strain circulating in the DRC outbreak. Authorities are reportedly investigating whether the index cases in Kenya and Nigeria crossed paths. [Reliability: Medium] (Based on Al Jazeera and NPR reporting. Cluster and death counts come from Kenyan health authorities; the link to the Nigerian case remains under investigation and unconfirmed.)"
     },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヘブロン(ヨルダン川西岸地区)",
-    "lat": 31.5326,
-    "lon": 35.0998,
-    "occurredAt": "2026-10-23T12:00:00+00:00",
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -0.0236,
+    "lon": 37.9062,
+    "occurredAt": "2026-10-23T00:00:00+00:00",
     "source": {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
+      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread"
     },
-    "reliability": "high",
-    "severity": 3
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-25-03",
+    "headline": {
+      "ja": "仏パリ郊外トラップで銃撃、1人死亡・5人負傷 マクロン大統領「人種差別的なテロ攻撃」と非難",
+      "en": "Shooting in Trappes, Paris suburb, kills one and wounds five; Macron calls it a 'racist terrorist attack'"
+    },
+    "summary": {
+      "ja": "France 24・Al Jazeeraによると、10月23日(金)朝、パリ近郊イヴリーヌ県トラップで、車から発砲した男が1人を殺害し、12歳の少女を含む5人を負傷させたという。警察は39歳の男(ケビン・T容疑者)を逮捕した。検察当局は「テロ目的の殺人」容疑で捜査を開始し、被害者の実際の、または推定される人種・民族・国籍・宗教を理由とした犯行かどうかを調べているという。マクロン大統領はこれを「テロ的かつ人種差別的な攻撃」と断定した。一部報道では、容疑者が「外国人を殺したかった」と供述したとされるが、この情報は地元国会議員の発言を根拠としており、捜査当局による直接の確認は得られていないという。[信頼性: 中](France 24・Al Jazeeraの報道に基づく。動機に関する詳細な供述内容は地元議員の発言が根拠で、未確証)",
+      "en": "According to France 24 and Al Jazeera, a gunman firing from a car killed one person and wounded five, including a 12-year-old girl, in Trappes, in the Yvelines department near Paris, on the morning of Friday, October 23. Police arrested a 39-year-old suspect identified as Kevin T. Prosecutors opened an investigation for \"murder in connection with a terrorist enterprise\" and are examining whether the attack targeted victims over their real or perceived race, ethnicity, nationality or religion. President Macron called it a \"terrorist and racist attack.\" Some reports say the suspect told police he wanted to \"kill foreigners,\" though that claim is attributed to a local member of parliament and has not been directly confirmed by investigators. [Reliability: Medium] (Based on France 24 and Al Jazeera reporting; the detailed account of the suspect's motive is sourced to a local MP's remarks and remains unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "region": "トラップ(イヴリーヌ県)",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-23T05:00:00+00:00",
+    "source": {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+    },
+    "reliability": "medium"
   },
   {
     "id": "2026-10-24-02",
@@ -128,94 +127,6 @@
     "source": {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-24-03",
-    "headline": {
-      "ja": "WHO、コンゴ民主共和国のエボラ出血熱でワクチン臨床試験開始を発表 感染9,700人超・死者4,600人超",
-      "en": "WHO announces start of Ebola vaccine clinical trial in DR Congo as cases top 9,700, deaths exceed 4,600"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、世界保健機関(WHO)は10月24日、コンゴ民主共和国(DRC)で続くエボラ出血熱(ブンディブギョ株)流行に対する初のワクチン臨床試験「Tumaini」の開始を発表した。イトゥリ州の州都ブニアで参加者への接種が始まったという。同株には承認されたワクチンがなく、既存のエボラワクチン「Ervebo」(主にザイール株向け)が交差免疫を持つかを検証する。DRCは本流行(同国にとって過去最悪規模の17回目の流行、5月に宣言)で、感染者数が9,700人超、死者数が4,600人超に達したと報じられており、WHOは「国際的に懸念される公衆衛生上の緊急事態(PHEIC)」(警戒レベルとしては2番目に高い)を発令しているという。[信頼性: 中](Al Jazeeraの報道に基づく。感染者数・死者数の具体的な数字についてはWHO公式発表文での直接確認はできていない)",
-      "en": "According to Al Jazeera, the World Health Organization announced on October 24 the start of 'Tumaini,' the first clinical trial of an Ebola vaccine against the Bundibugyo-strain outbreak ongoing in the Democratic Republic of the Congo (DRC), with vaccinations beginning in Bunia, the capital of Ituri province. No vaccine is approved against the Bundibugyo strain; the trial will test whether the existing Ervebo vaccine (developed mainly for the Zaire strain) provides cross-protection. The outbreak -- the DRC's 17th and worst-ever, declared in May -- has reportedly reached more than 9,700 cases and over 4,600 deaths, and the WHO has declared a Public Health Emergency of International Concern (PHEIC), its second-highest alert level. [Reliability: Medium] (Based on Al Jazeera reporting; the specific case and death counts have not been independently confirmed against an official WHO statement.)"
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "region": "イトゥリ州",
-    "lat": 1.5667,
-    "lon": 30.25,
-    "occurredAt": "2026-10-24T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-24-04",
-    "headline": {
-      "ja": "米株式市場、AI投資懸念と原油高騰で続落 ダウ652ドル安、原油は4月以来の高値圏",
-      "en": "US stocks extend slide on AI spending worries and surging oil; Dow drops 652 points, oil at highest since April"
-    },
-    "summary": {
-      "ja": "CNBCによると、10月23日(金)の米株式市場は、ダウ工業株30種平均が652.82ポイント(1.23%)安の52,215.16、S&P500が0.52%安の7,623.68、ナスダック総合が0.21%安の25,955.34で取引を終えた。ダウ構成銘柄のアメリカン・エキスプレスは、AI活用を理由とした人員削減(全世界の従業員の約5%)を発表し3%超下落した。前日22日(木)にはナスダックが2.6%安(終値26,008.86)と6月以来最大の下落となり、AI関連投資への懸念と原油高が売りを誘ったとされる。原油価格は中東情勢の緊迫化(既報id: 2026-10-22-03〜05のサウジ・イラン関連の動き)を背景に上昇が続き、22日の取引でWTIが3.8%高の1バレル=103.27ドル、ブレントが3.1%高の116.72ドルとなり、ブレントは4月以来の高値を付けたという。週間ではS&P500が0.5%安、ナスダックが0.7%安となったが、ダウは週間で0.4%高だったとされる。[信頼性: 高](CNBC報道に基づく)",
-      "en": "According to CNBC, in trading on Friday, October 23, the Dow Jones Industrial Average fell 652.82 points (1.23%) to close at 52,215.16, the S&P 500 slipped 0.52% to 7,623.68, and the Nasdaq Composite lost 0.21% to 25,955.34. Dow component American Express fell more than 3% after announcing it would cut about 5% of its global workforce, citing AI adoption. The prior day, Thursday October 22, the Nasdaq had its worst session since June, falling 2.6% to close at 26,008.86, as concerns over AI spending and rising oil prices drove the sell-off. Oil prices continued climbing amid Middle East tensions (see earlier reports id 2026-10-22-03 through -05 on Saudi Arabia and Iran): on October 22, WTI rose 3.8% to settle at $103.27 a barrel and Brent rose 3.1% to $116.72, its highest settle since April. For the week, the S&P 500 fell 0.5% and the Nasdaq 0.7%, while the Dow gained 0.4%. [Reliability: High] (Based on CNBC reporting.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-23T20:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-24-05",
-    "headline": {
-      "ja": "イスラエル、ヘブロンで複数日に及ぶ軍事作戦を開始 国防相「地区全体の退去」方針を表明",
-      "en": "Israel launches multi-day military operation in Hebron; defense minister vows to evacuate entire neighborhood"
-    },
-    "summary": {
-      "ja": "10月23日夜、ヨルダン川西岸ヘブロンでの銃撃事件(イスラエル兵2人死亡、既報id: 2026-10-24-01)を受け、イスラエル軍とシンベットが銃撃犯の出身地区を対象に「複数日間」継続するとされる軍事作戦を開始したという。住民は検問を経て3カ所の出口からのみ退出可能とされ、軍は現場周辺の「違法建築物」の破壊を実施しているという。カッツ国防相は、銃撃犯が出たヘブロンの地区全体の住民退去を進める方針を表明し、ネタニヤフ首相も作戦・破壊の拡大を明言したという。来週に総選挙を控える中での動き。",
-      "en": "Following the October 23 night shooting attack in Hebron that killed two Israeli soldiers (previously reported, id: 2026-10-24-01), the Israeli military and Shin Bet reportedly launched a military operation in the gunmen's home neighborhood expected to last 'several days.' Residents can reportedly leave only through three designated checkpoints after screening, and troops are reportedly demolishing 'illegal structures' near the attack site. Defense Minister Katz reportedly said the entire neighborhood would be evacuated, and Netanyahu reportedly vowed to expand the operation and demolitions, days ahead of Israel's parliamentary election."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヘブロン",
-    "lat": 31.5326,
-    "lon": 35.0998,
-    "occurredAt": "2026-10-23T21:00:00+00:00",
-    "source": {
-      "name": "The Japan Times / Haaretz",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/world/israel-west-bank-operation/"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-24-06",
-    "headline": {
-      "ja": "欧州初の命名ストーム「Austen」、アイルランド南部を直撃 数千戸停電・倒木30本超",
-      "en": "Storm Austen, Europe's first named storm of the season, hits southern Ireland: thousands without power, over 30 trees downed"
-    },
-    "summary": {
-      "ja": "今季欧州初の命名ストーム「Austen」が10月23日夜、アイルランド南部(マンスター州・レンスター州南部)を通過し、その後コノート州・レンスター州北部にも影響したという。ウォーターフォード州で数千戸が停電し、倒木30本超が報じられたという。アイルランド気象局(Met Éireann)は地盤が既に飽和状態にあるとして洪水リスクへの警戒を呼びかけたという。ウォーターフォード州の担当者は「想定され得たよりは軽微な影響だった」と述べたという。",
-      "en": "Storm Austen, the first named storm of the season in Europe, reportedly swept across southern Ireland (Munster and south Leinster) on the night of October 23 before affecting Connacht and northern Leinster. Thousands of homes in County Waterford reportedly lost power, and more than 30 trees were reported downed. Met Éireann reportedly warned of an increased flood risk due to already-saturated ground. A Waterford council director reportedly said the impact was less severe than it could have been."
-    },
-    "category": "disaster",
-    "country": "アイルランド",
-    "lat": 53.4129,
-    "lon": -8.2439,
-    "occurredAt": "2026-10-23T20:00:00+00:00",
-    "source": {
-      "name": "The Irish Times",
-      "url": "https://www.irishtimes.com/environment/2026/10/23/storm-austen-weather-ireland-live-updates/"
     },
     "reliability": "high"
   },
@@ -243,26 +154,26 @@
     "severity": 3
   },
   {
-    "id": "2026-10-24-08",
+    "id": "2026-10-24-01",
     "headline": {
-      "ja": "中国チベット自治区ナクチュでM7.0の地震 16人死亡・76人負傷、1万2千人超避難",
-      "en": "Magnitude 7.0 earthquake hits Nagqu, Tibet, China: 16 dead, 76 injured, over 12,000 evacuated"
+      "ja": "イスラエル、ヘブロンでの銃撃事件後にヨルダン川西岸の「完全封鎖」を準備 兵士2人死亡、ネタニヤフ氏「1967年以来の規模」の軍事作戦を警告",
+      "en": "Israel prepares 'full lockdown' of West Bank after Hebron shooting kills two soldiers; Netanyahu warns of operation 'unseen since 1967'"
     },
     "summary": {
-      "ja": "中国チベット自治区ナクチュ(那曲)市の タンネゾン地区で10月22日(木)夜、マグニチュード7.0の地震が発生したという。新華社(Xinhua)によると16人が死亡、76人が負傷し、住宅339棟・畜舎20棟が損壊した。23日午前10時までに1万2千人超が避難し、413回の余震が発生して救助活動を妨げているという。付近の国道317号線の一部は落石で通行止め、鉄道の運行も予防的に見合わせられたという。[信頼性: 中](新華社発の報道をインド系メディア(Tribune India等)経由で確認。ロイター・AFP等の欧米主要通信社による独立確認は本収集時点で見当たらない)",
-      "en": "A magnitude 7.0 earthquake struck the Tangnezong area of Nagqu (Nakchu) City in the Tibet Autonomous Region, China, on Thursday night, October 22, according to Xinhua. At least 16 people were killed and 76 injured, with 339 houses and 20 livestock sheds damaged or destroyed. Over 12,000 residents had been evacuated by 10 a.m. the following day, and 413 aftershocks reportedly hampered rescue efforts. Part of National Highway 317 was closed due to rockfalls, and rail service was suspended as a precaution. [Reliability: Medium] (Reported via Xinhua as relayed by Indian outlets such as Tribune India; no independent confirmation from Reuters, AFP or other Western wire services found at time of collection)"
+      "ja": "Al Jazeeraによると、10月23日、ヨルダン川西岸ヘブロン近郊の検問所で、車に乗った2人のパレスチナ人がイスラエル兵に向けて発砲したという。イスラエル軍は兵士2人が死亡、3人が負傷したと発表し、銃撃は約20分間続いたとの目撃証言があるという。軍は実行犯2人を共に殺害したと発表した。この事件を受けネタニヤフ首相はヘブロンの封鎖を命じ、ヨルダン川西岸(「ユダヤ・サマリア」)全域での「完全封鎖」の準備を進めていると表明し、1967年以来の規模の軍事作戦になりうると警告したという。イスラエル軍は23日、西岸各地での捜索で36人のパレスチナ人を拘束したとされ、24日にはヘブロンで「標的を絞った徹底的な」軍事作戦を開始したという。一連の動きは来週に予定されているイスラエルの選挙を前にして起きている。[信頼性: 高](Al Jazeeraの複数の記事・ライブブログに基づく。他の独立した媒体による確証はこの時点で確認できていない)",
+      "en": "According to Al Jazeera, on October 23 two Palestinians in a car opened fire on Israeli soldiers at a checkpoint near Hebron in the occupied West Bank. The Israeli military said two soldiers were killed and three wounded, with witnesses describing gunfire lasting about 20 minutes; the army said it killed both gunmen. In response, Prime Minister Netanyahu ordered Hebron closed and said he was preparing a 'full lockdown' across the West Bank ('Judea and Samaria'), warning of a military operation on a scale unseen since 1967. The Israeli military reportedly arrested 36 Palestinians in raids across the West Bank on October 23, and on October 24 launched a 'targeted and thorough' operation in Hebron. The developments come ahead of Israeli elections scheduled for next week. [Reliability: High] (Based on multiple Al Jazeera reports and live-blog updates; independent corroboration from other outlets has not yet been found.)"
     },
-    "category": "disaster",
-    "country": "中国",
-    "region": "チベット自治区(ナクチュ市)",
-    "lat": 29.65,
-    "lon": 91.1,
-    "occurredAt": "2026-10-22T14:00:00+00:00",
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ヘブロン(ヨルダン川西岸地区)",
+    "lat": 31.5326,
+    "lon": 35.0998,
+    "occurredAt": "2026-10-23T12:00:00+00:00",
     "source": {
-      "name": "Xinhua (via Tribune India)",
-      "url": "https://www.tribuneindia.com/news/world/tibet-earthquake-76-injured-16-killed-after-7-0-magnitude-quake-hits-nakchu-rescue-operations-underway"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
     },
-    "reliability": "medium",
+    "reliability": "high",
     "severity": 3
   },
   {
@@ -287,26 +198,114 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-25-01",
+    "id": "2026-10-24-04",
     "headline": {
-      "ja": "トランプ米大統領、「日曜日にもイラン攻撃」の可能性に言及 イラン大統領は米側の交渉失敗を非難",
-      "en": "Trump says US considers possible Sunday attack on Iran, or a deal; Iranian president blames US for collapse of talks"
+      "ja": "米株式市場、AI投資懸念と原油高騰で続落 ダウ652ドル安、原油は4月以来の高値圏",
+      "en": "US stocks extend slide on AI spending worries and surging oil; Dow drops 652 points, oil at highest since April"
     },
     "summary": {
-      "ja": "Al Jazeeraのライブブログ(10月25日)によると、トランプ米大統領は、米国が早ければ日曜日にもイランへの攻撃を検討していること、またはイランとの大型の合意に達する可能性があることに言及したという。これに先立つ報道では、イランのペゼシュキアン大統領が、6月の戦闘終結・ホルムズ海峡再開に関する米イラン覚書(8月に失効)をめぐる協議決裂の責任は米国にあると非難する一方、合意妥結へ改めて取り組むべきだとも述べたとされる。背景として、イラン軍参謀総長は米軍のペルシャ湾への展開を「いかなる状況でも認めない」と述べ、イラン側はホルムズ海峡で7隻の船舶が被害を受けたとして米側に警告しているという。トランプ氏自身も10月23日(金)、2月末開始の米・イスラエル対イラン戦争の作戦名「エピック・フューリー」を再び実施する可能性に言及したとされる。[信頼性: 中](Al Jazeeraの報道に基づく。トランプ氏・ペゼシュキアン氏それぞれの発言自体は確実だが、「日曜日の攻撃」自体は検討段階の言及であり、実際に攻撃が行われるかは未確定)",
-      "en": "According to an Al Jazeera live blog (October 25), Trump said the US is considering a possible attack on Iran as soon as Sunday, or could instead reach a major deal with Tehran. Earlier reports said Iranian President Masoud Pezeshkian blamed Washington for the breakdown of talks over the June memorandum that had ended the fighting and reopened the Strait of Hormuz (which expired in August), while also saying both sides should work to conclude an agreement. Iran's armed forces chief of staff has said the US military will not be allowed in the Gulf \"under any circumstances,\" and Iran says seven vessels have been hit in the Strait of Hormuz, warning of a wider response. Trump himself reportedly said on Friday, October 23, that he \"may do another Epic Fury,\" the codename for the US-Israeli operation against Iran that began February 28. [Reliability: Medium] (Based on Al Jazeera reporting. The statements themselves by Trump and Pezeshkian are reliable as their own remarks, but the \"Sunday attack\" remains at the consideration stage and whether an attack will actually occur is unconfirmed.)"
+      "ja": "CNBCによると、10月23日(金)の米株式市場は、ダウ工業株30種平均が652.82ポイント(1.23%)安の52,215.16、S&P500が0.52%安の7,623.68、ナスダック総合が0.21%安の25,955.34で取引を終えた。ダウ構成銘柄のアメリカン・エキスプレスは、AI活用を理由とした人員削減(全世界の従業員の約5%)を発表し3%超下落した。前日22日(木)にはナスダックが2.6%安(終値26,008.86)と6月以来最大の下落となり、AI関連投資への懸念と原油高が売りを誘ったとされる。原油価格は中東情勢の緊迫化(既報id: 2026-10-22-03〜05のサウジ・イラン関連の動き)を背景に上昇が続き、22日の取引でWTIが3.8%高の1バレル=103.27ドル、ブレントが3.1%高の116.72ドルとなり、ブレントは4月以来の高値を付けたという。週間ではS&P500が0.5%安、ナスダックが0.7%安となったが、ダウは週間で0.4%高だったとされる。[信頼性: 高](CNBC報道に基づく)",
+      "en": "According to CNBC, in trading on Friday, October 23, the Dow Jones Industrial Average fell 652.82 points (1.23%) to close at 52,215.16, the S&P 500 slipped 0.52% to 7,623.68, and the Nasdaq Composite lost 0.21% to 25,955.34. Dow component American Express fell more than 3% after announcing it would cut about 5% of its global workforce, citing AI adoption. The prior day, Thursday October 22, the Nasdaq had its worst session since June, falling 2.6% to close at 26,008.86, as concerns over AI spending and rising oil prices drove the sell-off. Oil prices continued climbing amid Middle East tensions (see earlier reports id 2026-10-22-03 through -05 on Saudi Arabia and Iran): on October 22, WTI rose 3.8% to settle at $103.27 a barrel and Brent rose 3.1% to $116.72, its highest settle since April. For the week, the S&P 500 fell 0.5% and the Nasdaq 0.7%, while the Dow gained 0.4%. [Reliability: High] (Based on CNBC reporting.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-23T20:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-24-06",
+    "headline": {
+      "ja": "欧州初の命名ストーム「Austen」、アイルランド南部を直撃 数千戸停電・倒木30本超",
+      "en": "Storm Austen, Europe's first named storm of the season, hits southern Ireland: thousands without power, over 30 trees downed"
+    },
+    "summary": {
+      "ja": "今季欧州初の命名ストーム「Austen」が10月23日夜、アイルランド南部(マンスター州・レンスター州南部)を通過し、その後コノート州・レンスター州北部にも影響したという。ウォーターフォード州で数千戸が停電し、倒木30本超が報じられたという。アイルランド気象局(Met Éireann)は地盤が既に飽和状態にあるとして洪水リスクへの警戒を呼びかけたという。ウォーターフォード州の担当者は「想定され得たよりは軽微な影響だった」と述べたという。",
+      "en": "Storm Austen, the first named storm of the season in Europe, reportedly swept across southern Ireland (Munster and south Leinster) on the night of October 23 before affecting Connacht and northern Leinster. Thousands of homes in County Waterford reportedly lost power, and more than 30 trees were reported downed. Met Éireann reportedly warned of an increased flood risk due to already-saturated ground. A Waterford council director reportedly said the impact was less severe than it could have been."
+    },
+    "category": "disaster",
+    "country": "アイルランド",
+    "lat": 53.4129,
+    "lon": -8.2439,
+    "occurredAt": "2026-10-23T20:00:00+00:00",
+    "source": {
+      "name": "The Irish Times",
+      "url": "https://www.irishtimes.com/environment/2026/10/23/storm-austen-weather-ireland-live-updates/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-24-05",
+    "headline": {
+      "ja": "イスラエル、ヘブロンで複数日に及ぶ軍事作戦を開始 国防相「地区全体の退去」方針を表明",
+      "en": "Israel launches multi-day military operation in Hebron; defense minister vows to evacuate entire neighborhood"
+    },
+    "summary": {
+      "ja": "10月23日夜、ヨルダン川西岸ヘブロンでの銃撃事件(イスラエル兵2人死亡、既報id: 2026-10-24-01)を受け、イスラエル軍とシンベットが銃撃犯の出身地区を対象に「複数日間」継続するとされる軍事作戦を開始したという。住民は検問を経て3カ所の出口からのみ退出可能とされ、軍は現場周辺の「違法建築物」の破壊を実施しているという。カッツ国防相は、銃撃犯が出たヘブロンの地区全体の住民退去を進める方針を表明し、ネタニヤフ首相も作戦・破壊の拡大を明言したという。来週に総選挙を控える中での動き。",
+      "en": "Following the October 23 night shooting attack in Hebron that killed two Israeli soldiers (previously reported, id: 2026-10-24-01), the Israeli military and Shin Bet reportedly launched a military operation in the gunmen's home neighborhood expected to last 'several days.' Residents can reportedly leave only through three designated checkpoints after screening, and troops are reportedly demolishing 'illegal structures' near the attack site. Defense Minister Katz reportedly said the entire neighborhood would be evacuated, and Netanyahu reportedly vowed to expand the operation and demolitions, days ahead of Israel's parliamentary election."
     },
     "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-24T15:00:00+00:00",
+    "country": "パレスチナ",
+    "region": "ヘブロン",
+    "lat": 31.5326,
+    "lon": 35.0998,
+    "occurredAt": "2026-10-23T21:00:00+00:00",
+    "source": {
+      "name": "The Japan Times / Haaretz",
+      "url": "https://www.japantimes.co.jp/news/2026/10/24/world/israel-west-bank-operation/"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-10-24-03",
+    "headline": {
+      "ja": "WHO、コンゴ民主共和国のエボラ出血熱でワクチン臨床試験開始を発表 感染9,700人超・死者4,600人超",
+      "en": "WHO announces start of Ebola vaccine clinical trial in DR Congo as cases top 9,700, deaths exceed 4,600"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、世界保健機関(WHO)は10月24日、コンゴ民主共和国(DRC)で続くエボラ出血熱(ブンディブギョ株)流行に対する初のワクチン臨床試験「Tumaini」の開始を発表した。イトゥリ州の州都ブニアで参加者への接種が始まったという。同株には承認されたワクチンがなく、既存のエボラワクチン「Ervebo」(主にザイール株向け)が交差免疫を持つかを検証する。DRCは本流行(同国にとって過去最悪規模の17回目の流行、5月に宣言)で、感染者数が9,700人超、死者数が4,600人超に達したと報じられており、WHOは「国際的に懸念される公衆衛生上の緊急事態(PHEIC)」(警戒レベルとしては2番目に高い)を発令しているという。[信頼性: 中](Al Jazeeraの報道に基づく。感染者数・死者数の具体的な数字についてはWHO公式発表文での直接確認はできていない)",
+      "en": "According to Al Jazeera, the World Health Organization announced on October 24 the start of 'Tumaini,' the first clinical trial of an Ebola vaccine against the Bundibugyo-strain outbreak ongoing in the Democratic Republic of the Congo (DRC), with vaccinations beginning in Bunia, the capital of Ituri province. No vaccine is approved against the Bundibugyo strain; the trial will test whether the existing Ervebo vaccine (developed mainly for the Zaire strain) provides cross-protection. The outbreak -- the DRC's 17th and worst-ever, declared in May -- has reportedly reached more than 9,700 cases and over 4,600 deaths, and the WHO has declared a Public Health Emergency of International Concern (PHEIC), its second-highest alert level. [Reliability: Medium] (Based on Al Jazeera reporting; the specific case and death counts have not been independently confirmed against an official WHO statement.)"
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "region": "イトゥリ州",
+    "lat": 1.5667,
+    "lon": 30.25,
+    "occurredAt": "2026-10-24T00:00:00+00:00",
     "source": {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo"
     },
     "reliability": "medium",
-    "severity": 4
+    "severity": 3
+  },
+  {
+    "id": "2026-10-25-09",
+    "headline": {
+      "ja": "ロシア、ウクライナへ弾道ミサイル約30発で夜間攻撃 エネルギー施設を狙い首都キーウで6人負傷",
+      "en": "Russia fires around 30 ballistic missiles at Ukraine overnight, targeting energy infrastructure; six hurt in Kyiv"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ロシアは10月23日深夜から24日にかけ、弾道ミサイル約30発でウクライナへの夜間攻撃を行い、エネルギー関連施設を狙ったという。キーウ市のクリチコ市長によると、同市内で6人が負傷した。ロシア国防省は、首都キーウの発電・熱供給施設2カ所、近郊の施設2カ所、変電所1カ所を攻撃したと発表しているという。ウクライナのゼレンスキー大統領は、トランプ米大統領が10月11日に発表したエネルギー施設への攻撃停止(「エネルギー停戦」)にもかかわらず、それ以降もエネルギー関連施設への攻撃が170回以上行われたと述べているという。ウクライナ側も同時期にロシア・トリヤッチ石油化学工場やオムスクの石油化学工場・倉庫などへの攻撃を行ったと主張しているという。[信頼性: 高](Al Jazeeraの報道に基づく。キーウ市長の負傷者数発表は公式発表だが、ロシア側・ウクライナ側双方の攻撃対象の性格〈軍事関連か否か〉については双方の主張が対立している)",
+      "en": "According to Al Jazeera, Russia launched an overnight attack on Ukraine using around 30 ballistic missiles between late October 23 and October 24, targeting energy infrastructure. Kyiv Mayor Vitali Klitschko said six people were injured in the capital. Russia's Defence Ministry said it struck two power and heating plants in Kyiv, two more facilities in the wider region, and an electricity substation. Ukrainian President Volodymyr Zelenskyy has said there have been more than 170 strikes on Ukraine's energy infrastructure since President Trump declared an \"energy ceasefire\" on October 11. Ukraine, for its part, claimed strikes around the same time on a petrochemical plant in Russia's Togliatti and a petrochemical plant and warehouse in Omsk. [Reliability: High] (Based on Al Jazeera reporting; the casualty figure from Kyiv's mayor is an official statement, though Russia and Ukraine dispute whether each side's targets were military in nature.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-10-24T01:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+    },
+    "reliability": "high"
   },
   {
     "id": "2026-10-25-02",
@@ -332,28 +331,6 @@
     "severity": 3
   },
   {
-    "id": "2026-10-25-03",
-    "headline": {
-      "ja": "仏パリ郊外トラップで銃撃、1人死亡・5人負傷 マクロン大統領「人種差別的なテロ攻撃」と非難",
-      "en": "Shooting in Trappes, Paris suburb, kills one and wounds five; Macron calls it a 'racist terrorist attack'"
-    },
-    "summary": {
-      "ja": "France 24・Al Jazeeraによると、10月23日(金)朝、パリ近郊イヴリーヌ県トラップで、車から発砲した男が1人を殺害し、12歳の少女を含む5人を負傷させたという。警察は39歳の男(ケビン・T容疑者)を逮捕した。検察当局は「テロ目的の殺人」容疑で捜査を開始し、被害者の実際の、または推定される人種・民族・国籍・宗教を理由とした犯行かどうかを調べているという。マクロン大統領はこれを「テロ的かつ人種差別的な攻撃」と断定した。一部報道では、容疑者が「外国人を殺したかった」と供述したとされるが、この情報は地元国会議員の発言を根拠としており、捜査当局による直接の確認は得られていないという。[信頼性: 中](France 24・Al Jazeeraの報道に基づく。動機に関する詳細な供述内容は地元議員の発言が根拠で、未確証)",
-      "en": "According to France 24 and Al Jazeera, a gunman firing from a car killed one person and wounded five, including a 12-year-old girl, in Trappes, in the Yvelines department near Paris, on the morning of Friday, October 23. Police arrested a 39-year-old suspect identified as Kevin T. Prosecutors opened an investigation for \"murder in connection with a terrorist enterprise\" and are examining whether the attack targeted victims over their real or perceived race, ethnicity, nationality or religion. President Macron called it a \"terrorist and racist attack.\" Some reports say the suspect told police he wanted to \"kill foreigners,\" though that claim is attributed to a local member of parliament and has not been directly confirmed by investigators. [Reliability: Medium] (Based on France 24 and Al Jazeera reporting; the detailed account of the suspect's motive is sourced to a local MP's remarks and remains unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "region": "トラップ(イヴリーヌ県)",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-23T05:00:00+00:00",
-    "source": {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-25-04",
     "headline": {
       "ja": "仏全土で生活費高騰への抗議デモ、推定41万人超 治安当局7万人超を配備",
@@ -375,23 +352,89 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-10-25-05",
+    "id": "2026-10-25-01",
     "headline": {
-      "ja": "ケニアでエボラ出血熱2人目の死者、隣国ナイジェリアでも初の感染確認 DRC株と一致",
-      "en": "Kenya reports second Ebola death as Nigeria confirms its first case, matching DRC strain"
+      "ja": "トランプ米大統領、「日曜日にもイラン攻撃」の可能性に言及 イラン大統領は米側の交渉失敗を非難",
+      "en": "Trump says US considers possible Sunday attack on Iran, or a deal; Iranian president blames US for collapse of talks"
     },
     "summary": {
-      "ja": "Al Jazeera・NPRによると、ケニア保健当局は10月23日、エボラ出血熱(ブンディブギョ株)による2人目の死者を確認したと発表した。保健総局長パトリック・アモス氏は、確認された感染者9人は全て単一のクラスターに属し、クラスター外への感染拡大の兆候はないとした上で、接触者135人のうち134人の追跡・隔離が完了していると述べた。ケニアの最初の患者は、コンゴ民主共和国(DRC)から来た旅行者で、10月5日にナイロビで死亡していたという。一方、隣国ナイジェリアでも10月20日、ウガンダから到着した女性のエボラ感染がアブジャで確認され、保健当局者によるとDRCの流行株と一致したという。ケニア・ナイジェリア両国の初発患者の行動歴に接点があったかどうかについて、当局が調査しているとされる。[信頼性: 中](Al Jazeera・NPRの報道に基づく。クラスター数・死者数はケニア保健当局発表によるが、ナイジェリア症例との関連性は調査中で未確定)",
-      "en": "According to Al Jazeera and NPR, Kenyan health authorities announced on October 23 a second death from the Ebola outbreak (Bundibugyo strain). Director-General of Health Patrick Amoth said all nine confirmed cases belong to a single cluster with no sign of spread beyond it, and that 134 of 135 traced contacts have been quarantined. Kenya's first patient was a traveler from the DRC who died in Nairobi on October 5. Separately, neighboring Nigeria confirmed its first Ebola case on October 20, in a woman who had arrived from Uganda and tested positive in Abuja; health officials said it matched the strain circulating in the DRC outbreak. Authorities are reportedly investigating whether the index cases in Kenya and Nigeria crossed paths. [Reliability: Medium] (Based on Al Jazeera and NPR reporting. Cluster and death counts come from Kenyan health authorities; the link to the Nigerian case remains under investigation and unconfirmed.)"
+      "ja": "Al Jazeeraのライブブログ(10月25日)によると、トランプ米大統領は、米国が早ければ日曜日にもイランへの攻撃を検討していること、またはイランとの大型の合意に達する可能性があることに言及したという。これに先立つ報道では、イランのペゼシュキアン大統領が、6月の戦闘終結・ホルムズ海峡再開に関する米イラン覚書(8月に失効)をめぐる協議決裂の責任は米国にあると非難する一方、合意妥結へ改めて取り組むべきだとも述べたとされる。背景として、イラン軍参謀総長は米軍のペルシャ湾への展開を「いかなる状況でも認めない」と述べ、イラン側はホルムズ海峡で7隻の船舶が被害を受けたとして米側に警告しているという。トランプ氏自身も10月23日(金)、2月末開始の米・イスラエル対イラン戦争の作戦名「エピック・フューリー」を再び実施する可能性に言及したとされる。[信頼性: 中](Al Jazeeraの報道に基づく。トランプ氏・ペゼシュキアン氏それぞれの発言自体は確実だが、「日曜日の攻撃」自体は検討段階の言及であり、実際に攻撃が行われるかは未確定)",
+      "en": "According to an Al Jazeera live blog (October 25), Trump said the US is considering a possible attack on Iran as soon as Sunday, or could instead reach a major deal with Tehran. Earlier reports said Iranian President Masoud Pezeshkian blamed Washington for the breakdown of talks over the June memorandum that had ended the fighting and reopened the Strait of Hormuz (which expired in August), while also saying both sides should work to conclude an agreement. Iran's armed forces chief of staff has said the US military will not be allowed in the Gulf \"under any circumstances,\" and Iran says seven vessels have been hit in the Strait of Hormuz, warning of a wider response. Trump himself reportedly said on Friday, October 23, that he \"may do another Epic Fury,\" the codename for the US-Israeli operation against Iran that began February 28. [Reliability: Medium] (Based on Al Jazeera reporting. The statements themselves by Trump and Pezeshkian are reliable as their own remarks, but the \"Sunday attack\" remains at the consideration stage and whether an attack will actually occur is unconfirmed.)"
     },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -0.0236,
-    "lon": 37.9062,
-    "occurredAt": "2026-10-23T00:00:00+00:00",
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-24T15:00:00+00:00",
     "source": {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-25-07",
+    "headline": {
+      "ja": "フランス各地の生活費高騰デモ、衝突に発展 8都市で催涙ガス、拘束者1,000人近くに",
+      "en": "France cost-of-living protests turn violent in multiple cities; nearly 1,000 arrested, tear gas used in 8 cities"
+    },
+    "summary": {
+      "ja": "France 24・Al Jazeeraによると、10月24日(土)に行われた生活費高騰への抗議デモ(既報id: 2026-10-25-04)は、パリ、マルセイユ、リヨン、ボルドー、リール、トゥールーズ、モンペリエ、ナントなど少なくとも8都市で治安部隊による催涙ガス使用を伴う衝突に発展したという。内務省のヌニェス大臣は、全国で7万人の治安部隊を配備したにもかかわらず、一部の「黒装束の過激派」による「極めて高いレベルの暴力」があったと述べ、全国で拘束者が1,000人近くに達したとされる。パリではポルト・ド・ヴァンセンヌ付近で一部の参加者が投石し、治安部隊が催涙ガス・放水で応じたという。トゥールーズの男性を含む2人が重傷を負ったとされる。これは前週(10月17〜18日)に起きたより大規模な暴動(逮捕者2,397人、負傷した警官997人)に続くもの。[信頼性: 高](France 24・Al Jazeeraの報道に基づく。内務省発表の拘束者数等は公式発表だが、主催者側は参加人数等について政府発表と異なる主張をしている)",
+      "en": "According to France 24 and Al Jazeera, Saturday's October 24 cost-of-living protests (see earlier report id: 2026-10-25-04) turned violent in at least eight cities -- Paris, Marseille, Lyon, Bordeaux, Lille, Toulouse, Montpellier and Nantes -- where riot police used tear gas. Interior Minister Laurent Nunez said that despite deploying 70,000 security personnel nationwide, there was an \"extremely elevated level of violence\" from some \"black-clad extremists,\" and that nearly 1,000 people were arrested nationwide. In Paris, some protesters threw projectiles near Porte de Vincennes and police responded with tear gas and water cannon. Two people, including a man in Toulouse, were reportedly seriously injured. This follows larger rioting the previous weekend (October 17-18) that saw 2,397 arrests and 997 police officers injured. [Reliability: High] (Based on France 24 and Al Jazeera reporting; the arrest figures come from the Interior Ministry's own statement, though organizers dispute the government's turnout figures.)"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 46.6034,
+    "lon": 1.8883,
+    "occurredAt": "2026-10-24T20:30:00+00:00",
+    "source": {
+      "name": "France 24 / Al Jazeera",
+      "url": "https://www.france24.com/en/live-news/20261024-french-police-fire-tear-gas-during-fresh-protests"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-25-08",
+    "headline": {
+      "ja": "イスラエル、総選挙(27日)に向けヨルダン川西岸との検問所を全面閉鎖へ ヘブロン地区封鎖は継続",
+      "en": "Israel to fully close West Bank crossings ahead of Tuesday's election; Hebron lockdown continues"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、イスラエル軍は10月25日(日)早朝の発表で、10月27日(火)の総選挙に向け、25日から26日まではパレスチナ人労働者の西岸地区大部分への入域を禁止し、投票日の27日には西岸地区との検問所を完全に閉鎖すると明らかにしたという。これは、23日のヘブロン近郊での銃撃事件(イスラエル兵2人死亡、既報id: 2026-10-24-01、2026-10-24-05)を受けたネタニヤフ首相の「完全封鎖」指示の一環で、カッツ国防相は該当地区の住民約2,000人が既に退去させられたと確認したという。イスラエル軍は作戦が複数日間続くとしている。パレスチナ当局はこの措置を「集団的処罰」だと非難しているという。[信頼性: 高](Al Jazeeraの報道に基づくイスラエル軍発表の内容。イスラエル軍の公式声明原文は本収集時点で直接確認できていない)",
+      "en": "According to Al Jazeera, the Israeli military said early Sunday, October 25, that it will bar Palestinian workers from entering most of the West Bank from Sunday through Monday ahead of Tuesday's October 27 election, and will fully close crossings into and out of the territory on election day itself. The move follows Prime Minister Netanyahu's order for a \"full lockdown\" of the West Bank after Friday's shooting near Hebron that killed two Israeli soldiers (see earlier reports id: 2026-10-24-01 and 2026-10-24-05); Defense Minister Israel Katz confirmed that about 2,000 residents of the affected neighborhood have already been displaced. The Israeli military said the operation would continue for several days. Palestinian officials have called the measures \"collective punishment.\" [Reliability: High] (Based on Al Jazeera's reporting of the Israeli military's statement; the original military statement itself could not be directly confirmed at the time of this collection.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ヘブロン(ヨルダン川西岸地区)",
+    "lat": 31.5326,
+    "lon": 35.0998,
+    "occurredAt": "2026-10-25T02:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-25-06",
+    "headline": {
+      "ja": "フーシ派、リヤド狙いの弾道ミサイルをサウジ主導軍が撃墜 フーシ派はリヤド国際空港を「軍事目標」と警告",
+      "en": "Saudi-led coalition downs Houthi missile aimed at Riyadh; Houthis warn Riyadh airport is unsafe military target"
+    },
+    "summary": {
+      "ja": "Al Jazeeraのライブブログ(10月25日)によると、サウジアラビア主導連合軍は、同国の首都リヤドを狙って発射されたフーシ派の弾道ミサイル1発を撃墜したと発表したという。フーシ派は同日、リヤドの国際空港を「安全でない軍事目標」であるとして、旅行者に利用を避けるよう警告したという。これは10月に入ってから繰り返されているフーシ派によるサウジ国内への弾道ミサイル攻撃(既報id: 2026-10-25-02等)の最新の事例であり、サウジ治安当局は過去の攻撃を受けて防空体制の不備についても調査を進めているという。[信頼性: 中](Al Jazeeraのライブブログ報道に基づく。ミサイル撃墜自体はサウジ主導連合軍の発表による事実だが、空港を巡るフーシ派の警告の実際の意図・影響については独立した確認ができていない)",
+      "en": "According to an Al Jazeera live blog (October 25), the Saudi-led coalition said it shot down a Houthi ballistic missile fired toward the Saudi capital Riyadh. The same day, the Houthis reportedly warned travelers to avoid Riyadh's international airport, calling it an unsafe military target. This is the latest in a string of Houthi ballistic missile attacks on Saudi Arabia this month (see earlier report id: 2026-10-25-02), and Saudi authorities are reportedly still investigating air-defence failures from earlier attacks. [Reliability: Medium] (Based on an Al Jazeera live blog; the interception itself is confirmed by the Saudi-led coalition's own statement, but the practical intent and effect of the Houthi warning about the airport could not be independently verified.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "リヤド",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-25T03:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
     },
     "reliability": "medium"
   }
