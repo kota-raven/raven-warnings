@@ -69,6 +69,30 @@
     "eventKey": "yemen_houthis_aden_attack_2026-10-24"
   },
   {
+    "id": "auto-28783",
+    "headline": {
+      "ja": "ヘブロンで2000人以上が住宅から強制退去、イスラエルの西岸作戦中",
+      "en": "More than 2,000 forced from homes in Hebron amid Israel's West Bank raids"
+    },
+    "summary": {
+      "ja": "パレスチナのヘブロンで2000人以上が住宅から強制退去させられた。イスラエル軍が西岸全域で逮捕作戦を続けており、市民は「恐怖の中で生活している」と報告。",
+      "en": "More than 2,000 Palestinians in Hebron were forced from their homes amid Israeli military operations. Palestinians report living in fear as Israeli forces conduct raids and arrests across the West Bank."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-10-24T15:50:49+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_hebron_forced_evacuation_2026-10-24",
+    "severity": 4
+  },
+  {
     "id": "auto-28842",
     "headline": {
       "ja": "中国西蔵で7.0級地震",
@@ -93,6 +117,469 @@
     "severity": 4
   },
   {
+    "id": "auto-28813",
+    "headline": {
+      "ja": "イラン革命防衛隊がUS-イスラエル戦争の影響は国境を超える可能性があると警告",
+      "en": "Repercussions of US-Israeli war extend beyond Iranian borders: IRGC spokesperson"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊(IRGC)のホセイン・モエビ報道官はUS-イスラエル戦争の影響は国境を超え、他国にも影響する可能性があると警告。",
+      "en": "The IRGC spokesperson said the fallout of the US-Israeli war could extend beyond Iran's borders and affect other nations as well."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-24T14:33:14+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86302057/Repercussions-of-US-Israeli-war-extend-beyond-Iranian-borders"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_irgc_us_israel_war_impact_2026-10-24"
+  },
+  {
+    "id": "auto-28787",
+    "headline": {
+      "ja": "占領西岸の完全封鎖が開始",
+      "en": "Full lockdown of occupied West Bank begins"
+    },
+    "summary": {
+      "ja": "イスラエル軍がパレスチナの占領西岸全域で完全な封鎖と軍事作戦を開始した。",
+      "en": "The Israeli military began a full lockdown and military operations across the occupied West Bank."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-24T14:24:19+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_westbank_full_lockdown_2026-10-24",
+    "severity": 4
+  },
+  {
+    "id": "auto-28788",
+    "headline": {
+      "ja": "ウクライナがStarlink復旧を報告、ロシア・ウクライナで攻撃継続",
+      "en": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine"
+    },
+    "summary": {
+      "ja": "ウクライナはStarlink衛星通信が復旧したと報告。ウクライナ・ロシア・米国の交渉団は来月アブダビで会合予定。",
+      "en": "Ukraine reported that Starlink was restored as military attacks continue. Negotiators from Ukraine, Russia, and the US are expected to meet in Abu Dhabi next month."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-24T14:23:40+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_starlink_attacks_2026-10-24"
+  },
+  {
+    "id": "auto-28794",
+    "headline": {
+      "ja": "ヨルダン教会での銃撃事件、犯人の背後は不明",
+      "en": "Who was behind the deadly church shooting in Jordan?"
+    },
+    "summary": {
+      "ja": "ヨルダンでのキリスト教会での銃撃事件について捜査が進行中。犯人の身元は不明で現在も逃走中。",
+      "en": "Authorities are investigating a rare deadly shooting at a Christian church in Jordan. The assailants remain unidentified and at large."
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "occurredAt": "2026-10-24T13:39:26+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_church_shooting_investigation_2026-10-24"
+  },
+  {
+    "id": "auto-28798",
+    "headline": {
+      "ja": "イランがアメリカの艦船接近を許さないと表明、トランプの新攻撃検討に対抗",
+      "en": "Iran says won't allow US warships to get close as Trump ponders new attacks"
+    },
+    "summary": {
+      "ja": "イランの当局者・メディア・分析家は戦争がより近づいていると認識しており、後退しないことを示唆している。",
+      "en": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-24T13:06:03+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_us_warship_confrontation_2026-10-24",
+    "severity": 4
+  },
+  {
+    "id": "auto-28799",
+    "headline": {
+      "ja": "ヨルダン国王アブドラがテロ攻撃後に強硬な対応を命令",
+      "en": "Jordan's King Abdullah orders firm response after deadly church attack"
+    },
+    "summary": {
+      "ja": "ヨルダン当局がテロ攻撃の犯人を追跡中。死者は9人に増加。既知グループとの関連は時期尚早と判断。",
+      "en": "Authorities searching for attackers say too early to determine if they had ties to known groups, as death toll now nine."
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "occurredAt": "2026-10-24T13:02:51+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_church_attack_government_response_2026-10-24"
+  },
+  {
+    "id": "auto-28801",
+    "headline": {
+      "ja": "米国防情報がイランの米国人攻撃計画が『高度な段階』に達したと警告",
+      "en": "Is Iran planning attacks on Americans; why is the US on alert?"
+    },
+    "summary": {
+      "ja": "米国防情報機関はイランが中東地域の米国人に対する陰謀が『高度な段階』に達したと警告。",
+      "en": "US intelligence memo warns that Iranian plots against US citizens in the Middle East have reached advanced stages."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-24T12:51:21+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_us_citizen_plots_alert_2026-10-24"
+  },
+  {
+    "id": "auto-28646",
+    "headline": {
+      "ja": "rybarアカウントでペンタゴン関連の分析投稿",
+      "en": "Analysis post about Pentagon from rybar account"
+    },
+    "summary": {
+      "ja": "Telegramのrybarアカウントで、ペンタゴン指導者Hegsetの軍近代化演説の裏で起きている問題についての分析投稿があったと報告されている。",
+      "en": "A post on the rybar account analyzed Pentagon leadership matters, reportedly regarding activities behind the scenes while military modernization is being promoted."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-24T12:14:00+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84138"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "us_pentagon_analysis_post_2026-10-24"
+  },
+  {
+    "id": "auto-28723",
+    "headline": {
+      "ja": "ウクライナがStarshield速度制限の解除を表明",
+      "en": "Ukraine says Starshield speed restrictions lifted after high-level contacts"
+    },
+    "summary": {
+      "ja": "ウクライナはハイレベルの接触後、Starshield衛星通信の速度制限が解除されたと発表した。",
+      "en": "Ukraine reported that Starshield speed restrictions were lifted following high-level diplomatic contacts."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-24T11:54:38+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjZlU0w0ZFpKTE5VMGhQUWFXdnRIQmZjUS13RTBNVlVkWWNNMTlQY2lpbkFkZWthOFY4LXpxYUIzbXUzcXZaTE1TWkJoNVRBSWMxX05VeTZSZ1BXZWRzT1k2dG55YmctVjZtTGp6cERHUDVLT3p1c1hGcjJGcUJBVVZiamZvTFY3WHk2d293Sno3bHA0OHVwX2lMWTJHWjZhR1pQcnlJZG9yN0dRUFg0bkZXWWo?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_starshield_restrictions_lifted_2026-10-24"
+  },
+  {
+    "id": "auto-28724",
+    "headline": {
+      "ja": "イエメン・タイズでフーシ派攻撃により子供2人死亡、民間人3人負傷",
+      "en": "2 children killed, 3 civilians wounded in Houthi attacks in Yemen's Taiz"
+    },
+    "summary": {
+      "ja": "イエメンのタイズでフーシ派による攻撃が発生し、子供2人が死亡、民間人3人が負傷した。",
+      "en": "A Houthi attack in Yemen's Taiz resulted in two children killed and three civilians wounded."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-24T11:21:56+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzlXVnZPc1dLMnFzbXZudGgxMkRiRkNsNUMzV3JtMjRFWnNZSzM4ZXQ2cVVjYktiMmt3a2p1TFZNaU1TNjZnTWJBYjA1VUdzcmZJRXhjWFdidHBhVlNyY3Rpb1BfR2Nmbkh4U1BmZjRFU25rd0tfMURpcTdSMGJWeTZydGZiQW0yVzJya2VkTjRWS3VVMVpxNHo1UVprNVVjcXRjdWZndERzaWZfY0ROVTd6bzBmeU5vZ1BmbWN0cG96S01EU1Nz?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_taiz_houthis_attack_2026-10-24"
+  },
+  {
+    "id": "auto-28633",
+    "headline": {
+      "ja": "ウクライナがStarlink接続が安定したと報告",
+      "en": "Ukraine says Starlink connection 'now stable' after network limits"
+    },
+    "summary": {
+      "ja": "ウクライナは、1週間軍事・ドローン作戦に影響を与えていたStarlink接続が現在安定したとコメントした。",
+      "en": "Ukraine reported that Starlink connections, which had impacted military and drone operations for a week, are now stable."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-24T11:17:35+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_starlink_stable_2026-10-24"
+  },
+  {
+    "id": "auto-28735",
+    "headline": {
+      "ja": "イスラエル当局がヘブロンから1500人のパレスチナ人を強制退去、さらに2500人の計画",
+      "en": "Israeli authorities force 1,500 Palestinians from their homes in Hebron, plan to displace 2,500 more"
+    },
+    "summary": {
+      "ja": "イスラエル当局はヘブロンから1500人のパレスチナ人を強制的に自宅から追い出し、さらに2500人の退去を計画している。",
+      "en": "Israeli authorities forcibly displaced 1,500 Palestinians from their homes in Hebron and plan to displace 2,500 more."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-24T11:16:48+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvMk9hVGxESFp5cEkxRGJpUXRrRzk5RXJROERuX28xS0FBLTFRamVrU0VMMVdjODNfc29KR0hMS3VCbVVoYXZuV1lESklYeFdjUmlrUGhsdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_hebron_displacement_2026-10-24",
+    "severity": 4
+  },
+  {
+    "id": "auto-28535",
+    "headline": {
+      "ja": "フランスでのヘイトクライム、人種差別的攻撃で1人死亡",
+      "en": "Deadly 'racist' attack in France: Are hate crimes rising in Europe?"
+    },
+    "summary": {
+      "ja": "フランスで人種差別的な暴力事件が発生し、1人が殺害された。ヨーロッパ全域でイスラム系住民がヘイトクライムの対象となっている傾向が報告されている。",
+      "en": "A deadly racist attack occurred in France. Monitoring groups report that Muslims across Europe face increased racial discrimination and hate crimes."
+    },
+    "category": "disaster",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-10-24T10:47:07+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "france_hate_crime_2026-10-24"
+  },
+  {
+    "id": "auto-28530",
+    "headline": {
+      "ja": "rybarのアカウントで、アメリカの対ウクライナ制限に関する分析投稿",
+      "en": "Analysis of American restrictions against Ukraine posted on rybar account"
+    },
+    "summary": {
+      "ja": "Telegramのrybarアカウントで、アメリカのウクライナに対する制限についての分析記事が投稿されたという報告があった。",
+      "en": "An analysis post regarding American restrictions on Ukraine was posted on the rybar Telegram account."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-24T10:19:00+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84135"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_us_restrictions_analysis_2026-10-24"
+  },
+  {
+    "id": "auto-28442",
+    "headline": {
+      "ja": "ケニア・ナイロビで建物崩壊、7人が行方不明",
+      "en": "Seven missing after multi-storey building collapses in Kenya's capital"
+    },
+    "summary": {
+      "ja": "ナイロビの建設中の高層建物が崩壊し、7人が瓦礫の下に閉じ込められている。救助活動が進行中。",
+      "en": "A multi-storey building under construction collapsed in Nairobi, trapping seven people under the rubble. Rescue operations are underway."
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-24T09:44:01+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_nairobi_building_collapse_2026-10-24"
+  },
+  {
+    "id": "auto-28524",
+    "headline": {
+      "ja": "パレスチナ副大統領、イスラエルの集団懲罰の国際的非難を呼びかけ",
+      "en": "Vice President al-Sheikh calls for international condemnation of Israel's collective punishment of Palestinians"
+    },
+    "summary": {
+      "ja": "パレスチナ自治政府の副大統領は、イスラエルによるパレスチナ人への集団懲罰に対する国際的な非難を求めた。",
+      "en": "Palestinian Vice President al-Sheikh called for international condemnation of Israel's collective punishment of Palestinians."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-24T09:16:15+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fREpiRUdldU1NdUNVTEljV3daUFVZZi1wbnZsSlYtQXV3RXNXdVE5MWdWX1pVU29raEprLUNyWFJGZFk2WUlRVG1acTRkN1QyVXVaVFM0Yw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_israel_collective_punishment_2026-10-24"
+  },
+  {
+    "id": "auto-28601",
+    "headline": {
+      "ja": "フィリピン空軍の訓練機が墜落、パイロット4人死亡",
+      "en": "4 Philippine Air Force pilots killed as training aircraft crash"
+    },
+    "summary": {
+      "ja": "フィリピン空軍の訓練機が墜落し、パイロット4人が死亡した。",
+      "en": "A Philippine Air Force training aircraft crashed, killing four pilots."
+    },
+    "category": "disaster",
+    "country": "フィリピン",
+    "lat": 14.6042,
+    "lon": 120.9822,
+    "occurredAt": "2026-10-24T08:43:07+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcC1LSjhjNDNGZ1NCRWphTFI2alM0X2tnRFMzdHIxOFIxRmw5RDZWbF9kZlA0V3pmemNuNV9PcHF3WUtpREdPMGVRY3FEUUdyU0lBWmRiSVdkdndTU01DanZWbHBONTN3NTBWMDBPbjI1dEhrQ1VQZW5KVTdUSkY0cXZteC03X3VQdUhIWWtLOERhLUpYd1ZvempXUkpiLU8tcHN2Vi02WTZESmpfeGc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "philippines_air_force_crash_2026-10-24"
+  },
+  {
+    "id": "auto-28620",
+    "headline": {
+      "ja": "ロシア外交官、アリョシュキの出来事をキーウの戦争犯罪と表現",
+      "en": "Russian diplomat describes events in Alyoshki as Kiev's war crime"
+    },
+    "summary": {
+      "ja": "ロシア政府は、アリョシュキでの出来事をウクライナ(キーウ)政府による戦争犯罪と主張した。",
+      "en": "A Russian diplomat characterized events in Alyoshki as a war crime committed by Kyiv."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-24T07:39:44+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42alZ1dWpCaU1iUjZsOWJ4VWhhSDZXUTRCcFR3TlBRRzh4OTNuczdveHlWTXpQUU83S2xMX2h3R0NlOUdkTDNz0gFMQVVfeXFMTVdDYmU5Q2dEb2R3QWkyYTdpT2ZGMUd3R0FPNzMySDg1UFYzSkdkTWg2OWdXWm1QSnRodmpEcVhYUHYySTdmODEwbS1Gdg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_alyoshki_war_crime_claim_2026"
+  },
+  {
+    "id": "auto-28547",
+    "headline": {
+      "ja": "フィリピン北部で飛行機墜落、4人のパイロット死亡",
+      "en": "4 pilots killed in north Philippine plane crash"
+    },
+    "summary": {
+      "ja": "フィリピン北部で飛行機が墜落し、4人のパイロットが死亡した。",
+      "en": "A plane crash in northern Philippines killed four pilots."
+    },
+    "category": "disaster",
+    "country": "フィリピン",
+    "lat": 14.6042,
+    "lon": 120.9822,
+    "occurredAt": "2026-10-24T07:37:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXYxdm14ekhEY0JrLTRNb3JrVG4zTlQzM3dlNFlsLXNKeWpsYTZMbFhqX3p3VXVkSHBnZV9BZFUyaFQ4ZExlelBfdV9fa3BvclpCY1pyNGhtcjRYWEl5VGtyMk1na3JRM2gyZC1fbXpybm05cmdPbXRUQmk3WWdJeURPSHhJcW1XRm1kSg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "philippines_plane_crash_2026-10-24"
+  },
+  {
+    "id": "auto-28448",
+    "headline": {
+      "ja": "中国人民解放軍、台湾周辺で活動継続",
+      "en": "PLA activities in the waters and airspace around Taiwan Oct.24 2026"
+    },
+    "summary": {
+      "ja": "台湾国防部は、中国人民解放軍が台湾周辺の海域と空域での活動を継続していることを報告した。",
+      "en": "Taiwan's Defense Ministry reported ongoing PLA activities in waters and airspace surrounding Taiwan."
+    },
+    "category": "conflict",
+    "country": "台湾",
+    "lat": 25.0531,
+    "lon": 121.5264,
+    "occurredAt": "2026-10-24T06:57:16+00:00",
+    "source": {
+      "name": "台湾 国防部(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZTzVSUXBoUVFiczlMNHpvOE8yUktoRmVuNW93Q1BRSzVHM0xBSC1YTFZXbUwwWGZySFFMQlB6XzJLLUtjMEFsMVYxcXlGV1NMZzZEc1BaWFhIUTFDWjNtejBpRE45eTNpbnFkbE1LZm1sdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "taiwan_pla_activities_2026-10-24"
+  },
+  {
     "id": "auto-28348",
     "headline": {
       "ja": "台湾のタイフーン・チャンピーで死傷者多数",
@@ -114,6 +601,53 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "taiwan_typhoon_champi_2026-10-24"
+  },
+  {
+    "id": "auto-28434",
+    "headline": {
+      "ja": "ロシア国防省、ウクライナドローン616機を撃墜と発表",
+      "en": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry"
+    },
+    "summary": {
+      "ja": "ロシア国防省は、ロシア領土上で一晩のうちにウクライナ軍のドローン616機を空中防衛で撃墜したと発表した。",
+      "en": "The Russian Defense Ministry claimed to have shot down 616 Ukrainian drones over Russian regions overnight."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-24T05:58:52+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Oa0lYT2l2MEFJdEk4Q2tOWUJQUkhWS0tWcHFUdUxOUWZIS2JvUTI4OGpmUERYeWtRakU3QWxBVUJrd29vRHdvcFdqZXTSAUxBVV95cUxPTmtJWE9pdjBBSXRJOENrTllCUFJIVktLVnBxVHVMTlFmSEtib1EyODhqZlBEWHlrUWpFN0FsQVVCa3dvb0R3b3BXamV0?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_drone_downing_2026-10-24"
+  },
+  {
+    "id": "auto-28558",
+    "headline": {
+      "ja": "ケニア、エボラウイルス感染による2番目の死亡を確認",
+      "en": "Kenya confirms second death from Ebola"
+    },
+    "summary": {
+      "ja": "ケニアでエボラウイルス感染による2番目の死亡が確認された。",
+      "en": "Kenya confirmed the second death from Ebola virus infection."
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-24T04:43:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0xGWWhGTWMtcFZPWDNYZGVYT3JLVVdmNVNxLXk0endrcU11VnhIYVM1eGdwOHdjbjRXSkJNNDNQTzNkNjZmbHZ0bXhPUVQ0bUkySUZseFMtMXEyaFJYNGljNEwyZEpEZEU3QkpOQ2ZrOXd3WnI5eS1jUDhteXczLTZ4dE42Zw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_ebola_death_2026-10-24",
+    "severity": 4
   },
   {
     "id": "auto-28852",
@@ -163,6 +697,30 @@
     "severity": 4
   },
   {
+    "id": "auto-28702",
+    "headline": {
+      "ja": "パキスタンの交通事故で13人死亡、21人負傷",
+      "en": "13 Killed, 21 Injured in Traffic Accident in Pakistan"
+    },
+    "summary": {
+      "ja": "パキスタンで大型交通事故が発生し、13人が死亡、21人が負傷した。",
+      "en": "A major traffic accident in Pakistan resulted in 13 deaths and 21 injuries."
+    },
+    "category": "disaster",
+    "country": "パキスタン",
+    "lat": 33.7215,
+    "lon": 73.0433,
+    "occurredAt": "2026-10-24T03:11:06+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rWWFJNTZYZVNIeGo5MFhQT2s2N0xwazBnNGZsM3JLSVhPTm1UUWNWc05OdjluZTVqU3k2cGVNdC1Jb2IyT3NKbi1R?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_traffic_accident_2026-10-24",
+    "severity": 4
+  },
+  {
     "id": "auto-27997",
     "headline": {
       "ja": "ポーランドが仏米核兵器の領土配備を意図",
@@ -187,6 +745,122 @@
     "severity": 4
   },
   {
+    "id": "auto-28817",
+    "headline": {
+      "ja": "西蔵地震で16人死亡、76人負傷、救助活動激化",
+      "en": "Rescue efforts intensify after Xizang quake kills 16, injures 76"
+    },
+    "summary": {
+      "ja": "中国西蔵での地震により16人が死亡、76人が負傷。救助活動が激化している。",
+      "en": "An earthquake in Xizang resulted in 16 deaths and 76 injuries, with rescue efforts intensifying in the region."
+    },
+    "category": "disaster",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-24T02:03:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOczE3Y3k4cjI1RXJQdFNGLUs2akM4UDZMeTF3UnVuUFVYVG51YmQ4eVpWS0xOendsMmRVRDFLZFRaaVk1bDV4WUpCcXRrQUJ0cFJaTHhYSVVMZ3BfMmJ4Y01ORExxUWhLQ0swbkJkVFNkOWVwZkJlV2pwWlg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "xizang_earthquake_2026-10-24"
+  },
+  {
+    "id": "auto-28521",
+    "headline": {
+      "ja": "イランの外相、来週モスクワでロシア大統領との会談予定",
+      "en": "Araghchi says Iranian, Russian presidents to meet in Moscow next week"
+    },
+    "summary": {
+      "ja": "イランの外相アラグチは、イランとロシアの大統領がモスクワで来週会談する予定だと述べた。",
+      "en": "Iran's Foreign Minister Araghchi announced that Iranian and Russian presidents will meet in Moscow next week."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-23T19:33:59+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGQxZ3k5eTdNazVuWnJibEZ1Y09aUDVHOExDZ0hMZnpiN3REampoT05PTHpqclhaYWJIZGhtdmFJNHBVZVprZjBiTENVOXR3RHFrdGhOYmpIU2d4aFgxa2xXZkxLUWhmYW96cDQtYzM3YTBKVElmODJ5ZFZTUl95c1BTSDBQZmZ6LVV5UDlSWk1HbjhwTDItTERjTGZEazJZWkxDNVdydC1PekloNi1KcmhJOA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_russia_moscow_summit_2026-10"
+  },
+  {
+    "id": "auto-28757",
+    "headline": {
+      "ja": "トランプがイラン攻撃の可能性についての特使声明を否定",
+      "en": "Trump denies his envoy's statement about potential strike on Iran this weekend"
+    },
+    "summary": {
+      "ja": "トランプは、この週末のイランへの攻撃可能性についての特使の声明を否定した。",
+      "en": "Trump denied his envoy's statement about a potential military strike on Iran this weekend."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-23T19:24:54+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4aDVMVGRvczY3YTNDQWJPMEM1LUl4a1c1VjNXbDV5MDI2eXVWb2wyZk5mbTNMd3RLZkVyU1cyYlNvVE53bEZLRjdB0gFKQVVfeXFMUHhoNUxUZG9zNjdhM0NBYk8wQzUtSXhrVzVWM1dsNXkwMjZ5dVZvbDJmTmZtM0x3dEtmRXJTVzJiU29UTndsRktGN0E?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_trump_iran_strike_denial_2026-10-23",
+    "severity": 4
+  },
+  {
+    "id": "auto-28701",
+    "headline": {
+      "ja": "サウジアラビア救援機関がガザに冬支援物資を輸送",
+      "en": "KSrelief Convoy Brings Tents, Food Baskets to Gaza as Winter Nears"
+    },
+    "summary": {
+      "ja": "サウジアラビア国王救援団(KSrelief)の車列がテント、食糧かごをガザに輸送。冬が近づく中での人道支援。",
+      "en": "A Saudi Arabia-led relief convoy delivered tents and food baskets to Gaza as winter approaches."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-23T18:54:32+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tVmlOWkM0U2phODZ4U01NR2dKZFJPMDVOaVNyUlB6azZTX0lYVFRkTjI4UUNsYno0VzJqd0J2LXBySUtGTEl0dHpn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_saudi_relief_winter_2026-10-23"
+  },
+  {
+    "id": "auto-28520",
+    "headline": {
+      "ja": "国連事務総長、イスラエルの占領地での広範な閉鎖に懸念表明",
+      "en": "UN chief 'deeply concerned' over widespread closures by Israel in occupied West Bank"
+    },
+    "summary": {
+      "ja": "国連事務総長はイスラエルによる占領地での広範な閉鎖措置に対して、深刻な懸念を表明した。",
+      "en": "The UN Secretary-General expressed deep concern over widespread closures imposed by Israel in the occupied West Bank."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-23T17:31:31+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHZ3LTR2WTYyZHVLa1dheTFWWVJoUFRjb19OcDRqMWRRRkx3NWVhdFVQd1F6ZXotT0RuS3kzWFQtQnhwWnhkdUdBU1BlVGlOSzRvRjdkX1pRWkR4SzV1bGtMRzBzNW02aEREeXJ4WkhEVGZsU0hlWTNyQkZBNUt0NkZwQjlLZEgyTG5CTTRYcnBDNEZBdG41bk9LQ29TRzFjNWtMWDhkWk5rUHZlUC1qdHlkWkJKZkgzd0otTzNlUUhmdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_israel_wb_closure_2026-10-23"
+  },
+  {
     "id": "auto-27035",
     "headline": {
       "ja": "スーダン飢饉リスク、国際社会が共同声明で警告",
@@ -208,6 +882,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "sudan_famine_risk_international_statement_2026-10"
+  },
+  {
+    "id": "auto-28522",
+    "headline": {
+      "ja": "トルコ外相、イランへの新攻撃は地域紛争を深刻化させると警告",
+      "en": "Turkish foreign minister warns new attack on Iran would escalate regional conflict"
+    },
+    "summary": {
+      "ja": "トルコの外務大臣は、イランへの新たな攻撃は地域紛争を深刻化させると警告した。",
+      "en": "Turkey's Foreign Minister warned that a new attack on Iran would escalate regional conflict."
+    },
+    "category": "conflict",
+    "country": "トルコ",
+    "lat": 39.9199,
+    "lon": 32.8543,
+    "occurredAt": "2026-10-23T15:36:48+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVZGS0ZlNW5CdFhIc3ducl9CbHo0cFFvckw1YWl4UzJObHFQSW92cWVmN2FNaWxnd1dZMWhMWlZXQTI0U25GcFUtNm1yQXB2RUtxVTZ6MFRkQ3VHYWJiNlNRajVHdUxCdUk5dUtTeUlnVk9pcTdLQlhzTG5wQWRPT2xsS2k4YTBabElVNkZjVnN1TDlDUGlZWFhia08tcVY3Mk1aTS1oQW9ldUJHSGJxTDFJYV9PVkg0OXFZ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_turkey_escalation_warning_2026-10-23"
   },
   {
     "id": "auto-27900",
@@ -254,6 +951,53 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "lebanon_israeli_airstrikes_2026-10-23"
+  },
+  {
+    "id": "auto-28764",
+    "headline": {
+      "ja": "モスクワの全空港が航空機の到着・出発を停止",
+      "en": "All Moscow airports suspend aircraft arrivals, departures"
+    },
+    "summary": {
+      "ja": "ロシア連邦航空輸送局により、モスクワの全ての空港で航空機の到着・出発が停止された。",
+      "en": "Russia's Federal Air Transport Agency announced that all Moscow airports suspended aircraft arrivals and departures."
+    },
+    "category": "disaster",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-23T14:46:15+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QTWI2WHZ5ci02YW1YS21GTHFnRjlvSHRfZDJSQk1TdlAwR1Y4Mmx0UFhISFdwNW9IZXpsejB1bVIyOEx6Z1p4ZnBWeVHSAUxBVV95cUxOUE1iNlh2eXItNmFtWEttRkxxZ0Y5b0h0X2QyUkJNU3ZQMEdWODJsdFBYSEhXcDVvSGV6bHowdW1SMjhMemdaeGZwVnlR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "moscow_airports_closure_2026-10-23"
+  },
+  {
+    "id": "auto-28624",
+    "headline": {
+      "ja": "ヨルダンのキリスト教会近くで銃撃、7人死亡",
+      "en": "Seven killed as gunmen open fire near Christian church in Jordan"
+    },
+    "summary": {
+      "ja": "ヨルダンでキリスト教会近くで銃撃事件が発生し、7人が死亡した。",
+      "en": "A shooting near a Christian church in Jordan resulted in seven deaths."
+    },
+    "category": "disaster",
+    "country": "ヨルダン",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "occurredAt": "2026-10-23T13:47:54+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBQQzRKV3d4ZG8zdktRanNfY2U3WUFlT3F0THBfa0pHNkpxdWkycnNtZlpVZkZ4dk9pYWlvbW9zYk12bEhvRGRBbFln0gFKQVVfeXFMUFBDNEpXd3hkbzN2S1Fqc19jZTdZQWVPcXRMcF9rSkc2SnF1aTJyc21mWlVmRnh2T2lhaW9tb3NiTXZsSG9EZEFsWWc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_church_shooting_2026-10-23",
+    "severity": 4
   },
   {
     "id": "auto-27140",
@@ -1978,77 +2722,6 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_st_petersburg_drone_attack_2026-10-18",
-    "severity": 4
-  },
-  {
-    "id": "auto-17083",
-    "headline": {
-      "ja": "イラン大統領が米国の暗殺脅迫を言及、防衛相候補擁護",
-      "en": "Iran's president cites US assassination threats regarding defense minister nominee"
-    },
-    "summary": {
-      "ja": "イラン大統領がアナドル通信に対し、防衛相候補が米国の「暗殺リスト」に載っていることを懸念していると述べた。",
-      "en": "Iran's president expressed concern that the defense minister nominee is on a US 'assassination list'."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-18T07:35:55+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVJRWGNESUJ4QWlXX2VWaFFLOWdmSmE4MG1mUzdxaTZHaGEzTzkzNElOZDlTSENaVkxTYnd6UEx6cEkyekJMMnl0aGFtZFNzZXBrX2dPMVA3QmR6M3VZQVRuVTV1QmZ4T2hfR0RXMk5NTUxnUUlZVGt1dUE2SzlWUklLUnZuRmE0RzNtbjN6UTdlcDJCYXdYYWNBQ25iaEUyaDlDMF9OQnFwNjFna1VleUhBVGY1TjNBQWNSV1BURjZCUVdoTU5Ibw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_defense_minister_us_tensions_2026-10"
-  },
-  {
-    "id": "auto-17122",
-    "headline": {
-      "ja": "レニングラード州への4年以内で最大級のドローン攻撃",
-      "en": "Drone attack on Leningrad Region one of largest in four years"
-    },
-    "summary": {
-      "ja": "ロシア国営タス通信は、レニングラード州が受けたドローン攻撃が過去4年間で最大規模のものだと報道した。",
-      "en": "Russian TASS reports that the drone attack on Leningrad Region is the largest in the past four years."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-18T05:34:00+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZRUM2TjBsNHpFQ2d1bVlyUDliUl96VGhjLUZGVGN4c01uNkVtVEo4NXFuaU5ZcnJBOHlyVnhTTEc4OG9ZbExxa3NOV1RVbEViTkHSAVJBVV95cUxQWUVDNk4wbDR6RUNndW1ZclA5YlJfelRoYy1GRlRjeHNNbjZFbVRKODVxbmlOWXJyQTh5clZ4U0xHODhvWWxMcWtzTldUVWxFYk5B?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_leningrad_largest_drone_attack_2026-10-18",
-    "severity": 4
-  },
-  {
-    "id": "auto-17106",
-    "headline": {
-      "ja": "ロシア・レニングラード州のVKデータセンターがドローン攻撃を受ける",
-      "en": "VK data center in Leningrad Region targeted by drone attack"
-    },
-    "summary": {
-      "ja": "ロシア国営タス通信は、レニングラード州のロシア大手SNS企業VKのデータセンターがドローン攻撃の目標になったと報道した。",
-      "en": "Russian TASS reports that the VK data center in Leningrad Region was targeted by a drone attack."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-18T03:17:19+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GT0lkZTMyYUFYVUp0NFFMTW1mY2F3MlVFNUROS3lnc19HNU4tdjZ6YzZBWms3dG5PeU16eTFnQV9UX3BqOVJXMElIRFHSAVJBVV95cUxOQm9tRmJzRTJ2Z2JsMlE1NXVJb2dsZHlNbGROYm9ldGYtYzlQem96MzJKQVlCZGFORDR6YWs2aW8wN2FDYWRwTzBWX1NEdUZyZDZB?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_leningrad_vk_datacenter_attack_2026-10-18",
     "severity": 4
   }
 ]
