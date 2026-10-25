@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-29287",
+    "headline": {
+      "ja": "サウジアラビア、フーシ派の攻撃を迎撃",
+      "en": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合軍は、リヤドに向けたドローン・ミサイルと南部地域を狙った10発のミサイルを迎撃したと発表した。",
+      "en": "Saudi-led coalition said it intercepted a drone and missile launched towards Riyadh and 10 missiles targeting the southern region."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-25T10:42:51+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_interception_2026-10-25"
+  },
+  {
+    "id": "auto-29336",
+    "headline": {
+      "ja": "日本の小笠原諸島近海で大地震",
+      "en": "Magnitude-7.0 earthquake strikes waters near Japan's Ogasawara Islands"
+    },
+    "summary": {
+      "ja": "日本の小笠原諸島近海でマグニチュード7.0の地震が発生した。",
+      "en": "A magnitude-7.0 earthquake struck the waters near Japan's Ogasawara Islands."
+    },
+    "category": "disaster",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-10-25T02:34:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWeFRKU1AwMnBKSjVhcEtiQlhLQTFvMFBJbjY1dHFVenVOTVBfRG1wVHM4NWIwQ1dURlZEblpUX1BobGxtUHVYWWdpcGwwR2NLOXY1V2EyRExMUzZ2VGhHaDR4RG1vYkpuN0NUQjZ3Qmd2WURJeWVmWWplc0U?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "japan_ogasawara_earthquake_2026-10-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-29266",
+    "headline": {
+      "ja": "フーシ派、アデンのインフラ施設を攻撃",
+      "en": "Houthis launch attacks on Saudi Arabia and Yemen's Aden"
+    },
+    "summary": {
+      "ja": "フーシ派がミサイルでイエメンのアデン空港と海岸警備隊基地を攻撃したと報道された。",
+      "en": "Houthi missiles reportedly struck Aden airport and a coastguard base in Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-24T21:08:51+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_aden_houthi_attack_2026-10-24"
+  },
+  {
     "id": "auto-29101",
     "headline": {
       "ja": "ロシア・オムスク工業施設、ドローン攻撃",
@@ -2676,52 +2746,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_russia_major_drone_attack_2026-10-19"
-  },
-  {
-    "id": "auto-17308",
-    "headline": {
-      "ja": "コンゴ民主共和国でエボラが8番目の州に拡大",
-      "en": "Ebola outbreak spreads to 8th province in DR Congo"
-    },
-    "summary": {
-      "ja": "コンゴ民主共和国でエボラウイルスの流行が新たな州に拡大し、公衆衛生上の脅威が増している。",
-      "en": "Ebola outbreak in DR Congo has expanded to an 8th province, escalating public health threat."
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "lat": -4.3276,
-    "lon": 15.3136,
-    "occurredAt": "2026-10-18T10:54:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORndCeEo0bVVuNkVBRUNqdllxbDhUcndXQnR5WFUzUU1KcFcyeVBwdEJENjRlS19UYUJSaUt1cU5OelJId19QcEVwV3NXZHR3WUNuX2x1OTJjT19ZSEJBeG8tdzAyTU5tTFFmeTB2eEsyV2pKTklPV01JcEtzbFlKUkVtVzJHdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "drc_ebola_outbreak_2026"
-  },
-  {
-    "id": "auto-17181",
-    "headline": {
-      "ja": "ウクライナ軍がサンクトペテルブルク攻撃、1人死亡",
-      "en": "Ukrainian drone attack on St Petersburg kills one, hits energy sites"
-    },
-    "summary": {
-      "ja": "ウクライナ軍がロシア第2の都市サンクトペテルブルクへの無人機攻撃を実施し、1人が死亡し複数のエネルギー施設が被害を受けた。",
-      "en": "Ukrainian forces conducted a drone attack on Russia's second-largest city, killing one person and damaging multiple energy infrastructure sites."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 59.9364,
-    "lon": 30.312,
-    "occurredAt": "2026-10-18T10:34:09+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_st_petersburg_drone_attack_2026-10-18",
-    "severity": 4
   }
 ]
