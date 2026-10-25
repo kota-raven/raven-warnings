@@ -69,6 +69,52 @@
     "eventKey": "yemen_saudi_conflict_2026-10-25"
   },
   {
+    "id": "auto-29668",
+    "headline": {
+      "ja": "イラン、米国との戦争後は地域が「変わる」と述べる",
+      "en": "Iran says 'nothing will be same' in region after war with US"
+    },
+    "summary": {
+      "ja": "イランは、米国との戦争の後、地域には何も同じではいられないと述べた。",
+      "en": "Iran stated that nothing will be the same in the region after a war with the US."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-25T12:21:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzN1T3hGZVFOX2R5NHFOS2dHNFNMQTE4elFDcHhYRlFucGU2RVpTS2JnYkhPSEJTSUVYNlRlRnM3c3RMWU9rOFY4enVDVXZEYzZBNjJ6Tl90bG5lek1TSng1dzVBd2NjM2dhLWFaMkR3OURMbWljUjF4eUJCYWZOQXFIT0dYWXFBR3h1a2lKVi02empqWGd6d05wYVhWdTlJZDUtVXVn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_usa_war_statement_2026-10"
+  },
+  {
+    "id": "auto-29281",
+    "headline": {
+      "ja": "アルジェリア上院がニジェールへの軍事派遣を承認",
+      "en": "Algerian parliament's upper house approves troop deployment to Niger"
+    },
+    "summary": {
+      "ja": "アルジェリア議会上院は、隣国ニジェールへの軍隊派遣を承認した。両国間の最近の防衛協定に基づくもの。",
+      "en": "Algeria's parliament upper house approved military troop deployment to Niger following a recent defense pact between the two neighboring countries."
+    },
+    "category": "conflict",
+    "country": "アルジェリア",
+    "lat": 36.7323,
+    "lon": 3.0875,
+    "occurredAt": "2026-10-25T12:19:41+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "algeria_military_niger_deployment_2026-10-25"
+  },
+  {
     "id": "auto-29287",
     "headline": {
       "ja": "サウジアラビア、フーシ派の攻撃を迎撃",
@@ -90,6 +136,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_arabia_houthi_interception_2026-10-25"
+  },
+  {
+    "id": "auto-29596",
+    "headline": {
+      "ja": "Muskが、SpaceXのウクライナ向けStarlink接続制限を言及",
+      "en": "Musk says SpaceX restricted Ukraine's Starlink connection"
+    },
+    "summary": {
+      "ja": "テック企業家のMuskは、SpaceXがウクライナによる軍事利用を理由にStarlinksサービスの接続を制限したと述べた。",
+      "en": "Tech billionaire Musk stated that SpaceX restricted Ukraine's Starlink service connection, accusing Ukraine of violating terms of service by using the network for military activity."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-25T09:00:00+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_starlink_spacex_restriction_2026-10-25"
   },
   {
     "id": "auto-29665",
@@ -115,6 +184,76 @@
     "eventKey": "iran_southern_us_drone_2026-10-25"
   },
   {
+    "id": "auto-29656",
+    "headline": {
+      "ja": "イスラエル軍がヘブロンでパレスチナの家屋を軍事拠点に転用",
+      "en": "Israeli army turns Palestinian homes into military posts in West Bank city of Hebron"
+    },
+    "summary": {
+      "ja": "イスラエル軍は、ウェストバンク地域のヘブロンで、パレスチナ人の家屋を軍事拠点に転用している。",
+      "en": "The Israeli army is converting Palestinian homes into military posts in the West Bank city of Hebron."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-25T04:04:07+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFJQYmVUVVZZNTRhNUhKSTFxZmFQNmpZMjJGeGVYc282NE90WE95QzBQaE9OVTlMVUtSZjVSYkxYcjdKSDhvWU1xSEF6ZUo0UDZaaG9PMll5clRWZUlkN2ZfdjY4alVrUDNPN0VmUVMwWHJNaTlDMkNrb0NvNTk5N2x4elRlRE9uSFFJMklIVVJoZlplc2xaVVNaTlFqYVJXQUJBSlN6VmZsMVNNVGdDRmJlRlVlNkdlYWNDWkdDNmhVa3h3T1g5MQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_westbank_military_occupation_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-29639",
+    "headline": {
+      "ja": "フランス全国での生活費・教育問題デモがパリで警察と衝突",
+      "en": "Protesters clash with police in Paris amid nationwide demonstrations"
+    },
+    "summary": {
+      "ja": "フランス全国で実施された生活費上昇と教育条件に関する抗議デモがパリで警察との衝突に発展した。",
+      "en": "Nationwide demonstrations in France over rising living costs and education conditions resulted in clashes with police in Paris."
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-10-25T03:29:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOUx5VFdLR0V3NlB4ZXRZNkJob1NOcjlHRGVBX2U5ZkpNZ3VSZXA1OXgwajlrblNvdDNtNjFSN29OcjFBMzJvRXZwZVo5RmJZekw5YmhqR2piamo0ZDNyMEhRUHZIbnJ1X3U1Y04ySlA2SHMzMjRRYk1FRnB3bnAxZ2FBM3dELXdDRVZtRWxSdXJ2N2ZEZnVqZGZYemJLdnExdXJfdGdZYmdlSm5zMmhROWtnaXpPUmNuRVhnUlVBdE53QkVSaW5tdm5mTTRvekp4dWtqV1l5UHE0TVpHZF82ZG54Y0h0SzhWMDZxYjFoRGRuN2cydDA2SzVnTQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "france_nationwide_protest_paris_2026-10-25"
+  },
+  {
+    "id": "auto-29597",
+    "headline": {
+      "ja": "ナイジェリア北東部での武装勢力による襲撃で最低10人が殺害",
+      "en": "Gunmen kill at least 10 villagers in Nigeria's north-east"
+    },
+    "summary": {
+      "ja": "ナイジェリア北東部で武装勢力が村を襲撃し、最低10人が殺害された。当局は死傷者がさらに増える可能性があると警告している。",
+      "en": "Armed gunmen killed at least 10 villagers and looted shops in Nigeria's north-east. Police are searching for other casualties with officials warning the death toll could rise."
+    },
+    "category": "conflict",
+    "country": "ナイジェリア",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "occurredAt": "2026-10-25T03:20:16+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "nigeria_armed_violence_northeast_2026-10-25"
+  },
+  {
     "id": "auto-29336",
     "headline": {
       "ja": "日本の小笠原諸島近海で大地震",
@@ -137,6 +276,123 @@
     "auto": true,
     "eventKey": "japan_ogasawara_earthquake_2026-10-25",
     "severity": 4
+  },
+  {
+    "id": "auto-29629",
+    "headline": {
+      "ja": "イスラエル防衛相、ヘブロンでの2000人のパレスチナ人強制退去を認める",
+      "en": "Israeli defense minister admits to forcibly displacing 2,000 Palestinians from Hebron"
+    },
+    "summary": {
+      "ja": "イスラエル防衛相は、ウェストバンク地域のヘブロンで2000人のパレスチナ人を強制的に退去させたことを認めた。",
+      "en": "The Israeli defense minister admitted to forcibly displacing 2,000 Palestinians from homes in the West Bank city of Hebron."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-25T00:51:04+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3lnbm4zUXhRQWxORFpCb0d4VFktN3N4eFR5dXJEaFViNm9wLU1uRXc0b1o5T01mR1AzcGNoUnh5dFJieVVsa1hhTnRvRzZ0Z1IxWHJxLW9kOVZoNEFaZDVucld5cVV4MUhud01sZXdfMktON0ZnbjVjRW9tY2xDRWh2emd4am9yWW9lZDVSSnRIbnIyX3M5RGJUN25USlhNd3VKdW0tTnVRWnFqd0lDamNGMW4wZ1I1dURMcGVqQkZQSXRhRVVmbW5aOE5YRmZYaWNhUlVHZGdxTDZfa2lSR25B?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_palestinians_forced_removal_hebron_2026-10-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-29662",
+    "headline": {
+      "ja": "イスラエル軍がウェストバンクの400ヶ所を襲撃、多数のパレスチナ人を拘束",
+      "en": "Israeli army says it raided 400 sites in West Bank, detained dozens of Palestinians"
+    },
+    "summary": {
+      "ja": "イスラエル軍は、ウェストバンク地域で400ヶ所の襲撃を実施し、数十人のパレスチナ人を拘束したと発表した。",
+      "en": "The Israeli army announced it conducted raids at 400 sites in the West Bank, detaining dozens of Palestinians."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-25T00:49:45+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZGFrLUJtMXdZb2Y0M3BNdjBaUTFmdXNtYTFaUy1uSnNKYjBVU1hlUVRmUmVwTDJ4Z0s4bUNaUUNlOGxoNVVGbzRwUndkbFppWmFYajFWWnI2UURYdG40VUxpOXdYd01nel9nMHlUdTg4N2ZkUmRZd1ZaRENyT2JqeUZpbTBUSVNyLWhWNUxCSTZ6TjhaYm16V3NNQ1ZEOUcyZDVGak9WcTVEWlNqOVhTcHhjU2lBTkV2RzVYd2cwU1ZEMnlVbnc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_westbank_raids_detention_2026-10"
+  },
+  {
+    "id": "auto-29613",
+    "headline": {
+      "ja": "ヨルダン国王とフランス大統領がガザ・ウェストバンク情勢を協議",
+      "en": "King and France president discuss dangerous developments in Gaza and West Bank"
+    },
+    "summary": {
+      "ja": "ヨルダン国王とフランス大統領は、ガザおよびウェストバンク地域における危機的な情勢について協議した。",
+      "en": "The King of Jordan and French president discussed the dangerous developments occurring in Gaza and West Bank regions."
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "occurredAt": "2026-10-24T23:08:10+00:00",
+    "source": {
+      "name": "ヨルダン 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDJRQWpiNTU3b0lOTWZjc1d6RHM3UmV4QmFsRW1rSk9zc25zZkRseFdPbTctZFRERUpERWR2RWdWeGNxYUJJR3lCMXBJTTg0NnJKME5mLWE4QXNsNURVLTQ3bEVveVJlU3JjTG0talZGR1V6aEh6cHJTTXBycDRobUxZc04wdjF6M25uM1NCazhpQ0NHYWJsak5faFdObHMwbU4zajVSRTI2VkZRUUVmajJMd1ZRNHNjdnk5Zw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_france_gaza_westbank_discussion_2026-10"
+  },
+  {
+    "id": "auto-29672",
+    "headline": {
+      "ja": "イスラエル人権団体、ヘブロンでのイスラエルの行為を「民族浄化」と非難",
+      "en": "Israel carrying out 'ethnic cleansing' in West Bank city of Hebron: Israeli rights group"
+    },
+    "summary": {
+      "ja": "イスラエルの人権団体は、ウェストバンク地域のヘブロンでのイスラエルの行為を「民族浄化」と述べ非難した。",
+      "en": "An Israeli human rights group accused Israel of carrying out 'ethnic cleansing' in the West Bank city of Hebron."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-24T23:00:32+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxtU2RrdnIzR3VSb2lmVVRUSVhHM0EySS1wZ2NiOG9yYUtOYW5ZUF9tazRLQXZLcjczSDlmczY1czBWSU94T2VHWldybVFwNlp2aEEyeHRpLTgtSDJXcFBrVnVlaTVXYTAyYm5mZVRvRmdCZVdWX1Z2czVpVEdySUQzYVFVYk5BYjNUaTlsaEhLSjRZRlFBSzR1T0JYajNMNW5OTWdhNmkwdVZkNFZYc0ZUdE9BQTlOMnMyR2pVanBUNzlwRkpjamJ3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_ethnic_cleansing_hebron_2026-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-29256",
+    "headline": {
+      "ja": "フランスの大規模抗議デモ続行、約1000人逮捕",
+      "en": "Mass protests continue across France with nearly 1,000 arrested"
+    },
+    "summary": {
+      "ja": "フランスで大規模な抗議デモが続き、衝突により約1000人が逮捕された。先週末の暴動・略奪は回避されている。",
+      "en": "Mass protests continued across France with nearly 1,000 arrests following clashes. Officials have managed to avoid a repeat of last weekend's rioting and looting."
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-10-24T21:09:27+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "france_mass_protests_2026-10-24"
   },
   {
     "id": "auto-29266",
@@ -206,6 +462,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "yemen_houthis_saudi_missile_2026-10-24"
+  },
+  {
+    "id": "auto-29641",
+    "headline": {
+      "ja": "フランス全域での大規模デモで警察との衝突、約1000人が逮捕",
+      "en": "Protesters clash with police with nearly 1,000 arrested amid mass protests across France"
+    },
+    "summary": {
+      "ja": "フランス全域で開催された大規模なデモで警察との衝突が発生し、約1000人が逮捕された。",
+      "en": "Mass protests across France resulted in clashes with police, with nearly 1,000 arrests reported."
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-10-24T17:02:51+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzBQUWMwT3p6cURmcXJJUzk0Q2VlempDdGxYek9Yc1d6U244OFVsRk9QYzc4TXQxbE05MlpERmlKekloRmJNVXVNUHEwOFRuY3prUVdGbFg3OHc0R0E0NEd3RE5MbWduRXlSWE16QXVjZmlxc3FSZE1teGZZRUx6TEZwWU5fdGRRRXFZZWtjTmlPeHJ5dnFRREZvTEJqNXFPZmt5YmFRVlJTdUdpU3hMWWRaUWtvUTRrUThidjZfN1NNdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "france_mass_protest_arrests_2026-10-24"
   },
   {
     "id": "auto-28981",
@@ -928,6 +1207,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "xizang_earthquake_2026-10-24"
+  },
+  {
+    "id": "auto-27869",
+    "headline": {
+      "ja": "イスラエルのガザ攻撃で3名のパレスチナ人が殺害",
+      "en": "Three Palestinians killed in fresh Israeli attacks on Gaza"
+    },
+    "summary": {
+      "ja": "パレスチナとトルコの情報源により、イスラエルによるガザへの攻撃で3名のパレスチナ人が殺害され、複数の負傷者が出たと報道された。",
+      "en": "Israeli attacks on Gaza resulted in three Palestinian deaths and multiple injuries, according to Palestinian and Turkish news sources."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-23T22:38:32+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGxidFBRNTJlRUFENGxsdk1NaTZNNkJPamhoRVF6TFJOLTFfUDhKQ1RLb1pfUW5Bc09Fb3I1UjBlZFFaVE9IbXpFTi05dHZqay0zeFZWNWNkRG5INzI4Y1c3MmdSd3dSa3E4aHlVeU9Sd3ZSRnVYeGY1WmFFWmlYNGV3WDk0d2R0VmhvcVhaaV9Xb2FFdG9XOHZOWWVrczZpNzhhNzl2WFhKZHhDU2hjVWwxMVpZMTFkLXIxbWlPUQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_gaza_attack_2026-10-23"
   },
   {
     "id": "auto-28521",
