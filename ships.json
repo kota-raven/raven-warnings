@@ -122,6 +122,198 @@
     "periodEnd": "2026-10-29T00:00:00Z"
   },
   {
+    "id": "2026-10-24-us-000076",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS McFaul",
+    "shipNumber": "DDG-74",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Naval Station Norfolk, Virginia",
+      "lat": 36.94,
+      "lon": -76.32,
+      "approximate": true
+    },
+    "activity": "Guided-missile destroyer USS McFaul (DDG-74) returned to Naval Station Norfolk after 332-day deployment to Middle East",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/uss-mcfaul-returns-to-norfolk-after-332-day-deployment"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-24T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-au-000082",
+    "recordType": "individual",
+    "country": "AU",
+    "shipName": "HMAS Stuart",
+    "shipNumber": "FFH153",
+    "shipType": "frigate",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Royal Australian Navy frigate HMAS Stuart (FFH-153) participating in Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-ca-000083",
+    "recordType": "individual",
+    "country": "CA",
+    "shipName": "HMCS Regina",
+    "shipNumber": "FFH334",
+    "shipType": "frigate",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Royal Canadian frigate HMCS Regina (FFH-334) participating in Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-jp-000079",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "JS Ise",
+    "shipNumber": "DDH-182",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Japan Maritime Self-Defense Force helicopter destroyer JS Ise (DDH-182) participating in Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-jp-000080",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "JS Kongo",
+    "shipNumber": "DDG-173",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "JMSDF destroyer JS Kongo (DDG-173) participating in Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-jp-000081",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "JS Asahi",
+    "shipNumber": "DD-119",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "JMSDF destroyer JS Asahi (DD-119) participating in Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-us-000077",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Aircraft carrier USS Theodore Roosevelt (CVN-71) with Carrier Air Wing 11 participating in US-Japan Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
+    "id": "2026-10-23-us-000078",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Chosin",
+    "shipNumber": "CG-65",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Philippine Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Cruiser USS Chosin (CG-65) participating in US-Japan Exercise Keen Sword 27",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/23/usni-news-western-pacific-pulse-oct-23-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-23T00:00:00Z"
+  },
+  {
     "id": "2026-10-22-us-000072",
     "recordType": "individual",
     "country": "US",
