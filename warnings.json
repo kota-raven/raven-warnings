@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T23:06:36.613Z",
+  "generatedAt": "2026-10-25T04:29:39.123Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 182,
+  "count": 184,
   "warnings": [
     {
       "id": "NAVAREA11-260481",
@@ -248,6 +248,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264203",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4203",
+      "title": "インド東岸、危険な訓練",
+      "publishedAt": "2026-10-25T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4203   発表日時:2026年10月25日 08時\r\n\n\r\n★ インド東岸、\r\r\n危険な訓練、10月26日0730Z-1030Z、\r\r\n16-46.21N 083-06.65E 17-04.80N 083-59.40E\r\r\n15-49.20N 084-26.60E 15-22.00N 083-08.90E\r\r\n15-54.31N 082-57.09Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264203&LANG=JP"
     },
     {
       "id": "JAPANNW-264202",
@@ -3134,6 +3146,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262017",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "漂流物等",
+      "number": "2017",
+      "title": "本州東岸、綾里埼南南西、木材漂流",
+      "publishedAt": "2026-10-25T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2017    発表日時:2026年10月25日 11時\r\n\n\r\n本州東岸、綾里埼南南西、\r\r\n木材(長さ約8メートル)漂流、10月25日0630、\r\r\n38-53.8N 141-47.0E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262017&LANG=JP"
     },
     {
       "id": "NAVTEX-262016",
