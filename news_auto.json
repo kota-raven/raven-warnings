@@ -46,6 +46,52 @@
     "eventKey": "yemen_aden_houthi_missile_2026-10-25"
   },
   {
+    "id": "auto-30247",
+    "headline": {
+      "ja": "ケニアでバス衝突事故、24人以上が死亡",
+      "en": "Kenya bus crash kills at least 24 people"
+    },
+    "summary": {
+      "ja": "ケニアのナイロビ・モンバサハイウェイで教会の葬列参列者を乗せたバスが衝突し、24人以上が死亡した。",
+      "en": "A bus crash on Kenya's Nairobi-Mombasa Highway killed at least 24 people, mostly church mourners."
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-25T21:00:02+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_bus_crash_nairobi_mombasa_2026-10-25"
+  },
+  {
+    "id": "auto-30097",
+    "headline": {
+      "ja": "米国、サウジアラビアでのセキュリティ脅威の深刻化を警告",
+      "en": "US warns of escalating security threats in Saudi Arabia"
+    },
+    "summary": {
+      "ja": "米国はサウジアラビアにおけるセキュリティ脅威の増加を警告し、同時にリヤド空港が部分的に再開された。",
+      "en": "The US warned of escalating security threats in Saudi Arabia as Riyadh airport partially reopened."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-25T20:43:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcHJZbmRKV040SkU0R2R2SnJ0WEVaUjB3YzNhZXF6UTRLVGZoZWRUaFFKcG9QRXRqRE9KakxsTDJnMGlwQWY3QWZWV0Y1M3QxWDFwLUZldWd5Z1NUUTQwZmV0SXdBTl9lNzlhcTFGVWZUUldZZWhzaU5heG1wOXZGcFgtMUtLZ1dnbklST1c4dEJlTVFlR0ZIaldBMHRtWDNoNXlRcWJnMGc2VXlIVEU0bGtlRURFMUZhdTJGZlRJX000b0J6cm9xNlFB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_saudi_security_warning_2026-10-25"
+  },
+  {
     "id": "auto-30088",
     "headline": {
       "ja": "フーシ派がサウジアラビアの空港・軍事基地へのミサイル攻撃を主張",
@@ -67,6 +113,98 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_houthis_saudi_targets_missile_2026-10-25"
+  },
+  {
+    "id": "auto-30096",
+    "headline": {
+      "ja": "フーシ派攻撃後、リヤド国際空港が部分的に運航再開",
+      "en": "Riyadh airport partially resumes flights after Houthi attacks"
+    },
+    "summary": {
+      "ja": "フーシ派の攻撃を受けたサウジアラビアのリヤド国際空港が、部分的に運航を再開した。",
+      "en": "Riyadh International Airport partially resumed operations following Houthi attacks."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-25T19:37:06+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0FhSEphcjlhZ09sT19Udk11WlFnbWF4TmFBVi1YeTVhcm1VcFJrX1B6Ynhna21kTjdPZkYyUWVhVjg0ZjFjU3RmbDd3ZUNobmlpcFpVa2ducjFFV0FLS2JiSXp3VEd5ckNSVzZqUk1vRkI2bWhTSkZyNzdTMEtqekUtR2VJZUhHbTBxQzVPQUtmVU00SmxNVnpoeUdnSVYydHBmRkdRZ2Y5QQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_riyadh_houthi_attacks_2026-10-25"
+  },
+  {
+    "id": "auto-30280",
+    "headline": {
+      "ja": "イエメン軍がサウジアラビア目標に報復攻撃",
+      "en": "Yemen's armed forces strike Saudi targets in retaliation"
+    },
+    "summary": {
+      "ja": "イエメンの軍部隊はサウジアラビア軍の前日のサナア虐殺に報復するため、3件の軍事作戦を実施してサウジ目標を攻撃した。",
+      "en": "Yemen's armed forces conducted three military operations striking Saudi targets in retaliation for massacres committed by Saudi forces in Sana'a."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-25T19:18:25+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86303232/Yemen-s-armed-forces-strike-Saudi-targets-in-retaliation-for"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saudi_retaliation_strike_2026-10-25"
+  },
+  {
+    "id": "auto-30246",
+    "headline": {
+      "ja": "ナイジェリア村襲撃の死傷者が48人に増加",
+      "en": "Death toll in Nigeria village raided by gunmen rises to 48"
+    },
+    "summary": {
+      "ja": "ナイジェリアの辺鄙な村がバイク乗りの武装集団に襲撃され、店舗が略奪され、家屋が焼かれており、死者が48人に達した。",
+      "en": "A remote village in Nigeria was raided by unidentified gunmen on motorcycles, resulting in 48 deaths, with shops looted and homes set ablaze."
+    },
+    "category": "disaster",
+    "country": "ナイジェリア",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "occurredAt": "2026-10-25T19:14:27+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "nigeria_village_raid_deaths_2026-10-25"
+  },
+  {
+    "id": "auto-30182",
+    "headline": {
+      "ja": "フーシ派、リヤド空港と軍事基地への攻撃を表明",
+      "en": "Houthis claim attacks on Riyadh Airport and military bases"
+    },
+    "summary": {
+      "ja": "フーシ派はサウジアラビアのリヤド空港と軍事基地に対する攻撃を実行したと主張した。",
+      "en": "The Houthis claimed responsibility for attacks on Riyadh Airport and Saudi military bases."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-25T18:49:25+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82UzN0V21MaDV5LXl1RFpWYkRTN3lEZ19zMUFaajN1VVRqTkdnUHBLakNOdVZlVGpCYXluOWRWdDhJM2c50gFKQVVfeXFMT1RzTkxGaExEbFcxTjJFZjZCV1hPejB4QjRNVFhkSFowcTY3V3BxNFdpTFV0UW1Wc2hhcVM0a1NWVGUxakdqR2Fjanc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_houthis_riyadh_attack_2026-10-25"
   },
   {
     "id": "auto-30257",
@@ -92,6 +230,121 @@
     "eventKey": "palestine_gaza_israel_university_airstrike_2026-10-25"
   },
   {
+    "id": "auto-30076",
+    "headline": {
+      "ja": "トランプ大統領、イランへの日曜日の軍事作戦実施を否定",
+      "en": "Trump rules out Sunday military strikes on Iran"
+    },
+    "summary": {
+      "ja": "トランプ大統領は、イランに対する日曜日の軍事作戦は行わないと表明した。",
+      "en": "Trump stated that the US will not conduct military operations against Iran on Sunday."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-25T16:35:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3lITV8yYm15VGlnTWR1TzlzVzdIVy1wdUQwUHJzSVFLMHRyWXAxQTlGNm9fMFAxWWt4UGVaNG9kbEYyRTJGUkRkeUVXaWpoWFJWSmtrU040a0dET0dHQUxxUTBCNmNqZkpfNDlLU3lQT1ZvNS1yRXVLcmUwdmhZbFhJMmM3OEp1WHFTaTZ6SQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "trump_iran_military_tensions_2026-10-25"
+  },
+  {
+    "id": "auto-30083",
+    "headline": {
+      "ja": "トランプ、イランへの対決または終結の二者択一を提示",
+      "en": "Trump poses ultimatum on Iran: deal or 'finish them off'"
+    },
+    "summary": {
+      "ja": "トランプ大統領は、イランとの交渉成立か軍事的終結かの二者択一を迫る発言をした。",
+      "en": "Trump presented an ultimatum to Iran regarding either reaching a deal or military confrontation."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-25T15:35:15+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUdZeU1EajFNUUVHcG9kSXg1RzFrQTVpamtQY2RSaDBlV3JhZXI5ZDBzQVBPU0JPd1JaSmdxRU9BY1ZpSV9aUGRnU1g0SEViaTFSYTNIUzVyMjczYkpwQllwWk1SVnZrZGlEcHBkWGhDb3Z1UnNseTIyc3lBREp4SEJyTTU2ampONk9NdHJJT1JDX3JyS3Q5SmthNXFVbHJMaGVRUkJSNlh0b0ppSUZzYTM5aV95R2hmM1Y1N1AyZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "trump_iran_ultimatum_2026-10-25"
+  },
+  {
+    "id": "auto-30270",
+    "headline": {
+      "ja": "ヨルダン教会攻撃の犠牲者たちが悼まれている",
+      "en": "Thousands mourn victims of deadly Jordan church attack"
+    },
+    "summary": {
+      "ja": "ヨルダンの教会での攻撃で8人を含む複数の犠牲者が出ており、捜査が継続している中で多くの人々が犠牲者を悼んでいる。",
+      "en": "Thousands mourned victims of a deadly church attack in Jordan as authorities continue searching for the gunmen."
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "occurredAt": "2026-10-25T15:21:26+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_church_attack_victims_2026-10-25"
+  },
+  {
+    "id": "auto-30202",
+    "headline": {
+      "ja": "トランプ、イランとの交渉か軍事行動かの二者択一を表明",
+      "en": "Trump says choosing between making deal with Iran and 'finishing it off'"
+    },
+    "summary": {
+      "ja": "トランプ大統領は、イランとの交渉締結か軍事的終結かの選択肢を提示した。",
+      "en": "Trump indicated a choice between negotiating a deal with Iran or military action."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-25T15:13:57+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrUkkybzZFWXQ0S2pnNV9XT2J6S2Y0c0FuTUV1UEVUdkNlQlY0c29fTUoyZHZsNExqZVQxYy10WmRaa1U4QWZLZDZn0gFKQVVfeXFMUGtSSTJvNkVZdDRLamc1X1dPYnpLZjRzQW5NRXVQRVR2Q2VCVjRzb19NSjJkdmw0TGplVDFjLXRaZFprVThBZktkNmc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "trump_iran_deal_or_military_action_2026-10-25"
+  },
+  {
+    "id": "auto-30120",
+    "headline": {
+      "ja": "イエメンで268,000人以上が避難、数千人がジブチに逃げている",
+      "en": "Over 268,000 displaced in Yemen, thousands flee to Djibouti"
+    },
+    "summary": {
+      "ja": "イエメンでの紛争により268,000人以上が避難し、数千人がジブチに逃げている。",
+      "en": "Over 268,000 people have been displaced in Yemen, with thousands fleeing to Djibouti."
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-25T14:51:42+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2dFRlc3YmNiSXNqUEdIVzdtTjJyUmhicjN0SVRPQkM4Mnh6T01tR2xqM0c5UVoxREZleXF4Slh5MDEtSzgtTWQxa2NibDVHbEVJdzhwYzZXUURtVmFkY2lCUklrMkpXQWFhelhXM2FyTUhvbnFaQUlkdzN5cU1BYnAxWmJXd1FaaW5NbTh6V1djYU5WeXRvb0U5WTRPbGR3ZldURENpdXh1YjZBN2U1aEl1MVFIYnV4TFY4bGZGWmQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_displacement_crisis_2026-10-25"
+  },
+  {
     "id": "auto-29845",
     "headline": {
       "ja": "フーシ派がサウジ目標への攻撃7件を主張、イエメンへの大規模空爆継続",
@@ -113,6 +366,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_saudi_conflict_2026-10-25"
+  },
+  {
+    "id": "auto-30094",
+    "headline": {
+      "ja": "ナイジェリア・タラバ州の大量殺害事件で死者数増加",
+      "en": "Death toll rises in Nigeria's Taraba massacre"
+    },
+    "summary": {
+      "ja": "ナイジェリア・タラバ州での大量殺害事件で死者数が増加し、住民が逃げている。",
+      "en": "The death toll from a massacre in Nigeria's Taraba state continues to rise as residents flee the area."
+    },
+    "category": "disaster",
+    "country": "ナイジェリア",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "occurredAt": "2026-10-25T13:46:44+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGx2N3k0TFBFTHZaZWZfV3JzbnVjd1V1WXFyRWQzZVRrT1JxQkxGS0RVSDRldDN4d3ZvbEY2a21Bb0UwVG00RkZtZ1JfZXpBRXVkdDExQUFFN2pjbml6eVk5eXoxcm8wbjhJWF9jNnJYN0ppQ3JVTHV4dEpSdmxzVW5kRUt0UGdHTlRnMkdqUWp0cWxwMXBkUERxVkp5ODdX?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "nigeria_taraba_massacre_2026-10-25"
   },
   {
     "id": "auto-29668",
