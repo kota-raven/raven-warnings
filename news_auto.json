@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-31194",
+    "headline": {
+      "ja": "ウクライナ大統領、パトリオット・NASAMSの米国からの供与承認を1か月待機中と表明",
+      "en": "Zelenskyy: Ukraine waiting for US approval on Patriot and NASAMS transfers"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領がウクライナが米国からのパトリオット防空システムとNASAMS空対地ミサイルシステムの供与承認をおよそ1か月間待機していることを表明した。",
+      "en": "President Zelenskyy announced Ukraine has been waiting for about one month for US approval to transfer Patriot air defense and NASAMS systems."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-26T14:50:56+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTHU3aGh5RFBFclBxUGdiNWdlV1BxeXE2Y2I0M1lwTWhwNnIxVnRhUENOQjZ3Nk5oZUp6cVl6akh6Z0F0ODYxenRoRlRxNkJMUkVHMHlMSWVqVkVKOU1uY25jdUlNaTB6cTh4N0czRmFkeHdkUjlFZldTSXF3UHYzUjFhdmNmSjF5RkdzOTFaV0JpREpxd1lOOFRkT080STUwTlg0clZYU1ZoWUp5dmVmdXlDV3QxZmJYWXgwQ1g0OGRRZ20yZDluTGszcFhIbkNfTnhGYWhHRDQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_patriot_nasams_us_approval_2026-10-26"
+  },
+  {
+    "id": "auto-30833",
+    "headline": {
+      "ja": "ロシア海軍がボレイ級潜水艦からブラヴァ大陸間弾道ミサイル発射を予定と報告",
+      "en": "Russian Navy reported to plan Bulava SLBM launch from Borei-class submarine"
+    },
+    "summary": {
+      "ja": "OSINT分析家が、ロシア海軍がボレイ級原子力潜水艦からブラヴァ戦略弾道ミサイルを発射する予定だと報告した。",
+      "en": "OSINT analyst reported Russian Navy plans to launch Bulava strategic ballistic missile from Borei-class submarine."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-26T07:09:18+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20600"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_bulava_slbm_2026-10-26"
+  },
+  {
+    "id": "auto-31310",
+    "headline": {
+      "ja": "タイフォン中距離巡航ミサイルシステムが日本の嘉手納基地に配備予定",
+      "en": "Typhon medium-range cruise missile systems to be deployed to Kadena base"
+    },
+    "summary": {
+      "ja": "米国がタイフォン中距離巡航ミサイルシステムを日本での演習終了後に沖縄の嘉手納基地に配備する予定を発表した。",
+      "en": "The US announced plans to deploy Typhon medium-range cruise missile systems to Kadena base in Okinawa, Japan after drills."
+    },
+    "category": "conflict",
+    "country": "日本",
+    "lat": 26.3652,
+    "lon": 127.7586,
+    "occurredAt": "2026-10-26T00:41:11+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TZnFCY2JydjQzSk93NEdyR2xtMGk4cUJMQnlKVXMzOFd6YUVLQ09na1VVMndBTy1sT3Z0eG9Hb2E1MWs00gFKQVVfeXFMTVFKWkk4MzNmZVNKQ29uTHNlRllKNURtQ1lKS1g3RlZ1TzlFNU01M2FZSmJGWkdhRHZYOGVuRnpXM3pyZy1sb0FIVUE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_typhon_deployment_kadena_japan_2026-10-26"
+  },
+  {
     "id": "auto-30307",
     "headline": {
       "ja": "サウジ主導連合軍がイエメン・サナアの フーシ派施設を攻撃",
@@ -3253,144 +3322,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "gaza_food_aid_wfp_cuts_2026-10-19"
-  },
-  {
-    "id": "auto-19172",
-    "headline": {
-      "ja": "イラン、米国とイスラエルとの戦争で20～30機の航空機が破壊されたと主張",
-      "en": "Iran claims 20 to 30 aircraft destroyed in war with US and Israel"
-    },
-    "summary": {
-      "ja": "イラン政府は、米国とイスラエルとの戦争で20～30機の航空機が破壊されたと発表した。",
-      "en": "Iran's government announced that 20 to 30 aircraft were destroyed during war with the US and Israel"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-19T13:46:10+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUhfWnZNSVFEMURHWV9KNnpBZksyVXhBT1lxREkyemNvZEV0YThtX0YtRWw1WXA3TTZMVWdYTkloRWY4a2w4ZFZZakVkZDJyc21iLWVfRlRETmM0cndScVc2UFpiOHZ6aDdkdTI3NnVUZERxSEtJZ1k5YVBsVzlxVXhCSFB2LXlESUwyZmdsRy1WSndMM0dOa1FqSG1TUWhBdFlKSHNiTQ?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_aircraft_loss_claim_2026-10-19"
-  },
-  {
-    "id": "auto-18895",
-    "headline": {
-      "ja": "ロシア、キーウ近郊の工場にミサイル攻撃で大きな被害と発表",
-      "en": "ロシア、キーウ近郊の工場にミサイル攻撃で大きな被害と発表"
-    },
-    "summary": {
-      "ja": "ロシア当局は、キーウ近郊のプラネタ・プラスティク工場に対するミサイル攻撃を実施し、大きな被害を与えたと発表した。",
-      "en": "ロシア当局は、キーウ近郊のプラネタ・プラスティク工場に対するミサイル攻撃を実施し、大きな被害を与えたと発表した。"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-19T13:30:28+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTOVdSQzE2VXE2N1BZckM4ek9OSG12Z3lYcDJNbUdibWRJSVBPblo1S2NPNEczRFVJQy1pZ0RtczdUSTdBTHk5ddIBTkFVX3lxTE1TeHc2aTR1TUtRTHgwUGNNOFhNRDhrdHN2TWphbGVXajNKdWZsUmtfUXRzYmJRWE94QU1pMWxRUloyX3U5YlFDUjhIZjZoZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_ukraine_planeta_strike_2026-10-19"
-  },
-  {
-    "id": "auto-19459",
-    "headline": {
-      "ja": "コンゴ民主共和国エボラ死者4500人超",
-      "en": "Ebola death toll in DR Congo surpasses 4,500"
-    },
-    "summary": {
-      "ja": "コンゴ民主共和国におけるエボラ出血熱の死者数が4500人を超えた。",
-      "en": "The death toll from Ebola in the Democratic Republic of Congo has exceeded 4,500 people"
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "lat": -4.3276,
-    "lon": 15.3136,
-    "occurredAt": "2026-10-19T13:15:01+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oNXBBV0xLbl9UWnkxc2NpRkZRMXh2NVh0NUlYbW8yZ19DOVZNZnBzTnFMb2c3RTlmT09kMlItVnFWWGZSUk1US0hSU0LSAUxBVV95cUxOaDVwQVdMS25fVFp5MXNjaUZGUTF4djVYdDVJWG1vMmdfQzlWTWZwc05xTG9nN0U5Zk9PZDJSLVZxVlhmUlJNVEtIUlNC?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "drc_ebola_outbreak_2026-10-19"
-  },
-  {
-    "id": "auto-18995",
-    "headline": {
-      "ja": "イエメン・シャブワ軍営地へのフーシ派攻撃で53人以上が殺害",
-      "en": "イエメン・シャブワ軍営地へのフーシ派攻撃で53人以上が殺害"
-    },
-    "summary": {
-      "ja": "フーシ派がイエメン南部シャブワ州の軍営地に弾道ミサイルで攻撃し、訓練中の軍人53人以上が殺害されたと報道されている。",
-      "en": "フーシ派がイエメン南部シャブワ州の軍営地に弾道ミサイルで攻撃し、訓練中の軍人53人以上が殺害されたと報道されている。"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-19T12:51:46+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_shabwa_military_attack_2026-10-19",
-    "severity": 4
-  },
-  {
-    "id": "auto-19171",
-    "headline": {
-      "ja": "バングラデシュはしか関連死亡1200人超に",
-      "en": "Child deaths from measles in Bangladesh exceed 1,200"
-    },
-    "summary": {
-      "ja": "バングラデシュではしかに関連した子どもの死亡者が1200人を超え、さらに5人が亡くなった。",
-      "en": "Child deaths linked to measles in Bangladesh have exceeded 1,200 with 5 more fatalities reported"
-    },
-    "category": "disaster",
-    "country": "バングラデシュ",
-    "lat": 23.7104,
-    "lon": 90.4074,
-    "occurredAt": "2026-10-19T12:25:47+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOC1VS2ltVXdEeVlhWkhXWFo4TWtHaVRSYXM1UVhJVWRCQWdxeXRwcTkyRW85eDlXaXhNSXB3LXlNTDJVYVRHVkUtZzVLOEtPVGhTbUplSVdjOXoyTHhxOGlHeERfenhiS2xOXzQ3QXNBelZOT3doWVBLc2xYZXlzbnh4SU1RVU5fNkFGRzZzYVFEYkpmb3p2S2JQelRrekVDOG5nbmJDS1hZeTR2NXd1QzJKaUozZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "bangladesh_measles_outbreak_2026-10-19"
-  },
-  {
-    "id": "auto-19166",
-    "headline": {
-      "ja": "スペイン地中海沿岸で豪雨洪水",
-      "en": "Spain Mediterranean coast hit by torrential rains and flooding"
-    },
-    "summary": {
-      "ja": "スペインの地中海沿岸地域で豪雨による洪水が発生し、住民に屋内退避が指示された。",
-      "en": "Torrential rains caused flooding on Spain's Mediterranean coast, with residents ordered to remain indoors"
-    },
-    "category": "disaster",
-    "country": "スペイン",
-    "lat": 40.4165,
-    "lon": -3.7026,
-    "occurredAt": "2026-10-19T10:33:25+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjhCR0U5VWJWMFI0MDhrWEM5a290aEFXQTFYU0ZfbkhBWUVzcldsdXpaSGdfWThpRHhHQWQ3VzRYYXZScTJmUkRzVzhEbzU0QTFMMDY3R3V5OUJ1bF9taG5Rano3Qnpaa1VEbGo0V2RXQ2dzdUVldVZLLWQzOVZCdlZ0RXV6SmoxcHIzcGZuUUF3Yl94Q0x5ZVoxcUprNXB6U3dBOWEzdmxxQUYwbklPWVRn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "spain_mediterranean_flooding_2026-10-19"
   }
 ]
