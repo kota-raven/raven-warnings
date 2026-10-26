@@ -69,6 +69,29 @@
     "eventKey": "ukraine_martial_law_extension_2026-10"
   },
   {
+    "id": "auto-30923",
+    "headline": {
+      "ja": "ベンガル湾の台風来襲に備えインド政府が対応を強化",
+      "en": "India's Cabinet Secretary Reviews Cyclone Preparedness in Bay of Bengal"
+    },
+    "summary": {
+      "ja": "インド政府がベンガル湾で迫り来る台風への準備状況を検討する危機管理委員会を開催した。国家的な災害対応体制の確認と整備が実施されている。",
+      "en": "India's Cabinet Secretary chaired a meeting of the National Crisis Management Committee to review preparedness for the impending cyclone in the Bay of Bengal."
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 28.6214,
+    "lon": 77.2148,
+    "occurredAt": "2026-10-26T08:07:00+00:00",
+    "source": {
+      "name": "インド 政府広報PIB(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtSlE3T3ZLczFFTFJjQU83eEZ2ZmFnVENRckdGMjNlMl9fai03aXQzRVNsV2FEbXcxNFJmdTJkaWswTjE5d3ZIRl9qN3VWQ2xaQmVNWWJQYUhRbExoMVBiemhMOWxVUjgwNWpkMzJiMjZZRm9NckZMTXlUTGE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_cyclone_bay_of_bengal_preparedness_2026-10-26"
+  },
+  {
     "id": "auto-30833",
     "headline": {
       "ja": "ロシア海軍がボレイ級潜水艦からブラヴァ大陸間弾道ミサイル発射を予定と報告",
@@ -3228,29 +3251,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "us_airstrikes_somalia_2026-10"
-  },
-  {
-    "id": "auto-19492",
-    "headline": {
-      "ja": "スーダンでのドローン攻撃激化で160人が死亡と報告",
-      "en": "160 reported killed in escalating drone attacks across Sudan"
-    },
-    "summary": {
-      "ja": "スーダン全土でドローン攻撃が増加し、民間人と基盤施設が標的にされており、160人の死亡が報告されている。国際人権団体はこれらの攻撃がいずれも民間人を対象にしていると警告している。",
-      "en": "Escalating drone attacks across Sudan have killed 160 people, with civilians and infrastructure being targeted. Rights groups warn that these unmanned aircraft attacks are intentionally targeting civilian populations."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-19T21:38:46+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_drone_attacks_casualties_2026-10-19",
-    "severity": 4
   }
 ]
