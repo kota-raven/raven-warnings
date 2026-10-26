@@ -1,68 +1,5 @@
 [
   {
-    "id": "2026-10-24-09",
-    "headline": {
-      "ja": "金価格が4,000ドルを割り込み6月以来の大幅な週間下落 原油高と米利上げ観測が背景",
-      "en": "Gold falls below $4,000, posting steepest weekly drop since June, as oil rally fuels Fed rate-hike bets"
-    },
-    "summary": {
-      "ja": "10月23日(金)、金相場が7月中旬以来初めて1オンス=4,000ドルを割り込み、1オンス=3,998.35ドル(前日比0.6%安)まで下落、6月以来最大の週間下落となる見込みだという。原油価格の上昇(ブレント原油は約5カ月ぶりの高値、1バレル=114〜116ドル付近)がインフレ懸念を強め、米連邦準備制度理事会(FRB)が高金利を維持するとの観測を強めたことが要因とされる。市場は10月27〜28日のFOMCで政策金利が維持されると広く予想しているという。[信頼性: 高](ロイター発、CNBC・Investing.com等で報道)",
-      "en": "Gold fell below $4,000 an ounce for the first time since mid-July on Friday, October 23, dropping 0.6% to $3,998.35, putting it on track for its steepest weekly loss since June, according to Reuters reporting carried by CNBC and Investing.com. Rising oil prices (Brent near a five-month high around $114-116 a barrel) have stoked inflation worries and reinforced bets that the Federal Reserve will keep interest rates elevated. Markets widely expect the Fed to hold rates steady at its October 27-28 meeting. [Reliability: High] (Reuters, via CNBC and Investing.com)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-23T15:20:00+00:00",
-    "source": {
-      "name": "Reuters (via CNBC)",
-      "url": "https://www.cnbc.com/amp/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-24-04",
-    "headline": {
-      "ja": "米株式市場、AI投資懸念と原油高騰で続落 ダウ652ドル安、原油は4月以来の高値圏",
-      "en": "US stocks extend slide on AI spending worries and surging oil; Dow drops 652 points, oil at highest since April"
-    },
-    "summary": {
-      "ja": "CNBCによると、10月23日(金)の米株式市場は、ダウ工業株30種平均が652.82ポイント(1.23%)安の52,215.16、S&P500が0.52%安の7,623.68、ナスダック総合が0.21%安の25,955.34で取引を終えた。ダウ構成銘柄のアメリカン・エキスプレスは、AI活用を理由とした人員削減(全世界の従業員の約5%)を発表し3%超下落した。前日22日(木)にはナスダックが2.6%安(終値26,008.86)と6月以来最大の下落となり、AI関連投資への懸念と原油高が売りを誘ったとされる。原油価格は中東情勢の緊迫化(既報id: 2026-10-22-03〜05のサウジ・イラン関連の動き)を背景に上昇が続き、22日の取引でWTIが3.8%高の1バレル=103.27ドル、ブレントが3.1%高の116.72ドルとなり、ブレントは4月以来の高値を付けたという。週間ではS&P500が0.5%安、ナスダックが0.7%安となったが、ダウは週間で0.4%高だったとされる。[信頼性: 高](CNBC報道に基づく)",
-      "en": "According to CNBC, in trading on Friday, October 23, the Dow Jones Industrial Average fell 652.82 points (1.23%) to close at 52,215.16, the S&P 500 slipped 0.52% to 7,623.68, and the Nasdaq Composite lost 0.21% to 25,955.34. Dow component American Express fell more than 3% after announcing it would cut about 5% of its global workforce, citing AI adoption. The prior day, Thursday October 22, the Nasdaq had its worst session since June, falling 2.6% to close at 26,008.86, as concerns over AI spending and rising oil prices drove the sell-off. Oil prices continued climbing amid Middle East tensions (see earlier reports id 2026-10-22-03 through -05 on Saudi Arabia and Iran): on October 22, WTI rose 3.8% to settle at $103.27 a barrel and Brent rose 3.1% to $116.72, its highest settle since April. For the week, the S&P 500 fell 0.5% and the Nasdaq 0.7%, while the Dow gained 0.4%. [Reliability: High] (Based on CNBC reporting.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-23T20:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-24-06",
-    "headline": {
-      "ja": "欧州初の命名ストーム「Austen」、アイルランド南部を直撃 数千戸停電・倒木30本超",
-      "en": "Storm Austen, Europe's first named storm of the season, hits southern Ireland: thousands without power, over 30 trees downed"
-    },
-    "summary": {
-      "ja": "今季欧州初の命名ストーム「Austen」が10月23日夜、アイルランド南部(マンスター州・レンスター州南部)を通過し、その後コノート州・レンスター州北部にも影響したという。ウォーターフォード州で数千戸が停電し、倒木30本超が報じられたという。アイルランド気象局(Met Éireann)は地盤が既に飽和状態にあるとして洪水リスクへの警戒を呼びかけたという。ウォーターフォード州の担当者は「想定され得たよりは軽微な影響だった」と述べたという。",
-      "en": "Storm Austen, the first named storm of the season in Europe, reportedly swept across southern Ireland (Munster and south Leinster) on the night of October 23 before affecting Connacht and northern Leinster. Thousands of homes in County Waterford reportedly lost power, and more than 30 trees were reported downed. Met Éireann reportedly warned of an increased flood risk due to already-saturated ground. A Waterford council director reportedly said the impact was less severe than it could have been."
-    },
-    "category": "disaster",
-    "country": "アイルランド",
-    "lat": 53.4129,
-    "lon": -8.2439,
-    "occurredAt": "2026-10-23T20:00:00+00:00",
-    "source": {
-      "name": "The Irish Times",
-      "url": "https://www.irishtimes.com/environment/2026/10/23/storm-austen-weather-ireland-live-updates/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-24-05",
     "headline": {
       "ja": "イスラエル、ヘブロンで複数日に及ぶ軍事作戦を開始 国防相「地区全体の退去」方針を表明",
@@ -392,6 +329,28 @@
     "reliability": "medium"
   },
   {
+    "id": "2026-10-27-03",
+    "headline": {
+      "ja": "サウジ、ヤンブー港からの原油出荷を停止 東西パイプラインへの攻撃受け",
+      "en": "Saudi Arabia halts oil loadings at Yanbu port after attack on East-West pipeline"
+    },
+    "summary": {
+      "ja": "CNBCによると、サウジアラビアは紅海岸のヤンブー港からの原油出荷を停止したという。フーシ派は10/25(日)、リヤドのキング・ハーリド国際空港やヤンブーのサウジアラムコ施設などへの攻撃波を実施したと主張しており、紅海側への主要輸出路である東西パイプライン(最大輸送能力日量700万バレル)が攻撃を受けたことが背景とされるという。サウジ当局による被害の公式確認・攻撃主体の断定は見当たらない(推測:9月にも同パイプラインが攻撃を受け一時停止した経緯があり、同種の事態とみられる)。ブレント原油は10/26、前日までの6カ月ぶり高値圏から1.8%下落し1バレル114.57ドル前後で取引されたという(米原油在庫増加も背景)。",
+      "en": "According to CNBC, Saudi Arabia suspended oil loadings at its Red Sea port of Yanbu. The Houthis claimed a Sunday (Oct 25) wave of attacks on Riyadh's King Khalid International Airport and Saudi Aramco facilities in Yanbu, and the suspension is linked to an attack on the East-West pipeline (capacity up to 7 million bpd), the kingdom's main Red Sea export route. No official Saudi confirmation of the damage or attribution was found (inference: a similar pipeline attack and suspension occurred in September, suggesting a comparable incident). Brent crude fell 1.8% on Oct 26 to around $114.57/barrel from its six-month high, also pressured by a rise in US crude inventories."
+    },
+    "category": "economy",
+    "country": "サウジアラビア",
+    "region": "ヤンブー",
+    "lat": 24.0896,
+    "lon": 38.0618,
+    "occurredAt": "2026-10-25T14:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+    },
+    "reliability": "medium"
+  },
+  {
     "id": "2026-10-26-02",
     "headline": {
       "ja": "トランプ氏「今日の攻撃はない」、イラン情勢は停戦協議へ カタールが仲介",
@@ -625,6 +584,48 @@
     "source": {
       "name": "CNBC",
       "url": "https://www.cnbc.com/quotes/@LCO.1"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-01",
+    "headline": {
+      "ja": "セルビア総選挙、学生系「学生のリスト」が単独過半数を確定的に獲得 与党時代に終止符",
+      "en": "Serbia: Student List set to win outright majority as Vučić's rule ends"
+    },
+    "summary": {
+      "ja": "Al Jazeera・France24・Balkan Insightによると、10/25実施のセルビア総選挙(下院250議席)で、中央選挙管理委員会(RIK)の開票(8,392投票区中8,135区集計時点)は「学生のリスト」52.65%・与党連合「統一セルビア」39.2%、独立系調査機関CeSID・Ipsosのサンプル集計(96%集計時点)も52.9%対38.8%とほぼ同様の結果で、学生のリストの単独過半数確保が確実になったという。投票率は68.78%で過去30年余りで最高という。ヴチッチ大統領(与党SNS)は敗北を認めており、新議会は最終結果確定から30日以内に招集される見通しという。首相候補は10/26時点で未発表という。",
+      "en": "According to Al Jazeera, France24 and Balkan Insight, Serbia's Republic Electoral Commission count (8,135 of 8,392 polling stations) in the Oct 25 parliamentary election put the opposition Student List at 52.65% versus 39.2% for the ruling United Serbia coalition, with independent monitors CeSID/Ipsos reporting a similar 52.9%-38.8% split, making an outright majority for the Student List all but certain. Turnout was a record 68.78% for over three decades. President Vučić has conceded; a prime ministerial candidate had not been announced as of Oct 26."
+    },
+    "category": "conflict",
+    "country": "セルビア",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "occurredAt": "2026-10-26T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / France24 / Balkan Insight",
+      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-02",
+    "headline": {
+      "ja": "ブラジル株急落、ルラ氏当選確定・ボルソナロ氏陣営の結果拒否を受け取引が一時停止",
+      "en": "Brazilian stocks plunge, trading halted after Lula's win confirmed and Bolsonaro camp refuses to concede"
+    },
+    "summary": {
+      "ja": "CNBCによると、10/26の米市場でブラジル株ETF(EWZ)が急落し(報道により下落率は19〜25%超と差異あり)、ブラジル証券取引所でも自動取引停止(サーキットブレーカー)が発動したという。10/25の決選投票でルラ・ダシルバ大統領が51.79%(6,426万票)の得票でフラヴィオ・ボルソナロ氏(48.21%、5,983万票)を破り4選を確定させたが、ボルソナロ氏陣営は最高裁判事による投票時間の2時間延長を「ルール変更」だとして結果を認めず、無効を申し立てる方針という。専門家からは同主張の法的根拠は弱いとの指摘が出ているという。",
+      "en": "According to CNBC, Brazilian equities sold off sharply on Oct 26 (the EWZ ETF reportedly fell anywhere from about 19% to over 25% depending on the report), triggering a circuit-breaker halt on Brazil's exchange. President Lula da Silva won the Oct 25 runoff with 51.79% (64.26 million votes) against Flávio Bolsonaro's 48.21% (59.83 million votes), securing a fourth term, but the Bolsonaro camp is refusing to concede and plans to seek annulment, arguing a Supreme Court justice's two-hour extension of voting changed the rules mid-game; analysts say the legal argument is weak."
+    },
+    "category": "economy",
+    "country": "ブラジル",
+    "lat": -14.235,
+    "lon": -51.9253,
+    "occurredAt": "2026-10-26T18:30:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/brazil-stocks-neoclouds-selloff.html"
     },
     "reliability": "high"
   }
