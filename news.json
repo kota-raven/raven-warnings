@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-10-25-03",
-    "headline": {
-      "ja": "仏パリ郊外トラップで銃撃、1人死亡・5人負傷 マクロン大統領「人種差別的なテロ攻撃」と非難",
-      "en": "Shooting in Trappes, Paris suburb, kills one and wounds five; Macron calls it a 'racist terrorist attack'"
-    },
-    "summary": {
-      "ja": "France 24・Al Jazeeraによると、10月23日(金)朝、パリ近郊イヴリーヌ県トラップで、車から発砲した男が1人を殺害し、12歳の少女を含む5人を負傷させたという。警察は39歳の男(ケビン・T容疑者)を逮捕した。検察当局は「テロ目的の殺人」容疑で捜査を開始し、被害者の実際の、または推定される人種・民族・国籍・宗教を理由とした犯行かどうかを調べているという。マクロン大統領はこれを「テロ的かつ人種差別的な攻撃」と断定した。一部報道では、容疑者が「外国人を殺したかった」と供述したとされるが、この情報は地元国会議員の発言を根拠としており、捜査当局による直接の確認は得られていないという。[信頼性: 中](France 24・Al Jazeeraの報道に基づく。動機に関する詳細な供述内容は地元議員の発言が根拠で、未確証)",
-      "en": "According to France 24 and Al Jazeera, a gunman firing from a car killed one person and wounded five, including a 12-year-old girl, in Trappes, in the Yvelines department near Paris, on the morning of Friday, October 23. Police arrested a 39-year-old suspect identified as Kevin T. Prosecutors opened an investigation for \"murder in connection with a terrorist enterprise\" and are examining whether the attack targeted victims over their real or perceived race, ethnicity, nationality or religion. President Macron called it a \"terrorist and racist attack.\" Some reports say the suspect told police he wanted to \"kill foreigners,\" though that claim is attributed to a local member of parliament and has not been directly confirmed by investigators. [Reliability: Medium] (Based on France 24 and Al Jazeera reporting; the detailed account of the suspect's motive is sourced to a local MP's remarks and remains unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "region": "トラップ(イヴリーヌ県)",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-23T05:00:00+00:00",
-    "source": {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-24-02",
-    "headline": {
-      "ja": "台風チャンピ、台湾に接近・直撃 1人死亡、350人超負傷",
-      "en": "Typhoon Champi hits Taiwan, killing one and injuring over 350"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、スーパー台風「チャンピ」(フィリピンでの呼称「ロサール」、既報id: 2026-10-23-02)が台湾に接近・直撃し、10月23日時点で1人が死亡、350人以上が負傷したという。暴風により倒木や休校・休業が相次ぎ、数千戸で停電、4,300人超が避難したとされる。チャンピは一時最大風速296km/hに達する「スーパー台風」級だったが、台湾接近時には勢力を落としていたという。台湾気象署(CWA)によると、23日から25日にかけて台湾東北部を中心に最大900mmの降雨が予想されており、被害がさらに拡大する可能性がある。[信頼性: 高](Al Jazeeraの報道に基づく。負傷者数は調査の進行に伴い変動している〈当初163人から350人超に上方修正〉)",
-      "en": "According to Al Jazeera, Super Typhoon Champi (called Rosal in the Philippines; see earlier report id 2026-10-23-02) struck or closely approached Taiwan, killing one person and injuring more than 350 as of October 23. High winds felled trees and forced school and business closures, cut power to thousands of households, and displaced more than 4,300 people. Champi had briefly reached 'super typhoon' strength with winds near 296 km/h but had weakened by the time it reached Taiwan. Taiwan's Central Weather Administration warned of up to 900mm of rain in the northeast between October 23-25, raising the risk of further damage. [Reliability: High] (Based on Al Jazeera reporting; the injury count has been revised upward as assessments continue, from an initial 163 to over 350.)"
-    },
-    "category": "disaster",
-    "country": "台湾",
-    "region": "台湾東北部",
-    "lat": 23.6978,
-    "lon": 120.9605,
-    "occurredAt": "2026-10-23T08:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-24-07",
     "headline": {
       "ja": "ヨルダン・カラクの教会で葬儀中に銃撃テロ 7人死亡・34人負傷、国王「テロ行為」",
@@ -523,5 +479,111 @@
     },
     "reliability": "medium",
     "severity": 4
+  },
+  {
+    "id": "2026-10-26-08",
+    "headline": {
+      "ja": "ブラジル大統領決選投票、ルラ氏が逆転で4選 ボルソナロ氏側は結果に異議",
+      "en": "Brazil's Lula wins re-election in runoff comeback; Flávio Bolsonaro disputes result"
+    },
+    "summary": {
+      "ja": "Al Jazeera・France24によると、10/25実施のブラジル大統領決選投票で、ルラ・ダシルバ大統領(現職)が51.7%の得票で、ジャイル・ボルソナロ前大統領の息子フラヴィオ・ボルソナロ氏(48.2%)を破り、非連続の4期目当選を決めたという。ルラ氏は第1回投票では45.16%で首位に立てず決選投票に回っていたが、これを逆転しての当選は同国の民政復帰後では初めてとされる。投票終了時刻の2時間延長(ルラ陣営の申請を受けた最高裁判事の決定)を理由に、フラヴィオ・ボルソナロ氏は結果を認めず無効の申し立てを行う方針を示しているという。[信頼性: 高](Al Jazeera・France24の報道に基づく。得票率の最終確定値は中央選管の公式発表との完全な照合はできていない)",
+      "en": "According to Al Jazeera and France 24, incumbent President Luiz Inácio Lula da Silva won Brazil's October 25 presidential runoff with 51.7% of the vote against 48.2% for Flávio Bolsonaro, son of former president Jair Bolsonaro, securing a non-consecutive fourth term. Lula had trailed in the first round with 45.16%, making this the first runoff comeback win since Brazil's return to democracy. Flávio Bolsonaro has refused to concede, citing a two-hour voting extension granted by a Supreme Court justice at the request of Lula's campaign, and says he will seek to annul the result. [Reliability: High] (Based on Al Jazeera and France 24 reporting; the final vote tally has not been cross-checked directly against the electoral authority's official statement.)"
+    },
+    "category": "conflict",
+    "country": "ブラジル",
+    "lat": -14.2350,
+    "lon": -51.9253,
+    "occurredAt": "2026-10-26T00:30:00+00:00",
+    "source": {
+      "name": "Al Jazeera / France 24",
+      "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-26-09",
+    "headline": {
+      "ja": "セルビア、ヴチッチ氏が学生系「学生のリスト」への敗北を認める 暫定集計で与党を上回る",
+      "en": "Serbia's Vučić concedes defeat to student-backed list as sample count shows opposition ahead"
+    },
+    "summary": {
+      "ja": "Al Jazeera・France24によると、セルビアの議会選挙(既報id: 2026-10-26-01、投票締切・投票率64.9%)について、与党SNSのヴチッチ氏は10/25、学生運動発の「学生のリスト」への敗北を認めたという。同氏自身の陣営による集計でも、学生のリストが250議席中135〜140議席、SNSが105議席にとどまると見込まれるとし、独立系調査機関CESID-IPSOSのサンプル集計も学生のリスト138・SNS104議席と近い結果を示しているという。公式の最終集計はまだ確定していない。[信頼性: 中](サンプル集計・早期集計に基づく報道。中央選管による最終確定結果はこの時点で確認できていない)",
+      "en": "According to Al Jazeera and France 24, Serbian ruling-party leader Aleksandar Vučić conceded defeat on October 25 to the student-backed \"Students' List,\" a follow-up to the earlier report (id: 2026-10-26-01) on record 64.9% turnout. His own party's count projected the Students' List winning 135-140 of 250 seats versus 105 for his SNS, a figure roughly matched by an independent CESID-IPSOS sample count (138 vs. 104). The official final tally had not yet been confirmed as of this report. [Reliability: Medium] (Based on sample and early-count reporting; the central election commission's final certified results could not be confirmed at this time.)"
+    },
+    "category": "conflict",
+    "country": "セルビア",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "occurredAt": "2026-10-25T21:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-10",
+    "headline": {
+      "ja": "イスラエル軍、ガザ市のイスラム大学などを攻撃 1日で8人死亡、警備員3人含む",
+      "en": "Israeli strikes hit Islamic University and other Gaza City sites, killing eight in a day including three guards"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、イスラエル軍は10/25、ガザ市のイスラム大学への攻撃を含む複数の攻撃を実施し、同大学の警備員3人が死亡、同日のガザ全域での死者は少なくとも8人に達したという。ガザ保健省によると、2025年10月の「停戦」開始以降の死者は累計1,551人、負傷者5,573人に達しているとされる。人道団体は「名目だけの停戦」だと批判しているという。[信頼性: 中](Al Jazeeraの報道およびガザ保健省発表に基づく。死者数はガザ側当局の発表であり独立した確認はできていない)",
+      "en": "According to Al Jazeera, Israeli forces carried out multiple strikes in Gaza City on October 25, including on the Islamic University, killing three security guards there, with at least eight people reported killed across Gaza that day. Gaza's Health Ministry says at least 1,551 people have been killed and 5,573 wounded since the October 2025 \"ceasefire\" began. Humanitarian groups have called the truce a ceasefire \"in name only.\" [Reliability: Medium] (Based on Al Jazeera reporting and Gaza Health Ministry figures, which have not been independently verified.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ市",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-10-25T10:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-11",
+    "headline": {
+      "ja": "サウジ・パキスタン・トルコの要人がテヘラン訪問 「メッカ協定」加盟国とイランが緊張緩和へ初の高官級接触",
+      "en": "Saudi, Pakistani and Turkish officials visit Tehran for first high-level Mecca-pact contact with Iran since Houthi escalation"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、サウジアラビアのハーリド・ビン・サルマン国防相、パキスタン軍参謀長アシム・ムニール氏、トルコ情報機関長イブラヒム・カリン氏が10/26、イランを訪問し、イラン国家安全保障最高評議会書記のモフセン・レザイー氏と会談するという。サウジ側はこの接触を、カタール・パキスタンが進める仲介努力を後押しする緊張緩和・対話促進の一環と説明しているという。8月に署名された「メッカ防衛協定」(加盟国への攻撃を全体への攻撃とみなす集団防衛協定)の全加盟国とイランとの間では、フーシ派によるサウジへの攻撃激化以降、初の高官級接触とされる。トルコ議会での協定批准手続きは継続中で、イラン側の同協定への公式な立場は明確になっていないという。[信頼性: 中](Al Jazeeraの報道に基づく。会談自体の実施は複数方面の発表で一致しているが、会談の結果・成果についてはこの時点で報じられていない)",
+      "en": "According to Al Jazeera, Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin visited Tehran on October 26 for talks with Mohsen Rezaei, secretary of Iran's Supreme National Security Council. Saudi officials described the visit as part of de-escalation and dialogue efforts backing mediation by Qatar and Pakistan. It marks the first high-level contact between Iran and all members of the August \"Mecca defence pact\" (a collective-defence agreement treating an attack on one member as an attack on all) since Houthi attacks on Saudi Arabia escalated. Ratification of the pact is still underway in Turkey's parliament, and Iran's own official stance toward the pact remains unclear. [Reliability: Medium] (Based on Al Jazeera reporting; that the meeting took place is corroborated by multiple officials, but its outcome had not been reported at this time.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-26T06:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-12",
+    "headline": {
+      "ja": "原油、中東緊張緩和の兆しで6カ月ぶり高値から反落 ブレント1バレル115ドル前後",
+      "en": "Oil retreats from six-month high on signs of Middle East de-escalation; Brent near $115 a barrel"
+    },
+    "summary": {
+      "ja": "CNBCによると、ブレント原油先物は10/26、前週末につけた6カ月ぶり高値(1バレル116.72ドル)から1%超下落し、115ドル前後で取引されているという。カタールの仲介者が10/25(日)にテヘラン入りしたとのロイター報道のほか、サウジ・パキスタン・トルコ要人のテヘラン訪問(別記事、id: 2026-10-26-11)など中東情勢の緊張緩和の兆しが背景にあるとされる。[信頼性: 高](CNBCの報道・相場データに基づく)",
+      "en": "According to CNBC, Brent crude futures fell more than 1% on October 26 from last week's six-month high of $116.72 a barrel, trading around $115, following Reuters reporting that Qatari mediators arrived in Tehran on Sunday, Oct 25. The pullback follows signs of easing Middle East tensions, including the Saudi, Pakistani and Turkish officials' visit to Tehran (see separate report, id: 2026-10-26-11). [Reliability: High] (Based on CNBC reporting and market data.)"
+    },
+    "category": "economy",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-26T07:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/@LCO.1"
+    },
+    "reliability": "high"
   }
 ]
