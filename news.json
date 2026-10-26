@@ -1,51 +1,5 @@
 [
   {
-    "id": "2026-10-24-07",
-    "headline": {
-      "ja": "ヨルダン・カラクの教会で葬儀中に銃撃テロ 7人死亡・34人負傷、国王「テロ行為」",
-      "en": "Gunmen attack funeral at church in Karak, Jordan, killing 7 and wounding 34; king calls it terrorism"
-    },
-    "summary": {
-      "ja": "ヨルダン南部カラク州フムード村のギリシャ正教会で10月23日(金)、葬儀のため150〜200人が集まっていたところに武装した集団が車で現場に乗り付け発砲したという。ヨルダン治安当局(公安局長)によると7人が死亡、34人が負傷した。実行犯は逃走し身元は未判明のまま大規模な捜索が行われているという。アブドラ国王はこれを「テロ行為」と断定し、「最も厳しい報復」で応じると表明、ヨルダンは3日間の国喪を発表した。カラクはイスラム教徒多数派のヨルダンにおいてキリスト教徒が比較的多く住む地域であり、教会を狙った襲撃は同国では稀とされる。[信頼性: 高](CBS News、Haaretz、Fox Newsなど複数メディアの報道、ヨルダン治安当局の発表に基づく。負傷者数は報道により34人・40人の表記の揺れがある)",
-      "en": "Gunmen opened fire from a vehicle at a Greek Orthodox church funeral attended by 150-200 people in Hammoud village, Karak governorate, southern Jordan, on Friday, October 23, according to Jordanian security officials. Jordan's public security chief said 7 people were killed and 34 wounded. The attackers fled and remain unidentified as a large manhunt continues. King Abdullah II called it an act of terrorism and vowed the 'harshest response'; Jordan declared three days of national mourning. Karak is home to a sizeable Christian community in Muslim-majority Jordan, and an attack targeting a church is described as rare there. [Reliability: High] (Based on CBS News, Haaretz, Fox News and other outlets, citing Jordanian security officials; wounded figures vary between 34 and 40 across reports)"
-    },
-    "category": "conflict",
-    "country": "ヨルダン",
-    "region": "カラク州(フムード村)",
-    "lat": 31.1853,
-    "lon": 35.7047,
-    "occurredAt": "2026-10-23T11:00:00+00:00",
-    "source": {
-      "name": "CBS News / Haaretz",
-      "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-24-01",
-    "headline": {
-      "ja": "イスラエル、ヘブロンでの銃撃事件後にヨルダン川西岸の「完全封鎖」を準備 兵士2人死亡、ネタニヤフ氏「1967年以来の規模」の軍事作戦を警告",
-      "en": "Israel prepares 'full lockdown' of West Bank after Hebron shooting kills two soldiers; Netanyahu warns of operation 'unseen since 1967'"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、10月23日、ヨルダン川西岸ヘブロン近郊の検問所で、車に乗った2人のパレスチナ人がイスラエル兵に向けて発砲したという。イスラエル軍は兵士2人が死亡、3人が負傷したと発表し、銃撃は約20分間続いたとの目撃証言があるという。軍は実行犯2人を共に殺害したと発表した。この事件を受けネタニヤフ首相はヘブロンの封鎖を命じ、ヨルダン川西岸(「ユダヤ・サマリア」)全域での「完全封鎖」の準備を進めていると表明し、1967年以来の規模の軍事作戦になりうると警告したという。イスラエル軍は23日、西岸各地での捜索で36人のパレスチナ人を拘束したとされ、24日にはヘブロンで「標的を絞った徹底的な」軍事作戦を開始したという。一連の動きは来週に予定されているイスラエルの選挙を前にして起きている。[信頼性: 高](Al Jazeeraの複数の記事・ライブブログに基づく。他の独立した媒体による確証はこの時点で確認できていない)",
-      "en": "According to Al Jazeera, on October 23 two Palestinians in a car opened fire on Israeli soldiers at a checkpoint near Hebron in the occupied West Bank. The Israeli military said two soldiers were killed and three wounded, with witnesses describing gunfire lasting about 20 minutes; the army said it killed both gunmen. In response, Prime Minister Netanyahu ordered Hebron closed and said he was preparing a 'full lockdown' across the West Bank ('Judea and Samaria'), warning of a military operation on a scale unseen since 1967. The Israeli military reportedly arrested 36 Palestinians in raids across the West Bank on October 23, and on October 24 launched a 'targeted and thorough' operation in Hebron. The developments come ahead of Israeli elections scheduled for next week. [Reliability: High] (Based on multiple Al Jazeera reports and live-blog updates; independent corroboration from other outlets has not yet been found.)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヘブロン(ヨルダン川西岸地区)",
-    "lat": 31.5326,
-    "lon": 35.0998,
-    "occurredAt": "2026-10-23T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-10-24-09",
     "headline": {
       "ja": "金価格が4,000ドルを割り込み6月以来の大幅な週間下落 原油高と米利上げ観測が背景",
@@ -155,6 +109,28 @@
     "severity": 3
   },
   {
+    "id": "2026-10-26-06",
+    "headline": {
+      "ja": "原油価格、ブレント117ドルまで上昇 4月以来の高値 フーシ派のサウジ関連タンカー攻撃が背景",
+      "en": "Brent crude climbs to $117, highest since April, as Houthi attacks on Saudi-linked tankers add to market pressure"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ホルムズ海峡でのイラン関連の緊張に加え、フーシ派がサウジアラビアに対する海上封鎖を宣言し、紅海でサウジ関連の2隻のタンカー(Encelia、Layla)への攻撃を主張したことを受け、ブレント原油先物は1バレル約117ドルまで上昇し4月以来の高値となったという。海上保険料(戦争リスク保険料)も過去5年平均の4倍程度に上昇しているとの分析があるという。",
+      "en": "According to Al Jazeera, Brent crude futures rose to about $117 a barrel, the highest since April, amid Iran-related tension in the Strait of Hormuz and after Houthi forces declared a naval blockade against Saudi Arabia and claimed attacks on two Saudi-linked oil tankers (the Encelia and the Layla) in the Red Sea. Analysts cited war-risk shipping insurance premiums running at roughly four times their five-year average."
+    },
+    "category": "economy",
+    "country": "イエメン",
+    "region": "紅海",
+    "lat": 20.0,
+    "lon": 38.0,
+    "occurredAt": "2026-10-24T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
+    },
+    "reliability": "medium"
+  },
+  {
     "id": "2026-10-25-09",
     "headline": {
       "ja": "ロシア、ウクライナへ弾道ミサイル約30発で夜間攻撃 エネルギー施設を狙い首都キーウで6人負傷",
@@ -217,6 +193,50 @@
     "source": {
       "name": "France 24",
       "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-04",
+    "headline": {
+      "ja": "ウクライナ・ハルキウ州ロゾヴァへのロシア軍ミサイル攻撃で1人死亡",
+      "en": "Russian missile strike on Lozova, Kharkiv region, kills one in Ukraine"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ハルキウ州知事シニエフボフ氏は10/24(土)、同州ロゾヴァへのロシア軍ミサイル攻撃で男性1人が死亡、2人が負傷したと発表したという。既報(id: 2026-10-25-09)の夜間弾道ミサイル攻撃(キーウのエネルギー施設狙い)とは別の、同日の攻撃事案。",
+      "en": "According to Al Jazeera, Kharkiv region Governor Oleh Syniehubov said a Russian missile strike on Lozova in the region on Saturday, Oct 24, killed one man and wounded two others. This is a separate incident from the previously reported overnight ballistic missile attack on Kyiv-area energy facilities (id: 2026-10-25-09), occurring the same day."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ハルキウ州",
+    "lat": 48.8929,
+    "lon": 36.3297,
+    "occurredAt": "2026-10-24T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-05",
+    "headline": {
+      "ja": "ウクライナ・ドニプロペトロフスク州へのロシア軍ドローン攻撃で3人死亡・8人負傷",
+      "en": "Russian drone attack on Dnipropetrovsk region kills three, injures eight in Ukraine"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ドニプロペトロフスク州知事代理ハイヴァネンコ氏は10/24(土)、同州へのロシア軍ドローン攻撃で少なくとも3人が死亡、8人が負傷したと発表したという。ロゾヴァの攻撃(id: 2026-10-26-04)と同日の別地域での事案。",
+      "en": "According to Al Jazeera, acting Dnipropetrovsk region Governor Vladyslav Haivanenko said a Russian drone attack on the region on Saturday, Oct 24, killed at least three people and injured eight others. This occurred the same day as, but in a different region from, the Lozova strike (id: 2026-10-26-04)."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ドニプロペトロフスク州",
+    "lat": 48.4647,
+    "lon": 35.0462,
+    "occurredAt": "2026-10-24T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
     },
     "reliability": "medium"
   },
@@ -308,6 +328,27 @@
     "reliability": "medium"
   },
   {
+    "id": "2026-10-26-03",
+    "headline": {
+      "ja": "リヤド国際空港、2週間の閉鎖を経て運航再開 フーシ派は「依然危険」と警告継続",
+      "en": "Riyadh airport resumes flights after two-week closure; Houthis maintain 'unsafe' warning"
+    },
+    "summary": {
+      "ja": "France24によると、フーシ派の攻撃による約2週間の閉鎖を経て、リヤドのキング・ハーリド国際空港が10/25(日)に運航を再開したという。一方でフーシ派の軍事報道官サリー氏は同空港が依然「安全でない」「軍事目標」であると警告を継続しているという。既報のフーシ派対サウジの攻撃・警告(id: 2026-10-25-02, 06)の続報。",
+      "en": "According to France 24, Riyadh's King Khalid International Airport resumed flights on Sunday, Oct 25, after about two weeks of closure caused by Houthi attacks. Houthi military spokesman Yahya Saree, however, continued to warn that the airport remains 'unsafe' and a 'military target.' This is a follow-up to previously reported Houthi attacks and warnings against Saudi Arabia (ids: 2026-10-25-02, 2026-10-25-06)."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-10-25T06:00:00+00:00",
+    "source": {
+      "name": "France 24",
+      "url": "https://france24.com/en/live-news/20261025-riyadh-airport-resumes-flights-following-houthi-attacks"
+    },
+    "reliability": "medium"
+  },
+  {
     "id": "2026-10-25-10",
     "headline": {
       "ja": "仏生活費デモ、週末の拘束者1,314人・警官53人負傷に(抗議者の重傷例も)",
@@ -325,6 +366,49 @@
     "source": {
       "name": "France 24 / Al Jazeera",
       "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-10",
+    "headline": {
+      "ja": "イスラエル軍、ガザ市のイスラム大学などを攻撃 1日で8人死亡、警備員3人含む",
+      "en": "Israeli strikes hit Islamic University and other Gaza City sites, killing eight in a day including three guards"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、イスラエル軍は10/25、ガザ市のイスラム大学への攻撃を含む複数の攻撃を実施し、同大学の警備員3人が死亡、同日のガザ全域での死者は少なくとも8人に達したという。ガザ保健省によると、2025年10月の「停戦」開始以降の死者は累計1,551人、負傷者5,573人に達しているとされる。人道団体は「名目だけの停戦」だと批判しているという。[信頼性: 中](Al Jazeeraの報道およびガザ保健省発表に基づく。死者数はガザ側当局の発表であり独立した確認はできていない)",
+      "en": "According to Al Jazeera, Israeli forces carried out multiple strikes in Gaza City on October 25, including on the Islamic University, killing three security guards there, with at least eight people reported killed across Gaza that day. Gaza's Health Ministry says at least 1,551 people have been killed and 5,573 wounded since the October 2025 \"ceasefire\" began. Humanitarian groups have called the truce a ceasefire \"in name only.\" [Reliability: Medium] (Based on Al Jazeera reporting and Gaza Health Ministry figures, which have not been independently verified.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ市",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-10-25T10:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-02",
+    "headline": {
+      "ja": "トランプ氏「今日の攻撃はない」、イラン情勢は停戦協議へ カタールが仲介",
+      "en": "Trump says 'no strike today' on Iran as Qatari mediators push for renewed talks"
+    },
+    "summary": {
+      "ja": "Al Jazeeraのライブブログ(10/25)によると、トランプ米大統領は「今日イランを攻撃することはない」と述べ、カタールの仲介者がテヘラン入りして米イラン協議再開への「慎重な楽観論」が伝えられているという。一方で米メディアは国防総省が中間選挙後のイラン攻撃選択肢を準備済みと報じており、ペゼシュキアン・イラン大統領は米側の交渉決裂を非難したという。既報(id: 2026-10-25-01)の「日曜攻撃の可能性」を巡る続報で、本時点では軍事行動は回避されたため新たなseverityは付与していない。",
+      "en": "According to an Al Jazeera live blog (Oct 25), US President Trump said there would be 'no strike today' on Iran, while Qatari mediators traveled to Tehran amid reports of 'cautious optimism' about resuming stalled US-Iran talks. US media separately reported the Pentagon has prepared strike options for after the midterm elections, and Iran's President Pezeshkian blamed the US for the collapse of interim talks. This is a follow-up to the previously reported possibility of a Sunday strike (id: 2026-10-25-01); since military action was avoided at this point, no new severity is assigned."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-25T15:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
     },
     "reliability": "medium"
   },
@@ -350,112 +434,46 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-26-02",
+    "id": "2026-10-26-09",
     "headline": {
-      "ja": "トランプ氏「今日の攻撃はない」、イラン情勢は停戦協議へ カタールが仲介",
-      "en": "Trump says 'no strike today' on Iran as Qatari mediators push for renewed talks"
+      "ja": "セルビア、ヴチッチ氏が学生系「学生のリスト」への敗北を認める 暫定集計で与党を上回る",
+      "en": "Serbia's Vučić concedes defeat to student-backed list as sample count shows opposition ahead"
     },
     "summary": {
-      "ja": "Al Jazeeraのライブブログ(10/25)によると、トランプ米大統領は「今日イランを攻撃することはない」と述べ、カタールの仲介者がテヘラン入りして米イラン協議再開への「慎重な楽観論」が伝えられているという。一方で米メディアは国防総省が中間選挙後のイラン攻撃選択肢を準備済みと報じており、ペゼシュキアン・イラン大統領は米側の交渉決裂を非難したという。既報(id: 2026-10-25-01)の「日曜攻撃の可能性」を巡る続報で、本時点では軍事行動は回避されたため新たなseverityは付与していない。",
-      "en": "According to an Al Jazeera live blog (Oct 25), US President Trump said there would be 'no strike today' on Iran, while Qatari mediators traveled to Tehran amid reports of 'cautious optimism' about resuming stalled US-Iran talks. US media separately reported the Pentagon has prepared strike options for after the midterm elections, and Iran's President Pezeshkian blamed the US for the collapse of interim talks. This is a follow-up to the previously reported possibility of a Sunday strike (id: 2026-10-25-01); since military action was avoided at this point, no new severity is assigned."
+      "ja": "Al Jazeera・France24によると、セルビアの議会選挙(既報id: 2026-10-26-01、投票締切・投票率64.9%)について、与党SNSのヴチッチ氏は10/25、学生運動発の「学生のリスト」への敗北を認めたという。同氏自身の陣営による集計でも、学生のリストが250議席中135〜140議席、SNSが105議席にとどまると見込まれるとし、独立系調査機関CESID-IPSOSのサンプル集計も学生のリスト138・SNS104議席と近い結果を示しているという。公式の最終集計はまだ確定していない。[信頼性: 中](サンプル集計・早期集計に基づく報道。中央選管による最終確定結果はこの時点で確認できていない)",
+      "en": "According to Al Jazeera and France 24, Serbian ruling-party leader Aleksandar Vučić conceded defeat on October 25 to the student-backed \"Students' List,\" a follow-up to the earlier report (id: 2026-10-26-01) on record 64.9% turnout. His own party's count projected the Students' List winning 135-140 of 250 seats versus 105 for his SNS, a figure roughly matched by an independent CESID-IPSOS sample count (138 vs. 104). The official final tally had not yet been confirmed as of this report. [Reliability: Medium] (Based on sample and early-count reporting; the central election commission's final certified results could not be confirmed at this time.)"
     },
     "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-25T15:00:00+00:00",
+    "country": "セルビア",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "occurredAt": "2026-10-25T21:00:00+00:00",
     "source": {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
     },
     "reliability": "medium"
   },
   {
-    "id": "2026-10-26-03",
+    "id": "2026-10-26-08",
     "headline": {
-      "ja": "リヤド国際空港、2週間の閉鎖を経て運航再開 フーシ派は「依然危険」と警告継続",
-      "en": "Riyadh airport resumes flights after two-week closure; Houthis maintain 'unsafe' warning"
+      "ja": "ブラジル大統領決選投票、ルラ氏が逆転で4選 ボルソナロ氏側は結果に異議",
+      "en": "Brazil's Lula wins re-election in runoff comeback; Flávio Bolsonaro disputes result"
     },
     "summary": {
-      "ja": "France24によると、フーシ派の攻撃による約2週間の閉鎖を経て、リヤドのキング・ハーリド国際空港が10/25(日)に運航を再開したという。一方でフーシ派の軍事報道官サリー氏は同空港が依然「安全でない」「軍事目標」であると警告を継続しているという。既報のフーシ派対サウジの攻撃・警告(id: 2026-10-25-02, 06)の続報。",
-      "en": "According to France 24, Riyadh's King Khalid International Airport resumed flights on Sunday, Oct 25, after about two weeks of closure caused by Houthi attacks. Houthi military spokesman Yahya Saree, however, continued to warn that the airport remains 'unsafe' and a 'military target.' This is a follow-up to previously reported Houthi attacks and warnings against Saudi Arabia (ids: 2026-10-25-02, 2026-10-25-06)."
+      "ja": "Al Jazeera・France24によると、10/25実施のブラジル大統領決選投票で、ルラ・ダシルバ大統領(現職)が51.7%の得票で、ジャイル・ボルソナロ前大統領の息子フラヴィオ・ボルソナロ氏(48.2%)を破り、非連続の4期目当選を決めたという。ルラ氏は第1回投票では45.16%で首位に立てず決選投票に回っていたが、これを逆転しての当選は同国の民政復帰後では初めてとされる。投票終了時刻の2時間延長(ルラ陣営の申請を受けた最高裁判事の決定)を理由に、フラヴィオ・ボルソナロ氏は結果を認めず無効の申し立てを行う方針を示しているという。[信頼性: 高](Al Jazeera・France24の報道に基づく。得票率の最終確定値は中央選管の公式発表との完全な照合はできていない)",
+      "en": "According to Al Jazeera and France 24, incumbent President Luiz Inácio Lula da Silva won Brazil's October 25 presidential runoff with 51.7% of the vote against 48.2% for Flávio Bolsonaro, son of former president Jair Bolsonaro, securing a non-consecutive fourth term. Lula had trailed in the first round with 45.16%, making this the first runoff comeback win since Brazil's return to democracy. Flávio Bolsonaro has refused to concede, citing a two-hour voting extension granted by a Supreme Court justice at the request of Lula's campaign, and says he will seek to annul the result. [Reliability: High] (Based on Al Jazeera and France 24 reporting; the final vote tally has not been cross-checked directly against the electoral authority's official statement.)"
     },
     "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-25T06:00:00+00:00",
+    "country": "ブラジル",
+    "lat": -14.235,
+    "lon": -51.9253,
+    "occurredAt": "2026-10-26T00:30:00+00:00",
     "source": {
-      "name": "France 24",
-      "url": "https://france24.com/en/live-news/20261025-riyadh-airport-resumes-flights-following-houthi-attacks"
+      "name": "Al Jazeera / France 24",
+      "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election"
     },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-04",
-    "headline": {
-      "ja": "ウクライナ・ハルキウ州ロゾヴァへのロシア軍ミサイル攻撃で1人死亡",
-      "en": "Russian missile strike on Lozova, Kharkiv region, kills one in Ukraine"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ハルキウ州知事シニエフボフ氏は10/24(土)、同州ロゾヴァへのロシア軍ミサイル攻撃で男性1人が死亡、2人が負傷したと発表したという。既報(id: 2026-10-25-09)の夜間弾道ミサイル攻撃(キーウのエネルギー施設狙い)とは別の、同日の攻撃事案。",
-      "en": "According to Al Jazeera, Kharkiv region Governor Oleh Syniehubov said a Russian missile strike on Lozova in the region on Saturday, Oct 24, killed one man and wounded two others. This is a separate incident from the previously reported overnight ballistic missile attack on Kyiv-area energy facilities (id: 2026-10-25-09), occurring the same day."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ハルキウ州",
-    "lat": 48.8929,
-    "lon": 36.3297,
-    "occurredAt": "2026-10-24T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-05",
-    "headline": {
-      "ja": "ウクライナ・ドニプロペトロフスク州へのロシア軍ドローン攻撃で3人死亡・8人負傷",
-      "en": "Russian drone attack on Dnipropetrovsk region kills three, injures eight in Ukraine"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ドニプロペトロフスク州知事代理ハイヴァネンコ氏は10/24(土)、同州へのロシア軍ドローン攻撃で少なくとも3人が死亡、8人が負傷したと発表したという。ロゾヴァの攻撃(id: 2026-10-26-04)と同日の別地域での事案。",
-      "en": "According to Al Jazeera, acting Dnipropetrovsk region Governor Vladyslav Haivanenko said a Russian drone attack on the region on Saturday, Oct 24, killed at least three people and injured eight others. This occurred the same day as, but in a different region from, the Lozova strike (id: 2026-10-26-04)."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ドニプロペトロフスク州",
-    "lat": 48.4647,
-    "lon": 35.0462,
-    "occurredAt": "2026-10-24T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-06",
-    "headline": {
-      "ja": "原油価格、ブレント117ドルまで上昇 4月以来の高値 フーシ派のサウジ関連タンカー攻撃が背景",
-      "en": "Brent crude climbs to $117, highest since April, as Houthi attacks on Saudi-linked tankers add to market pressure"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ホルムズ海峡でのイラン関連の緊張に加え、フーシ派がサウジアラビアに対する海上封鎖を宣言し、紅海でサウジ関連の2隻のタンカー(Encelia、Layla)への攻撃を主張したことを受け、ブレント原油先物は1バレル約117ドルまで上昇し4月以来の高値となったという。海上保険料(戦争リスク保険料)も過去5年平均の4倍程度に上昇しているとの分析があるという。",
-      "en": "According to Al Jazeera, Brent crude futures rose to about $117 a barrel, the highest since April, amid Iran-related tension in the Strait of Hormuz and after Houthi forces declared a naval blockade against Saudi Arabia and claimed attacks on two Saudi-linked oil tankers (the Encelia and the Layla) in the Red Sea. Analysts cited war-risk shipping insurance premiums running at roughly four times their five-year average."
-    },
-    "category": "economy",
-    "country": "イエメン",
-    "region": "紅海",
-    "lat": 20.0,
-    "lon": 38.0,
-    "occurredAt": "2026-10-24T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
-    },
-    "reliability": "medium"
+    "reliability": "high"
   },
   {
     "id": "2026-10-26-07",
@@ -481,66 +499,90 @@
     "severity": 4
   },
   {
-    "id": "2026-10-26-08",
+    "id": "2026-10-26-14",
     "headline": {
-      "ja": "ブラジル大統領決選投票、ルラ氏が逆転で4選 ボルソナロ氏側は結果に異議",
-      "en": "Brazil's Lula wins re-election in runoff comeback; Flávio Bolsonaro disputes result"
+      "ja": "サウジ南西部ハミース・ムシャイトなどで迎撃ミサイルの破片が被害 2人負傷・住宅3棟等破損",
+      "en": "Debris from intercepted missiles damages buildings in Khamis Mushait, southwestern Saudi Arabia, injuring two"
     },
     "summary": {
-      "ja": "Al Jazeera・France24によると、10/25実施のブラジル大統領決選投票で、ルラ・ダシルバ大統領(現職)が51.7%の得票で、ジャイル・ボルソナロ前大統領の息子フラヴィオ・ボルソナロ氏(48.2%)を破り、非連続の4期目当選を決めたという。ルラ氏は第1回投票では45.16%で首位に立てず決選投票に回っていたが、これを逆転しての当選は同国の民政復帰後では初めてとされる。投票終了時刻の2時間延長(ルラ陣営の申請を受けた最高裁判事の決定)を理由に、フラヴィオ・ボルソナロ氏は結果を認めず無効の申し立てを行う方針を示しているという。[信頼性: 高](Al Jazeera・France24の報道に基づく。得票率の最終確定値は中央選管の公式発表との完全な照合はできていない)",
-      "en": "According to Al Jazeera and France 24, incumbent President Luiz Inácio Lula da Silva won Brazil's October 25 presidential runoff with 51.7% of the vote against 48.2% for Flávio Bolsonaro, son of former president Jair Bolsonaro, securing a non-consecutive fourth term. Lula had trailed in the first round with 45.16%, making this the first runoff comeback win since Brazil's return to democracy. Flávio Bolsonaro has refused to concede, citing a two-hour voting extension granted by a Supreme Court justice at the request of Lula's campaign, and says he will seek to annul the result. [Reliability: High] (Based on Al Jazeera and France 24 reporting; the final vote tally has not been cross-checked directly against the electoral authority's official statement.)"
+      "ja": "Al Jazeeraによると、サウジ民間防衛当局は、南西部アシール地方のハミース・ムシャイトおよびアハド・ラフィーダで弾道ミサイル2発を迎撃したと発表し、落下した破片により2人が負傷、住宅3棟・車両7台が損壊したという。サウジ国営テレビは同地域での建物・車両の被害状況を伝えているという。既報(id: 2026-10-26-07、フーシ派による複数波の弾道ミサイル攻撃とサウジ主導軍のサナアへの報復空爆、信頼性中・重要度4)と同じ攻撃波に関連する、首都リヤド以外の地域での被害に関する詳細という。[信頼性: 中](Al Jazeera報道およびサウジ民間防衛当局の発表に基づく)",
+      "en": "According to Al Jazeera, Saudi Civil Defence said it intercepted two ballistic missiles over Khamis Mushait and Ahad Rafidah in the southwestern Asir region, and that falling debris injured two people and damaged three residential buildings and seven vehicles. Saudi state TV showed the resulting damage to buildings and vehicles in the area. This is additional detail, from a region outside the capital Riyadh, on the same wave of Houthi ballistic-missile attacks and the Saudi-led coalition's retaliatory strikes on Sanaa already reported (id: 2026-10-26-07, reliability medium, severity 4). [Reliability: Medium] (Based on Al Jazeera reporting and statements from Saudi Civil Defence.)"
     },
     "category": "conflict",
-    "country": "ブラジル",
-    "lat": -14.2350,
-    "lon": -51.9253,
-    "occurredAt": "2026-10-26T00:30:00+00:00",
-    "source": {
-      "name": "Al Jazeera / France 24",
-      "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-26-09",
-    "headline": {
-      "ja": "セルビア、ヴチッチ氏が学生系「学生のリスト」への敗北を認める 暫定集計で与党を上回る",
-      "en": "Serbia's Vučić concedes defeat to student-backed list as sample count shows opposition ahead"
-    },
-    "summary": {
-      "ja": "Al Jazeera・France24によると、セルビアの議会選挙(既報id: 2026-10-26-01、投票締切・投票率64.9%)について、与党SNSのヴチッチ氏は10/25、学生運動発の「学生のリスト」への敗北を認めたという。同氏自身の陣営による集計でも、学生のリストが250議席中135〜140議席、SNSが105議席にとどまると見込まれるとし、独立系調査機関CESID-IPSOSのサンプル集計も学生のリスト138・SNS104議席と近い結果を示しているという。公式の最終集計はまだ確定していない。[信頼性: 中](サンプル集計・早期集計に基づく報道。中央選管による最終確定結果はこの時点で確認できていない)",
-      "en": "According to Al Jazeera and France 24, Serbian ruling-party leader Aleksandar Vučić conceded defeat on October 25 to the student-backed \"Students' List,\" a follow-up to the earlier report (id: 2026-10-26-01) on record 64.9% turnout. His own party's count projected the Students' List winning 135-140 of 250 seats versus 105 for his SNS, a figure roughly matched by an independent CESID-IPSOS sample count (138 vs. 104). The official final tally had not yet been confirmed as of this report. [Reliability: Medium] (Based on sample and early-count reporting; the central election commission's final certified results could not be confirmed at this time.)"
-    },
-    "category": "conflict",
-    "country": "セルビア",
-    "lat": 44.7866,
-    "lon": 20.4489,
-    "occurredAt": "2026-10-25T21:00:00+00:00",
+    "country": "サウジアラビア",
+    "region": "アシール地方(ハミース・ムシャイト/アハド・ラフィーダ)",
+    "lat": 18.3,
+    "lon": 42.7333,
+    "occurredAt": "2026-10-26T02:00:00+00:00",
     "source": {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city"
     },
     "reliability": "medium"
   },
   {
-    "id": "2026-10-26-10",
+    "id": "2026-10-26-13",
     "headline": {
-      "ja": "イスラエル軍、ガザ市のイスラム大学などを攻撃 1日で8人死亡、警備員3人含む",
-      "en": "Israeli strikes hit Islamic University and other Gaza City sites, killing eight in a day including three guards"
+      "ja": "イスラエル軍、ガザ・ハンユニスの避難民キャンプを空爆 子供含む4人死亡",
+      "en": "Israeli air strike hits displacement camp in Khan Younis, Gaza, killing four including a child"
     },
     "summary": {
-      "ja": "Al Jazeeraによると、イスラエル軍は10/25、ガザ市のイスラム大学への攻撃を含む複数の攻撃を実施し、同大学の警備員3人が死亡、同日のガザ全域での死者は少なくとも8人に達したという。ガザ保健省によると、2025年10月の「停戦」開始以降の死者は累計1,551人、負傷者5,573人に達しているとされる。人道団体は「名目だけの停戦」だと批判しているという。[信頼性: 中](Al Jazeeraの報道およびガザ保健省発表に基づく。死者数はガザ側当局の発表であり独立した確認はできていない)",
-      "en": "According to Al Jazeera, Israeli forces carried out multiple strikes in Gaza City on October 25, including on the Islamic University, killing three security guards there, with at least eight people reported killed across Gaza that day. Gaza's Health Ministry says at least 1,551 people have been killed and 5,573 wounded since the October 2025 \"ceasefire\" began. Humanitarian groups have called the truce a ceasefire \"in name only.\" [Reliability: Medium] (Based on Al Jazeera reporting and Gaza Health Ministry figures, which have not been independently verified.)"
+      "ja": "Al Jazeeraによると、イスラエル軍は10/26、ガザ南部ハンユニスのアル・マワシ地区にある避難民キャンプを空爆し、幼い女児を含む4人が死亡したという。ナセル病院関係者によると、遺体は破片の直撃により損壊しており、負傷者には子供や女性も含まれるという。また10/25夜には、シュジャイヤ交差点付近のキャンプで火災が発生し、ガザ公共事業・住宅省はイスラエル軍の小型ドローン(クアッドコプター)が原因と説明、200超の家族(800人超)が避難を強いられたとしているという。ガザ民間防衛によると、直近24時間でガザ全域の死者は11人、負傷者は50人に達したという。既報(id: 2026-10-26-10、10/25のイスラム大学攻撃)とは別の事案。[信頼性: 中](Al Jazeera報道およびガザ側医療・行政機関の発表に基づく。イスラエル軍によるコメントは本報道時点で確認できていない)",
+      "en": "According to Al Jazeera, Israeli forces carried out an air strike on October 26 on a displacement camp in the al-Mawasi area of Khan Younis, southern Gaza, killing four people including a young girl. Staff at Nasser Hospital said the bodies were torn apart by direct hits from shrapnel, and the wounded included children and women. Separately, a fire broke out overnight on October 25 at a camp near the Shujayea junction, which Gaza's Ministry of Public Works and Housing attributed to Israeli quadcopter drones, displacing more than 200 families (over 800 people). Gaza's Civil Defence said 11 people were killed and 50 wounded across Gaza in the previous 24 hours. This is a separate incident from the previously reported October 25 strike on the Islamic University (id: 2026-10-26-10). [Reliability: Medium] (Based on Al Jazeera reporting and statements from Gaza's medical and administrative bodies; no Israeli military comment had been confirmed at the time of this report.)"
     },
     "category": "conflict",
     "country": "パレスチナ",
-    "region": "ガザ市",
-    "lat": 31.5017,
-    "lon": 34.4668,
-    "occurredAt": "2026-10-25T10:00:00+00:00",
+    "region": "ハンユニス",
+    "lat": 31.3469,
+    "lon": 34.3029,
+    "occurredAt": "2026-10-26T04:00:00+00:00",
     "source": {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites"
+      "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-16",
+    "headline": {
+      "ja": "ウクライナ軍、露ヴォロネジへドローン攻撃 2人死亡・17人負傷(通勤列車の乗客含む)",
+      "en": "Ukrainian drone attack on Russia's Voronezh kills two, injures 17 including commuter-train passengers"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ロシア・ヴォロネジ州知事グセフ氏は10/26(月)朝、ウクライナ軍によるドローン攻撃で2人が死亡、17人が負傷したと発表したという。負傷者の多くは、落下した破片が直撃した通勤列車の乗客だったとされる。ロゾヴァ・ドニプロ攻撃(id: 2026-10-26-04、05)と同様、露ウクライナ双方による長距離攻撃の応酬が続いている。",
+      "en": "According to Al Jazeera, Voronezh region Governor Alexander Gusev said a Ukrainian drone attack on the region on Monday morning, October 26, killed two people and wounded 17. Officials said many of the wounded were passengers on a commuter train hit by falling debris. As with the Lozova and Dnipro strikes already reported (id: 2026-10-26-04, -05), long-range strikes by both Russia and Ukraine continue."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "region": "ヴォロネジ州",
+    "lat": 51.672,
+    "lon": 39.1843,
+    "occurredAt": "2026-10-26T04:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-15",
+    "headline": {
+      "ja": "ウクライナ・ザポリッジャへロシア軍攻撃 4人負傷",
+      "en": "Russian strike on Zaporizhzhia, Ukraine, injures four"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ザポリッジャ州知事セミキン氏は10/26(月)朝、同州へのロシア軍攻撃で4人が負傷したと発表したという。同日、フランス・ドイツ・イタリア・ポーランド・英国の国防相はパリで会合し、ウクライナ支援の追加策や欧州自身の防衛、中東情勢について協議するという(会合の結果は本報道時点で未判明)。",
+      "en": "According to Al Jazeera, Zaporizhzhia region Governor Mykhailo Semikin said a Russian strike on the region on Monday morning, October 26, injured four people. The same day, defence ministers of France, Germany, Italy, Poland and the UK were meeting in Paris to discuss additional support for Ukraine, European defence, and the situation in the Middle East (the outcome of the meeting was not yet known at the time of this report)."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ザポリッジャ州",
+    "lat": 47.8388,
+    "lon": 35.1396,
+    "occurredAt": "2026-10-26T05:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support"
     },
     "reliability": "medium"
   },
