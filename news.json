@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-25-05",
-    "headline": {
-      "ja": "ケニアでエボラ出血熱2人目の死者、隣国ナイジェリアでも初の感染確認 DRC株と一致",
-      "en": "Kenya reports second Ebola death as Nigeria confirms its first case, matching DRC strain"
-    },
-    "summary": {
-      "ja": "Al Jazeera・NPRによると、ケニア保健当局は10月23日、エボラ出血熱(ブンディブギョ株)による2人目の死者を確認したと発表した。保健総局長パトリック・アモス氏は、確認された感染者9人は全て単一のクラスターに属し、クラスター外への感染拡大の兆候はないとした上で、接触者135人のうち134人の追跡・隔離が完了していると述べた。ケニアの最初の患者は、コンゴ民主共和国(DRC)から来た旅行者で、10月5日にナイロビで死亡していたという。一方、隣国ナイジェリアでも10月20日、ウガンダから到着した女性のエボラ感染がアブジャで確認され、保健当局者によるとDRCの流行株と一致したという。ケニア・ナイジェリア両国の初発患者の行動歴に接点があったかどうかについて、当局が調査しているとされる。[信頼性: 中](Al Jazeera・NPRの報道に基づく。クラスター数・死者数はケニア保健当局発表によるが、ナイジェリア症例との関連性は調査中で未確定)",
-      "en": "According to Al Jazeera and NPR, Kenyan health authorities announced on October 23 a second death from the Ebola outbreak (Bundibugyo strain). Director-General of Health Patrick Amoth said all nine confirmed cases belong to a single cluster with no sign of spread beyond it, and that 134 of 135 traced contacts have been quarantined. Kenya's first patient was a traveler from the DRC who died in Nairobi on October 5. Separately, neighboring Nigeria confirmed its first Ebola case on October 20, in a woman who had arrived from Uganda and tested positive in Abuja; health officials said it matched the strain circulating in the DRC outbreak. Authorities are reportedly investigating whether the index cases in Kenya and Nigeria crossed paths. [Reliability: Medium] (Based on Al Jazeera and NPR reporting. Cluster and death counts come from Kenyan health authorities; the link to the Nigerian case remains under investigation and unconfirmed.)"
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -0.0236,
-    "lon": 37.9062,
-    "occurredAt": "2026-10-23T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-25-03",
     "headline": {
       "ja": "仏パリ郊外トラップで銃撃、1人死亡・5人負傷 マクロン大統領「人種差別的なテロ攻撃」と非難",
