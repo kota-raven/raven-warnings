@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:08:11.975Z",
+  "generatedAt": "2026-10-26T06:00:36.270Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 178,
   "warnings": [
@@ -2970,6 +2970,94 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262027",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2027",
+      "title": "入道埼西南西、射撃中止",
+      "publishedAt": "2026-10-26T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2027    発表日時:2026年10月26日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃中止。\r\r\n(1994削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262027&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262026",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2026",
+      "title": "潮岬西南西、射撃中止",
+      "publishedAt": "2026-10-26T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2026    発表日時:2026年10月26日 13時\r\n\n\r\n潮岬西南西、\r\r\n射撃中止。\r\r\n(1995削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262026&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262025",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "2025",
+      "title": "対馬北東、船舶間貨物油積替作業",
+      "publishedAt": "2026-10-26T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            129.58333333333334,
+            35
+          ],
+          [
+            130.25,
+            35
+          ],
+          [
+            130.25,
+            34.583333333333336
+          ],
+          [
+            130.08333333333334,
+            34.5
+          ],
+          [
+            129.75,
+            34.5
+          ],
+          [
+            129.75,
+            34.75
+          ]
+        ]
+      },
+      "rawText": "番号:26-2025    発表日時:2026年10月26日 13時\r\n\n\r\n対馬北東、\r\r\nYIANNIS LATSIS(154792トン)による\r\r\n船舶間貨物油積替作業、10月27日0800-当分の間、\r\r\n35-00N 129-35E 35-00N 130-15E \r\r\n34-35N 130-15E 34-30N 130-05E \r\r\n34-30N 129-45E 34-45N 129-45E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262025&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262024",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2024",
+      "title": "五島列島東、射撃中止",
+      "publishedAt": "2026-10-26T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2024    発表日時:2026年10月26日 13時\r\n\n\r\n五島列島東、\r\r\n射撃中止。\r\r\n(2008削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262024&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262023",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "2023",
+      "title": "九州東岸、避難勧告解除",
+      "publishedAt": "2026-10-26T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2023    発表日時:2026年10月26日 13時\r\n\n\r\n九州東岸、\r\r\n避難勧告解除。\r\r\n(2016削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262023&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262022",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -2992,30 +3080,6 @@
       "geometry": null,
       "rawText": "番号:26-2021    発表日時:2026年10月25日 20時\r\n\n\r\n沖縄群島、\r\r\n慶良間前島南方灯標(26-11.8N 127-26.3E、\r\r\n灯台表第1巻、7092.8)消灯。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262021&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262020",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "2020",
-      "title": "瀬戸内海、相生港−呉港、起重機船えい航",
-      "publishedAt": "2026-10-25T17:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            134.46666666666667,
-            34.78333333333333
-          ],
-          [
-            132.53333333333333,
-            34.233333333333334
-          ]
-        ]
-      },
-      "rawText": "番号:26-2020    発表日時:2026年10月25日 17時\r\n\n\r\n瀬戸内海、相生港-呉港、\r\r\nえい船(明陽丸、MMSI 432579000)による\r\r\n起重機船(武蔵、長さ107メートル)えい航、\r\r\n相生港(34-47N 134-28E)\r\r\n10月25日1930出港、\r\r\n備讃瀬戸東航路、備讃瀬戸北航路、来島海峡航路経由、\r\r\n呉港(34-14N 132-32E)26日2233到着予定、\r\r\n速力約6ノット、長さ約290メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262020&LANG=JP"
     },
     {
       "id": "NAVTEX-262019",
@@ -3086,18 +3150,6 @@
       "geometry": null,
       "rawText": "番号:26-2017    発表日時:2026年10月25日 11時\r\n\n\r\n本州東岸、綾里埼南南西、\r\r\n木材(長さ約8メートル)漂流、10月25日0630、\r\r\n38-53.8N 141-47.0E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262017&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262016",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "2016",
-      "title": "九州東岸、避難勧告",
-      "publishedAt": "2026-10-24T16:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2016    発表日時:2026年10月24日 16時\r\n\n\r\n九州東岸、\r\r\n台風の影響により避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。\r\r\n(2013削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262016&LANG=JP"
     },
     {
       "id": "NAVTEX-262015",
@@ -3246,24 +3298,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262009&LANG=JP"
     },
     {
-      "id": "NAVTEX-262008",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2008",
-      "title": "五島列島東、射撃",
-      "publishedAt": "2026-10-23T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          129.35,
-          32.81666666666667
-        ]
-      },
-      "rawText": "番号:26-2008    発表日時:2026年10月23日 13時\r\n\n\r\n五島列島東、\r\r\n射撃、10月26日0830-2400、32-49N\r\r\n129-21Eを中心とする半径5海里の円内。\r\r\n(1981削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262008&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262007",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3340,30 +3374,6 @@
       "geometry": null,
       "rawText": "番号:26-2002    発表日時:2026年10月22日 13時\r\n\n\r\n沖縄島南西、\r\r\n射撃、10月27日(予備28日)0800-2400、\r\r\n25-56.0N 127-30.2Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262002&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261995",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1995",
-      "title": "潮岬西南西、射撃",
-      "publishedAt": "2026-10-21T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1995    発表日時:2026年10月21日 13時\r\n\n\r\n潮岬西南西、\r\r\n射撃、10月26日0700-2400、33-19.2N\r\r\n135-19.1Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261995&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-261994",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "1994",
-      "title": "入道埼西南西、射撃",
-      "publishedAt": "2026-10-21T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-1994    発表日時:2026年10月21日 13時\r\n\n\r\n入道埼西南西、\r\r\n射撃、10月26日0800-翌日2400、39-56.0N \r\r\n139-22.5Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=261994&LANG=JP"
     },
     {
       "id": "NAVTEX-261990",
