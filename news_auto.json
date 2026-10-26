@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-30307",
+    "headline": {
+      "ja": "サウジ主導連合軍がイエメン・サナアの フーシ派施設を攻撃",
+      "en": "Saudi-led coalition targets Houthi positions in Sanaa"
+    },
+    "summary": {
+      "ja": "フーシ派によるサウジアラビアへの攻撃に対して、サウジアラビア主導の連合軍がイエメンのサナアにおけるフーシ派の施設を攻撃した。",
+      "en": "Following Houthi attacks on Saudi Arabia, the Saudi-led coalition conducted strikes against Houthi positions in Sanaa, Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-26T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_sanaa_saudi_conflict_2026-10-26"
+  },
+  {
     "id": "auto-30091",
     "headline": {
       "ja": "イエメン・アデンで爆発、フーシ派ミサイルとみられる",
@@ -44,6 +67,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_houthis_saudi_targets_missile_2026-10-25"
+  },
+  {
+    "id": "auto-30257",
+    "headline": {
+      "ja": "ガザ市のイスラム大学へのイスラエル軍空爆で3人死亡",
+      "en": "Israeli air strikes on Gaza City university kill three"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザ市のイスラム大学に対して空爆を実施し、学生および警備員が被害を受けた。",
+      "en": "Israeli airstrikes targeted the Islamic University in Gaza City, killing students and security guards."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-25T18:12:13+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "palestine_gaza_israel_university_airstrike_2026-10-25"
   },
   {
     "id": "auto-29845",
@@ -3070,75 +3116,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "spain_mediterranean_flooding_2026-10-19"
-  },
-  {
-    "id": "auto-19356",
-    "headline": {
-      "ja": "国連食糧計画、ガザ援助を3分の1削減",
-      "en": "UN food agency cuts Gaza assistance by one-third"
-    },
-    "summary": {
-      "ja": "資金不足のため、国連世界食糧計画(WFP)はガザへの食糧援助を3分の1削減することになった。",
-      "en": "The United Nations food agency is reducing food assistance to Gaza by one-third due to funding shortages"
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-19T08:48:21+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzVJMndwWHBXRktGQlNfZ0E5QVFxd191cHJqTXV5Z1FGeWpua0o4c09xak1pTHNsZ1NqdEpjQWlWZktiWTA2RjFFalBCTGxPVXk1eEtKLXViaXVGWlI5WThvT0JBNm1pX1U1di02WmN0VElCbFI1WDVKTWNKNWFROU1WaDVZdGlNX1NZSEFZbVdwUi1kZHg2NnRrRzY3dTJRREV6N0dhWTFJcDhfSEItYXZ3?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "un_wfp_gaza_aid_reduction_2026-10-19"
-  },
-  {
-    "id": "auto-18872",
-    "headline": {
-      "ja": "ロシア、キーウ攻撃でミサイル貯蔵施設とデータセンターに命中と発表",
-      "en": "ロシア、キーウ攻撃でミサイル貯蔵施設とデータセンターに命中と発表"
-    },
-    "summary": {
-      "ja": "ロシア当局は、キーウを対象とした大規模ミサイル攻撃を実施し、ミサイル貯蔵施設やデータセンターに命中したと発表した。",
-      "en": "ロシア当局は、キーウを対象とした大規模ミサイル攻撃を実施し、ミサイル貯蔵施設やデータセンターに命中したと発表した。"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-19T08:21:51+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByUW5wdlppcm9OMXNQc0M0QkNRVUI1Rk1SWm1zc182V2JDYVFrUFQtRkNLWjdHdEJ0TU9xX3BnLU9VMU5XMnNocNIBTkFVX3lxTFBvZEtLSVI1S0ZvU1hWcE5ZcFlzc0ZRTldDVGctQWxZaEZKZEtFTmF6SXhqS3JnZGJvVGFpYlZrR0NwZDdSU25ES2RUTks0QQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_ukraine_kyiv_attack_2026-10-19",
-    "severity": 4
-  },
-  {
-    "id": "auto-17909",
-    "headline": {
-      "ja": "ウクライナ、ロシアへ1000機以上のドローン攻撃 石油施設に火",
-      "en": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze"
-    },
-    "summary": {
-      "ja": "ウクライナは戦争中最大規模となる1000機以上のドローン攻撃をロシアに対して実施し、石油施設に火をつけた。キーウとワシントン間の緊張関係の高まりの中での攻撃である。",
-      "en": "Ukraine conducted its largest drone attack of the war with over 1,000 drones against Russia, resulting in fires at oil facilities. The attack occurred amid rising tensions between Kyiv and Washington."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 59.9386,
-    "lon": 30.3141,
-    "occurredAt": "2026-10-19T02:10:09+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russia_major_drone_attack_2026-10-19"
   }
 ]
