@@ -23,6 +23,52 @@
     "eventKey": "ukraine_patriot_nasams_us_approval_2026-10-26"
   },
   {
+    "id": "auto-31441",
+    "headline": {
+      "ja": "スーダンの発電所がドローン攻撃を受ける",
+      "en": "Drone attacks on power stations in Sudan cause outages in 4 states"
+    },
+    "summary": {
+      "ja": "スーダンの複数の発電所がドローン攻撃を受け、4つの州で電力供給が遮断された。",
+      "en": "Multiple power stations in Sudan were attacked by drones, causing power outages in four states."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-26T12:36:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHF5NUp3aFZldUZkeU5XNDVuV3BYYlBoUUREeEotS0prZEJlR2prZTFMRXNUaG5TS3pwQTdOeGM4RG1hazhiUVNUY3g3NlE5U2FiczBBamZSdDZRODk0OWZOcHFJclFJQXd6eHRpaWhCbDFpQS1EOFhELTFkZHJ6VlROdVdaUQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_power_station_drone_attacks_2026-10"
+  },
+  {
+    "id": "auto-31444",
+    "headline": {
+      "ja": "ウクライナ大統領が戒厳令延長を要請",
+      "en": "Ukrainian president asks parliament to extend martial law"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領が議会に対し、現在施行中の戒厳令の延長を要請した。",
+      "en": "The Ukrainian president requested parliament to extend the current martial law."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-26T11:15:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmt1VlM5NnVmeU9yOWIySGc4RXltR0tBb3d3NjNzMzF5QTE1dTdEaGRTNi10aEZvWGhodDBwN3dDV19QaFZtemRoOS1QU2JDVzJwdDZzQkRqMWNXamFUUVN5M0I5aGR6VmZyV04wRUxJUUFPZkVsSUxEbkhuTVpqRFdjZ2ktUQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_martial_law_extension_2026-10"
+  },
+  {
     "id": "auto-30833",
     "headline": {
       "ja": "ロシア海軍がボレイ級潜水艦からブラヴァ大陸間弾道ミサイル発射を予定と報告",
@@ -3206,121 +3252,5 @@
     "auto": true,
     "eventKey": "sudan_drone_attacks_casualties_2026-10-19",
     "severity": 4
-  },
-  {
-    "id": "auto-19478",
-    "headline": {
-      "ja": "ウクライナ大統領顧問、米国の情報共有制限でウクライナ国民が死亡していると指摘",
-      "en": "Ukraine's presidential adviser claims US intelligence restrictions leading to Ukrainian casualties"
-    },
-    "summary": {
-      "ja": "ゼレンスキー大統領の顧問セルヒー・ベスクレスノフは、米国が情報共有を制限しているため、ウクライナ国民が十分な警告時間を得られず死亡していると述べた。",
-      "en": "Presidential adviser Serhii Beskrestnov stated that Ukrainian civilians are dying because the US is restricting intelligence sharing and providing insufficient warning time."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-19T20:49:00+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_us_intelligence_sharing_2026-10-19"
-  },
-  {
-    "id": "auto-19795",
-    "headline": {
-      "ja": "サウジ、フーシ派の攻撃継続を非難",
-      "en": "Saudi Arabia Condemns Continuation of Houthi Terrorist Attacks"
-    },
-    "summary": {
-      "ja": "サウジアラビア政府とUAE政府は、イエメンのフーシ派によるサウジアラビアへのテロ攻撃の継続を非難する声明を発表した。",
-      "en": "Saudi Arabia and UAE condemn continued Houthi terrorist attacks on Saudi Arabia"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-19T18:47:09+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92Q19QOEtLT1Z4bFVwZS1GVVJMWVVLcjhxY0ZTM1Nfa2VQWlI5UjFRTi1CX1JUTjJJU3hXb3FiNF9nVmdyamRySGtB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_houthi_attacks_oct2026"
-  },
-  {
-    "id": "auto-19524",
-    "headline": {
-      "ja": "イスラエル国防軍参謀総長、全面動員の導入を発表",
-      "en": "IDF Chief of General Staff announces full mobilization of Israeli military"
-    },
-    "summary": {
-      "ja": "イスラエル国防軍の参謀総長は国防軍の全面動員を導入すると発表した。",
-      "en": "The Chief of the General Staff of the Israeli Defense Forces announced the introduction of full mobilization of the military."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-19T17:46:55+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20556"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "israel_idf_mobilization_2026-10-19",
-    "severity": 4
-  },
-  {
-    "id": "auto-19253",
-    "headline": {
-      "ja": "イエメン訓練キャンプへのミサイル攻撃で50人が殺害",
-      "en": "Houthi missile strike on Yemen camp kills 50 security recruits"
-    },
-    "summary": {
-      "ja": "イエメン南部Shabwa州の政府支配地域の訓練センターが3発のミサイルで攻撃され、新兵50人が殺害されたと報じられている。",
-      "en": "Three missiles hit a training facility in government-controlled Shabwa province, killing 50 security recruits according to local authorities."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-19T16:20:51+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_shabwa_missile_strike_2026-10-19"
-  },
-  {
-    "id": "auto-19254",
-    "headline": {
-      "ja": "ガザで食糧危機悪化、WFP支援削減",
-      "en": "Gaza faces worsening hunger as World Food Programme cuts aid"
-    },
-    "summary": {
-      "ja": "資金不足のため、世界食糧計画(WFP)はガザへの食糧援助の一部停止を余儀なくされ、人道的危機が深刻化している。",
-      "en": "Funding shortages force the World Food Programme to suspend food assistance in Gaza, worsening the humanitarian crisis"
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-19T16:06:57+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_food_aid_wfp_cuts_2026-10-19"
   }
 ]
