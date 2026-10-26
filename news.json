@@ -500,5 +500,28 @@
       "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-26-07",
+    "headline": {
+      "ja": "フーシ派、リヤド空港再開直後に再攻撃 サウジ主導軍はサナアへ報復空爆",
+      "en": "Houthis strike Riyadh airport again just after reopening; Saudi-led coalition retaliates with strikes on Sanaa"
+    },
+    "summary": {
+      "ja": "Al Jazeeraのライブブログ(10/26)によると、イエメンのフーシ派は10/25夜〜10/26、サウジアラビアに向けて3波にわたり弾道ミサイル数十発を発射したと主張し、第1波はリヤドのキング・ハーリド国際空港を狙い「目的を達成した」と主張しているという。サウジ主導連合軍は、ミサイル12発・ドローン2機を迎撃・破壊したと発表した。これに対しサウジ主導連合軍は報復として、フーシ派支配下のサナアへの空爆を実施し、弾道ミサイル発射台とトンネルを破壊したと発表したという。同空港は10/9以降の攻撃による約2週間の閉鎖を経て10/25に運航を再開した直後だった(既報id: 2026-10-26-03)。フーシ派は本件を前日のサウジ主導連合軍によるサナア・ホデイダ空爆への報復と説明しているという。一部メディアはフーシ派系メディアの発表として、サウジ側の空爆でサナア・ホデイダで11〜16人が死亡したと伝えているが、独立した確認は取れていない。[信頼性: 中](ミサイル・ドローンの発射数・迎撃数、サナアへの報復空爆の実施自体はサウジ側・フーシ派側双方の発表が一致しているが、死者数の詳細は未確認情報)",
+      "en": "According to an Al Jazeera live blog (Oct 26), Yemen's Houthis fired dozens of ballistic missiles in three waves toward Saudi Arabia overnight Oct 25-26, claiming the first wave targeted Riyadh's King Khalid International Airport and \"successfully achieved its objective.\" The Saudi-led coalition said it intercepted and destroyed 12 missiles and 2 drones. In retaliation, the coalition carried out air strikes on Houthi-held Sanaa, saying it destroyed ballistic missile launchers and tunnels. The airport had resumed flights on Oct 25 (previously reported id: 2026-10-26-03) after about two weeks of closure following earlier attacks. The Houthis described this round as retaliation for coalition air strikes on Sanaa and Hodeida the previous day. Some outlets, citing Houthi-affiliated media, reported 11-16 people killed in Sanaa and Hodeida from the coalition strikes, though this could not be independently verified. [Reliability: Medium] (The missile/drone counts and the retaliatory strikes on Sanaa are confirmed by statements from both sides, but the detailed death toll remains unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "サナア(イエメンの首都、フーシ派支配地域)",
+    "lat": 15.3694,
+    "lon": 44.191,
+    "occurredAt": "2026-10-26T02:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron"
+    },
+    "reliability": "medium",
+    "severity": 4
   }
 ]
