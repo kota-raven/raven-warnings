@@ -3455,28 +3455,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "sudan_drone_strikes_un_condemn_oct2026"
-  },
-  {
-    "id": "auto-22121",
-    "headline": {
-      "ja": "ポーランド政府がウクライナへのパトリオット・ミサイル供給不可と発表",
-      "en": "Poland announces inability to supply Patriot missiles to Ukraine"
-    },
-    "summary": {
-      "ja": "ポーランド政府が、ウクライナへのPatriotミサイルの供給ができないと発表した。",
-      "en": "Poland announced it is unable to supply Patriot missiles to Ukraine."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-10-20T21:20:53+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWndzQjJ3dGlOanV5dlBjRUEybDZDZENIU09Kd3BUOWlnb0o0dVc4LTEwMmQ2NjY0SUQ3OWROc0ZESHRFRWNaMjd0dXpLRGZfZFg1MFdza2dzeGRJS2twVU9XWWNwMVphWi03c3ZQenpWeU5VLVprNURGNUo0WEp0bzEtSS1NbXBVS2hhWnNJdWxnbTUzcEpUUXFLVS1zR0JON2s1clN3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_ukraine_patriot_denial_2026-10-20"
   }
 ]
