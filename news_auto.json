@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-32253",
+    "headline": {
+      "ja": "@rybarアカウントで、ロシア軍がキーウ、ハリコフへの大規模攻撃を実施したという投稿があった",
+      "en": "@rybar account posted about Russian military conducting massive attacks on Kyiv and Kharkiv"
+    },
+    "summary": {
+      "ja": "@rybarアカウントで、ロシア軍がキーウとハリコフ地域への大規模な攻撃を実施したという投稿があった。南橋(Southern Bridge)が再び攻撃対象になったと記載されている。",
+      "en": "@rybar posted about Russian military conducting massive attacks on Kyiv and Kharkiv regions, mentioning that the Southern Bridge was struck again."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-27T09:03:00+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84205"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_kharkiv_russian_attack_2026-10-27"
+  },
+  {
+    "id": "auto-32084",
+    "headline": {
+      "ja": "ザポロージャ州でバスへのドローン攻撃で1人が死亡",
+      "en": "One Killed in Drone Attack on Bus in Zaporizhzhia Region"
+    },
+    "summary": {
+      "ja": "ウクライナ・ザポロージャ州で乗用バスへのドローン攻撃により1人が殺害されたと州知事が発表した。",
+      "en": "A drone attack on a passenger bus in Ukraine's Zaporizhzhia region killed one person, according to the regional governor."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.5161,
+    "lon": 35.3691,
+    "occurredAt": "2026-10-27T05:10:20+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRU5sSDVvcWJOWGc4VTJKLU5hWllkc1drdmpJQWdKRm8tclJpbkZZcjVXQmtFVk5QMlJPU0d5d1p2bXFLQ2RxWGRNT1rSAVJBVV95cUxOY05YSXpVdlJ2ZGFOSUN6VFpIZHZXZUlTMVNiLUM2US1sY2wtMG1KeDlNWkJ4NFktb1ZCS1FVcmNYNUtycS0yTEdab190ZEJUUGNn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_zaporizhzhia_bus_attack_2026-10-27"
+  },
+  {
+    "id": "auto-32347",
+    "headline": {
+      "ja": "ヨルダンの空爆でシリア南部で7人が殺害される",
+      "en": "Seven Killed in Jordanian Airstrikes on Southern Syria"
+    },
+    "summary": {
+      "ja": "ヨルダンはシリア南部への空爆を実施し、シリア当局によると7人が殺害された。調整の問題により被害がさらに拡大したと報じられている。",
+      "en": "Jordanian airstrikes on southern Syria resulted in seven deaths according to Syrian authorities, with reports indicating the toll was increased due to coordination issues."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-27T03:13:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PM0ZHYVlSN0JHbFVkUmhCczZMSWFxVHdqWGJRY1NOTW1IVUtxMkFSZTFWVXdPVm9TZ2Q5Qk1QX0RweUtDUmIwRTBJSzVMVklGSGQwOE1ySUhoZHhBUFN0RUFad09TYjEzR2VzdG1VVTIyNDZYcHJBN2R6N2I?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "syria_jordan_airstrikes_2026-10-27"
+  },
+  {
+    "id": "auto-31846",
+    "headline": {
+      "ja": "ヨルダンの空爆でシリア南部で民間人5人が殺害される",
+      "en": "Five Civilians Killed in Jordanian Airstrikes on Southern Syria"
+    },
+    "summary": {
+      "ja": "ヨルダンの空爆によりシリア南部で民間人5人が殺害されたと複数の国営メディアが報道した。",
+      "en": "Multiple state media outlets reported that five civilians were killed in Jordanian airstrikes on southern Syria."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-26T21:11:19+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXhTX2Riakt5d2JTY2xfa2piTDhISkhMWGFqN09HVU5fdXFJM1VIM0FZaEkyajBELUgxcG12R1RMbkVYSWdfMFRfV3NFSWdvNXJfMTFsUWhIeGhDaXY3b0Rfa1ZpNkg5N1BJRXJ2cGF1Z1RxdEU4enpNSHZ0ck9rWGpxRWNyRFlaOVdiRU1CalFnVDM0a0J4Y0hmRGJtVmZmSUhUc1JGelFYYnRH?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "syria_jordan_airstrikes_2026-10-26"
+  },
+  {
     "id": "auto-31194",
     "headline": {
       "ja": "ウクライナ大統領、パトリオット・NASAMSの米国からの供与承認を1か月待機中と表明",
@@ -229,6 +321,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "jenin_colonial_road_2026-10-26"
+  },
+  {
+    "id": "auto-31616",
+    "headline": {
+      "ja": "国連がロシアのウクライナ侵攻における戦争犯罪を認定",
+      "en": "UN Investigators Find Russia Committed War Crimes in Ukraine Invasion"
+    },
+    "summary": {
+      "ja": "国連の人権専門家がロシアによるウクライナへの全面侵攻において、民間人への攻撃と重要インフラの破壊を含む戦争犯罪および人道に対する罪を犯したと発表した。",
+      "en": "UN human rights experts investigating Russia's full-scale invasion of Ukraine stated that Russian authorities committed war crimes and crimes against humanity through attacks on civilians and vital energy infrastructure."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-26T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_war_crimes_investigation_2026-10-26",
+    "severity": 4
   },
   {
     "id": "auto-31185",
@@ -3643,100 +3759,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "north_korea_kim_jong_un_photos_oct2026"
-  },
-  {
-    "id": "auto-21439",
-    "headline": {
-      "ja": "フーシ派がイエメン政府支配地の兵営にミサイル攻撃、73人殺害",
-      "en": "Houthi missile strike on Yemen training camp kills 73 recruits"
-    },
-    "summary": {
-      "ja": "イエメンの反政府勢力フーシ派がシャブワ州の政府軍訓練センターへミサイル3発で攻撃し、採用予定者73人が殺害されたと報告された。",
-      "en": "Houthi forces launched a missile strike with three missiles against a government-controlled military training camp in Shabwa province, Yemen, killing 73 recruits according to local authorities."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-20T14:09:42+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthi_missile_attack_shabwa_2026-10-20",
-    "severity": 4
-  },
-  {
-    "id": "auto-21860",
-    "headline": {
-      "ja": "スーダン紛争がCAR に波及、国連が懸念",
-      "en": "UN Warns Against Early Peacekeeper Withdrawal as Sudan War Spills into CAR"
-    },
-    "summary": {
-      "ja": "スーダンの戦争が中央アフリカ共和国に波及する中、国連はPKO部隊の時期尚早な撤退に対して警告を発した。人道的危機の深刻化が懸念されている。",
-      "en": "UN warns against early withdrawal of peacekeepers as Sudan conflict expands into Central African Republic, deepening humanitarian crisis"
-    },
-    "category": "conflict",
-    "country": "中央アフリカ",
-    "lat": 4.3612,
-    "lon": 18.555,
-    "occurredAt": "2026-10-20T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_car_conflict_spillover_oct2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-21862",
-    "headline": {
-      "ja": "アフガニスタンで飢饉寸前の危機",
-      "en": "Afghanistan Faces Severe Hunger Crisis with Food Available but Inaccessible"
-    },
-    "summary": {
-      "ja": "アフガニスタンでは食糧が流通しているにもかかわらず、数百万人が入手できない深刻な飢餓危機に直面している。経済的制裁と政治的混乱が原因。",
-      "en": "Afghanistan faces severe hunger crisis as millions lack access to available food due to economic sanctions and political instability"
-    },
-    "category": "disaster",
-    "country": "アフガニスタン",
-    "lat": 34.5281,
-    "lon": 69.1723,
-    "occurredAt": "2026-10-20T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168631"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "afghanistan_hunger_crisis_2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-20942",
-    "headline": {
-      "ja": "英国、フーシ派の攻撃からサウジアラビアを防衛するためタイフーン戦闘機を配置",
-      "en": "UK to Deploy Typhoon Jets to Help Defend Saudi Arabia from Houthi Attacks"
-    },
-    "summary": {
-      "ja": "英国国防省は、フーシ派の攻撃からサウジアラビアを防衛するため、タイフーン戦闘機をサウジアラビアに配置すると発表した。",
-      "en": "The UK Ministry of Defence announced the deployment of Typhoon fighter jets to Saudi Arabia for defensive operations against Houthi attacks."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-20T11:37:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "uk_typhoon_deployment_saudi_2026-10-20"
   }
 ]
