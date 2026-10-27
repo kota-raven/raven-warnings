@@ -1,93 +1,5 @@
 [
   {
-    "id": "2026-10-25-02",
-    "headline": {
-      "ja": "フーシ派、サウジアラビアとイエメン・アデンへ攻撃 サウジ治安当局「メッカ・メディナ方向へミサイル」、フーシ派は否定",
-      "en": "Houthis attack Saudi Arabia and Yemen's Aden; Saudi authorities say missiles fired toward Mecca and Medina, Houthis deny"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、イエメンのフーシ派(イラン支援)は10月24日、サウジアラビアとイエメン・アデン(国際的に承認されたイエメン政府の拠点)の両方を狙った一連の攻撃を行ったという。イエメン政府運輸省は、フーシ派がアデン国際空港に弾道ミサイル2発を発射したとし、今月に入って4回目の攻撃だと説明、沿岸警備隊本部なども被弾したとした。フーシ派側は、ナスル駐屯地とアデン海軍基地を狙ったと主張しているという。サウジアラビア側(民間防衛当局)は、フーシ派がメッカ・メディナ方向へ弾道ミサイル2発を発射したとし、サウジ通信(SPA)は同国内に落下した黒く焦げたミサイル状の物体の画像を公開したという。フーシ派側はメッカ・メディナを狙ったとの主張を「全くの虚偽」と否定し、標的はサウジ国内の空港3カ所・石油関連施設・空軍基地だったと主張しているという。このほかフーシ派は、サウジ主導連合軍の空爆によりサナアとホデイダで民間人が死亡したと主張しているが、この点は独立した確認ができていないという。[信頼性: 中](Al Jazeera報道に基づく。攻撃の発生自体は両政府の発表が一致するが、標的や被害の詳細は当事者間で主張が対立しており、独立した確証は得られていない)",
-      "en": "According to Al Jazeera, Yemen's Iran-aligned Houthi movement carried out a series of attacks on October 24 targeting both Saudi Arabia and Aden, the seat of Yemen's internationally recognized government. Yemen's Transport Ministry said the Houthis fired two ballistic missiles at Aden International Airport, the fourth such attack this month, and that the coastguard headquarters and another building were also hit; the Houthis claimed they targeted the al-Nasr camp and Aden's naval base. Saudi civil defense said the Houthis fired two ballistic missiles toward Mecca and Medina, and the Saudi Press Agency released images of a blackened, missile-shaped object that landed inside the kingdom. The Houthis called the claim about targeting the holy cities \"a complete lie,\" saying their targets were three Saudi airports, oil infrastructure and an air base. The Houthis also said Saudi coalition air strikes killed civilians in Sanaa and Hodeidah, a claim that could not be independently verified. [Reliability: Medium] (Based on Al Jazeera reporting; both governments agree an attack occurred, but the parties dispute the specific targets and damage, which are not independently confirmed.)"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "region": "アデン(暫定首都、政府支持派支配地域)",
-    "lat": 12.7855,
-    "lon": 45.0187,
-    "occurredAt": "2026-10-24T10:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-25-04",
-    "headline": {
-      "ja": "仏全土で生活費高騰への抗議デモ、推定41万人超 治安当局7万人超を配備",
-      "en": "Hundreds of thousands protest nationwide in France over cost of living; over 70,000 police deployed"
-    },
-    "summary": {
-      "ja": "France 24によると、10月24日(土)、フランス全土で生活費高騰等に抗議する大規模デモが行われたという。フランス内務省は全国で41万人が参加したとし、このうちパリでは11万人としたが、労働組合CGTは実際の人数は公式発表の2倍近いと主張しているという。内務省のヌニェス大臣は、全国で7万人超の警察官・憲兵を配備したと述べた。主要美術館を含むパリの施設の一部は、デモに備えて休館したという。[信頼性: 中](France 24の報道に基づく。参加人数は政府発表と主催者側の主張で大きく異なり、いずれも独立した確証ができる客観数値ではない)",
-      "en": "According to France 24, large-scale protests over the rising cost of living took place across France on Saturday, October 24. France's Interior Ministry said 410,000 people took part nationwide, including 110,000 in Paris, while the CGT union claimed the real turnout was nearly double the official figures. Interior Minister Laurent Nunez said more than 70,000 police officers and gendarmes were deployed nationwide. Some major Paris museums and other facilities closed ahead of the demonstrations. [Reliability: Medium] (Based on France 24 reporting; participant numbers differ significantly between the government's figures and organizers' claims, and neither is an independently verified objective count.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-24T10:00:00+00:00",
-    "source": {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-04",
-    "headline": {
-      "ja": "ウクライナ・ハルキウ州ロゾヴァへのロシア軍ミサイル攻撃で1人死亡",
-      "en": "Russian missile strike on Lozova, Kharkiv region, kills one in Ukraine"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ハルキウ州知事シニエフボフ氏は10/24(土)、同州ロゾヴァへのロシア軍ミサイル攻撃で男性1人が死亡、2人が負傷したと発表したという。既報(id: 2026-10-25-09)の夜間弾道ミサイル攻撃(キーウのエネルギー施設狙い)とは別の、同日の攻撃事案。",
-      "en": "According to Al Jazeera, Kharkiv region Governor Oleh Syniehubov said a Russian missile strike on Lozova in the region on Saturday, Oct 24, killed one man and wounded two others. This is a separate incident from the previously reported overnight ballistic missile attack on Kyiv-area energy facilities (id: 2026-10-25-09), occurring the same day."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ハルキウ州",
-    "lat": 48.8929,
-    "lon": 36.3297,
-    "occurredAt": "2026-10-24T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-05",
-    "headline": {
-      "ja": "ウクライナ・ドニプロペトロフスク州へのロシア軍ドローン攻撃で3人死亡・8人負傷",
-      "en": "Russian drone attack on Dnipropetrovsk region kills three, injures eight in Ukraine"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ドニプロペトロフスク州知事代理ハイヴァネンコ氏は10/24(土)、同州へのロシア軍ドローン攻撃で少なくとも3人が死亡、8人が負傷したと発表したという。ロゾヴァの攻撃(id: 2026-10-26-04)と同日の別地域での事案。",
-      "en": "According to Al Jazeera, acting Dnipropetrovsk region Governor Vladyslav Haivanenko said a Russian drone attack on the region on Saturday, Oct 24, killed at least three people and injured eight others. This occurred the same day as, but in a different region from, the Lozova strike (id: 2026-10-26-04)."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ドニプロペトロフスク州",
-    "lat": 48.4647,
-    "lon": 35.0462,
-    "occurredAt": "2026-10-24T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-25-01",
     "headline": {
       "ja": "トランプ米大統領、「日曜日にもイラン攻撃」の可能性に言及 イラン大統領は米側の交渉失敗を非難",
@@ -628,28 +540,6 @@
     "severity": 3
   },
   {
-    "id": "2026-10-27-09",
-    "headline": {
-      "ja": "コンゴ民主共和国、エボラ対応中の看護師が襲撃され死亡 保健当局者も負傷",
-      "en": "Nurse killed, health worker injured in attack on Ebola responders in DR Congo"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、WHOは、コンゴ民主共和国チョポ州バフワセンデで10/24(土)、エボラ疑い例への対応に当たっていた保健医療従事者が何者かに襲撃され、看護師1人が死亡、別の医療従事者1人が重傷を負ったと発表したという。WHO事務局長テドロス氏は本件を非難し、WHOアフリカ地域事務局長は医療従事者を攻撃対象にしてはならないと述べたという。地元当局は本報道時点で襲撃の詳細や実行者についてコメントしていないという。背景として、同国保健省のデータでは今年5月以降の今回のエボラ(ブンディブギョ株)流行による感染者は9,800人超・死者は4,700人超に達しているとされ、WHOは同流行がケニア・ナイジェリアにも拡大し「より複雑な流行状況」にあると警告している(ナイジェリアでは10月、ウガンダから入国した女性の感染が確認された)。[信頼性: 高](Al Jazeera報道およびWHOの発表に基づく。襲撃の実行者・動機は本報道時点で未確認)",
-      "en": "According to Al Jazeera, the WHO said a nurse was killed and another health worker seriously injured in an attack on Saturday, Oct 24, on responders investigating a suspected Ebola case in Bafwasende, Tshopo province, DR Congo. WHO Director-General Tedros condemned the attack, and the WHO's Africa regional director said health workers must not be targeted. Local authorities had not commented on the attack or any suspects as of this report. The outbreak (Bundibugyo strain), declared in May, has infected more than 9,800 people and killed more than 4,700 in DRC according to the health ministry, and the WHO has warned it has spread to Kenya and Nigeria (Nigeria confirmed its first case in October, in a woman who had travelled from Uganda), calling it a \"more complex\" outbreak landscape. [Reliability: High] (Based on Al Jazeera reporting and WHO statements; the identity and motive of the attackers remain unconfirmed at this time.)"
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "region": "チョポ州(バフワセンデ)",
-    "lat": 1.0103,
-    "lon": 27.1617,
-    "occurredAt": "2026-10-24T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-27-10",
     "headline": {
       "ja": "セルビア新議会、首相候補に心臓専門医スルダノヴィッチ氏が有力 「学生のリスト」単独過半数確定後",
@@ -691,5 +581,91 @@
     },
     "reliability": "medium",
     "severity": 3
+  },
+  {
+    "id": "2026-10-27-12",
+    "headline": {
+      "ja": "スーダン・ニャラの市場をドローン攻撃 21人死亡・40人負傷",
+      "en": "Drone strike on market in Sudan's Nyala kills 21, wounds 40"
+    },
+    "summary": {
+      "ja": "Al Jazeera(AFP通信)によると、10/26(月)夜8時頃(18時GMT)、スーダン・南ダルフール州ニャラ(RSFの事実上の拠点)北部の市場にドローン攻撃があり、医療関係者によれば少なくとも21人が死亡、40人が負傷したという。目撃者は市場にRSF戦闘員が多く出入りしていたと証言したという。推測:攻撃の実行主体を認めた当局・団体はなく、別のAl Jazeera報道では同日未明の攻撃による死者数を17人としており、死者数には報道間で差異がある。スーダン国軍はこれまでRSF拠点ニャラへの空爆を繰り返し実施している。",
+      "en": "According to Al Jazeera (citing AFP), a drone struck a market in the north of Nyala, the RSF's de facto stronghold in South Darfur, around 8pm (18:00 GMT) on Monday Oct. 26; medical sources said at least 21 people were killed and 40 wounded. A resident said the market was frequented by RSF fighters. Inference: no party has claimed responsibility, and a separate Al Jazeera report on an earlier strike the same day put the toll at 17, so death tolls vary between reports. Sudan's army has repeatedly struck the RSF stronghold of Nyala by air."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "region": "南ダルフール州・ニャラ",
+    "lat": 12.05,
+    "lon": 24.88,
+    "occurredAt": "2026-10-26T18:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-27-13",
+    "headline": {
+      "ja": "ブラジル右派ボルソナロ氏の政党、トランプ氏の「不正」主張にもかかわらず大統領選結果を受け入れ",
+      "en": "Bolsonaro's party accepts Brazil election result despite Trump's 'rigged' claim"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、ブラジル右派「自由党(PL)」のバウデマール・コスタネト党首は、ルラ氏勝利(既報id: 2026-10-26-08、得票差440万票超)が確定した大統領選の結果を党として受け入れる声明を出したという。一方、落選したフラビオ・ボルソナロ氏(候補者)本人はまだ正式には敗北を認めておらず、投票時間の延長を理由に結果を「受け入れられない」としているという。トランプ米大統領は選挙が「不正操作された(rigged)」可能性に言及したが、自身は「どちらの側にも立っていない」とも述べたという。推測:専門家は不正の主張に懐疑的で、投票時間延長による追加投票は全国で約3万5000票(全体の0.03%未満)に過ぎないとの分析がある。",
+      "en": "According to Al Jazeera, Valdemar Costa Neto, leader of Brazil's right-wing Liberal Party (PL), issued a statement saying his party accepts the result of the presidential election, which confirmed Lula's win (see id: 2026-10-26-08, a margin of over 4.4 million votes). However, defeated candidate Flavio Bolsonaro himself has not formally conceded, calling the result 'unacceptable' over a last-minute voting-hour extension. US President Trump suggested the vote may have been 'rigged,' while also saying he 'did not take sides.' Inference: experts are skeptical of the fraud claims, with one analysis finding the extension added only about 35,000 votes nationwide, less than 0.03% of the total."
+    },
+    "category": "conflict",
+    "country": "ブラジル",
+    "lat": -14.235,
+    "lon": -51.9253,
+    "occurredAt": "2026-10-27T10:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-14",
+    "headline": {
+      "ja": "エクアドル最大都市グアヤキルで豪雨による大規模な浸水",
+      "en": "Heavy rains cause massive flooding in Ecuador's largest city, Guayaquil"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、エクアドル最大都市グアヤキルで激しい豪雨により市内の広い範囲が浸水したという。同国沿岸部は、強まるエルニーニョ現象の影響で今回を含め相次いで暴風雨に見舞われているという。推測:現時点の報道は短い映像ニュースのみで、死者数や被害規模、当局による公式発表は確認できていない。",
+      "en": "According to Al Jazeera, parts of Guayaquil, Ecuador's largest city, are underwater after severe rains battered the coast, the latest in a series of storms to hit the country amid a strengthening El Nino. Inference: coverage so far is a brief video report only; no death toll, damage assessment, or official statement has been confirmed yet."
+    },
+    "category": "disaster",
+    "country": "エクアドル",
+    "region": "グアヤキル",
+    "lat": -2.1894,
+    "lon": -79.8891,
+    "occurredAt": "2026-10-27T13:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-27-15",
+    "headline": {
+      "ja": "中国の工業部門利益、9月は前年比14.4%増 AI関連が押し上げ、内需の弱さとの格差拡大",
+      "en": "China's industrial profits rise 14.4% in September, AI boom widens divide with weak domestic demand"
+    },
+    "summary": {
+      "ja": "CNBCによると、中国国家統計局が発表したデータで、主要工業企業の利益が9月に前年同月比14.4%増加し、1〜9月累計でも15.5%増となったという。電子特殊材料メーカーの利益は3倍超、半導体製造装置メーカーは51.7%増となるなど、AI・半導体関連の伸びが目立つ一方、衣料品・自動車・家具など消費関連業種の利益は振るわないという。9月の集積回路(IC)輸出額は前年比136%増(輸出量は1%増のみ)で、同月の貿易収支は過去最高の1335億ドルの黒字になったという。推測:Oxford EconomicsのShena Yue氏は「輸出の強さだけでは内需の弱さを完全に補えない」と指摘しているという。",
+      "en": "According to CNBC, data released by China's National Bureau of Statistics showed profits at large industrial firms rose 14.4% year-on-year in September, and 15.5% for the January-September period. Gains were concentrated in AI- and chip-related sectors — electronic special materials makers' profits more than tripled and semiconductor equipment makers rose 51.7% — while consumer-related sectors such as clothing, autos and furniture lagged. September integrated-circuit export values rose 136% year-on-year (volumes up just 1%), and the trade surplus hit a record monthly high of $133.5 billion. Inference: Oxford Economics' Shena Yue said China's export strength cannot fully offset domestic weakness."
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "occurredAt": "2026-10-27T02:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
+    },
+    "reliability": "high"
   }
 ]
