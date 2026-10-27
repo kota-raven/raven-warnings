@@ -1,95 +1,5 @@
 [
   {
-    "id": "2026-10-24-05",
-    "headline": {
-      "ja": "イスラエル、ヘブロンで複数日に及ぶ軍事作戦を開始 国防相「地区全体の退去」方針を表明",
-      "en": "Israel launches multi-day military operation in Hebron; defense minister vows to evacuate entire neighborhood"
-    },
-    "summary": {
-      "ja": "10月23日夜、ヨルダン川西岸ヘブロンでの銃撃事件(イスラエル兵2人死亡、既報id: 2026-10-24-01)を受け、イスラエル軍とシンベットが銃撃犯の出身地区を対象に「複数日間」継続するとされる軍事作戦を開始したという。住民は検問を経て3カ所の出口からのみ退出可能とされ、軍は現場周辺の「違法建築物」の破壊を実施しているという。カッツ国防相は、銃撃犯が出たヘブロンの地区全体の住民退去を進める方針を表明し、ネタニヤフ首相も作戦・破壊の拡大を明言したという。来週に総選挙を控える中での動き。",
-      "en": "Following the October 23 night shooting attack in Hebron that killed two Israeli soldiers (previously reported, id: 2026-10-24-01), the Israeli military and Shin Bet reportedly launched a military operation in the gunmen's home neighborhood expected to last 'several days.' Residents can reportedly leave only through three designated checkpoints after screening, and troops are reportedly demolishing 'illegal structures' near the attack site. Defense Minister Katz reportedly said the entire neighborhood would be evacuated, and Netanyahu reportedly vowed to expand the operation and demolitions, days ahead of Israel's parliamentary election."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヘブロン",
-    "lat": 31.5326,
-    "lon": 35.0998,
-    "occurredAt": "2026-10-23T21:00:00+00:00",
-    "source": {
-      "name": "The Japan Times / Haaretz",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/world/israel-west-bank-operation/"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-24-03",
-    "headline": {
-      "ja": "WHO、コンゴ民主共和国のエボラ出血熱でワクチン臨床試験開始を発表 感染9,700人超・死者4,600人超",
-      "en": "WHO announces start of Ebola vaccine clinical trial in DR Congo as cases top 9,700, deaths exceed 4,600"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、世界保健機関(WHO)は10月24日、コンゴ民主共和国(DRC)で続くエボラ出血熱(ブンディブギョ株)流行に対する初のワクチン臨床試験「Tumaini」の開始を発表した。イトゥリ州の州都ブニアで参加者への接種が始まったという。同株には承認されたワクチンがなく、既存のエボラワクチン「Ervebo」(主にザイール株向け)が交差免疫を持つかを検証する。DRCは本流行(同国にとって過去最悪規模の17回目の流行、5月に宣言)で、感染者数が9,700人超、死者数が4,600人超に達したと報じられており、WHOは「国際的に懸念される公衆衛生上の緊急事態(PHEIC)」(警戒レベルとしては2番目に高い)を発令しているという。[信頼性: 中](Al Jazeeraの報道に基づく。感染者数・死者数の具体的な数字についてはWHO公式発表文での直接確認はできていない)",
-      "en": "According to Al Jazeera, the World Health Organization announced on October 24 the start of 'Tumaini,' the first clinical trial of an Ebola vaccine against the Bundibugyo-strain outbreak ongoing in the Democratic Republic of the Congo (DRC), with vaccinations beginning in Bunia, the capital of Ituri province. No vaccine is approved against the Bundibugyo strain; the trial will test whether the existing Ervebo vaccine (developed mainly for the Zaire strain) provides cross-protection. The outbreak -- the DRC's 17th and worst-ever, declared in May -- has reportedly reached more than 9,700 cases and over 4,600 deaths, and the WHO has declared a Public Health Emergency of International Concern (PHEIC), its second-highest alert level. [Reliability: Medium] (Based on Al Jazeera reporting; the specific case and death counts have not been independently confirmed against an official WHO statement.)"
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "region": "イトゥリ州",
-    "lat": 1.5667,
-    "lon": 30.25,
-    "occurredAt": "2026-10-24T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-26-06",
-    "headline": {
-      "ja": "原油価格、ブレント117ドルまで上昇 4月以来の高値 フーシ派のサウジ関連タンカー攻撃が背景",
-      "en": "Brent crude climbs to $117, highest since April, as Houthi attacks on Saudi-linked tankers add to market pressure"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ホルムズ海峡でのイラン関連の緊張に加え、フーシ派がサウジアラビアに対する海上封鎖を宣言し、紅海でサウジ関連の2隻のタンカー(Encelia、Layla)への攻撃を主張したことを受け、ブレント原油先物は1バレル約117ドルまで上昇し4月以来の高値となったという。海上保険料(戦争リスク保険料)も過去5年平均の4倍程度に上昇しているとの分析があるという。",
-      "en": "According to Al Jazeera, Brent crude futures rose to about $117 a barrel, the highest since April, amid Iran-related tension in the Strait of Hormuz and after Houthi forces declared a naval blockade against Saudi Arabia and claimed attacks on two Saudi-linked oil tankers (the Encelia and the Layla) in the Red Sea. Analysts cited war-risk shipping insurance premiums running at roughly four times their five-year average."
-    },
-    "category": "economy",
-    "country": "イエメン",
-    "region": "紅海",
-    "lat": 20.0,
-    "lon": 38.0,
-    "occurredAt": "2026-10-24T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-25-09",
-    "headline": {
-      "ja": "ロシア、ウクライナへ弾道ミサイル約30発で夜間攻撃 エネルギー施設を狙い首都キーウで6人負傷",
-      "en": "Russia fires around 30 ballistic missiles at Ukraine overnight, targeting energy infrastructure; six hurt in Kyiv"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ロシアは10月23日深夜から24日にかけ、弾道ミサイル約30発でウクライナへの夜間攻撃を行い、エネルギー関連施設を狙ったという。キーウ市のクリチコ市長によると、同市内で6人が負傷した。ロシア国防省は、首都キーウの発電・熱供給施設2カ所、近郊の施設2カ所、変電所1カ所を攻撃したと発表しているという。ウクライナのゼレンスキー大統領は、トランプ米大統領が10月11日に発表したエネルギー施設への攻撃停止(「エネルギー停戦」)にもかかわらず、それ以降もエネルギー関連施設への攻撃が170回以上行われたと述べているという。ウクライナ側も同時期にロシア・トリヤッチ石油化学工場やオムスクの石油化学工場・倉庫などへの攻撃を行ったと主張しているという。[信頼性: 高](Al Jazeeraの報道に基づく。キーウ市長の負傷者数発表は公式発表だが、ロシア側・ウクライナ側双方の攻撃対象の性格〈軍事関連か否か〉については双方の主張が対立している)",
-      "en": "According to Al Jazeera, Russia launched an overnight attack on Ukraine using around 30 ballistic missiles between late October 23 and October 24, targeting energy infrastructure. Kyiv Mayor Vitali Klitschko said six people were injured in the capital. Russia's Defence Ministry said it struck two power and heating plants in Kyiv, two more facilities in the wider region, and an electricity substation. Ukrainian President Volodymyr Zelenskyy has said there have been more than 170 strikes on Ukraine's energy infrastructure since President Trump declared an \"energy ceasefire\" on October 11. Ukraine, for its part, claimed strikes around the same time on a petrochemical plant in Russia's Togliatti and a petrochemical plant and warehouse in Omsk. [Reliability: High] (Based on Al Jazeera reporting; the casualty figure from Kyiv's mayor is an official statement, though Russia and Ukraine dispute whether each side's targets were military in nature.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-10-24T01:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-25-02",
     "headline": {
       "ja": "フーシ派、サウジアラビアとイエメン・アデンへ攻撃 サウジ治安当局「メッカ・メディナ方向へミサイル」、フーシ派は否定",
@@ -626,6 +536,93 @@
     "source": {
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/10/26/brazil-stocks-neoclouds-selloff.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-04",
+    "headline": {
+      "ja": "ロシア軍、キーウへ弾道ミサイル攻撃 1人死亡・10人負傷、大学構内に被弾",
+      "en": "Russian ballistic missiles hit Kyiv, killing 1 and injuring 10; university campus struck"
+    },
+    "summary": {
+      "ja": "Kyiv Independentによると、10月26日夜(現地時間)、ロシア軍がキーウへ弾道ミサイルで攻撃し、ゼレンスキー大統領側によれば1人死亡・10人負傷、大学構内を含む複数地点に着弾したという。同紙記者は10月27日未明(現地時間3時頃)にも新たな弾道ミサイルの飛来を確認したという。",
+      "en": "According to the Kyiv Independent, Russian ballistic missiles struck Kyiv overnight on Oct. 26 (local time); President Zelensky's office said one person was killed and 10 injured, with a university campus among the sites hit. The outlet's reporters said a new wave of missiles was observed around 3 a.m. local time on Oct. 27."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-10-26T22:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-05",
+    "headline": {
+      "ja": "ウクライナ軍、露エレツの電池工場を攻撃 参謀本部が発表",
+      "en": "Ukraine strikes Russian battery plant in Yelets, General Staff says"
+    },
+    "summary": {
+      "ja": "Kyiv Independentによると、ウクライナ軍参謀本部は10月26日、露リペツク州エレツ市にあるミサイル・爆弾用電池を製造する「エネルギヤ」工場を夜間に攻撃し、火災が発生したと発表したという。同紙は別途、露オムスク州(ウクライナ国境から約2,500km)の石油化学プラントとオゾン倉庫への攻撃についても、ウクライナの監視チャンネルの情報として報じているが、同件は独自に確認できていないとしている。",
+      "en": "According to the Kyiv Independent, Ukraine's General Staff said on Oct. 26 that it struck the Energia plant, which produces batteries for missiles and bombs, in Yelets, Russia's Lipetsk region, overnight, sparking a fire. The outlet separately reported Ukrainian drone strikes on a petrochemical plant and an Ozon warehouse in Russia's Omsk region (about 2,500 km from the border), citing a Ukrainian monitoring channel; this claim could not be independently confirmed."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "region": "リペツク州(エレツ)",
+    "lat": 52.6031,
+    "lon": 38.4947,
+    "occurredAt": "2026-10-26T01:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-strikes-russian-plant-producing-missile-and-bomb-batteries-in-yelets-general-staff-says/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-06",
+    "headline": {
+      "ja": "スーダン全土でドローン攻撃が激化、短期間で160人超死亡 西コルドファンの市場付近攻撃が最多",
+      "en": "Drone attacks escalate across Sudan, killing over 160 in a short span; deadliest strike hits West Kordofan market area"
+    },
+    "summary": {
+      "ja": "推測:正確な発生日は特定できないが、Al Jazeera(10月22日付)によると、医療関係者・人権団体の情報として、スーダン全土でのドローン攻撃により「最近数日間」で160人超が死亡したという。最多の被害は西コルドファン州アッダッバの市場付近で、RSF(即応支援部隊)によるとされる攻撃で輸送拠点に集まっていた民間人80人が死亡したという。ブルーネイル州でも避難民の集まりへの攻撃で41人が死亡したとされる。一方、同月22日未明にはスーダン国軍によるドローン攻撃がRSF拠点のニヤラで17人を死亡させたとも報じられている。死者数・実行主体の特定は現地情報源によるもので、独立した検証はできていないという。",
+      "en": "Speculation: the exact date could not be pinned down, but according to Al Jazeera (Oct. 22), citing medics and rights groups, drone attacks across Sudan killed more than 160 people 'in recent days.' The deadliest, reportedly by the RSF paramilitary, hit a transport hub near a market in al-Dabba, West Kordofan, killing 80 civilians. A separate strike on displaced people in Blue Nile state reportedly killed 41. The report also says an army drone strike hit the RSF stronghold of Nyala early on Oct. 22, killing 17. Casualty figures and attribution rely on local sources and could not be independently verified."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "region": "西コルドファン州・ブルーネイル州",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "occurredAt": "2026-10-21T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-27-07",
+    "headline": {
+      "ja": "金価格、4カ月ぶり安値圏に 6月以来最悪の週、原油高と利上げ観測が背景",
+      "en": "Gold slides to lowest in months in worst week since June, as oil rally fuels rate-hike bets"
+    },
+    "summary": {
+      "ja": "CNBCによると、金(スポット)は10月23日(金)に7月中旬以来初めて1オンス=4,000ドルを下回り、週間では6月以来最悪の約4%下落となったという。10月26日朝(米東部時間9時)時点でも1オンス=4,015.37ドル前後とほぼ同水準だという。原油価格の上昇がインフレ懸念とFRBの利上げ観測(CME FedWatchで12月利上げ確率約80%)を強めたことが背景とされ、ハイテク株急落に伴う追加担保差し入れ(マージンコール)で投資家が金・銀を売却した面もあるとの分析もあるという。FRBは10月27-28日に会合を開く。",
+      "en": "According to CNBC, spot gold fell below $4,000 an ounce on Oct. 23 for the first time since mid-July, down about 4% on the week in its worst week since June, and was still around $4,015.37 as of 9 a.m. ET on Oct. 26. The move is attributed to rising oil prices fueling inflation worries and Fed rate-hike bets (CME FedWatch pricing roughly an 80% chance of a December hike), with some analysts also citing margin calls from a tech-stock selloff prompting investors to sell gold and silver. The Fed meets Oct. 27-28."
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-26T13:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
     },
     "reliability": "high"
   }
