@@ -1,241 +1,5 @@
 [
   {
-    "id": "2026-10-25-01",
-    "headline": {
-      "ja": "トランプ米大統領、「日曜日にもイラン攻撃」の可能性に言及 イラン大統領は米側の交渉失敗を非難",
-      "en": "Trump says US considers possible Sunday attack on Iran, or a deal; Iranian president blames US for collapse of talks"
-    },
-    "summary": {
-      "ja": "Al Jazeeraのライブブログ(10月25日)によると、トランプ米大統領は、米国が早ければ日曜日にもイランへの攻撃を検討していること、またはイランとの大型の合意に達する可能性があることに言及したという。これに先立つ報道では、イランのペゼシュキアン大統領が、6月の戦闘終結・ホルムズ海峡再開に関する米イラン覚書(8月に失効)をめぐる協議決裂の責任は米国にあると非難する一方、合意妥結へ改めて取り組むべきだとも述べたとされる。背景として、イラン軍参謀総長は米軍のペルシャ湾への展開を「いかなる状況でも認めない」と述べ、イラン側はホルムズ海峡で7隻の船舶が被害を受けたとして米側に警告しているという。トランプ氏自身も10月23日(金)、2月末開始の米・イスラエル対イラン戦争の作戦名「エピック・フューリー」を再び実施する可能性に言及したとされる。[信頼性: 中](Al Jazeeraの報道に基づく。トランプ氏・ペゼシュキアン氏それぞれの発言自体は確実だが、「日曜日の攻撃」自体は検討段階の言及であり、実際に攻撃が行われるかは未確定)",
-      "en": "According to an Al Jazeera live blog (October 25), Trump said the US is considering a possible attack on Iran as soon as Sunday, or could instead reach a major deal with Tehran. Earlier reports said Iranian President Masoud Pezeshkian blamed Washington for the breakdown of talks over the June memorandum that had ended the fighting and reopened the Strait of Hormuz (which expired in August), while also saying both sides should work to conclude an agreement. Iran's armed forces chief of staff has said the US military will not be allowed in the Gulf \"under any circumstances,\" and Iran says seven vessels have been hit in the Strait of Hormuz, warning of a wider response. Trump himself reportedly said on Friday, October 23, that he \"may do another Epic Fury,\" the codename for the US-Israeli operation against Iran that began February 28. [Reliability: Medium] (Based on Al Jazeera reporting. The statements themselves by Trump and Pezeshkian are reliable as their own remarks, but the \"Sunday attack\" remains at the consideration stage and whether an attack will actually occur is unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-24T15:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
-    "id": "2026-10-25-07",
-    "headline": {
-      "ja": "フランス各地の生活費高騰デモ、衝突に発展 8都市で催涙ガス、拘束者1,000人近くに",
-      "en": "France cost-of-living protests turn violent in multiple cities; nearly 1,000 arrested, tear gas used in 8 cities"
-    },
-    "summary": {
-      "ja": "France 24・Al Jazeeraによると、10月24日(土)に行われた生活費高騰への抗議デモ(既報id: 2026-10-25-04)は、パリ、マルセイユ、リヨン、ボルドー、リール、トゥールーズ、モンペリエ、ナントなど少なくとも8都市で治安部隊による催涙ガス使用を伴う衝突に発展したという。内務省のヌニェス大臣は、全国で7万人の治安部隊を配備したにもかかわらず、一部の「黒装束の過激派」による「極めて高いレベルの暴力」があったと述べ、全国で拘束者が1,000人近くに達したとされる。パリではポルト・ド・ヴァンセンヌ付近で一部の参加者が投石し、治安部隊が催涙ガス・放水で応じたという。トゥールーズの男性を含む2人が重傷を負ったとされる。これは前週(10月17〜18日)に起きたより大規模な暴動(逮捕者2,397人、負傷した警官997人)に続くもの。[信頼性: 高](France 24・Al Jazeeraの報道に基づく。内務省発表の拘束者数等は公式発表だが、主催者側は参加人数等について政府発表と異なる主張をしている)",
-      "en": "According to France 24 and Al Jazeera, Saturday's October 24 cost-of-living protests (see earlier report id: 2026-10-25-04) turned violent in at least eight cities -- Paris, Marseille, Lyon, Bordeaux, Lille, Toulouse, Montpellier and Nantes -- where riot police used tear gas. Interior Minister Laurent Nunez said that despite deploying 70,000 security personnel nationwide, there was an \"extremely elevated level of violence\" from some \"black-clad extremists,\" and that nearly 1,000 people were arrested nationwide. In Paris, some protesters threw projectiles near Porte de Vincennes and police responded with tear gas and water cannon. Two people, including a man in Toulouse, were reportedly seriously injured. This follows larger rioting the previous weekend (October 17-18) that saw 2,397 arrests and 997 police officers injured. [Reliability: High] (Based on France 24 and Al Jazeera reporting; the arrest figures come from the Interior Ministry's own statement, though organizers dispute the government's turnout figures.)"
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-24T20:30:00+00:00",
-    "source": {
-      "name": "France 24 / Al Jazeera",
-      "url": "https://www.france24.com/en/live-news/20261024-french-police-fire-tear-gas-during-fresh-protests"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-25-08",
-    "headline": {
-      "ja": "イスラエル、総選挙(27日)に向けヨルダン川西岸との検問所を全面閉鎖へ ヘブロン地区封鎖は継続",
-      "en": "Israel to fully close West Bank crossings ahead of Tuesday's election; Hebron lockdown continues"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、イスラエル軍は10月25日(日)早朝の発表で、10月27日(火)の総選挙に向け、25日から26日まではパレスチナ人労働者の西岸地区大部分への入域を禁止し、投票日の27日には西岸地区との検問所を完全に閉鎖すると明らかにしたという。これは、23日のヘブロン近郊での銃撃事件(イスラエル兵2人死亡、既報id: 2026-10-24-01、2026-10-24-05)を受けたネタニヤフ首相の「完全封鎖」指示の一環で、カッツ国防相は該当地区の住民約2,000人が既に退去させられたと確認したという。イスラエル軍は作戦が複数日間続くとしている。パレスチナ当局はこの措置を「集団的処罰」だと非難しているという。[信頼性: 高](Al Jazeeraの報道に基づくイスラエル軍発表の内容。イスラエル軍の公式声明原文は本収集時点で直接確認できていない)",
-      "en": "According to Al Jazeera, the Israeli military said early Sunday, October 25, that it will bar Palestinian workers from entering most of the West Bank from Sunday through Monday ahead of Tuesday's October 27 election, and will fully close crossings into and out of the territory on election day itself. The move follows Prime Minister Netanyahu's order for a \"full lockdown\" of the West Bank after Friday's shooting near Hebron that killed two Israeli soldiers (see earlier reports id: 2026-10-24-01 and 2026-10-24-05); Defense Minister Israel Katz confirmed that about 2,000 residents of the affected neighborhood have already been displaced. The Israeli military said the operation would continue for several days. Palestinian officials have called the measures \"collective punishment.\" [Reliability: High] (Based on Al Jazeera's reporting of the Israeli military's statement; the original military statement itself could not be directly confirmed at the time of this collection.)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヘブロン(ヨルダン川西岸地区)",
-    "lat": 31.5326,
-    "lon": 35.0998,
-    "occurredAt": "2026-10-25T02:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-25-06",
-    "headline": {
-      "ja": "フーシ派、リヤド狙いの弾道ミサイルをサウジ主導軍が撃墜 フーシ派はリヤド国際空港を「軍事目標」と警告",
-      "en": "Saudi-led coalition downs Houthi missile aimed at Riyadh; Houthis warn Riyadh airport is unsafe military target"
-    },
-    "summary": {
-      "ja": "Al Jazeeraのライブブログ(10月25日)によると、サウジアラビア主導連合軍は、同国の首都リヤドを狙って発射されたフーシ派の弾道ミサイル1発を撃墜したと発表したという。フーシ派は同日、リヤドの国際空港を「安全でない軍事目標」であるとして、旅行者に利用を避けるよう警告したという。これは10月に入ってから繰り返されているフーシ派によるサウジ国内への弾道ミサイル攻撃(既報id: 2026-10-25-02等)の最新の事例であり、サウジ治安当局は過去の攻撃を受けて防空体制の不備についても調査を進めているという。[信頼性: 中](Al Jazeeraのライブブログ報道に基づく。ミサイル撃墜自体はサウジ主導連合軍の発表による事実だが、空港を巡るフーシ派の警告の実際の意図・影響については独立した確認ができていない)",
-      "en": "According to an Al Jazeera live blog (October 25), the Saudi-led coalition said it shot down a Houthi ballistic missile fired toward the Saudi capital Riyadh. The same day, the Houthis reportedly warned travelers to avoid Riyadh's international airport, calling it an unsafe military target. This is the latest in a string of Houthi ballistic missile attacks on Saudi Arabia this month (see earlier report id: 2026-10-25-02), and Saudi authorities are reportedly still investigating air-defence failures from earlier attacks. [Reliability: Medium] (Based on an Al Jazeera live blog; the interception itself is confirmed by the Saudi-led coalition's own statement, but the practical intent and effect of the Houthi warning about the airport could not be independently verified.)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "リヤド",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-25T03:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-03",
-    "headline": {
-      "ja": "リヤド国際空港、2週間の閉鎖を経て運航再開 フーシ派は「依然危険」と警告継続",
-      "en": "Riyadh airport resumes flights after two-week closure; Houthis maintain 'unsafe' warning"
-    },
-    "summary": {
-      "ja": "France24によると、フーシ派の攻撃による約2週間の閉鎖を経て、リヤドのキング・ハーリド国際空港が10/25(日)に運航を再開したという。一方でフーシ派の軍事報道官サリー氏は同空港が依然「安全でない」「軍事目標」であると警告を継続しているという。既報のフーシ派対サウジの攻撃・警告(id: 2026-10-25-02, 06)の続報。",
-      "en": "According to France 24, Riyadh's King Khalid International Airport resumed flights on Sunday, Oct 25, after about two weeks of closure caused by Houthi attacks. Houthi military spokesman Yahya Saree, however, continued to warn that the airport remains 'unsafe' and a 'military target.' This is a follow-up to previously reported Houthi attacks and warnings against Saudi Arabia (ids: 2026-10-25-02, 2026-10-25-06)."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.9578,
-    "lon": 46.6988,
-    "occurredAt": "2026-10-25T06:00:00+00:00",
-    "source": {
-      "name": "France 24",
-      "url": "https://france24.com/en/live-news/20261025-riyadh-airport-resumes-flights-following-houthi-attacks"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-25-10",
-    "headline": {
-      "ja": "仏生活費デモ、週末の拘束者1,314人・警官53人負傷に(抗議者の重傷例も)",
-      "en": "France cost-of-living protests: 1,314 arrested, 53 officers hurt over the weekend"
-    },
-    "summary": {
-      "ja": "France 24・Al Jazeeraによると、フランス内務省は10/24の生活費高騰抗議デモについて、全国で1,314人を拘束、警官53人が負傷したと発表した。抗議者側にもトゥールーズで右手の指数本を失う重傷、クレルモン=フェランで負傷との報道があり、商店24店舗の略奪・75件の火災対応があったという。既報(id: 2026-10-25-04, 2026-10-25-07)の参加者数・拘束者数の続報・確定値として新規採用した。",
-      "en": "According to France 24 and Al Jazeera, France's Interior Ministry said 1,314 people were arrested nationwide and 53 police officers were injured during the October 24 cost-of-living protests. Protesters were also hurt, including a man in Toulouse reported to have lost several fingers on his right hand; police also responded to 75 fires and 24 looted shops. This updates earlier reports (id: 2026-10-25-04, 2026-10-25-07) with finalized arrest and injury figures."
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 46.6034,
-    "lon": 1.8883,
-    "occurredAt": "2026-10-25T07:00:00+00:00",
-    "source": {
-      "name": "France 24 / Al Jazeera",
-      "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-10",
-    "headline": {
-      "ja": "イスラエル軍、ガザ市のイスラム大学などを攻撃 1日で8人死亡、警備員3人含む",
-      "en": "Israeli strikes hit Islamic University and other Gaza City sites, killing eight in a day including three guards"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、イスラエル軍は10/25、ガザ市のイスラム大学への攻撃を含む複数の攻撃を実施し、同大学の警備員3人が死亡、同日のガザ全域での死者は少なくとも8人に達したという。ガザ保健省によると、2025年10月の「停戦」開始以降の死者は累計1,551人、負傷者5,573人に達しているとされる。人道団体は「名目だけの停戦」だと批判しているという。[信頼性: 中](Al Jazeeraの報道およびガザ保健省発表に基づく。死者数はガザ側当局の発表であり独立した確認はできていない)",
-      "en": "According to Al Jazeera, Israeli forces carried out multiple strikes in Gaza City on October 25, including on the Islamic University, killing three security guards there, with at least eight people reported killed across Gaza that day. Gaza's Health Ministry says at least 1,551 people have been killed and 5,573 wounded since the October 2025 \"ceasefire\" began. Humanitarian groups have called the truce a ceasefire \"in name only.\" [Reliability: Medium] (Based on Al Jazeera reporting and Gaza Health Ministry figures, which have not been independently verified.)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ガザ市",
-    "lat": 31.5017,
-    "lon": 34.4668,
-    "occurredAt": "2026-10-25T10:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-27-03",
-    "headline": {
-      "ja": "サウジ、ヤンブー港からの原油出荷を停止 東西パイプラインへの攻撃受け",
-      "en": "Saudi Arabia halts oil loadings at Yanbu port after attack on East-West pipeline"
-    },
-    "summary": {
-      "ja": "CNBCによると、サウジアラビアは紅海岸のヤンブー港からの原油出荷を停止したという。フーシ派は10/25(日)、リヤドのキング・ハーリド国際空港やヤンブーのサウジアラムコ施設などへの攻撃波を実施したと主張しており、紅海側への主要輸出路である東西パイプライン(最大輸送能力日量700万バレル)が攻撃を受けたことが背景とされるという。サウジ当局による被害の公式確認・攻撃主体の断定は見当たらない(推測:9月にも同パイプラインが攻撃を受け一時停止した経緯があり、同種の事態とみられる)。ブレント原油は10/26、前日までの6カ月ぶり高値圏から1.8%下落し1バレル114.57ドル前後で取引されたという(米原油在庫増加も背景)。",
-      "en": "According to CNBC, Saudi Arabia suspended oil loadings at its Red Sea port of Yanbu. The Houthis claimed a Sunday (Oct 25) wave of attacks on Riyadh's King Khalid International Airport and Saudi Aramco facilities in Yanbu, and the suspension is linked to an attack on the East-West pipeline (capacity up to 7 million bpd), the kingdom's main Red Sea export route. No official Saudi confirmation of the damage or attribution was found (inference: a similar pipeline attack and suspension occurred in September, suggesting a comparable incident). Brent crude fell 1.8% on Oct 26 to around $114.57/barrel from its six-month high, also pressured by a rise in US crude inventories."
-    },
-    "category": "economy",
-    "country": "サウジアラビア",
-    "region": "ヤンブー",
-    "lat": 24.0896,
-    "lon": 38.0618,
-    "occurredAt": "2026-10-25T14:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-02",
-    "headline": {
-      "ja": "トランプ氏「今日の攻撃はない」、イラン情勢は停戦協議へ カタールが仲介",
-      "en": "Trump says 'no strike today' on Iran as Qatari mediators push for renewed talks"
-    },
-    "summary": {
-      "ja": "Al Jazeeraのライブブログ(10/25)によると、トランプ米大統領は「今日イランを攻撃することはない」と述べ、カタールの仲介者がテヘラン入りして米イラン協議再開への「慎重な楽観論」が伝えられているという。一方で米メディアは国防総省が中間選挙後のイラン攻撃選択肢を準備済みと報じており、ペゼシュキアン・イラン大統領は米側の交渉決裂を非難したという。既報(id: 2026-10-25-01)の「日曜攻撃の可能性」を巡る続報で、本時点では軍事行動は回避されたため新たなseverityは付与していない。",
-      "en": "According to an Al Jazeera live blog (Oct 25), US President Trump said there would be 'no strike today' on Iran, while Qatari mediators traveled to Tehran amid reports of 'cautious optimism' about resuming stalled US-Iran talks. US media separately reported the Pentagon has prepared strike options for after the midterm elections, and Iran's President Pezeshkian blamed the US for the collapse of interim talks. This is a follow-up to the previously reported possibility of a Sunday strike (id: 2026-10-25-01); since military action was avoided at this point, no new severity is assigned."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-25T15:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-01",
-    "headline": {
-      "ja": "セルビア総選挙、投票率64.9%で1992年以来最高 結果発表は月曜以降",
-      "en": "Serbia holds parliamentary election with highest turnout since 1992; final results due Monday"
-    },
-    "summary": {
-      "ja": "Al Jazeera・France24によると、セルビアの議会選挙(与党・ヴチッチ氏のSNSと学生運動系「学生のリスト」の対決)で投票が締め切られ、中央選管によると投票率は64.9%でユーゴスラビア解体後最高となったという。事前調査ではSNS47%・学生側40%程度と接近していたとされ、公式集計の発表は月曜以降の見込みという。",
-      "en": "According to Al Jazeera and France 24, voting closed in Serbia's parliamentary election pitting President Vučić's SNS against the Students' List movement, with the state election commission reporting 64.9% turnout, the highest since Yugoslavia's breakup. Pre-vote polling had shown a close race (around SNS 47% to Students' List 40%). The official tally is not expected before Monday."
-    },
-    "category": "conflict",
-    "country": "セルビア",
-    "lat": 44.7866,
-    "lon": 20.4489,
-    "occurredAt": "2026-10-25T17:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera / France 24",
-      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-26-09",
-    "headline": {
-      "ja": "セルビア、ヴチッチ氏が学生系「学生のリスト」への敗北を認める 暫定集計で与党を上回る",
-      "en": "Serbia's Vučić concedes defeat to student-backed list as sample count shows opposition ahead"
-    },
-    "summary": {
-      "ja": "Al Jazeera・France24によると、セルビアの議会選挙(既報id: 2026-10-26-01、投票締切・投票率64.9%)について、与党SNSのヴチッチ氏は10/25、学生運動発の「学生のリスト」への敗北を認めたという。同氏自身の陣営による集計でも、学生のリストが250議席中135〜140議席、SNSが105議席にとどまると見込まれるとし、独立系調査機関CESID-IPSOSのサンプル集計も学生のリスト138・SNS104議席と近い結果を示しているという。公式の最終集計はまだ確定していない。[信頼性: 中](サンプル集計・早期集計に基づく報道。中央選管による最終確定結果はこの時点で確認できていない)",
-      "en": "According to Al Jazeera and France 24, Serbian ruling-party leader Aleksandar Vučić conceded defeat on October 25 to the student-backed \"Students' List,\" a follow-up to the earlier report (id: 2026-10-26-01) on record 64.9% turnout. His own party's count projected the Students' List winning 135-140 of 250 seats versus 105 for his SNS, a figure roughly matched by an independent CESID-IPSOS sample count (138 vs. 104). The official final tally had not yet been confirmed as of this report. [Reliability: Medium] (Based on sample and early-count reporting; the central election commission's final certified results could not be confirmed at this time.)"
-    },
-    "category": "conflict",
-    "country": "セルビア",
-    "lat": 44.7866,
-    "lon": 20.4489,
-    "occurredAt": "2026-10-25T21:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-26-08",
     "headline": {
       "ja": "ブラジル大統領決選投票、ルラ氏が逆転で4選 ボルソナロ氏側は結果に異議",
@@ -667,5 +431,113 @@
       "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-28-01",
+    "headline": {
+      "ja": "イスラエル総選挙、投票終了 出口調査では与野党双方ブロックとも過半数に届かず",
+      "en": "Israel election polls close; exit polls show neither Netanyahu's nor Eisenkot's bloc wins a Knesset majority"
+    },
+    "summary": {
+      "ja": "CNN・NBC・Haaretz等によると、イスラエルで10月27日に総選挙の投票が行われ、記録的な高投票率になったという。投票終了後の出口調査(チャンネル13)では、ネタニヤフ首相のリクードが25議席、同氏を支持するブロック全体で50議席にとどまり、対抗するアイゼンコット氏の陣営を含むブロックも過半数(61議席、定数120)には届かない「デッドロック」の情勢と報じられているという。選管はネタニヤフ氏側の投票時間延長要請を拒否したという。確定議席数は本稿執筆時点で未確定。[信頼性: 高](CNN・NBC・Haaretz・Jerusalem Postなど複数の主要メディアが一致して出口調査のデッドロックを報じている。ただし出口調査自体であり、確定結果ではない点に留意)",
+      "en": "According to CNN, NBC and Haaretz, Israel held a general election on October 27 with record-high turnout. Exit polls (Channel 13) after voting closed showed Prime Minister Netanyahu's Likud winning 25 seats, with his full bloc at 50, while the rival bloc led by Gadi Eisenkot also fell short of the 61-seat majority needed in the 120-seat Knesset -- pointing to a deadlock. Election officials reportedly rejected a request from Netanyahu's camp to extend voting hours. Final seat counts were not yet confirmed at the time of writing. [Reliability: High] (Multiple major outlets -- CNN, NBC, Haaretz, Jerusalem Post -- consistently report the exit-poll deadlock, though these remain exit polls, not certified final results.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-27T20:00:00+00:00",
+    "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-28-02",
+    "headline": {
+      "ja": "イラン軍、ホルムズ海峡東方で原油タンカーが機雷に接触し炎上と発表",
+      "en": "Iran's navy says oil tanker catches fire after hitting mines east of Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "複数の国際メディア(新華社・Middle East Monitor等)によると、イラン軍は10月27日、ホルムズ海峡の東方海域で原油タンカー1隻が機雷に接触して炎上したと発表したという。船名・船籍・死傷者の有無は明らかにされていない。イラン側の発表では、同船は位置情報システムを切った状態でイランが認可していない航路を通過していたとしている。イランは10月22日にも同海域で複数のタンカーが被弾・損傷したと発表しており、同様の主張が繰り返されている。[信頼性: 中](イラン軍発表に基づく報道で、独立した第三者による被害の確認は得られていない。イラン側の一方的な発表である点に留意)",
+      "en": "According to multiple international outlets (Xinhua, Middle East Monitor and others), Iran's military said on October 27 that an oil tanker caught fire after hitting naval mines in waters east of the Strait of Hormuz. The vessel's name, flag and any casualties were not disclosed. Iran said the tanker had switched off its tracking systems and was using a route Tehran had not authorized. Iran made similar claims about several tankers being hit on October 22. [Reliability: Medium] (Based on Iranian military statements; no independent third-party confirmation of the damage has been obtained. This is a one-sided announcement from a party to the conflict.)"
+    },
+    "category": "conflict",
+    "country": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-10-27T10:00:00+00:00",
+    "source": {
+      "name": "新華社(Xinhua)",
+      "url": "https://english.news.cn/20261027/ae8e1326cb8b4d5bbae1fa92fddad086/c.html"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-28-03",
+    "headline": {
+      "ja": "露ウクライナ、ヘルソン州オレシキで局地的停戦開始 他地域では攻撃継続",
+      "en": "Russia-Ukraine local ceasefire begins in Kherson Oblast's Oleshky, but strikes continue elsewhere"
+    },
+    "summary": {
+      "ja": "Kyiv Independent・CNN・euronews等によると、米大統領夫人メラニア・トランプ氏の仲介により、ロシア占領下のヘルソン州オレシキ周辺で民間人避難・人道支援物資搬入を目的とした局地的停戦が10月27日午前(キーウ時間3時)に発効したという。ウクライナの人権オンブズマン、ルビネツ氏がSNSで発表した。一方、停戦対象地域外ではウクライナ全土での攻撃が継続しており、ロシア国防省は一晩でウクライナ側ドローン222機を撃墜したと発表、ロシア軍のキーウへのミサイル攻撃では新たに15人が負傷したとされる。ウクライナ・ロシア・米国の実務者協議は11月前半にアブダビで行われる予定という。[信頼性: 高](Kyiv Independent・CNN・euronews・The Moscow Timesなど複数の独立した報道が一致。ただし停戦の終了予定時期については11月1日までとする情報と土曜までとする情報があり、詳細は未確定)",
+      "en": "According to the Kyiv Independent, CNN, euronews and others, a localized ceasefire mediated by US First Lady Melania Trump took effect around Oleshky in Russian-occupied Kherson Oblast at 3 a.m. Kyiv time on October 27, aimed at civilian evacuations and humanitarian aid delivery. Ukraine's human rights ombudsman Dmytro Lubinets announced it on social media. Outside the designated area, strikes continued across Ukraine: Russia's Defense Ministry said it downed 222 Ukrainian drones overnight, while a Russian missile strike on Kyiv reportedly wounded 15 more people. Ukrainian, Russian and US negotiators are due to hold technical-level talks in Abu Dhabi in the first half of November. [Reliability: High] (Multiple independent outlets -- Kyiv Independent, CNN, euronews, the Moscow Times -- agree on the core facts, though reports differ on whether the ceasefire runs until Saturday or November 1.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "オレシキ(ヘルソン州)",
+    "lat": 46.6189,
+    "lon": 32.7139,
+    "occurredAt": "2026-10-27T00:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-28-04",
+    "headline": {
+      "ja": "インド東海岸に非常に強いサイクロン「アルナブ」接近 28日にアーンドラ・プラデーシュ州沿岸へ上陸の見込み",
+      "en": "Very severe Cyclone Arnab approaches India's east coast, landfall expected Oct 28 on Andhra Pradesh coast"
+    },
+    "summary": {
+      "ja": "インド各メディア(Daily Pioneer等)・インド気象局(IMD)によると、ベンガル湾中西部で非常に強いサイクロンに発達した「アルナブ」が10月28日中にアーンドラ・プラデーシュ州のバーパトラ~ヴィシャーカパトナム間の沿岸に上陸する見込みだという。IMDはアーンドラ・プラデーシュ州沿岸および隣接する南オディシャ州沿岸にレッド警報(最高レベル)を発令し、米軍合同台風警報センター(JTWC)は最大風速213km/hと観測しているという。隣接するオディシャ州でも強風・降雨が始まり、州都ブバネーシュワルなどで観光船の運航が3日間停止されたという。[信頼性: 高](IMD発表・JTWC観測に基づく複数のインド主要メディアの報道が一致。実際の上陸地点・被害規模は本稿執筆時点で未確定)",
+      "en": "According to Indian media (including the Daily Pioneer) and the India Meteorological Department (IMD), Cyclone Arnab, which intensified into a very severe cyclonic storm over the west-central Bay of Bengal, is expected to make landfall on October 28 along the Andhra Pradesh coast between Bapatla and Visakhapatnam. The IMD issued a red warning (its highest level) for the Andhra Pradesh coast and the adjoining south Odisha coast, and the US Joint Typhoon Warning Center (JTWC) recorded maximum sustained winds of 213 km/h. In neighboring Odisha, winds and rain have already begun, with tourist boat services suspended for three days around the state capital Bhubaneswar. [Reliability: High] (Multiple major Indian outlets agree, based on IMD announcements and JTWC observations. The exact landfall point and damage extent remained unconfirmed at the time of writing.)"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "region": "アーンドラ・プラデーシュ州沿岸",
+    "lat": 16.8,
+    "lon": 81.84,
+    "occurredAt": "2026-10-27T06:00:00+00:00",
+    "source": {
+      "name": "Daily Pioneer",
+      "url": "https://dailypioneer.com/india/cyclone-arnab-live-updates-very-severe-storm-heads-for-andhra-pradesh-coast"
+    },
+    "reliability": "high",
+    "severity": 4
+  },
+  {
+    "id": "2026-10-28-05",
+    "headline": {
+      "ja": "原油、中東外交進展への期待で小幅下落 ブレント114ドル台 ホルムズ海峡でのタンカー炎上後も",
+      "en": "Oil edges down on hopes of Middle East diplomatic progress; Brent near $114 despite fresh Hormuz tanker fire"
+    },
+    "summary": {
+      "ja": "市場報道によると、10月27日のブレント原油先物は前日比約1%安の1バレル114ドル80セント前後で取引されたという。背景には中東の緊張緩和に向けた外交努力への期待があるとされる。一方、ホルムズ海峡では同日イランがタンカー炎上を発表するなど緊張は続いており、Kplerの分析では同海峡を通過する原油量は戦時高値から27%減少し、Reutersの集計では直近2週間でタンカーへの攻撃が少なくとも18件に上るという。前週末時点ではフーシ派によるサウジ施設への攻撃等を受けブレントは117ドルまで上昇していたという。[信頼性: 中](複数の市場報道に基づくが、具体的な終値・時点について報道間で若干の差異があり、確定値ではない)",
+      "en": "According to market reports, Brent crude futures traded around $114.80 a barrel on October 27, down roughly 1% from the previous day, amid hopes for diplomatic progress toward easing Middle East tensions. At the same time, tensions in the Strait of Hormuz persisted, with Iran announcing a tanker fire there the same day; Kpler data showed crude volumes transiting the strait down 27% from wartime highs, and Reuters counted at least 18 tanker attacks over the past two weeks. Brent had risen to $117 at the end of the prior week amid Houthi strikes on Saudi infrastructure. [Reliability: Medium] (Based on multiple market reports that differ slightly on the exact closing price and timing; figures are not final settlement data.)"
+    },
+    "category": "economy",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-27T00:00:00+00:00",
+    "source": {
+      "name": "oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html"
+    },
+    "reliability": "medium"
   }
 ]
