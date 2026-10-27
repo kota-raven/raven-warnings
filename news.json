@@ -625,5 +625,28 @@
       "url": "https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-08",
+    "headline": {
+      "ja": "北朝鮮、南北軍事境界線沿いに自走榴弾砲を展開 砲身を韓国側へ",
+      "en": "North Korea deploys self-propelled howitzers along border, barrels pointed at South Korea"
+    },
+    "summary": {
+      "ja": "Korea Times・Reuters・Yonhapなどによると、10月26日、北朝鮮軍が黄海北道・開豊郡沿岸(韓国・金浦から視認できる地点)に122mm自走榴弾砲とみられる車両3両を、砲身を韓国側に向けた状態で展開させているのが確認されたという。韓国軍合同参謀本部(JCS)は展開自体を確認した一方、使用装備は新型ではない既存兵器であり、写真だけでは発射準備態勢や意図の判断は困難との見解を示したという。背景として、北朝鮮の金与正氏が10月19〜22日、国境沿いへの戦術兵器追加配備や対南拡声器放送再開(10月末までに稼働)を表明し、国境視察時には「北朝鮮の住民・領土が被害を受ければ韓国軍を容赦なく殲滅する」と発言したと報じられている。推測:今回の展開が威嚇発言の実行を意味するかは韓国軍当局者も断定しておらず、独立した検証はできていない。発射・交戦には至っていない。",
+      "en": "According to Korea Times, Reuters and Yonhap, North Korean forces were observed on Oct. 26 deploying three vehicles, believed to be 122mm self-propelled howitzers, with barrels pointed toward South Korea, along the coast of Kaepung County, North Hwanghae Province, visible from Gimpo, South Korea. South Korea's Joint Chiefs of Staff confirmed the deployment but said the equipment is not a new weapon system and that intent or firing readiness cannot be judged from photos alone. This follows North Korean official Kim Yo Jong's Oct. 19-22 warnings of additional tactical weapons deployments and a resumption of anti-South loudspeaker broadcasts (to be activated by end of October), including a statement during a border inspection that North Korea would \"mercilessly eliminate\" South Korean troops if North Korean people or territory were harmed. Speculative: whether this deployment is an execution of that threat is not confirmed even by South Korean officials, and no independent verification exists. No firing or exchange has occurred."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "region": "黄海北道・開豊郡",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "occurredAt": "2026-10-26T06:00:00+00:00",
+    "source": {
+      "name": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20261027/n-korean-artillery-deployed-along-western-border-not-seen-as-new-weapon-system-jcs"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
