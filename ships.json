@@ -67,8 +67,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -120,6 +120,152 @@
     "count": null,
     "periodStart": "2026-10-19T00:00:00Z",
     "periodEnd": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "2026-10-26-us-000093",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Colorado",
+    "shipNumber": "SSN-788",
+    "shipType": "submarine",
+    "position": {
+      "area": "Australia",
+      "lat": -25.2744,
+      "lon": 133.7751,
+      "approximate": true
+    },
+    "activity": "Virginia級攻撃型潜水艦USS Coloradoがオーストラリアに到着",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-26T00:00:00Z"
+  },
+  {
+    "id": "2026-10-26-us-000089",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Tripoli",
+    "shipNumber": "LHA-7",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Sasebo, Japan",
+      "lat": 33.1614,
+      "lon": 129.6414,
+      "approximate": false
+    },
+    "activity": "米海軍の強襲揚陸艦が佐世保港に停泊中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-26T00:00:00Z"
+  },
+  {
+    "id": "2026-10-26-us-000087",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Makin Island",
+    "shipNumber": "LHD-8",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.2764,
+      "lon": 139.6622,
+      "approximate": false
+    },
+    "activity": "米海軍マキン・アイランド両用即応群(ARG)が横須賀基地に寄港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37314/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-26T00:00:00Z"
+  },
+  {
+    "id": "2026-10-26-us-000090",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Makin Island",
+    "shipNumber": "LHD-8",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": 35.2764,
+      "lon": 139.6622,
+      "approximate": false
+    },
+    "activity": "米海軍の強襲揚陸艦が横須賀港に到着",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-26T00:00:00Z"
+  },
+  {
+    "id": "2026-10-24-cn-000091",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Liaoning",
+    "shipNumber": "16",
+    "shipType": "carrier",
+    "position": {
+      "area": "Basilan Strait, Philippines",
+      "lat": 5.3667,
+      "lon": 122.0833,
+      "approximate": true
+    },
+    "activity": "中国海軍の遼寧空母打撃群がフィリピン・ミンダナオ沖バシラン海峡で確認されたという報道",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/26/new-philippine-coast-guard-vessel-shadows-chinese-carrier-strike-group-off-mindanao"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-24T00:00:00Z"
+  },
+  {
+    "id": "2026-10-24-cn-000092",
+    "recordType": "aggregate",
+    "country": "CN",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Basilan Strait, Philippines",
+      "lat": 5.3667,
+      "lon": 122.0833,
+      "approximate": true
+    },
+    "activity": "遼寧CSGの随伴駆逐艦3隻(安山、無錫、淮南)がフィリピン・ミンダナオ沖で確認されたという報道",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/26/new-philippine-coast-guard-vessel-shadows-chinese-carrier-strike-group-off-mindanao"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 3,
+    "periodStart": null,
+    "periodEnd": null
   },
   {
     "id": "2026-10-24-us-000076",
@@ -381,8 +527,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-22T00:00:00Z"
   },
   {
@@ -405,8 +551,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -429,8 +575,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -453,8 +599,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -477,8 +623,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -501,8 +647,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -645,8 +791,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -669,8 +815,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -693,8 +839,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -717,8 +863,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -741,8 +887,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -765,8 +911,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -789,8 +935,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
     "count": 2,
     "periodStart": null,
     "periodEnd": null
@@ -815,8 +961,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -863,8 +1009,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1079,8 +1225,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1469,8 +1615,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-13T19:11:00Z"
   },
   {
@@ -1829,8 +1975,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-23T19:35:00Z",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -1853,8 +1999,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-23T19:35:00Z",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -1908,6 +2054,30 @@
     "count": 20,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "-us-000088",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Colorado",
+    "shipNumber": "SSN-788",
+    "shipType": "submarine",
+    "position": {
+      "area": "HMAS Stirling, Western Australia",
+      "lat": -32.3833,
+      "lon": 115.6,
+      "approximate": false
+    },
+    "activity": "Virginia級攻撃型潜水艦が豪州西部のSRF-West配備により、2027年より日本や豪州での活動が予定されている",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-us-000069",
