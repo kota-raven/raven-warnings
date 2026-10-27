@@ -669,5 +669,27 @@
       "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-27-11",
+    "headline": {
+      "ja": "イスラエル首相、総選挙前のイラン攻撃計画を主導か モサド・軍内部で対立、官邸は否定",
+      "en": "Netanyahu reportedly pushed pre-election Iran strike plan amid Mossad-military rift; PMO denies"
+    },
+    "summary": {
+      "ja": "Times of Israel・Haaretz・Israel Hayom・Jfeed等(匿名の当局関係者情報に基づく)によると、ネタニヤフ首相は10/27の総選挙前にイランへの軍事作戦を主導的に推進していたという。モサド長官ゴフマン氏は計画を支持したが、モサド内の複数高官や軍参謀総長ザミール氏は反対したという。シンベト長官・カッツ国防相は支持したとされ、ネタニヤフ氏は再選すればザミール氏を更迭すると私的に述べたとの報道もある。推測:首相官邸はこれらの報道を否定し、カッツ氏本人も総選挙前のイラン攻撃の意図を否定しており、実際の攻撃実行は確認されていない(CNNが報じた「トランプ氏が拒否した」との情報も官邸は否定)。[信頼性: 中](複数メディアが匿名の当局関係者情報に基づき同趣旨を報道しているが、当局は明確に否定しており独立検証はできていない)",
+      "en": "According to the Times of Israel, Haaretz, Israel Hayom and Jfeed (citing anonymous officials), PM Netanyahu reportedly pushed a plan to strike Iran before the Oct. 27 election. Mossad director Gofman backed the plan, but several senior Mossad officials and IDF Chief of Staff Zamir opposed it. The Shin Bet chief and Defense Minister Katz reportedly supported it, and Netanyahu is said to have privately said he would fire Zamir if re-elected. Inference: the PMO has denied these reports, and Katz himself denied any intention to strike Iran before the election; no actual strike has been confirmed (the PMO also denies a CNN report that Trump refused such a request). [Reliability: Medium] (Multiple outlets report similar details from anonymous officials, but authorities have firmly denied it and it is not independently verified)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-26T15:00:00+00:00",
+    "source": {
+      "name": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-october-26-2026/"
+    },
+    "reliability": "medium",
+    "severity": 3
   }
 ]
