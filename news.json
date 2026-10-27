@@ -584,28 +584,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-27-06",
-    "headline": {
-      "ja": "スーダン全土でドローン攻撃が激化、短期間で160人超死亡 西コルドファンの市場付近攻撃が最多",
-      "en": "Drone attacks escalate across Sudan, killing over 160 in a short span; deadliest strike hits West Kordofan market area"
-    },
-    "summary": {
-      "ja": "推測:正確な発生日は特定できないが、Al Jazeera(10月22日付)によると、医療関係者・人権団体の情報として、スーダン全土でのドローン攻撃により「最近数日間」で160人超が死亡したという。最多の被害は西コルドファン州アッダッバの市場付近で、RSF(即応支援部隊)によるとされる攻撃で輸送拠点に集まっていた民間人80人が死亡したという。ブルーネイル州でも避難民の集まりへの攻撃で41人が死亡したとされる。一方、同月22日未明にはスーダン国軍によるドローン攻撃がRSF拠点のニヤラで17人を死亡させたとも報じられている。死者数・実行主体の特定は現地情報源によるもので、独立した検証はできていないという。",
-      "en": "Speculation: the exact date could not be pinned down, but according to Al Jazeera (Oct. 22), citing medics and rights groups, drone attacks across Sudan killed more than 160 people 'in recent days.' The deadliest, reportedly by the RSF paramilitary, hit a transport hub near a market in al-Dabba, West Kordofan, killing 80 civilians. A separate strike on displaced people in Blue Nile state reportedly killed 41. The report also says an army drone strike hit the RSF stronghold of Nyala early on Oct. 22, killing 17. Casualty figures and attribution rely on local sources and could not be independently verified."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "region": "西コルドファン州・ブルーネイル州",
-    "lat": 12.8628,
-    "lon": 30.2176,
-    "occurredAt": "2026-10-21T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-27-07",
     "headline": {
       "ja": "金価格、4カ月ぶり安値圏に 6月以来最悪の週、原油高と利上げ観測が背景",
@@ -648,5 +626,48 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-10-27-09",
+    "headline": {
+      "ja": "コンゴ民主共和国、エボラ対応中の看護師が襲撃され死亡 保健当局者も負傷",
+      "en": "Nurse killed, health worker injured in attack on Ebola responders in DR Congo"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、WHOは、コンゴ民主共和国チョポ州バフワセンデで10/24(土)、エボラ疑い例への対応に当たっていた保健医療従事者が何者かに襲撃され、看護師1人が死亡、別の医療従事者1人が重傷を負ったと発表したという。WHO事務局長テドロス氏は本件を非難し、WHOアフリカ地域事務局長は医療従事者を攻撃対象にしてはならないと述べたという。地元当局は本報道時点で襲撃の詳細や実行者についてコメントしていないという。背景として、同国保健省のデータでは今年5月以降の今回のエボラ(ブンディブギョ株)流行による感染者は9,800人超・死者は4,700人超に達しているとされ、WHOは同流行がケニア・ナイジェリアにも拡大し「より複雑な流行状況」にあると警告している(ナイジェリアでは10月、ウガンダから入国した女性の感染が確認された)。[信頼性: 高](Al Jazeera報道およびWHOの発表に基づく。襲撃の実行者・動機は本報道時点で未確認)",
+      "en": "According to Al Jazeera, the WHO said a nurse was killed and another health worker seriously injured in an attack on Saturday, Oct 24, on responders investigating a suspected Ebola case in Bafwasende, Tshopo province, DR Congo. WHO Director-General Tedros condemned the attack, and the WHO's Africa regional director said health workers must not be targeted. Local authorities had not commented on the attack or any suspects as of this report. The outbreak (Bundibugyo strain), declared in May, has infected more than 9,800 people and killed more than 4,700 in DRC according to the health ministry, and the WHO has warned it has spread to Kenya and Nigeria (Nigeria confirmed its first case in October, in a woman who had travelled from Uganda), calling it a \"more complex\" outbreak landscape. [Reliability: High] (Based on Al Jazeera reporting and WHO statements; the identity and motive of the attackers remain unconfirmed at this time.)"
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "region": "チョポ州(バフワセンデ)",
+    "lat": 1.0103,
+    "lon": 27.1617,
+    "occurredAt": "2026-10-24T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-27-10",
+    "headline": {
+      "ja": "セルビア新議会、首相候補に心臓専門医スルダノヴィッチ氏が有力 「学生のリスト」単独過半数確定後",
+      "en": "Serbia's Student List eyes cardiologist Srđanović as likely new PM after landslide win"
+    },
+    "summary": {
+      "ja": "Al Jazeeraによると、セルビア総選挙(既報id: 2026-10-27-01、「学生のリスト」の単独過半数確定)を受け、同リストを主導してきたノヴィサド大学医学部教授(心臓専門医)イリヤ・スルダノヴィッチ氏が、次期首相の最有力候補とみられているという。同リストは選挙前には首相候補を明らかにしていなかった。新議会は最終結果確定から30日以内に招集され、その後90日以内に政権を発足させる必要があるとされ、単独過半数のため連立協議は短期間で済む見通しという。大統領職は、ヴチッチ氏の辞任(9月)後、国民議会議長のアナ・ブルナビッチ氏が暫定的に務めており、大統領選の期限は12月27日とされる。推測:スルダノヴィッチ氏自身による首相就任の受諾や、同リスト内での正式な指名はこの時点で確認できていない。[信頼性: 中](Al Jazeeraの報道に基づく。有力候補という位置づけであり、正式な首相指名はまだ行われていない)",
+      "en": "According to Al Jazeera, following Serbia's election (previously reported id: 2026-10-27-01, confirming an outright majority for the Student List), Ilija Srđanović, a cardiologist and professor at the University of Novi Sad's medical faculty who led the movement's campaign, is seen as the most likely candidate to become the next prime minister; the list had not named a PM candidate before the vote. The new parliament must convene within 30 days of final results and form a government within 90 days after that; with an outright majority, coalition talks are expected to be brief. The presidency has been held on an interim basis by National Assembly speaker Ana Brnabić since Vučić's resignation in September, with a presidential election required by December 27. Inference: Srđanović's own acceptance or a formal nomination by the list had not been confirmed at this time. [Reliability: Medium] (Based on Al Jazeera reporting; Srđanović is described as the likely candidate, but no formal nomination has occurred yet.)"
+    },
+    "category": "conflict",
+    "country": "セルビア",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "occurredAt": "2026-10-26T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
+    },
+    "reliability": "medium"
   }
 ]
