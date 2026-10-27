@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T16:26:47.469Z",
+  "generatedAt": "2026-10-27T21:14:24.167Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 192,
+  "count": 193,
   "warnings": [
     {
       "id": "NAVAREA11-260485",
@@ -248,6 +248,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264233",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海洋調査",
+      "number": "4233",
+      "title": "ペルシア海湾、海底管作業",
+      "publishedAt": "2026-10-28T05:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4233   発表日時:2026年10月28日 05時\r\n\n\r\n★ ペルシア海湾、\r\r\nMC DERMOTT DB30による海底管作業、11月26日まで、\r\r\n26-26.0N 051-54.3E 26-22.5N 051-58.4E\r\r\n26-09.5N 051-43.9E 26-12.3N 051-39.8E\r\r\nで囲まれる海面。\r\r\n(3927削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264233&LANG=JP"
     },
     {
       "id": "JAPANNW-264232",
@@ -1984,18 +1996,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264026&LANG=JP"
     },
     {
-      "id": "JAPANNW-263927",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海洋調査",
-      "number": "3927",
-      "title": "ペルシア海湾、海底管作業",
-      "publishedAt": "2026-10-06T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-3927   発表日時:2026年10月06日 08時\r\n\n\r\n★ ペルシア海湾、\r\r\nMC DERMOTT DB30による海底管作業、当分の間、\r\r\n26-01.85N 051-31.87E 26-05.88N 051-32.80E\r\r\n26-13.03N 051-40.61E 26-10.35N 051-44.46E\r\r\n26-06.43N 051-41.33E 26-03.68N 051-36.96E\r\r\n26-01.19N 051-36.62Eで囲まれる海面。\r\r\n(3670削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=263927&LANG=JP"
-    },
-    {
       "id": "JAPANNW-263874",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -3162,6 +3162,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262044",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "2044",
+      "title": "京浜港、横浜区、川崎区、荒天に伴う錨泊自粛の勧告",
+      "publishedAt": "2026-10-28T01:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2044    発表日時:2026年10月28日 01時\r\n\n\r\n京浜港、横浜区、川崎区、\r\r\n荒天により対象船舶に対し錨泊自粛の勧告、\r\r\n10月28日0300-解除発表までの間、\r\r\n詳細は京浜港長に問い合わせられたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262044&LANG=JP"
     },
     {
       "id": "NAVTEX-262043",
