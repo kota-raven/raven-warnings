@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T04:51:10.098Z",
+  "generatedAt": "2026-10-27T10:24:18.511Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 181,
   "warnings": [
@@ -2966,6 +2966,42 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262042",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "2042",
+      "title": "本州北西岸、鳥ケ首岬灯台光力減少",
+      "publishedAt": "2026-10-27T18:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2042    発表日時:2026年10月27日 18時\r\n\n\r\n本州北西岸、\r\r\n鳥ケ首岬灯台(37-10.3N 138-05.8E、\r\r\n灯台表第1巻、1301、M7132)光力減少。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262042&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262041",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2041",
+      "title": "沖縄島南西、射撃終了",
+      "publishedAt": "2026-10-27T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2041    発表日時:2026年10月27日 17時\r\n\n\r\n沖縄島南西、\r\r\n射撃終了。\r\r\n(2002削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262041&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262040",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2040",
+      "title": "恵山岬東南東、射撃終了",
+      "publishedAt": "2026-10-27T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2040    発表日時:2026年10月27日 17時\r\n\n\r\n恵山岬東南東、\r\r\n射撃終了。\r\r\n(2004削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262040&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262039",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3180,18 +3216,6 @@
       "geometry": null,
       "rawText": "番号:26-2030    発表日時:2026年10月26日 23時\r\n\n\r\n宮古島付近、\r\r\n長山水路第1号灯標(24-46.8N 125-11.5E、\r\r\n灯台表第1巻、7186.21)消灯。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262030&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262028",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "2028",
-      "title": "対馬北東、船舶間貨物油積替作業延期",
-      "publishedAt": "2026-10-26T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2028    発表日時:2026年10月26日 17時\r\n\n\r\n対馬北東、\r\r\nYIANNIS LATSISによる船舶間貨物油積替作業延期。\r\r\n(2025削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262028&LANG=JP"
     },
     {
       "id": "NAVTEX-262021",
@@ -3474,30 +3498,6 @@
       },
       "rawText": "番号:26-2005    発表日時:2026年10月23日 13時\r\n\n\r\n野母埼西、\r\r\n射撃、10月28日(予備29日)0900-2400、\r\r\n32-27N 129-14Eを中心とする半径7海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262005&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262004",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2004",
-      "title": "恵山岬東南東、射撃",
-      "publishedAt": "2026-10-22T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2004    発表日時:2026年10月22日 13時\r\n\n\r\n恵山岬東南東、\r\r\n射撃、10月27日(予備28日)1100-2400、\r\r\n41-43.0N 141-29.4Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262004&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262002",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2002",
-      "title": "沖縄島南西、射撃",
-      "publishedAt": "2026-10-22T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2002    発表日時:2026年10月22日 13時\r\n\n\r\n沖縄島南西、\r\r\n射撃、10月27日(予備28日)0800-2400、\r\r\n25-56.0N 127-30.2Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262002&LANG=JP"
     },
     {
       "id": "NAVTEX-261990",
