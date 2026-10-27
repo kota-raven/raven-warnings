@@ -23,6 +23,168 @@
     "eventKey": "ukraine_patriot_nasams_us_approval_2026-10-26"
   },
   {
+    "id": "auto-31191",
+    "headline": {
+      "ja": "トルコ、サウジアラビア、パキスタン、イランの4ヶ国がテヘランで会談を開催",
+      "en": "Turkey, Saudi Arabia, Pakistan, Iran hold quadrilateral meeting in Tehran"
+    },
+    "summary": {
+      "ja": "トルコ、サウジアラビア、パキスタン、イランの4ヶ国がテヘランで地域安全保障と政治課題について協議を開催している。",
+      "en": "Four countries - Turkey, Saudi Arabia, Pakistan, and Iran - hold talks in Tehran on regional security and political issues"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-26T14:20:48+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjE5dktCa3N6VTc2aC1UaUJ3a2kwbGNCalIwQWxRSVlWZVp4YWZlTnR0TEwtamNSeUJ4LWVTbHFBNHRfaG5aQUlaSlpnWGYwRkZFeHF0Vkw5SFVqQ1UyVG5uWHNqRmxxM25BOGRmbG9tQkN5a1kzc1hRLThfbV9pOW5WMnBtUHBhVXpxbkdtVmZfLTRZR1dlaWxoQ1RPcG53Y1N1RHlNcllpbW1VSGNaQ3hB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "quadrilateral_meeting_tehran_2026-10-26"
+  },
+  {
+    "id": "auto-31201",
+    "headline": {
+      "ja": "フランスの黄色いベスト抗議で500人以上が負傷",
+      "en": "Over 500 injured in France's Yellow Vests protests on Saturday"
+    },
+    "summary": {
+      "ja": "フランスの黄色いベスト抗議活動の土曜日の行動で、500人以上が負傷した。",
+      "en": "Over 500 people injured during Saturday's Yellow Vests protests in France"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-10-26T14:07:42+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjNCaVM5WkpRZ3JlODlrOUVDTVFKaHpGWG1Wa3Z2QldPZ2VHUzBtWU9rX0hPYnpqMzdGdk0xMWlxcWE5akd2aUxwZGxPNDFpWlZDbGtYM1RqQmhDR19rdmZiRzB3ZVY4QU1DaG0yS3ctRHgwc0hLRmc1SjRuTVNIdzlscm1iQWpuQzBNZFpHWWRjQW01TjhQR1gyS3RHSGU1cmVR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "france_yellow_vests_protests_2026-10-26"
+  },
+  {
+    "id": "auto-31213",
+    "headline": {
+      "ja": "中国がASEAN防衛会議の『乗っ取り』に警告、米国防長官が比訪問予定",
+      "en": "China urges against 'hijacking' ASEAN defense chiefs' meeting as Hegseth heads to Philippines"
+    },
+    "summary": {
+      "ja": "中国が米国のヘグセス国防長官のフィリピン訪問を控えて、ASEAN防衛会議が乗っ取られることへの警告を発している。",
+      "en": "China warns against 'hijacking' ASEAN defense meeting ahead of US Defense Secretary Hegseth's Philippines visit"
+    },
+    "category": "conflict",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-26T13:39:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa3ZDSWMtclN5b18yQWMtOGpQbXNpYUhGcGJZXzU2bXNaV0w5NzVyUFpURHItTFVaeE8wNTE2OUkxdHpwMlpNdW1LbUU5VnBfeGJQWkg0bDE4YUloT0N5Y2NiSThLa0tVclo5SS1qYVplbDV2Sm9PWWNUZGVXczVZOGZpV1c3UGNIbFF5Z1NWeUwyUjlrajlTSEZXT0pHS3A2WE9nd2s3U3lTYnk3enZXbS1zYjNYdDEzNU1sVTkycUNBeVYwZHVkNUFWNEYxTzc4VEE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "china_asean_defense_meeting_2026-10"
+  },
+  {
+    "id": "auto-31218",
+    "headline": {
+      "ja": "イスラエルの極右大臣が選挙前夜にアルアクサ・モスクに闖入",
+      "en": "Extremist Israeli minister storms Jerusalem's Al-Aqsa Mosque on eve of elections"
+    },
+    "summary": {
+      "ja": "イスラエルの極右大臣が選挙前夜にエルサレムのアルアクサ・モスクに闖入し、イスラム教徒の礼拝施設を冒涜した。",
+      "en": "Extremist Israeli minister storms Al-Aqsa Mosque in Jerusalem on eve of elections"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-26T13:39:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMm9saEh0eG16Sy1HTzBQcElwaTVkMkRUX2k2ZlJVZ3hoWVBqblk1bUJYcTBBNmVWWlRBdDdBakptb2FHVFB4d0pGU0YzckZLd2xVb01RVzQ5ZXZPRU1KVWhIUmVBakV2NjhVV2xuenVOS3ZaVGhzRjEtNVd0UVMzXzhUUXg4VkRVV0hkUDBETGdYaG1qb0MyNlpnZ2dxaVpDOG94MzQxX1Y2ZHdlbHJ2X2hJMG5TdUw1TmJnbmRCZGVQYWs?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_aqsa_mosque_2026-10-26",
+    "severity": 4
+  },
+  {
+    "id": "auto-31237",
+    "headline": {
+      "ja": "イスラエル軍がヘブロン東部の家屋を破壊し200本以上の果樹を引き抜く",
+      "en": "Israeli forces demolish home, uproot over 200 fruit trees east of Hebron"
+    },
+    "summary": {
+      "ja": "イスラエル軍がヘブロン東部で1軒の家屋を破壊し、200本以上の果樹を引き抜いた。",
+      "en": "Israeli forces demolish home and uproot over 200 fruit trees in eastern Hebron"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-10-26T13:35:50+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0a0c2M1Q1M3hWNmt3eXFYUVdBaEVnbXVNQW1CQUtGd0dfUWIwRGlqNlpGemdWdjYydjhvZUVCZG05a0V5Z3dGYUtxQkI2ZGJlTm9WZ3NEUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hebron_demolition_2026-10-26"
+  },
+  {
+    "id": "auto-31246",
+    "headline": {
+      "ja": "イスラエルの占領軍がデイル・アルバラで空爆、2人が殺害",
+      "en": "Two killed in Israeli occupation strike on Deir al-Balah"
+    },
+    "summary": {
+      "ja": "イスラエルの占領軍がガザのデイル・アルバラで空爆を行い、2人の民間人が殺害された。",
+      "en": "Israeli occupation forces conduct airstrike on Deir al-Balah in Gaza, killing 2 people"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-26T13:07:34+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDWHIza2ZXNlhhd1M3cUtrM0QzeXVkVW5uZGlRdGI4dm4wc0VyenJodHB4czJiWUZrcXd6cU1Da0JQVkc1S25OQXA4QkthRFNieEF3TGhwOA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "deir_al_balah_strike_2026-10-26"
+  },
+  {
+    "id": "auto-31200",
+    "headline": {
+      "ja": "フランス大統領が次週の土曜日を『高リスク』と警告、抗議活動の激化を懸念",
+      "en": "French president warns next Saturday remains 'high-risk' amid protests"
+    },
+    "summary": {
+      "ja": "フランス大統領が次週の土曜日を高リスクと警告し、抗議活動による混乱や暴力の増加を懸念している。",
+      "en": "French president warns next Saturday poses high risk amid escalating protest activities"
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-10-26T13:01:11+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1ZZWmZ3TmFCWGh4cG91X0U4U0FEU2lHeFN1SktqSXEtNlF6VFE1bkFqaXlhbUdGUkR6MVFFSTd6a29UQWZ4a2tnbmRlbFlIbVFjWjZSc0NPY1IyQlFKZnpzZTRmNUoyTWNjZUdOSVZISktxZkJheHNNNTlsOXRJNFhaWnliNGI1UC03NWNCQ1FSY0t0NXBMaU1GeDI3bFBsamFmTFhyVnVYVVRr?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "france_saturday_protests_2026-10-26"
+  },
+  {
     "id": "auto-31441",
     "headline": {
       "ja": "スーダンの発電所がドローン攻撃を受ける",
@@ -44,6 +206,52 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_power_station_drone_attacks_2026-10"
+  },
+  {
+    "id": "auto-31239",
+    "headline": {
+      "ja": "占領軍がジェニン周辺で土地を造成し、入植者用道路を建設",
+      "en": "Occupation forces raze land in Jenin-area town to construct a colonial road"
+    },
+    "summary": {
+      "ja": "占領軍がジェニン周辺の町で土地を平らにし、入植者のための道路建設を始めた。",
+      "en": "Occupation forces demolish land near Jenin to build settlement road"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 32.4594,
+    "lon": 35.3009,
+    "occurredAt": "2026-10-26T12:30:37+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hbldqcDJ4Y1c2bExFeHFMNm1XcXZjV2ZkLWYydE9OOUtPLXY2QVlWblhTVW1YWlN0QlRJWF96eTlhZHFRakxVb29sUkxIajJ3WGE0eWtjSQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jenin_colonial_road_2026-10-26"
+  },
+  {
+    "id": "auto-31185",
+    "headline": {
+      "ja": "ケニア議員がエチオピア国境危機の解決を政府に要求",
+      "en": "Kenyan lawmakers urge Ruto to intervene as Ethiopia border crisis deepens"
+    },
+    "summary": {
+      "ja": "ケニアの議員らが、エチオピアとの国境紛争の悪化を受けてルト大統領に介入を求めている。",
+      "en": "Kenyan lawmakers demand government intervention as Ethiopia border crisis escalates"
+    },
+    "category": "conflict",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-10-26T11:49:22+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjdwRnBUWEMwTGxHYWFBMzFScVJpendwSUlLS2d3Mzh1NHVVcW55djEzbFBCamVOa2R6WEhDT05JVGRhM1hJc0w2ZjdoQkRoMjduV1FCZ3VZUzhkbGVqUFNsU0xWZDF3OTRzQnRZM21xVkU3TVg4ZzF2cGlFWkJZRjdQMzRwSWxuMXhpeUJfM0lKSEdLQWhWYUJKQlRuOF8xbkt3MUNxUnhDM21rZHc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "kenya_ethiopia_border_crisis_2026-10"
   },
   {
     "id": "auto-31444",
@@ -69,6 +277,307 @@
     "eventKey": "ukraine_martial_law_extension_2026-10"
   },
   {
+    "id": "auto-31209",
+    "headline": {
+      "ja": "スーダンでRSFドローンが電力施設を攻撃、大規模停電が発生",
+      "en": "RSF drone strikes damage 5 power substations, cause blackout in Sudan"
+    },
+    "summary": {
+      "ja": "スーダンの反勢力RSFがドローン攻撃で5つの変電所を破損させ、広範な停電が発生した。",
+      "en": "RSF drone attacks damage 5 power substations in Sudan, causing widespread blackout"
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-26T11:14:53+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3JpdXZzTm83djdUNFM2R1hYT19zbjUzb2djcTRGWkhieXJEVlpGYWhlUzdKQ2Q2UHk0VWhNRVI2Z0hEdmFKYTdKaVpFTHpJcmt0NU5ZaUl6aEJhbEZiWHRzcHpSSGI4ajdLTVQxSy1xYVJvbk5zd2V2WnZIazQ0b2ZKcjhsTGpUQTA0cHcxUzdZUlBBcTBWY0JxMzR6V1JtUUNOX3lCMzVWdEp2?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_rsf_power_attack_2026-10"
+  },
+  {
+    "id": "auto-31235",
+    "headline": {
+      "ja": "ヘブロン南部でパレスチナ女性が入植者の攻撃により負傷",
+      "en": "Palestinian woman injured in colonists' attack south of Hebron"
+    },
+    "summary": {
+      "ja": "ヘブロン南部でパレスチナの女性がイスラエル入植者の攻撃により負傷した。",
+      "en": "Palestinian woman wounded in settler attack south of Hebron"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-10-26T11:07:37+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aT1dMWkpvSENqazBUVHFYMU5PWnlQODJlTVNiVFd6dS1yQk96TUZYWHhFcmUxdXhOdVd2d1dmc2Jrd3ZWZEtxMXFrdVltZ0pha3NROTY5OA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hebron_settler_attack_2026-10-26"
+  },
+  {
+    "id": "auto-31170",
+    "headline": {
+      "ja": "エジプト大統領がUN事務総長と会談、パレスチナ問題の公正な解決を要求",
+      "en": "Egyptian president meets UN chief, calls for 'just' settlement of Palestinian issue"
+    },
+    "summary": {
+      "ja": "エジプト大統領がUN事務総長と会談し、パレスチナ問題の公正で包括的な解決を強く求めている。",
+      "en": "Egyptian president meets with UN chief to demand just settlement of Palestinian issue"
+    },
+    "category": "conflict",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-10-26T10:52:21+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3NUQkxMcUltOU9mZWR6SE55VVhLa3hGOUZfTkVyQTEzV0VfakpGbktQUUllYXd3N0N3aVpMVjNHMXIzMUJfYXdIOEJNVEtTeW9uSlpOYVBzc0N2WXE4Q19SNFRWSTFmbEluZl8wNEV0MHgzU0Uwci1ZLVIxcERMdjVadl9FenRSTEZPbkhBYUxNa0EyN092TGdieTR2TXZSdnVqcl81cHV0ZTQwWmRUOUxCLTBlb1FOMjZQMVJR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "egypt_un_palestinian_issue_2026-10"
+  },
+  {
+    "id": "auto-31295",
+    "headline": {
+      "ja": "米軍はトランプ大統領の命令から96時間以内にイランへの新たな攻撃を開始する準備が整っている",
+      "en": "US forces ready to launch new strikes on Iran within 96 hours of Trump's order"
+    },
+    "summary": {
+      "ja": "米軍がトランプ大統領の命令を受けて、96時間以内にイランへの追加攻撃を開始する準備が整っているという報道がある。",
+      "en": "US military reportedly ready to conduct strikes on Iran within 96 hours of Trump's order"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-26T10:43:16+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBtc1NPSFAxaUpwUnNMV1BMdzVkalg3VjBranNmZldBQXZfTWJzckZCNWphQkZ4QjY2ZW8wLW1FVFA2d2dE0gFKQVVfeXFMTzNneHhZZnBHTzg0Y3FlLV9FVV8tX0I4OXVUbEpEcG9YV0dNTmR6eU1tLUIzeV8zQjkzTXBvUFVoWldkOG90WWR0M3c?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_iran_strikes_readiness_2026-10"
+  },
+  {
+    "id": "auto-31203",
+    "headline": {
+      "ja": "イスラエルが欧州議会左派グループの報道官を8時間拘束後に国外追放",
+      "en": "European Parliament Left group's press officer deported by Israel after 8-hour detention"
+    },
+    "summary": {
+      "ja": "イスラエルが欧州議会左派グループの報道官を8時間拘束したのち、国外追放にした。",
+      "en": "Israel detains and deports European Parliament Left group press officer after 8-hour detention"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-26T10:00:52+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWc1djRodEM2UWh1SjhpaWhlQXZCYzdWcUNQR1N6MVhBRnNNTmZleDNVdHF2TGZyNUxFQWZMU3ZJeEJlNWRTYUE4bXM2emhfMkQ2UDV3S1VZdjRQZDUzWW5PVC1sZE1YdWh6cnQtaFBmMnRYWkU3enBBZ0RJaFZ3SEVINlQyWndqVjVSeUxQSVRPN0U5OFZnVEYtaHUzRHJXcjJLWHFJSlp6Wi1MbHdNRm5fNVJmVVZ3OHc2bzRUMm5wblJZdHI4dDVHaV93WTBBR3oxbjF4TDZCUHNaUXRydkxxVQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_deport_european_parliament_2026-10-26"
+  },
+  {
+    "id": "auto-31167",
+    "headline": {
+      "ja": "イスラエルが選挙後の混乱に備え警察官2万2千人を配備",
+      "en": "Israel deploys 22,000 police officers amid fears of post-election unrest"
+    },
+    "summary": {
+      "ja": "イスラエル政府が選挙後の社会不安に対応するため、警察官2万2千人の配備を計画している。",
+      "en": "Israel plans to deploy 22,000 police officers to manage potential post-election unrest"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-26T09:28:08+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDlTOXdPYU5rdnNFUmdaUEZSWEx1VmZBUFU5RTN1Ny14WXZKU2xlNkR2NDhmeFBnVHJfSGVDMU45MXY3cXFhR0NFR3dFU1BqRDFFUUNabXFab1NtS0JTS3A5U1N0QlhGUEVfSU9FcnlyM19JU1YxcXVpbTZhMUprZ3FZR0swVldJRnVFaS1NNFllRm5EM21HRU4zb0RCM2Z6dS1xNEV6cGVPRVVDNjJJRkVIbnBzU3ctcV9HQkhBeVZzM1pi?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_election_unrest_security_2026-10"
+  },
+  {
+    "id": "auto-31177",
+    "headline": {
+      "ja": "イスラエル軍がガザの難民キャンプを焼き、800人以上のパレスチナ人が家を失う",
+      "en": "Israeli army burns displacement camp in Gaza, leaving 800 Palestinians homeless"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザの難民キャンプを焼却し、800人以上のパレスチナ人が住まいを失った。",
+      "en": "Israeli military destroys displacement camp in Gaza, displacing over 800 Palestinians"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-26T09:25:07+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVlXZDJQV1ZQOVdHNTJvVlZfTVlaaVBHLTVLdjRhdm1Wd3lfYVJDWWU1OXhzX1M4VTFfMzRTenowSE5SS3JDN0JVZVZJcGRncHBLdEFndFNMUHByNUQ2LTY1VUQzbUs4Zzc1V3lnRnktRDNURXhfSjJXdzN3Q1RaaHp0Tk1pa0hMcE51Z200d1I4T2VKTnIyTXkyUGNjU2JCYTREN3EtOXlRV0R2Q2RmcE1DTGE3Q3NZRGZoQ1RHQ2ZVQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_camp_burning_displacement_2026-10-26",
+    "severity": 4
+  },
+  {
+    "id": "auto-31163",
+    "headline": {
+      "ja": "ガザ紛争で7歳女児を含む4人のパレスチナ人が殺害",
+      "en": "4 Palestinians killed in Israeli attacks on Gaza including 7-year-old girl"
+    },
+    "summary": {
+      "ja": "イスラエルの攻撃によってガザで7歳の少女を含む4人のパレスチナ人が殺害された。",
+      "en": "Israeli attacks in Gaza kill 4 Palestinians including a 7-year-old girl"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-26T09:01:36+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzl0YzdkVEY3NVZDVi1hRUh1MWJ0SFl5RW95YTVabjRtS1FZMkZQMFNfVkhmVTNKNDZ2a21zUFZJVW0wc0FMOFlhRnVYNDRBWElLUnE4MjludGtmZFFlTEI4NVAwOHlPMlcwcFBmWlMyXzlUQ3p2RzNyaWdjOVIwY21kdlh5cldoVzIyRUpENlRJRGVEaXpNOUdHaDdXZzN4bFN1MktGSW1xV0dVcVE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israeli_attacks_2026-10-26"
+  },
+  {
+    "id": "auto-31292",
+    "headline": {
+      "ja": "ウクライナの攻撃でロシア中部で2人死亡、17人負傷",
+      "en": "Two dead, 17 injured: aftermath of Ukrainian attack on Russia's central Voronezh Region"
+    },
+    "summary": {
+      "ja": "ウクライナがロシア中部のヴォロネジ州を攻撃し、2人が死亡、17人が負傷した。",
+      "en": "Ukrainian attack on central Voronezh Region in Russia kills 2, injures 17"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-26T08:50:32+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyZUdoMUVtaGpZU0lDRkJ2TDV3dUx5eTR1R1Q4dl9DRDgwTlFjTHhaLXlXUnlMZjRibENOeFJmZ281NDByQVZxWElBd0fSAVJBVV95cUxPS25BUVhKcVM1eE5TZGF1NTBTUWVXcDgyQzZlT2d3VTN1U3dySERkVmpEY1FJeGIyQmw3ZVNmOVFfUnU5RXNIekdYVkdJYW0xTkVB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "voronezh_casualties_2026-10-26"
+  },
+  {
+    "id": "auto-31297",
+    "headline": {
+      "ja": "ロシア軍がウクライナの後方支援施設、エネルギー施設、港湾施設を夜間攻撃",
+      "en": "Russian forces pound Ukrainian logistics hubs, energy, port sites in overnight strike"
+    },
+    "summary": {
+      "ja": "ロシア軍がウクライナの物流拠点、エネルギー施設、港湾施設を夜間に攻撃した。",
+      "en": "Russian forces conduct overnight strikes on Ukrainian logistics hubs and energy infrastructure"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-26T08:18:33+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54YmM5bVJWMEdBNXBqRFExSnNsWG1yb1c4b0dtOUVkLTJVWGdjZ2lHcnBUVXAtd1d6ZGJTOFJGNkFFSWhVLU1xQdIBTkFVX3lxTFBObHVtUl9BaklRVWdRSExTaWFMSDZsLUdzX3hIRU5ocnFLTjBkWDFkSWFEaEdkNTBGel9VQkZObmo4V29aNFFWOWh6Skp1dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_strike_2026-10-26"
+  },
+  {
+    "id": "auto-31232",
+    "headline": {
+      "ja": "イスラエル軍がヘブロンで若者を拘束し、450以上の家族を強制移住",
+      "en": "Israeli forces detain young people from Hebron, forcibly displace over 450 families"
+    },
+    "summary": {
+      "ja": "イスラエル軍がヘブロンで若い男女を拘束し、450人以上の家族を強制移住させた。",
+      "en": "Israeli forces arrest young people in Hebron and forcibly displace over 450 Palestinian families"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-10-26T08:14:38+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IWjFMaVEydU53YVk5ZTE1YllEWTBKUE1oOE5tRDJBUl91eXAxTE5wVjdpLXRGZXlyQWpnbEpId2QwSzdNTi0zbXc0dHRQX0RqTXZjVFhKUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "hebron_displacement_2026-10-26",
+    "severity": 4
+  },
+  {
+    "id": "auto-31240",
+    "headline": {
+      "ja": "イスラエル軍がジェニン南部の観光村近くで農業・商業施設を破壊開始",
+      "en": "Israeli forces begin demolishing agricultural and commercial structures near tourist village, south of Jenin"
+    },
+    "summary": {
+      "ja": "イスラエル軍がジェニン南部の観光村近くで農業施設と商業施設の破壊を始めた。",
+      "en": "Israeli forces begin demolishing agricultural and commercial structures near tourist site south of Jenin"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 32.4594,
+    "lon": 35.3009,
+    "occurredAt": "2026-10-26T08:14:38+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pNy1kRFhwQXByN3RMUHZXNVU4NVZHVmtpa0VCZjBLZ1RKQi1Cckl0ZE9VQUQyTUs0cGc4OXZSZHl3Q3FaM0lBYXRReVU2QzVORzBCck1Qdw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jenin_demolition_2026-10-26"
+  },
+  {
+    "id": "auto-31166",
+    "headline": {
+      "ja": "中国共産党が5中全会を開催",
+      "en": "China's Communist Party convenes 5th plenum"
+    },
+    "summary": {
+      "ja": "中国共産党が5中全会を開催し、経済・政治方針についての討議が行われている。",
+      "en": "China's Communist Party convenes 5th plenum for economic and political policy discussion"
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-26T08:08:16+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjdzWlJ6QnZ6dTZTQmhSeUMzcTFsN2NWcnp5MzFjS1FjLXk4QVVYMGJxbklDRjZ5T2RCQk5pMTAxZHJvS1B4NHdhTERCcFVvLWxadWtuREdTaEpCd1ByMUVWSUpHQnU5R3pDOVU3MnMtekdwNjZET2JKZ2xDeUZoWGpHTC13d1dVaXlNb2FWY1VlMFE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "china_ccp_5th_plenum_2026-10"
+  },
+  {
     "id": "auto-30923",
     "headline": {
       "ja": "ベンガル湾の台風来襲に備えインド政府が対応を強化",
@@ -92,6 +601,52 @@
     "eventKey": "india_cyclone_bay_of_bengal_preparedness_2026-10-26"
   },
   {
+    "id": "auto-31169",
+    "headline": {
+      "ja": "イエメン外相が平和交渉の5つの条件を提示、フーシ派の武装解除を要求",
+      "en": "Yemen's foreign minister sets 5 conditions for peace, calls for Houthi disarmament"
+    },
+    "summary": {
+      "ja": "イエメン外相がイエメン紛争の平和解決に向けて5つの条件を提示し、フーシ派の武装解除が必要だと主張している。",
+      "en": "Yemen's foreign minister presents 5 conditions for peace settlement and demands Houthi disarmament"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-26T07:41:41+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYktsZXhOQzZqZ2QyZDY5WUlGSzRmMnM4LTlBVU9OdV9XSzU3YW9sYzZaaHZSaTg2N2dHREZaeS1fdURRZERncVZ6V1hKR18ya2tSNkxTRHdoQUNKU0pSR0VUMlhwMnB0M2I1cEU3YTNJOGFYc0NfX0FJQXRfSzRJRGd1aXRUUkZORVdmcE1Cc2hvVGVONTRpZ2JtZC1KdHR5cVRtRnV6eFYwMXpQNmZpRHpud21PZ2YzQjBMYVBxeEt6YldadEtBcjQteklEU0FIQUhkU0c1RQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_peace_talks_houthi_2026-10"
+  },
+  {
+    "id": "auto-31168",
+    "headline": {
+      "ja": "トルコ・サウジアラビア・パキスタン高官がイランを訪問し安全保障協議を開催",
+      "en": "Senior Turkish, Saudi, Pakistani officials visit Iran for security talks"
+    },
+    "summary": {
+      "ja": "トルコ、サウジアラビア、パキスタンの高官らがイランを訪問し、地域安全保障について協議を行う。",
+      "en": "Officials from Turkey, Saudi Arabia, and Pakistan visit Iran for regional security discussions"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-26T07:30:59+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVU5VaHFVT2VlNU0tcVlfcGxRQ2pRUjdoS1VFLVZSNy1GUHQwbk5qRGhGZGN2RHBEQlRqM1RGOXBuZG8zUk14cEFkT2MwUmFvdmxFU2dOcWNQalVqYmxyeEMtVGl6R1NDZlJMRlJhVWNwWmtDcEZwbzdjMU4tSkl2Nl9PUTNpbGUwZ0RTLThaWlZWNU11YlJicXdCeDZGalZNRE83WUU4ekU2UXJk?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_turkey_saudi_pakistan_security_talks_2026-10"
+  },
+  {
     "id": "auto-30833",
     "headline": {
       "ja": "ロシア海軍がボレイ級潜水艦からブラヴァ大陸間弾道ミサイル発射を予定と報告",
@@ -113,6 +668,53 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "russia_bulava_slbm_2026-10-26"
+  },
+  {
+    "id": "auto-31291",
+    "headline": {
+      "ja": "ウクライナがロシアのヴォロネジ州を攻撃、2人が殺害",
+      "en": "Ukrainian attack on Russia's Voronezh Region kills two"
+    },
+    "summary": {
+      "ja": "ウクライナがロシアのヴォロネジ州を攻撃し、2人が殺害された。",
+      "en": "Ukrainian attack on Voronezh Region in Russia kills 2 people"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-26T07:04:25+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55WUxDaVpWampLRUJMTmJ6dmhrQ280cHpacDBqVDNJcjVEWkRCNllWNThtbGlRSS02cExVUHRfdVJmVk5tMU9aYWVJSGHSAVJBVV95cUxPNjdtOEJwOG15LU5pTlhwcGhIU1VLR2ZWVlc1M1U5SnJKdDdZYkpCTVRTSlgxMXFQdXRsU1R4Y1g5RGp5SmEwQXRjWURPd0l3dEJR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "voronezh_ukraine_attack_2026-10-26"
+  },
+  {
+    "id": "auto-31162",
+    "headline": {
+      "ja": "米国・イスラエル・イラン対立の深刻化",
+      "en": "Escalation in US-Israel-Iran tensions"
+    },
+    "summary": {
+      "ja": "米国・イスラエル・イランの間で軍事的・政治的な対立が高まっている状況が報道されている。",
+      "en": "Growing military and political tensions reported among US, Israel, and Iran"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-26T01:45:15+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZENYQVpvR1hESDhOWEFUZEVJenZOWVIzTm5ubDBxSFo0b0FPWUQ2X2IyNWl1SkQ4LXdmRnhZZVV2bXdBOU1kenhacWJ1dE4xS2ZaZ1Vn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_israel_iran_tensions_2026-10",
+    "severity": 4
   },
   {
     "id": "auto-31310",
@@ -3136,120 +3738,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "uk_typhoon_deployment_saudi_2026-10-20"
-  },
-  {
-    "id": "auto-20484",
-    "headline": {
-      "ja": "サウジアラビア主導の連合軍、フーシ派の弾道ミサイルをリヤド方向で迎撃",
-      "en": "Saudi-led Coalition Intercepts Houthi Ballistic Missile Toward Riyadh"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合軍がフーシ派の弾道ミサイルをリヤドに向かう途中で迎撃した。",
-      "en": "The Saudi-led coalition intercepted a ballistic missile launched by Houthi forces targeting Riyadh."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-20T09:40:18+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXZNQllVY0w2QWNVWEdiaUNBaWlaTlUzSGhxemlocWlyOWZzV3pIR3NqMGk5VlZkazBRenc5N2VIXzV5bWtYWVgydkd2VExVZmYwcU10MnV0T2NvdWFLNGpZLUxIc2FYbU5ORV9HZFlEekxqa0hkOGRXVUFfWU91MWRmaUJSVGg2Rllqbzl2bVduZl9JdmdjQ3kySVFIaUlpVGxPVVZEemdDaC1j?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_houthi_missile_riyadh_2026-10-20"
-  },
-  {
-    "id": "auto-20567",
-    "headline": {
-      "ja": "米国、ウクライナへの愛国者迎撃ミサイル承認未実施",
-      "en": "US Has Not Approved Deliveries of Patriot Interceptor Missiles to Ukraine"
-    },
-    "summary": {
-      "ja": "ロシア政府は、米国がウクライナへの愛国者迎撃ミサイル供与をまだ承認していないと報じた。",
-      "en": "Russia reports that the US has not approved the delivery of Patriot interceptor missiles to Ukraine."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-20T09:04:49+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBpUXdFVThBQVRVdDhEUHBHVUxoRGVudlBzS2FZWWdLeHdzZFg1RzROYjl4dXV2LTFDbkpjTjBXZVpuNHlX0gFKQVVfeXFMUGgxN0FlOW5ZT1dfN0FSYTJMZWVMdDFwTkdSc2JWOHVaamd2S3pqUHo3ZEVYN1A4dFJLVDVVV08tWng4VE40bjdJWHc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "us_patriot_missiles_ukraine_delay_2026-10"
-  },
-  {
-    "id": "auto-22103",
-    "headline": {
-      "ja": "ウクライナ大統領がRubioと防空体制について協議",
-      "en": "Ukraine's Zelenskyy discusses air defense with Rubio"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領が、防空システムと弾道ミサイル警告について、Rubio氏と協議した。",
-      "en": "Ukraine's President Zelenskyy discussed air defense systems and ballistic missile warning mechanisms with U.S. official Rubio."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-20T07:49:09+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGo5Y2U5OVkwOW4wNFFCZUI1TEFnazBWOU9vZ0FRWnh5cU9YM1ppZDd5ZUtVZnVvREx5TWlJbTh0RHZmZ0F0WGdVQUhvZlpEQ3hqN3A5VHFBMmh5ZVhqT3NOa3pjNU93STk0UE5mZ3lUdWRtaGF1ZzBSU2Q3QUItcWpEeUxUZVBTNHdlQWw2Q1ZYMVZLRDBvVWxGd29RV2pwWlQ2N2t3RndTei1nN19iUzBFVQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_zelensky_rubio_defense_talks_2026-10-20"
-  },
-  {
-    "id": "auto-20552",
-    "headline": {
-      "ja": "ウクライナ大統領、ロシア弾道ミサイル攻撃の早期警戒とスターリンク協議をルビオと実施",
-      "en": "Early Warning of Russian Ballistic Missile Attacks and Starlink Discussion: Zelenskyy Meets with Marco Rubio"
-    },
-    "summary": {
-      "ja": "ウクライナ大統領は、ロシアの弾道ミサイル攻撃の早期警戒体制についてマルコ・ルビオと協議した。",
-      "en": "Ukraine's president discussed early warning systems for Russian ballistic missile attacks and Starlink support with Marco Rubio."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-20T07:06:00+00:00",
-    "source": {
-      "name": "ウクライナ 大統領府(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazFfSl96ZVc1My1xZVV5dm45TmxwbnkzWWpuOVdvbEtZbm9nWEQwckQ5Z09hS0Eyd04tRzRqSDNGakE3UmJ1UGJtUG5ta0VlSmsxOGRkVTZ6Nm13WE1TWDZvQnBVQkU5MDlDYlRMVlMzSjgtWlBJTFdxSEJ2ekFITHNyeTZ5UWgxMVNLa1JJZldhSmhDWU5VS0hnTFJsSGN2RVdBSm5xaw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russian_missile_threat_2026-10-20"
-  },
-  {
-    "id": "auto-20707",
-    "headline": {
-      "ja": "米国のソマリア空爆が急増、トランプ政権が加速",
-      "en": "The Human Cost of Surging US Air Strikes in Somalia"
-    },
-    "summary": {
-      "ja": "トランプ政権が対ソマリア武装勢力の空爆を加速させており、民間人の死傷者や避難民が増加している。",
-      "en": "The Trump administration has accelerated US air strikes against armed groups in Somalia, resulting in civilian casualties and displacement."
-    },
-    "category": "conflict",
-    "country": "ソマリア",
-    "lat": 2.0371,
-    "lon": 45.3438,
-    "occurredAt": "2026-10-20T01:52:32+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_airstrikes_somalia_2026-10"
   }
 ]
