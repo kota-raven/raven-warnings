@@ -23,6 +23,29 @@
     "eventKey": "japan_tokyo_earthquake_2026-10-28"
   },
   {
+    "id": "auto-34910",
+    "headline": {
+      "ja": "ガザ南部でのドローン攻撃、パレスチナ人3人死亡",
+      "en": "Three Palestinians killed in Israeli drone strikes in southern Gaza"
+    },
+    "summary": {
+      "ja": "南ガザでのイスラエル軍ドローン攻撃により、パレスチナ人3人が死亡し、10人が負傷した。",
+      "en": "Israeli drone strikes in southern Gaza killed three Palestinians and injured ten others."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-28T14:28:01+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XSzhjSkdva0Y1N2paZkRpNHZJc09uQko0YWpacnJTOFYyQ3c4eW1KOGlJbUxSQnZWWHlWTU9SVXdyMEdKRmlSY3hrQlgzOWJGSTQ5WWNkWQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_gaza_drone_strike_2026-10-28"
+  },
+  {
     "id": "auto-34727",
     "headline": {
       "ja": "シリアとジョルダン、国境での共同安全保障委員会設置で合意",
@@ -44,6 +67,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "syria_jordan_border_agreement_2026-10-28"
+  },
+  {
+    "id": "auto-34953",
+    "headline": {
+      "ja": "スペイン列車衝突、50人以上死亡",
+      "en": "Spain train collision: at least 50 killed, up to 180 injured"
+    },
+    "summary": {
+      "ja": "スペインで2本の旅客列車が衝突し、少なくとも50人が死亡し、最大180人が負傷した。",
+      "en": "Two passenger trains collided in Spain, killing at least 50 people and injuring up to 180 others."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-10-28T13:59:55+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EV04wakpvSFFDU3JnTTFrMG0wbDNWR25mOVh5TW1fVUxHczZjRXZjb09oQjRrT2J5eXZwV2RQRWtuZmZRUGxORGJrNEzSAVJBVV95cUxNNi0yS29lYmZTR3VfT21PLUVTRTZwRDB3VzVMd3pZRXNmaUxDQmVtcDBxVVd3dlg0RzEyMVY3eGJRZGxUcHhmQmJoaS1iZklCOVF3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_urda_train_collision_2026-10-28",
+    "severity": 4
   },
   {
     "id": "auto-34675",
@@ -3452,29 +3499,5 @@
     "auto": true,
     "eventKey": "iran_irgc_offensive_doctrine_2026-10-22",
     "severity": 4
-  },
-  {
-    "id": "auto-23749",
-    "headline": {
-      "ja": "キーウ攻撃後、ロシアが和平交渉の再開意思を表明",
-      "en": "Russia signals willingness to resume Ukraine peace talks after Kyiv missile strike"
-    },
-    "summary": {
-      "ja": "ロシア政府は和平交渉の再開に「原則的に同意」すると表明。米大統領は「戦争終結に最も近い状態」と述べた。",
-      "en": "Russia signals readiness to resume peace talks in principle; US President says world is closest to ending the war."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-21T21:27:41+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_peace_talks_2026-10-21",
-    "severity": 5
   }
 ]
