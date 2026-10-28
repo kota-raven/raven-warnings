@@ -3454,52 +3454,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "yemen_houthi_hadramout_aden_2026-10-21"
-  },
-  {
-    "id": "auto-23399",
-    "headline": {
-      "ja": "イエメン・アデンで爆発、フーシ派が軍事キャンプへの弾道ミサイル攻撃を主張",
-      "en": "Blast reported in Yemen's Aden; Houthis claim ballistic missile attack on military camp"
-    },
-    "summary": {
-      "ja": "アデン空港近くで爆発が観測され、フーシ派が弾道ミサイルで軍事キャンプを攻撃したと主張した。",
-      "en": "An explosion was reported near Aden airport; the Houthis claimed responsibility for a ballistic missile attack on a military camp."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-21T09:02:18+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_aden_houthi_missile_attack_oct2026"
-  },
-  {
-    "id": "auto-23403",
-    "headline": {
-      "ja": "スーダン・南スーダン国境地域でドローン攻撃、153人以上が死亡",
-      "en": "Drone attack in disputed Sudan-South Sudan border region kills at least 153"
-    },
-    "summary": {
-      "ja": "スーダン軍がスーダン・南スーダン国境の市場地域でドローン攻撃を実施し、少なくとも153人が死亡。MSF(国境なき医師団)が20人以上の負傷者を治療中と報告している。",
-      "en": "Sudan's military conducted a drone attack on a market in a disputed border region, killing at least 153 people. Doctors Without Borders reports treating over 20 wounded persons."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-21T08:25:45+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_border_drone_attack_153killed_oct2026",
-    "severity": 4
   }
 ]
