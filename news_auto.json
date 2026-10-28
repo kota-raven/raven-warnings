@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-34377",
+    "headline": {
+      "ja": "ハルキウへのロシアのドローン攻撃で民間人が避難",
+      "en": "Russian Drone Attack on Kharkiv Forces Civilian Evacuation"
+    },
+    "summary": {
+      "ja": "ウクライナ東部ハルキウで火曜夜遅くにロシアのドローン攻撃があり、高齢女性と子どもを含む市民が避難を強いられた。",
+      "en": "A Russian drone attack in Ukraine's Kharkiv on late Tuesday evening forced elderly women and children among other civilians to evacuate their homes."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 49.9818,
+    "lon": 36.2548,
+    "occurredAt": "2026-10-28T07:35:20+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kharkiv_russian_drone_attack_2026-10-28"
+  },
+  {
     "id": "auto-33740",
     "headline": {
       "ja": "ヨルダン空爆後、シリアの民間人保護で国連が声明",
