@@ -669,5 +669,26 @@
       "url": "https://www.theweek.in/news/india/2026/10/28/cyclone-arnab-hits-andhra-pradesh-deaths.html"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-28-12",
+    "headline": {
+      "ja": "イスラエル総選挙、開票85%でネタニヤフ陣営53議席・アイゼンコット陣営48議席 なお過半数届かず",
+      "en": "Israel election: with 85% counted, Netanyahu bloc at 53 seats, Eisenkot bloc at 48; neither reaches majority"
+    },
+    "summary": {
+      "ja": "Times of Israelのライブブログによると、開票率約85%の時点で中央選挙管理委員会(CEC)はネタニヤフ首相派陣営53議席、アイゼンコット氏派「ヤシャル」陣営48議席、アラブ系政党19議席と発表したという。政党別ではリクード26議席・ヤシャルが21議席とされ、数時間前に報じられた開票率41%時点の数字(リクード28議席・ヤシャル21議席、既報id: 2026-10-28-10)からリクードの議席がやや後退したという。いずれの陣営も過半数(61議席)には届いていないという。ハーツォグ大統領は連立協議にあたり「開かれた心」を持つよう各党に呼びかけたという。推測:兵士票・在外投票等の残票(二重封筒票)集計で最終結果はさらに変動し得る。最終確定結果は未発表(既報id: 2026-10-28-06、10の続報)。[信頼性: 中](Times of Israel・Ynetなど複数メディアが中央選挙管理委員会の集計を報じているが、暫定集計であり政党別議席数は報道間で若干の差異がある)",
+      "en": "According to the Times of Israel's live blog, with roughly 85% of ballots counted, the Central Elections Committee put Prime Minister Netanyahu's bloc at 53 seats, Gadi Eisenkot's Yashar-led bloc at 48, and Arab parties at 19. By party, Likud stood at 26 seats and Yashar at 21 -- a slight pullback for Likud from figures reported a few hours earlier at 41% counted (Likud 28, Yashar 21; previously reported id: 2026-10-28-10). Neither bloc has reached the 61-seat majority. President Herzog called on parties to keep an \"open mind\" in coalition talks. Inference: remaining votes, including soldiers' and absentee double-envelope ballots, could still shift the final outcome, which has not yet been certified. Follow-up to previously reported ids 2026-10-28-06 and -10. [Reliability: Medium] (Multiple outlets including the Times of Israel and Ynet report the Central Elections Committee's count, but it remains provisional and party-level seat figures vary slightly between reports.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-28T13:30:00+00:00",
+    "source": {
+      "name": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
+    },
+    "reliability": "medium"
   }
 ]
