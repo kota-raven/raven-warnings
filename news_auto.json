@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-33740",
+    "headline": {
+      "ja": "ヨルダン空爆後、シリアの民間人保護で国連が声明",
+      "en": "UN calls for protection of civilians following Jordanian airstrikes in southern Syria"
+    },
+    "summary": {
+      "ja": "国連は、ヨルダンがシリア南部で実施した空爆のあと、民間人保護の重要性を強調する声明を発表した。",
+      "en": "The UN emphasized the importance of civilian protection following Jordanian airstrikes in southern Syria."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-27T17:38:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEp2bGMzYVkxeEFtWXlpVEFIMmRxWm85bGR5NHdVT2VsV1dpdTFReVRnb3N4R2ZzTjdwSXE0UnM1ekg0VlB2XzNBZGc4SjVfTDNvSG11bzQ4ak5jNmwxbFU5SjNfM1ppcHp3MnB5V3RlOTB4OUJPTzM5Nms0MGFOLV9femhlYkdsaVBtdUw3bG9vdFFqMlplc3FlYnppV28wWFVudTh3VXotR1VUMXg1YWU5Z1NtanJDZXZKVA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "jordan_syria_airstrike_un_response_2026-10-27"
+  },
+  {
+    "id": "auto-33457",
+    "headline": {
+      "ja": "ヨルダン空爆でシリア家族4人が殺害、葬儀が執り行われた",
+      "en": "Funeral held for family of four killed in Jordanian airstrikes in Syria"
+    },
+    "summary": {
+      "ja": "シリアでのヨルダンの空爆により、子ども3人を含む家族4人が殺害され、葬儀が行われた。",
+      "en": "Four family members, including three children, were buried after being killed in Jordanian airstrikes in Syria."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-27T17:03:45+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "jordan_syria_airstrike_2026-10-27"
+  },
+  {
+    "id": "auto-33696",
+    "headline": {
+      "ja": "サウジがフーシ派の弾道ミサイル2発を迎撃、リヤドで被害報告",
+      "en": "Saudi Arabia intercepts two Houthi ballistic missiles, damage reported in Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビア民間防衛庁は、フーシ派が発射した弾道ミサイル2発を迎撃したが、迎撃された破片がリヤドの建物、建設中のプロジェクト、車両に被害をもたらしたと発表した。",
+      "en": "Saudi Civil Defense reported successfully intercepting two Houthi ballistic missiles, with material damage to buildings, a construction project, and vehicles in Riyadh from debris."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-27T15:17:13+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MaFVwWl9UYjZNQWlRQWdsT3VMSFdHOGNET280czR1VHVVdENQN1lnVWRsZWFlUlhCYTd3S2UwYTZWcHhCaW4tYXhR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_missile_attack_2026-10-27"
+  },
+  {
+    "id": "auto-33608",
+    "headline": {
+      "ja": "ウクライナへのロシア空爆が加速、国連が支援継続を呼びかけ",
+      "en": "UN urges continued support for Ukraine as Russian airstrikes intensify"
+    },
+    "summary": {
+      "ja": "国連難民高等弁務官事務所は、ロシアの空爆激化と人道危機の深刻化を受け、ウクライナ国民への国際的支援の継続を求めた。冬季の厳しい状況が迫る中、援助の必要性が高まっている。",
+      "en": "UNHCR urged continued international support for Ukraine's population as Russian airstrikes intensify and humanitarian needs grow ahead of another cold winter."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-27T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russian_airstrikes_2026-10"
+  },
+  {
     "id": "auto-32253",
     "headline": {
       "ja": "@rybarアカウントで、ロシア軍がキーウ、ハリコフへの大規模攻撃を実施したという投稿があった",
@@ -3409,51 +3501,5 @@
     "auto": true,
     "eventKey": "sudan_border_drone_attack_153killed_oct2026",
     "severity": 4
-  },
-  {
-    "id": "auto-22120",
-    "headline": {
-      "ja": "米特使、ゼレンスキーとの会談後プーチンに更新の和平案を提示へ",
-      "en": "US Envoy to Present Updated Ukraine Peace Proposal to Putin After Zelenskyy Talks"
-    },
-    "summary": {
-      "ja": "米国の特使がゼレンスキー大統領との協議後、更新されたウクライナ和平案をプーチン大統領に提示する予定。停戦交渉の進展を示す動き。",
-      "en": "US envoy to present updated Ukraine peace proposal to Putin following talks with President Zelenskyy, advancing peace negotiations"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-21T00:40:17+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOak11M1UwV0F5aTBzdXhoMTBIRGo5cHhOZ255WFkyUVI1akVhY29IWUxIaUpncU9VUzB1UmFBUUkxbVBiWjlEMWdUQVNkbFhnQXhpNUkyV2ZIS0hoQjJFX2FsSjlHWGV0Mklob0VFSG9JRmxYQjRlZDFyc0p1YjN4OGh6Q2pCcG9RNElvbnZlVGxVQ295WnhLSXFuRExBNm5NaHhuZ05PMy1GUjV5WC1kUEswXzdkaS1YdDZ4YlE1ZWppUHNJY2c5bHZn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_peace_proposal_october_2026"
-  },
-  {
-    "id": "auto-21901",
-    "headline": {
-      "ja": "国連、スーダンでのドローン攻撃を非難",
-      "en": "UN Condemns Drone Strikes in Sudan"
-    },
-    "summary": {
-      "ja": "国連はスーダンで行われたドローン攻撃を非難した。民間人への被害が懸念されている。",
-      "en": "UN condemns drone strikes in Sudan, raising concerns about civilian casualties"
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-10-20T22:31:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV0NZaUljZ0x0MzlaZnM1V2xqWmp5V05MV0tRZTVTOVptd0wxX0FUTFk4eHk2VUp6THNrUUpCX1Q4LUhFNzh2bnh4OHBxalM2TGtsUk5MV3ZVX21IelllUkIzbm9fb3VGRGE3QzJvaWt2NERXd3pQRmVGdnlvTjFkRlA5SDYyQQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_drone_strikes_un_condemn_oct2026"
   }
 ]
