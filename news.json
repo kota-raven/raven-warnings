@@ -582,5 +582,92 @@
       "url": "https://odishatv.in/odisha/cyclone-arnab-makes-landfall-along-andhra-coast-moving-towards-odisha-12759449"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-28-08",
+    "headline": {
+      "ja": "ロシア軍、キーウへ弾道ミサイル・ドローン攻撃 ゼレンスキー氏「パトリオット不足」訴え",
+      "en": "Russia hits Kyiv with ballistic missile and drone wave; Zelensky says Ukraine short on Patriot interceptors"
+    },
+    "summary": {
+      "ja": "Kyiv Independent・Euromaidan Press・UA News等によると、ロシア軍は10月27日夜から28日未明にかけて弾道ミサイル1発とドローン88機でウクライナを攻撃し、ウクライナ空軍は71標的を撃墜・無力化したと発表したという。キーウが主要な標的だったとされる。ゼレンスキー大統領は10月27日の演説で、10月14日以降キーウ・キーウ州へロシアが発射した弾道ミサイルが100発を超えたと述べ、パトリオット等の防空ミサイルが「足りない」としてワシントンに追加供与を求めたという。推測:一部ウクライナ当局者は、供与の遅れを米側の政治的圧力とみる見方があるとされるが、独立した確認はできていない。[信頼性: 高](Kyiv Independent・Kyiv Post・Euromaidan Pressなど複数の独立報道が一致)",
+      "en": "According to the Kyiv Independent, Euromaidan Press and UA News, Russia attacked Ukraine overnight Oct. 27-28 with one ballistic missile and 88 drones, and Ukraine's Air Force said it shot down or suppressed 71 of the targets, with Kyiv the main target. In his Oct. 27 evening address, President Zelensky said Russia had fired more than 100 ballistic missiles at Kyiv and Kyiv Oblast since Oct. 14, and said Ukraine lacks enough Patriot interceptors, urging Washington to release delayed air-defense supplies. Inference: some Ukrainian officials reportedly see the delay as political pressure from Washington, though this is not independently confirmed. [Reliability: High] (Multiple independent outlets -- Kyiv Independent, Kyiv Post, Euromaidan Press -- agree on the core facts.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-10-28T02:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent / Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/28/above-all-we-do-not-have-enough-missiles-for-patriots-zelenskyy-after-100-ballistic-missiles/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-28-09",
+    "headline": {
+      "ja": "ウクライナ軍、露リペツクの製鉄所とトゥーラの化学工場を攻撃 露側は530機超のドローン撃退と発表",
+      "en": "Ukraine strikes Russia's largest steel plant in Lipetsk and a chemical plant in Tula; Moscow claims 531 drones downed"
+    },
+    "summary": {
+      "ja": "Kyiv Postによると、ウクライナ軍は10月27日夜から28日にかけて、ロシア最大級の製鉄所であるノヴォリペツク製鉄所(リペツク州)と、トゥーラ州のアゾト化学工場を攻撃し、いずれも火災が発生したという。ロシア国防省は同夜間にウクライナ側ドローン531機を迎撃・無力化したと発表したが、ウクライナ側はこの数値について本稿執筆時点でコメントしていないという。推測:両施設の被害規模・操業への影響は本稿執筆時点で確認できていない。[信頼性: 中](Kyiv Postの報道およびロシア国防省発表に基づく。ロシア側発表数値は独立検証できていない)",
+      "en": "According to the Kyiv Post, Ukrainian forces struck Russia's largest steel plant, Novolipetsk Steel in the Lipetsk region, and an Azot chemical plant in the Tula region overnight Oct. 27-28, sparking fires at both sites. Russia's Defense Ministry claimed it intercepted or neutralized 531 Ukrainian drones overnight, a figure Ukraine had not commented on at the time of writing. Inference: the extent of damage and impact on operations at either plant was not yet confirmed. [Reliability: Medium] (Based on Kyiv Post reporting and a Russian Defense Ministry statement; Russia's claimed figure is not independently verified.)"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "region": "リペツク州/トゥーラ州",
+    "lat": 52.6031,
+    "lon": 39.5708,
+    "occurredAt": "2026-10-28T01:00:00+00:00",
+    "source": {
+      "name": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/88382"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-28-10",
+    "headline": {
+      "ja": "イスラエル総選挙、開票進み200万票超 報道によりリクードの議席数に幅(28〜32)、デッドロック感は継続",
+      "en": "Israel election: over 2 million votes counted, reports diverge on Likud's seat count (28-32), deadlock picture persists"
+    },
+    "summary": {
+      "ja": "Jerusalem Post・Business Standard等によると、10月28日早朝(現地時間)までに200万票超が開票され、ネタニヤフ首相のリクードがアイゼンコット氏陣営に対し優位を広げているとJerusalem Postは報じる一方、別の集計(開票率約41%時点)ではリクード28議席・ヤシャル21議席とする報道もあり、数時間前に報じられた開票率24%時点の数字(リクード32議席・ヤシャル22議席、既報id: 2026-10-28-06)と比べて議席数の振れがあるという。与野党いずれのブロックも過半数(61議席)に届いていない状況は変わっていないとされる。推測:暫定集計の時点・対象票の範囲が報道間で異なるため、議席数の増減の実態は本稿執筆時点で確証できない。最終確定結果は未発表。[信頼性: 中](複数メディアが報じているが、具体的な議席数・開票率の数値は報道間で一致しておらず、暫定値の域を出ない)",
+      "en": "According to the Jerusalem Post and Business Standard, more than 2 million votes had been counted by early Wednesday Israel time, with the Jerusalem Post reporting Netanyahu's Likud extending its lead over Eisenkot's camp, while another report citing roughly 41% of votes counted put Likud at 28 seats and Yashar at 21 -- a shift from figures reported a few hours earlier at 24% counted (Likud 32, Yashar 22; previously reported id: 2026-10-28-06). Neither bloc has yet reached the 61-seat majority. Inference: the discrepancy likely reflects different snapshots and vote subsets across outlets, and the actual trend cannot be confirmed from these reports alone. No final certified result has been announced. [Reliability: Medium] (Multiple outlets report on the count, but specific seat numbers and count percentages differ between sources and remain preliminary.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-28T04:00:00+00:00",
+    "source": {
+      "name": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913053"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-10-28-11",
+    "headline": {
+      "ja": "サイクロン「アルナブ」、アーンドラ・プラデーシュ州に上陸し弱まる 感電死2人、死者は限定的",
+      "en": "Cyclone Arnab makes landfall in Andhra Pradesh and weakens; two electrocution deaths, overall toll limited"
+    },
+    "summary": {
+      "ja": "The Week・ETV Bharat等によると、非常に強いサイクロン「アルナブ」は10月28日朝、アーンドラ・プラデーシュ州・ヤナム沿岸に上陸し、最大風速135km/h(ガスト150km/h)を観測した後、上陸後に「厳しいサイクロン」級へ弱まったという。アーンドラ・プラデーシュ州で感電による死亡事故が2件報告され、1件は10月27日夜に切れた電線に触れた53歳男性、もう1件は10月28日朝にアナカパッリ県イェラマンチリで発生し55歳女性が死亡したという。州当局(ナイドゥ州首相)は当初「死者報告なし」としていたが、その後この2件が報告されたという。オディシャ州側では本稿執筆時点で死者の報告は確認できていない。既報(id: 2026-10-28-04、07)の続報。[信頼性: 中](The Week・ETV Bharat等の報道、PTI電を引用。被害の全容は今後更新される可能性がある)",
+      "en": "According to The Week and ETV Bharat, the very severe Cyclone Arnab made landfall near the Andhra Pradesh-Yanam coast on the morning of Oct. 28, with peak sustained winds of 135 km/h (gusts to 150 km/h), before weakening to a severe cyclonic storm after landfall. Andhra Pradesh reported two electrocution deaths: a 53-year-old man killed by a snapped live wire on the night of Oct. 27, and a 55-year-old woman in Yellamanchili, Anakapalli district, on the morning of Oct. 28. State authorities, including Chief Minister Naidu, had initially said no deaths were reported before these two were confirmed. No deaths had been confirmed in Odisha as of this writing. Follow-up to previously reported ids 2026-10-28-04 and -07. [Reliability: Medium] (Based on reporting by The Week, ETV Bharat and others citing PTI; the full damage picture may be updated further.)"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "region": "アーンドラ・プラデーシュ州",
+    "lat": 16.8,
+    "lon": 81.84,
+    "occurredAt": "2026-10-28T03:00:00+00:00",
+    "source": {
+      "name": "The Week",
+      "url": "https://www.theweek.in/news/india/2026/10/28/cyclone-arnab-hits-andhra-pradesh-deaths.html"
+    },
+    "reliability": "medium"
   }
 ]
