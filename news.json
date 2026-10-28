@@ -690,5 +690,26 @@
       "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-29-01",
+    "headline": {
+      "ja": "米FRB、政策金利を3.75〜4.00%で維持 クック理事・ハマック総裁は利上げ主張で反対",
+      "en": "US Fed holds rates at 3.75%-4.00%; Governor Cook and Cleveland Fed's Hammack dissent for a hike"
+    },
+    "summary": {
+      "ja": "CNBC・CNN・Axios・Yahoo Finance等によると、米連邦準備制度理事会(FRB)は10月28日のFOMC(連邦公開市場委員会)で、政策金利を3.75〜4.00%で維持することを10対2で決定したという。クック理事とハマック・クリーブランド連銀総裁は0.25%ポイントの利上げを主張して反対したという。5月にパウエル前議長から議長職を引き継いだウォーシュ議長は記者会見で、今回の決定に中間選挙(11月)を意識した政治的意図はないと述べ、12月の次回会合では利上げに傾く可能性を示唆したという。ウォーシュ議長はまた、2027年以降、年8回の会合のうち1回を、金利決定を伴わない「大枠の金融政策戦略」を議論する会合に変更すると発表したという。[信頼性: 高](CNBC・CNN・Axios・Yahoo Finance等、複数の独立した報道が金利水準・反対票2名の内容で一致)",
+      "en": "According to CNBC, CNN, Axios, Yahoo Finance and others, the US Federal Reserve voted 10-2 at its October 28 FOMC meeting to hold the policy rate at 3.75%-4.00%. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, both favoring a quarter-point hike. Fed Chair Kevin Warsh, who succeeded Jerome Powell in May, said at the press conference that politics played no role in the decision ahead of the November midterms, and suggested the committee could lean toward a hike at the December meeting. Warsh also announced that starting in 2027, one of the Fed's eight annual meetings will be devoted to broad monetary policy strategy with no rate decision. [Reliability: High] (Multiple independent outlets -- CNBC, CNN, Axios, Yahoo Finance -- agree on the rate level and the two dissenting votes.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-28T18:00:00+00:00",
+    "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+    },
+    "reliability": "high"
   }
 ]
