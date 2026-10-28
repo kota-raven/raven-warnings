@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T21:14:24.167Z",
+  "generatedAt": "2026-10-28T01:11:07.606Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 193,
   "warnings": [
@@ -248,6 +248,82 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264235",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4235",
+      "title": "オーストラリア北西岸、水中作業終了",
+      "publishedAt": "2026-10-28T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4235   発表日時:2026年10月28日 08時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V FUGRO KWILENAによる水中作業終了。\r\r\n(4215削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264235&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264234",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4234",
+      "title": "ベンガル湾及びアンダマン海、ロケット打上げ",
+      "publishedAt": "2026-10-28T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            84.75,
+            12
+          ],
+          [
+            85,
+            12.75
+          ],
+          [
+            86.33333333333333,
+            12.333333333333334
+          ],
+          [
+            86.08333333333333,
+            11.583333333333334
+          ],
+          [
+            87.83333333333333,
+            10.916666666666666
+          ],
+          [
+            88,
+            11.916666666666666
+          ],
+          [
+            90.5,
+            11.083333333333334
+          ],
+          [
+            90.33333333333333,
+            10.083333333333334
+          ],
+          [
+            95.16666666666667,
+            9.583333333333334
+          ],
+          [
+            96.08333333333333,
+            9.583333333333334
+          ],
+          [
+            96.08333333333333,
+            7.833333333333333
+          ],
+          [
+            95.16666666666667,
+            7.833333333333333
+          ]
+        ]
+      },
+      "rawText": "番号:26-4234   発表日時:2026年10月28日 08時\r\n\n\r\n★ ベンガル湾及びアンダマン海、\r\r\nロケット打上げ、10月30日1700Z-2100Z、\r\r\n(1)12-00N 084-45E 12-45N 085-00E\r\r\n   12-20N 086-20E 11-35N 086-05E、\r\r\n(2)10-55N 087-50E 11-55N 088-00E\r\r\n   11-05N 090-30E 10-05N 090-20E、\r\r\n(3)09-35N 095-10E 09-35N 096-05E\r\r\n   07-50N 096-05E 07-50N 095-10E、\r\r\nで囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264234&LANG=JP"
     },
     {
       "id": "JAPANNW-264233",
@@ -610,18 +686,6 @@
       "geometry": null,
       "rawText": "番号:26-4216   発表日時:2026年10月27日 20時\r\n\n\r\n沖縄島南西、\r\r\n射撃終了。\r\r\n(4157削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264216&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264215",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4215",
-      "title": "オーストラリア北西岸、水中作業",
-      "publishedAt": "2026-10-27T11:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4215   発表日時:2026年10月27日 11時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V FUGRO KWILENAによる水中作業、当分の間、\r\r\n20-01.70S 116-31.20E 20-01.70S 116-37.70E\r\r\n20-10.70S 116-37.70E 20-10.70S 116-31.20E\r\r\nの各点で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264215&LANG=JP"
     },
     {
       "id": "JAPANNW-264214",
@@ -3164,6 +3228,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262045",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "2045",
+      "title": "本州北西岸及び本州北岸、避難勧告",
+      "publishedAt": "2026-10-28T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2045    発表日時:2026年10月28日 09時\r\n\n\r\n本州北西岸及び本州北岸\r\r\n荒天により、避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。\r\r\n(2034削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262045&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262044",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3380,18 +3456,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262035&LANG=JP"
     },
     {
-      "id": "NAVTEX-262034",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "2034",
-      "title": "本州北西岸、避難勧告",
-      "publishedAt": "2026-10-27T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2034    発表日時:2026年10月27日 13時\r\n\n\r\n本州北西岸、\r\r\n荒天により、避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262034&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262033",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3508,18 +3572,6 @@
       },
       "rawText": "番号:26-2018    発表日時:2026年10月25日 13時\r\n\n\r\n都井岬東北東、\r\r\n射撃、10月30日(予備31日)0600-1800、\r\r\n31-48-13N 133-29-51E\r\r\n31-42-13N 133-29-51E\r\r\n31-28-13N 132-59-51E\r\r\n31-36-13N 132-59-51E\r\r\n31-36-13N 132-37-51E\r\r\n31-48-13N 132-37-51Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262018&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262017",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "2017",
-      "title": "本州東岸、綾里埼南南西、木材漂流",
-      "publishedAt": "2026-10-25T11:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2017    発表日時:2026年10月25日 11時\r\n\n\r\n本州東岸、綾里埼南南西、\r\r\n木材(長さ約8メートル)漂流、10月25日0630、\r\r\n38-53.8N 141-47.0E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262017&LANG=JP"
     },
     {
       "id": "NAVTEX-262015",
