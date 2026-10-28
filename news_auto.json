@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-34727",
+    "headline": {
+      "ja": "シリアとジョルダン、国境での共同安全保障委員会設置で合意",
+      "en": "Syria and Jordan agree on joint security committee as border crossing reopens"
+    },
+    "summary": {
+      "ja": "シリアとジョルダンは共同安全保障委員会の設置に合意し、空爆後に国境通路を再開した。",
+      "en": "Syria and Jordan agreed to establish a joint security committee and reopened their border crossing following the deadly airstrikes."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-28T14:25:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90dlh0aHJlalphcjAyMThQa3ZWWE0tZHh2U2llMGNtOUJPMmE1SWZHLS03bzFxcjNIQlFSbTBfanBCWU1UZHA5elJQdl9iRlRxTUl3NXhxcUFaT2VmYTlpa2UxVHJmNTA4Mk9zQmVJQjRTdlhmeElHbnllbEE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "syria_jordan_border_agreement_2026-10-28"
+  },
+  {
+    "id": "auto-34675",
+    "headline": {
+      "ja": "ジョルダン空爆でシリア南部の住民7人が死亡",
+      "en": "Jordan's air strikes kill 7 people in southern Syria"
+    },
+    "summary": {
+      "ja": "ジョルダンのシリア南部への空爆により、子ども3人を含む少なくとも7人が死亡した。",
+      "en": "Jordan's air strikes in southern Syria killed at least 7 people, including 3 children."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-28T12:35:19+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_syria_airstrikes_2026-10-28"
+  },
+  {
+    "id": "auto-34969",
+    "headline": {
+      "ja": "ゼレンスキー、米国からのパトリオット供給不足を指摘",
+      "en": "Zelensky says Ukraine receives 12 Patriot missiles per month but fires more than 30"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領は、ウクライナが毎月米国から12発のパトリオットミサイルを受け取るが、月30発以上を発射していると述べた。",
+      "en": "President Zelensky stated that Ukraine receives 12 Patriot missiles monthly from the US but fires more than 30 per month."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-28T11:01:16+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4R3BJZGpVVnpDeWl0TWRJcEhCMi1iekVraERjcnY4ZGxQaVNSR1BiUkhaSWhzWm02MmFpNTMybzVjUEtV0gFKQVVfeXFMTjl6WWQ4bXNDaUR5VVFoOEJwbWVKZFZZLTYyTUpKV3FkNGNhTVBUR0llejh3d3dKeXlJYnJDQkd1MmQ5dVdkdVZTOEE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_patriot_missile_shortage_2026-10-28"
+  },
+  {
+    "id": "auto-34647",
+    "headline": {
+      "ja": "中国政府、日本は核兵器の運搬手段を開発できると発言",
+      "en": "China says Japan can develop means of delivering nuclear weapons"
+    },
+    "summary": {
+      "ja": "中国政府は、日本が核兵器の運搬手段を開発できると発表した。",
+      "en": "China's government stated that Japan can develop means of delivering nuclear weapons."
+    },
+    "category": "conflict",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-10-28T10:41:10+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE14V2tEVmpLZUY3LWZOTkN4TTlNVnhRWnJYWElhQmpRSXlwbjBLcWZkVWU0SEdDUkhYcTRWSEdZbVpsenM50gFKQVVfeXFMTUs3b3FtNFFha1Z1WV9FMl8tRlU1QTRNdXlXbEpNZ09odHdkVUcxSEt1RTNwblgwWFhTX2d6N0RGYWJabU9rdDRoZVE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "china_japan_nuclear_rhetoric_2026-10-28"
+  },
+  {
     "id": "auto-34377",
     "headline": {
       "ja": "ハルキウへのロシアのドローン攻撃で民間人が避難",
@@ -3477,51 +3569,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_peace_deal_g20_summit_2026-10"
-  },
-  {
-    "id": "auto-23100",
-    "headline": {
-      "ja": "イエメンがフーシ派位置への空爆実施、アデン空港へのミサイル攻撃を報告",
-      "en": "Yemen reports airstrikes on Houthi positions and missile attack on Aden airport"
-    },
-    "summary": {
-      "ja": "イエメン政府がフーシ派位置への空爆を実施し、アデン空港へのミサイル攻撃があったと報告した。",
-      "en": "Yemen conducted airstrikes against Houthi positions and reported a missile attack on Aden airport."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-21T09:47:53+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDlmbk1VUUxpX3p3QlpaUnZkSUUtWk1WdFlMRHg3LTdmU1BHZzBUUUl5QV95ZEpyeFRVVm1yS1hKU2N4Q2R2bG52LU5ZWGJmTU1hTGVGdkJqbDRVd0VLeXE2cWwyNGxmY0h4Y0xQOW02dDROZU8xcGxlTG5HcEt3NDY1dUkzMlZGbmdhbFI2NEkzUWtUbTNxVHQ3SzI3Y00xT0xiajdNUkhjWmdiY3lOQXVSaFVwRFVDODZlYg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_aden_airstrikes_oct2026"
-  },
-  {
-    "id": "auto-24101",
-    "headline": {
-      "ja": "イエメン、ハドラマウト空港へのフーシュ派ドローン攻撃を報告",
-      "en": "Yemen reports Houthi drone attack on Hadramout airport and missile strikes on Aden"
-    },
-    "summary": {
-      "ja": "イエメン政府は、ハドラマウト空港へのフーシュ派ドローン攻撃及びアデンへのミサイル攻撃が実施されたと報告した。",
-      "en": "Yemen reports Houthi drone attacks on Hadramout airport and missile strikes on Aden."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-21T09:47:53+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDlmbk1VUUxpX3p3QlpaUnZkSUUtWk1WdFlMRHg3LTdmU1BHZzBUUUl5QV95ZEpyeFRVVm1yS1hKU2N4Q2R2bG52LU5ZWGJmTU1hTGVGdkJqbDRVd0VLeXE2cWwyNGxmY0h4Y0xQOW02dDROZU8xcGxlTG5HcEt3NDY1dUkzMlZGbmdhbFI2NEkzUWtUbTNxVHQ3SzI3Y00xT0xiajdNUkhjWmdiY3lOQXVSaFVwRFVDODZlYg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthi_hadramout_aden_2026-10-21"
   }
 ]
