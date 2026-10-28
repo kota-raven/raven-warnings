@@ -539,5 +539,48 @@
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-10-28-06",
+    "headline": {
+      "ja": "イスラエル総選挙、開票進み与党リクードが単独最大政党に 最終的な過半数ブロックは依然不明",
+      "en": "Israel election: official count puts Likud in the lead as majority bloc remains unclear"
+    },
+    "summary": {
+      "ja": "イスラエル中央選挙管理委員会(CEC)によると、10月27日投票の総選挙は開票が進み、約24%集計の時点でリクードが32議席、対抗するアイゼンコット氏の新党「ヤシャル」が22議席で、リクードが単独最大政党になっているという。選管は数値が暫定・部分的なものであり今後変動しうるとしている。投票終了直後の各局出口調査ではリクード24~27議席・ヤシャル19~23議席とされ、与野党双方のブロックが過半数(61議席)に届かない「デッドロック」と報じられていたが、開票進行後の暫定集計はリクードにより有利な数字を示しているという。最終投票率は77.7%だったという。推測:兵士票等の残票集計で議席配分がさらに変わる可能性があり、最終確定結果ではない。[信頼性: 高](中央選管の公式集計に基づく複数メディア報道。ただし開票率24%時点の暫定値であり確定結果ではない)",
+      "en": "According to Israel's Central Elections Committee, with about 24% of votes counted from the October 27 election, Likud leads with 32 seats and Gadi Eisenkot's new Yashar party has 22, making Likud the single largest party, though the committee stresses the figures are preliminary and may change. Exit polls immediately after voting had put Likud at 24-27 seats and Yashar at 19-23, with neither bloc reaching the 61-seat majority needed — reported as a \"deadlock\" — but the partial official count is now trending more favorably for Likud. Final turnout was reported at 77.7%. Speculation: seat allocation could still shift as remaining ballots, including soldiers' votes, are counted; this is not the final certified result. [Reliability: High] (Based on the Central Elections Committee's official partial tally as reported by multiple outlets; figures reflect only ~24% of votes counted and are not final.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-28T02:00:00+00:00",
+    "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-28-07",
+    "headline": {
+      "ja": "サイクロン「アルナブ」、インド東海岸に上陸 死者報告なし、計13万人超を事前避難",
+      "en": "Cyclone Arnab makes landfall on India's east coast; no deaths reported after over 130,000 evacuated"
+    },
+    "summary": {
+      "ja": "Odisha TV等によると、サイクロン「アルナブ」は10月28日午前1時20分頃(インド時間)、アーンドラ・プラデーシュ州北部からオディシャ州境にかけてのカリンガパトナム付近に上陸し、その後オディシャ州方面へ進んでいるという。上陸に先立ちアーンドラ・プラデーシュ州で8万4000人超、オディシャ州で約4万8000人が事前避難したという。本稿執筆時点で両州政府とも死者の報告は確認していないという。なお一部報道ではインド気象局(IMD)が上陸時点のシステムを「サイクロン」ではなく「深い低気圧」にとどまったとする一方、米軍JTWCは「サイクロン01B」と分類しており、強度の評価には報道間で差異があるという。推測:被害状況の全容は今後の報告で変わる可能性がある。[信頼性: 中](IMD・州政府発表に基づく複数の地元報道。上陸直後の時点の情報であり、被害の全容は未確定)",
+      "en": "According to Odisha TV and other outlets, Cyclone Arnab made landfall around 1:20am IST on October 28 near Kalingapatnam, on the Andhra Pradesh-Odisha border, and is now moving toward Odisha. More than 84,000 people were evacuated in Andhra Pradesh and about 48,000 in Odisha ahead of landfall. As of this writing, neither state government has confirmed any deaths. Some reports say India's Meteorological Department classified the system as a \"deep depression\" rather than a full cyclone at landfall, while the US Joint Typhoon Warning Center classified it as \"Cyclone 01B\" — outlets differ on its intensity. Speculation: the full damage picture may change as further reports come in. [Reliability: Medium] (Based on local reporting citing IMD and state government statements; this is information from immediately after landfall, and the full extent of damage is not yet confirmed.)"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "region": "アーンドラ・プラデーシュ州/オディシャ州境(カリンガパトナム)",
+    "lat": 18.3453,
+    "lon": 84.1192,
+    "occurredAt": "2026-10-27T19:50:00+00:00",
+    "source": {
+      "name": "Odisha TV",
+      "url": "https://odishatv.in/odisha/cyclone-arnab-makes-landfall-along-andhra-coast-moving-towards-odisha-12759449"
+    },
+    "reliability": "medium"
   }
 ]
