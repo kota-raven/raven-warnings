@@ -23,6 +23,52 @@
     "eventKey": "ukraine_kharkiv_russian_drone_attack_2026-10-28"
   },
   {
+    "id": "auto-33769",
+    "headline": {
+      "ja": "ゼレンスキー、ベレス作戦でロシア軍がクピャンスク地域で失敗と述べる",
+      "en": "Zelenskyy Says Operation Veles Shows Russia Failing in Kupiansk Area"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領は、オペレーション・ベレス作戦がウクライナの立場を強化し、ロシア軍がクピャンスク地域での目標を達成できていないことを示していると述べた。",
+      "en": "President Zelenskyy stated that Operation Veles strengthens Ukraine's positions and demonstrates Russia's failure to achieve objectives in the Kupiansk area."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 49.71,
+    "lon": 37.6158,
+    "occurredAt": "2026-10-27T18:40:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUljakstX0pHMS1OXzE0U2YwaGllS2hhSWRGZFh1WkxHdkNMTVBPY09pWEl5TWJLV2w2YzZkV3FyLXhaMk1YMzVTd2xoMTVqRkIyR0xqYTAzSzlyUUduQTlWb2FHOFNpMFpKTHZ0cE5QX0xzby0wQ2dfWUdMVGpvQTUzSHFTSDZkeE9NYU1zekxDNm50bi1Wcm5CZmFBWFFaLU9JeVhBYw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_operation_veles_kupiansk_2026-10-27"
+  },
+  {
+    "id": "auto-33734",
+    "headline": {
+      "ja": "クレムリン報道官、プーチンがゼレンスキーのモスクワ訪問を招待したと述べる",
+      "en": "Kremlin Aide Says Putin Invited Zelenskyy to Visit Moscow"
+    },
+    "summary": {
+      "ja": "ロシア大統領府の関係者によると、プーチン大統領はウクライナのゼレンスキー大統領のモスクワ訪問を招待し、その安全を確保すると約束したという。",
+      "en": "According to a Kremlin aide, President Putin invited Ukraine's President Zelenskyy to visit Moscow and promised to ensure his safety."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-27T18:00:50+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYWo2d21KekRzLTBFWmNsUWNBU2gtX3FLa3l4bVZxRWNWaDNOSTJNNVJrcVJfRktlM3NiVlBreXphOERuRzVRUFdxN1NhUXVqR21vLVBnMXBiNFZUVHJleGtCV0xRcS1SdjFUMlVPaTYzX0FiN3NCWWFjYzRLTlMxUlZoaVBCNmtRaU4yZEFPZnRGbXE2dV9LenpxS09EZHozMHhUck5UUFpxaVpWNkdiZjFVaXJ2Y0czeTE2YW8wazdCaEVxSlpncUtvVWQ0RFE3U0JvS3Rn?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "russia_ukraine_putin_zelenskyy_moscow_invitation_2026-10-27"
+  },
+  {
     "id": "auto-33740",
     "headline": {
       "ja": "ヨルダン空爆後、シリアの民間人保護で国連が声明",
