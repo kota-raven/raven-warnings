@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-27-01",
-    "headline": {
-      "ja": "セルビア総選挙、学生系「学生のリスト」が単独過半数を確定的に獲得 与党時代に終止符",
-      "en": "Serbia: Student List set to win outright majority as Vučić's rule ends"
-    },
-    "summary": {
-      "ja": "Al Jazeera・France24・Balkan Insightによると、10/25実施のセルビア総選挙(下院250議席)で、中央選挙管理委員会(RIK)の開票(8,392投票区中8,135区集計時点)は「学生のリスト」52.65%・与党連合「統一セルビア」39.2%、独立系調査機関CeSID・Ipsosのサンプル集計(96%集計時点)も52.9%対38.8%とほぼ同様の結果で、学生のリストの単独過半数確保が確実になったという。投票率は68.78%で過去30年余りで最高という。ヴチッチ大統領(与党SNS)は敗北を認めており、新議会は最終結果確定から30日以内に招集される見通しという。首相候補は10/26時点で未発表という。",
-      "en": "According to Al Jazeera, France24 and Balkan Insight, Serbia's Republic Electoral Commission count (8,135 of 8,392 polling stations) in the Oct 25 parliamentary election put the opposition Student List at 52.65% versus 39.2% for the ruling United Serbia coalition, with independent monitors CeSID/Ipsos reporting a similar 52.9%-38.8% split, making an outright majority for the Student List all but certain. Turnout was a record 68.78% for over three decades. President Vučić has conceded; a prime ministerial candidate had not been announced as of Oct 26."
-    },
-    "category": "conflict",
-    "country": "セルビア",
-    "lat": 44.7866,
-    "lon": 20.4489,
-    "occurredAt": "2026-10-26T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera / France24 / Balkan Insight",
-      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-27-02",
     "headline": {
       "ja": "ブラジル株急落、ルラ氏当選確定・ボルソナロ氏陣営の結果拒否を受け取引が一時停止",
@@ -62,71 +41,6 @@
       "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-10-27-07",
-    "headline": {
-      "ja": "金価格、4カ月ぶり安値圏に 6月以来最悪の週、原油高と利上げ観測が背景",
-      "en": "Gold slides to lowest in months in worst week since June, as oil rally fuels rate-hike bets"
-    },
-    "summary": {
-      "ja": "CNBCによると、金(スポット)は10月23日(金)に7月中旬以来初めて1オンス=4,000ドルを下回り、週間では6月以来最悪の約4%下落となったという。10月26日朝(米東部時間9時)時点でも1オンス=4,015.37ドル前後とほぼ同水準だという。原油価格の上昇がインフレ懸念とFRBの利上げ観測(CME FedWatchで12月利上げ確率約80%)を強めたことが背景とされ、ハイテク株急落に伴う追加担保差し入れ(マージンコール)で投資家が金・銀を売却した面もあるとの分析もあるという。FRBは10月27-28日に会合を開く。",
-      "en": "According to CNBC, spot gold fell below $4,000 an ounce on Oct. 23 for the first time since mid-July, down about 4% on the week in its worst week since June, and was still around $4,015.37 as of 9 a.m. ET on Oct. 26. The move is attributed to rising oil prices fueling inflation worries and Fed rate-hike bets (CME FedWatch pricing roughly an 80% chance of a December hike), with some analysts also citing margin calls from a tech-stock selloff prompting investors to sell gold and silver. The Fed meets Oct. 27-28."
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-26T13:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-27-08",
-    "headline": {
-      "ja": "北朝鮮、南北軍事境界線沿いに自走榴弾砲を展開 砲身を韓国側へ",
-      "en": "North Korea deploys self-propelled howitzers along border, barrels pointed at South Korea"
-    },
-    "summary": {
-      "ja": "Korea Times・Reuters・Yonhapなどによると、10月26日、北朝鮮軍が黄海北道・開豊郡沿岸(韓国・金浦から視認できる地点)に122mm自走榴弾砲とみられる車両3両を、砲身を韓国側に向けた状態で展開させているのが確認されたという。韓国軍合同参謀本部(JCS)は展開自体を確認した一方、使用装備は新型ではない既存兵器であり、写真だけでは発射準備態勢や意図の判断は困難との見解を示したという。背景として、北朝鮮の金与正氏が10月19〜22日、国境沿いへの戦術兵器追加配備や対南拡声器放送再開(10月末までに稼働)を表明し、国境視察時には「北朝鮮の住民・領土が被害を受ければ韓国軍を容赦なく殲滅する」と発言したと報じられている。推測:今回の展開が威嚇発言の実行を意味するかは韓国軍当局者も断定しておらず、独立した検証はできていない。発射・交戦には至っていない。",
-      "en": "According to Korea Times, Reuters and Yonhap, North Korean forces were observed on Oct. 26 deploying three vehicles, believed to be 122mm self-propelled howitzers, with barrels pointed toward South Korea, along the coast of Kaepung County, North Hwanghae Province, visible from Gimpo, South Korea. South Korea's Joint Chiefs of Staff confirmed the deployment but said the equipment is not a new weapon system and that intent or firing readiness cannot be judged from photos alone. This follows North Korean official Kim Yo Jong's Oct. 19-22 warnings of additional tactical weapons deployments and a resumption of anti-South loudspeaker broadcasts (to be activated by end of October), including a statement during a border inspection that North Korea would \"mercilessly eliminate\" South Korean troops if North Korean people or territory were harmed. Speculative: whether this deployment is an execution of that threat is not confirmed even by South Korean officials, and no independent verification exists. No firing or exchange has occurred."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "region": "黄海北道・開豊郡",
-    "lat": 40.3399,
-    "lon": 127.5101,
-    "occurredAt": "2026-10-26T06:00:00+00:00",
-    "source": {
-      "name": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20261027/n-korean-artillery-deployed-along-western-border-not-seen-as-new-weapon-system-jcs"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-27-10",
-    "headline": {
-      "ja": "セルビア新議会、首相候補に心臓専門医スルダノヴィッチ氏が有力 「学生のリスト」単独過半数確定後",
-      "en": "Serbia's Student List eyes cardiologist Srđanović as likely new PM after landslide win"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、セルビア総選挙(既報id: 2026-10-27-01、「学生のリスト」の単独過半数確定)を受け、同リストを主導してきたノヴィサド大学医学部教授(心臓専門医)イリヤ・スルダノヴィッチ氏が、次期首相の最有力候補とみられているという。同リストは選挙前には首相候補を明らかにしていなかった。新議会は最終結果確定から30日以内に招集され、その後90日以内に政権を発足させる必要があるとされ、単独過半数のため連立協議は短期間で済む見通しという。大統領職は、ヴチッチ氏の辞任(9月)後、国民議会議長のアナ・ブルナビッチ氏が暫定的に務めており、大統領選の期限は12月27日とされる。推測:スルダノヴィッチ氏自身による首相就任の受諾や、同リスト内での正式な指名はこの時点で確認できていない。[信頼性: 中](Al Jazeeraの報道に基づく。有力候補という位置づけであり、正式な首相指名はまだ行われていない)",
-      "en": "According to Al Jazeera, following Serbia's election (previously reported id: 2026-10-27-01, confirming an outright majority for the Student List), Ilija Srđanović, a cardiologist and professor at the University of Novi Sad's medical faculty who led the movement's campaign, is seen as the most likely candidate to become the next prime minister; the list had not named a PM candidate before the vote. The new parliament must convene within 30 days of final results and form a government within 90 days after that; with an outright majority, coalition talks are expected to be brief. The presidency has been held on an interim basis by National Assembly speaker Ana Brnabić since Vučić's resignation in September, with a presidential election required by December 27. Inference: Srđanović's own acceptance or a formal nomination by the list had not been confirmed at this time. [Reliability: Medium] (Based on Al Jazeera reporting; Srđanović is described as the likely candidate, but no formal nomination has occurred yet.)"
-    },
-    "category": "conflict",
-    "country": "セルビア",
-    "lat": 44.7866,
-    "lon": 20.4489,
-    "occurredAt": "2026-10-26T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-10-27-11",
