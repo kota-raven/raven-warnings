@@ -43,8 +43,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -94,6 +94,102 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-10-29-cn-000101",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "2307 (San Men)",
+    "shipNumber": "2307",
+    "shipType": "coast_guard",
+    "position": {
+      "area": "Osumi Strait to Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "China Coast Guard vessel 2307 (San Men) and PLAN destroyers Dongguan, Baotou advancing through Osumi Strait into Pacific; JMSDF monitoring",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37336/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "2026-10-29-cn-000102",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Dongguan",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Osumi Strait to Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "China Coast Guard vessel 2307 (San Men) and PLAN destroyers Dongguan, Baotou advancing through Osumi Strait into Pacific; JMSDF monitoring",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37336/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "2026-10-29-cn-000103",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Baotou",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Osumi Strait to Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "China Coast Guard vessel 2307 (San Men) and PLAN destroyers Dongguan, Baotou advancing through Osumi Strait into Pacific; JMSDF monitoring",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37336/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-29T00:00:00Z"
+  },
+  {
+    "id": "2026-10-29-ru-000100",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "Karelyiya",
+    "shipNumber": null,
+    "shipType": "reconnaissance",
+    "position": {
+      "area": "Tsushima Strait to East China Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Russian Navy intelligence ship Karelyiya traversing Tsushima Strait and advancing into East China Sea; JMSDF minesweeper Hirasima and others monitoring",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37343/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-29T00:00:00Z"
   },
   {
     "id": "2026-10-29-us-000012",
@@ -266,6 +362,54 @@
     "observedAt": "2026-10-27T00:00:00Z"
   },
   {
+    "id": "2026-10-27-cn-000104",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Xining",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Miyako Strait to Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "PLAN missile destroyer Xining and frigate Yancheng transiting Miyako Strait into Pacific; JMSDF P-3C monitoring",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37332/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-27T00:00:00Z"
+  },
+  {
+    "id": "2026-10-27-cn-000105",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Yancheng",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "Miyako Strait to Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "PLAN missile destroyer Xining and frigate Yancheng transiting Miyako Strait into Pacific; JMSDF P-3C monitoring",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37332/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-27T00:00:00Z"
+  },
+  {
     "id": "2026-10-26-us-000093",
     "recordType": "individual",
     "country": "US",
@@ -333,8 +477,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -357,8 +501,32 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-26T00:00:00Z"
+  },
+  {
+    "id": "2026-10-26-us-000106",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Makin Island",
+    "shipNumber": null,
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Yokosuka, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "US Wasp-class assault carrier Makin Island and 2 other ships entering Yokosuka port",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37314/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1225,8 +1393,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:20:00Z"
   },
   {
@@ -1249,8 +1417,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:20:00Z"
   },
   {
@@ -1273,8 +1441,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:20:00Z"
   },
   {
@@ -1297,8 +1465,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1321,8 +1489,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1345,8 +1513,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1563,8 +1731,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-14T20:06:45Z"
   },
   {
@@ -1587,8 +1755,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-14T17:41:35Z"
   },
   {
@@ -1611,8 +1779,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-14T17:41:35Z"
   },
   {
@@ -1635,8 +1803,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-14T17:41:35Z"
   },
   {
@@ -1659,8 +1827,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-14T17:41:35Z"
   },
   {
@@ -2269,8 +2437,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   }
 ]
