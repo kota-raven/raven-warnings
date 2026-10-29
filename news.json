@@ -1,113 +1,5 @@
 [
   {
-    "id": "2026-10-26-13",
-    "headline": {
-      "ja": "イスラエル軍、ガザ・ハンユニスの避難民キャンプを空爆 子供含む4人死亡",
-      "en": "Israeli air strike hits displacement camp in Khan Younis, Gaza, killing four including a child"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、イスラエル軍は10/26、ガザ南部ハンユニスのアル・マワシ地区にある避難民キャンプを空爆し、幼い女児を含む4人が死亡したという。ナセル病院関係者によると、遺体は破片の直撃により損壊しており、負傷者には子供や女性も含まれるという。また10/25夜には、シュジャイヤ交差点付近のキャンプで火災が発生し、ガザ公共事業・住宅省はイスラエル軍の小型ドローン(クアッドコプター)が原因と説明、200超の家族(800人超)が避難を強いられたとしているという。ガザ民間防衛によると、直近24時間でガザ全域の死者は11人、負傷者は50人に達したという。既報(id: 2026-10-26-10、10/25のイスラム大学攻撃)とは別の事案。[信頼性: 中](Al Jazeera報道およびガザ側医療・行政機関の発表に基づく。イスラエル軍によるコメントは本報道時点で確認できていない)",
-      "en": "According to Al Jazeera, Israeli forces carried out an air strike on October 26 on a displacement camp in the al-Mawasi area of Khan Younis, southern Gaza, killing four people including a young girl. Staff at Nasser Hospital said the bodies were torn apart by direct hits from shrapnel, and the wounded included children and women. Separately, a fire broke out overnight on October 25 at a camp near the Shujayea junction, which Gaza's Ministry of Public Works and Housing attributed to Israeli quadcopter drones, displacing more than 200 families (over 800 people). Gaza's Civil Defence said 11 people were killed and 50 wounded across Gaza in the previous 24 hours. This is a separate incident from the previously reported October 25 strike on the Islamic University (id: 2026-10-26-10). [Reliability: Medium] (Based on Al Jazeera reporting and statements from Gaza's medical and administrative bodies; no Israeli military comment had been confirmed at the time of this report.)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ハンユニス",
-    "lat": 31.3469,
-    "lon": 34.3029,
-    "occurredAt": "2026-10-26T04:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-16",
-    "headline": {
-      "ja": "ウクライナ軍、露ヴォロネジへドローン攻撃 2人死亡・17人負傷(通勤列車の乗客含む)",
-      "en": "Ukrainian drone attack on Russia's Voronezh kills two, injures 17 including commuter-train passengers"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ロシア・ヴォロネジ州知事グセフ氏は10/26(月)朝、ウクライナ軍によるドローン攻撃で2人が死亡、17人が負傷したと発表したという。負傷者の多くは、落下した破片が直撃した通勤列車の乗客だったとされる。ロゾヴァ・ドニプロ攻撃(id: 2026-10-26-04、05)と同様、露ウクライナ双方による長距離攻撃の応酬が続いている。",
-      "en": "According to Al Jazeera, Voronezh region Governor Alexander Gusev said a Ukrainian drone attack on the region on Monday morning, October 26, killed two people and wounded 17. Officials said many of the wounded were passengers on a commuter train hit by falling debris. As with the Lozova and Dnipro strikes already reported (id: 2026-10-26-04, -05), long-range strikes by both Russia and Ukraine continue."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "region": "ヴォロネジ州",
-    "lat": 51.672,
-    "lon": 39.1843,
-    "occurredAt": "2026-10-26T04:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-15",
-    "headline": {
-      "ja": "ウクライナ・ザポリッジャへロシア軍攻撃 4人負傷",
-      "en": "Russian strike on Zaporizhzhia, Ukraine, injures four"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ザポリッジャ州知事セミキン氏は10/26(月)朝、同州へのロシア軍攻撃で4人が負傷したと発表したという。同日、フランス・ドイツ・イタリア・ポーランド・英国の国防相はパリで会合し、ウクライナ支援の追加策や欧州自身の防衛、中東情勢について協議するという(会合の結果は本報道時点で未判明)。",
-      "en": "According to Al Jazeera, Zaporizhzhia region Governor Mykhailo Semikin said a Russian strike on the region on Monday morning, October 26, injured four people. The same day, defence ministers of France, Germany, Italy, Poland and the UK were meeting in Paris to discuss additional support for Ukraine, European defence, and the situation in the Middle East (the outcome of the meeting was not yet known at the time of this report)."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリッジャ州",
-    "lat": 47.8388,
-    "lon": 35.1396,
-    "occurredAt": "2026-10-26T05:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-11",
-    "headline": {
-      "ja": "サウジ・パキスタン・トルコの要人がテヘラン訪問 「メッカ協定」加盟国とイランが緊張緩和へ初の高官級接触",
-      "en": "Saudi, Pakistani and Turkish officials visit Tehran for first high-level Mecca-pact contact with Iran since Houthi escalation"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、サウジアラビアのハーリド・ビン・サルマン国防相、パキスタン軍参謀長アシム・ムニール氏、トルコ情報機関長イブラヒム・カリン氏が10/26、イランを訪問し、イラン国家安全保障最高評議会書記のモフセン・レザイー氏と会談するという。サウジ側はこの接触を、カタール・パキスタンが進める仲介努力を後押しする緊張緩和・対話促進の一環と説明しているという。8月に署名された「メッカ防衛協定」(加盟国への攻撃を全体への攻撃とみなす集団防衛協定)の全加盟国とイランとの間では、フーシ派によるサウジへの攻撃激化以降、初の高官級接触とされる。トルコ議会での協定批准手続きは継続中で、イラン側の同協定への公式な立場は明確になっていないという。[信頼性: 中](Al Jazeeraの報道に基づく。会談自体の実施は複数方面の発表で一致しているが、会談の結果・成果についてはこの時点で報じられていない)",
-      "en": "According to Al Jazeera, Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin visited Tehran on October 26 for talks with Mohsen Rezaei, secretary of Iran's Supreme National Security Council. Saudi officials described the visit as part of de-escalation and dialogue efforts backing mediation by Qatar and Pakistan. It marks the first high-level contact between Iran and all members of the August \"Mecca defence pact\" (a collective-defence agreement treating an attack on one member as an attack on all) since Houthi attacks on Saudi Arabia escalated. Ratification of the pact is still underway in Turkey's parliament, and Iran's own official stance toward the pact remains unclear. [Reliability: Medium] (Based on Al Jazeera reporting; that the meeting took place is corroborated by multiple officials, but its outcome had not been reported at this time.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-26T06:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-26-12",
-    "headline": {
-      "ja": "原油、中東緊張緩和の兆しで6カ月ぶり高値から反落 ブレント1バレル115ドル前後",
-      "en": "Oil retreats from six-month high on signs of Middle East de-escalation; Brent near $115 a barrel"
-    },
-    "summary": {
-      "ja": "CNBCによると、ブレント原油先物は10/26、前週末につけた6カ月ぶり高値(1バレル116.72ドル)から1%超下落し、115ドル前後で取引されているという。カタールの仲介者が10/25(日)にテヘラン入りしたとのロイター報道のほか、サウジ・パキスタン・トルコ要人のテヘラン訪問(別記事、id: 2026-10-26-11)など中東情勢の緊張緩和の兆しが背景にあるとされる。[信頼性: 高](CNBCの報道・相場データに基づく)",
-      "en": "According to CNBC, Brent crude futures fell more than 1% on October 26 from last week's six-month high of $116.72 a barrel, trading around $115, following Reuters reporting that Qatari mediators arrived in Tehran on Sunday, Oct 25. The pullback follows signs of easing Middle East tensions, including the Saudi, Pakistani and Turkish officials' visit to Tehran (see separate report, id: 2026-10-26-11). [Reliability: High] (Based on CNBC reporting and market data.)"
-    },
-    "category": "economy",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-26T07:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/quotes/@LCO.1"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-27-01",
     "headline": {
       "ja": "セルビア総選挙、学生系「学生のリスト」が単独過半数を確定的に獲得 与党時代に終止符",
@@ -621,6 +513,27 @@
     "source": {
       "name": "CNN",
       "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-29-02",
+    "headline": {
+      "ja": "イスラエル総選挙、本人投票の開票完了 与党陣営53・野党陣営48・アラブ系19議席(過去最多)",
+      "en": "Israel election: regular-vote count completed — ruling bloc 53, opposition bloc 48, Arab parties record 19 seats"
+    },
+    "summary": {
+      "ja": "イスラエル中央選挙管理委員会は10月28日、総選挙の本人投票(通常投票)の開票を完了したと発表したという。ネタニヤフ首相陣営(与党ブロック)53議席・アイゼンコット氏陣営(野党ブロック)48議席・アラブ系政党19議席(過去最多)となり、与野党いずれも過半数の61議席には届かなかったという。最大政党はリクード(26議席)という。今後、不在者投票・二重封筒投票分の開票が行われ、最終確定結果が発表される予定という(既報id: 2026-10-28-12は開票率85%時点の情報)。",
+      "en": "Israel's Central Elections Committee reportedly announced on October 28 that it had finished counting regular (in-person) ballots in the general election. The ruling bloc led by PM Netanyahu reportedly stands at 53 seats, the opposition bloc led by Eisenkot at 48, and Arab parties at a record 19 — neither bloc reaching the 61-seat majority. Likud reportedly remains the largest party with 26 seats. Absentee and double-envelope ballots are reportedly still to be counted before a final certified result (previous entry id 2026-10-28-12 reflected the 85%-counted stage)."
+    },
+    "category": "conflict",
+    "country": "Israel",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-28T19:00:00+00:00",
+    "source": {
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913122"
     },
     "reliability": "high"
   }
