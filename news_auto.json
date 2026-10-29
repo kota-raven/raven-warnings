@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-37229",
+    "headline": {
+      "ja": "北朝鮮、ウォンサン地域から短距離弾道ミサイル約12発を発射",
+      "en": "North Korea launches around a dozen short-range ballistic missiles from Wonsan area"
+    },
+    "summary": {
+      "ja": "OSINTdefenderのアカウントで、北朝鮮がウォンサン地域から短距離弾道ミサイル約12発を発射したという投稿があった。",
+      "en": "OSINT report claims North Korea launched approximately 12 short-range ballistic missiles from the Wonsan area."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.1528,
+    "lon": 127.4436,
+    "occurredAt": "2026-10-29T17:23:37+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20626"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "north_korea_missile_launch_wonsan_2026-10-29",
+    "severity": 4
+  },
+  {
     "id": "auto-36784",
     "headline": {
       "ja": "ウクライナ・ドニプロの列車駅へのロシアドローン攻撃で最低14人が死亡",
@@ -21,6 +45,53 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_dnipro_train_station_drone_attack_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-37242",
+    "headline": {
+      "ja": "イエメン・タイズでの空爆で12人死亡との報告",
+      "en": "12 killed in airstrikes on residential houses in Yemen's Taiz"
+    },
+    "summary": {
+      "ja": "フーシ派メディアが、イエメン・タイズの住宅地への空爆で12人が殺害されたと報告している。",
+      "en": "Houthi media reports 12 killed in airstrikes targeting residential houses in Taiz, Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-10-29T14:11:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wR3BHRi02ajFDUlZBOXRIaDNqTjN1MXlFWlVvTkpDQ0xVLW1rb2swaklDT2pYTlFYQUt1ZDd1eWFYUEt2bGEtTTNLN1IxdF9MaUVjZDdrUzVSM3lhOWR6WXJ2aFhRVWxtRVQ2OWN4T0ZqYzREeDRoTENHSDk?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_taiz_airstrike_2026-10-29"
+  },
+  {
+    "id": "auto-37231",
+    "headline": {
+      "ja": "ウクライナのドニプロ駅へのロシアドローン攻撃で13人死亡",
+      "en": "Russian drone strike on Ukrainian railway station kills 13"
+    },
+    "summary": {
+      "ja": "国連のウクライナ担当人道支援責任者が、ロシアのドローン攻撃によるドニプロの列車駅での被害（13人死亡、10人負傷）を非難した。",
+      "en": "UN humanitarian official condemns Russian drone attack on Dnipro railway station that killed 13 civilians and injured 10."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.4666,
+    "lon": 35.0407,
+    "occurredAt": "2026-10-29T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168702"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_dnipro_train_station_2026-10-29",
     "severity": 4
   },
   {
@@ -3590,53 +3661,6 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "china_tibet_earthquake_magnitude_7.0_2026-10-22",
-    "severity": 4
-  },
-  {
-    "id": "auto-26123",
-    "headline": {
-      "ja": "サウジアラビア南西部で、フーシ派の弾道ミサイルを連合軍が迎撃",
-      "en": "Saudi-led coalition intercepts Houthi ballistic missile"
-    },
-    "summary": {
-      "ja": "サウジアラビア南西部を狙ったフーシ派の弾道ミサイルを、サウジ主導の連合軍が迎撃した。",
-      "en": "The Saudi-led coalition successfully intercepted a Houthi ballistic missile targeting southwestern Saudi Arabia."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-22T19:45:12+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdkJfaERCVDVuZVVySmNlbjlCZEtrLThRNEZxdlVVaWpydkVKVVBpanR3Y3laeV9YeWNBVmRoWHM5Q2ZXeUtOZTU2MlkwVl9YY010SDRZYUw5VmZ3LV8yWHcwWmVzcGtUWXUwWFBhdFh6b3RGdzViWWNQY2xOTUp6VXp4bzFyVHh5a1BBSl9ZdU8zRFRDTWVHUHYwTXk4dVlHZThwRDNEc3lsSjdiMXktZUNtMnQ4d1VLckx4OVhzbXo3elJrQ0E1aXB4bFF6WUdBMmc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_houthi_missile_interception_2026-10-22"
-  },
-  {
-    "id": "auto-25857",
-    "headline": {
-      "ja": "ロシア、和平交渉合意直後にウクライナへのミサイル攻撃継続",
-      "en": "Ukraine hit by strikes after Russia agrees to new peace talks"
-    },
-    "summary": {
-      "ja": "ロシア政府が米国・ウクライナとの和平交渉再開に「原則的に合意」と表明した直後に、3波に分けてロシア製ミサイルがウクライナに発射された。",
-      "en": "Russia launched three waves of missiles at Ukraine just hours after announcing its readiness to resume peace talks with the US and Ukraine."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-22T17:49:13+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_missile_strike_after_peace_talks_2026-10-22",
     "severity": 4
   }
 ]
