@@ -94,6 +94,99 @@
     "eventKey": "russia_nuclear_satellite_development_2026-10"
   },
   {
+    "id": "auto-35539",
+    "headline": {
+      "ja": "スペイン列車衝突、数十年ぶりの大惨事",
+      "en": "Spain demands answers after deadliest train disaster in over a decade"
+    },
+    "summary": {
+      "ja": "マドリード南部で高速列車2編成が衝突し、少なくとも68人が死亡、100人以上が負傷した。過去10年以上で最も致命的な鉄道事故である。",
+      "en": "Two high-speed trains collided south of Madrid, killing at least 68 people and injuring more than 100, marking the deadliest train disaster in over a decade."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-10-28T19:32:57+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_train_collision_madrid_2026_10_28",
+    "severity": 4
+  },
+  {
+    "id": "auto-35520",
+    "headline": {
+      "ja": "NATO副事務総長、ウクライナの緊急の防空需要を強調",
+      "en": "NATO Deputy Secretary General stresses Ukraine's urgent need for more air defence"
+    },
+    "summary": {
+      "ja": "NATO副事務総長はキーウセキュリティフォーラムでスピーチを行い、ウクライナが緊急に防空能力の強化を必要としていることを強調した。",
+      "en": "NATO Deputy Secretary General emphasizes Ukraine's critical need for enhanced air defence capabilities at the Kyiv Security Forum."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-28T19:07:30+00:00",
+    "source": {
+      "name": "NATO(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdDE0bUg4VlpEUnRvejhQaklVWnRNZ3ltemtxWmIyV3ZxMGZnOERPWDFGdTJuYTdXUFdkaDVyMlRud0tpdDBXVXBaWU9uMnNVcjZ1bWlRTDhsTVZVYUhiSVo4U1c2WFdSR1R5d2tCSFZpOTM2a2x5TG4yMVpDOVVMbnB4UEZkRllwZUxrUk1JMktsa21ZR2t5Um9UaS03MjRGVlNkd2k4aWpfeE85WnVaeEpfalMzU05CSWdnVlJGY2xiRmdHRmc0a0NjamcxMk9zOHhHeGtYSWtZNEl6YWlleUxjT2tRVWR4Y0xCSWN4c1JsLXF6MFZZMDRhVkpPbWlWeUE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "nato_ukraine_air_defense_support_2026_10_28"
+  },
+  {
+    "id": "auto-35542",
+    "headline": {
+      "ja": "イスラエル選挙、明確な勝者なし",
+      "en": "What are the implications of Israel's elections?"
+    },
+    "summary": {
+      "ja": "イスラエルの選挙は、10月7日の攻撃と続くガザ戦争後の初選挙となったが、明確な勝者は出ていない。",
+      "en": "Israel's elections, held following the October 7 attacks and Gaza conflict, produced no clear winner."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-10-28T19:03:03+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_elections_2026_10_28"
+  },
+  {
+    "id": "auto-35490",
+    "headline": {
+      "ja": "欧州がウクライナ紛争終結へロシアとの対話が必要と認識",
+      "en": "Europe realizes it must talk to Russia to end Ukraine conflict"
+    },
+    "summary": {
+      "ja": "スロバキアの首相がロシア国営タス通信に対し、ウクライナ紛争を終わらせるには欧州がロシアとの対話が必要だという見方を示した。",
+      "en": "Slovak PM indicates that Europe must engage in talks with Russia to end the Ukraine conflict."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-28T18:20:25+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ROWhremdGSjJsZk50S3htQmNpTFR6alNyODdPcVk1SkRPZGQ0N2ZTMENCSmwyZ1FGb29fdE1fUlRBZndF0gFKQVVfeXFMUGxUMG1VNXhKcGtMY0d2Uk9IMXFJZDhROFpPS1pJcXNjQVhtSmdGRHI2VEJuUmpSY3pPNGlNczZGS3ZZcVpjcjIwZ2c?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_peace_talks_necessity_europe_2026_10_28"
+  },
+  {
     "id": "auto-35590",
     "headline": {
       "ja": "アフガニスタンがドローン攻撃への報復としてパキスタン軍事施設を攻撃",
@@ -184,6 +277,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "syria_jordan_border_agreement_2026-10-28"
+  },
+  {
+    "id": "auto-35489",
+    "headline": {
+      "ja": "アブダビでのウクライナ交渉、日程未定と報道",
+      "en": "No dates set for Ukraine talks in Abu Dhabi; coordination process underway"
+    },
+    "summary": {
+      "ja": "ロシア国営タス通信は、アブダビでのウクライナに関する交渉について、具体的な日程はまだ設定されていないが、調整プロセスが進行中だと報道した。",
+      "en": "Russian state TASS reports that while no specific dates have been set for Ukraine talks in Abu Dhabi, the coordination process is ongoing."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-28T14:24:16+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBraTlNc1gxbjhTM2plc0NHRG1uQlFyTWZNMjBfTmZ5S2NGalR0LWUxOHl4MUl0czFhUEQ0TUtxdU42RGZEa3Z0eGVNZm5sd9IBTkFVX3lxTFBraTlNc1gxbjhTM2plc0NHRG1uQlFyTWZNMjBfTmZ5S2NGalR0LWUxOHl4MUl0czFhUEQ0TUtxdU42RGZEa3Z0eGVNZm5sdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_peace_talks_abu_dhabi_2026_10_28"
   },
   {
     "id": "auto-34953",
@@ -347,6 +463,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_kharkiv_russian_drone_attack_2026-10-28"
+  },
+  {
+    "id": "auto-35498",
+    "headline": {
+      "ja": "米国のイラン関連軍事支出が470億ドルに達した",
+      "en": "US military spending on Iran conflict reaches $47 billion"
+    },
+    "summary": {
+      "ja": "ロシア国営タス通信によると、米国がイラン関連の軍事行動に費やした支出が470億ドルに達したと報道された。",
+      "en": "Reports indicate that US military spending related to Iran operations has reached approximately $47 billion."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-28T00:50:58+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UeGd5U0UtY2VvNVhSRFB3NjMxZU01d1FDVEZIWXZvQ3VvM3RJaHBubWJwVE9zOWdXS2pfamtVNnVwNkpRUVQw0gFMQVVfeXFMTnUzNWR6ejg4S3ZmNXI0WWlzcC1YaFlacl9HbndSdUkzRGRDN3lzRnZIcUNKZ0h5RU5SRGZ0ZXRPbU5NNWw5QWRCejhxUA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_iran_military_spending_2026_10_28"
   },
   {
     "id": "auto-33769",
@@ -3616,51 +3755,5 @@
     "auto": true,
     "eventKey": "yemen_escalation_casualties_2026-08-10",
     "severity": 4
-  },
-  {
-    "id": "auto-25121",
-    "headline": {
-      "ja": "イスラエル軍、南レバノンを空爆・砲撃",
-      "en": "Israeli airstrikes and artillery shelling hit southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエル軍は南レバノンに対する空爆と砲撃を実施し、軍事進攻を継続している。",
-      "en": "Israeli forces conduct airstrikes and artillery shelling in southern Lebanon as military operations advance."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-22T09:38:51+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZy1VejA1anI5VjhsQlFFaFJQdUF3eld4QXFXdnNmUGJLaFVVcjVUcmFpXzJKc2h4cjNDV0V1VzljMkdiVUJrRWJkVnZtR2h3WVlNcHFhQnR6eGtwNzhFZkZDay1KX1JyVG5kZVVORVkybEladTROd0tnelJQU3JfeklZYWN1LVBWbjdKbEVwQ3l0MUlWbUZ6XzdtcVh0Mkx0VTdkVXVqVFBjYm1UMnU2d1VZMzJkUU5memZvak4zZVRFeDhzR2l4c09GZlJRWi1CcFN0QWpraw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_airstrike_2026-10-22"
-  },
-  {
-    "id": "auto-25141",
-    "headline": {
-      "ja": "ウクライナ、モスクワへの大規模ドローン攻撃を実施",
-      "en": "Ukraine conducts major drone attack on Moscow"
-    },
-    "summary": {
-      "ja": "ウクライナ軍は大規模なドローン攻撃によってモスクワを攻撃した。",
-      "en": "Ukrainian forces conducted one of the largest drone attacks on Moscow."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-22T09:23:14+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UYVJsbU16M1l1Wkx6NkRlU0J3a2xraVdLTWg4WXlYZzlxTXc3cFlyMlJHb1l3SG9LR3RnWFAzbEtZYUVSZjRSOENaS3U0QdIBTkFVX3lxTE1UYVJsbU16M1l1Wkx6NkRlU0J3a2xraVdLTWg4WXlYZzlxTXc3cFlyMlJHb1l3SG9LR3RnWFAzbEtZYUVSZjRSOENaS3U0QQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_drone_attack_moscow_2026-10-22"
   }
 ]
