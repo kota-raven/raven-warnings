@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-27-02",
-    "headline": {
-      "ja": "ブラジル株急落、ルラ氏当選確定・ボルソナロ氏陣営の結果拒否を受け取引が一時停止",
-      "en": "Brazilian stocks plunge, trading halted after Lula's win confirmed and Bolsonaro camp refuses to concede"
-    },
-    "summary": {
-      "ja": "CNBCによると、10/26の米市場でブラジル株ETF(EWZ)が急落し(報道により下落率は19〜25%超と差異あり)、ブラジル証券取引所でも自動取引停止(サーキットブレーカー)が発動したという。10/25の決選投票でルラ・ダシルバ大統領が51.79%(6,426万票)の得票でフラヴィオ・ボルソナロ氏(48.21%、5,983万票)を破り4選を確定させたが、ボルソナロ氏陣営は最高裁判事による投票時間の2時間延長を「ルール変更」だとして結果を認めず、無効を申し立てる方針という。専門家からは同主張の法的根拠は弱いとの指摘が出ているという。",
-      "en": "According to CNBC, Brazilian equities sold off sharply on Oct 26 (the EWZ ETF reportedly fell anywhere from about 19% to over 25% depending on the report), triggering a circuit-breaker halt on Brazil's exchange. President Lula da Silva won the Oct 25 runoff with 51.79% (64.26 million votes) against Flávio Bolsonaro's 48.21% (59.83 million votes), securing a fourth term, but the Bolsonaro camp is refusing to concede and plans to seek annulment, arguing a Supreme Court justice's two-hour extension of voting changed the rules mid-game; analysts say the legal argument is weak."
-    },
-    "category": "economy",
-    "country": "ブラジル",
-    "lat": -14.235,
-    "lon": -51.9253,
-    "occurredAt": "2026-10-26T18:30:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/brazil-stocks-neoclouds-selloff.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-27-04",
     "headline": {
       "ja": "ロシア軍、キーウへ弾道ミサイル攻撃 1人死亡・10人負傷、大学構内に被弾",
@@ -41,50 +20,6 @@
       "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-10-27-11",
-    "headline": {
-      "ja": "イスラエル首相、総選挙前のイラン攻撃計画を主導か モサド・軍内部で対立、官邸は否定",
-      "en": "Netanyahu reportedly pushed pre-election Iran strike plan amid Mossad-military rift; PMO denies"
-    },
-    "summary": {
-      "ja": "Times of Israel・Haaretz・Israel Hayom・Jfeed等(匿名の当局関係者情報に基づく)によると、ネタニヤフ首相は10/27の総選挙前にイランへの軍事作戦を主導的に推進していたという。モサド長官ゴフマン氏は計画を支持したが、モサド内の複数高官や軍参謀総長ザミール氏は反対したという。シンベト長官・カッツ国防相は支持したとされ、ネタニヤフ氏は再選すればザミール氏を更迭すると私的に述べたとの報道もある。推測:首相官邸はこれらの報道を否定し、カッツ氏本人も総選挙前のイラン攻撃の意図を否定しており、実際の攻撃実行は確認されていない(CNNが報じた「トランプ氏が拒否した」との情報も官邸は否定)。[信頼性: 中](複数メディアが匿名の当局関係者情報に基づき同趣旨を報道しているが、当局は明確に否定しており独立検証はできていない)",
-      "en": "According to the Times of Israel, Haaretz, Israel Hayom and Jfeed (citing anonymous officials), PM Netanyahu reportedly pushed a plan to strike Iran before the Oct. 27 election. Mossad director Gofman backed the plan, but several senior Mossad officials and IDF Chief of Staff Zamir opposed it. The Shin Bet chief and Defense Minister Katz reportedly supported it, and Netanyahu is said to have privately said he would fire Zamir if re-elected. Inference: the PMO has denied these reports, and Katz himself denied any intention to strike Iran before the election; no actual strike has been confirmed (the PMO also denies a CNN report that Trump refused such a request). [Reliability: Medium] (Multiple outlets report similar details from anonymous officials, but authorities have firmly denied it and it is not independently verified)"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.0461,
-    "lon": 34.8516,
-    "occurredAt": "2026-10-26T15:00:00+00:00",
-    "source": {
-      "name": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-october-26-2026/"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
-    "id": "2026-10-27-12",
-    "headline": {
-      "ja": "スーダン・ニャラの市場をドローン攻撃 21人死亡・40人負傷",
-      "en": "Drone strike on market in Sudan's Nyala kills 21, wounds 40"
-    },
-    "summary": {
-      "ja": "Al Jazeera(AFP通信)によると、10/26(月)夜8時頃(18時GMT)、スーダン・南ダルフール州ニャラ(RSFの事実上の拠点)北部の市場にドローン攻撃があり、医療関係者によれば少なくとも21人が死亡、40人が負傷したという。目撃者は市場にRSF戦闘員が多く出入りしていたと証言したという。推測:攻撃の実行主体を認めた当局・団体はなく、別のAl Jazeera報道では同日未明の攻撃による死者数を17人としており、死者数には報道間で差異がある。スーダン国軍はこれまでRSF拠点ニャラへの空爆を繰り返し実施している。",
-      "en": "According to Al Jazeera (citing AFP), a drone struck a market in the north of Nyala, the RSF's de facto stronghold in South Darfur, around 8pm (18:00 GMT) on Monday Oct. 26; medical sources said at least 21 people were killed and 40 wounded. A resident said the market was frequented by RSF fighters. Inference: no party has claimed responsibility, and a separate Al Jazeera report on an earlier strike the same day put the toll at 17, so death tolls vary between reports. Sudan's army has repeatedly struck the RSF stronghold of Nyala by air."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "region": "南ダルフール州・ニャラ",
-    "lat": 12.05,
-    "lon": 24.88,
-    "occurredAt": "2026-10-26T18:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-10-27-13",
@@ -448,6 +383,27 @@
     "source": {
       "name": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913122"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-30-01",
+    "headline": {
+      "ja": "米GDP、7-9月期(速報値)は年率3.4%成長 前期の2.2%から加速",
+      "en": "US GDP grows at 3.4% annualized rate in Q3 2026, accelerating from Q2"
+    },
+    "summary": {
+      "ja": "米商務省経済分析局(BEA)は10月29日、2026年7-9月期の実質GDP速報値が前期比年率3.4%増(4-6月期は2.2%増)になったと発表した。個人消費・設備投資・政府支出が押し上げ要因となった一方、輸出(特に石油関連製品)は減少したという。物価動向を示すPCE価格指数は年率2.1%上昇したという。改定値(第2次推計)は11月25日発表予定という。",
+      "en": "The U.S. Commerce Department's Bureau of Economic Analysis reported on Oct 29 that real GDP grew at an annualized rate of 3.4% in Q3 2026, up from 2.2% in Q2. Growth was driven by consumer spending, investment, and government spending, while exports (particularly petroleum-related goods) declined. The PCE price index reportedly rose at a 2.1% annualized rate. The second estimate is due Nov 25."
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-10-29T12:30:00+00:00",
+    "source": {
+      "name": "BEA(米商務省経済分析局)",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
     },
     "reliability": "high"
   }
