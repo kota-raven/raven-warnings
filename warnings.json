@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-10-29T00:48:08.572Z",
+  "generatedAt": "2026-10-29T06:58:40.068Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 222,
+  "count": 227,
   "warnings": [
+    {
+      "id": "NAVAREA11-260488",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0488",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0488    発表日時:2026年10月29日 12時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA\r\r\nPOSSIBLY LANDED.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260488&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260487",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0487",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0487    発表日時:2026年10月29日 12時\r\n\n\r\nJAPAN SEA, EAST CHINA SEA AND NORTH\r\r\nPACIFIC, JAPAN.\r\r\nOBJECT POTENTIALLY BALLISTIC MISSILE\r\r\nLAUNCHED FROM NORTH KOREA.\r\r\nVESSELS ARE REQUESTED TO PAY ATTENTION\r\r\nTO FURTHER INFORMATION AND TO KEEP CLEAR\r\r\nWHEN RECOGNIZING FALLING OBJECT.\r\r\nVESSELS ARE REQUESTED TO REPORT\r\r\nINFORMATION TO JAPAN COAST GUARD.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260487&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260486",
       "type": "NAVAREA11",
@@ -296,6 +320,30 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264268",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4268",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4268   発表日時:2026年10月29日 12時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264268&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264267",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4267",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4267   発表日時:2026年10月29日 12時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264267&LANG=JP"
     },
     {
       "id": "JAPANNW-264266",
@@ -3950,6 +3998,72 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262071",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "2071",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2071    発表日時:2026年10月29日 12時\r\n\n\r\n日本国防衛省によれば、北朝鮮から発射された弾道ミサイルの\r\r\n可能性があるものはすでに落下したとみられる。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262071&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262070",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "2070",
+      "title": "ミサイル発射",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2070    発表日時:2026年10月29日 12時\r\n\n\r\n日本国防衛省によれば、北朝鮮から弾道ミサイルの\r\r\n可能性があるものが発射された。\r\r\n船舶は今後の情報に留意するとともに、落下物を認めた場合は、\r\r\n近づくことなく、関連情報を海上保安庁に通報されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262070&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262069",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "2069",
+      "title": "酒田港、荒天に伴う錨泊自粛の勧告解除",
+      "publishedAt": "2026-10-29T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2069    発表日時:2026年10月29日 13時\r\n\n\r\n酒田港、\r\r\n錨泊自粛解除。\r\r\n(2033削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262069&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262068",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2068",
+      "title": "雄冬岬北、射撃",
+      "publishedAt": "2026-10-29T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          141.25,
+          44.25
+        ]
+      },
+      "rawText": "番号:26-2068    発表日時:2026年10月29日 13時\r\n\n\r\n雄冬岬北、\r\r\n射撃、10月30日0800-2400、\r\r\n44-15N 141-15Eを中心とする半径5海里の円内。\r\r\n(2047削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262068&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262067",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "協力依頼",
+      "number": "2067",
+      "title": "本州北西岸、避難勧告解除",
+      "publishedAt": "2026-10-29T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2067    発表日時:2026年10月29日 13時\r\n\n\r\n本州北西岸、\r\r\n避難勧告解除。\r\r\n(2064削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262067&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262066",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3984,18 +4098,6 @@
       },
       "rawText": "番号:26-2065    発表日時:2026年10月28日 23時\r\n\n\r\n瀬戸内海、相生港-呉港、\r\r\nえい船(明陽丸、MMSI 432579000)による\r\r\n起重機船(武蔵、長さ107メートル)えい航、\r\r\n相生港(34-47N 134-28E)\r\r\n10月28日2145出港、\r\r\n備讃瀬戸東航路、備讃瀬戸北航路、来島海峡航路経由、\r\r\n呉港(34-14N 132-32E)30日0046到着予定、\r\r\n速力約6ノット、長さ約290メートル。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262065&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262064",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "協力依頼",
-      "number": "2064",
-      "title": "本州北西岸、避難勧告",
-      "publishedAt": "2026-10-28T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2064    発表日時:2026年10月28日 21時\r\n\n\r\n本州北西岸、\r\r\n荒天により、避難勧告が出ている港がある。\r\r\n詳細は海上保安部署に問い合わせられたい。\r\r\n(2045削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262064&LANG=JP"
     },
     {
       "id": "NAVTEX-262063",
@@ -4390,36 +4492,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262048&LANG=JP"
     },
     {
-      "id": "NAVTEX-262047",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2047",
-      "title": "雄冬岬北、射撃",
-      "publishedAt": "2026-10-28T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          141.25,
-          44.25
-        ]
-      },
-      "rawText": "番号:26-2047    発表日時:2026年10月28日 13時\r\n\n\r\n雄冬岬北、\r\r\n射撃、10月29日、30日毎日0800-2400、\r\r\n44-15N 141-15Eを中心とする半径5海里の円内。\r\r\n(2006削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262047&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262046",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "制限禁止",
-      "number": "2046",
-      "title": "京浜港、横浜区、川崎区、荒天に伴う錨泊自粛の勧告解除",
-      "publishedAt": "2026-10-28T11:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2046    発表日時:2026年10月28日 11時\r\n\n\r\n京浜港、横浜区、川崎区、\r\r\n錨泊自粛解除。\r\r\n(2044削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262046&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262042",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4586,18 +4658,6 @@
       },
       "rawText": "番号:26-2035    発表日時:2026年10月27日 13時\r\n\n\r\n若狭湾北、\r\r\nミサイル射撃、11月1日-30日毎日0700-1900、\r\r\n39-27-10N 136-09-49E\r\r\n37-14-11N 136-09-49E\r\r\n36-33-11N 134-44-50E\r\r\n37-40-10N 133-24-50E\r\r\n38-33-10N 134-01-50Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262035&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262033",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "制限禁止",
-      "number": "2033",
-      "title": "酒田港、荒天に伴う錨泊自粛の勧告",
-      "publishedAt": "2026-10-27T10:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2033    発表日時:2026年10月27日 10時\r\n\n\r\n酒田港、\r\r\n荒天のため対象船舶に対し錨泊自粛の勧告、解除発表までの間、\r\r\n詳細は酒田港長に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262033&LANG=JP"
     },
     {
       "id": "NAVTEX-262031",
