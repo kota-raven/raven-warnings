@@ -24,6 +24,54 @@
     "severity": 4
   },
   {
+    "id": "auto-36834",
+    "headline": {
+      "ja": "スペイン陸上選手 列車衝突事故で死亡 被害者の一人",
+      "en": "Spanish Long Jumper Julieta Gallego Among Train Collision Victims"
+    },
+    "summary": {
+      "ja": "マドリッドに本拠を置く AD Sprint クラブ所属の陸上長跳び選手フリエタ・ガジェゴがスペインの列車衝突事故で死亡した。",
+      "en": "Spanish long jumper Julieta Gallego, who competed for Madrid-based AD Sprint, was among those killed in the train crash in Spain."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-10-29T15:18:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_high_speed_train_crash_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-36835",
+    "headline": {
+      "ja": "イスラエル空爆 ガザ継続 保健省がラファ開放要求",
+      "en": "Israeli Strikes Continue in Gaza; Health Ministry Urges Opening of Rafah"
+    },
+    "summary": {
+      "ja": "イスラエルの空爆がガザで継続しており、ガザ保健省は数十人が海外での治療待機中に死亡したと報告し、ラファの開放を求めている。",
+      "en": "Israeli strikes continue hitting Gaza despite a stated ceasefire; Gaza's Health Ministry reports dozens died awaiting treatment abroad and urges opening of Rafah crossing."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-10-29T15:12:36+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_strikes_health_ministry_2026-10-29",
+    "severity": 4
+  },
+  {
     "id": "auto-36784",
     "headline": {
       "ja": "ウクライナ・ドニプロの列車駅へのロシアドローン攻撃で最低14人が死亡",
@@ -71,6 +119,169 @@
     "eventKey": "yemen_taiz_airstrike_2026-10-29"
   },
   {
+    "id": "auto-36760",
+    "headline": {
+      "ja": "アフリカ連合議長 ロシア・アフリカ首脳会議で演説",
+      "en": "African Union Chairperson Addresses Third Russia-Africa Summit"
+    },
+    "summary": {
+      "ja": "アフリカ連合議長がモスクワで開催中の第3回ロシア・アフリカ首脳会議の本会議で演説を行った。",
+      "en": "The African Union Chairperson addressed the plenary session of the Third Russia-Africa Summit in Moscow."
+    },
+    "category": "economy",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-29T13:58:18+00:00",
+    "source": {
+      "name": "アフリカ連合(AU)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzNqcGt3TzB2emNaUm11bDF0X0JpQkg4WUZ6ZzN6LWxyRk9XOXhHUDgwQUFFaTlISU9pMnVsMFJhelEzdjNkd3FXS09hcE53T1ZncHFad0ZMcmVmYlBadWdtMlNPSWx5TG9jdVNSMUNXVXJDLWFxMjNPRU1JSWhnQVFNYlhhLUIzTXUwWl9BandibjFTX1dXa2VtQUdKc3VkRDBmdy10S05pZl85c0E?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "au_russia_africa_summit_2026-10-29"
+  },
+  {
+    "id": "auto-36806",
+    "headline": {
+      "ja": "シリア攻撃 ダマスカス・アンマン対立 民間人死亡",
+      "en": "Damascus and Amman Contradict Each Other on Attack That Killed Civilians"
+    },
+    "summary": {
+      "ja": "シリア南部での攻撃で民間人が殺害されたが、シリア政府とヨルダン政府の説明が相互に矛盾している。責任追及が国民の怒りを鎮めるために必要とされている。",
+      "en": "Damascus and Amman have issued contradictory accounts of an attack in southern Syria that killed civilians; analysts say accountability is needed to quell public outrage."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-29T13:44:42+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "syria_damascus_amman_attack_civilians_2026-10-29"
+  },
+  {
+    "id": "auto-36786",
+    "headline": {
+      "ja": "トルコ カッパドキア 岩石崩落で2人死亡",
+      "en": "Rock Collapse in Turkey's Cappadocia Kills Two"
+    },
+    "summary": {
+      "ja": "トルコの観光地カッパドキアで有名な奇岩「妖精の煙突」が野外博物館の外で崩落し、2人が死亡した。",
+      "en": "A rock formation collapse in Turkey's Cappadocia region, where a famous 'fairy chimney' collapsed outside an open-air museum, killed two people."
+    },
+    "category": "disaster",
+    "country": "トルコ",
+    "lat": 39.9199,
+    "lon": 32.8543,
+    "occurredAt": "2026-10-29T13:44:39+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "turkey_cappadocia_rock_collapse_2026-10-29"
+  },
+  {
+    "id": "auto-36788",
+    "headline": {
+      "ja": "中国 習主席 党規律強調 粛清が記録的水準",
+      "en": "China Records High Number of Purges as Xi Emphasizes Party Discipline"
+    },
+    "summary": {
+      "ja": "中国の習近平主席が党政治会議で党規律を強調する中、記録的な数の粛清が実施されている。これは権力維持の努力とみられている。",
+      "en": "China has recorded a record number of purges as Xi Jinping emphasizes 'party discipline', with observers noting this reflects an effort to consolidate and maintain authority."
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-10-29T12:49:17+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "china_xi_party_purges_discipline_2026-10-29"
+  },
+  {
+    "id": "auto-36812",
+    "headline": {
+      "ja": "イエメン タイズ近郊で激戦 国連が人道的支援を要求",
+      "en": "Fighting Rages Near Yemen's Taiz; UN Urges Humanitarian Access"
+    },
+    "summary": {
+      "ja": "イエメンのタイズ近郊で激しい戦闘が続いており、国連は人道的アクセスを要求している。8月以降、281,000人以上が自宅から避難した。",
+      "en": "Intense fighting near Yemen's Taiz continues as the UN appeals for humanitarian access; over 281,000 people have been displaced since August."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-10-29T12:46:29+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_taiz_fighting_un_humanitarian_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-36816",
+    "headline": {
+      "ja": "イスラエル ヘブロン1週間ロックダウン 家屋解体・立ち退き",
+      "en": "Israel Imposes Week-Long Lockdown in Hebron with Home Demolitions and Displacements"
+    },
+    "summary": {
+      "ja": "イスラエルはヘブロンに厳しい包囲を敷いており、家屋捜索・家屋解体・市民の立ち退きが行われている。",
+      "en": "Israel has imposed a tight lockdown and siege on Hebron, including raids, home demolitions, and forced displacement of residents."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-10-29T12:29:05+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_hebron_lockdown_2026-10-29"
+  },
+  {
+    "id": "auto-36738",
+    "headline": {
+      "ja": "ウクライナ情勢 EUロシアの侵略戦争に声明",
+      "en": "EU Reiterates Position on Russia's War of Aggression Against Ukraine"
+    },
+    "summary": {
+      "ja": "EU は OSCE 安全保障協力フォーラムにおいて、ロシアのウクライナに対する侵略戦争についての公式声明を発表した。",
+      "en": "The EU issued a statement at the OSCE Forum for Security Cooperation reaffirming its position on Russia's war of aggression against Ukraine."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-29T12:24:55+00:00",
+    "source": {
+      "name": "EU 欧州対外行動庁(EEAS)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOEJaSWViN2pqVW5xRV9SUXZZa3ZTdWphSW85R0NubG5GeGg2eXNDRHpacFNZMDhVRHFzYlhiQ1dsTDk4UmYzQllzdnFMQnpqdno4NEg5Qy1HSFRqdDU2NGlzQUVDcTNkNk16UFFLYTVvdmFfMGpBSzJyX0RraFBrRzBnbXo1TXVvYVBCZEJuUUdLc0MtUXZhVFdvaFlxcTVNUjFKWVVhdG11YlRCaXJERU40RFhVUzVoVElGTjRwRjhYdDBVclF2aTU4X01VREhIRXh5NkVFWEYyRjVEX1k4VWgxZ0JLbjhLUVpYeFI2SEkyd1ZsUjE5Z1NSMlp3NTM3SG5iM2dpUHA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "eu_ukraine_russia_war_statement_2026-10-28",
+    "severity": 4
+  },
+  {
     "id": "auto-37231",
     "headline": {
       "ja": "ウクライナのドニプロ駅へのロシアドローン攻撃で13人死亡",
@@ -93,6 +304,100 @@
     "auto": true,
     "eventKey": "ukraine_dnipro_train_station_2026-10-29",
     "severity": 4
+  },
+  {
+    "id": "auto-36744",
+    "headline": {
+      "ja": "ウクライナ防衛接触グループ NATOで会合",
+      "en": "Ukraine Defence Contact Group to Meet at NATO Headquarters"
+    },
+    "summary": {
+      "ja": "ウクライナ防衛接触グループがNATO本部で会合を開く。ウクライナ防衛に関する公式協議である。",
+      "en": "The Ukraine Defence Contact Group will meet at NATO Headquarters to discuss ongoing support for Ukraine's defense."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-29T11:58:12+00:00",
+    "source": {
+      "name": "NATO(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjVCY1VGOXVzdUFaaHdJeG5JMW02aXFlQmJwNDNhVEZfbDdGekxmTHdSa1hzX29MbGZOMjFWVmYyejYxNWhLd25uZG9vbFV0VmN0c1FWWDRDQVhnaUJPeW5EczNLd1ZhTEdtQWdhS1hHMXhLTGRQWXdCVVZVYVl4bHFWV2tfVl90c3c5aTZlSnE2ZEdoWDNrTW5pMEJYVXotWnVXOEJybC1RTkw0WGJ0VHNYZElwR0RoMW9aa2ctbnJod1pOcEp3U1lacTFLcm9HU2FZ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_defence_contact_group_nato_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-36820",
+    "headline": {
+      "ja": "米国・イラン平和協議 ヴァンス特使がイラン安保首脳に書簡",
+      "en": "US Envoy Vance Writes to Iran's Security Chief on Swift Return to Peace Talks"
+    },
+    "summary": {
+      "ja": "米国のヴァンス特使がイランの安全保障首脳へ書簡を送付し、平和交渉への迅速な復帰を促した。トランプ大統領は湾岐諸国に「準備」を呼びかけている。",
+      "en": "US envoy Vance reportedly sent a letter to Iran's security chief pushing for swift return to peace talks, with Trump warning Gulf states to 'prepare'."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-29T11:41:44+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_iran_vance_letter_peace_talks_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-36791",
+    "headline": {
+      "ja": "米国 ルワンダ国防省に制裁 コンゴ紛争関連",
+      "en": "US Imposes Sanctions on Rwanda's Defence Ministry Over DR Congo Conflict"
+    },
+    "summary": {
+      "ja": "米国がルワンダ国防省に制裁を課した。コンゴがルワンダのM23反政府勢力支援と鉱物資源略奪を非難していることに対応したもの。",
+      "en": "The United States imposed sanctions on Rwanda's defence ministry in response to accusations that Rwanda backs M23 rebels in the DR Congo conflict and plunders minerals."
+    },
+    "category": "conflict",
+    "country": "ルワンダ",
+    "lat": -1.95,
+    "lon": 30.0588,
+    "occurredAt": "2026-10-29T11:25:16+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_sanction_rwanda_drc_m23_2026-10-29"
+  },
+  {
+    "id": "auto-36272",
+    "headline": {
+      "ja": "パキスタン救急車爆発事故 10人死亡",
+      "en": "Ambulance Cylinder Explosion in Pakistan Kills 10"
+    },
+    "summary": {
+      "ja": "パキスタンのシンド州で救急車の酸素ボンベが爆発し、10人が死亡した。",
+      "en": "An ambulance cylinder explosion in Pakistan's Sindh province killed 10 people."
+    },
+    "category": "disaster",
+    "country": "パキスタン",
+    "lat": 24.8608,
+    "lon": 67.0104,
+    "occurredAt": "2026-10-29T10:18:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtTnl3alh6VGxwNFRlR3lBbUJPbG0xeVRNTXBUMVU5Q3JkNFRYTFlGOTJiZEdtckZyLTJYT1ZmVXFfUHVuYk1fczZIYWYzOU9nckZncVRWZ3Q5Z1lERnZGc0k3a21QNDJPTkNaeFFCNmtXOVplUGl5Y09sNA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "pakistan_sindh_ambulance_explosion_2026-10-29"
   },
   {
     "id": "auto-36247",
@@ -141,6 +446,29 @@
     "eventKey": "us_iran_military_operation_2026-10"
   },
   {
+    "id": "auto-36793",
+    "headline": {
+      "ja": "エチオピア ロシアから戦闘機・防空システム調達 ティグライ戦闘関連",
+      "en": "Ethiopia Acquires Russian Fighter Jets and Air Defence Systems amid Tigray Fighting"
+    },
+    "summary": {
+      "ja": "エチオピアが先月始まった北部ティグライ地域での戦闘の中、ロシアから戦闘機と防空システムを調達した。",
+      "en": "Ethiopia acquired Russian fighter jets and air defence systems amid ongoing fighting in the northern Tigray region that began last month."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 13.7033,
+    "lon": 39.0778,
+    "occurredAt": "2026-10-29T08:23:31+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ethiopia_russian_weapons_tigray_2026-10-29"
+  },
+  {
     "id": "auto-36216",
     "headline": {
       "ja": "ロシアの欧州破壊活動キャンペーン、エスカレーション懸念高まる",
@@ -186,6 +514,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "north_korea_ballistic_missiles_2026-10-29"
+  },
+  {
+    "id": "auto-35983",
+    "headline": {
+      "ja": "北朝鮮への制裁 日本を含む各国が共同声明",
+      "en": "Japan and Allies Issue Joint Statement on DPRK Sanctions"
+    },
+    "summary": {
+      "ja": "日本、フランス、ドイツ、オランダ、EU欧州対外行動庁が北朝鮮への制裁に関する共同声明を発表した。複数の国による一致した行動である。",
+      "en": "Japan and several allied nations, including France, Germany, Netherlands, and the EU, issued a joint statement regarding sanctions on the Democratic People's Republic of Korea."
+    },
+    "category": "economy",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-10-29T01:22:31+00:00",
+    "source": {
+      "name": "日本 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTaXBNUURGQWNyU0NZTThDT0JJb2c1U0VxZG5ZeWNhY2ZTOVEtR292Xzk0YWdweFptSUZOVkhOLU1aSHNJRUtDdUVic3ZPa2VPdXRpdE5oWlhEcjU0?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "dprk_sanctions_multilateral_2026-10-29"
   },
   {
     "id": "auto-36074",
@@ -395,6 +746,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "japan_tokyo_earthquake_2026-10-28"
+  },
+  {
+    "id": "auto-35178",
+    "headline": {
+      "ja": "スペイン列車事故 トルコ外務省が声明",
+      "en": "Turkey Comments on Spain Train Crash"
+    },
+    "summary": {
+      "ja": "スペインで発生した列車事故について、トルコ外務省が公式声明を発表した。",
+      "en": "Turkey's Ministry of Foreign Affairs issued an official statement regarding a train crash that occurred in Spain."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-10-28T14:28:58+00:00",
+    "source": {
+      "name": "トルコ 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1RUckNVaDdlcGNEYXZIcm1tdE5ZREZEN3R0TVU3QlBsZUpFZnIzSENnOVFPUmJvNEFYUHFTcFlkRG5mdVlvQndUOTBwOV9pcDlreXppMGxuWjRFc2tneEJ5MWlIN1lWQ2dSNk85T1B6MGpCTE9kTXhHMm5zZTVqNUVEWlc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_train_crash_2026-10-28"
   },
   {
     "id": "auto-34910",
