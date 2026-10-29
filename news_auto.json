@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-36216",
+    "headline": {
+      "ja": "ロシアの欧州破壊活動キャンペーン、エスカレーション懸念高まる",
+      "en": "Russia's alleged sabotage campaign in Europe raises fears of escalation"
+    },
+    "summary": {
+      "ja": "ドローン侵犯や暗殺疑いなど、ロシアが欧州で進行させているとされる「影の戦争」がエスカレーションの懸念を高めている。",
+      "en": "Russia is feared to be pressing a shadow war in Europe through drone incursions and alleged assassinations."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-29T06:01:29+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_europe_sabotage_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-36074",
+    "headline": {
+      "ja": "イエメン複数地域で激しい戦闘と空爆が継続",
+      "en": "Heavy fighting and airstrikes sweep multiple fronts across Yemen"
+    },
+    "summary": {
+      "ja": "イエメンの複数地域で激しい戦闘と空爆による攻撃が展開されている。",
+      "en": "Heavy fighting and airstrikes are occurring across multiple fronts in Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-28T21:33:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xR1NxdGhaQWtGYWtqU2hBSWpPV1hrb3JwbVZwS0NjaXY0UFJJQzRrZ3YyQllObW5VUGJXc1BvOEJaS1pKRHlxLXNSaEs1X3ZwY2JyZ2NLSkFMbDRjMTJOODJwRTNwTjMwZ1d3VnZLNmw1SEZjczVncDRBUmY?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_multiple_fronts_conflict_2026-10-28",
+    "severity": 4
+  },
+  {
+    "id": "auto-36071",
+    "headline": {
+      "ja": "スーダン、エチオピアがドローン攻撃を支援していると非難",
+      "en": "Sudan accuses Ethiopia of hosting launch platforms for drone attacks"
+    },
+    "summary": {
+      "ja": "スーダン政府は、エチオピアが自国に対するドローン攻撃の発射地点を提供していると非難した。",
+      "en": "Sudan accuses Ethiopia of hosting launch platforms for drone attacks on its territory."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-28T21:27:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2pLLV9OaTA2X1hfUFBvQmlfUFZoaUQxdHZYLXp4MXJpbWk1ZzloT1l1WGo4U3d6cXg3Wm05VDV5WW91dW5ERnBIaGlvcThCczMtR2pvdFc1UFE5c3dWNmJnaDhZOEllOU5sdjlkYnE5cmxMM1U1YnRjVzk4UGRxX0lvbk1aUQ?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "sudan_ethiopia_drone_conflict_2026-10-28"
+  },
+  {
     "id": "auto-35552",
     "headline": {
       "ja": "ロシア、核兵器搭載可能な衛星開発中",
@@ -160,6 +231,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "jordan_syria_airstrikes_2026-10-28"
+  },
+  {
+    "id": "auto-36143",
+    "headline": {
+      "ja": "サウジ空爆でイエメン北部で14人死傷",
+      "en": "14 killed, 10 wounded in Saudi airstrikes in northern Yemen"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の空爆によるイエメン北部での攻撃で14人が死亡、10人が負傷した。",
+      "en": "Saudi airstrikes in northern Yemen killed 14 and wounded 10."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-28T12:20:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SbWEtaHhDbUdVOExnQnByaHBiTy00UjE3bEM0dFo4QjkxbW55RzE5X0I3TzhBYlZPbUZsN1RfOEhPa2w2NWJhMTV6RXJtek1JeXJxRGJNX2VSbXFBUFVNUmlfU1FJZ0pub1dFUkFSVDczSTBDSGFNdkszRHI?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saudi_airstrike_north_2026-10-28",
+    "severity": 4
   },
   {
     "id": "auto-35581",
@@ -875,6 +970,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "us_iran_strikes_readiness_2026-10"
+  },
+  {
+    "id": "auto-30894",
+    "headline": {
+      "ja": "サウジ主導連合、フーシ派のミサイル施設を空爆",
+      "en": "Saudi-led coalition strikes Houthi missile facilities"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の多国籍軍がイエメンのフーシ派の弾道ミサイル発射装置、トンネル、ミサイル貯蔵庫を破壊したと発表した。",
+      "en": "Saudi-led coalition says it destroyed Houthi ballistic missile launchers, tunnels and missile storage facilities."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-26T10:41:23+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_missile_strike_2026-10-26"
   },
   {
     "id": "auto-31203",
