@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-35552",
+    "headline": {
+      "ja": "ロシア、核兵器搭載可能な衛星開発中",
+      "en": "Russia developing nuclear-capable satellite system"
+    },
+    "summary": {
+      "ja": "西側情報源によると、ロシアが核兵器を搭載できる衛星システムの開発を進めているという。",
+      "en": "According to Western sources, Russia is developing a satellite system capable of carrying a nuclear weapon."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-28T19:37:24+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20623"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_nuclear_satellite_development_2026-10"
+  },
+  {
+    "id": "auto-35590",
+    "headline": {
+      "ja": "アフガニスタンがドローン攻撃への報復としてパキスタン軍事施設を攻撃",
+      "en": "Afghanistan strikes Pakistani military positions in retaliation for drone attacks"
+    },
+    "summary": {
+      "ja": "アフガニスタン政府は、ドローン攻撃を受けたことへの報復として、パキスタン軍事施設を攻撃したと発表した。",
+      "en": "Afghanistan announced strikes on Pakistani military facilities in response to drone attacks."
+    },
+    "category": "conflict",
+    "country": "アフガニスタン",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "occurredAt": "2026-10-28T16:00:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02OTVuRzBkSENBaVpJdjE4RVZ3bVZzZUt4dm5YaW1Qb1NpdjAwelJCalAydml3dGRMQnJvSFpRbzQ5Z1lQd0dRNU9sbi1tS2ljZUxLWUFtc09kU2pDNXZZdVNHOUljUVhRSW1rX3VUX3A0ejd0SUxLYzNxRQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "afghanistan_pakistan_military_strike_2026-10-28"
+  },
+  {
     "id": "auto-35032",
     "headline": {
       "ja": "東京近郊で震度5の地震発生",
@@ -114,6 +160,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "jordan_syria_airstrikes_2026-10-28"
+  },
+  {
+    "id": "auto-35581",
+    "headline": {
+      "ja": "スーダン・エルオベイドで民間人が無人機攻撃と恣意的逮捕の脅威に",
+      "en": "Sudanese civilians trapped between drone attacks and arbitrary detention"
+    },
+    "summary": {
+      "ja": "国連調査団によると、スーダン東部エルオベイドの民間人は、迅速支援部隊（RSF）の無人機攻撃とスーダン軍（SAF）による恣意的な逮捕の脅威にさらされている。",
+      "en": "UN investigators report that civilians in Sudan's El Obeid face threats from drone attacks by RSF and arbitrary arrests by SAF."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 13.1842,
+    "lon": 30.2167,
+    "occurredAt": "2026-10-28T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_el_obeid_civilian_threat_2026-10-28"
   },
   {
     "id": "auto-34969",
@@ -3475,29 +3544,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_drone_attack_moscow_2026-10-22"
-  },
-  {
-    "id": "auto-24301",
-    "headline": {
-      "ja": "イラン革命防衛隊、攻撃国への侵略を誓約 防衛方針が「攻撃的」に転換",
-      "en": "Iran's IRGC vows invasion of any attacking nation; defense doctrine becomes offensive"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊（IRGC）は、自国を攻撃する国への侵略を誓約。新しい防衛方針は従来の防衛的から「攻撃的かつ非対称的」へ転換した。",
-      "en": "Iran's IRGC vows to invade any country attacking Iran, marking a shift to an 'offensive and asymmetrical' defense doctrine."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-22T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_irgc_offensive_doctrine_2026-10-22",
-    "severity": 4
   }
 ]
