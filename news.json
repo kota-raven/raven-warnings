@@ -1,48 +1,5 @@
 [
   {
-    "id": "2026-10-27-13",
-    "headline": {
-      "ja": "ブラジル右派ボルソナロ氏の政党、トランプ氏の「不正」主張にもかかわらず大統領選結果を受け入れ",
-      "en": "Bolsonaro's party accepts Brazil election result despite Trump's 'rigged' claim"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、ブラジル右派「自由党(PL)」のバウデマール・コスタネト党首は、ルラ氏勝利(既報id: 2026-10-26-08、得票差440万票超)が確定した大統領選の結果を党として受け入れる声明を出したという。一方、落選したフラビオ・ボルソナロ氏(候補者)本人はまだ正式には敗北を認めておらず、投票時間の延長を理由に結果を「受け入れられない」としているという。トランプ米大統領は選挙が「不正操作された(rigged)」可能性に言及したが、自身は「どちらの側にも立っていない」とも述べたという。推測:専門家は不正の主張に懐疑的で、投票時間延長による追加投票は全国で約3万5000票(全体の0.03%未満)に過ぎないとの分析がある。",
-      "en": "According to Al Jazeera, Valdemar Costa Neto, leader of Brazil's right-wing Liberal Party (PL), issued a statement saying his party accepts the result of the presidential election, which confirmed Lula's win (see id: 2026-10-26-08, a margin of over 4.4 million votes). However, defeated candidate Flavio Bolsonaro himself has not formally conceded, calling the result 'unacceptable' over a last-minute voting-hour extension. US President Trump suggested the vote may have been 'rigged,' while also saying he 'did not take sides.' Inference: experts are skeptical of the fraud claims, with one analysis finding the extension added only about 35,000 votes nationwide, less than 0.03% of the total."
-    },
-    "category": "conflict",
-    "country": "ブラジル",
-    "lat": -14.235,
-    "lon": -51.9253,
-    "occurredAt": "2026-10-27T10:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-10-27-14",
-    "headline": {
-      "ja": "エクアドル最大都市グアヤキルで豪雨による大規模な浸水",
-      "en": "Heavy rains cause massive flooding in Ecuador's largest city, Guayaquil"
-    },
-    "summary": {
-      "ja": "Al Jazeeraによると、エクアドル最大都市グアヤキルで激しい豪雨により市内の広い範囲が浸水したという。同国沿岸部は、強まるエルニーニョ現象の影響で今回を含め相次いで暴風雨に見舞われているという。推測:現時点の報道は短い映像ニュースのみで、死者数や被害規模、当局による公式発表は確認できていない。",
-      "en": "According to Al Jazeera, parts of Guayaquil, Ecuador's largest city, are underwater after severe rains battered the coast, the latest in a series of storms to hit the country amid a strengthening El Nino. Inference: coverage so far is a brief video report only; no death toll, damage assessment, or official statement has been confirmed yet."
-    },
-    "category": "disaster",
-    "country": "エクアドル",
-    "region": "グアヤキル",
-    "lat": -2.1894,
-    "lon": -79.8891,
-    "occurredAt": "2026-10-27T13:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-28-01",
     "headline": {
       "ja": "イスラエル総選挙、投票終了 出口調査では与野党双方ブロックとも過半数に届かず",
@@ -62,50 +19,6 @@
       "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-10-28-02",
-    "headline": {
-      "ja": "イラン軍、ホルムズ海峡東方で原油タンカーが機雷に接触し炎上と発表",
-      "en": "Iran's navy says oil tanker catches fire after hitting mines east of Strait of Hormuz"
-    },
-    "summary": {
-      "ja": "複数の国際メディア(新華社・Middle East Monitor等)によると、イラン軍は10月27日、ホルムズ海峡の東方海域で原油タンカー1隻が機雷に接触して炎上したと発表したという。船名・船籍・死傷者の有無は明らかにされていない。イラン側の発表では、同船は位置情報システムを切った状態でイランが認可していない航路を通過していたとしている。イランは10月22日にも同海域で複数のタンカーが被弾・損傷したと発表しており、同様の主張が繰り返されている。[信頼性: 中](イラン軍発表に基づく報道で、独立した第三者による被害の確認は得られていない。イラン側の一方的な発表である点に留意)",
-      "en": "According to multiple international outlets (Xinhua, Middle East Monitor and others), Iran's military said on October 27 that an oil tanker caught fire after hitting naval mines in waters east of the Strait of Hormuz. The vessel's name, flag and any casualties were not disclosed. Iran said the tanker had switched off its tracking systems and was using a route Tehran had not authorized. Iran made similar claims about several tankers being hit on October 22. [Reliability: Medium] (Based on Iranian military statements; no independent third-party confirmation of the damage has been obtained. This is a one-sided announcement from a party to the conflict.)"
-    },
-    "category": "conflict",
-    "country": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-10-27T10:00:00+00:00",
-    "source": {
-      "name": "新華社(Xinhua)",
-      "url": "https://english.news.cn/20261027/ae8e1326cb8b4d5bbae1fa92fddad086/c.html"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-28-04",
-    "headline": {
-      "ja": "インド東海岸に非常に強いサイクロン「アルナブ」接近 28日にアーンドラ・プラデーシュ州沿岸へ上陸の見込み",
-      "en": "Very severe Cyclone Arnab approaches India's east coast, landfall expected Oct 28 on Andhra Pradesh coast"
-    },
-    "summary": {
-      "ja": "インド各メディア(Daily Pioneer等)・インド気象局(IMD)によると、ベンガル湾中西部で非常に強いサイクロンに発達した「アルナブ」が10月28日中にアーンドラ・プラデーシュ州のバーパトラ~ヴィシャーカパトナム間の沿岸に上陸する見込みだという。IMDはアーンドラ・プラデーシュ州沿岸および隣接する南オディシャ州沿岸にレッド警報(最高レベル)を発令し、米軍合同台風警報センター(JTWC)は最大風速213km/hと観測しているという。隣接するオディシャ州でも強風・降雨が始まり、州都ブバネーシュワルなどで観光船の運航が3日間停止されたという。[信頼性: 高](IMD発表・JTWC観測に基づく複数のインド主要メディアの報道が一致。実際の上陸地点・被害規模は本稿執筆時点で未確定)",
-      "en": "According to Indian media (including the Daily Pioneer) and the India Meteorological Department (IMD), Cyclone Arnab, which intensified into a very severe cyclonic storm over the west-central Bay of Bengal, is expected to make landfall on October 28 along the Andhra Pradesh coast between Bapatla and Visakhapatnam. The IMD issued a red warning (its highest level) for the Andhra Pradesh coast and the adjoining south Odisha coast, and the US Joint Typhoon Warning Center (JTWC) recorded maximum sustained winds of 213 km/h. In neighboring Odisha, winds and rain have already begun, with tourist boat services suspended for three days around the state capital Bhubaneswar. [Reliability: High] (Multiple major Indian outlets agree, based on IMD announcements and JTWC observations. The exact landfall point and damage extent remained unconfirmed at the time of writing.)"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "region": "アーンドラ・プラデーシュ州沿岸",
-    "lat": 16.8,
-    "lon": 81.84,
-    "occurredAt": "2026-10-27T06:00:00+00:00",
-    "source": {
-      "name": "Daily Pioneer",
-      "url": "https://dailypioneer.com/india/cyclone-arnab-live-updates-very-severe-storm-heads-for-andhra-pradesh-coast"
-    },
-    "reliability": "high",
-    "severity": 4
   },
   {
     "id": "2026-10-28-06",
@@ -360,6 +273,27 @@
     "source": {
       "name": "日本銀行(金融政策決定会合)/fxstreet等複数メディア報道",
       "url": "https://www.fxstreet.com/news/forex-today-boj-keeps-policy-settings-unchanged-gold-drops-below-4-000-202610300745"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-30-04",
+    "headline": {
+      "ja": "ユーロ圏、7-9月期GDP速報値は前期比0.4%増 独0.2%増・仏0.1%減",
+      "en": "Eurozone Q3 2026 GDP grows 0.4% q/q; Germany +0.2%, France -0.1%"
+    },
+    "summary": {
+      "ja": "欧州連合統計局(Eurostat)は10月30日、2026年7-9月期のユーロ圏実質GDP速報値(速報、暫定)を発表し、前期比0.4%増(4-6月期の0.6%増から減速)になったという。EU全体では0.5%増(前期0.7%から減速)だったという。前年同期比はユーロ圏1.3%増・EU1.5%増だったという。主要国ではドイツが0.2%増(前期0.3%から減速)、フランスが0.1%減(前期は横ばい)、イタリアは横ばい(前期0.2%増)、スペインは0.6%増(前期0.7%から減速)だったという。確定値は11月13日発表予定という。個別銘柄の投資判断ではなく、ユーロ圏・EU経済全体の動きとして採用した。",
+      "en": "Eurostat reported on October 30 that preliminary flash estimates show euro area real GDP grew 0.4% quarter-on-quarter in Q3 2026 (July-September), slowing from 0.6% in Q2, while EU-wide GDP rose 0.5% (down from 0.7%). Year-on-year growth was 1.3% for the euro area and 1.5% for the EU. Among major members, Germany grew 0.2% (down from 0.3%), France contracted 0.1% (flat previously), Italy was flat (vs. +0.2%), and Spain grew 0.6% (down from 0.7%). A fuller estimate is due November 13."
+    },
+    "category": "economy",
+    "country": "EU",
+    "lat": 50.5039,
+    "lon": 4.4699,
+    "occurredAt": "2026-10-30T10:00:00+00:00",
+    "source": {
+      "name": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
     },
     "reliability": "high"
   }
