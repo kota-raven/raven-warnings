@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-28-01",
-    "headline": {
-      "ja": "イスラエル総選挙、投票終了 出口調査では与野党双方ブロックとも過半数に届かず",
-      "en": "Israel election polls close; exit polls show neither Netanyahu's nor Eisenkot's bloc wins a Knesset majority"
-    },
-    "summary": {
-      "ja": "CNN・NBC・Haaretz等によると、イスラエルで10月27日に総選挙の投票が行われ、記録的な高投票率になったという。投票終了後の出口調査(チャンネル13)では、ネタニヤフ首相のリクードが25議席、同氏を支持するブロック全体で50議席にとどまり、対抗するアイゼンコット氏の陣営を含むブロックも過半数(61議席、定数120)には届かない「デッドロック」の情勢と報じられているという。選管はネタニヤフ氏側の投票時間延長要請を拒否したという。確定議席数は本稿執筆時点で未確定。[信頼性: 高](CNN・NBC・Haaretz・Jerusalem Postなど複数の主要メディアが一致して出口調査のデッドロックを報じている。ただし出口調査自体であり、確定結果ではない点に留意)",
-      "en": "According to CNN, NBC and Haaretz, Israel held a general election on October 27 with record-high turnout. Exit polls (Channel 13) after voting closed showed Prime Minister Netanyahu's Likud winning 25 seats, with his full bloc at 50, while the rival bloc led by Gadi Eisenkot also fell short of the 61-seat majority needed in the 120-seat Knesset -- pointing to a deadlock. Election officials reportedly rejected a request from Netanyahu's camp to extend voting hours. Final seat counts were not yet confirmed at the time of writing. [Reliability: High] (Multiple major outlets -- CNN, NBC, Haaretz, Jerusalem Post -- consistently report the exit-poll deadlock, though these remain exit polls, not certified final results.)"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.0461,
-    "lon": 34.8516,
-    "occurredAt": "2026-10-27T20:00:00+00:00",
-    "source": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-28-06",
     "headline": {
       "ja": "イスラエル総選挙、開票進み与党リクードが単独最大政党に 最終的な過半数ブロックは依然不明",
@@ -40,28 +19,6 @@
       "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-10-28-07",
-    "headline": {
-      "ja": "サイクロン「アルナブ」、インド東海岸に上陸 死者報告なし、計13万人超を事前避難",
-      "en": "Cyclone Arnab makes landfall on India's east coast; no deaths reported after over 130,000 evacuated"
-    },
-    "summary": {
-      "ja": "Odisha TV等によると、サイクロン「アルナブ」は10月28日午前1時20分頃(インド時間)、アーンドラ・プラデーシュ州北部からオディシャ州境にかけてのカリンガパトナム付近に上陸し、その後オディシャ州方面へ進んでいるという。上陸に先立ちアーンドラ・プラデーシュ州で8万4000人超、オディシャ州で約4万8000人が事前避難したという。本稿執筆時点で両州政府とも死者の報告は確認していないという。なお一部報道ではインド気象局(IMD)が上陸時点のシステムを「サイクロン」ではなく「深い低気圧」にとどまったとする一方、米軍JTWCは「サイクロン01B」と分類しており、強度の評価には報道間で差異があるという。推測:被害状況の全容は今後の報告で変わる可能性がある。[信頼性: 中](IMD・州政府発表に基づく複数の地元報道。上陸直後の時点の情報であり、被害の全容は未確定)",
-      "en": "According to Odisha TV and other outlets, Cyclone Arnab made landfall around 1:20am IST on October 28 near Kalingapatnam, on the Andhra Pradesh-Odisha border, and is now moving toward Odisha. More than 84,000 people were evacuated in Andhra Pradesh and about 48,000 in Odisha ahead of landfall. As of this writing, neither state government has confirmed any deaths. Some reports say India's Meteorological Department classified the system as a \"deep depression\" rather than a full cyclone at landfall, while the US Joint Typhoon Warning Center classified it as \"Cyclone 01B\" — outlets differ on its intensity. Speculation: the full damage picture may change as further reports come in. [Reliability: Medium] (Based on local reporting citing IMD and state government statements; this is information from immediately after landfall, and the full extent of damage is not yet confirmed.)"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "region": "アーンドラ・プラデーシュ州/オディシャ州境(カリンガパトナム)",
-    "lat": 18.3453,
-    "lon": 84.1192,
-    "occurredAt": "2026-10-27T19:50:00+00:00",
-    "source": {
-      "name": "Odisha TV",
-      "url": "https://odishatv.in/odisha/cyclone-arnab-makes-landfall-along-andhra-coast-moving-towards-odisha-12759449"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-10-28-08",
