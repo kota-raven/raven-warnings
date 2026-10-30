@@ -23,6 +23,29 @@
     "eventKey": "yemen_aden_houthi_missile_crisis_2026-10-30"
   },
   {
+    "id": "auto-38282",
+    "headline": {
+      "ja": "スペイン高速列車衝突事故、69人以上死亡",
+      "en": "Spain high-speed train collision kills at least 69"
+    },
+    "summary": {
+      "ja": "スペイン国内で高速列車同士が衝突し、少なくとも69人が死亡した。運輸大臣は辞任を拒否しており、事故原因の調査が進行中。",
+      "en": "Two high-speed trains collided in Spain, killing at least 69 people. The transport minister has refused to resign over the disaster."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-10-30T15:03:39+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_high_speed_train_collision_2026-10-30"
+  },
+  {
     "id": "auto-38051",
     "headline": {
       "ja": "エチオピア難民キャンプへのドローン攻撃、16人以上が死亡",
