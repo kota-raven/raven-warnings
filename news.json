@@ -341,5 +341,26 @@
       "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-10-30-03",
+    "headline": {
+      "ja": "日銀、金融政策決定会合で政策金利1.25%を維持",
+      "en": "Bank of Japan holds policy rate at 1.25%"
+    },
+    "summary": {
+      "ja": "日本銀行は10月30日の金融政策決定会合で、政策金利を1.25%で維持することを8対1の賛成多数で決定したという。反対した高田創審議委員は1.50%への利上げを主張したという。日銀は物価見通しを上方修正し、基調的な物価上昇率が2%目標に整合的になってきているとの認識を示したという。植田和男総裁は記者会見で、為替・AI・中東情勢の影響を見極めつつ利上げ路線を続ける方針を示したが、次回利上げの具体的な時期は明言しなかったという。",
+      "en": "The Bank of Japan decided on October 30 to hold its policy rate at 1.25% in an 8-1 vote, with board member Hajime Takata dissenting in favor of a hike to 1.50%, reports say. The BOJ reportedly raised its inflation outlook, saying underlying inflation is becoming consistent with its 2% target. Governor Kazuo Ueda reportedly said at the press conference the bank will continue on its rate-hike path while watching the impact of FX, AI and Middle East developments, but did not commit to a specific timing for the next hike."
+    },
+    "category": "economy",
+    "country": "日本",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "occurredAt": "2026-10-30T03:00:00+00:00",
+    "source": {
+      "name": "日本銀行(金融政策決定会合)/fxstreet等複数メディア報道",
+      "url": "https://www.fxstreet.com/news/forex-today-boj-keeps-policy-settings-unchanged-gold-drops-below-4-000-202610300745"
+    },
+    "reliability": "high"
   }
 ]
