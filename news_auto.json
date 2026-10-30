@@ -23,6 +23,75 @@
     "eventKey": "ukraine_russia_ballistic_missile_threat_2026-10-29"
   },
   {
+    "id": "auto-37227",
+    "headline": {
+      "ja": "ドルジコフスク方向の戦況、ウクライナ軍の前進と後退を繰り返すとロシア系ブログが投稿",
+      "en": "rybar reports fluctuating situation at Druzhkovsk direction"
+    },
+    "summary": {
+      "ja": "親ロシア系Telegramアカウント@rybarが、スラビャンスク方面でのドルジコフスク方向での戦況が進退を繰り返しているという投稿をした。",
+      "en": "Pro-Russian Telegram account @rybar posted that situation at Druzhkovsk direction near Slovyansk shows Ukrainian forces advancing and retreating."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-29T17:45:40+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84256"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_druzhkovsk_military_2026-10-29"
+  },
+  {
+    "id": "auto-37224",
+    "headline": {
+      "ja": "パキスタン人権活動家が10年の懲役判決、夫も同罪",
+      "en": "Pakistan rights activist and husband jailed for 10 years"
+    },
+    "summary": {
+      "ja": "パキスタンの人権活動家イマーン・マザリと夫が軍部支持の当局により10年の懲役判決を受けた。本人たちは『良心の囚人』だと主張している。",
+      "en": "Pakistani rights activist Imaan Mazari and her husband were sentenced to 10 years in jail by military-backed authorities, with both claiming to be prisoners of conscience."
+    },
+    "category": "conflict",
+    "country": "パキスタン",
+    "lat": 33.7215,
+    "lon": 73.0433,
+    "occurredAt": "2026-10-29T17:28:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_rights_activist_jail_2026-10-29"
+  },
+  {
+    "id": "auto-37225",
+    "headline": {
+      "ja": "UAEがスーダン軍への武器供給で8人に終身刑、カルトゥームとの緊張背景に",
+      "en": "UAE sentences 8 people to life for arms supplies to Sudan's army"
+    },
+    "summary": {
+      "ja": "UAEは、スーダン軍への武器供給容疑で8人に終身刑を言い渡した。この判決はスーダン紛争をめぐるハルツーム政府とUAEの緊張関係を反映している。",
+      "en": "UAE handed down life sentences to 8 people for supplying arms to Sudan's army amid tensions between Khartoum and Abu Dhabi over Sudan's ongoing war."
+    },
+    "category": "conflict",
+    "country": "アラブ首長国連邦",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "occurredAt": "2026-10-29T17:25:17+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "uae_sudan_arms_supplies_2026-10-29"
+  },
+  {
     "id": "auto-37229",
     "headline": {
       "ja": "北朝鮮、ウォンサン地域から短距離弾道ミサイル約12発を発射",
@@ -45,6 +114,190 @@
     "auto": true,
     "eventKey": "north_korea_missile_launch_wonsan_2026-10-29",
     "severity": 4
+  },
+  {
+    "id": "auto-37226",
+    "headline": {
+      "ja": "リマン方向での情報、ウクライナ軍の進軍が停滞とロシア系ブログが投稿",
+      "en": "rybar claims Ukrainian forces' advance stalled at Liman direction"
+    },
+    "summary": {
+      "ja": "親ロシア系Telegramアカウント@rybarが、ウクライナ東部リマン方向でウクライナ軍の進軍が停滞しているという投稿をした。",
+      "en": "Pro-Russian Telegram account @rybar posted that Ukrainian forces' advance has stalled at the Liman direction."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-29T17:15:01+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84255"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_liman_military_2026-10-29"
+  },
+  {
+    "id": "auto-37190",
+    "headline": {
+      "ja": "カランディア難民キャンプ襲撃、パレスチナ人の子ども2人が銃撃で負傷",
+      "en": "Two Palestinian children injured by Israeli gunfire in Qalandia refugee camp raid"
+    },
+    "summary": {
+      "ja": "イスラエル軍がカランディア難民キャンプを襲撃し、パレスチナ人の子ども2人が銃撃で負傷した。",
+      "en": "Two Palestinian children were injured by Israeli gunfire during a raid on Qalandia refugee camp."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-29T16:39:17+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51SE4wajRYVzdyUVIydFBZZkEwd3VaWWEyekNoQzF2Y0NLbUV0QnJMYnI0ekZYQXR4RFlabVRYY3FUV3ZsSWhNZ00xOHNyMG1HSlBIdE9UNA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "palestine_israel_qalandia_2026-10-29"
+  },
+  {
+    "id": "auto-37178",
+    "headline": {
+      "ja": "シリア洪水、5人死亡（うち子ども4人）5人行方不明",
+      "en": "Floods kill 5 in Syria, including 4 children, 5 missing"
+    },
+    "summary": {
+      "ja": "シリアの洪水で5人が亡くなり、4人が子どもを含まれ、さらに5人が行方不明となっている。",
+      "en": "Floods in Syria killed 5 people, including 4 children, with 5 people still missing."
+    },
+    "category": "disaster",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-29T16:36:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUNfSkdTOXNSRFhycFdla1NFRl9IVjJxbG9tV1Q2ODd2aURYLTJybDA4SEI4NkN0Q1owcGFvRTk4c2cxWFdnWUZPNFpoT2tBTDVvY2d0dG1MTXJQLUFZWllLd252S0dBOEN1Ul8xSmk3TWRtV1hwYVhQdEkwWUJnb1JlVXlvYU55bVFYUUpCeGZXVWNXZ0ZDWGN3WEZWVDNqczVjS2Ytdkk?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "syria_floods_2026-10-29"
+  },
+  {
+    "id": "auto-37199",
+    "headline": {
+      "ja": "アリョーシュキ地域住民、ウクライナへの移住拒否と述べた",
+      "en": "Alyoshki residents did not want to leave for Ukraine, local resident says"
+    },
+    "summary": {
+      "ja": "アリョーシュキ地域の住民がウクライナへの移住を拒否したと述べた。",
+      "en": "A local resident stated that Alyoshki residents did not want to leave for Ukraine."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-29T16:30:05+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWWI4b2VqYnQ1S3FVaG1yZ0dFckx5X3RpN1VpM2ZjSm1DeXpsZFY1RktfUHBEcUp0YXE0bWNZTFJzbXo4eEVB0gFMQVVfeXFMT0tHLXhqUjNVYmJPbGJYSllYUWxQVE56WHJwQlhseWNVVm9ERmQ5SExoWGpTclRSMFNrRl9OVUwtTmpuNG9meVB2eGxQTA?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "russia_ukraine_alyoshki_2026-10-29"
+  },
+  {
+    "id": "auto-37189",
+    "headline": {
+      "ja": "アフリカ各国、エボラ発生下での国境開放維持で合意",
+      "en": "African officials agree to keep borders open despite Ebola outbreak"
+    },
+    "summary": {
+      "ja": "アフリカの複数国がエボラウイルス感染拡大の中でも国境開放を継続することで合意した。",
+      "en": "African officials agreed to maintain open borders while managing the Ebola outbreak."
+    },
+    "category": "disaster",
+    "country": "南アフリカ",
+    "lat": -25.7449,
+    "lon": 28.1878,
+    "occurredAt": "2026-10-29T16:26:29+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDdLckFNNHkzVnp3cklzb3ZpdUg0cTZwZ3cwYS1lYXp0bHBSM2lnR0Ftcm1ULUdibERYZFh5OTBfdzl3NnhTdWMxandRNng5MXBGUUd2SGYtYmt6Q1h5QUNzTFVLeGdnWW5zV2otTGVxRzE3YmY2b1hPdFhCcXJOX3pWS2QzanVlMk11aUozYjlFaTRNOHhtU0VQUkJmbl9PanFIQWF3?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "africa_ebola_outbreak_2026-10"
+  },
+  {
+    "id": "auto-37179",
+    "headline": {
+      "ja": "イエメン軍、24時間でフーシ派324人を撃退と発表",
+      "en": "Yemeni army claims 324 Houthis neutralized in 24 hours"
+    },
+    "summary": {
+      "ja": "イエメン軍は「イエメンの夜明け」作戦で24時間以内にフーシ派兵士324人を撃退したと発表した。",
+      "en": "The Yemeni army claims to have neutralized 324 Houthis in 24 hours during the Dawn of Yemen operation."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-29T16:21:30+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFpNOGtHR3pGRk5RMjB1LTFra1lLdlpNM19BeHVyeFZGWFVla2FsNzA3bUIybnpXVTRPY191VGlXaGVUcW5zTTk3eGlCQ3MwSXdrVWVRSjZldzM5YWZ3SS1ZNW9lVXF4Q0JkN2I0OVM5VUZ2Um8zWnA5ZWIyRmRHTVc1MEdidm9wZ1RRS0EtOXZvM3h1S29RQW1QbE9Pb3hBOURPdzZ0cDFLVmN1bFQyRkVkQldCbmdHSElBXzEzYWUzejJEZDBhUzZ3?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "yemen_houthi_military_2026-10-29"
+  },
+  {
+    "id": "auto-37180",
+    "headline": {
+      "ja": "スーダン青ナイル州、1月以来12万人が避難",
+      "en": "Nearly 120,000 displaced in Sudan's Blue Nile state since January"
+    },
+    "summary": {
+      "ja": "スーダンの青ナイル州では、1月以来約12万人が紛争の影響で避難生活を余儀なくされている。",
+      "en": "Nearly 120,000 people have been displaced in Sudan's Blue Nile state since January, according to UN reports."
+    },
+    "category": "disaster",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-10-29T16:13:41+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSndDWUpLVURkR0tHTkZQa0QyTjFLWWd4NEVZOTQ3Nl9HRGdPNjVmVTBaaDlJcEJMSWU5dGVVSjQ1bWJkdk9tRWo3OC03OS1RTUhBUXZxRkZjNHJRdlplam84VFhrd1FvWktkdnBLTHg3REJJaW52M1htTDRaY0pmbzBVdUVKVV9pMFJhaWViTnZua2FnTk1pLVlCTlphX09rWjE2OVBGTzltWEljZlREdA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_displacement_blue_nile_2026-10"
+  },
+  {
+    "id": "auto-37186",
+    "headline": {
+      "ja": "ホルムズ海峡付近で石油タンカー火災、機雷に接触とイラン軍が発表",
+      "en": "Oil tanker catches fire near Strait of Hormuz after hitting naval mines"
+    },
+    "summary": {
+      "ja": "イラン海軍は、ホルムズ海峡付近で石油タンカーが機雷に接触して火災が発生したと発表した。",
+      "en": "Iranian Navy reports an oil tanker caught fire after hitting naval mines near the Strait of Hormuz."
+    },
+    "category": "disaster",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-29T16:06:03+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "strait_hormuz_tanker_fire_2026-10-29"
   },
   {
     "id": "auto-36834",
@@ -422,6 +675,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "us_sanction_rwanda_drc_m23_2026-10-29"
+  },
+  {
+    "id": "auto-36594",
+    "headline": {
+      "ja": "スペイン列車衝突、イタリア人3人が依然行方不明",
+      "en": "Train crash in Spain, three Italian women still missing"
+    },
+    "summary": {
+      "ja": "スペインで発生した列車衝突事故で、イタリア人女性3人が行方不明のままとなっている。",
+      "en": "Three Italian women remain missing following the train collision in Spain."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-10-29T11:10:24+00:00",
+    "source": {
+      "name": "イタリア 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMS10djRGV2djcXZuVlpHVV9hTUdwN0VUdENoaUw0Z2c1LUhUZE1BZ19WSmo0eWRNcms1Um0xckx5aXZXdjBrQ0hkQ1JpZHRlSnNCekJLSnhtQmI4MEVwb2hLV2wtUVN3dmVHM1c3UEFpNlFBZFRydVVQZW85bDJIVjRxSTFVc2FiV2luQjNwU1pmUjlEV0I3QnRGQWxtdU91bzhOSW5tMlcwWHJ0UzNjTDlZSlV5S2paVkRxWWdVU3FpMUlZNmdVQ3VYdlJnZ3RwZkdMQnZFRGhwMmdhcHVYMVNHVkNpQWNEUjZUU1l1elJvcWQ2dmpqNU5R?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_train_collision_2026-10-29"
   },
   {
     "id": "auto-36272",
@@ -3989,75 +4265,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_drone_attack_russian_regions_2026-10-23"
-  },
-  {
-    "id": "auto-27183",
-    "headline": {
-      "ja": "台湾で台風シャンピーが上陸、数百便がキャンセル、1人が死亡",
-      "en": "Typhoon Champi Shuts Taiwan, Hundreds of Flights Cancelled, 1 Death"
-    },
-    "summary": {
-      "ja": "台風シャンピーで台湾の数百便のフライトがキャンセルされ、リウキウ島で波に流された1人が死亡した。",
-      "en": "Typhoon Champi caused hundreds of flight cancellations in Taiwan; one person died after being swept away by waves on Liuqiu island."
-    },
-    "category": "disaster",
-    "country": "台湾",
-    "lat": 25.0531,
-    "lon": 121.5264,
-    "occurredAt": "2026-10-23T08:45:58+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "taiwan_typhoon_champi_2026-10-23"
-  },
-  {
-    "id": "auto-26836",
-    "headline": {
-      "ja": "習主席が地震救助を最優先で指示",
-      "en": "Xi orders all-out rescue efforts after earthquake in Xizang"
-    },
-    "summary": {
-      "ja": "中国の習近平主席は、西蔵でのマグニチュード7.0の地震を受けて、全力での救難活動を指示した。",
-      "en": "China's Xi Jinping ordered all-out rescue efforts following the magnitude 7.0 earthquake in Xizang."
-    },
-    "category": "disaster",
-    "country": "中国",
-    "lat": 31.4768,
-    "lon": 92.0573,
-    "occurredAt": "2026-10-23T06:54:59+00:00",
-    "source": {
-      "name": "中国 国防部(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLaHdSdWV4TG10YXVvOUphOGZKNW1pZnFpU1BJaUVoOVZtdUpHLUs2dzVYSnFTVVVxSnZlWDNQR25xUThtR2ZkSGo2N0V4cWk1dWFDQ3o4bHZFdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "china_xizang_earthquake_2026-10-23"
-  },
-  {
-    "id": "auto-26957",
-    "headline": {
-      "ja": "中国チベット地域でマグニチュード7.0の地震が発生",
-      "en": "7.0-Magnitude Earthquake Strikes China's Tibet"
-    },
-    "summary": {
-      "ja": "マグニチュード7.0の地震が中国チベット地域を襲った。",
-      "en": "A magnitude 7.0 earthquake struck China's Tibet region."
-    },
-    "category": "disaster",
-    "country": "中国",
-    "lat": 39.9075,
-    "lon": 116.3972,
-    "occurredAt": "2026-10-23T06:46:02+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PUVZaMzJkT3VxN1NtcVctSnEzUFM4N1V4RWxMVjN0cTJQZzJrMEp6dUpZQWk1dUx2QjdDTy14MUVrbmI4enRNeHFXMzFaa1h1TXBFOU9R?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "china_tibet_earthquake_2026-10-23",
-    "severity": 4
   }
 ]
