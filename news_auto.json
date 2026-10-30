@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-37533",
+    "headline": {
+      "ja": "ウクライナ大統領が新型弾道ミサイル攻撃の差し迫った脅威を警告",
+      "en": "Ukrainian President Warns of Imminent New Ballistic Missile Attacks"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領は、ロシアが新たな弾道ミサイル攻撃を準備しているとの情報があり、対抗措置が必要だと発表した。",
+      "en": "The Ukrainian President announced intelligence about Russian preparations for new ballistic missile attacks and emphasized the need for defensive capabilities."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-29T18:24:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDJ3V2MyRG9OTUtrWTdEREJmSFc2d3p0Njk5UDRXTncxUk54YkFKNThjMWoySzdkY085SEVGMm96a2RuLTJNN29OTDFCT1hpOGFndmJtanJJTDBpcFdnSENCblJVMkpVUW5nRXE1TUdHUFlJSzhIbjVEUnpZRDA1d2pKYzQtWTV4eDljUlZGR252QVBKbWprbDVWenRZTWxQZ1ItVGZB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_ballistic_missile_threat_2026-10-29"
+  },
+  {
     "id": "auto-37229",
     "headline": {
       "ja": "北朝鮮、ウォンサン地域から短距離弾道ミサイル約12発を発射",
@@ -303,6 +326,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_dnipro_train_station_2026-10-29",
+    "severity": 4
+  },
+  {
+    "id": "auto-37637",
+    "headline": {
+      "ja": "スーダン・ニャラのドローン攻撃で5人の子どもが殺害される",
+      "en": "Five Children Killed in Drone Attack on Sudan's Nyala Market"
+    },
+    "summary": {
+      "ja": "スーダン南ダルフール州ニャラのマーケットに対するドローン攻撃により、少なくとも5人の子どもが殺害され、2人が負傷した。",
+      "en": "A drone attack on a market in Nyala, South Darfur state, Sudan resulted in the deaths of at least five children and injuries to two others."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 12.0489,
+    "lon": 24.8807,
+    "occurredAt": "2026-10-29T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_nyala_drone_attack_children_2026-10-28",
     "severity": 4
   },
   {
@@ -1185,6 +1232,29 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_kyiv_kharkiv_russian_attack_2026-10-27"
+  },
+  {
+    "id": "auto-32023",
+    "headline": {
+      "ja": "ヨルダン軍がシリア南部の民間人を攻撃、5人が死亡",
+      "en": "Jordanian airstrikes kill five civilians in southern Syria"
+    },
+    "summary": {
+      "ja": "シリア南部でヨルダン軍による空襲が発生し、少なくとも5人の民間人が殺害された。",
+      "en": "Jordanian airstrikes in southern Syria resulted in the deaths of at least five civilians."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-10-27T06:09:11+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tQktfenJoU0J6OGpqN0xYQ3ZvbzU3ejk0cm44YVktWW9LNUFXbDF0eU04ekNDTzdGM1NHOHpHZEFlbXJh0gFKQVVfeXFMTXpQRFJmTWJ1TVNuaHJnbU5TUUlIVlJmVWJuSVFiVVM5aUtDa1kzenBHbk45RWZBV18tTVgzb2h5N3FGY056Q054NkE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "jordan_airstrike_syria_south_2026-10-27"
   },
   {
     "id": "auto-32084",
@@ -3988,53 +4058,6 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "china_tibet_earthquake_2026-10-23",
-    "severity": 4
-  },
-  {
-    "id": "auto-26992",
-    "headline": {
-      "ja": "ケニア、エチオピアの武力紛争激化に対応し緊急援助を開始",
-      "en": "Kenya launches emergency aid efforts as hundreds flee deadly clashes in Ethiopia"
-    },
-    "summary": {
-      "ja": "ケニアが、エチオピアの紛争激化により数百人が難民化したことに対応し、緊急援助活動を開始した。",
-      "en": "Kenya has launched emergency aid efforts in response to deadly clashes in Ethiopia that have forced hundreds to flee."
-    },
-    "category": "conflict",
-    "country": "エチオピア",
-    "lat": 9.025,
-    "lon": 38.7469,
-    "occurredAt": "2026-10-23T00:50:29+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzFpZG41aExldEZVdzBrUURocFNVdGhVTmtaTnY2SlR3UUdnOGN1Um54WWxfVFNOZi1VSmJZd0ZfSzB0QU56MV82TUpDaW1qaVlJUzEtbDZNUnZxNEVIZDFPMWJ2VUhPR19lNkFlcFZvLTA5SlRWU0ROdnFweWFBY0h5cm5uZDNoWElKaExRUTFlR1JEb3RpWlVGQXo4QVJkM2EtZk5EZEtyX0JFOTJ3RU5MLXM3OXc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ethiopia_kenya_border_conflict_2026-10"
-  },
-  {
-    "id": "auto-26340",
-    "headline": {
-      "ja": "チベット地域でマグニチュード7.0の大地震、16人が死亡",
-      "en": "Tibet rocked by 7.0-magnitude earthquake"
-    },
-    "summary": {
-      "ja": "チベット地域でマグニチュード7.0の地震が発生し、16人が死亡、32人が負傷した。複数の国営通信が同じ被害規模を報道している。",
-      "en": "A 7.0-magnitude earthquake struck Tibet, killing 16 people and injuring 32 others according to official reports."
-    },
-    "category": "disaster",
-    "country": "中国",
-    "lat": 39.9075,
-    "lon": 116.3972,
-    "occurredAt": "2026-10-23T00:33:16+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "china_tibet_earthquake_magnitude_7.0_2026-10-22",
     "severity": 4
   }
 ]
