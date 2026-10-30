@@ -1,5 +1,121 @@
 [
   {
+    "id": "auto-38732",
+    "headline": {
+      "ja": "イエメン・アデンの住民、ミサイル攻撃で戦争再開に備える",
+      "en": "Yemeni Residents in Aden Prepare for Another War as Houthi Missiles Fall"
+    },
+    "summary": {
+      "ja": "フーシのミサイル攻撃がアデンを襲う中、住民は食料を備蓄し脱出計画を立てており、全面戦争の再開を懸念している。",
+      "en": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-30T15:26:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_aden_houthi_missile_crisis_2026-10-30"
+  },
+  {
+    "id": "auto-38051",
+    "headline": {
+      "ja": "エチオピア難民キャンプへのドローン攻撃、16人以上が死亡",
+      "en": "Drone Attack on Displacement Camp in Ethiopia Kills at Least 16 Civilians"
+    },
+    "summary": {
+      "ja": "エチオピアの難民キャンプがドローン攻撃を受け、少なくとも16人の民間人が殺害された。",
+      "en": "A drone attack on a displacement camp in Ethiopia killed at least 16 civilians."
+    },
+    "category": "conflict",
+    "country": "エチオピア",
+    "lat": 9.025,
+    "lon": 38.7469,
+    "occurredAt": "2026-10-30T09:50:56+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE5HMHdxeDcteXpFOGZpSjBzem41bUZiZkpBNjNtbTlsOUFkUDBGLUJUbktUSnNZbmZ4MlZjZ2hKdmdaaUlVcmJvb3ZmQ2ZGQ21PcGE2TXROT0xRSXZlTk1IWmNfZ1V3OXVlQzVvM2o1My1yeUtGbjEyYVF2Qkl2QzF2ZnhxR2NPZ2JLNlI1MGJvOTNreGlsVmF4dkRDY25kdzB2LTI4Ny14aVVpOXg0MDZtWlRfMVUw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ethiopia_displacement_camp_drone_attack_2026-10-30"
+  },
+  {
+    "id": "auto-38337",
+    "headline": {
+      "ja": "rybarアカウント、ウクライナへのロシア弾道ミサイル攻撃を投稿",
+      "en": "@rybar Posts on Russian Ballistic Missile Attack on Ukraine"
+    },
+    "summary": {
+      "ja": "親ロシア系Telegramアカウント「rybar」で、ロシア軍がウクライナへの弾道ミサイル攻撃を実行したという投稿があった。",
+      "en": "The @rybar Telegram account posted about a Russian ballistic missile attack on Ukraine."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-30T05:39:02+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84265"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_ukraine_missile_attack_rybar_2026-10-30"
+  },
+  {
+    "id": "auto-38047",
+    "headline": {
+      "ja": "IAEA、ウクライナ・ザポリージャ原発従業員がドローン攻撃で死亡と確認",
+      "en": "IAEA Confirms Death of Zaporizhzhia Nuclear Plant Employee in Drone Attack"
+    },
+    "summary": {
+      "ja": "国連原子力機関（IAEA）は、ウクライナの占領下にあるザポリージャ原子力発電所の従業員がドローン攻撃で殺害されたことを確認した。",
+      "en": "The IAEA confirmed that an employee of Ukraine's Zaporizhzhia nuclear power plant was killed in a drone attack."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.5161,
+    "lon": 35.3691,
+    "occurredAt": "2026-10-30T03:49:59+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3NuT01CZF95a2I1WDFYa2ZPM3ZZVUNMbmdRd0ZNOXVkWXpFb3BXSk4xeUhpMWFoMUJrb1ZkQXYxemxhdkZSQWtlb0t6YVBaOGwyUlpNc0w2TXZqajNsQ2p5cXNUeHhXb3F4LTZ5M1N6YVJIQlNGbE9MT21aSUZ2SVR4QVk4clNVTEJFUG94Y256X1EySS05NjlTTUxKTldyRzBOOTg0SHl4MXIxWVc4UG5nM0NvVDd1SmhWVzJfYVM4emNJWXV3dG96Yk9oMWVv?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_zaporizhzhia_npp_fatality_2026-10-30",
+    "severity": 4
+  },
+  {
+    "id": "auto-37726",
+    "headline": {
+      "ja": "サウジ連合、リヤドへのフーシ弾道ミサイル2発を迎撃・破壊と発表",
+      "en": "Saudi-led Coalition Intercepts, Destroys 2 Houthi Ballistic Missiles Targeting Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導連合は、リヤドを狙ったフーシ民兵の弾道ミサイル2発を迎撃・破壊したと発表した。",
+      "en": "The Saudi-led coalition announced it intercepted and destroyed 2 ballistic missiles launched by Houthi militia targeting Riyadh."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-29T18:24:17+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWtpWG9vcjFQb2FQTVRfSFhHNmdQZnpiX1Q0dTdoSzJtVEhyb2ZxZjVtclVGNzM2bzliZVM4WENNV1dhdUU0TVV0M3A4LTlqMUtGbWhvLWdpSE4wb3daY2NZTWNVZU5yT3M3X2x6aVljT0dMT1c0dGVGNVZWaFNGMXN4c2VsaE1ZZFhqNlhKVnhDNUJPZkgwS0FwbUlyd0tzZmJibXc1VDFZRENMX1NCY0RhRzRfNWR4R3F4S3NFSTUzWEtiYi1adw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_missile_defense_riyadh_2026-10-29"
+  },
+  {
     "id": "auto-37533",
     "headline": {
       "ja": "ウクライナ大統領が新型弾道ミサイル攻撃の差し迫った脅威を警告",
@@ -860,6 +976,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "dprk_sanctions_multilateral_2026-10-29"
+  },
+  {
+    "id": "auto-35875",
+    "headline": {
+      "ja": "サウジ主導連合、東部地域へのフーシミサイルを迎撃・破壊と発表",
+      "en": "Saudi-led Coalition Intercepts, Destroys Houthi Ballistic Missile"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合軍は、テロ組織フーシ民兵が東部地域に向けて発射した弾道ミサイルを迎撃・破壊したと発表した。",
+      "en": "Saudi-led coalition announced it intercepted and destroyed a ballistic missile launched by the Houthi militia toward the Eastern Region."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-29T01:12:47+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5STGpMV2xqRS1NSFN5SFowYzhLTFZUTXpmY1lZc1BaWnAxTFNjWnZpTlduQWs3LTlrWUZpLW0yTFV6Vnctc2ROOFBn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_missile_defense_2026-10-29"
   },
   {
     "id": "auto-36074",
@@ -4057,213 +4196,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "sudan_famine_risk_international_statement_2026-10"
-  },
-  {
-    "id": "auto-28522",
-    "headline": {
-      "ja": "トルコ外相、イランへの新攻撃は地域紛争を深刻化させると警告",
-      "en": "Turkish foreign minister warns new attack on Iran would escalate regional conflict"
-    },
-    "summary": {
-      "ja": "トルコの外務大臣は、イランへの新たな攻撃は地域紛争を深刻化させると警告した。",
-      "en": "Turkey's Foreign Minister warned that a new attack on Iran would escalate regional conflict."
-    },
-    "category": "conflict",
-    "country": "トルコ",
-    "lat": 39.9199,
-    "lon": 32.8543,
-    "occurredAt": "2026-10-23T15:36:48+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVZGS0ZlNW5CdFhIc3ducl9CbHo0cFFvckw1YWl4UzJObHFQSW92cWVmN2FNaWxnd1dZMWhMWlZXQTI0U25GcFUtNm1yQXB2RUtxVTZ6MFRkQ3VHYWJiNlNRajVHdUxCdUk5dUtTeUlnVk9pcTdLQlhzTG5wQWRPT2xsS2k4YTBabElVNkZjVnN1TDlDUGlZWFhia08tcVY3Mk1aTS1oQW9ldUJHSGJxTDFJYV9PVkg0OXFZ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_turkey_escalation_warning_2026-10-23"
-  },
-  {
-    "id": "auto-27900",
-    "headline": {
-      "ja": "ヨルダン・カラク教会での葬儀攻撃、7人死亡",
-      "en": "Funeral attack at church in Karak, Jordan kills 7"
-    },
-    "summary": {
-      "ja": "ヨルダン南部のカラク教会での葬儀攻撃で7人が死亡、27人が負傷した。",
-      "en": "A funeral attack at a church in Karak, southern Jordan, killed 7 people and injured 27."
-    },
-    "category": "conflict",
-    "country": "ヨルダン",
-    "lat": 31.1282,
-    "lon": 35.6902,
-    "occurredAt": "2026-10-23T15:01:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVc4YXJpa2V0MXJnZWMxZXZwNmlOQWhMSHdDMFdNVDZtdWR1cjJtNFJzd19abUs5V0ptRWZ2ZG1pZE9rNEhtcnY2WWtyaGgtYkhXYk53TUd1aFdjaGNJbE0zZnlzdVJQZUhkZGZ1YUhHcFZ4aFBjbTdrUHpWS1RxOHk0ZmtUcU14RDl5S3RkMW90aW5QLTRFZ0pWR2ZSM0xfampxYUp4U2xMeEI2Q2QwQmdXeV8ycDJyRlR5ZVhrSThrelo0RmlPM2NkY0VJRWtTQmg4WXFn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_karak_church_attack_2026-10-23"
-  },
-  {
-    "id": "auto-26963",
-    "headline": {
-      "ja": "イスラエル軍、レバノン南部に空爆と砲撃を実施",
-      "en": "Israeli Military Conducts Airstrikes and Artillery Shelling in Southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエル軍がレバノン南部に空爆と砲撃を行い、無人機活動が激化している。",
-      "en": "Israeli military conducted airstrikes and artillery shelling in southern Lebanon amid intensified drone activity."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-23T15:01:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlGOTF3eHNRQjBKRmlaVkJROF9peTlGSkM0bV9YUWRUaDdseVRzM19Wc0dYWFVyOXVyR2ZnTzhuWThDRjJBQWFZR0FWR1NkNDF2RWpXbGttVjd0VVRWZDZ6V2tTZUthdXVJNVVrRmdQRXJiRm5IY3BMV2dPdG9nbnhiYlItZkllZlh3VzlDdkV4VFgyalo4NEN2aW0yaXEtVkVXbVQxVzVLSC1MeU94WEJMbmlUWnZEZjN4QnZUYUhZeVhmTWdWRVFvTQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "lebanon_israeli_airstrikes_2026-10-23"
-  },
-  {
-    "id": "auto-28764",
-    "headline": {
-      "ja": "モスクワの全空港が航空機の到着・出発を停止",
-      "en": "All Moscow airports suspend aircraft arrivals, departures"
-    },
-    "summary": {
-      "ja": "ロシア連邦航空輸送局により、モスクワの全ての空港で航空機の到着・出発が停止された。",
-      "en": "Russia's Federal Air Transport Agency announced that all Moscow airports suspended aircraft arrivals and departures."
-    },
-    "category": "disaster",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-23T14:46:15+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QTWI2WHZ5ci02YW1YS21GTHFnRjlvSHRfZDJSQk1TdlAwR1Y4Mmx0UFhISFdwNW9IZXpsejB1bVIyOEx6Z1p4ZnBWeVHSAUxBVV95cUxOUE1iNlh2eXItNmFtWEttRkxxZ0Y5b0h0X2QyUkJNU3ZQMEdWODJsdFBYSEhXcDVvSGV6bHowdW1SMjhMemdaeGZwVnlR?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "moscow_airports_closure_2026-10-23"
-  },
-  {
-    "id": "auto-28624",
-    "headline": {
-      "ja": "ヨルダンのキリスト教会近くで銃撃、7人死亡",
-      "en": "Seven killed as gunmen open fire near Christian church in Jordan"
-    },
-    "summary": {
-      "ja": "ヨルダンでキリスト教会近くで銃撃事件が発生し、7人が死亡した。",
-      "en": "A shooting near a Christian church in Jordan resulted in seven deaths."
-    },
-    "category": "disaster",
-    "country": "ヨルダン",
-    "lat": 31.9552,
-    "lon": 35.945,
-    "occurredAt": "2026-10-23T13:47:54+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBQQzRKV3d4ZG8zdktRanNfY2U3WUFlT3F0THBfa0pHNkpxdWkycnNtZlpVZkZ4dk9pYWlvbW9zYk12bEhvRGRBbFln0gFKQVVfeXFMUFBDNEpXd3hkbzN2S1Fqc19jZTdZQWVPcXRMcF9rSkc2SnF1aTJyc21mWlVmRnh2T2lhaW9tb3NiTXZsSG9EZEFsWWc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_church_shooting_2026-10-23",
-    "severity": 4
-  },
-  {
-    "id": "auto-27140",
-    "headline": {
-      "ja": "ネタニャフ首相、1967年以来最大の西岸作戦を発表",
-      "en": "Netanyahu announces largest operation in West Bank since 1967"
-    },
-    "summary": {
-      "ja": "イスラエルのネタニャフ首相が、1967年以来最大の西岸での軍事作戦を発表した。",
-      "en": "Prime Minister Netanyahu announced the largest military operation in the West Bank since 1967."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-23T12:40:35+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LRHZZaG1HeXNBX3YzN3M2MExKYnE1dEZfUGREb05ERGFrRnBhczdkczNqSnFOc2VRUG01YlV1WXhYMF9XR05WT0dB0gFKQVVfeXFMT0tEdllobUd5c0FfdjM3czYwTEpicTV0Rl9QZERvTkREYWtGcGFzN2RzM2pKcU5zZVFQbTViVXVZeFgwX1dHTlZPR0E?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_west_bank_operation_2026-10"
-  },
-  {
-    "id": "auto-27006",
-    "headline": {
-      "ja": "パレスチナ、イスラエル軍がジェニン地域住民に1週間以内の退去を命令",
-      "en": "Israeli forces order evacuation of Jenin area families within one week"
-    },
-    "summary": {
-      "ja": "イスラエル軍がジェニン地域の住民に1週間以内に家と家畜舎から退去するよう命令した。",
-      "en": "Israeli military forces issued orders for families in the Jenin area to evacuate their homes and livestock shelters within one week."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 32.4594,
-    "lon": 35.3009,
-    "occurredAt": "2026-10-23T12:22:08+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fdzZjMUJrM1BWZzQyQnJ4WEdqbmt1MWItRV82bWF5aEg3TnNsT2kxdTBCWWxfVktfNGJtaldrVklMcFp1RGNMcHNBVjhtRzBKYksxSGllVQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_jenin_evacuation_order_2026-10"
-  },
-  {
-    "id": "auto-26900",
-    "headline": {
-      "ja": "サウジアラビア軍、イエメン首都サナアを空爆",
-      "en": "Saudi Military Airstrikes Hit Yemen's Capital Sanaa"
-    },
-    "summary": {
-      "ja": "イエメンメディアが10月23日、首都サナアで爆発が相次いだと報道した。",
-      "en": "Yemeni media reported multiple explosions in Yemen's capital Sanaa on October 23."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-23T11:34:22+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86301006/Saudi-airstrikes-target-Yemen-s-capital-Sanaa"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_sanaa_saudi_airstrikes_2026-10-23"
-  },
-  {
-    "id": "auto-27120",
-    "headline": {
-      "ja": "ロシア政府、ウクライナドローン攻撃で443機を撃墜したと発表",
-      "en": "Russia Claims 443 Ukrainian Drones Downed in Attack"
-    },
-    "summary": {
-      "ja": "ロシア政府は、ウクライナによるドローン攻撃でロシア地域の443機の無人機を撃墜したと発表した。",
-      "en": "Russia announced it downed 443 drones in a Ukrainian attack on Russian regions."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-23T10:15:30+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53R1l2VkY5cVJLQi1xd2lHc1BRdXVKZ1pyTkdnMHVRUjAyWGJtRlZSMHBTN2IxeEw5TktFNVJHTFlrQm0wR0FrTlpGZjPSAVJBVV95cUxQVGMtOEFyV3d5b05OUGRRZ3VBazJQbzJ3QVI3RmZVaHMyT3JHYlljbnROYXI3VnFwOS1yM29EbGFOQVhYYVItZmVRNzZWOVgtc2Jn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_drone_attack_russian_regions_2026-10-23"
   }
 ]
