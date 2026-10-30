@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-10-27-04",
-    "headline": {
-      "ja": "ロシア軍、キーウへ弾道ミサイル攻撃 1人死亡・10人負傷、大学構内に被弾",
-      "en": "Russian ballistic missiles hit Kyiv, killing 1 and injuring 10; university campus struck"
-    },
-    "summary": {
-      "ja": "Kyiv Independentによると、10月26日夜(現地時間)、ロシア軍がキーウへ弾道ミサイルで攻撃し、ゼレンスキー大統領側によれば1人死亡・10人負傷、大学構内を含む複数地点に着弾したという。同紙記者は10月27日未明(現地時間3時頃)にも新たな弾道ミサイルの飛来を確認したという。",
-      "en": "According to the Kyiv Independent, Russian ballistic missiles struck Kyiv overnight on Oct. 26 (local time); President Zelensky's office said one person was killed and 10 injured, with a university campus among the sites hit. The outlet's reporters said a new wave of missiles was observed around 3 a.m. local time on Oct. 27."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ",
-    "lat": 50.4501,
-    "lon": 30.5234,
-    "occurredAt": "2026-10-26T22:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-27-13",
     "headline": {
       "ja": "ブラジル右派ボルソナロ氏の政党、トランプ氏の「不正」主張にもかかわらず大統領選結果を受け入れ",
@@ -63,27 +41,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-10-27-15",
-    "headline": {
-      "ja": "中国の工業部門利益、9月は前年比14.4%増 AI関連が押し上げ、内需の弱さとの格差拡大",
-      "en": "China's industrial profits rise 14.4% in September, AI boom widens divide with weak domestic demand"
-    },
-    "summary": {
-      "ja": "CNBCによると、中国国家統計局が発表したデータで、主要工業企業の利益が9月に前年同月比14.4%増加し、1〜9月累計でも15.5%増となったという。電子特殊材料メーカーの利益は3倍超、半導体製造装置メーカーは51.7%増となるなど、AI・半導体関連の伸びが目立つ一方、衣料品・自動車・家具など消費関連業種の利益は振るわないという。9月の集積回路(IC)輸出額は前年比136%増(輸出量は1%増のみ)で、同月の貿易収支は過去最高の1335億ドルの黒字になったという。推測:Oxford EconomicsのShena Yue氏は「輸出の強さだけでは内需の弱さを完全に補えない」と指摘しているという。",
-      "en": "According to CNBC, data released by China's National Bureau of Statistics showed profits at large industrial firms rose 14.4% year-on-year in September, and 15.5% for the January-September period. Gains were concentrated in AI- and chip-related sectors — electronic special materials makers' profits more than tripled and semiconductor equipment makers rose 51.7% — while consumer-related sectors such as clothing, autos and furniture lagged. September integrated-circuit export values rose 136% year-on-year (volumes up just 1%), and the trade surplus hit a record monthly high of $133.5 billion. Inference: Oxford Economics' Shena Yue said China's export strength cannot fully offset domestic weakness."
-    },
-    "category": "economy",
-    "country": "中国",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "occurredAt": "2026-10-27T02:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-10-28-01",
@@ -128,28 +85,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-10-28-03",
-    "headline": {
-      "ja": "露ウクライナ、ヘルソン州オレシキで局地的停戦開始 他地域では攻撃継続",
-      "en": "Russia-Ukraine local ceasefire begins in Kherson Oblast's Oleshky, but strikes continue elsewhere"
-    },
-    "summary": {
-      "ja": "Kyiv Independent・CNN・euronews等によると、米大統領夫人メラニア・トランプ氏の仲介により、ロシア占領下のヘルソン州オレシキ周辺で民間人避難・人道支援物資搬入を目的とした局地的停戦が10月27日午前(キーウ時間3時)に発効したという。ウクライナの人権オンブズマン、ルビネツ氏がSNSで発表した。一方、停戦対象地域外ではウクライナ全土での攻撃が継続しており、ロシア国防省は一晩でウクライナ側ドローン222機を撃墜したと発表、ロシア軍のキーウへのミサイル攻撃では新たに15人が負傷したとされる。ウクライナ・ロシア・米国の実務者協議は11月前半にアブダビで行われる予定という。[信頼性: 高](Kyiv Independent・CNN・euronews・The Moscow Timesなど複数の独立した報道が一致。ただし停戦の終了予定時期については11月1日までとする情報と土曜までとする情報があり、詳細は未確定)",
-      "en": "According to the Kyiv Independent, CNN, euronews and others, a localized ceasefire mediated by US First Lady Melania Trump took effect around Oleshky in Russian-occupied Kherson Oblast at 3 a.m. Kyiv time on October 27, aimed at civilian evacuations and humanitarian aid delivery. Ukraine's human rights ombudsman Dmytro Lubinets announced it on social media. Outside the designated area, strikes continued across Ukraine: Russia's Defense Ministry said it downed 222 Ukrainian drones overnight, while a Russian missile strike on Kyiv reportedly wounded 15 more people. Ukrainian, Russian and US negotiators are due to hold technical-level talks in Abu Dhabi in the first half of November. [Reliability: High] (Multiple independent outlets -- Kyiv Independent, CNN, euronews, the Moscow Times -- agree on the core facts, though reports differ on whether the ceasefire runs until Saturday or November 1.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "オレシキ(ヘルソン州)",
-    "lat": 46.6189,
-    "lon": 32.7139,
-    "occurredAt": "2026-10-27T00:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-28-04",
     "headline": {
       "ja": "インド東海岸に非常に強いサイクロン「アルナブ」接近 28日にアーンドラ・プラデーシュ州沿岸へ上陸の見込み",
@@ -171,27 +106,6 @@
     },
     "reliability": "high",
     "severity": 4
-  },
-  {
-    "id": "2026-10-28-05",
-    "headline": {
-      "ja": "原油、中東外交進展への期待で小幅下落 ブレント114ドル台 ホルムズ海峡でのタンカー炎上後も",
-      "en": "Oil edges down on hopes of Middle East diplomatic progress; Brent near $114 despite fresh Hormuz tanker fire"
-    },
-    "summary": {
-      "ja": "市場報道によると、10月27日のブレント原油先物は前日比約1%安の1バレル114ドル80セント前後で取引されたという。背景には中東の緊張緩和に向けた外交努力への期待があるとされる。一方、ホルムズ海峡では同日イランがタンカー炎上を発表するなど緊張は続いており、Kplerの分析では同海峡を通過する原油量は戦時高値から27%減少し、Reutersの集計では直近2週間でタンカーへの攻撃が少なくとも18件に上るという。前週末時点ではフーシ派によるサウジ施設への攻撃等を受けブレントは117ドルまで上昇していたという。[信頼性: 中](複数の市場報道に基づくが、具体的な終値・時点について報道間で若干の差異があり、確定値ではない)",
-      "en": "According to market reports, Brent crude futures traded around $114.80 a barrel on October 27, down roughly 1% from the previous day, amid hopes for diplomatic progress toward easing Middle East tensions. At the same time, tensions in the Strait of Hormuz persisted, with Iran announcing a tanker fire there the same day; Kpler data showed crude volumes transiting the strait down 27% from wartime highs, and Reuters counted at least 18 tanker attacks over the past two weeks. Brent had risen to $117 at the end of the prior week amid Houthi strikes on Saudi infrastructure. [Reliability: Medium] (Based on multiple market reports that differ slightly on the exact closing price and timing; figures are not final settlement data.)"
-    },
-    "category": "economy",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-27T00:00:00+00:00",
-    "source": {
-      "name": "oilprice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-10-28-06",
@@ -404,6 +318,27 @@
     "source": {
       "name": "BEA(米商務省経済分析局)",
       "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-30-02",
+    "headline": {
+      "ja": "イスラエル中央選管、総選挙の開票完了・最終集計を発表 与党53・野党48・アラブ系19議席で変化なし、正式確定は11月4日",
+      "en": "Israel's Central Elections Committee completes final vote count; ruling bloc 53, opposition 48, Arab parties 19 seats unchanged; official certification due Nov 4"
+    },
+    "summary": {
+      "ja": "Haaretz・Jerusalem Post・Israel National News等によると、イスラエル中央選挙管理委員会(CEC)は10月29日、不在者票を含む総選挙の開票を完了し、最終集計を発表したという。政党別ではリクード27議席・アイゼンコット氏の新党「ヤシャル」21議席・ベネット氏の新党「ベヤハド」12議席・統一アラブ会議11議席などとなり、ネタニヤフ首相陣営(与党ブロック)53議席・アイゼンコット氏陣営(野党ブロック)48議席・アラブ系政党19議席(過去最多)で、本人投票完了時点(既報id: 2026-10-29-02)から議席配分に変化はなかったという。与野党いずれも過半数(61議席)には届かなかったという。CECによる結果の正式確定・ハーツォグ大統領への提出は11月4日に行われる予定という。[信頼性: 高](Haaretz・Jerusalem Post・Israel National Newsなど複数の独立した主要メディアが開票完了・議席配分で一致)",
+      "en": "According to Haaretz, the Jerusalem Post, Israel National News and others, Israel's Central Elections Committee (CEC) completed the vote count, including absentee ballots, on October 29 and released final tallies. By party: Likud 27 seats, Gadi Eisenkot's Yashar 21, Naftali Bennett's Beyachad 12, and the Joint Arab List 11, among others. The ruling (Netanyahu) bloc remained at 53 seats, the opposition (Eisenkot) bloc at 48, and Arab parties at a record 19 seats -- unchanged from the regular-ballot count reported earlier (previously reported id 2026-10-29-02). Neither bloc reached the 61-seat majority needed. Official certification and submission of results to President Herzog is scheduled for November 4. [Reliability: High] (Multiple independent major outlets -- Haaretz, the Jerusalem Post, Israel National News -- agree on the completed count and seat allocation.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-29T15:00:00+00:00",
+    "source": {
+      "name": "Haaretz / Jerusalem Post / Israel National News",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
     },
     "reliability": "high"
   }
