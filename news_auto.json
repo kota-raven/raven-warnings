@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-39901",
+    "headline": {
+      "ja": "イスラエル軍、南レバノンで空襲と機関銃攻撃を実施",
+      "en": "Israeli army launches airstrikes and machine-gun attacks in southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍がレバノン南部に対して新たな空襲と機関銃攻撃を実施した。",
+      "en": "Israeli military forces conducted fresh airstrikes and machine-gun attacks in southern Lebanon."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-10-31T11:11:31+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHhFSEVWZ0FRZHZWb0VoSjB5dk1kcmJER1E2UGF4WGQ3aS1WNDMyZEVTandMTjliRUxKTmItQkZOcXcybDVpb1RscFV1bVZLaHVBa25Pc2ZQbkFONEJfZ3VUaDNrY1JMWTFqVGNCQnVjWHNlenlyUGh5Z1lkYnJ6OHZxc1lPS0Vib0JOQlFKVEkwVUJObkdaZ0JoRldyRm9FRVNWanhBV0g4dWFDMFZGUTdTNk1VbVlvZTNUTg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_military_operations_2026-10-31"
+  },
+  {
     "id": "auto-38741",
     "headline": {
       "ja": "米国がウクライナへの愛国者ミサイルシステム21億ドル相当を承認",
@@ -21,6 +44,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_patriot_missile_sale_2026-10-30"
+  },
+  {
+    "id": "auto-39816",
+    "headline": {
+      "ja": "フーシ派、アデンの空港と大統領宮殿をミサイル攻撃",
+      "en": "Houthis strike airport and presidential palace in Aden with missiles"
+    },
+    "summary": {
+      "ja": "イエメンの反政府勢力フーシ派が、南部アデンの空港と大統領宮殿に対してミサイル攻撃を実施した。",
+      "en": "Houthi forces conducted missile strikes against Aden airport and the presidential palace in southern Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-10-30T21:10:34+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TeUtoNFhCSFdmQW9reXVQZE1KazhWaFBvMktkcm44dUw4Mk9PVjFWdDlvb3o4YWRVR0s0YXNzV2JFNFNy0gFKQVVfeXFMTjd1TkJCdkVhd1ZVT24zcnFzVE9qbE9MOTktekRUcmRGTTBKeFZBR09fMTAtdXZKYzhOaXBMbTFPbk1BaWZ3M1ZTWkE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_aden_houthi_missile_attack_2026-10-30"
   },
   {
     "id": "auto-39524",
@@ -3475,330 +3521,5 @@
     "auto": true,
     "eventKey": "china_xizang_earthquake_7_0_2026-10-24",
     "severity": 4
-  },
-  {
-    "id": "auto-28813",
-    "headline": {
-      "ja": "イラン革命防衛隊がUS-イスラエル戦争の影響は国境を超える可能性があると警告",
-      "en": "Repercussions of US-Israeli war extend beyond Iranian borders: IRGC spokesperson"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)のホセイン・モエビ報道官はUS-イスラエル戦争の影響は国境を超え、他国にも影響する可能性があると警告。",
-      "en": "The IRGC spokesperson said the fallout of the US-Israeli war could extend beyond Iran's borders and affect other nations as well."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-24T14:33:14+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86302057/Repercussions-of-US-Israeli-war-extend-beyond-Iranian-borders"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_irgc_us_israel_war_impact_2026-10-24"
-  },
-  {
-    "id": "auto-28787",
-    "headline": {
-      "ja": "占領西岸の完全封鎖が開始",
-      "en": "Full lockdown of occupied West Bank begins"
-    },
-    "summary": {
-      "ja": "イスラエル軍がパレスチナの占領西岸全域で完全な封鎖と軍事作戦を開始した。",
-      "en": "The Israeli military began a full lockdown and military operations across the occupied West Bank."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-24T14:24:19+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_westbank_full_lockdown_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28788",
-    "headline": {
-      "ja": "ウクライナがStarlink復旧を報告、ロシア・ウクライナで攻撃継続",
-      "en": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine"
-    },
-    "summary": {
-      "ja": "ウクライナはStarlink衛星通信が復旧したと報告。ウクライナ・ロシア・米国の交渉団は来月アブダビで会合予定。",
-      "en": "Ukraine reported that Starlink was restored as military attacks continue. Negotiators from Ukraine, Russia, and the US are expected to meet in Abu Dhabi next month."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-24T14:23:40+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_starlink_attacks_2026-10-24"
-  },
-  {
-    "id": "auto-28794",
-    "headline": {
-      "ja": "ヨルダン教会での銃撃事件、犯人の背後は不明",
-      "en": "Who was behind the deadly church shooting in Jordan?"
-    },
-    "summary": {
-      "ja": "ヨルダンでのキリスト教会での銃撃事件について捜査が進行中。犯人の身元は不明で現在も逃走中。",
-      "en": "Authorities are investigating a rare deadly shooting at a Christian church in Jordan. The assailants remain unidentified and at large."
-    },
-    "category": "conflict",
-    "country": "ヨルダン",
-    "lat": 31.9552,
-    "lon": 35.945,
-    "occurredAt": "2026-10-24T13:39:26+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_church_shooting_investigation_2026-10-24"
-  },
-  {
-    "id": "auto-28798",
-    "headline": {
-      "ja": "イランがアメリカの艦船接近を許さないと表明、トランプの新攻撃検討に対抗",
-      "en": "Iran says won't allow US warships to get close as Trump ponders new attacks"
-    },
-    "summary": {
-      "ja": "イランの当局者・メディア・分析家は戦争がより近づいていると認識しており、後退しないことを示唆している。",
-      "en": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-24T13:06:03+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_us_warship_confrontation_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28799",
-    "headline": {
-      "ja": "ヨルダン国王アブドラがテロ攻撃後に強硬な対応を命令",
-      "en": "Jordan's King Abdullah orders firm response after deadly church attack"
-    },
-    "summary": {
-      "ja": "ヨルダン当局がテロ攻撃の犯人を追跡中。死者は9人に増加。既知グループとの関連は時期尚早と判断。",
-      "en": "Authorities searching for attackers say too early to determine if they had ties to known groups, as death toll now nine."
-    },
-    "category": "conflict",
-    "country": "ヨルダン",
-    "lat": 31.9552,
-    "lon": 35.945,
-    "occurredAt": "2026-10-24T13:02:51+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_church_attack_government_response_2026-10-24"
-  },
-  {
-    "id": "auto-28801",
-    "headline": {
-      "ja": "米国防情報がイランの米国人攻撃計画が『高度な段階』に達したと警告",
-      "en": "Is Iran planning attacks on Americans; why is the US on alert?"
-    },
-    "summary": {
-      "ja": "米国防情報機関はイランが中東地域の米国人に対する陰謀が『高度な段階』に達したと警告。",
-      "en": "US intelligence memo warns that Iranian plots against US citizens in the Middle East have reached advanced stages."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-24T12:51:21+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_us_citizen_plots_alert_2026-10-24"
-  },
-  {
-    "id": "auto-28646",
-    "headline": {
-      "ja": "rybarアカウントでペンタゴン関連の分析投稿",
-      "en": "Analysis post about Pentagon from rybar account"
-    },
-    "summary": {
-      "ja": "Telegramのrybarアカウントで、ペンタゴン指導者Hegsetの軍近代化演説の裏で起きている問題についての分析投稿があったと報告されている。",
-      "en": "A post on the rybar account analyzed Pentagon leadership matters, reportedly regarding activities behind the scenes while military modernization is being promoted."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-24T12:14:00+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84138"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "us_pentagon_analysis_post_2026-10-24"
-  },
-  {
-    "id": "auto-28723",
-    "headline": {
-      "ja": "ウクライナがStarshield速度制限の解除を表明",
-      "en": "Ukraine says Starshield speed restrictions lifted after high-level contacts"
-    },
-    "summary": {
-      "ja": "ウクライナはハイレベルの接触後、Starshield衛星通信の速度制限が解除されたと発表した。",
-      "en": "Ukraine reported that Starshield speed restrictions were lifted following high-level diplomatic contacts."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-24T11:54:38+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjZlU0w0ZFpKTE5VMGhQUWFXdnRIQmZjUS13RTBNVlVkWWNNMTlQY2lpbkFkZWthOFY4LXpxYUIzbXUzcXZaTE1TWkJoNVRBSWMxX05VeTZSZ1BXZWRzT1k2dG55YmctVjZtTGp6cERHUDVLT3p1c1hGcjJGcUJBVVZiamZvTFY3WHk2d293Sno3bHA0OHVwX2lMWTJHWjZhR1pQcnlJZG9yN0dRUFg0bkZXWWo?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_starshield_restrictions_lifted_2026-10-24"
-  },
-  {
-    "id": "auto-28724",
-    "headline": {
-      "ja": "イエメン・タイズでフーシ派攻撃により子供2人死亡、民間人3人負傷",
-      "en": "2 children killed, 3 civilians wounded in Houthi attacks in Yemen's Taiz"
-    },
-    "summary": {
-      "ja": "イエメンのタイズでフーシ派による攻撃が発生し、子供2人が死亡、民間人3人が負傷した。",
-      "en": "A Houthi attack in Yemen's Taiz resulted in two children killed and three civilians wounded."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-24T11:21:56+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzlXVnZPc1dLMnFzbXZudGgxMkRiRkNsNUMzV3JtMjRFWnNZSzM4ZXQ2cVVjYktiMmt3a2p1TFZNaU1TNjZnTWJBYjA1VUdzcmZJRXhjWFdidHBhVlNyY3Rpb1BfR2Nmbkh4U1BmZjRFU25rd0tfMURpcTdSMGJWeTZydGZiQW0yVzJya2VkTjRWS3VVMVpxNHo1UVprNVVjcXRjdWZndERzaWZfY0ROVTd6bzBmeU5vZ1BmbWN0cG96S01EU1Nz?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_taiz_houthis_attack_2026-10-24"
-  },
-  {
-    "id": "auto-28633",
-    "headline": {
-      "ja": "ウクライナがStarlink接続が安定したと報告",
-      "en": "Ukraine says Starlink connection 'now stable' after network limits"
-    },
-    "summary": {
-      "ja": "ウクライナは、1週間軍事・ドローン作戦に影響を与えていたStarlink接続が現在安定したとコメントした。",
-      "en": "Ukraine reported that Starlink connections, which had impacted military and drone operations for a week, are now stable."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-24T11:17:35+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_starlink_stable_2026-10-24"
-  },
-  {
-    "id": "auto-28735",
-    "headline": {
-      "ja": "イスラエル当局がヘブロンから1500人のパレスチナ人を強制退去、さらに2500人の計画",
-      "en": "Israeli authorities force 1,500 Palestinians from their homes in Hebron, plan to displace 2,500 more"
-    },
-    "summary": {
-      "ja": "イスラエル当局はヘブロンから1500人のパレスチナ人を強制的に自宅から追い出し、さらに2500人の退去を計画している。",
-      "en": "Israeli authorities forcibly displaced 1,500 Palestinians from their homes in Hebron and plan to displace 2,500 more."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-24T11:16:48+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvMk9hVGxESFp5cEkxRGJpUXRrRzk5RXJROERuX28xS0FBLTFRamVrU0VMMVdjODNfc29KR0hMS3VCbVVoYXZuV1lESklYeFdjUmlrUGhsdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_hebron_displacement_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28535",
-    "headline": {
-      "ja": "フランスでのヘイトクライム、人種差別的攻撃で1人死亡",
-      "en": "Deadly 'racist' attack in France: Are hate crimes rising in Europe?"
-    },
-    "summary": {
-      "ja": "フランスで人種差別的な暴力事件が発生し、1人が殺害された。ヨーロッパ全域でイスラム系住民がヘイトクライムの対象となっている傾向が報告されている。",
-      "en": "A deadly racist attack occurred in France. Monitoring groups report that Muslims across Europe face increased racial discrimination and hate crimes."
-    },
-    "category": "disaster",
-    "country": "フランス",
-    "lat": 48.8534,
-    "lon": 2.3488,
-    "occurredAt": "2026-10-24T10:47:07+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "france_hate_crime_2026-10-24"
-  },
-  {
-    "id": "auto-28530",
-    "headline": {
-      "ja": "rybarのアカウントで、アメリカの対ウクライナ制限に関する分析投稿",
-      "en": "Analysis of American restrictions against Ukraine posted on rybar account"
-    },
-    "summary": {
-      "ja": "Telegramのrybarアカウントで、アメリカのウクライナに対する制限についての分析記事が投稿されたという報告があった。",
-      "en": "An analysis post regarding American restrictions on Ukraine was posted on the rybar Telegram account."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-24T10:19:00+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84135"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_us_restrictions_analysis_2026-10-24"
   }
 ]
