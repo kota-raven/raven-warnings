@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:39:38.573Z",
+  "generatedAt": "2026-10-31T21:25:51.365Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 196,
   "warnings": [
@@ -3500,6 +3500,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262092",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海洋施設",
+      "number": "2092",
+      "title": "甑島列島南西、船舶間貨物油積替作業終了",
+      "publishedAt": "2026-11-01T05:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2092    発表日時:2026年11月01日 05時\r\n\n\r\n甑島列島南西、\r\r\nYIANNIS LATSISによる船舶間貨物油積替作業終了。\r\r\n(2061削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262092&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262091",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3800,42 +3812,6 @@
       },
       "rawText": "番号:26-2062    発表日時:2026年10月28日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n(1)10月30日-11月15日毎日0600-2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-19-30N 129-10-00E\r\r\n   で囲まれる海面、\r\r\n(2)10月28日、29日毎日0600-2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-23-14N 128-19-53E\r\r\n   で囲まれる海面。\r\r\n(1990削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262062&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262061",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海洋施設",
-      "number": "2061",
-      "title": "甑島列島南西、船舶間貨物油積替作業",
-      "publishedAt": "2026-10-28T17:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128.41666666666666,
-            31.666666666666668
-          ],
-          [
-            129.38333333333333,
-            31.666666666666668
-          ],
-          [
-            129.16666666666666,
-            31.25
-          ],
-          [
-            129.16666666666666,
-            30.75
-          ],
-          [
-            128.41666666666666,
-            30.75
-          ]
-        ]
-      },
-      "rawText": "番号:26-2061    発表日時:2026年10月28日 17時\r\n\n\r\n甑島列島南西、\r\r\nYIANNIS LATSIS(154792トン)による\r\r\n船舶間貨物油積替作業、10月29日0600-当分の間、\r\r\n31-40N 128-25E 31-40N 129-23E\r\r\n31-15N 129-10E 30-45N 129-10E\r\r\n30-45N 128-25Eで囲まれる海面。\r\r\n(2056削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262061&LANG=JP"
     },
     {
       "id": "NAVTEX-262058",
