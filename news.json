@@ -1,48 +1,5 @@
 [
   {
-    "id": "2026-10-28-10",
-    "headline": {
-      "ja": "イスラエル総選挙、開票進み200万票超 報道によりリクードの議席数に幅(28〜32)、デッドロック感は継続",
-      "en": "Israel election: over 2 million votes counted, reports diverge on Likud's seat count (28-32), deadlock picture persists"
-    },
-    "summary": {
-      "ja": "Jerusalem Post・Business Standard等によると、10月28日早朝(現地時間)までに200万票超が開票され、ネタニヤフ首相のリクードがアイゼンコット氏陣営に対し優位を広げているとJerusalem Postは報じる一方、別の集計(開票率約41%時点)ではリクード28議席・ヤシャル21議席とする報道もあり、数時間前に報じられた開票率24%時点の数字(リクード32議席・ヤシャル22議席、既報id: 2026-10-28-06)と比べて議席数の振れがあるという。与野党いずれのブロックも過半数(61議席)に届いていない状況は変わっていないとされる。推測:暫定集計の時点・対象票の範囲が報道間で異なるため、議席数の増減の実態は本稿執筆時点で確証できない。最終確定結果は未発表。[信頼性: 中](複数メディアが報じているが、具体的な議席数・開票率の数値は報道間で一致しておらず、暫定値の域を出ない)",
-      "en": "According to the Jerusalem Post and Business Standard, more than 2 million votes had been counted by early Wednesday Israel time, with the Jerusalem Post reporting Netanyahu's Likud extending its lead over Eisenkot's camp, while another report citing roughly 41% of votes counted put Likud at 28 seats and Yashar at 21 -- a shift from figures reported a few hours earlier at 24% counted (Likud 32, Yashar 22; previously reported id: 2026-10-28-06). Neither bloc has yet reached the 61-seat majority. Inference: the discrepancy likely reflects different snapshots and vote subsets across outlets, and the actual trend cannot be confirmed from these reports alone. No final certified result has been announced. [Reliability: Medium] (Multiple outlets report on the count, but specific seat numbers and count percentages differ between sources and remain preliminary.)"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.0461,
-    "lon": 34.8516,
-    "occurredAt": "2026-10-28T04:00:00+00:00",
-    "source": {
-      "name": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913053"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-10-28-11",
-    "headline": {
-      "ja": "サイクロン「アルナブ」、アーンドラ・プラデーシュ州に上陸し弱まる 感電死2人、死者は限定的",
-      "en": "Cyclone Arnab makes landfall in Andhra Pradesh and weakens; two electrocution deaths, overall toll limited"
-    },
-    "summary": {
-      "ja": "The Week・ETV Bharat等によると、非常に強いサイクロン「アルナブ」は10月28日朝、アーンドラ・プラデーシュ州・ヤナム沿岸に上陸し、最大風速135km/h(ガスト150km/h)を観測した後、上陸後に「厳しいサイクロン」級へ弱まったという。アーンドラ・プラデーシュ州で感電による死亡事故が2件報告され、1件は10月27日夜に切れた電線に触れた53歳男性、もう1件は10月28日朝にアナカパッリ県イェラマンチリで発生し55歳女性が死亡したという。州当局(ナイドゥ州首相)は当初「死者報告なし」としていたが、その後この2件が報告されたという。オディシャ州側では本稿執筆時点で死者の報告は確認できていない。既報(id: 2026-10-28-04、07)の続報。[信頼性: 中](The Week・ETV Bharat等の報道、PTI電を引用。被害の全容は今後更新される可能性がある)",
-      "en": "According to The Week and ETV Bharat, the very severe Cyclone Arnab made landfall near the Andhra Pradesh-Yanam coast on the morning of Oct. 28, with peak sustained winds of 135 km/h (gusts to 150 km/h), before weakening to a severe cyclonic storm after landfall. Andhra Pradesh reported two electrocution deaths: a 53-year-old man killed by a snapped live wire on the night of Oct. 27, and a 55-year-old woman in Yellamanchili, Anakapalli district, on the morning of Oct. 28. State authorities, including Chief Minister Naidu, had initially said no deaths were reported before these two were confirmed. No deaths had been confirmed in Odisha as of this writing. Follow-up to previously reported ids 2026-10-28-04 and -07. [Reliability: Medium] (Based on reporting by The Week, ETV Bharat and others citing PTI; the full damage picture may be updated further.)"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "region": "アーンドラ・プラデーシュ州",
-    "lat": 16.8,
-    "lon": 81.84,
-    "occurredAt": "2026-10-28T03:00:00+00:00",
-    "source": {
-      "name": "The Week",
-      "url": "https://www.theweek.in/news/india/2026/10/28/cyclone-arnab-hits-andhra-pradesh-deaths.html"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-10-28-12",
     "headline": {
       "ja": "イスラエル総選挙、開票85%でネタニヤフ陣営53議席・アイゼンコット陣営48議席 なお過半数届かず",
@@ -186,6 +143,27 @@
     "source": {
       "name": "Eurostat",
       "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-31-01",
+    "headline": {
+      "ja": "中国10月製造業PMI、49.3に低下 7か月連続で好不況の境目(50)を下回る",
+      "en": "China's October manufacturing PMI falls to 49.3, 7th straight month below the 50 growth threshold"
+    },
+    "summary": {
+      "ja": "中国国家統計局(NBS)は10月31日、2026年10月の製造業PMI(購買担当者指数)が49.3になったと発表したという。9月の50.1から0.8ポイント低下し、市場予想(ブルームバーグ調査で49.9前後)も下回り、7月以来の低水準になったという。非製造業PMIは49.7(前月から0.5ポイント低下)だったという。新華社によると、NBSの霍麗萎氏は国慶節(建国記念日)連休前の需要の前倒しや海外受注の下押しなど季節的要因が主因と説明したという一方、別の報道では国際環境の影響も挙げたとされる。業種別ではハイテク製造業(51.3)・設備製造業(50.6)が好調を維持した一方、中小企業(中堅48.4・小規模47.5)の弱さが目立ったという。中国経済全体の動向として採用し、個別銘柄の投資判断とは無関係。[信頼性: 高](China-Global South Project・Business Today・新華社(Xinhua)・Shanghai Metals Market・Newsquawk等、国家統計局発表を引用する複数の独立した報道で数値が一致)",
+      "en": "China's National Bureau of Statistics (NBS) reportedly announced on October 31 that the official manufacturing PMI for October 2026 came in at 49.3, down 0.8 points from September's 50.1 and below market expectations (around 49.9 in a Bloomberg survey) -- its lowest level since July. The non-manufacturing PMI was reportedly 49.7, down 0.5 points. According to Xinhua, NBS statistician Huo Lihui attributed the decline mainly to seasonal factors, including demand pulled forward ahead of the National Day holiday and softer overseas orders, while another report also cited the international environment. By sector, high-tech manufacturing (51.3) and equipment manufacturing (50.6) reportedly stayed in expansion, while medium-sized (48.4) and small (47.5) firms were notably weaker. Treated here as a China-wide economic indicator, not as guidance for individual stock investment. [Reliability: High] (Figures are consistent across multiple independent reports -- China-Global South Project, Business Today, Xinhua, Shanghai Metals Market/SMM, Newsquawk and others -- all citing the NBS release.)"
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "occurredAt": "2026-10-31T01:30:00+00:00",
+    "source": {
+      "name": "中国国家統計局(NBS)/新華社(Xinhua)",
+      "url": "https://english.news.cn/20261031/a6b1548c869e4c9886099d9a559f5c4f/c.html"
     },
     "reliability": "high"
   }
