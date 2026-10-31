@@ -23,6 +23,29 @@
     "eventKey": "israel_lebanon_military_operations_2026-10-31"
   },
   {
+    "id": "auto-39687",
+    "headline": {
+      "ja": "ガザの子どもたちが学校通学中の爆撃とライフル銃火の危険に直面",
+      "en": "Education under fire: Gaza's children face death on their way to school"
+    },
+    "summary": {
+      "ja": "ガザの新学期開始以降、子どもたちが学校への通学中にイスラエルの爆撃とスナイパー銃火による危険にさらされている。",
+      "en": "Since the academic year resumed in Gaza, children have faced Israeli bombs and sniper fire on their way to school."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-10-31T10:00:17+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_children_school_danger_2026-10"
+  },
+  {
     "id": "auto-38741",
     "headline": {
       "ja": "米国がウクライナへの愛国者ミサイルシステム21億ドル相当を承認",
@@ -44,6 +67,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_patriot_missile_sale_2026-10-30"
+  },
+  {
+    "id": "auto-38746",
+    "headline": {
+      "ja": "コンゴ民主共和国のエボラ流行、死亡者5000人超に",
+      "en": "Ebola death toll in DR Congo exceeds 5,000"
+    },
+    "summary": {
+      "ja": "DRコンゴでのエボラ流行で死亡者が5000人を超えた。当局は承認済みの治療法やワクチンがなく、感染制御に苦慮している。",
+      "en": "Ebola outbreak in DR Congo has caused over 5,000 deaths. Authorities struggle to control the outbreak with no approved treatments or vaccines available."
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "occurredAt": "2026-10-31T02:51:52+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "drc_ebola_outbreak_2026-10"
   },
   {
     "id": "auto-40237",
