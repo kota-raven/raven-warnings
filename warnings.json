@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:39:29.682Z",
+  "generatedAt": "2026-10-31T05:22:54.286Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 219,
   "warnings": [
@@ -3934,16 +3934,58 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-262086",
+      "id": "NAVTEX-262090",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2086",
-      "title": "宮古島付近、長山水路第１号灯標復旧",
-      "publishedAt": "2026-10-30T17:00:00+09:00",
+      "category": "訓練試験",
+      "number": "2090",
+      "title": "隠岐諸島西、射撃",
+      "publishedAt": "2026-10-31T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          132.65,
+          36.166666666666664
+        ]
+      },
+      "rawText": "番号:26-2090    発表日時:2026年10月31日 13時\r\n\n\r\n隠岐諸島西、\r\r\n射撃、11月5日(予備6日、10日)0900-2400、\r\r\n36-10N 132-39Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262090&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262089",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2089",
+      "title": "隠岐諸島西、射撃",
+      "publishedAt": "2026-10-31T13:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-2086    発表日時:2026年10月30日 17時\r\n\n\r\n宮古島付近、\r\r\n長山水路第1号灯標復旧。\r\r\n(2030削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262086&LANG=JP"
+      "rawText": "番号:26-2089    発表日時:2026年10月31日 13時\r\n\n\r\n隠岐諸島西、\r\r\n射撃、11月5日(予備6日)0800-2400、\r\r\n36-10.2N 133-44.8Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262089&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262088",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2088",
+      "title": "沖縄島南西、射撃",
+      "publishedAt": "2026-10-31T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2088    発表日時:2026年10月31日 13時\r\n\n\r\n沖縄島南西、\r\r\n射撃、11月5日0800-2400、25-56.0N \r\r\n127-30.2Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262088&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262087",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2087",
+      "title": "野島埼南、射撃中止",
+      "publishedAt": "2026-10-31T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2087    発表日時:2026年10月31日 13時\r\n\n\r\n野島埼南、\r\r\n射撃中止。\r\r\n(2049削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262087&LANG=JP"
     },
     {
       "id": "NAVTEX-262085",
@@ -4144,30 +4186,6 @@
       },
       "rawText": "番号:26-2078    発表日時:2026年10月30日 13時\r\n\n\r\n尻屋埼東、\r\r\n射撃、11月4日(予備5日、6日)0800-1800、\r\r\n41-20-10N 142-29-47Eを中心とする\r\r\n半径15海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262078&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262077",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2077",
-      "title": "宮古島付近、タカツキャ瀬南東方灯標復旧",
-      "publishedAt": "2026-10-30T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2077    発表日時:2026年10月30日 13時\r\n\n\r\n宮古島付近、\r\r\nタカツキャ瀬南東方灯標復旧。\r\r\n(2031削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262077&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262076",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2076",
-      "title": "雄冬岬北、射撃終了",
-      "publishedAt": "2026-10-30T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2076    発表日時:2026年10月30日 13時\r\n\n\r\n雄冬岬北、\r\r\n射撃終了。\r\r\n(2068削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262076&LANG=JP"
     },
     {
       "id": "NAVTEX-262062",
@@ -4512,18 +4530,6 @@
       },
       "rawText": "番号:26-2050    発表日時:2026年10月28日 13時\r\n\n\r\n壱岐島北、\r\r\n射撃、11月2日0900-2400、\r\r\n34-07N 129-47Eを中心とする半径7海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262050&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262049",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2049",
-      "title": "野島埼南、射撃",
-      "publishedAt": "2026-10-28T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2049    発表日時:2026年10月28日 13時\r\n\n\r\n野島埼南、\r\r\n射撃、11月2日(予備3日)0800-2400、\r\r\n34-35.6N 139-49.2Eを中心とする半径7海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262049&LANG=JP"
     },
     {
       "id": "NAVTEX-262048",
