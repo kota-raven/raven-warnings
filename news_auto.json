@@ -46,25 +46,25 @@
     "eventKey": "ukraine_patriot_missile_sale_2026-10-30"
   },
   {
-    "id": "auto-39816",
+    "id": "auto-40237",
     "headline": {
-      "ja": "フーシ派、アデンの空港と大統領宮殿をミサイル攻撃",
-      "en": "Houthis strike airport and presidential palace in Aden with missiles"
+      "ja": "イエメン軍、ホーシ派によるアデン空港・大統領宮殿への弾道ミサイル攻撃を発表",
+      "en": "Yemeni military announces ballistic missile attacks on Aden airport and presidential palace by Houthis"
     },
     "summary": {
-      "ja": "イエメンの反政府勢力フーシ派が、南部アデンの空港と大統領宮殿に対してミサイル攻撃を実施した。",
-      "en": "Houthi forces conducted missile strikes against Aden airport and the presidential palace in southern Yemen."
+      "ja": "イエメン軍は、ホーシ派がアデン空港と大統領宮殿に対して弾道ミサイルで攻撃を実施したと発表した。",
+      "en": "The Yemeni military announced that the Houthi movement carried out ballistic missile attacks on Aden airport and the presidential palace."
     },
     "category": "conflict",
     "country": "イエメン",
     "lat": 12.7796,
     "lon": 45.0385,
-    "occurredAt": "2026-10-30T21:10:34+00:00",
+    "occurredAt": "2026-10-30T20:17:48+00:00",
     "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TeUtoNFhCSFdmQW9reXVQZE1KazhWaFBvMktkcm44dUw4Mk9PVjFWdDlvb3o4YWRVR0s0YXNzV2JFNFNy0gFKQVVfeXFMTjd1TkJCdkVhd1ZVT24zcnFzVE9qbE9MOTktekRUcmRGTTBKeFZBR09fMTAtdXZKYzhOaXBMbTFPbk1BaWZ3M1ZTWkE?oc=5"
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ25HOTJWSS1lRFZka0ZJNXJzS1BDaTZXdk9vWVprQ0gwY1JCZWNxLWJsZVl1ZWVNdlhEY25oLVg5ZG9SQVJIbnlQWEFOeGRUT1RJVm1MamRlMDNJY0gtdWRDN2hzNFNNUmpubEloMzZNMGN2amhvaEgwb2lLeW5yc19WMnNOcUVLMC1pVXBORWZyQ19oTUQ5YXVOYXNNOTVpZnM3bUZJSGpndERla1N3Tm5tQ2RFdVVmNFpHVFB6YW1ucHR4VlJQaXNSaw?oc=5"
     },
-    "reliability": "medium",
+    "reliability": "high",
     "auto": true,
     "eventKey": "yemen_aden_houthi_missile_attack_2026-10-30"
   },
@@ -3334,192 +3334,6 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "israel_ethnic_cleansing_hebron_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-29256",
-    "headline": {
-      "ja": "フランスの大規模抗議デモ続行、約1000人逮捕",
-      "en": "Mass protests continue across France with nearly 1,000 arrested"
-    },
-    "summary": {
-      "ja": "フランスで大規模な抗議デモが続き、衝突により約1000人が逮捕された。先週末の暴動・略奪は回避されている。",
-      "en": "Mass protests continued across France with nearly 1,000 arrests following clashes. Officials have managed to avoid a repeat of last weekend's rioting and looting."
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 48.8534,
-    "lon": 2.3488,
-    "occurredAt": "2026-10-24T21:09:27+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "france_mass_protests_2026-10-24"
-  },
-  {
-    "id": "auto-29266",
-    "headline": {
-      "ja": "フーシ派、アデンのインフラ施設を攻撃",
-      "en": "Houthis launch attacks on Saudi Arabia and Yemen's Aden"
-    },
-    "summary": {
-      "ja": "フーシ派がミサイルでイエメンのアデン空港と海岸警備隊基地を攻撃したと報道された。",
-      "en": "Houthi missiles reportedly struck Aden airport and a coastguard base in Yemen."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-24T21:08:51+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_aden_houthi_attack_2026-10-24"
-  },
-  {
-    "id": "auto-29101",
-    "headline": {
-      "ja": "ロシア・オムスク工業施設、ドローン攻撃",
-      "en": "Omsk industrial cluster in Siberia comes under drone attack"
-    },
-    "summary": {
-      "ja": "ロシア・シベリアのオムスク北部工業地帯が敵のドローン攻撃を受けたと報じられた。",
-      "en": "Omsk industrial cluster in Siberia reportedly came under enemy drone attack."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 54.9924,
-    "lon": 73.3686,
-    "occurredAt": "2026-10-24T17:57:38+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0UnM1WF85MWc4RG9mMWgwb2JEbXpELUpNUUlEMnZlZTFLZ3hmdnFNTmo5Q0ZTcFBleTlzd0pkTmxKbUY5OTJOeG5SSjPSAVJBVV95cUxObUMwWTAwZ3RtdjdEc1pyZmFCZzZVVFAtT193eUp1SVhydm5PZGtLNExxTkh4Rms5dEZiSjZoaWltcU1QaGZQTzNTekVINWhfTmtB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_omsk_drone_attack_2026-10-24"
-  },
-  {
-    "id": "auto-28937",
-    "headline": {
-      "ja": "サウジ、フーシの弾道ミサイル2発を迎撃",
-      "en": "Saudi Arabia intercepts two Houthi ballistic missiles"
-    },
-    "summary": {
-      "ja": "サウジアラビア民間防衛当局は、メッカ・メディナを標的としたフーシ派の弾道ミサイル2発を迎撃したと発表した。",
-      "en": "Saudi Civil Defense announced the interception of two Houthi ballistic missiles aimed at Makkah and Madinah."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 21.4266,
-    "lon": 39.8256,
-    "occurredAt": "2026-10-24T17:11:11+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15bkxIMFE5V0NUdjdjX21WZFphdnZfTDk5UE1YY3ZOclpuSnF0YTE4a3NpTzM4SXNVR1dteDlHSnpReHdEU2EwSU9B?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthis_saudi_missile_2026-10-24"
-  },
-  {
-    "id": "auto-29641",
-    "headline": {
-      "ja": "フランス全域での大規模デモで警察との衝突、約1000人が逮捕",
-      "en": "Protesters clash with police with nearly 1,000 arrested amid mass protests across France"
-    },
-    "summary": {
-      "ja": "フランス全域で開催された大規模なデモで警察との衝突が発生し、約1000人が逮捕された。",
-      "en": "Mass protests across France resulted in clashes with police, with nearly 1,000 arrests reported."
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 48.8534,
-    "lon": 2.3488,
-    "occurredAt": "2026-10-24T17:02:51+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzBQUWMwT3p6cURmcXJJUzk0Q2VlempDdGxYek9Yc1d6U244OFVsRk9QYzc4TXQxbE05MlpERmlKekloRmJNVXVNUHEwOFRuY3prUVdGbFg3OHc0R0E0NEd3RE5MbWduRXlSWE16QXVjZmlxc3FSZE1teGZZRUx6TEZwWU5fdGRRRXFZZWtjTmlPeHJ5dnFRREZvTEJqNXFPZmt5YmFRVlJTdUdpU3hMWWRaUWtvUTRrUThidjZfN1NNdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "france_mass_protest_arrests_2026-10-24"
-  },
-  {
-    "id": "auto-28981",
-    "headline": {
-      "ja": "イエメン、フーシのアデン空港・港湾攻撃を報告",
-      "en": "Yemen reports Houthi attacks on Aden airport and port"
-    },
-    "summary": {
-      "ja": "イエメン政府は、フーシ派がアデン空港・港湾・沿岸警備隊施設を弾道ミサイルで攻撃したと発表した。",
-      "en": "Yemen reported Houthi attacks on Aden airport, port facilities, and coast guard with ballistic missiles."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-24T16:22:28+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORV9RZmFhUC1SYU5Lb2NFN0N1U0Rlc2lQOFhfQXJJRXI5cFVqUk84UDE1ajNDMFN0Y29aVEVkbTJSNG0ybFdQZWpEYW91OWJPYVpHUzU2QnlQNEdDckJ1V2htbUhTSnR5ZkRFNDk2ckdXQThtMmxQb0xrc21TWFMzdURmS1BnbGFvXzBGYzZxVktiVEpXRnhLVzFpMmJkQi1qcHVoVzlidzVPZl9IQW1pUi1JUU5mZHBPVDJwMWJ5Q1dTQkRTTnZMWHhFQmdLZ1Q2ZHhMUW5n?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthis_aden_attack_2026-10-24"
-  },
-  {
-    "id": "auto-28783",
-    "headline": {
-      "ja": "ヘブロンで2000人以上が住宅から強制退去、イスラエルの西岸作戦中",
-      "en": "More than 2,000 forced from homes in Hebron amid Israel's West Bank raids"
-    },
-    "summary": {
-      "ja": "パレスチナのヘブロンで2000人以上が住宅から強制退去させられた。イスラエル軍が西岸全域で逮捕作戦を続けており、市民は「恐怖の中で生活している」と報告。",
-      "en": "More than 2,000 Palestinians in Hebron were forced from their homes amid Israeli military operations. Palestinians report living in fear as Israeli forces conduct raids and arrests across the West Bank."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5294,
-    "lon": 35.0938,
-    "occurredAt": "2026-10-24T15:50:49+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_hebron_forced_evacuation_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28842",
-    "headline": {
-      "ja": "中国西蔵で7.0級地震",
-      "en": "7.0-magnitude earthquake strikes Xizang, China"
-    },
-    "summary": {
-      "ja": "中国西蔵自治区で7.0級の地震が発生し、救助活動が継続されている。",
-      "en": "A 7.0-magnitude earthquake struck Xizang Autonomous Region in China, with rescue operations ongoing."
-    },
-    "category": "disaster",
-    "country": "中国",
-    "lat": 39.9075,
-    "lon": 116.3972,
-    "occurredAt": "2026-10-24T15:12:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NLUF2Y3pNUFVBSDBaVm1VQ044dkJiTDZDNDFjSUUwU2dfRHVfb3E3SzZzR0JJUUg1dFQ3Uk5UVDhfeFZhM0JZNU91YXlaRzNvWXl5WHNQWi15czhnWHBCNmxpQVk5TmJOZDk0Z2RYNlpaMWV0bGZwMWc0ZDA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "china_xizang_earthquake_7_0_2026-10-24",
     "severity": 4
   }
 ]
