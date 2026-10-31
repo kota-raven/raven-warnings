@@ -23,6 +23,29 @@
     "eventKey": "ukraine_patriot_missile_sale_2026-10-30"
   },
   {
+    "id": "auto-39524",
+    "headline": {
+      "ja": "北朝鮮ドローン、新型巡航ミサイル試験成功と報告",
+      "en": "North Korea's Drone Succeeds in New Cruise Missile Test"
+    },
+    "summary": {
+      "ja": "@OSINTdefenderのアカウントで、北朝鮮の攻撃ドローンSaetbyol-9が新型空中発射型戦術巡航ミサイルの試験に成功したという投稿があった。",
+      "en": "A post on @OSINTdefender reported that North Korea's Saetbyol-9 attack drone successfully tested a new air-launched tactical cruise missile."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-10-30T18:29:24+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20635"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "north_korea_saetbyol9_cruise_missile_test_2026-10-30"
+  },
+  {
     "id": "auto-38732",
     "headline": {
       "ja": "イエメン・アデンの住民、ミサイル攻撃で戦争再開に備える",
@@ -3777,51 +3800,5 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_us_restrictions_analysis_2026-10-24"
-  },
-  {
-    "id": "auto-28442",
-    "headline": {
-      "ja": "ケニア・ナイロビで建物崩壊、7人が行方不明",
-      "en": "Seven missing after multi-storey building collapses in Kenya's capital"
-    },
-    "summary": {
-      "ja": "ナイロビの建設中の高層建物が崩壊し、7人が瓦礫の下に閉じ込められている。救助活動が進行中。",
-      "en": "A multi-storey building under construction collapsed in Nairobi, trapping seven people under the rubble. Rescue operations are underway."
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-10-24T09:44:01+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kenya_nairobi_building_collapse_2026-10-24"
-  },
-  {
-    "id": "auto-28524",
-    "headline": {
-      "ja": "パレスチナ副大統領、イスラエルの集団懲罰の国際的非難を呼びかけ",
-      "en": "Vice President al-Sheikh calls for international condemnation of Israel's collective punishment of Palestinians"
-    },
-    "summary": {
-      "ja": "パレスチナ自治政府の副大統領は、イスラエルによるパレスチナ人への集団懲罰に対する国際的な非難を求めた。",
-      "en": "Palestinian Vice President al-Sheikh called for international condemnation of Israel's collective punishment of Palestinians."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-24T09:16:15+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fREpiRUdldU1NdUNVTEljV3daUFVZZi1wbnZsSlYtQXV3RXNXdVE5MWdWX1pVU29raEprLUNyWFJGZFk2WUlRVG1acTRkN1QyVXVaVFM0Yw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_israel_collective_punishment_2026-10-24"
   }
 ]
