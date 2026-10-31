@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-38741",
+    "headline": {
+      "ja": "米国がウクライナへの愛国者ミサイルシステム21億ドル相当を承認",
+      "en": "US approves $2.1 billion Patriot missile system sale to Ukraine"
+    },
+    "summary": {
+      "ja": "米国はウクライナへの防衛兵器として愛国者ミサイルシステム500台相当(21億ドル)の売却を承認した。トランプ政権発足以来、ウクライナへの重要な軍事支援となる。",
+      "en": "The US approved a $2.1 billion sale of 500 Patriot missile systems to Ukraine as defensive weapons. This represents significant military support since Trump's administration took office."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-10-31T04:51:25+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_patriot_missile_sale_2026-10-30"
+  },
+  {
     "id": "auto-38732",
     "headline": {
       "ja": "イエメン・アデンの住民、ミサイル攻撃で戦争再開に備える",
@@ -3800,308 +3823,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "palestine_israel_collective_punishment_2026-10-24"
-  },
-  {
-    "id": "auto-28601",
-    "headline": {
-      "ja": "フィリピン空軍の訓練機が墜落、パイロット4人死亡",
-      "en": "4 Philippine Air Force pilots killed as training aircraft crash"
-    },
-    "summary": {
-      "ja": "フィリピン空軍の訓練機が墜落し、パイロット4人が死亡した。",
-      "en": "A Philippine Air Force training aircraft crashed, killing four pilots."
-    },
-    "category": "disaster",
-    "country": "フィリピン",
-    "lat": 14.6042,
-    "lon": 120.9822,
-    "occurredAt": "2026-10-24T08:43:07+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcC1LSjhjNDNGZ1NCRWphTFI2alM0X2tnRFMzdHIxOFIxRmw5RDZWbF9kZlA0V3pmemNuNV9PcHF3WUtpREdPMGVRY3FEUUdyU0lBWmRiSVdkdndTU01DanZWbHBONTN3NTBWMDBPbjI1dEhrQ1VQZW5KVTdUSkY0cXZteC03X3VQdUhIWWtLOERhLUpYd1ZvempXUkpiLU8tcHN2Vi02WTZESmpfeGc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "philippines_air_force_crash_2026-10-24"
-  },
-  {
-    "id": "auto-28620",
-    "headline": {
-      "ja": "ロシア外交官、アリョシュキの出来事をキーウの戦争犯罪と表現",
-      "en": "Russian diplomat describes events in Alyoshki as Kiev's war crime"
-    },
-    "summary": {
-      "ja": "ロシア政府は、アリョシュキでの出来事をウクライナ(キーウ)政府による戦争犯罪と主張した。",
-      "en": "A Russian diplomat characterized events in Alyoshki as a war crime committed by Kyiv."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-24T07:39:44+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42alZ1dWpCaU1iUjZsOWJ4VWhhSDZXUTRCcFR3TlBRRzh4OTNuczdveHlWTXpQUU83S2xMX2h3R0NlOUdkTDNz0gFMQVVfeXFMTVdDYmU5Q2dEb2R3QWkyYTdpT2ZGMUd3R0FPNzMySDg1UFYzSkdkTWg2OWdXWm1QSnRodmpEcVhYUHYySTdmODEwbS1Gdg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_alyoshki_war_crime_claim_2026"
-  },
-  {
-    "id": "auto-28547",
-    "headline": {
-      "ja": "フィリピン北部で飛行機墜落、4人のパイロット死亡",
-      "en": "4 pilots killed in north Philippine plane crash"
-    },
-    "summary": {
-      "ja": "フィリピン北部で飛行機が墜落し、4人のパイロットが死亡した。",
-      "en": "A plane crash in northern Philippines killed four pilots."
-    },
-    "category": "disaster",
-    "country": "フィリピン",
-    "lat": 14.6042,
-    "lon": 120.9822,
-    "occurredAt": "2026-10-24T07:37:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXYxdm14ekhEY0JrLTRNb3JrVG4zTlQzM3dlNFlsLXNKeWpsYTZMbFhqX3p3VXVkSHBnZV9BZFUyaFQ4ZExlelBfdV9fa3BvclpCY1pyNGhtcjRYWEl5VGtyMk1na3JRM2gyZC1fbXpybm05cmdPbXRUQmk3WWdJeURPSHhJcW1XRm1kSg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "philippines_plane_crash_2026-10-24"
-  },
-  {
-    "id": "auto-28448",
-    "headline": {
-      "ja": "中国人民解放軍、台湾周辺で活動継続",
-      "en": "PLA activities in the waters and airspace around Taiwan Oct.24 2026"
-    },
-    "summary": {
-      "ja": "台湾国防部は、中国人民解放軍が台湾周辺の海域と空域での活動を継続していることを報告した。",
-      "en": "Taiwan's Defense Ministry reported ongoing PLA activities in waters and airspace surrounding Taiwan."
-    },
-    "category": "conflict",
-    "country": "台湾",
-    "lat": 25.0531,
-    "lon": 121.5264,
-    "occurredAt": "2026-10-24T06:57:16+00:00",
-    "source": {
-      "name": "台湾 国防部(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZTzVSUXBoUVFiczlMNHpvOE8yUktoRmVuNW93Q1BRSzVHM0xBSC1YTFZXbUwwWGZySFFMQlB6XzJLLUtjMEFsMVYxcXlGV1NMZzZEc1BaWFhIUTFDWjNtejBpRE45eTNpbnFkbE1LZm1sdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "taiwan_pla_activities_2026-10-24"
-  },
-  {
-    "id": "auto-28348",
-    "headline": {
-      "ja": "台湾のタイフーン・チャンピーで死傷者多数",
-      "en": "Typhoon Champi causes casualties in Taiwan"
-    },
-    "summary": {
-      "ja": "台湾を襲ったタイフーン・チャンピーにより、1人が死亡し、約530人が負傷した。",
-      "en": "Typhoon Champi struck Taiwan, killing 1 and injuring nearly 530 people."
-    },
-    "category": "disaster",
-    "country": "台湾",
-    "lat": 25.0531,
-    "lon": 121.5264,
-    "occurredAt": "2026-10-24T05:59:50+00:00",
-    "source": {
-      "name": "UAE 国営WAM通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3c4TUZoYUlITm1DNWtyaktiVUJEVkoxSmFFMmo1eXJ2WFRPSkZfR01rNmIzRDRkNXZwbTVpZXlzd3NxWnNDVnVpbGY4NjBXZWlwN191aTBlTVUyT3hJUUVSREoxWU05RkppSkRHcHo3dEdQbFdPeWVoWkZFY3NiSEp2WUtUZ2JfNEE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "taiwan_typhoon_champi_2026-10-24"
-  },
-  {
-    "id": "auto-28434",
-    "headline": {
-      "ja": "ロシア国防省、ウクライナドローン616機を撃墜と発表",
-      "en": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry"
-    },
-    "summary": {
-      "ja": "ロシア国防省は、ロシア領土上で一晩のうちにウクライナ軍のドローン616機を空中防衛で撃墜したと発表した。",
-      "en": "The Russian Defense Ministry claimed to have shot down 616 Ukrainian drones over Russian regions overnight."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-24T05:58:52+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Oa0lYT2l2MEFJdEk4Q2tOWUJQUkhWS0tWcHFUdUxOUWZIS2JvUTI4OGpmUERYeWtRakU3QWxBVUJrd29vRHdvcFdqZXTSAUxBVV95cUxPTmtJWE9pdjBBSXRJOENrTllCUFJIVktLVnBxVHVMTlFmSEtib1EyODhqZlBEWHlrUWpFN0FsQVVCa3dvb0R3b3BXamV0?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_ukraine_drone_downing_2026-10-24"
-  },
-  {
-    "id": "auto-28558",
-    "headline": {
-      "ja": "ケニア、エボラウイルス感染による2番目の死亡を確認",
-      "en": "Kenya confirms second death from Ebola"
-    },
-    "summary": {
-      "ja": "ケニアでエボラウイルス感染による2番目の死亡が確認された。",
-      "en": "Kenya confirmed the second death from Ebola virus infection."
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-10-24T04:43:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0xGWWhGTWMtcFZPWDNYZGVYT3JLVVdmNVNxLXk0endrcU11VnhIYVM1eGdwOHdjbjRXSkJNNDNQTzNkNjZmbHZ0bXhPUVQ0bUkySUZseFMtMXEyaFJYNGljNEwyZEpEZEU3QkpOQ2ZrOXd3WnI5eS1jUDhteXczLTZ4dE42Zw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kenya_ebola_death_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28852",
-    "headline": {
-      "ja": "バヌアツで2件の地震、津波警報発令",
-      "en": "2 major earthquakes strike Vanuatu, tsunami warning issued"
-    },
-    "summary": {
-      "ja": "バヌアツで大規模な2件の地震が発生し、津波警報が発令された。",
-      "en": "Two major earthquakes hit Vanuatu, prompting a tsunami warning."
-    },
-    "category": "disaster",
-    "country": "バヌアツ",
-    "lat": -17.7365,
-    "lon": 168.3137,
-    "occurredAt": "2026-10-24T04:13:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXJIT2tpUVlIY0w4SF9HMVdxcllPcTFrOVRPLTJlZmUtd0h6amM4Ym9UMHNsTjRoMUtZa1ExQnV6UVJubEdBMjdIY2NnWC01WnVVeDducm42cnJUTUNDOEFhZUhNVTRqRHUyUG0tZnJVT1pDck02ZmhheVo1R1Z0ZWl2UFFqSERaMGRVWA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "vanuatu_earthquakes_tsunami_2026-10-24"
-  },
-  {
-    "id": "auto-28036",
-    "headline": {
-      "ja": "バヌアツ沖で7.2の大型地震",
-      "en": "7.2 magnitude earthquake strikes off Vanuatu coast"
-    },
-    "summary": {
-      "ja": "太平洋上のバヌアツ沖でマグニチュード7.2の大型地震が発生した。建物被害や津波の可能性がある。",
-      "en": "A 7.2 magnitude earthquake struck off the coast of Vanuatu in the Pacific Ocean. Buildings may be damaged and tsunami risk exists."
-    },
-    "category": "disaster",
-    "country": "バヌアツ",
-    "lat": -17.7365,
-    "lon": 168.3137,
-    "occurredAt": "2026-10-24T03:15:01+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92VjVGcUczR3p2QVZwNkFsczB0ai16WHBrbzNvT2pWWEQzM3dGcnNvXzFBblFZYU5hVGxZMk5uT25xTktOOWtRSDZCWmNSaUpXQmfSAVJBVV95cUxPdlY1RnFHM0d6dkFWcDZBbHMwdGotelhwa28zb09qVlhEMzN3RnJzb18xQW5RWWFOYVRsWTJObk9ucU5LTjlrUUg2QlpjUmlKV0Jn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "vanuatu_earthquake_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28702",
-    "headline": {
-      "ja": "パキスタンの交通事故で13人死亡、21人負傷",
-      "en": "13 Killed, 21 Injured in Traffic Accident in Pakistan"
-    },
-    "summary": {
-      "ja": "パキスタンで大型交通事故が発生し、13人が死亡、21人が負傷した。",
-      "en": "A major traffic accident in Pakistan resulted in 13 deaths and 21 injuries."
-    },
-    "category": "disaster",
-    "country": "パキスタン",
-    "lat": 33.7215,
-    "lon": 73.0433,
-    "occurredAt": "2026-10-24T03:11:06+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rWWFJNTZYZVNIeGo5MFhQT2s2N0xwazBnNGZsM3JLSVhPTm1UUWNWc05OdjluZTVqU3k2cGVNdC1Jb2IyT3NKbi1R?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "pakistan_traffic_accident_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-27997",
-    "headline": {
-      "ja": "ポーランドが仏米核兵器の領土配備を意図",
-      "en": "Poland intends to deploy French and US nuclear weapons on its territory"
-    },
-    "summary": {
-      "ja": "ポーランド国防省は、フランスとアメリカの核兵器をポーランド領土に配備する意向があると述べた。NATO核抑止力の強化を目的とする動きと見られる。",
-      "en": "Poland's Defense Ministry announced its intention to deploy French and U.S. nuclear weapons on Polish territory as part of NATO nuclear deterrence strengthening."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-10-24T02:17:12+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9OYnl1cGREdDIyRFJJaXZfSGo2dlRWRlY5anFfWm9IMDRTcGJTQlQzY2JyVTQ0TkJtVEZxZzZMV1diWl9X0gFKQVVfeXFMUE9HZThKMDlmWERpU1U4MmQxbW1jdDNyM3RNVWd0NU1UdlBueWF4SEd5VHpEbTRFLW9malhNbVRDZzc4SDM0UUlFcWc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_nato_nuclear_deployment_2026-10-24",
-    "severity": 4
-  },
-  {
-    "id": "auto-28817",
-    "headline": {
-      "ja": "西蔵地震で16人死亡、76人負傷、救助活動激化",
-      "en": "Rescue efforts intensify after Xizang quake kills 16, injures 76"
-    },
-    "summary": {
-      "ja": "中国西蔵での地震により16人が死亡、76人が負傷。救助活動が激化している。",
-      "en": "An earthquake in Xizang resulted in 16 deaths and 76 injuries, with rescue efforts intensifying in the region."
-    },
-    "category": "disaster",
-    "country": "中国",
-    "lat": 39.9075,
-    "lon": 116.3972,
-    "occurredAt": "2026-10-24T02:03:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOczE3Y3k4cjI1RXJQdFNGLUs2akM4UDZMeTF3UnVuUFVYVG51YmQ4eVpWS0xOendsMmRVRDFLZFRaaVk1bDV4WUpCcXRrQUJ0cFJaTHhYSVVMZ3BfMmJ4Y01ORExxUWhLQ0swbkJkVFNkOWVwZkJlV2pwWlg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "xizang_earthquake_2026-10-24"
-  },
-  {
-    "id": "auto-27869",
-    "headline": {
-      "ja": "イスラエルのガザ攻撃で3名のパレスチナ人が殺害",
-      "en": "Three Palestinians killed in fresh Israeli attacks on Gaza"
-    },
-    "summary": {
-      "ja": "パレスチナとトルコの情報源により、イスラエルによるガザへの攻撃で3名のパレスチナ人が殺害され、複数の負傷者が出たと報道された。",
-      "en": "Israeli attacks on Gaza resulted in three Palestinian deaths and multiple injuries, according to Palestinian and Turkish news sources."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-23T22:38:32+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGxidFBRNTJlRUFENGxsdk1NaTZNNkJPamhoRVF6TFJOLTFfUDhKQ1RLb1pfUW5Bc09Fb3I1UjBlZFFaVE9IbXpFTi05dHZqay0zeFZWNWNkRG5INzI4Y1c3MmdSd3dSa3E4aHlVeU9Sd3ZSRnVYeGY1WmFFWmlYNGV3WDk0d2R0VmhvcVhaaV9Xb2FFdG9XOHZOWWVrczZpNzhhNzl2WFhKZHhDU2hjVWwxMVpZMTFkLXIxbWlPUQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_gaza_attack_2026-10-23"
   }
 ]
