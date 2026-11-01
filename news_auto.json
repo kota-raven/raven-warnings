@@ -23,6 +23,75 @@
     "eventKey": "gaza_israeli_airstrikes_2026-11-01"
   },
   {
+    "id": "auto-40708",
+    "headline": {
+      "ja": "ナイジェリア北西部で警察が匪賊攻撃を撃退、30以上の遺体を回収",
+      "en": "Over 30 bodies recovered after police repel bandit attack in NW Nigeria"
+    },
+    "summary": {
+      "ja": "ナイジェリア北西部で警察が武装勢力の攻撃を撃退し、30以上の遺体が回収された。地域の治安問題を示す事案。",
+      "en": "Police in northwestern Nigeria repelled an armed bandit attack, resulting in over 30 bodies recovered. The incident reflects ongoing security challenges in the region."
+    },
+    "category": "conflict",
+    "country": "ナイジェリア",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "occurredAt": "2026-11-01T10:57:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEFGWmI4bmsyVGl4ZzFQaGxEdFlvWFhnZ0FYRk5YcnV1emkxQm81Z2xScnBXYXVCY0dVQ2pRcHVDT1dQSmZWS3VURFVxY0hyUnAwREZmNzhiS0lHOV90UjNaeWpKVFNCZ0dGTGZjMWNzck5TYU54YTc1WkMxQ0w0Xy03U0tjdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "nigeria_bandit_attack_northwest_2026-11-01"
+  },
+  {
+    "id": "auto-40598",
+    "headline": {
+      "ja": "カタールのLNG輸送船がペルシャ湾で未確認物体に衝突",
+      "en": "Qatar LNG carrier struck by unidentified objects in Gulf"
+    },
+    "summary": {
+      "ja": "カタール・ガス・トランスポート・カンパニーが運航するLNG輸送船がペルシャ湾で未確認の物体に衝突したと発表。死傷者および環境汚染は報告されていない。",
+      "en": "Qatar Gas Transport Company reported that its LNG carrier was struck by unidentified objects in the Gulf with no reported injuries or environmental damage."
+    },
+    "category": "conflict",
+    "country": "カタール",
+    "lat": 25.2855,
+    "lon": 51.531,
+    "occurredAt": "2026-11-01T10:21:48+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "qatar_lng_carrier_gulf_strike_2026-11-01"
+  },
+  {
+    "id": "auto-40644",
+    "headline": {
+      "ja": "イラン、英国の諜報機関と軍をテロ組織に指定",
+      "en": "Iran designates MI6 as hostile group, British military as terrorist organizations"
+    },
+    "summary": {
+      "ja": "イラン政府は、英国の情報機関MI6を敵対集団に指定し、英王立海軍と王立空軍をテロ組織と宣言した。英国の行動に対する報復措置。",
+      "en": "Iran designated Britain's MI6 intelligence service as a hostile group and declared the Royal Navy and Royal Air Force as terrorist organizations in retaliation for what Tehran characterizes as hostile actions."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-01T06:31:55+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86308838/Iran-designates-MI6-as-hostile-group-British-navy-and-air"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_uk_escalation_mi6_designation_2026-11-01"
+  },
+  {
     "id": "auto-40946",
     "headline": {
       "ja": "北朝鮮が戦術弾道ミサイル用クラスター弾頭をテスト",
