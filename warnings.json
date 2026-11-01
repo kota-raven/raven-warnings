@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-31T21:25:51.365Z",
+  "generatedAt": "2026-11-01T00:59:45.804Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 196,
+  "count": 193,
   "warnings": [
     {
       "id": "NAVAREA11-260489",
@@ -288,18 +288,6 @@
       "geometry": null,
       "rawText": "番号:26-4319   発表日時:2026年10月31日 22時\r\n\n\r\n隠岐諸島東、\r\r\n射撃、11月5日(予備6日)0800-2400、\r\r\n36-10.2N 133-44.8Eを中心とする半径5海里の円内。\r\r\n(4316削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264319&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264318",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4318",
-      "title": "コーラル海、海底線回収作業終了",
-      "publishedAt": "2026-10-31T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4318   発表日時:2026年10月31日 20時\r\n\n\r\n★ コーラル海、\r\r\nM/V LAYLAによる海底線回収作業終了。\r\r\n(4145削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264318&LANG=JP"
     },
     {
       "id": "JAPANNW-264317",
@@ -2484,18 +2472,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264199&LANG=JP"
     },
     {
-      "id": "JAPANNW-264194",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4194",
-      "title": "インド東岸、射撃",
-      "publishedAt": "2026-10-24T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4194   発表日時:2026年10月24日 08時\r\n\n\r\n★ インド東岸、射撃、\r\r\n10月25日1831Z-31日1829Z、\r\r\n19-14.6N 084-53.7Eを中心とする半径41海里の円のうち\r\r\n100-180度の扇形海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264194&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264189",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2740,90 +2716,6 @@
       },
       "rawText": "番号:26-4161   発表日時:2026年10月23日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、10月24日、25日、29日-11月1日毎日0030Z-1030Z、\r\r\n(1)17-58.9N 084-11.7E 17-49.5N 083-59.6E\r\r\n   17-49.5N 084-15.7E 17-58.9N 084-27.3E、\r\r\n(2)17-25N 083-41E 17-14N 083-58E\r\r\n   17-31N 084-10E 17-42N 083-53E、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264161&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264155",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4155",
-      "title": "オホーツク海、ミサイル射撃",
-      "publishedAt": "2026-10-22T08:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            142.15,
-            58.733333333333334
-          ],
-          [
-            143.63333333333333,
-            59.3
-          ],
-          [
-            145.41666666666666,
-            58.05
-          ],
-          [
-            144.1,
-            57.516666666666666
-          ],
-          [
-            152,
-            51.916666666666664
-          ],
-          [
-            152.33333333333334,
-            51.916666666666664
-          ],
-          [
-            152.66666666666666,
-            51.666666666666664
-          ],
-          [
-            152.66666666666666,
-            51.5
-          ],
-          [
-            152,
-            51.5
-          ],
-          [
-            152.21666666666667,
-            52.333333333333336
-          ],
-          [
-            152.7,
-            52.5
-          ],
-          [
-            153.21666666666667,
-            51.96666666666667
-          ],
-          [
-            152.71666666666667,
-            51.78333333333333
-          ],
-          [
-            150.96666666666667,
-            52.31666666666667
-          ],
-          [
-            151.9,
-            52.63333333333333
-          ],
-          [
-            152.65,
-            51.833333333333336
-          ],
-          [
-            151.75,
-            51.516666666666666
-          ]
-        ]
-      },
-      "rawText": "番号:26-4155   発表日時:2026年10月22日 08時\r\n\n\r\n★ オホーツク海、\r\r\nミサイル射撃、10月25日2100Z-31日2100Z、\r\r\n(1)58-44N 142-09E 59-18N 143-38E\r\r\n   58-03N 145-25E 57-31N 144-06E、\r\r\n(2)51-55N 152-00E 51-55N 152-20E\r\r\n   51-40N 152-40E 51-30N 152-40E\r\r\n   51-30N 152-00E、 \r\r\n(3)52-20N 152-13E 52-30N 152-42E\r\r\n   51-58N 153-13E 51-47N 152-43E、\r\r\n(4)52-19N 150-58E 52-38N 151-54E\r\r\n   51-50N 152-39E 51-31N 151-45E、\r\r\nで囲まれる各海面。\r\r\n(4154削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264155&LANG=JP"
     },
     {
       "id": "JAPANNW-264142",
