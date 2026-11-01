@@ -103,5 +103,26 @@
       "url": "https://english.news.cn/20261031/a6b1548c869e4c9886099d9a559f5c4f/c.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-01-01",
+    "headline": {
+      "ja": "イスラエル連立協議、統一アラブ会議(ジョイント・リスト)所属議員がアイゼンコット陣営を閣外協力で支持する意向、入閣は求めずと表明",
+      "en": "Israel coalition talks: Joint List MK signals outside support for Eisenkot bloc, says party won't seek cabinet posts"
+    },
+    "summary": {
+      "ja": "Haaretzは11月1日付のライブブログで、統一アラブ会議(ジョイント・リスト)所属の議員が、アイゼンコット氏の野党ブロックを閣外協力の形で支持する意向を示し、同党は入閣(閣僚ポスト)を求めないと表明したと報じたという。ジョイント・リスト議長のユセフ・ジャバリーン氏は10月末、ガザでの軍事作戦・レバノン南部占領への立場の違いから連立には参加できないが、ネタニヤフ首相退陣を目指す政権には閣外から協力しうるとし、支持にあたり複数の条件を示していたという。総選挙(10月27日投票)の最終集計(既報id: 2026-10-30-02)では与党陣営53・野党陣営48・アラブ系政党19議席で過半数(61)に届かず、中央選挙管理委員会による正式確定は11月4日予定という。推測:アラブ系政党の閣外協力の姿勢が明確化すれば、アイゼンコット陣営が過半数(66)を事実上確保しうるが、本稿執筆時点で他の主要メディアによる同日時点の独立した確認は得られていない。[信頼性: 中](Haaretzのライブブログ報道に基づく単一ソース。具体的な議員名・発言内容の全文は本稿執筆時点で確認できていない)",
+      "en": "Haaretz's live blog reported on November 1 that a Joint List member of Knesset signaled the Arab-led alliance would offer outside parliamentary support to Gadi Eisenkot's opposition bloc without seeking cabinet posts for itself. Joint List chairman Yousef Jabareen had said in late October that his party could not join an Eisenkot-led coalition over disagreements on Israel's Gaza campaign and its occupation of southern Lebanon, but that it could back an alternative government from outside parliament under certain conditions aimed at ousting Netanyahu. In the final certified count (previously reported id 2026-10-30-02), the ruling bloc held 53 seats, the Eisenkot-led opposition 48, and Arab parties a record 19, short of the 61-seat majority; official certification by the Central Elections Committee is due November 4. Inference: if outside support from Arab parties firms up, the Eisenkot bloc could effectively reach a working majority (66 seats combined), though this has not been independently corroborated by other major outlets as of this writing. [Reliability: Medium] (Based on a single Haaretz live-blog report; the specific MK's name and the full statement could not be confirmed at the time of writing.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-11-01T05:00:00+00:00",
+    "source": {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article-live/joint-list-mk-vows-to-back-eisenkot-bloc-says-party-wont-demand-cabinet-seats/000001a1-952a-d125-a3b1-f5ee554b0000"
+    },
+    "reliability": "medium"
   }
 ]
