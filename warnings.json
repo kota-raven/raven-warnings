@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-11-01T00:59:45.804Z",
+  "generatedAt": "2026-11-01T07:24:39.139Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 193,
   "warnings": [
+    {
+      "id": "NAVAREA11-260491",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "航路標識",
+      "number": "0491",
+      "title": "シンガポール海峡、孤立障害灯浮標消灯",
+      "publishedAt": "2026-11-01T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0491    発表日時:2026年11月01日 11時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nBATU BERHANTI ISOLATED DANGER MARKS \r\r\nLIGHT BUOY, 01-11.76N 103-52.51E,\r\r\nEXTINGUISHED.\r\r\nCANCEL 0273/26.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260491&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260489",
       "type": "NAVAREA11",
@@ -254,18 +266,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
-      "id": "NAVAREA11-260273",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "航路標識",
-      "number": "0273",
-      "title": "シンガポール海峡、孤立障害灯浮標一時撤去",
-      "publishedAt": "2026-06-21T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0273    発表日時:2026年06月21日 13時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nBATU BERHANTI ISOLATED DANGER MARKS \r\r\nLIGHT BUOY, 01-11.76N 103-52.51E,\r\r\nTEMPORARILY REMOVED.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260273&LANG=JP"
-    },
-    {
       "id": "NAVAREA11-260034",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
@@ -276,6 +276,18 @@
       "geometry": null,
       "rawText": "NO.26-0034    発表日時:2026年01月27日 18時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN TOWING TWELVE CABLES, EACH\r\r\n10050 METRE LONG. UNTIL FURTHER NOTICE.\r\r\nAREA BOUNDED BY 00-10.3S 117-49.0E\r\r\n00-10.3S 117-50.2E 00-52.5S 117-50.2E\r\r\n01-30.6S 117-26.9E 01-33.7S 117-31.8E\r\r\n01-44.2S 117-25.4E 01-50.3S 117-36.3E\r\r\n01-55.3S 117-45.7E 01-23.4S 118-03.7E\r\r\n01-20.8S 117-59.4E 01-16.5S 118-00.7E\r\r\n01-16.5S 118-08.6E 01-33.6S 118-08.6E\r\r\n01-33.6S 118-33.5E 00-47.9S 118-33.7E\r\r\n00-48.0S 118-27.7E 00-14.0N 118-28.0E\r\r\n00-14.0N 118-10.1E 00-31.9N 118-10.1E\r\r\n00-32.0N 117-47.8E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260034&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264320",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "航路標識",
+      "number": "4320",
+      "title": "シンガポール海峡、孤立障害灯浮標消灯",
+      "publishedAt": "2026-11-01T11:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4320   発表日時:2026年11月01日 11時\r\n\n\r\nシンガポール海峡、\r\r\nBATU BERHANTI孤立障害灯浮標(01-11.76N\r\r\n103-52.51E)消灯。\r\r\n(2421削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264320&LANG=JP"
     },
     {
       "id": "JAPANNW-264319",
@@ -318,18 +330,6 @@
       },
       "rawText": "番号:26-4315   発表日時:2026年10月31日 20時\r\n\n\r\n隠岐諸島西、\r\r\n射撃、11月5日(予備6日、10日)0900-2400、\r\r\n36-10N 132-39Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264315&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264314",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4314",
-      "title": "野島埼南、射撃中止",
-      "publishedAt": "2026-10-31T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4314   発表日時:2026年10月31日 20時\r\n\n\r\n野島埼南、\r\r\n射撃中止。\r\r\n(4244削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264314&LANG=JP"
     },
     {
       "id": "JAPANNW-264312",
@@ -3212,18 +3212,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=262464&LANG=JP"
     },
     {
-      "id": "JAPANNW-262421",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "2421",
-      "title": "シンガポール海峡、孤立障害灯浮標一時撤去",
-      "publishedAt": "2026-06-21T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2421   発表日時:2026年06月21日 13時\r\n\n\r\nシンガポール海峡、\r\r\nBATU BERHANTI孤立障害灯浮標(01-11.76N\r\r\n103-52.51E)一時撤去。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=262421&LANG=JP"
-    },
-    {
       "id": "JAPANNW-262420",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -3392,6 +3380,42 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262094",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "2094",
+      "title": "明石海峡航路−阪神港、起重機船えい航",
+      "publishedAt": "2026-11-01T16:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            134.98333333333332,
+            34.61666666666667
+          ],
+          [
+            135.41666666666666,
+            34.55
+          ]
+        ]
+      },
+      "rawText": "番号:26-2094    発表日時:2026年11月01日 16時\r\n\n\r\n明石海峡航路東口-阪神港堺泉北区、\r\r\n曳船(古鷹丸、MMSI 431004984)による\r\r\n起重機船(第50吉田号、長さ110メートル)えい航、\r\r\n明石海峡航路西口(34-37N 134-59E)11月1日\r\r\n1615通過、阪神港泉北区(34-33N 135-25E)\r\r\n1日2100到着予定、\r\r\n速力約5ノット、長さ約240メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262094&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262093",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2093",
+      "title": "宮古島北西、射撃",
+      "publishedAt": "2026-11-01T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2093    発表日時:2026年11月01日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃、11月6日(予備7日)0800-2400、\r\r\n24-56.1N 124-54.3Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262093&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262092",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3444,18 +3468,6 @@
       "geometry": null,
       "rawText": "番号:26-2088    発表日時:2026年10月31日 13時\r\n\n\r\n沖縄島南西、\r\r\n射撃、11月5日0800-2400、25-56.0N \r\r\n127-30.2Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262088&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262087",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2087",
-      "title": "野島埼南、射撃中止",
-      "publishedAt": "2026-10-31T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2087    発表日時:2026年10月31日 13時\r\n\n\r\n野島埼南、\r\r\n射撃中止。\r\r\n(2049削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262087&LANG=JP"
     },
     {
       "id": "NAVTEX-262085",
