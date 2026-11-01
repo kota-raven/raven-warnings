@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-40126",
+    "headline": {
+      "ja": "イランの最高指導者が地理的制限なしでの報復を表明",
+      "en": "イランの最高指導者が地理的制限なしでの報復を表明"
+    },
+    "summary": {
+      "ja": "イランの最高指導者は、どの脅威に対しても地理的制限なしで対抗する用意があると述べた。",
+      "en": "イランの最高指導者は、どの脅威に対しても地理的制限なしで対抗する用意があると述べた。"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-31T13:38:24+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9nUXRUOFUydEdWUGhmcEFKY3FoUHFRdXl0SFZxekNfRTg1R2dSRFJXU2VrU3NxLUZpZ0ZlbnFuc2tNTlNC0gFKQVVfeXFMUERmQzFtSFp1dUdIOGNGbGFaSWljMUhEUndSVm9iRzNKdWdLcGtlTFNJUUFjdkgzeE5rVUJadWxBVWlRdlFmOWEzRWc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_supreme_leader_retaliation"
+  },
+  {
+    "id": "auto-39960",
+    "headline": {
+      "ja": "イエメンの新たな戦闘で290,000人が避難、妊婦がリスク",
+      "en": "イエメンの新たな戦闘で290,000人が避難、妊婦がリスク"
+    },
+    "summary": {
+      "ja": "イエメンの新たな戦闘の勃発により、国連によると290,000人が家を逃れた。妊婦を含む脆弱層が特にリスクにさらされている。",
+      "en": "イエメンの新たな戦闘の勃発により、国連によると290,000人が家を逃れた。妊婦を含む脆弱層が特にリスクにさらされている。"
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-10-31T12:45:49+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_fighting_290k_displaced"
+  },
+  {
+    "id": "auto-40089",
+    "headline": {
+      "ja": "イランの最高指導者が「敵が攻撃を再開すれば」紛争終結時を決定すると表明",
+      "en": "イランの最高指導者が「敵が攻撃を再開すれば」紛争終結時を決定すると表明"
+    },
+    "summary": {
+      "ja": "イランの最高指導者は、敵国が攻撃を再開した場合、テヘランが紛争をいつ終わらせるかを決めると述べた。",
+      "en": "イランの最高指導者は、敵国が攻撃を再開した場合、テヘランが紛争をいつ終わらせるかを決めると述べた。"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-31T12:27:45+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3lvRm53ZU1qaHRnVzJ3UkpYeWxSRWtLUWVUb2xSZDllcEptb3ZpLUxidkJJeDRnUElKdkxMY1djNkdtYnl0Y2hUZkdvRWhnb2Nwbk8tVFdEZHBQaGp2dG9OWE5yQ0VDVUVfX1NQU0FITjN1Ylh4UU9ENDkwRm53QWFQUEVDNzNJSjVaa0Y5RDZnU255Z1RLbkdJUzFRUXEyZG5vZmxiRnlFdGd2VDE1UEpBZ0dQaXo5NUE5Qmg0WkJmUHRPTzFRS3dFNFdTQWxaQ3c?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_supreme_leader_conflict_end"
+  },
+  {
+    "id": "auto-39965",
+    "headline": {
+      "ja": "イランが攻撃を受ければ無制限の報復を警告、仲介者が平和協議を進行",
+      "en": "イランが攻撃を受ければ無制限の報復を警告、仲介者が平和協議を進行"
+    },
+    "summary": {
+      "ja": "イランの最高指導者は、攻撃を受けた場合、テヘランの報復には地理的制限がないと警告した。一方、仲介者らが平和協議の実現を目指している。",
+      "en": "イランの最高指導者は、攻撃を受けた場合、テヘランの報復には地理的制限がないと警告した。一方、仲介者らが平和協議の実現を目指している。"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-31T12:13:42+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_retaliation_warning_unfettered",
+    "severity": 4
+  },
+  {
     "id": "auto-39901",
     "headline": {
       "ja": "イスラエル軍、南レバノンで空襲と機関銃攻撃を実施",
@@ -23,6 +116,30 @@
     "eventKey": "israel_lebanon_military_operations_2026-10-31"
   },
   {
+    "id": "auto-39854",
+    "headline": {
+      "ja": "イランの最高指導者が新たな侵略に対する迅速で決定的な報復を命令",
+      "en": "イランの最高指導者が新たな侵略に対する迅速で決定的な報復を命令"
+    },
+    "summary": {
+      "ja": "イランの最高指導者ハメネイがイラン軍高級指揮官に対し、新たな侵略に対する迅速で強力な報復を地理的制限なしで行うよう命令した。イスラエルの軍事行動への対抗を示唆している。",
+      "en": "イランの最高指導者ハメネイがイラン軍高級指揮官に対し、新たな侵略に対する迅速で強力な報復を地理的制限なしで行うよう命令した。イスラエルの軍事行動への対抗を示唆している。"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-10-31T10:54:00+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86308323/Leader-orders-swift-decisive-response-to-any-new-aggression"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_khamenei_military_response_order",
+    "severity": 4
+  },
+  {
     "id": "auto-39687",
     "headline": {
       "ja": "ガザの子どもたちが学校通学中の爆撃とライフル銃火の危険に直面",
@@ -44,6 +161,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "gaza_children_school_danger_2026-10"
+  },
+  {
+    "id": "auto-39823",
+    "headline": {
+      "ja": "ロシア軍がウクライナの兵站・エネルギー施設を攻撃",
+      "en": "ロシア軍がウクライナの兵站・エネルギー施設を攻撃"
+    },
+    "summary": {
+      "ja": "ロシア軍がウクライナ軍の兵站施設とエネルギーインフラを攻撃した。",
+      "en": "ロシア軍がウクライナ軍の兵站施設とエネルギーインフラを攻撃した。"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-10-31T07:11:45+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rTE1ERlRoTlJqQWpCVWxGZl9TeUhmT3lGaExjMnhkVmVVbi14dzJhaS1hcGlPa0phSU9JblBDMEJhYjhsN1U40gFMQVVfeXFMTXFPbnMxTkp5MWxxZlZEV1lXMm1NcHRSdXQwZXZxVGRwWE0xbV9ldWt1eHpPRVMzWS1haDFXY3kyQXBQa1JucHRmUzVjRg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_logistics_energy_strike"
   },
   {
     "id": "auto-38741",
@@ -182,6 +322,52 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "spain_high_speed_train_collision_2026-10-30"
+  },
+  {
+    "id": "auto-39794",
+    "headline": {
+      "ja": "ウクライナ軍がロシア・サマラ地域の石油精製所を無人機で攻撃",
+      "en": "ウクライナ軍がロシア・サマラ地域の石油精製所を無人機で攻撃"
+    },
+    "summary": {
+      "ja": "ウクライナの無人機がロシアのサマラ地域にある石油精製所を攻撃した。ロシア側の被害報告は未確認。",
+      "en": "ウクライナの無人機がロシアのサマラ地域にある石油精製所を攻撃した。ロシア側の被害報告は未確認。"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 53.2077,
+    "lon": 50.1355,
+    "occurredAt": "2026-10-30T12:46:52+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVBYSHptNGc0WG1qNlpfT1IyTFcxRktReWxBYzh5djZXSUZibVNBSXZwWUVGNXQ5cXREUDFIYS0yTFBEeXV3OV9xaENTdWQ3bElHN0x5em50SXh5RWFKM0NSXzRkYUZUTmUtblkyQXVQUkZhdjhidElTMUFsTVFfcURSLUh3UFgybEM2V3hVRHFLN05tdXRrMHlkT1ZfcUFqOTRyVGdZZ2RJc1I1aGw2U3NUdnFVRDNpOEE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_samara_oil_refinery_strike"
+  },
+  {
+    "id": "auto-39799",
+    "headline": {
+      "ja": "Alphabet（Google）の株価が500B下落、AI検索が広告収入に影響",
+      "en": "Alphabet（Google）の株価が500B下落、AI検索が広告収入に影響"
+    },
+    "summary": {
+      "ja": "Alphabet（Google）の市場価値が500億ドル下落し、AI検索サービスが従来の広告ビジネスに悪影響を与えている。",
+      "en": "Alphabet（Google）の市場価値が500億ドル下落し、AI検索サービスが従来の広告ビジネスに悪影響を与えている。"
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-10-30T11:35:24+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDB4YldrSHVHWFBCTDlLY2FYUGE3US0wbDNTRDNNU01zeEJwcUpNXzNZZ1pIVVhUUUVkQ3ZmX2dVelQycUZRTkVKNkFZZWx0ckhxUGp6ZTJfZnVQTjNFeFJGaGZnWGZsOThrN3pKVkJ5UjZYb3BPdllsdlBNVVJ4WENVNS1Ra29sZzVoVEYzU2M2WHJFNFNrbVJycEs1Mk5HQzNz?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "alphabet_google_stock_collapse_ai_search"
   },
   {
     "id": "auto-38051",
@@ -3147,239 +3333,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_arabia_houthi_interception_2026-10-25"
-  },
-  {
-    "id": "auto-29596",
-    "headline": {
-      "ja": "Muskが、SpaceXのウクライナ向けStarlink接続制限を言及",
-      "en": "Musk says SpaceX restricted Ukraine's Starlink connection"
-    },
-    "summary": {
-      "ja": "テック企業家のMuskは、SpaceXがウクライナによる軍事利用を理由にStarlinksサービスの接続を制限したと述べた。",
-      "en": "Tech billionaire Musk stated that SpaceX restricted Ukraine's Starlink service connection, accusing Ukraine of violating terms of service by using the network for military activity."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-25T09:00:00+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_starlink_spacex_restriction_2026-10-25"
-  },
-  {
-    "id": "auto-29665",
-    "headline": {
-      "ja": "イラン政府が米ドローンの撃墜を発表",
-      "en": "Iran claims to have shot down US drone"
-    },
-    "summary": {
-      "ja": "イラン政府は、同国南部でアメリカの無人機を撃墜したと発表した。",
-      "en": "The Iranian government announced it shot down an American drone in the southern part of the country."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-25T08:16:46+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFJENjlMYWxIUU9NV3E5N2tWbURNU3Y2RHhOV2dvQUpCQW05blNfS3RJWVZQbUF6VnhhLWU3bnl4OVRLVlVoZVk2UDcyMy1PU1o4MUtrNWcxMUpPTDZROGJOQ3lKQ3FidFFtRy15bnZSUF9lQndkTXVhM0NPTW1kTTlHdFNIWWg1TXhCUXlMMklUdE52LVR6d0FCWVZKdzh1?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_southern_us_drone_2026-10-25"
-  },
-  {
-    "id": "auto-29656",
-    "headline": {
-      "ja": "イスラエル軍がヘブロンでパレスチナの家屋を軍事拠点に転用",
-      "en": "Israeli army turns Palestinian homes into military posts in West Bank city of Hebron"
-    },
-    "summary": {
-      "ja": "イスラエル軍は、ウェストバンク地域のヘブロンで、パレスチナ人の家屋を軍事拠点に転用している。",
-      "en": "The Israeli army is converting Palestinian homes into military posts in the West Bank city of Hebron."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-25T04:04:07+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFJQYmVUVVZZNTRhNUhKSTFxZmFQNmpZMjJGeGVYc282NE90WE95QzBQaE9OVTlMVUtSZjVSYkxYcjdKSDhvWU1xSEF6ZUo0UDZaaG9PMll5clRWZUlkN2ZfdjY4alVrUDNPN0VmUVMwWHJNaTlDMkNrb0NvNTk5N2x4elRlRE9uSFFJMklIVVJoZlplc2xaVVNaTlFqYVJXQUJBSlN6VmZsMVNNVGdDRmJlRlVlNkdlYWNDWkdDNmhVa3h3T1g5MQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_westbank_military_occupation_2026-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-29639",
-    "headline": {
-      "ja": "フランス全国での生活費・教育問題デモがパリで警察と衝突",
-      "en": "Protesters clash with police in Paris amid nationwide demonstrations"
-    },
-    "summary": {
-      "ja": "フランス全国で実施された生活費上昇と教育条件に関する抗議デモがパリで警察との衝突に発展した。",
-      "en": "Nationwide demonstrations in France over rising living costs and education conditions resulted in clashes with police in Paris."
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 48.8534,
-    "lon": 2.3488,
-    "occurredAt": "2026-10-25T03:29:28+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOUx5VFdLR0V3NlB4ZXRZNkJob1NOcjlHRGVBX2U5ZkpNZ3VSZXA1OXgwajlrblNvdDNtNjFSN29OcjFBMzJvRXZwZVo5RmJZekw5YmhqR2piamo0ZDNyMEhRUHZIbnJ1X3U1Y04ySlA2SHMzMjRRYk1FRnB3bnAxZ2FBM3dELXdDRVZtRWxSdXJ2N2ZEZnVqZGZYemJLdnExdXJfdGdZYmdlSm5zMmhROWtnaXpPUmNuRVhnUlVBdE53QkVSaW5tdm5mTTRvekp4dWtqV1l5UHE0TVpHZF82ZG54Y0h0SzhWMDZxYjFoRGRuN2cydDA2SzVnTQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "france_nationwide_protest_paris_2026-10-25"
-  },
-  {
-    "id": "auto-29597",
-    "headline": {
-      "ja": "ナイジェリア北東部での武装勢力による襲撃で最低10人が殺害",
-      "en": "Gunmen kill at least 10 villagers in Nigeria's north-east"
-    },
-    "summary": {
-      "ja": "ナイジェリア北東部で武装勢力が村を襲撃し、最低10人が殺害された。当局は死傷者がさらに増える可能性があると警告している。",
-      "en": "Armed gunmen killed at least 10 villagers and looted shops in Nigeria's north-east. Police are searching for other casualties with officials warning the death toll could rise."
-    },
-    "category": "conflict",
-    "country": "ナイジェリア",
-    "lat": 9.0579,
-    "lon": 7.4951,
-    "occurredAt": "2026-10-25T03:20:16+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "nigeria_armed_violence_northeast_2026-10-25"
-  },
-  {
-    "id": "auto-29336",
-    "headline": {
-      "ja": "日本の小笠原諸島近海で大地震",
-      "en": "Magnitude-7.0 earthquake strikes waters near Japan's Ogasawara Islands"
-    },
-    "summary": {
-      "ja": "日本の小笠原諸島近海でマグニチュード7.0の地震が発生した。",
-      "en": "A magnitude-7.0 earthquake struck the waters near Japan's Ogasawara Islands."
-    },
-    "category": "disaster",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-10-25T02:34:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWeFRKU1AwMnBKSjVhcEtiQlhLQTFvMFBJbjY1dHFVenVOTVBfRG1wVHM4NWIwQ1dURlZEblpUX1BobGxtUHVYWWdpcGwwR2NLOXY1V2EyRExMUzZ2VGhHaDR4RG1vYkpuN0NUQjZ3Qmd2WURJeWVmWWplc0U?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "japan_ogasawara_earthquake_2026-10-25",
-    "severity": 4
-  },
-  {
-    "id": "auto-29629",
-    "headline": {
-      "ja": "イスラエル防衛相、ヘブロンでの2000人のパレスチナ人強制退去を認める",
-      "en": "Israeli defense minister admits to forcibly displacing 2,000 Palestinians from Hebron"
-    },
-    "summary": {
-      "ja": "イスラエル防衛相は、ウェストバンク地域のヘブロンで2000人のパレスチナ人を強制的に退去させたことを認めた。",
-      "en": "The Israeli defense minister admitted to forcibly displacing 2,000 Palestinians from homes in the West Bank city of Hebron."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-25T00:51:04+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3lnbm4zUXhRQWxORFpCb0d4VFktN3N4eFR5dXJEaFViNm9wLU1uRXc0b1o5T01mR1AzcGNoUnh5dFJieVVsa1hhTnRvRzZ0Z1IxWHJxLW9kOVZoNEFaZDVucld5cVV4MUhud01sZXdfMktON0ZnbjVjRW9tY2xDRWh2emd4am9yWW9lZDVSSnRIbnIyX3M5RGJUN25USlhNd3VKdW0tTnVRWnFqd0lDamNGMW4wZ1I1dURMcGVqQkZQSXRhRVVmbW5aOE5YRmZYaWNhUlVHZGdxTDZfa2lSR25B?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_palestinians_forced_removal_hebron_2026-10-25",
-    "severity": 4
-  },
-  {
-    "id": "auto-29662",
-    "headline": {
-      "ja": "イスラエル軍がウェストバンクの400ヶ所を襲撃、多数のパレスチナ人を拘束",
-      "en": "Israeli army says it raided 400 sites in West Bank, detained dozens of Palestinians"
-    },
-    "summary": {
-      "ja": "イスラエル軍は、ウェストバンク地域で400ヶ所の襲撃を実施し、数十人のパレスチナ人を拘束したと発表した。",
-      "en": "The Israeli army announced it conducted raids at 400 sites in the West Bank, detaining dozens of Palestinians."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-25T00:49:45+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZGFrLUJtMXdZb2Y0M3BNdjBaUTFmdXNtYTFaUy1uSnNKYjBVU1hlUVRmUmVwTDJ4Z0s4bUNaUUNlOGxoNVVGbzRwUndkbFppWmFYajFWWnI2UURYdG40VUxpOXdYd01nel9nMHlUdTg4N2ZkUmRZd1ZaRENyT2JqeUZpbTBUSVNyLWhWNUxCSTZ6TjhaYm16V3NNQ1ZEOUcyZDVGak9WcTVEWlNqOVhTcHhjU2lBTkV2RzVYd2cwU1ZEMnlVbnc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_westbank_raids_detention_2026-10"
-  },
-  {
-    "id": "auto-29613",
-    "headline": {
-      "ja": "ヨルダン国王とフランス大統領がガザ・ウェストバンク情勢を協議",
-      "en": "King and France president discuss dangerous developments in Gaza and West Bank"
-    },
-    "summary": {
-      "ja": "ヨルダン国王とフランス大統領は、ガザおよびウェストバンク地域における危機的な情勢について協議した。",
-      "en": "The King of Jordan and French president discussed the dangerous developments occurring in Gaza and West Bank regions."
-    },
-    "category": "conflict",
-    "country": "ヨルダン",
-    "lat": 31.9552,
-    "lon": 35.945,
-    "occurredAt": "2026-10-24T23:08:10+00:00",
-    "source": {
-      "name": "ヨルダン 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDJRQWpiNTU3b0lOTWZjc1d6RHM3UmV4QmFsRW1rSk9zc25zZkRseFdPbTctZFRERUpERWR2RWdWeGNxYUJJR3lCMXBJTTg0NnJKME5mLWE4QXNsNURVLTQ3bEVveVJlU3JjTG0talZGR1V6aEh6cHJTTXBycDRobUxZc04wdjF6M25uM1NCazhpQ0NHYWJsak5faFdObHMwbU4zajVSRTI2VkZRUUVmajJMd1ZRNHNjdnk5Zw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_france_gaza_westbank_discussion_2026-10"
-  },
-  {
-    "id": "auto-29672",
-    "headline": {
-      "ja": "イスラエル人権団体、ヘブロンでのイスラエルの行為を「民族浄化」と非難",
-      "en": "Israel carrying out 'ethnic cleansing' in West Bank city of Hebron: Israeli rights group"
-    },
-    "summary": {
-      "ja": "イスラエルの人権団体は、ウェストバンク地域のヘブロンでのイスラエルの行為を「民族浄化」と述べ非難した。",
-      "en": "An Israeli human rights group accused Israel of carrying out 'ethnic cleansing' in the West Bank city of Hebron."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-24T23:00:32+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxtU2RrdnIzR3VSb2lmVVRUSVhHM0EySS1wZ2NiOG9yYUtOYW5ZUF9tazRLQXZLcjczSDlmczY1czBWSU94T2VHWldybVFwNlp2aEEyeHRpLTgtSDJXcFBrVnVlaTVXYTAyYm5mZVRvRmdCZVdWX1Z2czVpVEdySUQzYVFVYk5BYjNUaTlsaEhLSjRZRlFBSzR1T0JYajNMNW5OTWdhNmkwdVZkNFZYc0ZUdE9BQTlOMnMyR2pVanBUNzlwRkpjamJ3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_ethnic_cleansing_hebron_2026-10",
-    "severity": 4
   }
 ]
