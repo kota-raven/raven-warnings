@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-30-01",
-    "headline": {
-      "ja": "米GDP、7-9月期(速報値)は年率3.4%成長 前期の2.2%から加速",
-      "en": "US GDP grows at 3.4% annualized rate in Q3 2026, accelerating from Q2"
-    },
-    "summary": {
-      "ja": "米商務省経済分析局(BEA)は10月29日、2026年7-9月期の実質GDP速報値が前期比年率3.4%増(4-6月期は2.2%増)になったと発表した。個人消費・設備投資・政府支出が押し上げ要因となった一方、輸出(特に石油関連製品)は減少したという。物価動向を示すPCE価格指数は年率2.1%上昇したという。改定値(第2次推計)は11月25日発表予定という。",
-      "en": "The U.S. Commerce Department's Bureau of Economic Analysis reported on Oct 29 that real GDP grew at an annualized rate of 3.4% in Q3 2026, up from 2.2% in Q2. Growth was driven by consumer spending, investment, and government spending, while exports (particularly petroleum-related goods) declined. The PCE price index reportedly rose at a 2.1% annualized rate. The second estimate is due Nov 25."
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-10-29T12:30:00+00:00",
-    "source": {
-      "name": "BEA(米商務省経済分析局)",
-      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-30-02",
     "headline": {
       "ja": "イスラエル中央選管、総選挙の開票完了・最終集計を発表 与党53・野党48・アラブ系19議席で変化なし、正式確定は11月4日",
