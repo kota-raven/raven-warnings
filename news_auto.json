@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-41248",
+    "headline": {
+      "ja": "ガザでのイスラエル攻撃で少なくとも8人が死亡",
+      "en": "At Least Eight Palestinians Killed in Israeli Attacks in Gaza"
+    },
+    "summary": {
+      "ja": "ガザ地区でのイスラエル軍によるドローン攻撃により、4歳を含む少なくとも8人のパレスチナ人が殺害された。",
+      "en": "Israeli drone attacks in the Gaza Strip killed at least eight Palestinians, including a four-year-old."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-01T13:36:16+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_israeli_airstrikes_2026-11-01"
+  },
+  {
+    "id": "auto-40946",
+    "headline": {
+      "ja": "北朝鮮が戦術弾道ミサイル用クラスター弾頭をテスト",
+      "en": "North Korea Tests Tactical Ballistic Missile Cluster Warhead"
+    },
+    "summary": {
+      "ja": "北朝鮮がクラスター弾頭搭載の戦術弾道ミサイルの試験を実施した。",
+      "en": "North Korea conducted a test of tactical ballistic missile with cluster warhead."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-01T04:43:13+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTdjM1VySmNpbDJnRmRTVEt1X2U4NUtBZ0NJYnVqVXowM1BWX2xNNjJrQ0dMd1p0dFRRYV9GVDBrSWV4SFN6MFl3cDNfbEM2ajluVkJNOTFIVEFWem9udFUyeGpaNWNfNmVCSHF4LTJvQjRsOTV1RmVOLW91U1BmdTlJMjBYTElQNjVmcjY4U2ZJa3M0RW5aaU9LRFZ1eWJmMVBNNThMRG0zdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_cluster_bomb_test_2026-11-01"
+  },
+  {
     "id": "auto-40126",
     "headline": {
       "ja": "イランの最高指導者が地理的制限なしでの報復を表明",
@@ -3195,143 +3241,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "trump_iran_deal_or_military_action_2026-10-25"
-  },
-  {
-    "id": "auto-30120",
-    "headline": {
-      "ja": "イエメンで268,000人以上が避難、数千人がジブチに逃げている",
-      "en": "Over 268,000 displaced in Yemen, thousands flee to Djibouti"
-    },
-    "summary": {
-      "ja": "イエメンでの紛争により268,000人以上が避難し、数千人がジブチに逃げている。",
-      "en": "Over 268,000 people have been displaced in Yemen, with thousands fleeing to Djibouti."
-    },
-    "category": "disaster",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-25T14:51:42+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2dFRlc3YmNiSXNqUEdIVzdtTjJyUmhicjN0SVRPQkM4Mnh6T01tR2xqM0c5UVoxREZleXF4Slh5MDEtSzgtTWQxa2NibDVHbEVJdzhwYzZXUURtVmFkY2lCUklrMkpXQWFhelhXM2FyTUhvbnFaQUlkdzN5cU1BYnAxWmJXd1FaaW5NbTh6V1djYU5WeXRvb0U5WTRPbGR3ZldURENpdXh1YjZBN2U1aEl1MVFIYnV4TFY4bGZGWmQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_displacement_crisis_2026-10-25"
-  },
-  {
-    "id": "auto-29845",
-    "headline": {
-      "ja": "フーシ派がサウジ目標への攻撃7件を主張、イエメンへの大規模空爆継続",
-      "en": "Houthis claim 7 attacks on Saudi targets as heavy airstrikes hit Yemen"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派はサウジアラビアの目標に対する7件の攻撃を主張し、同時にイエメンに対するサウジ主導の大規模空爆が続いていると報道されている。",
-      "en": "Houthi forces claim 7 attacks on Saudi targets while Saudi-led coalition continues heavy airstrikes on Yemen."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-25T13:57:17+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MWTJsc01kbUN0RUFQS3gxVEN6LW5tSUZ0bzBPNGtDOHFfRk1zeV9rd1pRMUpLUVZicERfME5kem53Q3JvTXRXV3ViUUlTUGtNZ1lhZTAtUXZYQnpZekxnWGRGS05nM3UzaHZMNGRGS3BCbmpQQkZxeW1Cdlg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_saudi_conflict_2026-10-25"
-  },
-  {
-    "id": "auto-30094",
-    "headline": {
-      "ja": "ナイジェリア・タラバ州の大量殺害事件で死者数増加",
-      "en": "Death toll rises in Nigeria's Taraba massacre"
-    },
-    "summary": {
-      "ja": "ナイジェリア・タラバ州での大量殺害事件で死者数が増加し、住民が逃げている。",
-      "en": "The death toll from a massacre in Nigeria's Taraba state continues to rise as residents flee the area."
-    },
-    "category": "disaster",
-    "country": "ナイジェリア",
-    "lat": 9.0579,
-    "lon": 7.4951,
-    "occurredAt": "2026-10-25T13:46:44+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGx2N3k0TFBFTHZaZWZfV3JzbnVjd1V1WXFyRWQzZVRrT1JxQkxGS0RVSDRldDN4d3ZvbEY2a21Bb0UwVG00RkZtZ1JfZXpBRXVkdDExQUFFN2pjbml6eVk5eXoxcm8wbjhJWF9jNnJYN0ppQ3JVTHV4dEpSdmxzVW5kRUt0UGdHTlRnMkdqUWp0cWxwMXBkUERxVkp5ODdX?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "nigeria_taraba_massacre_2026-10-25"
-  },
-  {
-    "id": "auto-29668",
-    "headline": {
-      "ja": "イラン、米国との戦争後は地域が「変わる」と述べる",
-      "en": "Iran says 'nothing will be same' in region after war with US"
-    },
-    "summary": {
-      "ja": "イランは、米国との戦争の後、地域には何も同じではいられないと述べた。",
-      "en": "Iran stated that nothing will be the same in the region after a war with the US."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-25T12:21:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzN1T3hGZVFOX2R5NHFOS2dHNFNMQTE4elFDcHhYRlFucGU2RVpTS2JnYkhPSEJTSUVYNlRlRnM3c3RMWU9rOFY4enVDVXZEYzZBNjJ6Tl90bG5lek1TSng1dzVBd2NjM2dhLWFaMkR3OURMbWljUjF4eUJCYWZOQXFIT0dYWXFBR3h1a2lKVi02empqWGd6d05wYVhWdTlJZDUtVXVn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_usa_war_statement_2026-10"
-  },
-  {
-    "id": "auto-29281",
-    "headline": {
-      "ja": "アルジェリア上院がニジェールへの軍事派遣を承認",
-      "en": "Algerian parliament's upper house approves troop deployment to Niger"
-    },
-    "summary": {
-      "ja": "アルジェリア議会上院は、隣国ニジェールへの軍隊派遣を承認した。両国間の最近の防衛協定に基づくもの。",
-      "en": "Algeria's parliament upper house approved military troop deployment to Niger following a recent defense pact between the two neighboring countries."
-    },
-    "category": "conflict",
-    "country": "アルジェリア",
-    "lat": 36.7323,
-    "lon": 3.0875,
-    "occurredAt": "2026-10-25T12:19:41+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "algeria_military_niger_deployment_2026-10-25"
-  },
-  {
-    "id": "auto-29287",
-    "headline": {
-      "ja": "サウジアラビア、フーシ派の攻撃を迎撃",
-      "en": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合軍は、リヤドに向けたドローン・ミサイルと南部地域を狙った10発のミサイルを迎撃したと発表した。",
-      "en": "Saudi-led coalition said it intercepted a drone and missile launched towards Riyadh and 10 missiles targeting the southern region."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-25T10:42:51+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_arabia_houthi_interception_2026-10-25"
   }
 ]
