@@ -19,8 +19,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-23T19:35:00Z",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T00:00:00Z",
     "sizeClass": "medium"
   },

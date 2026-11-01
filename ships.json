@@ -72,6 +72,54 @@
     "observedAt": null
   },
   {
+    "id": "2026-11-12-jp-000109",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "護衛艦いせ (Ise)",
+    "shipNumber": null,
+    "shipType": "carrier",
+    "position": {
+      "area": "関東南方海域 (South of Kanto, near Japan)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "日米印豪共同訓練「マラバール2026」に参加予定。米国、インド、オーストラリア海軍との多国間演習",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37340/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "2026-11-12-jp-000110",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "護衛艦もがみ (Mogami)",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "関東南方海域 (South of Kanto, near Japan)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "日米印豪共同訓練「マラバール2026」に参加予定。米国、インド、オーストラリア海軍との多国間演習",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37340/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "2026-10-31-jp-000039",
     "recordType": "individual",
     "country": "JP",
@@ -94,6 +142,54 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-10-30-cn-000112",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "拉薩 (Lasa)",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Miyako Strait / Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦「拉薩」が宮古海峡を南東進し太平洋へ進出",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37324/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-30T00:00:00Z"
+  },
+  {
+    "id": "2026-10-30-cn-000113",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "可可西里湖 (Keke Xili Hu / Xilihu Lake)",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "Miyako Strait / Pacific",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍補給艦「可可西里湖」が宮古海峡を南東進し太平洋へ進出。海自P-3Cが警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37324/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-30T00:00:00Z"
   },
   {
     "id": "2026-10-29-cn-000101",
@@ -333,6 +429,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-28T00:00:00Z"
+  },
+  {
+    "id": "2026-10-28-ru-000111",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "Kareliia",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Tsushima Strait / East China Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍ヴィシニャ級情報収集艦「カレリヤ」が対馬海峡を南西進し東シナ海へ進出。海自掃海艇「ひらしま」等が警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37343/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
@@ -743,8 +863,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1587,8 +1707,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {
@@ -1611,8 +1731,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {
@@ -1635,8 +1755,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {
@@ -1659,8 +1779,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {
@@ -1683,8 +1803,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {
@@ -1707,8 +1827,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {

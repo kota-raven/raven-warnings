@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-10-28-us-000107",
+    "recordType": "individual",
+    "country": "US",
+    "unitName": "Marine Unmanned Aerial Vehicle Squadron 1 (VMU-1)",
+    "unitNumber": null,
+    "aircraftType": "drone",
+    "position": {
+      "area": "Antonio Bautista Air Base, Palawan, Philippines",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海兵隊VMU-1がパラワン州アントニオ・バウティスタ空軍基地を拠点に無人機作戦を展開中。南シナ海のスプラトリー諸島での中国軍の監視能力を強化",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-28T00:00:00Z"
+  },
+  {
+    "id": "2026-10-20-us-000108",
+    "recordType": "individual",
+    "country": "US",
+    "unitName": "Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU)",
+    "unitNumber": null,
+    "aircraftType": "drone",
+    "position": {
+      "area": "Camp Fuji, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "第31海兵遠征部隊がNeros Archerドローンを使用した実弾射撃訓練を富士キャンプで実施。ハンター・キラーチーム向けの攻撃型無人機の実運用テスト",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-20T00:00:00Z"
+  },
+  {
     "id": "2026-10-16-fr-000032",
     "recordType": "aggregate",
     "country": "FR",
