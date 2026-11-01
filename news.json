@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-30-02",
-    "headline": {
-      "ja": "イスラエル中央選管、総選挙の開票完了・最終集計を発表 与党53・野党48・アラブ系19議席で変化なし、正式確定は11月4日",
-      "en": "Israel's Central Elections Committee completes final vote count; ruling bloc 53, opposition 48, Arab parties 19 seats unchanged; official certification due Nov 4"
-    },
-    "summary": {
-      "ja": "Haaretz・Jerusalem Post・Israel National News等によると、イスラエル中央選挙管理委員会(CEC)は10月29日、不在者票を含む総選挙の開票を完了し、最終集計を発表したという。政党別ではリクード27議席・アイゼンコット氏の新党「ヤシャル」21議席・ベネット氏の新党「ベヤハド」12議席・統一アラブ会議11議席などとなり、ネタニヤフ首相陣営(与党ブロック)53議席・アイゼンコット氏陣営(野党ブロック)48議席・アラブ系政党19議席(過去最多)で、本人投票完了時点(既報id: 2026-10-29-02)から議席配分に変化はなかったという。与野党いずれも過半数(61議席)には届かなかったという。CECによる結果の正式確定・ハーツォグ大統領への提出は11月4日に行われる予定という。[信頼性: 高](Haaretz・Jerusalem Post・Israel National Newsなど複数の独立した主要メディアが開票完了・議席配分で一致)",
-      "en": "According to Haaretz, the Jerusalem Post, Israel National News and others, Israel's Central Elections Committee (CEC) completed the vote count, including absentee ballots, on October 29 and released final tallies. By party: Likud 27 seats, Gadi Eisenkot's Yashar 21, Naftali Bennett's Beyachad 12, and the Joint Arab List 11, among others. The ruling (Netanyahu) bloc remained at 53 seats, the opposition (Eisenkot) bloc at 48, and Arab parties at a record 19 seats -- unchanged from the regular-ballot count reported earlier (previously reported id 2026-10-29-02). Neither bloc reached the 61-seat majority needed. Official certification and submission of results to President Herzog is scheduled for November 4. [Reliability: High] (Multiple independent major outlets -- Haaretz, the Jerusalem Post, Israel National News -- agree on the completed count and seat allocation.)"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.0461,
-    "lon": 34.8516,
-    "occurredAt": "2026-10-29T15:00:00+00:00",
-    "source": {
-      "name": "Haaretz / Jerusalem Post / Israel National News",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-30-03",
     "headline": {
       "ja": "日銀、金融政策決定会合で政策金利1.25%を維持",
