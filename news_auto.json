@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-41351",
+    "headline": {
+      "ja": "ゼレンスキー、ロシア軍が10月に54,400人の損失を被ったと主張",
+      "en": "Zelenskyy Claims Russia Lost 54,400 Troops in October"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍が10月に54,400人の兵士が戦死または負傷したと主張している。この数字に関しては第三者による独立検証は未確認である。",
+      "en": "Ukraine's Zelenskyy claims Russia lost record 54,400 troops killed or wounded in October, though third-party verification is not yet confirmed."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-01T16:13:12+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaC1zR3pLaUZDM1J0SVcxc1cyQS0xMl9IQXVCZzF6b3FxUXprblhFVndpbW8yWnVhZVE2YXBQaEc5NnAwd1ZNVVdOcU5CU1VxN2p5QWFtTnBNRDA4V1J0S3hsUHNmdnFpekhzWktjLVl6Y0swYjJsYmFtZzhfOERGLUFWLS1GVVVVNUxHeHdPM3lNNmdUNFgyTklVal9zMUlGZ3hMWTdfQW0tNUJSWXFrOGJobDU3bXVNY0Rj?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "ukraine_russia_military_losses_october_2026"
+  },
+  {
+    "id": "auto-41354",
+    "headline": {
+      "ja": "休戦中のガザシティでイスラエル軍の攻撃で3人が死亡（子ども含む）",
+      "en": "Israeli Attack in Gaza City Kills Three Including Child Despite Ceasefire"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザシティを攻撃し、子ども1人を含む3人が殺害された。この攻撃は休戦中に発生した。",
+      "en": "Israeli attack on Gaza City killed three people including a child during the ceasefire."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-01T15:02:04+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy12WjB1ZTdZSExiSXNPQ1VDdTlUc2RnV2EyMjFBSUQxWE16bm15U0pBZTh2cXNmMy1ZOGU3M1BxOWwybWlJQ0FDUkt4Z2xibjk3LUk4dXBRWEhkMUJLQ2JZWG03OWdMOEJsYVRMVEtNaWxLU3ptcGQ3T05yVTkxMXgtdHZWNzdxdXdNeXRvWGVoTkVFTFZEMkU5M3ZGdEEtdGFGS00wcHZuelQtbFhuT0hSWmFkVWc3TEtxWWJtRQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_gaza_israeli_attack_nov_2026"
+  },
+  {
+    "id": "auto-41244",
+    "headline": {
+      "ja": "イスラエルのガザ攻撃で最低9人が死亡",
+      "en": "Israeli Attacks on Gaza Kill at Least Nine"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザシティとハン・ユーニスを攻撃し、少なくとも9人が殺害された。",
+      "en": "Israeli attacks on Gaza City and Khan Younis killed at least nine people."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-01T14:10:59+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_gaza_israeli_attacks_nov_2026"
+  },
+  {
     "id": "auto-41248",
     "headline": {
       "ja": "ガザでのイスラエル攻撃で少なくとも8人が死亡",
@@ -2640,52 +2709,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "israel_deport_european_parliament_2026-10-26"
-  },
-  {
-    "id": "auto-31167",
-    "headline": {
-      "ja": "イスラエルが選挙後の混乱に備え警察官2万2千人を配備",
-      "en": "Israel deploys 22,000 police officers amid fears of post-election unrest"
-    },
-    "summary": {
-      "ja": "イスラエル政府が選挙後の社会不安に対応するため、警察官2万2千人の配備を計画している。",
-      "en": "Israel plans to deploy 22,000 police officers to manage potential post-election unrest"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-26T09:28:08+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDlTOXdPYU5rdnNFUmdaUEZSWEx1VmZBUFU5RTN1Ny14WXZKU2xlNkR2NDhmeFBnVHJfSGVDMU45MXY3cXFhR0NFR3dFU1BqRDFFUUNabXFab1NtS0JTS3A5U1N0QlhGUEVfSU9FcnlyM19JU1YxcXVpbTZhMUprZ3FZR0swVldJRnVFaS1NNFllRm5EM21HRU4zb0RCM2Z6dS1xNEV6cGVPRVVDNjJJRkVIbnBzU3ctcV9HQkhBeVZzM1pi?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_election_unrest_security_2026-10"
-  },
-  {
-    "id": "auto-31177",
-    "headline": {
-      "ja": "イスラエル軍がガザの難民キャンプを焼き、800人以上のパレスチナ人が家を失う",
-      "en": "Israeli army burns displacement camp in Gaza, leaving 800 Palestinians homeless"
-    },
-    "summary": {
-      "ja": "イスラエル軍がガザの難民キャンプを焼却し、800人以上のパレスチナ人が住まいを失った。",
-      "en": "Israeli military destroys displacement camp in Gaza, displacing over 800 Palestinians"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-26T09:25:07+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVlXZDJQV1ZQOVdHNTJvVlZfTVlaaVBHLTVLdjRhdm1Wd3lfYVJDWWU1OXhzX1M4VTFfMzRTenowSE5SS3JDN0JVZVZJcGRncHBLdEFndFNMUHByNUQ2LTY1VUQzbUs4Zzc1V3lnRnktRDNURXhfSjJXdzN3Q1RaaHp0Tk1pa0hMcE51Z200d1I4T2VKTnIyTXkyUGNjU2JCYTREN3EtOXlRV0R2Q2RmcE1DTGE3Q3NZRGZoQ1RHQ2ZVQQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_camp_burning_displacement_2026-10-26",
-    "severity": 4
   }
 ]
