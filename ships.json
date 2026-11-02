@@ -43,8 +43,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -120,6 +120,54 @@
     "observedAt": null
   },
   {
+    "id": "2026-11-11-jp-000115",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "砕氷艦しらせ",
+    "shipNumber": "AGB-5003",
+    "shipType": "transport",
+    "position": {
+      "area": "横須賀港（神奈川県）",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "第68次南極地域観測協力へ向けて11月11日に横須賀から出航",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37357/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-11T00:00:00Z"
+  },
+  {
+    "id": "2026-11-01-ca-000114",
+    "recordType": "individual",
+    "country": "CA",
+    "shipName": "HMCS Regina",
+    "shipNumber": "FFH-334",
+    "shipType": "frigate",
+    "position": {
+      "area": "呉港（広島県）",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "カナダ海軍ハリファックス級フリゲート「レジャイナ」が11月1日から6日まで呉港に寄港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37358/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-01T00:00:00Z"
+  },
+  {
     "id": "2026-10-31-jp-000039",
     "recordType": "individual",
     "country": "JP",
@@ -142,6 +190,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-10-31-ru-000116",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "情報収集艦カレリヤ",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "対馬海峡～東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍情報収集艦「カレリヤ」が対馬海峡を南西進し東シナ海へ進出、海上自衛隊の掃海艇「ひらしま」等が警戒監視を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37343/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-31T00:00:00Z"
   },
   {
     "id": "2026-10-30-cn-000112",
@@ -190,6 +262,56 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-30T00:00:00Z"
+  },
+  {
+    "id": "2026-10-30-ru-000117",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "RFS Generalissimus Suvorov",
+    "shipNumber": "K-553",
+    "shipType": "submarine",
+    "position": {
+      "area": "樺太東沖（オホーツク海）",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍太平洋艦隊所属の原子力潜水艦「ジェネラリッシムス・スボーロフ」がオホーツク海からRSM-56ブラヴァ潜水艦発射弾道ミサイル（SLBM）を北極地域へ発射",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/30/russia-north-korea-test-missiles-in-the-western-pacific"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-30T00:00:00Z"
+  },
+  {
+    "id": "2026-10-30-us-000118",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": "Theodore Roosevelt Carrier Strike Group",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "日本南西地域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国海軍空母「セオドア・ルーズベルト」（CVN-71）を旗艦とする空母打撃群が、日米共同演習「キーンソード27」（KS27）に参加、日本南西地域で活動。カナダ海軍フリゲート「レジャイナ」と交流実施",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/10/30/usni-news-western-pacific-pulse-oct-30-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": "2026-10-19T00:00:00Z",
+    "periodEnd": "2026-10-30T00:00:00Z"
   },
   {
     "id": "2026-10-29-cn-000101",
@@ -573,8 +695,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -597,8 +719,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -621,8 +743,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -645,8 +767,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1465,8 +1587,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-18T00:00:00Z"
   },
   {
@@ -1489,8 +1611,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-18T00:00:00Z"
   },
   {
@@ -1513,8 +1635,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-16T09:20:00Z"
   },
   {
@@ -1538,7 +1660,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:20:00Z"
   },
   {
@@ -1562,7 +1684,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-16T21:21:12.070205+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:20:00Z"
   },
   {
@@ -1586,7 +1708,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1610,7 +1732,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1634,7 +1756,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-17T21:22:13.618401+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -1657,8 +1779,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -2048,7 +2170,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-13T19:11:00Z"
   },
   {
@@ -2557,8 +2679,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-13T21:21:15.945171+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   }
 ]
