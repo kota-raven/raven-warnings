@@ -63,6 +63,27 @@
     "reliability": "high"
   },
   {
+    "id": "2026-10-31-02",
+    "headline": {
+      "ja": "ルビオ米国務長官、イラン再攻撃は未決定と表明 中間選挙前の再開には否定的な見方も",
+      "en": "Rubio says Trump has not decided on new Iran strikes; several outlets see resumption before US midterms as unlikely"
+    },
+    "summary": {
+      "ja": "ルビオ米国務長官は10月31日(土)、記者団に対し、トランプ大統領はイランへの新たな軍事攻撃再開を決定していないと述べ、「外交的解決があれば歓迎する」と語ったという(Haaretz・Fox News・CBS News等複数メディア)。Fox News・CBS Newsは、トランプ氏が11月3日の米中間選挙前に攻撃を再開する可能性は低いとの見方を伝えたという。一方、Axios(Iran International経由の報道)は、イスラエルのネタニヤフ首相が中間選挙直後の即時攻撃再開をトランプ氏に強く求めていると報じたという。イラン側は、米・イスラエルが新たな攻撃に踏み切れば今後の戦争はより長期化しうると警告したという報道もある。トランプ氏は、残る「1、2か所の標的」への攻撃は「10分で」実行可能と述べたとされる。米・イスラエルとイランの軍事衝突(2026年2月28日開始)は継続中で、ホルムズ海峡の原油・LNG輸送は事実上停止状態にあるという。推測:攻撃再開の時期として中間選挙翌日の11月4日前後を挙げる報道があるが、本稿執筆時点で実施は確定していない。[信頼性: 高](Haaretz・Fox News・CBS News・Islamabad Post等、米政府高官の発言を伝える独立した複数メディアの報道が一致。ネタニヤフ氏がトランプ氏に即時再開を求めているとの部分はAxios発・Iran International経由の伝聞報道で、他メディアでの直接確認はできていない)",
+      "en": "U.S. Secretary of State Marco Rubio told reporters on Saturday, October 31, that President Trump has not decided whether to resume military strikes on Iran, saying the U.S. would welcome a diplomatic solution if one is available, according to Haaretz, Fox News, CBS News and other outlets. Fox News and CBS News reported that a resumption of strikes before the U.S. midterm elections on November 3 appears unlikely. Separately, Axios -- relayed via Iran International -- reported that Israeli Prime Minister Benjamin Netanyahu is pressing Trump to resume strikes immediately after the midterms. Some reports said Iran warned that any new U.S./Israeli attack could lead to a longer war. Trump reportedly said the U.S. could strike the remaining \"one or two\" targets \"in 10 minutes.\" The US-Israel military conflict with Iran, which began February 28, 2026, is ongoing, with the Strait of Hormuz reportedly effectively shut to oil and LNG shipping. Inference: some reports point to around November 4 -- the day after the midterms -- as a possible timing for renewed strikes, but no resumption had been confirmed as of this writing. [Reliability: High] (Multiple independent outlets -- Haaretz, Fox News, CBS News, Islamabad Post -- consistently report the same official statements from U.S. officials. The claim that Netanyahu is pressing for immediate resumption comes via Axios/Iran International and has not been independently confirmed elsewhere.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-10-31T19:00:00+00:00",
+    "source": {
+      "name": "Haaretz(ルビオ米国務長官発言)/Fox News/CBS News",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-31/ty-article/trump-yet-to-decide-on-iran-strikes-u-s-open-to-diplomacy-rubio-says/000001a1-92df-d03f-aded-daff49480000"
+    },
+    "reliability": "high"
+  },
+  {
     "id": "2026-11-01-01",
     "headline": {
       "ja": "イスラエル連立協議、統一アラブ会議(ジョイント・リスト)所属議員がアイゼンコット陣営を閣外協力で支持する意向、入閣は求めずと表明",
@@ -82,5 +103,26 @@
       "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article-live/joint-list-mk-vows-to-back-eisenkot-bloc-says-party-wont-demand-cabinet-seats/000001a1-952a-d125-a3b1-f5ee554b0000"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-01-02",
+    "headline": {
+      "ja": "OPEC+、12月の産油量目標を3か月連続で維持 イラン戦争による供給混乱が背景",
+      "en": "OPEC+ holds December output targets steady for third straight month amid Iran-war supply disruption"
+    },
+    "summary": {
+      "ja": "OPEC+の主要7か国(サウジアラビア・ロシア・イラク・UAE・クウェート・カザフスタン・オマーン)は11月1日のオンライン会合で、12月の産油量目標を9月以来の水準(合計約3100万バレル/日)で維持することを決定したという(Bloomberg・The National・CNBC等複数メディア)。9月・10月・11月に続き3か月連続の目標維持となり、次回会合は11月29日に予定され、2027年の生産枠組みが議題になる見通しという。複数メディアは、2026年2月28日に始まった米・イスラエルとイランの軍事衝突でホルムズ海峡の原油・LNG輸送が事実上停止状態にあり、ペルシャ湾岸の主要産油国の実際の生産量が目標を下回っていることが、目標維持の背景にあると伝えたという。原油価格(北海ブレント)は10月31日(金)の取引で1バレル=113.43ドルで終えたとの報道があり、一時117ドル台後半まで上昇したとする報道もあるなど、具体的な数値には報道間でばらつきがある。個別銘柄や投資判断ではなく、産油国・国際石油市場全体の動向として採用した。[信頼性: 高](Bloomberg・The National・CNBC・Business Standard等、独立した複数の経済メディアがOPEC+発表の内容について一致した報道をしている。ブレント原油の具体的な価格水準は報道間で差異がある)",
+      "en": "The seven core OPEC+ members (Saudi Arabia, Russia, Iraq, the UAE, Kuwait, Kazakhstan and Oman) agreed at an online meeting on November 1 to keep December production targets unchanged at September's level (roughly 31 million barrels per day combined), according to Bloomberg, The National, CNBC and other outlets. This marks the third straight month the targets have been held steady (September, October, November), with the next meeting set for November 29, when the group is expected to discuss its 2027 production framework. Multiple outlets reported that the US-Israel military conflict with Iran, which began February 28, 2026, has effectively shut the Strait of Hormuz to oil and LNG shipping, and that Gulf producers' actual output is running below their targets -- a key reason cited for holding the targets steady. Brent crude reportedly settled at $113.43 a barrel on Friday, October 31, with some reports saying it briefly touched the high-$117 range; figures vary somewhat between outlets. Treated here as a development affecting oil-producing countries and the global oil market as a whole, not as guidance for individual stock or commodity investment. [Reliability: High] (Multiple independent outlets -- Bloomberg, The National, CNBC, Business Standard and others -- consistently report the same OPEC+ announcement; exact Brent price levels vary slightly between reports.)"
+    },
+    "category": "economy",
+    "country": "サウジアラビア",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "occurredAt": "2026-11-01T11:00:00+00:00",
+    "source": {
+      "name": "Bloomberg/The National/CNBC(OPEC+発表)",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/01/opec-holds-december-oil-output-targets-steady-as-iran-war-disrupts-supply/"
+    },
+    "reliability": "high"
   }
 ]
