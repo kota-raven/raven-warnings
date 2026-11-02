@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T23:30:45.742Z",
+  "generatedAt": "2026-11-02T05:50:06.095Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 187,
+  "count": 186,
   "warnings": [
     {
       "id": "NAVAREA11-260491",
@@ -3222,28 +3222,28 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-262094",
+      "id": "NAVTEX-262096",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "2094",
-      "title": "明石海峡航路−阪神港、起重機船えい航",
-      "publishedAt": "2026-11-01T16:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            134.98333333333332,
-            34.61666666666667
-          ],
-          [
-            135.41666666666666,
-            34.55
-          ]
-        ]
-      },
-      "rawText": "番号:26-2094    発表日時:2026年11月01日 16時\r\n\n\r\n明石海峡航路東口-阪神港堺泉北区、\r\r\n曳船(古鷹丸、MMSI 431004984)による\r\r\n起重機船(第50吉田号、長さ110メートル)えい航、\r\r\n明石海峡航路西口(34-37N 134-59E)11月1日\r\r\n1615通過、阪神港泉北区(34-33N 135-25E)\r\r\n1日2100到着予定、\r\r\n速力約5ノット、長さ約240メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262094&LANG=JP"
+      "category": "訓練試験",
+      "number": "2096",
+      "title": "塩屋埼東南東、射撃",
+      "publishedAt": "2026-11-02T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2096    発表日時:2026年11月02日 13時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃、11月7日(予備8日)0830-2400、\r\r\n36-55.8N 141-17.0Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262096&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262095",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2095",
+      "title": "若狭湾、射撃終了",
+      "publishedAt": "2026-11-02T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2095    発表日時:2026年11月02日 13時\r\n\n\r\n若狭湾、\r\r\n射撃終了。\r\r\n(2048削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262095&LANG=JP"
     },
     {
       "id": "NAVTEX-262093",
@@ -3256,18 +3256,6 @@
       "geometry": null,
       "rawText": "番号:26-2093    発表日時:2026年11月01日 13時\r\n\n\r\n宮古島北西、\r\r\n射撃、11月6日(予備7日)0800-2400、\r\r\n24-56.1N 124-54.3Eを中心とする\r\r\n半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262093&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262092",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "海洋施設",
-      "number": "2092",
-      "title": "甑島列島南西、船舶間貨物油積替作業終了",
-      "publishedAt": "2026-11-01T05:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2092    発表日時:2026年11月01日 05時\r\n\n\r\n甑島列島南西、\r\r\nYIANNIS LATSISによる船舶間貨物油積替作業終了。\r\r\n(2061削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262092&LANG=JP"
     },
     {
       "id": "NAVTEX-262091",
@@ -3818,18 +3806,6 @@
       },
       "rawText": "番号:26-2050    発表日時:2026年10月28日 13時\r\n\n\r\n壱岐島北、\r\r\n射撃、11月2日0900-2400、\r\r\n34-07N 129-47Eを中心とする半径7海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262050&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262048",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2048",
-      "title": "若狭湾、射撃",
-      "publishedAt": "2026-10-28T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2048    発表日時:2026年10月28日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、11月2日(予備3日)0900-2400、\r\r\n35-54.5N 135-42.4Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262048&LANG=JP"
     },
     {
       "id": "NAVTEX-262042",
