@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-30-04",
-    "headline": {
-      "ja": "ユーロ圏、7-9月期GDP速報値は前期比0.4%増 独0.2%増・仏0.1%減",
-      "en": "Eurozone Q3 2026 GDP grows 0.4% q/q; Germany +0.2%, France -0.1%"
-    },
-    "summary": {
-      "ja": "欧州連合統計局(Eurostat)は10月30日、2026年7-9月期のユーロ圏実質GDP速報値(速報、暫定)を発表し、前期比0.4%増(4-6月期の0.6%増から減速)になったという。EU全体では0.5%増(前期0.7%から減速)だったという。前年同期比はユーロ圏1.3%増・EU1.5%増だったという。主要国ではドイツが0.2%増(前期0.3%から減速)、フランスが0.1%減(前期は横ばい)、イタリアは横ばい(前期0.2%増)、スペインは0.6%増(前期0.7%から減速)だったという。確定値は11月13日発表予定という。個別銘柄の投資判断ではなく、ユーロ圏・EU経済全体の動きとして採用した。",
-      "en": "Eurostat reported on October 30 that preliminary flash estimates show euro area real GDP grew 0.4% quarter-on-quarter in Q3 2026 (July-September), slowing from 0.6% in Q2, while EU-wide GDP rose 0.5% (down from 0.7%). Year-on-year growth was 1.3% for the euro area and 1.5% for the EU. Among major members, Germany grew 0.2% (down from 0.3%), France contracted 0.1% (flat previously), Italy was flat (vs. +0.2%), and Spain grew 0.6% (down from 0.7%). A fuller estimate is due November 13."
-    },
-    "category": "economy",
-    "country": "EU",
-    "lat": 50.5039,
-    "lon": 4.4699,
-    "occurredAt": "2026-10-30T10:00:00+00:00",
-    "source": {
-      "name": "Eurostat",
-      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-31-01",
     "headline": {
       "ja": "中国10月製造業PMI、49.3に低下 7か月連続で好不況の境目(50)を下回る",
@@ -101,6 +80,49 @@
     "source": {
       "name": "Bloomberg/The National/CNBC(OPEC+発表)",
       "url": "https://www.thenationalnews.com/business/energy/2026/11/01/opec-holds-december-oil-output-targets-steady-as-iran-war-disrupts-supply/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-30-05",
+    "headline": {
+      "ja": "フィリピン・マヨン山が噴火、警戒レベル3に引き上げ アルバイ州で2,041人避難",
+      "en": "Philippines' Mayon Volcano erupts; alert raised to Level 3, 2,041 evacuated in Albay"
+    },
+    "summary": {
+      "ja": "フィリピン火山地震研究所(Phivolcs)は10月30日(金)、アルバイ州のマヨン山で噴火活動が高まったとして、警戒レベルを3(今後数日から数週間での爆発的噴火の可能性が切迫)に引き上げたという(Philstar等)。山頂火口からは高さ約3キロメートルの噴煙が上がったと伝えられ、アルバイ州当局は危険区域内の住民2,041人を避難させたという。Phivolcsは降灰のほか、降雨時に火山砕屑物を含む土石流(ラハール)が山麓の河川沿いで発生する恐れがあるとして注意を呼びかけているという。マヨン山は過去にも繰り返し噴火を起こしてきた国内で最も活発な火山の一つという。[信頼性: 高](Philstar、Phivolcs発表に基づく報道)",
+      "en": "The Philippine Institute of Volcanology and Seismology (Phivolcs) reportedly raised Mayon Volcano's alert status to Level 3 on Friday, October 30, citing heightened eruptive activity, meaning a hazardous explosive eruption is possible within days to weeks, according to Philstar. An ash column roughly 3 kilometers high was reported rising from the summit crater, and Albay provincial authorities evacuated 2,041 residents from the danger zone. Phivolcs reportedly warned of possible ashfall as well as lahars (volcanic mudflows) along river channels draining the volcano's slopes during rainfall. Mayon is one of the Philippines' most active volcanoes, with a long history of repeated eruptions. [Reliability: High] (Based on Philstar reporting citing Phivolcs announcements.)"
+    },
+    "category": "disaster",
+    "country": "フィリピン",
+    "region": "アルバイ州",
+    "lat": 13.1391,
+    "lon": 123.5729,
+    "occurredAt": "2026-10-30T23:00:00+00:00",
+    "source": {
+      "name": "Philstar/Phivolcs",
+      "url": "https://www.philstar.com/nation/2026/10/31/2566927/mayon-volcano-eruption-displaces-over-2000-residents-albay"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-10-30-06",
+    "headline": {
+      "ja": "イスラエル総選挙、リクードが「アラブ政党に選挙を盗まれた」と主張 シンベトが外国資金疑惑を捜査",
+      "en": "Israel election: Likud claims vote 'stolen' by Arab parties as Shin Bet probes alleged foreign funding"
+    },
+    "summary": {
+      "ja": "10月27日投票のイスラエル総選挙でネタニヤフ首相率いるリクード陣営が過半数を失う結果となったことを受け、同党は証拠を示さずに、アラブ系政党(統一アラブ会議・ラアム等)が外国からの資金提供・買収によって「選挙を盗んだ」と主張したという(Axios・ITV News・CBS News等)。中央選挙管理委員会のソールバーグ委員長(最高裁判事)は、カタールなどからの資金がアラブ系有権者の投票行動に影響を与えた疑いについて、シンベト(イスラエル総保安庁)のツィニ長官に捜査を指示し、モサドも支援しているとの報道もあるという。カタール政府は介入を否定し「馬鹿げた危険な主張」と反論したという。南部ネゲブ地区では投票日に買収の疑いで複数人が逮捕され、その後数人は自宅拘束に切り替えられたという。選挙管理委員会側は「組織的な選挙不正の根拠は確認されていない」との見解を示す一方、リクードは不正の疑いがある投票所での再投票を要求しているという。公式な最終確定は11月4日の予定という。推測:捜査の結論次第で連立協議・政権移行の時期に影響する可能性があるが、本稿執筆時点で捜査は結論に至っていない。[信頼性: 高](Axios・ITV News・CBS News・PBS・Ynetnews等、複数の独立したメディアが選挙管理委員会・シンベトの対応について一致した報道をしている。具体的な資金額や関与国の範囲は報道間で差異があり未確定)",
+      "en": "After Prime Minister Netanyahu's Likud-led bloc lost its parliamentary majority in the October 27 election, the party reportedly claimed without evidence that Arab-led parties (the Joint List, Ra'am, etc.) had 'stolen' the vote through foreign funding and vote-buying, according to Axios, ITV News, CBS News and others. Central Elections Committee chairman and Supreme Court Justice Noam Sohlberg reportedly instructed Shin Bet chief David Zini to investigate suspected foreign funding, potentially from Qatar, aimed at influencing Arab voter turnout, with some reports saying Mossad is also assisting. Qatar denied any interference, calling the claims 'ridiculous and dangerous.' Several people were reportedly arrested on election day in the southern Negev region on suspicion of vote-buying, with some later released to house arrest. Election officials reportedly said there was no evidence of systematic fraud, while Likud is reportedly demanding revotes at polling stations it suspects were affected. Official certification of the results is due November 4. Inference: the outcome of the investigation could affect the timing of coalition talks and a government transition, but the probe had not concluded as of this writing. [Reliability: High] (Multiple independent outlets -- Axios, ITV News, CBS News, PBS, Ynetnews and others -- consistently report the same official response from the Election Committee and Shin Bet; the exact scale of alleged funding and the countries involved vary between reports and remain unconfirmed.)"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "occurredAt": "2026-10-30T18:00:00+00:00",
+    "source": {
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results"
     },
     "reliability": "high"
   }
