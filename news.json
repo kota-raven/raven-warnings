@@ -104,26 +104,5 @@
       "url": "https://www.philstar.com/nation/2026/10/31/2566927/mayon-volcano-eruption-displaces-over-2000-residents-albay"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-10-30-06",
-    "headline": {
-      "ja": "イスラエル総選挙、リクードが「アラブ政党に選挙を盗まれた」と主張 シンベトが外国資金疑惑を捜査",
-      "en": "Israel election: Likud claims vote 'stolen' by Arab parties as Shin Bet probes alleged foreign funding"
-    },
-    "summary": {
-      "ja": "10月27日投票のイスラエル総選挙でネタニヤフ首相率いるリクード陣営が過半数を失う結果となったことを受け、同党は証拠を示さずに、アラブ系政党(統一アラブ会議・ラアム等)が外国からの資金提供・買収によって「選挙を盗んだ」と主張したという(Axios・ITV News・CBS News等)。中央選挙管理委員会のソールバーグ委員長(最高裁判事)は、カタールなどからの資金がアラブ系有権者の投票行動に影響を与えた疑いについて、シンベト(イスラエル総保安庁)のツィニ長官に捜査を指示し、モサドも支援しているとの報道もあるという。カタール政府は介入を否定し「馬鹿げた危険な主張」と反論したという。南部ネゲブ地区では投票日に買収の疑いで複数人が逮捕され、その後数人は自宅拘束に切り替えられたという。選挙管理委員会側は「組織的な選挙不正の根拠は確認されていない」との見解を示す一方、リクードは不正の疑いがある投票所での再投票を要求しているという。公式な最終確定は11月4日の予定という。推測:捜査の結論次第で連立協議・政権移行の時期に影響する可能性があるが、本稿執筆時点で捜査は結論に至っていない。[信頼性: 高](Axios・ITV News・CBS News・PBS・Ynetnews等、複数の独立したメディアが選挙管理委員会・シンベトの対応について一致した報道をしている。具体的な資金額や関与国の範囲は報道間で差異があり未確定)",
-      "en": "After Prime Minister Netanyahu's Likud-led bloc lost its parliamentary majority in the October 27 election, the party reportedly claimed without evidence that Arab-led parties (the Joint List, Ra'am, etc.) had 'stolen' the vote through foreign funding and vote-buying, according to Axios, ITV News, CBS News and others. Central Elections Committee chairman and Supreme Court Justice Noam Sohlberg reportedly instructed Shin Bet chief David Zini to investigate suspected foreign funding, potentially from Qatar, aimed at influencing Arab voter turnout, with some reports saying Mossad is also assisting. Qatar denied any interference, calling the claims 'ridiculous and dangerous.' Several people were reportedly arrested on election day in the southern Negev region on suspicion of vote-buying, with some later released to house arrest. Election officials reportedly said there was no evidence of systematic fraud, while Likud is reportedly demanding revotes at polling stations it suspects were affected. Official certification of the results is due November 4. Inference: the outcome of the investigation could affect the timing of coalition talks and a government transition, but the probe had not concluded as of this writing. [Reliability: High] (Multiple independent outlets -- Axios, ITV News, CBS News, PBS, Ynetnews and others -- consistently report the same official response from the Election Committee and Shin Bet; the exact scale of alleged funding and the countries involved vary between reports and remain unconfirmed.)"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.0461,
-    "lon": 34.8516,
-    "occurredAt": "2026-10-30T18:00:00+00:00",
-    "source": {
-      "name": "Axios",
-      "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results"
-    },
-    "reliability": "high"
   }
 ]
