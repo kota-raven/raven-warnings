@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-31-01",
-    "headline": {
-      "ja": "中国10月製造業PMI、49.3に低下 7か月連続で好不況の境目(50)を下回る",
-      "en": "China's October manufacturing PMI falls to 49.3, 7th straight month below the 50 growth threshold"
-    },
-    "summary": {
-      "ja": "中国国家統計局(NBS)は10月31日、2026年10月の製造業PMI(購買担当者指数)が49.3になったと発表したという。9月の50.1から0.8ポイント低下し、市場予想(ブルームバーグ調査で49.9前後)も下回り、7月以来の低水準になったという。非製造業PMIは49.7(前月から0.5ポイント低下)だったという。新華社によると、NBSの霍麗萎氏は国慶節(建国記念日)連休前の需要の前倒しや海外受注の下押しなど季節的要因が主因と説明したという一方、別の報道では国際環境の影響も挙げたとされる。業種別ではハイテク製造業(51.3)・設備製造業(50.6)が好調を維持した一方、中小企業(中堅48.4・小規模47.5)の弱さが目立ったという。中国経済全体の動向として採用し、個別銘柄の投資判断とは無関係。[信頼性: 高](China-Global South Project・Business Today・新華社(Xinhua)・Shanghai Metals Market・Newsquawk等、国家統計局発表を引用する複数の独立した報道で数値が一致)",
-      "en": "China's National Bureau of Statistics (NBS) reportedly announced on October 31 that the official manufacturing PMI for October 2026 came in at 49.3, down 0.8 points from September's 50.1 and below market expectations (around 49.9 in a Bloomberg survey) -- its lowest level since July. The non-manufacturing PMI was reportedly 49.7, down 0.5 points. According to Xinhua, NBS statistician Huo Lihui attributed the decline mainly to seasonal factors, including demand pulled forward ahead of the National Day holiday and softer overseas orders, while another report also cited the international environment. By sector, high-tech manufacturing (51.3) and equipment manufacturing (50.6) reportedly stayed in expansion, while medium-sized (48.4) and small (47.5) firms were notably weaker. Treated here as a China-wide economic indicator, not as guidance for individual stock investment. [Reliability: High] (Figures are consistent across multiple independent reports -- China-Global South Project, Business Today, Xinhua, Shanghai Metals Market/SMM, Newsquawk and others -- all citing the NBS release.)"
-    },
-    "category": "economy",
-    "country": "中国",
-    "lat": 35.8617,
-    "lon": 104.1954,
-    "occurredAt": "2026-10-31T01:30:00+00:00",
-    "source": {
-      "name": "中国国家統計局(NBS)/新華社(Xinhua)",
-      "url": "https://english.news.cn/20261031/a6b1548c869e4c9886099d9a559f5c4f/c.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-10-31-02",
     "headline": {
       "ja": "ルビオ米国務長官、イラン再攻撃は未決定と表明 中間選挙前の再開には否定的な見方も",
@@ -84,25 +63,68 @@
     "reliability": "high"
   },
   {
-    "id": "2026-10-30-05",
+    "id": "2026-11-03-01",
     "headline": {
-      "ja": "フィリピン・マヨン山が噴火、警戒レベル3に引き上げ アルバイ州で2,041人避難",
-      "en": "Philippines' Mayon Volcano erupts; alert raised to Level 3, 2,041 evacuated in Albay"
+      "ja": "米、湾岸同盟国に11月4日以降のイラン再攻撃の可能性を警告 ネタニヤフ氏は即時再開を要求と報道",
+      "en": "US reportedly warns Gulf allies of possible Iran strikes as soon as Nov. 4, as Netanyahu presses for resumption"
     },
     "summary": {
-      "ja": "フィリピン火山地震研究所(Phivolcs)は10月30日(金)、アルバイ州のマヨン山で噴火活動が高まったとして、警戒レベルを3(今後数日から数週間での爆発的噴火の可能性が切迫)に引き上げたという(Philstar等)。山頂火口からは高さ約3キロメートルの噴煙が上がったと伝えられ、アルバイ州当局は危険区域内の住民2,041人を避難させたという。Phivolcsは降灰のほか、降雨時に火山砕屑物を含む土石流(ラハール)が山麓の河川沿いで発生する恐れがあるとして注意を呼びかけているという。マヨン山は過去にも繰り返し噴火を起こしてきた国内で最も活発な火山の一つという。[信頼性: 高](Philstar、Phivolcs発表に基づく報道)",
-      "en": "The Philippine Institute of Volcanology and Seismology (Phivolcs) reportedly raised Mayon Volcano's alert status to Level 3 on Friday, October 30, citing heightened eruptive activity, meaning a hazardous explosive eruption is possible within days to weeks, according to Philstar. An ash column roughly 3 kilometers high was reported rising from the summit crater, and Albay provincial authorities evacuated 2,041 residents from the danger zone. Phivolcs reportedly warned of possible ashfall as well as lahars (volcanic mudflows) along river channels draining the volcano's slopes during rainfall. Mayon is one of the Philippines' most active volcanoes, with a long history of repeated eruptions. [Reliability: High] (Based on Philstar reporting citing Phivolcs announcements.)"
+      "ja": "ワシントンは、トランプ大統領が中間選挙(11月3日)前の攻撃再開を行わないとした公約が同日で期限を迎えることを踏まえ、湾岸地域の複数の同盟国に対し、翌11月4日以降に短期間・高強度のイラン再攻撃が行われる可能性があると伝えたという(The Times of Israel・NewsNation・Ynet News等、複数のメディアがMS NOW発として報道)。湾岸当局者3名の話として、作戦は「短時間だが強度の高いもの」で数日間に及ぶ可能性があるとされ、一部当局者はイランによる湾岸のエネルギー施設等への報復を懸念しているという。イスラエルのネタニヤフ首相は中間選挙直後の攻撃再開をトランプ氏に強く求めているとされる一方、トランプ氏は最終決定をしていないという(既報id:2026-10-31-02の続報)。カタールを通じた対イラン外交協議も並行して続いているという。推測:実際に11月4日に攻撃が開始されるかは本稿執筆時点で確定していない。[信頼性: 中](The Times of Israel・NewsNation・Ynet News等、複数の独立したメディアが報道しているが、いずれも同一の一次情報源〔湾岸当局者3名〕に基づくMS NOW発の報道であり、別系列の独立した裏付けは確認できていない)",
+      "en": "Washington reportedly told several Gulf allies that a short, intense round of renewed strikes on Iran could begin as soon as November 4 -- the day after the US midterm elections -- once President Trump's pledge not to strike before the vote expires, according to The Times of Israel, NewsNation, Ynet News and others, citing a report originating with MS NOW. Three senior Gulf Arab officials reportedly described the planned operation as brief but intense, possibly lasting several days, and some officials said they worry about Iranian retaliation against Gulf energy infrastructure. Israeli PM Netanyahu is said to be pressing Trump to resume strikes immediately after the midterms, while Trump has reportedly not made a final decision (a continuation of previously reported id 2026-10-31-02). Qatari-mediated diplomacy with Iran is said to be continuing in parallel. Inference: whether strikes actually begin on November 4 remained unconfirmed at the time of writing. [Reliability: Medium] (Multiple independent outlets -- The Times of Israel, NewsNation, Ynet News and others -- relay the same MS NOW-originated report, which traces to the same three Gulf officials; no independently sourced corroboration via a separate reporting chain was found.)"
     },
-    "category": "disaster",
-    "country": "フィリピン",
-    "region": "アルバイ州",
-    "lat": 13.1391,
-    "lon": 123.5729,
-    "occurredAt": "2026-10-30T23:00:00+00:00",
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-11-02T20:00:00+00:00",
     "source": {
-      "name": "Philstar/Phivolcs",
-      "url": "https://www.philstar.com/nation/2026/10/31/2566927/mayon-volcano-eruption-displaces-over-2000-residents-albay"
+      "name": "The Times of Israel/NewsNation/Ynet News(MS NOW発報道)",
+      "url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-11-03-02",
+    "headline": {
+      "ja": "ロシア軍、キーウ州などのエネルギー施設にドローン攻撃 緊急停電 ゼレンスキー氏はロシアによる大規模攻撃計画を警告と報道",
+      "en": "Russian drones reportedly hit energy facilities in Kyiv region; emergency power cuts as Zelensky warns of planned \"massive attack\""
+    },
+    "summary": {
+      "ja": "ウクライナでは11月2日、ロシア軍のドローン攻撃でキーウ州など複数地域のエネルギー施設が損傷し、キーウ市を含む複数地域で緊急停電が実施されたという(Ukrinform)。キーウ州軍政当局者によると、ビラツェルクヴァ地区のエネルギー施設がドローン攻撃で損傷し、同攻撃で女性1人が負傷したという。国営送電会社ウクレネルゴは、電力系統が安定すれば停電を解除するとしているという。ゼレンスキー大統領は同日、ロシアがウクライナのエネルギー・物流インフラに対する「大規模な攻撃」を準備しているとの見方を示したという。ウクライナ側はエネルギー施設への相互攻撃停止(停戦)を支持する立場を示しているが、ロシア側はこれに応じていないという。推測:ゼレンスキー氏の言う「大規模な攻撃」が実際にいつ・どの規模で行われるかは本稿執筆時点で確定していない。[信頼性: 高](Ukrinform、ウクライナ政府当局者の発言に基づく報道)",
+      "en": "On November 2, Russian drone strikes reportedly damaged energy facilities in Kyiv region and several other Ukrainian regions, triggering emergency power cuts in Kyiv city and other areas, according to Ukrinform. A Kyiv regional military administration official said a drone strike damaged an energy facility in the Bila Tserkva district and injured one woman. State grid operator Ukrenergo said outages would be lifted once the system stabilizes. President Zelensky reportedly said the same day that Russia is preparing a \"massive attack\" on Ukraine's energy and logistics infrastructure. Ukraine says it supports a mutual halt to strikes on energy facilities, but Russia has not agreed, according to the report. Inference: the timing and scale of the warned \"massive attack\" remained unconfirmed at the time of writing. [Reliability: High] (Based on Ukrinform reporting citing Ukrainian government officials.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ州",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-11-02T12:00:00+00:00",
+    "source": {
+      "name": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4180200-russian-drone-attacks-damage-energy-facilities-in-kyiv-region-injure-woman.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-03-03",
+    "headline": {
+      "ja": "米国株急落・金価格も下落 12月FOMCでの追加利上げ観測が重荷に",
+      "en": "US stocks tumble and gold falls as traders price in possible December Fed rate hike"
+    },
+    "summary": {
+      "ja": "11月2日、米国市場では12月の米連邦公開市場委員会(FOMC、12月8〜9日開催予定)で追加利上げが決定されるとの観測が強まり、ナスダック総合指数が2.9%下落したという(Rio Times Online)。金価格(スポット)も利上げ観測を背景に3.31%下落し、1オンス=3,875ドルとなったという。米連邦準備制度理事会(FRB)は10月のFOMCで、前月(9月)の利上げ後、政策金利を3.75〜4.00%で維持することを決定していたが、リサ・クック理事とクリーブランド連銀のベス・ハマック総裁は0.25%の追加利上げを主張して反対票を投じていたという。市場予測(Polymarket・CME FedWatch等)では、12月会合での0.25%利上げの確率が7〜8割程度とされているという。次の重要な指標として11月6日の雇用統計が注目されているという。個別銘柄の投資判断としてではなく、米国経済・市場全体の動向として採用した。[信頼性: 中](Rio Times Online〔11月2日付グローバル経済ブリーフィング〕の報道に基づく。具体的な変動率・金価格の数値は同記事の報道によるもので、他の主要経済メディアによる独立した裏付けは本稿執筆時点で確認できていない)",
+      "en": "On November 2, the Nasdaq Composite fell 2.9% amid growing expectations that the Federal Reserve will raise interest rates again at its December 8-9 FOMC meeting, according to a Rio Times Online economic briefing. Spot gold also fell 3.31% to $3,875 an ounce on the same rate-hike expectations. The Fed had held its policy rate at 3.75%-4.00% at its October meeting following a September hike, with Governor Lisa Cook and Cleveland Fed President Beth Hammack dissenting in favor of an additional quarter-point hike. Prediction markets (Polymarket, CME FedWatch) reportedly put the odds of a December quarter-point hike at roughly 70-85%. The November 6 jobs report is cited as the next key data point. Treated here as a US-wide economic and market development, not as guidance for individual stock investment. [Reliability: Medium] (Based on a Rio Times Online briefing dated November 2; the specific percentage moves and gold price have not been independently corroborated by other major financial outlets as of this writing.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-02T21:00:00+00:00",
+    "source": {
+      "name": "Rio Times Online",
+      "url": "https://riotimesonline.com/global-economy-briefing-november-2-2026"
+    },
+    "reliability": "medium"
   }
 ]
