@@ -1,5 +1,307 @@
 [
   {
+    "id": "auto-41907",
+    "headline": {
+      "ja": "メラニア・トランプ氏がアレシキ任務の成功を表明、ロシアとウクライナに感謝",
+      "en": "Melania Trump calls mission in Oleshky successful, expresses gratitude to Russia, Ukraine"
+    },
+    "summary": {
+      "ja": "メラニア・トランプ氏はアレシキでの任務が成功裏に終わったと述べ、この成果に対するロシアとウクライナの協力に感謝の意を示した。",
+      "en": "Melania Trump states the mission in Oleshky was successful and expresses gratitude to Russia and Ukraine for their cooperation."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 46.6255,
+    "lon": 32.7243,
+    "occurredAt": "2026-11-02T04:50:56+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE95Vkc0Wm5IOFdaWU5KNEdUaWg0VnZQR2dNOThsTS1SVHYteGZ0QVJOTHJYbW84dFp0cEdRX1BOdzV3Tl810gFKQVVfeXFMT21TY2NKaUtKTVlUSjlYNXZqRy1abjhkN2ZETFpmRGk2U3pybjlMM1JwLXA1cHJFYzJadTRLNl9kckhrdDZIbVJVakE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_oleshky_ceasefire_evacuation_2026-11"
+  },
+  {
+    "id": "auto-41911",
+    "headline": {
+      "ja": "トランプ氏が米国中間選挙直後のイラン攻撃再開を否定",
+      "en": "Trump doesn't intend to resume strikes against Iran right after midterm elections"
+    },
+    "summary": {
+      "ja": "トランプ氏は、アメリカの中間選挙直後のイランに対する軍事攻撃の再開は予定していないと述べた。",
+      "en": "Trump states he does not intend to resume military strikes against Iran immediately after US midterm elections."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-02T04:27:57+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SeVhnV1pITVpZU3pqdlpNbkl1N2hhdGNZR09FQmVUbkJURTE3UHEzcE9NeEhGNkMyMEE4cTMyZ1BpQUhR0gFKQVVfeXFMTW0yQUt2Mk1Ka1VXa2VDQVBJUVVHRmxmUDdfbldmVm0zUWs3NzlFZjN6VHVfQU1RMnhoa25JNERqUUQxY0VVRkdJSGc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "trump_iran_military_stance_2026-11"
+  },
+  {
+    "id": "auto-41693",
+    "headline": {
+      "ja": "イランが広範で長期の紛争の可能性を警告、トランプ大統領が空爆脅威を継続",
+      "en": "Iran warns of wider, longer conflict as Trump renews threats of strikes"
+    },
+    "summary": {
+      "ja": "イランはより広範で長期の軍事紛争の可能性を警告し、トランプ大統領がイランへの空爆脅威を改めて示唆した。",
+      "en": "Iran warns of potential wider and longer military conflict while Trump renews threats of airstrikes against Iran."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-02T04:27:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11a09LS0Fjc1BRRTBZNDJkWWdGQUdNUmo2eVk5Tk4zVUU5SjQwVEx5YVk2VmdaWHdyc2IxN1BsTmFVZG51MXoyM1NEeWg5bi1hX00wTjgyYzVRb0Nnd0FPcWxQTFJCMmxNNmdzTmZQOHBRWUpkTlZ1VzRTUFE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_trump_military_escalation_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-41868",
+    "headline": {
+      "ja": "ナイジェリア軍がボルノ州でISWAP指導部を殺害",
+      "en": "Nigeria military kills senior ISWAP commanders in Borno"
+    },
+    "summary": {
+      "ja": "ナイジェリア軍はボルノ州での作戦でイスラム国西アフリカ支部(ISWAP)の幹部複数人を殺害し、その中にはシュラ評議会メンバーが含まれていると発表した。",
+      "en": "Nigeria military reports killing senior ISWAP commanders in Borno, including a Shura Council member, during counter-terrorism operations."
+    },
+    "category": "conflict",
+    "country": "ナイジェリア",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "occurredAt": "2026-11-02T04:18:17+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTFWdXpBdHFzaG9SZVY0MGRCOFFtUHhrbmFEalMyLXJoc2pLNkJsdkZ6MnNJZ215ekJ4WWw2RGJGR19VSkhHSzg5Y2hTOHdMRjRENEZOcXI3am4xdkxWT3VuTjhka2NOV2xJejdDSTlzc3NKbmJNSFh2LWVZMVgydkdITlpxQUdCckE4Z2ZJOU5XazdwMkdoOXFaZGIwOGRFXzYxcTZGUDgteUJiTE43V3dwZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "nigeria_iswap_military_operation_2026-11"
+  },
+  {
+    "id": "auto-41909",
+    "headline": {
+      "ja": "トランプ氏がイランとの合意がない場合の新たな措置を示唆",
+      "en": "Trump suggests potential new measures against Iran if no deal is reached"
+    },
+    "summary": {
+      "ja": "トランプ氏は、イランとの間で新たな合意に到達しない場合、新たな措置を講じる可能性があることを示唆した。",
+      "en": "Trump suggests he may pursue new measures against Iran if no agreement is reached."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-02T03:59:50+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12cnZkTW1hdzczRDZjWHMyUU9WRFZfTXdHbEVGVU0tQUoyLW1ZZGZaSFJDSkY4M2FPYkpuMnJ1RDlUdHpk0gFKQVVfeXFMUDNqd1BseUZNekZUOUNwUk1wQzIyOFRNcm1kZVc0QUJDaExrYjQtX1VjdnFYLWNwckdLMlA3Tl9SVWNkTlpsZ3hOSEE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "trump_iran_negotiations_threat_2026-11"
+  },
+  {
+    "id": "auto-41856",
+    "headline": {
+      "ja": "パレスチナ側発表：イスラエルがガザに10万トン以上の爆発物を投下",
+      "en": "Palestinian sources claim Israel dropped over 100,000 tons of explosives on Gaza"
+    },
+    "summary": {
+      "ja": "パレスチナのメディアオフィスは、イスラエルがガザ地域に10万トン以上の爆発物を投下し、約2200世帯が壊滅したと主張している。",
+      "en": "Palestinian Media Office claims Israel has dropped over 100,000 tons of explosives on Gaza, destroying approximately 2,200 families."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-02T03:30:33+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUTBKSVN4d3JjWG5FYi1KUlVXNkxJaGZSNHhQYkFRRzcwUktUbXV5TGJBbHpsdFhPZTUta3Z5SC12UXZicVA5aTJhaU9OMTRYVGNDak1MTC1GdmdGdnd5UWZKZHdWWHJ6NEsyQzJfUjNZZFQ3RlRBcjBlelFtbkFVVnNISjNnQjkwMUd3S2xpR3RKclA0bzFUaTZzTVhlSnd0RHBQZDRuS1cyUlJsNGJYaldqRkdvUmo5bFMtbkJsOFRzb04xVC1MWFZ4V3cxVGNPZWJF?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_gaza_explosives_claims_2026-11",
+    "severity": 5
+  },
+  {
+    "id": "auto-41687",
+    "headline": {
+      "ja": "イラン革命防衛隊(IRGC)がホルムズ海峡でのタンカー2隻爆発事案を発表",
+      "en": "Iran's IRGC reports two oil tankers exploded after hitting mines in Hormuz Strait"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊は、ホルムズ海峡において「違反」タンカー2隻が機雷に接触して爆発したと発表した。",
+      "en": "Iran's Islamic Revolutionary Guard Corps claims two 'violating' oil tankers exploded after hitting mines in Hormuz Strait."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-02T03:11:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfWFUwNVUybDhMdDdCamI1cm14N3owX3ljbVV4RnRLWWpXM2VpaXJ1UmM0Y0tDYllOZlpwWlRXeEZHa2Q3dUdMTkkyRy1JR25KUzlsQVQtbjBubFFIZGJuWjVuMnBEdFZ5Ti1Na3BhdlhaUnFoaXZwRzc4ckg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_hormuz_strait_tanker_incident_2026-11"
+  },
+  {
+    "id": "auto-41864",
+    "headline": {
+      "ja": "国連事務総長がフーシ派拘留中のスタッフメンバーの死亡を非難",
+      "en": "UN chief condemns death of staff member in Houthi detention"
+    },
+    "summary": {
+      "ja": "国連事務総長は、フーシ派の拘留下で死亡した国連職員の死亡について非難する声明を発表した。",
+      "en": "UN Secretary-General condemns the death of UN staff member while in Houthi detention."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-02T02:37:44+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjl4Q2x4WUkzWHFQdTMwNzJ1UmlGZjhNSXNRWGI2REhveFBjSjlZX3NIdGhXcmRoUzJ3cEVIYnphU1g2T0pxY2FIMjZxV2VDVXZKU21JU0pOaGJwU09kY1M1c1NESTlDbW5qTEZKQ3NRSmFkakdfYTgwYjB6WWVEQnc0ay1xUnFoMk42MHBsaHc1eGxOWGtlaFpMTXo0MWhqRWRvU01vdVVzTFdkX0xFdWlwQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthi_un_staff_death_2026-11"
+  },
+  {
+    "id": "auto-41874",
+    "headline": {
+      "ja": "イスラエル元司令官が「不可逆的な崩壊」の危機を警告",
+      "en": "Former Israeli military commander warns Israel faces 'irreversible collapse'"
+    },
+    "summary": {
+      "ja": "イスラエルの元高級軍司令官は、同国が「不可逆的な崩壊」に直面しているという警告を発表した。",
+      "en": "Former senior Israeli military commander warns that Israel faces an 'irreversible collapse'."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-02T02:31:44+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjF5VU5LNHhmNzlLTE1ZNWdENkRNQXF4WWI2LXpJb2FhWnd6NFhXNzZFSWJEUUNXU191N3NCckdqYWg4dl84VjZSeUc0aWZ0TjI2dlNCUlFwbl9IdTk5UlFzaEhIbDBuNG9fM1d3NDNBdTVRSmt4U2NTMHg4eXlTYXF1WkxkaEtONmd1UTl0SWo4bDZJTmhtUklIclEyVnl2RGxIWXNnZldZbDZCdzRHVA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_military_collapse_warning_2026-11"
+  },
+  {
+    "id": "auto-41872",
+    "headline": {
+      "ja": "アラブ連盟がイスラエルの獄中拷問疑惑に対する国際調査を要求",
+      "en": "Arab League calls for international probe into torture allegations of Gaza detainees in Israeli prison"
+    },
+    "summary": {
+      "ja": "アラブ連盟は、イスラエルの獄中におけるガザ被拘禁者への拷問疑惑について国際的な調査を要求する声明を発表した。",
+      "en": "Arab League calls for international investigation into alleged torture of Gaza detainees held in Israeli prisons."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-11-02T02:27:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZGR1a2MzeFdoc2FXY0FFRHl6UXhJcjZtd0tRU3FZX3hIYXdZMFhsTnpicldVN203N01GS2JLS29PVlhnTThBcGVVOGQyb0Z6UlJLeE1ROEVGVDUyNEljc1d1cW1xdFdCNVZ3MmV0b0pVYTB0RGRsUE9XWjZHb3RnOFZLdTRDZ0F2NDVDc2RlMThhVlJ0aGtaZEVsVHlDQmcyZjdNRGJ3U2JxVGRRSVlpYm9qU0NPYUpIakhaNnZybFcxYVlUdjMtV0M4d3dyeHRt?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_detainee_torture_allegations_2026-11"
+  },
+  {
+    "id": "auto-41875",
+    "headline": {
+      "ja": "イエメン軍がフーシ派約500人を「無力化」したと発表",
+      "en": "Yemeni army says nearly 500 Houthis 'neutralized' in latest operations"
+    },
+    "summary": {
+      "ja": "イエメン軍は最新の軍事作戦でフーシ派約500人を「無力化」したと主張している。",
+      "en": "Yemeni military reports 'neutralizing' nearly 500 Houthis in latest operations."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-02T02:05:53+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmVySEdxNC1FZDRhajkyZHNMZUJwRy01d1FNSkdQUlNxWWpod1I5a3Z6bGZSSms4Yk1CQTFkNzRRQ3MxZVdoelR3cjRxMkROLTU5a3UySkJEWWF5d0lTOVZROGUweTJUbnZGT05YR1ZLdW9md1NkMUpNYzR2YWpjenFobWdFYUlFY1luQlFPWlZraDM0bmlLdHdJTjY5aHpWWjVGYU1Qb1JUS3RyU0hCcC1ONA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_army_houthi_operation_2026-11"
+  },
+  {
+    "id": "auto-41888",
+    "headline": {
+      "ja": "アメリカがイラン革命防衛隊司令部を破壊したと主張",
+      "en": "US claims to have destroyed IRGC headquarters, cutting off 'head of the snake'"
+    },
+    "summary": {
+      "ja": "アメリカ政府はイラン革命防衛隊(IRGC)の司令部を破壊したと主張し、イランの軍事指導部を無効化したと述べた。",
+      "en": "US claims to have destroyed Islamic Revolutionary Guard Corps headquarters, effectively decapitating Iran's military leadership."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-02T01:54:33+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWltTXIybEFjZ1ZCZm1mMy1XVjlSb1lvQ2tJOGpmRTFUbEZuTUpQM2h0UnNqZm1HUnA2VFdBNkZBemt6Mkc2TnRDSTZxdDhhMlRZT2VtVHR3MmR6MmV0Vl9XV2dZMkoyTG54UmdUNmFhRVUtaWVTb1FCdGxhbUVhQzA0UjN5TzdMQUZ5QkdYTVB3ZGlBYWMwOS1xNGN2Q1V2eGV1NmdSSGFOaVNFU1JTRlJXU0VPYWNxUXNnQjZZX0o?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_iran_irgc_strike_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-41648",
+    "headline": {
+      "ja": "ウクライナとロシアの警報アプリがサイバー攻撃被害",
+      "en": "Ukraine and Russia air alert apps hit by cyberattacks"
+    },
+    "summary": {
+      "ja": "停戦終了後、ウクライナの警報アプリがロシアからの攻撃と思われるサイバー攻撃を受け、虚偽の核脅威警報を配信。ロシア側のアプリにも偽情報が表示されている。",
+      "en": "After truce ends, Ukraine's air raid alert app suffers cyberattack distributing false nuclear warnings; Russia's app also displays false information."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-02T01:40:50+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_alert_app_cyberattack_2026-11"
+  },
+  {
     "id": "auto-41638",
     "headline": {
       "ja": "ウクライナ空襲警告アプリが詐欺ハック、ロシアアプリも同様の被害",
@@ -47,6 +349,29 @@
     "severity": 4
   },
   {
+    "id": "auto-41860",
+    "headline": {
+      "ja": "ドイツ政府：政治家および政府高官へのサイバー攻撃を確認",
+      "en": "Germany confirms cyberattacks targeting lawmakers and government officials"
+    },
+    "summary": {
+      "ja": "ドイツの政府担当大臣は、ハッカーがドイツの国会議員および政府高官のデバイスを標的にしたサイバー攻撃を確認したと発表した。",
+      "en": "German government official confirms cyberattacks targeting German lawmakers and government officials' devices."
+    },
+    "category": "conflict",
+    "country": "ドイツ",
+    "lat": 52.5244,
+    "lon": 13.4105,
+    "occurredAt": "2026-11-01T23:06:44+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXc4ZDgwX0lJbXA0cWw5SU9EYmV4SEUxQmFJRTdPU3cwZVZwSGRuenpzdUx4OTI5V2ZnQzdfWE43TUNIVmlKY1QtWENnd3BoZVMwYUlvQi1qcEo0blZydnhrNGI2VkpLYjZtUEFGaGhIWW1NM0F6T19mUkZHZ1JBMWR6WVFyREI2SWYzX0h2UnFEOGFseVdJdHNYX2k1dERwcWxoSzFVYkZBZFdmVUE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "germany_cyberattack_government_2026-11"
+  },
+  {
     "id": "auto-41659",
     "headline": {
       "ja": "ケルソン地域の停戦終了、戦争が戻る",
@@ -68,6 +393,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "kherson_russia_ukraine_ceasefire_ends_nov2026"
+  },
+  {
+    "id": "auto-41838",
+    "headline": {
+      "ja": "アラブ首長国連邦がカタール企業のLNGタンカー狙撃事件を非難",
+      "en": "UAE condemns targeting of Qatar's LNG tanker"
+    },
+    "summary": {
+      "ja": "アラブ首長国連邦政府は、カタール・ガス輸送会社のLNGタンカーが狙撃された事件を非難する声明を発表した。",
+      "en": "UAE government condemns the targeting of an LNG tanker operated by Qatar Gas Transport Company."
+    },
+    "category": "conflict",
+    "country": "カタール",
+    "lat": 25.2855,
+    "lon": 51.531,
+    "occurredAt": "2026-11-01T21:56:02+00:00",
+    "source": {
+      "name": "UAE 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IakhWY1BPSzk4c2UtWVg2enFUUGlIS3J5YmJDTEdSM3JCM2ZCanFxejhZRFNOa2FVOHZGQUhUUUdvVGdyZ1RkRW10eGlrZUZmc3FTeEpFUVVIZFU3QW5WZHFKb2FFajV2U3RYcQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "qatar_lng_tanker_targeting_2026-11"
   },
   {
     "id": "auto-41639",
@@ -92,6 +440,52 @@
     "auto": true,
     "eventKey": "ukraine_russia_kherson_ceasefire_power_attack_nov2026",
     "severity": 4
+  },
+  {
+    "id": "auto-41855",
+    "headline": {
+      "ja": "アメリカ・フロリダ州での航空機墜落、乗員乗客9人全員が死亡",
+      "en": "Nine people killed in plane crash in residential area of Florida"
+    },
+    "summary": {
+      "ja": "アメリカ・フロリダ州の住宅地に航空機が墜落し、乗員乗客9人全員が死亡した。",
+      "en": "Nine people killed when an aircraft crashed in a residential area in Florida, USA."
+    },
+    "category": "disaster",
+    "country": "アメリカ",
+    "lat": 27.6242,
+    "lon": -81.4683,
+    "occurredAt": "2026-11-01T21:43:45+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUNaYXhEZ0NwN2ZYMmt1RklvX3ZrdGREeHRZWDE1TmhxNFJKbFAwdGFXRWNGMFpnMWRoQlpqeURWU3o5WDlSc2xFRjBiYm92RlZjS1dseE9zWGhULXpCQzhMS0hmQ0Y0NTM5dHFLTi0xbU8ybE0tR1ktMm8xQUpMaXhTWjVid1FFa25JVzUxcUF3aHotay05Mkp0aTFtOWwwcXJTMllLM25wdHYzNEdCa0t3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_florida_plane_crash_2026-11"
+  },
+  {
+    "id": "auto-41661",
+    "headline": {
+      "ja": "イスラエルのヘブロン包囲作戦で約5000人が避難",
+      "en": "Approximately 5,000 displaced by Israel's siege on Hebron"
+    },
+    "summary": {
+      "ja": "イスラエル軍の軍事包囲によって、パレスチナ領土ヘブロンからおよそ5000人が避難を強いられている。",
+      "en": "Israeli military siege forces approximately 5,000 people to flee Hebron in the Palestinian territories."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-11-01T21:28:47+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_hebron_siege_2026-11"
   },
   {
     "id": "auto-41531",
@@ -139,6 +533,29 @@
     "auto": true,
     "eventKey": "usa_israel_iran_diplomacy_conflict_nov2026",
     "severity": 4
+  },
+  {
+    "id": "auto-41681",
+    "headline": {
+      "ja": "イラン政府が防衛学説の変更を発表、脅威の地理が報復の地理を制限しないと表明",
+      "en": "Iran announces shift in defense doctrine, says threat geography no longer constrains response"
+    },
+    "summary": {
+      "ja": "イランの指導部高官モハマド・モクベルは、イランの防衛学説が急速に進化し、脅威の地理がもはや報復の地理を決定しなくなったと述べた。",
+      "en": "Iran's senior advisor Mohammad Mokhber states that Iran's defense doctrine is rapidly evolving and threat geography no longer determines response geography."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-01T19:33:50+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86309609/Iran-s-defense-doctrine-no-longer-bound-by-geography-of-a-threat"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_defense_doctrine_shift_2026-11"
   },
   {
     "id": "auto-41544",
@@ -811,6 +1228,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "drc_ebola_outbreak_2026-10"
+  },
+  {
+    "id": "auto-41834",
+    "headline": {
+      "ja": "サウジアラビアとカナダ外相がフーシ派による攻撃を非難",
+      "en": "Saudi Arabia and Canada condemn Houthi attacks"
+    },
+    "summary": {
+      "ja": "G20会議でのサウジアラビアとカナダの外相がフーシ派による攻撃を非難する声明を発表した。",
+      "en": "Saudi Arabia and Canada's foreign ministers condemn Houthi attacks in statement at G20 meeting."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-10-30T23:41:38+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzUlE1cjNDc0NxN0Z2ZnkzM0N5Wmwzd210c01aTm9VVzdIa1pId1VsMHVuY3BGODU2bHRaMl80ZG9zcy1rSDFHT2Nn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_canada_houthi_condemnation_2026-11"
   },
   {
     "id": "auto-40237",
@@ -2552,97 +2992,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_russian_airstrikes_2026-10"
-  },
-  {
-    "id": "auto-32253",
-    "headline": {
-      "ja": "@rybarアカウントで、ロシア軍がキーウ、ハリコフへの大規模攻撃を実施したという投稿があった",
-      "en": "@rybar account posted about Russian military conducting massive attacks on Kyiv and Kharkiv"
-    },
-    "summary": {
-      "ja": "@rybarアカウントで、ロシア軍がキーウとハリコフ地域への大規模な攻撃を実施したという投稿があった。南橋(Southern Bridge)が再び攻撃対象になったと記載されている。",
-      "en": "@rybar posted about Russian military conducting massive attacks on Kyiv and Kharkiv regions, mentioning that the Southern Bridge was struck again."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-27T09:03:00+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84205"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_kyiv_kharkiv_russian_attack_2026-10-27"
-  },
-  {
-    "id": "auto-32023",
-    "headline": {
-      "ja": "ヨルダン軍がシリア南部の民間人を攻撃、5人が死亡",
-      "en": "Jordanian airstrikes kill five civilians in southern Syria"
-    },
-    "summary": {
-      "ja": "シリア南部でヨルダン軍による空襲が発生し、少なくとも5人の民間人が殺害された。",
-      "en": "Jordanian airstrikes in southern Syria resulted in the deaths of at least five civilians."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-27T06:09:11+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tQktfenJoU0J6OGpqN0xYQ3ZvbzU3ejk0cm44YVktWW9LNUFXbDF0eU04ekNDTzdGM1NHOHpHZEFlbXJh0gFKQVVfeXFMTXpQRFJmTWJ1TVNuaHJnbU5TUUlIVlJmVWJuSVFiVVM5aUtDa1kzenBHbk45RWZBV18tTVgzb2h5N3FGY056Q054NkE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "jordan_airstrike_syria_south_2026-10-27"
-  },
-  {
-    "id": "auto-32084",
-    "headline": {
-      "ja": "ザポロージャ州でバスへのドローン攻撃で1人が死亡",
-      "en": "One Killed in Drone Attack on Bus in Zaporizhzhia Region"
-    },
-    "summary": {
-      "ja": "ウクライナ・ザポロージャ州で乗用バスへのドローン攻撃により1人が殺害されたと州知事が発表した。",
-      "en": "A drone attack on a passenger bus in Ukraine's Zaporizhzhia region killed one person, according to the regional governor."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 47.5161,
-    "lon": 35.3691,
-    "occurredAt": "2026-10-27T05:10:20+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRU5sSDVvcWJOWGc4VTJKLU5hWllkc1drdmpJQWdKRm8tclJpbkZZcjVXQmtFVk5QMlJPU0d5d1p2bXFLQ2RxWGRNT1rSAVJBVV95cUxOY05YSXpVdlJ2ZGFOSUN6VFpIZHZXZUlTMVNiLUM2US1sY2wtMG1KeDlNWkJ4NFktb1ZCS1FVcmNYNUtycS0yTEdab190ZEJUUGNn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhzhia_bus_attack_2026-10-27"
-  },
-  {
-    "id": "auto-32347",
-    "headline": {
-      "ja": "ヨルダンの空爆でシリア南部で7人が殺害される",
-      "en": "Seven Killed in Jordanian Airstrikes on Southern Syria"
-    },
-    "summary": {
-      "ja": "ヨルダンはシリア南部への空爆を実施し、シリア当局によると7人が殺害された。調整の問題により被害がさらに拡大したと報じられている。",
-      "en": "Jordanian airstrikes on southern Syria resulted in seven deaths according to Syrian authorities, with reports indicating the toll was increased due to coordination issues."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-27T03:13:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PM0ZHYVlSN0JHbFVkUmhCczZMSWFxVHdqWGJRY1NOTW1IVUtxMkFSZTFWVXdPVm9TZ2Q5Qk1QX0RweUtDUmIwRTBJSzVMVklGSGQwOE1ySUhoZHhBUFN0RUFad09TYjEzR2VzdG1VVTIyNDZYcHJBN2R6N2I?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "syria_jordan_airstrikes_2026-10-27"
   }
 ]
