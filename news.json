@@ -126,5 +126,51 @@
       "url": "https://riotimesonline.com/global-economy-briefing-november-2-2026"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-03-04",
+    "headline": {
+      "ja": "米軍、イランのミサイル発射への対応としてケシム島のIRGC対空ミサイル発射装置を「防衛的」空爆",
+      "en": "US carries out 'defensive' strike on IRGC air-defense launcher on Iran's Qeshm Island after Iranian missile fired at US aircraft, officials say"
+    },
+    "summary": {
+      "ja": "NBC News・Fox News・The Jerusalem Post・i24News・Arab Times・KTSA等複数の米メディアが米政府当局者の話として報じたところによると、イラン革命防衛隊(IRGC)がホルムズ海峡上空の米軍機に向けてミサイルを発射し、米軍がこれへの自衛的対応として、イラン・ホルモズガーン州のケシム島にあるIRGCの地対空ミサイル発射装置を破壊したという。米当局者はこの空爆を「防衛的」なものと説明し、本格的な戦闘再開を意味するものではないとして、大規模な作戦として広報することは避けていたという。Wall Street Journalは、このケシム島への攻撃が、米国がここ数週間水面下で実施してきた一連の限定的な対イラン軍事作戦の一部だと報じたという。イラン国営通信IRNAは、ケシム島で相次ぐ5回の爆発があったと独立して報じ、住民の一部が上空に航空機2機を目撃したとも伝えたという。報道の時点には食い違いがあり、多くの媒体が米国時間11月2日(月)としている一方、Arab Timesは11月3日付で報じている。米・イスラエルとイランの軍事衝突(2026年2月28日開始)は継続中で、既報(id: 2026-11-03-01、米が11月4日以降のイラン再攻撃の可能性を湾岸同盟国に伝えたとする報道)とは別に、今回はイランの対米ミサイル発射と米側の反撃という、既に生起した双方の武力行使であり、緊急チェック基準(国家間の相互攻撃・空爆の応酬)に該当すると判断した。推測:今回の「防衛的」空爆が、既報の11月4日以降とされるより大規模な再攻撃の前触れとなるかは本稿執筆時点で確定していない。イラン政府当局による今回の空爆そのものへの公式な確認・否定は本稿執筆時点で見当たらない。[信頼性: 中](NBC News・Fox News・The Jerusalem Post・i24News・Arab Times・KTSA等、独立した複数の主要メディアが米当局者発として一致した内容を報じており、イラン国営通信IRNAも爆発の発生自体を独立して報じている。ただし攻撃の経緯・意図に関する詳細は匿名の米当局者からの伝聞報道に基づくもので、単一の情報源〔Axios発〕に遡る可能性がある)",
+      "en": "Multiple US outlets -- NBC News, Fox News, The Jerusalem Post, i24News, Arab Times and KTSA -- reported, citing US officials, that Iran's Islamic Revolutionary Guard Corps (IRGC) fired a missile at a US aircraft over the Strait of Hormuz, and that the US military struck back in self-defense, destroying an IRGC surface-to-air missile launcher on Iran's Qeshm Island (Hormozgan province). US officials described the strike as \"defensive\" and said it did not signal a return to major combat, and reportedly kept it low-profile rather than publicizing it as a major operation. The Wall Street Journal reported the Qeshm strike was part of a series of limited military operations against Iranian targets that Washington has reportedly conducted quietly over recent weeks. Iran's state news agency IRNA independently reported five explosions in quick succession on Qeshm Island, with some residents saying they saw two aircraft overhead. Timing differs slightly across outlets: most date the strike to Monday, November 2 (US time), while Arab Times is datelined November 3. The US-Israel military conflict with Iran (which began February 28, 2026) remains ongoing. Distinct from the previously reported warning (id 2026-11-03-01) that the US told Gulf allies of possible renewed Iran strikes from November 4, this episode is an actual exchange of fire between the two sides (an Iranian missile launch at a US aircraft followed by a US strike), which is judged to meet the emergency-check criterion of \"mutual attacks/airstrikes between states.\" Inference: whether this \"defensive\" strike is a precursor to the larger reported Nov. 4-plus strikes remains unconfirmed at the time of writing. No official Iranian government confirmation or denial of this specific strike was found at the time of writing. [Reliability: Medium] (Multiple independent major outlets -- NBC News, Fox News, The Jerusalem Post, i24News, Arab Times, KTSA -- report consistent accounts attributed to US officials, and Iran's IRNA independently corroborates that explosions occurred; however, the narrative details on cause and intent rest on anonymous US officials and may trace back to a single original source, reported via Axios.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルモズガーン州(ケシム島)",
+    "lat": 27.1865,
+    "lon": 56.2808,
+    "occurredAt": "2026-11-02T22:00:00+00:00",
+    "source": {
+      "name": "NBC News/Fox News/The Jerusalem Post/i24News(米当局者発)",
+      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-11-03-05",
+    "headline": {
+      "ja": "ロシア軍、ザポリッジャ州コムィシュヴァーハの人道支援拠点・避難所を二波にわたり空爆 少なくとも26人死亡・27人不明と報道",
+      "en": "Russian forces reportedly carry out two-wave bombing of aid hub and shelter in Komyshuvakha, Zaporizhzhia region, killing at least 26, with 27 missing"
+    },
+    "summary": {
+      "ja": "Al Jazeera・Korea Times・Canberra Times・The Print・Star Advertiser・NZ City International News等複数のメディアが報じたところによると、ウクライナ当局者は、ロシア軍が11月2日(月)、ウクライナ南部ザポリッジャ州コムィシュヴァーハで、人道支援物資の配布拠点となっていた学校とその隣接する避難所を空爆したと発表したという。ゼレンスキー大統領によると、まず学校に対して空爆が行われた後、さらに9発の爆弾(FAB-3000誘導爆弾)による第2波の攻撃が、人々が避難していた避難所そのものを狙って行われたという(いわゆる「二段攻撃」)。この攻撃で少なくとも26人が死亡し、死者には救助隊員2人・警察官4人が含まれ、負傷者5人(うち救助隊員2人)が病院で治療を受けているという。ザポリッジャ市議会のレジーナ・ハルチェンコ書記によると、27人が行方不明だという。救助活動は、同地域での追加のロシア軍ドローン攻撃により難航しているという。ゼレンスキー氏は、同村が学校として使用されていなかったこと、前線に近い場所にあることを明らかにしたという。この攻撃は、ヘルソン州オレシキへの人道支援搬入・住民避難のために設定されていた6日間の地域停戦が失効した翌日に発生したという。死者数は当初18人と発表された後、26人に上方修正されたといい、行方不明者の捜索が続いているため、本稿執筆時点でもさらに変動する可能性があるという。ロシア側からの公式な反応は本稿執筆時点で確認できていない。推測:死者数・行方不明者数は今後変動しうる。[信頼性: 高](Al Jazeera・Korea Times・Canberra Times・The Print・Star Advertiser・NZ City International News等、独立した複数の主要メディアがウクライナ政府当局者〔ゼレンスキー大統領・ザポリッジャ市議会〕の発表に基づき一致した内容を報じている。ロシア側からの独立した確認は得られていない)",
+      "en": "Multiple outlets -- Al Jazeera, Korea Times, Canberra Times, The Print, Star Advertiser and NZ City International News -- reported that Ukrainian officials said Russian forces bombed a school serving as a humanitarian aid distribution point and an adjacent shelter in Komyshuvakha, Zaporizhzhia region, southern Ukraine, on Monday, November 2. President Zelensky said the school was hit first, followed by a second wave of nine more bombs (FAB-3000 guided bombs) specifically targeting the shelter where people had taken refuge -- a so-called \"double-tap\" strike. The attack killed at least 26 people, including two rescue workers and four police officers, with five more -- including two rescuers -- hospitalized. Regina Kharchenko, secretary of the Zaporizhzhia City Council, said 27 people remained missing. Rescue operations were reportedly hampered by further Russian drone strikes in the area. Zelensky said the village was not being used as a school and that it lies close to the front line. The strike came the day after a six-day local ceasefire -- arranged to bring humanitarian aid into Oleshky, Kherson region, and evacuate residents -- expired. The death toll was first put at 18 before being revised up to 26, and may still change given ongoing search efforts, officials said. No official Russian response was found at the time of writing. Inference: casualty and missing-person figures may still change. [Reliability: High] (Multiple independent major outlets -- Al Jazeera, Korea Times, Canberra Times, The Print, Star Advertiser, NZ City International News -- report consistent accounts based on Ukrainian government officials' statements (President Zelensky, Zaporizhzhia City Council); no independent confirmation from the Russian side was found.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ザポリッジャ州",
+    "lat": 47.7194,
+    "lon": 35.5247,
+    "occurredAt": "2026-11-02T09:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera/Korea Times(ウクライナ政府当局者発表)",
+      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+    },
+    "reliability": "high",
+    "severity": 4
   }
 ]
