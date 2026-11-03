@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-10-31-02",
-    "headline": {
-      "ja": "ルビオ米国務長官、イラン再攻撃は未決定と表明 中間選挙前の再開には否定的な見方も",
-      "en": "Rubio says Trump has not decided on new Iran strikes; several outlets see resumption before US midterms as unlikely"
-    },
-    "summary": {
-      "ja": "ルビオ米国務長官は10月31日(土)、記者団に対し、トランプ大統領はイランへの新たな軍事攻撃再開を決定していないと述べ、「外交的解決があれば歓迎する」と語ったという(Haaretz・Fox News・CBS News等複数メディア)。Fox News・CBS Newsは、トランプ氏が11月3日の米中間選挙前に攻撃を再開する可能性は低いとの見方を伝えたという。一方、Axios(Iran International経由の報道)は、イスラエルのネタニヤフ首相が中間選挙直後の即時攻撃再開をトランプ氏に強く求めていると報じたという。イラン側は、米・イスラエルが新たな攻撃に踏み切れば今後の戦争はより長期化しうると警告したという報道もある。トランプ氏は、残る「1、2か所の標的」への攻撃は「10分で」実行可能と述べたとされる。米・イスラエルとイランの軍事衝突(2026年2月28日開始)は継続中で、ホルムズ海峡の原油・LNG輸送は事実上停止状態にあるという。推測:攻撃再開の時期として中間選挙翌日の11月4日前後を挙げる報道があるが、本稿執筆時点で実施は確定していない。[信頼性: 高](Haaretz・Fox News・CBS News・Islamabad Post等、米政府高官の発言を伝える独立した複数メディアの報道が一致。ネタニヤフ氏がトランプ氏に即時再開を求めているとの部分はAxios発・Iran International経由の伝聞報道で、他メディアでの直接確認はできていない)",
-      "en": "U.S. Secretary of State Marco Rubio told reporters on Saturday, October 31, that President Trump has not decided whether to resume military strikes on Iran, saying the U.S. would welcome a diplomatic solution if one is available, according to Haaretz, Fox News, CBS News and other outlets. Fox News and CBS News reported that a resumption of strikes before the U.S. midterm elections on November 3 appears unlikely. Separately, Axios -- relayed via Iran International -- reported that Israeli Prime Minister Benjamin Netanyahu is pressing Trump to resume strikes immediately after the midterms. Some reports said Iran warned that any new U.S./Israeli attack could lead to a longer war. Trump reportedly said the U.S. could strike the remaining \"one or two\" targets \"in 10 minutes.\" The US-Israel military conflict with Iran, which began February 28, 2026, is ongoing, with the Strait of Hormuz reportedly effectively shut to oil and LNG shipping. Inference: some reports point to around November 4 -- the day after the midterms -- as a possible timing for renewed strikes, but no resumption had been confirmed as of this writing. [Reliability: High] (Multiple independent outlets -- Haaretz, Fox News, CBS News, Islamabad Post -- consistently report the same official statements from U.S. officials. The claim that Netanyahu is pressing for immediate resumption comes via Axios/Iran International and has not been independently confirmed elsewhere.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-10-31T19:00:00+00:00",
-    "source": {
-      "name": "Haaretz(ルビオ米国務長官発言)/Fox News/CBS News",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-31/ty-article/trump-yet-to-decide-on-iran-strikes-u-s-open-to-diplomacy-rubio-says/000001a1-92df-d03f-aded-daff49480000"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-01-01",
     "headline": {
       "ja": "イスラエル連立協議、統一アラブ会議(ジョイント・リスト)所属議員がアイゼンコット陣営を閣外協力で支持する意向、入閣は求めずと表明",
@@ -194,5 +173,26 @@
       "url": "https://www.anews.com.tr/middle-east/2026/11/03/iran-says-3-oil-tankers-hit-naval-mines-catch-fire-in-strait-of-hormuz"
     },
     "reliability": "low"
+  },
+  {
+    "id": "2026-11-04-01",
+    "headline": {
+      "ja": "イラン・米、戦争終結合意で依然大きな隔たり カタール仲介活発化、米が覚書草案を承認との報道も(未確認)",
+      "en": "Iran and US reportedly still far apart on deal to end war as Qatar steps up mediation; US said to have approved draft MOU (unconfirmed)"
+    },
+    "summary": {
+      "ja": "ロイター発として複数メディア(Korea Times・The Print・samaa.tv等)が報じたところによると、カタールの仲介団は11月2日(月)夜、過去8日間協議されてきた米・イラン間の終戦合意草案についてテヘランで協議したという。カタール外務省は、米・イラン双方が仲介側提示案を検討中だと述べたという。イラン政府高官はロイターに対し、終戦合意には依然大きな隔たりがあると述べたという。一方、匿名の関係者の話として、米国が前日にカタール提示の覚書(MOU)草案を承認したと伝える報道(Pakistan Today等)もあるが、米・イラン両政府による公式な確認は本稿執筆時点で見当たらない。イラン側は、米国による石油制裁の解除・海上封鎖の終了・凍結資金の解放など自国の要求が満たされるまでホルムズ海峡の封鎖を維持する立場で、イラン外相は交渉成立後なら海峡を2日以内に再開できるとの見方を示したとされる。イラン高官は、核問題に関する協議はイラン側の要求が満たされてから開始されるとしているという。推測:米国による覚書草案承認の真偽、および終戦合意が近いかどうかは、本稿執筆時点で確認できていない。[信頼性: 中](ロイター発として複数の独立したメディア〔Korea Times・The Print・samaa.tv等〕が、カタール外務省・イラン高官の発言について一致した内容を報じている。米国による覚書草案承認については匿名の関係者情報のみに基づく報道で、独立した裏付けは本稿執筆時点で確認できていない)",
+      "en": "According to multiple outlets citing Reuters (Korea Times, The Print, samaa.tv and others), a Qatari mediation team traveled to Tehran on the night of Monday, November 2, to discuss a draft agreement to end the Iran-US war that has been under discussion for the past eight days. Qatar's foreign ministry said both the US and Iran were reviewing the proposal put forward by mediators. A senior Iranian official told Reuters the two sides remained far apart on a deal to end the war. Separately, some reports (e.g. Pakistan Today), citing anonymous sources, said the US had approved a Qatar-presented draft memorandum of understanding (MOU) the day before, though no official confirmation from either the US or Iranian government was found at the time of writing. Iran reportedly maintains that the Strait of Hormuz will stay closed until its demands -- lifting US oil sanctions, ending the naval blockade, and releasing frozen Iranian funds -- are met, with Iran's foreign minister suggesting the strait could reopen within two days once an agreement is reached. An Iranian official reportedly said nuclear talks would only begin once Iran's conditions are satisfied. Inference: whether the US actually approved the draft MOU, and whether a deal to end the war is imminent, could not be confirmed at the time of writing. [Reliability: Medium] (Multiple independent outlets -- Korea Times, The Print, samaa.tv and others -- consistently report the same Reuters-sourced statements from Qatar's foreign ministry and an Iranian official; the claim of US approval of the draft MOU rests solely on anonymous sourcing and has not been independently corroborated as of this writing.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-11-02T19:30:00+00:00",
+    "source": {
+      "name": "Reuters(The Korea Times配信)",
+      "url": "https://www.koreatimes.co.kr/world/20261104/iran-us-still-far-apart-on-deal-to-end-war-as-qatar-pushes-mediation"
+    },
+    "reliability": "medium"
   }
 ]
