@@ -1,5 +1,192 @@
 [
   {
+    "id": "auto-43165",
+    "headline": {
+      "ja": "ウクライナで学校への攻撃が継続、2022年以降約2000件",
+      "en": "Ukraine has sustained almost 2,000 attacks on education since 2022"
+    },
+    "summary": {
+      "ja": "国連児童基金UNICEFによると、ウクライナは2022年のロシア侵攻以降ほぼ2000件の教育施設への攻撃を受けており、2026年だけで約270件の攻撃が発生している。",
+      "en": "UNICEF reports Ukraine has endured nearly 2,000 attacks on education facilities since 2022 Russian invasion"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-03T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_school_attacks_ongoing"
+  },
+  {
+    "id": "auto-43129",
+    "headline": {
+      "ja": "RSFの攻撃でスーダン・エチオピア間の対立が深刻化",
+      "en": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia"
+    },
+    "summary": {
+      "ja": "スーダンと隣国エチオピアの関係が、RSFによるドローン攻撃で深刻な危機に直面していることが明らかになった。スーダンは国連に責任追及を求めている。",
+      "en": "RSF drone attacks highlight escalating tensions between Sudan and Ethiopia, prompting UN accountability demands"
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-03T10:29:56+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_ethiopia_rsf_conflict",
+    "severity": 4
+  },
+  {
+    "id": "auto-43131",
+    "headline": {
+      "ja": "ロシアのウクライナ空爆で医療施設と発電所被害、最大73人負傷",
+      "en": "At least 73 injured as Russia bombs Ukrainian hospital and power plants"
+    },
+    "summary": {
+      "ja": "ロシア軍は弾道ミサイルと航空爆弾でウクライナの医療施設と発電所を攻撃し、最大73人が負傷した。",
+      "en": "Russian ballistic missiles and bombs strike Ukrainian hospital and power facilities, wounding at least 73"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-03T10:18:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_hospital_powerplant_bombing_nov2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-42000",
+    "headline": {
+      "ja": "米国によるイラン領キシュム島への攻撃を報告(未確認)",
+      "en": "Rybar reports US strike on Iranian island Keshm"
+    },
+    "summary": {
+      "ja": "親ロシア系テレグラムチャネルは、米国がイランの領土であるキシュム島に対して軍事攻撃を実施したと主張している。",
+      "en": "Pro-Russian Telegram channel reports US military action against Iranian territory"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 26.9492,
+    "lon": 56.2691,
+    "occurredAt": "2026-11-03T08:59:28+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84377"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "iran_keshm_us_strike_alleged",
+    "severity": 4
+  },
+  {
+    "id": "auto-42013",
+    "headline": {
+      "ja": "北朝鮮が戦略巡航ミサイルの分散弾頭を試験(報道)",
+      "en": "North Korea tested dispersal warhead for strategic cruise missile"
+    },
+    "summary": {
+      "ja": "OSINTdefenderによると、北朝鮮は2026年11月2日に戦略的な巡航ミサイルの分散弾頭技術を試験し、大都市圏を破壊できると主張している。",
+      "en": "OSINT source reports North Korea conducted warhead dispersal test for strategic cruise missile"
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-03T08:14:18+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20656"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "northkorea_warhead_dispersal_test"
+  },
+  {
+    "id": "auto-42957",
+    "headline": {
+      "ja": "ロシア、モスクワへのウクライナ・ドローン大規模攻撃を撃退と発表",
+      "en": "Russian air defenses report repelling one of Ukraine's largest overnight drone attacks"
+    },
+    "summary": {
+      "ja": "ロシア政府は、モスクワに対するウクライナの大規模なドローン攻撃の一つをロシア防空システムが撃退したと発表した。",
+      "en": "Russia announces successful interception of major Ukrainian drone attack on Moscow"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-03T05:41:05+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CUDcyNU5ETDJucDV4eFE0WjFBSno2d1NzcHFPNlV4N29TdmtVUlNiX3JIa2ZSU25EdUtudTVMVkpQSkZTRUVJWmRocGwwd9IBTkFVX3lxTE9CUDcyNU5ETDJucDV4eFE0WjFBSno2d1NzcHFPNlV4N29TdmtVUlNiX3JIa2ZSU25EdUtudTVMVkpQSkZTRUVJWmRocGwwdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "moscow_ukrainian_drone_attack_nov2026"
+  },
+  {
+    "id": "auto-42751",
+    "headline": {
+      "ja": "ゼレンスキー大統領、ザポリージャ地域空爆で18人死亡5人負傷と発表",
+      "en": "Zelenskyy says 18 killed, 5 injured in Russian airstrikes on Ukraine's Zaporizhzhia region"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍のザポリージャ地域への空爆で18人が死亡し5人が負傷したと発表した。",
+      "en": "President Zelenskyy announces 18 killed and 5 injured in Russian airstrikes on Zaporizhzhia"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.5161,
+    "lon": 35.3691,
+    "occurredAt": "2026-11-02T17:49:30+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNyOFRfNGx1TFVFSzdkVDFsNC1WdUFjcFBIVy1OSGFWakw0amhrSUI1QVNKWFRQTHFieENtalZiZmp5bnNGSkNld1dsNXY4eXN4TmxuZ0JHTVhWUks5TWt2WXhkMFpCbHBWeG9wWlh4YjlGNHE5bkFCU0JlbjZsRnBaYXBITF9MRTF3WHk0VUNNTlA1YU1WaUVhNU5UUkwtQ25qYVptQ0x2NHpKczJXRFFtUENsTWdmZWFZRW9yMWI5dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_zaporizhzhia_airstrikes_nov2026"
+  },
+  {
+    "id": "auto-41983",
+    "headline": {
+      "ja": "スーダン電力網を狙ったドローン攻撃が拡大",
+      "en": "Drone attacks extend campaign targeting Sudan's power system"
+    },
+    "summary": {
+      "ja": "スーダン軍は電力供給システムへの攻撃が続いていることを報告し、反政府勢力RSFからの新たな脱出者も確認されている。",
+      "en": "Sudanese military reports ongoing drone attacks on power infrastructure with additional RSF defections"
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-02T17:26:32+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "sudan_power_system_drone_campaign"
+  },
+  {
     "id": "auto-41907",
     "headline": {
       "ja": "メラニア・トランプ氏がアレシキ任務の成功を表明、ロシアとウクライナに感謝",
@@ -2969,28 +3156,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_arabia_houthi_missile_attack_2026-10-27"
-  },
-  {
-    "id": "auto-33608",
-    "headline": {
-      "ja": "ウクライナへのロシア空爆が加速、国連が支援継続を呼びかけ",
-      "en": "UN urges continued support for Ukraine as Russian airstrikes intensify"
-    },
-    "summary": {
-      "ja": "国連難民高等弁務官事務所は、ロシアの空爆激化と人道危機の深刻化を受け、ウクライナ国民への国際的支援の継続を求めた。冬季の厳しい状況が迫る中、援助の必要性が高まっている。",
-      "en": "UNHCR urged continued international support for Ukraine's population as Russian airstrikes intensify and humanitarian needs grow ahead of another cold winter."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-27T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russian_airstrikes_2026-10"
   }
 ]
