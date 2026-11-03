@@ -144,6 +144,30 @@
     "observedAt": "2026-11-11T00:00:00Z"
   },
   {
+    "id": "2026-11-06-ca-000121",
+    "recordType": "individual",
+    "country": "CA",
+    "shipName": "レジャイナ",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "呉港",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "カナダ海軍ハリファックス級フリゲート「レジャイナ」が呉に寄港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37358/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-02T04:43:11+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "2026-11-01-ca-000114",
     "recordType": "individual",
     "country": "CA",
@@ -259,6 +283,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-30T00:00:00Z"
+  },
+  {
+    "id": "2026-10-30-cn-000119",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "玉衡星",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "大隅海峡・東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "大隅海峡を西進し東シナ海へ航行。護衛艦「こんごう」「あぶくま」が警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37385/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-02T04:43:11+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-30T00:00:00Z"
@@ -1345,8 +1393,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -1369,8 +1417,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -1393,8 +1441,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1417,8 +1465,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1441,8 +1489,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1466,7 +1514,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1516,7 +1564,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1539,8 +1587,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1563,8 +1611,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -2582,6 +2630,30 @@
     "count": 3,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "-jp-000122",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "しらせ",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "横須賀・南極地域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "第68次南極地域観測へ向けて横須賀から出航",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37357/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-02T04:43:11+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-nato-000063",

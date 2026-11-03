@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-11-29-jp-000120",
+    "recordType": "aggregate",
+    "country": "JP",
+    "unitName": "P-1哨戒機",
+    "unitNumber": null,
+    "aircraftType": "reconnaissance",
+    "position": {
+      "area": "ソマリア沖・アデン湾",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "第61次派遣海賊対処行動航空隊の要員交代。P-1を初めて使用した第60次派遣の帰国と第61次派遣（第1航空群基幹）の出発",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37382/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-02T04:43:11+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": "2026-11-15T00:00:00Z",
+    "periodEnd": "2026-11-29T00:00:00Z"
+  },
+  {
     "id": "2026-10-28-us-000107",
     "recordType": "individual",
     "country": "US",
