@@ -172,5 +172,27 @@
     },
     "reliability": "high",
     "severity": 4
+  },
+  {
+    "id": "2026-11-03-06",
+    "headline": {
+      "ja": "イラン革命防衛隊海軍、ホルムズ海峡で油送船3隻が機雷に触れ炎上と発表(未確認)",
+      "en": "Iran's IRGC Navy says three oil tankers hit mines and caught fire in Strait of Hormuz (unconfirmed)"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊(IRGC)海軍は11月3日(火)、ホルムズ海峡南岸付近で油送船3隻が機雷に触れて炎上し、乗員に放棄されたまま炎上を続けているという発表をしたという(Anadolu Agency・anews.com.tr・JFeed等複数メディア)。これに先立ち11月2日(月)には、イラン海軍が、航行システムを切っていた1隻のタンカーが海峡東方の制限区域で機雷に触れたと発表していたという。IRGCは、CENTCOM司令官ブラッド・クーパー氏が10月25日にホルムズ海峡を訪問して以降の9日間で、海峡で計11隻の油送船が炎上し一部は沈没したと主張しているといい、米国側や船舶運航会社・海事保安機関による独立した確認は本稿執筆時点で見当たらない。タンカー数(2隻とする報道もある)や機雷を設置した当事者についても報道間で一致していない。米・イスラエルとイランの軍事衝突(2026年2月28日開始)に伴い、ホルムズ海峡の原油・LNG輸送は既報(id: 2026-10-31-02ほか)の通り事実上停止状態にあるとされ、今回の発表が事実であれば航行安全・原油供給への影響がさらに深刻化する可能性がある。推測:機雷の設置者・沈没の有無を含め、本稿執筆時点で独立した検証はできていない。[信頼性: 低](報道の多くがイラン革命防衛隊・イラン海軍という当事国側の発表のみに基づき、タンカーの隻数等の具体的事実が報道間で一致していない。米側・船舶運航会社による独立した確認は見当たらない)",
+      "en": "Iran's Islamic Revolutionary Guard Corps (IRGC) Navy said on Tuesday, November 3, that three oil tankers hit naval mines and caught fire near the southern shore of the Strait of Hormuz, and remained abandoned and ablaze, according to Anadolu Agency, anews.com.tr, JFeed and other outlets. Separately, Iran's navy had said on Monday, November 2, that a tanker with its navigation systems switched off struck a mine in a restricted area east of the strait. The IRGC further claimed that, over the nine days since CENTCOM Commander Brad Cooper's October 25 visit to the strait, a total of 11 oil tankers have caught fire there, with some reportedly sinking -- a claim with no independent confirmation found at the time of writing from the US, shipping operators, or maritime security agencies. Reports differ on the number of tankers involved (some say two) and on who laid the mines. Amid the ongoing US-Israel military conflict with Iran (which began February 28, 2026), the Strait of Hormuz has reportedly been effectively shut to oil and LNG shipping (as previously reported, id 2026-10-31-02 and others); if accurate, this latest incident could further worsen navigational safety and oil-supply disruption. Inference: who laid the mines, and whether any tanker has actually sunk, could not be independently verified at the time of writing. [Reliability: Low] (Most reporting traces back solely to statements by Iran's IRGC and Navy -- parties to the conflict -- and specific details such as the number of tankers affected are inconsistent across outlets. No independent confirmation from the US side or shipping operators was found.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-03T04:00:00+00:00",
+    "source": {
+      "name": "Anadolu Agency/anews.com.tr/JFeed(イラン革命防衛隊海軍発表)",
+      "url": "https://www.anews.com.tr/middle-east/2026/11/03/iran-says-3-oil-tankers-hit-naval-mines-catch-fire-in-strait-of-hormuz"
+    },
+    "reliability": "low"
   }
 ]
