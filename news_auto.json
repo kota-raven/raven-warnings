@@ -23,6 +23,75 @@
     "eventKey": "russia_drone_attack_summit_2026-11-03"
   },
   {
+    "id": "auto-43157",
+    "headline": {
+      "ja": "イラン軍司令官が地域安全保障の5つの条件を提示",
+      "en": "Iran military commander sets out five conditions for regional security"
+    },
+    "summary": {
+      "ja": "イラン軍指導部が地域安全保障のための5つの条件を表明。仲介国カタールは米国とイラン間の交渉再開の可能性について「楽観的」との立場を示している。",
+      "en": "Iranian military commander outlines five conditions for regional security. Mediator Qatar says US and Iran are considering proposals to resume negotiations."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-03T13:21:57+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_regional_security_conditions_2026-11"
+  },
+  {
+    "id": "auto-43147",
+    "headline": {
+      "ja": "ポリオワクチン接種を守る警察官2人がパキスタンで銃撃死亡",
+      "en": "Two police officers protecting polio workers shot dead in Pakistan"
+    },
+    "summary": {
+      "ja": "パキスタン北西部クイバル・パクトゥンクワ州で、ポリオワクチン接種チームを護衛していた警察官2人が、オートバイの攻撃者に銃撃され殺害された。",
+      "en": "Two police officers escorting polio vaccination workers shot and killed by gunmen on motorcycle in Khyber Pakhtunkhwa province."
+    },
+    "category": "conflict",
+    "country": "パキスタン",
+    "lat": 33.7906,
+    "lon": 71.6486,
+    "occurredAt": "2026-11-03T12:33:03+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_polio_police_killed_2026-11-03"
+  },
+  {
+    "id": "auto-43121",
+    "headline": {
+      "ja": "イスラエル家宅捜索で拘束されたアルジャジーラ記者が証言",
+      "en": "Arrested Al Jazeera journalist describes Israeli home raid detention"
+    },
+    "summary": {
+      "ja": "イスラエル当局に自宅で拘束されたアルジャジーラ・アラビア記者が、当局による家宅捜索と拘束の経緯を証言した。",
+      "en": "Al Jazeera Arabic correspondent Montaser Nassar describes how Israeli forces raided his home and arrested him during operation."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-11-03T12:14:19+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_al_jazeera_journalist_arrest_2026"
+  },
+  {
     "id": "auto-43165",
     "headline": {
       "ja": "ウクライナで学校への攻撃が継続、2022年以降約2000件",
@@ -44,6 +113,76 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_school_attacks_ongoing"
+  },
+  {
+    "id": "auto-43340",
+    "headline": {
+      "ja": "イスラエル攻撃がガザで市民1人を殺害、11人負傷",
+      "en": "Israeli strike kills Palestinian, injures 11 in Gaza despite ceasefire"
+    },
+    "summary": {
+      "ja": "停戦下のガザでイスラエルの攻撃により、パレスチナ市民1人が殺害され、11人が負傷した。",
+      "en": "Israeli strike kills Palestinian and injures 11 in Gaza, violating ongoing ceasefire agreement."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-11-03T11:44:04+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblpqQnFKMm5KeUw5ck9tREIzSlNVNndlekRCaTI2b3E0clRFRTBPUEtEeTROTm9lTVlId0JSSXNNZjk5R3NfQjVjYUFpSnlvQ2dzSzhoeEZhOGx6LWh1YlZaOEFrVkJXMm5QZzF4MXVXQTZzeFV2N2xlclFaYzJlYjlLY0ZER1JjRUhBam1sS0lCa0tvRl85ZFYxR0J4QXFIQVJ4NHFtM1NnOTA0U2xKYVczZUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_gaza_strike_2026-11-03"
+  },
+  {
+    "id": "auto-43171",
+    "headline": {
+      "ja": "ロシア軍、ウクライナのエネルギーインフラを約300機のドローンで攻撃",
+      "en": "Russia attacks Ukraine energy infrastructure with roughly 300 drones"
+    },
+    "summary": {
+      "ja": "ウクライナ政府によると、ロシア軍は約300機のドローンを用いた攻撃によって、ウクライナのエネルギーインフラを破壊した。",
+      "en": "Ukraine reports Russia carried out overnight attack on energy infrastructure using approximately 300 drones."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-03T11:42:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTJwY2s0aHV1UGp0S0RYaTRpLWFjTElKY05KVDNZLUtkcGpZREpmQTF4MlJlbFFlNlhya2hlMFdPdjFFWXlpN0hDRDhsQVZJMWZfSVRZOXNWUnV5NkxIbGFxWmU1aFZmVlVyT1pzNHFJQnNiUFlJcjhTVW1ielpHbS1EZGVMdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_energy_attack_2026-11-03"
+  },
+  {
+    "id": "auto-43127",
+    "headline": {
+      "ja": "米国がイラン領土を攻撃、ペゼシキアン大統領は外交継続を示唆",
+      "en": "US strikes Iranian territory as Pezeshkian signals diplomatic path"
+    },
+    "summary": {
+      "ja": "米国がイラン南部ケシュム島を6月以来初めて攻撃。一方、イラン大統領は外交継続の意思を示しており、米イラン関係は平和と戦争の岐路にある。",
+      "en": "US conducts first attack on Qeshm Island since June. Iran's Pezeshkian signals continued diplomatic engagement, as US-Iran relations hover between conflict and negotiation."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 26.9492,
+    "lon": 56.2691,
+    "occurredAt": "2026-11-03T10:40:34+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_us_military_strike_qeshm_2026-11-03",
+    "severity": 4
   },
   {
     "id": "auto-43129",
@@ -94,6 +233,75 @@
     "severity": 4
   },
   {
+    "id": "auto-43132",
+    "headline": {
+      "ja": "レバノン、電力危機が深刻化し公的機関への供給を遮断",
+      "en": "Lebanon cuts power to public bodies amid deepening electricity crisis"
+    },
+    "summary": {
+      "ja": "政治対立と戦争により悪化したレバノンの電力危機に対応して、当局が公的機関への電力供給を遮断。専門家はさらに深い構造改革が必要と指摘している。",
+      "en": "Lebanon's government cuts power to public institutions as electricity crisis worsens amid political disputes and ongoing conflict. Experts say structural reforms are essential."
+    },
+    "category": "disaster",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-03T10:17:27+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "lebanon_electricity_crisis_2026"
+  },
+  {
+    "id": "auto-43136",
+    "headline": {
+      "ja": "サイクロン・ムラスがインド東部に上陸",
+      "en": "Cyclone Murasu makes landfall on India's eastern coast"
+    },
+    "summary": {
+      "ja": "強い熱帯低気圧のサイクロン・ムラスがインド東部に上陸し、樹木を倒し停電を引き起こした。数日前に同地域を襲った別のサイクロンに続いての再度の災害。",
+      "en": "Severe cyclonic storm Murasu makes landfall on India's eastern coast, uprooting trees and causing power outages days after another cyclone hit the same region."
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 28.6214,
+    "lon": 77.2148,
+    "occurredAt": "2026-11-03T09:33:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_cyclone_murasu_2026-11-03"
+  },
+  {
+    "id": "auto-43137",
+    "headline": {
+      "ja": "スーダン首都カルトゥームへ避難民が帰還、新たな課題に直面",
+      "en": "Sudan's displaced begin return to war-battered Khartoum capital"
+    },
+    "summary": {
+      "ja": "スーダン内戦で最も大きな被害を受けた首都カルトゥームに避難民が帰還し始めたが、戦争が残した深刻な課題に直面している。",
+      "en": "Displaced Sudanese return to Khartoum, once the hardest-hit area in the civil war, but face substantial reconstruction and humanitarian challenges."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-03T09:18:48+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_khartoum_displaced_return_2026"
+  },
+  {
     "id": "auto-42000",
     "headline": {
       "ja": "米国によるイラン領キシュム島への攻撃を報告(未確認)",
@@ -118,6 +326,29 @@
     "severity": 4
   },
   {
+    "id": "auto-43109",
+    "headline": {
+      "ja": "過去最大63億ドルの暗号資産盗難を北朝鮮が否定",
+      "en": "North Korea denies responsibility for record $6.3bn Binance cryptocurrency hack"
+    },
+    "summary": {
+      "ja": "バイナンスから63億ドルの暗号資産が盗まれた事件で、米政府機関とサイバー分析家は北朝鮮を犯人と指摘しているが、北朝鮮は関与を否定している。",
+      "en": "North Korea denies involvement in record-breaking $6.3 billion cryptocurrency heist from Binance, though US agencies and cyber analysts have blamed Pyongyang."
+    },
+    "category": "economy",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-03T08:33:20+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "northkorea_binance_hack_2026"
+  },
+  {
     "id": "auto-42013",
     "headline": {
       "ja": "北朝鮮が戦略巡航ミサイルの分散弾頭を試験(報道)",
@@ -139,6 +370,53 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "northkorea_warhead_dispersal_test"
+  },
+  {
+    "id": "auto-43144",
+    "headline": {
+      "ja": "エベレスト付近でヘリコプター衝突、インド人観光客が死亡",
+      "en": "Two helicopters crash near Everest base camp, killing Indian tourist"
+    },
+    "summary": {
+      "ja": "ネパール・エベレスト地域でヘリコプター2機が着陸準備中に衝突し、インド人観光客が死亡した。",
+      "en": "Two helicopters collide while preparing to land near Mount Everest base camp in Nepal, killing an Indian tourist."
+    },
+    "category": "disaster",
+    "country": "ネパール",
+    "lat": 27.7017,
+    "lon": 85.3206,
+    "occurredAt": "2026-11-03T07:34:36+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "nepal_helicopter_crash_everest_2026-11-03"
+  },
+  {
+    "id": "auto-43102",
+    "headline": {
+      "ja": "ロシア軍がウクライナ支援拠点を爆撃し29人が死亡",
+      "en": "Russian bombing of Ukrainian aid centre kills 29 people"
+    },
+    "summary": {
+      "ja": "ウクライナ南部の村が3000kg級の大型爆弾で攻撃され、支援センターで最低29人が殺害された。ウクライナ大統領は「極めて悍ましい」攻撃と非難。",
+      "en": "Russian aerial bombardment with 3,000kg bombs on southern Ukrainian village kills at least 29 people at aid centre. Ukraine president calls attack 'utterly horrific'."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-03T07:24:12+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_bombing_aid_center_2026-11-03",
+    "severity": 4
   },
   {
     "id": "auto-42957",
@@ -187,6 +465,29 @@
     "eventKey": "ukraine_zaporizhzhia_airstrikes_nov2026"
   },
   {
+    "id": "auto-43107",
+    "headline": {
+      "ja": "ウクライナ南東部クルソン州で戦闘再開、停戦終了",
+      "en": "Fighting resumes in Kherson after Ukraine ceasefire ends"
+    },
+    "summary": {
+      "ja": "ウクライナ戦争における過去最長となった6日間の停戦終了後、南東部クルソン州で戦闘が再開した。停戦は紛争全体の進展を大きく変えていない。",
+      "en": "Fighting returns to Kherson after unprecedented six-day ceasefire in Ukraine war ends. Truce did little to alter the wider trajectory of the conflict."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 46.6369,
+    "lon": 32.6146,
+    "occurredAt": "2026-11-02T17:33:19+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kherson_fighting_resumed_2026-11-02"
+  },
+  {
     "id": "auto-41983",
     "headline": {
       "ja": "スーダン電力網を狙ったドローン攻撃が拡大",
@@ -208,6 +509,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_power_system_drone_campaign"
+  },
+  {
+    "id": "auto-43115",
+    "headline": {
+      "ja": "イラン当局に銃撃された少女の母が真実究明を求める",
+      "en": "Iranian mother seeking justice after daughter shot dead by authorities"
+    },
+    "summary": {
+      "ja": "イランで銃撃により殺害された少女セヴダの母親サミラが、テヘラン当局に対して真実究明と正義を求めて立ち上がっている。",
+      "en": "Mother of Iranian teenager shot dead by authorities speaks out, seeking justice against the Tehran regime following daughter Sevda's killing."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-02T06:05:34+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_teen_sevda_killing_2026"
   },
   {
     "id": "auto-41907",
