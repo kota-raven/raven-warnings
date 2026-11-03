@@ -26,6 +26,54 @@
     "periodEnd": "2026-11-29T00:00:00Z"
   },
   {
+    "id": "2026-11-02-cn-000131",
+    "recordType": "individual",
+    "country": "CN",
+    "unitName": "GJ-21",
+    "unitNumber": null,
+    "aircraftType": "drone",
+    "position": {
+      "area": "不明",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍四川がステルス無人戦闘航空機GJ-21の飛行・回収作業を実施した",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/02/chinas-new-drone-carrier-launches-recovers-first-autonomous-combat-aircraft"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-10-28-jp-000123",
+    "recordType": "individual",
+    "country": "JP",
+    "unitName": "SH-60K",
+    "unitNumber": null,
+    "aircraftType": "transport",
+    "position": {
+      "area": "相模湾",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊SH-60Kと米海軍MH-60Rが相模湾で対潜戦訓練を実施した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37397/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-28T00:00:00Z"
+  },
+  {
     "id": "2026-10-28-us-000107",
     "recordType": "individual",
     "country": "US",
@@ -45,6 +93,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-28T00:00:00Z"
+  },
+  {
+    "id": "2026-10-28-us-000124",
+    "recordType": "individual",
+    "country": "US",
+    "unitName": "MH-60R",
+    "unitNumber": null,
+    "aircraftType": "transport",
+    "position": {
+      "area": "相模湾",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍MH-60Rと海上自衛隊SH-60Kが相模湾で対潜戦訓練を実施した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37397/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"

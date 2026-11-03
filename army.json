@@ -47,5 +47,31 @@
     "anomalyLevel": "alert",
     "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-13T17:41:19Z"
+  },
+  {
+    "id": "-us-000132",
+    "recordType": "aggregate",
+    "country": "US",
+    "unitName": "Marine Rotational Force-Southeast Asia",
+    "unitNumber": null,
+    "unitType": "special_forces",
+    "position": {
+      "area": "フィリピン",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海兵隊Marine Rotational Force-Southeast Asiaが第2次継続駐留で10月26日にローテーション交代を実施した。フィリピン政府の招待に基づき継続駐留を行っている",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/02/marine-force-southeast-asia-will-maintain-continuous-presence-in-the-philippines"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": "2026-10-26T00:00:00Z",
+    "periodEnd": null
   }
 ]

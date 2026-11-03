@@ -168,6 +168,126 @@
     "observedAt": null
   },
   {
+    "id": "2026-11-02-cn-000130",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "四川",
+    "shipNumber": "51",
+    "shipType": "carrier",
+    "position": {
+      "area": "不明",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍の新型Type 076ドローン空母四川が、ステルス無人戦闘航空機GJ-21の回収作業を実施した",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/02/chinas-new-drone-carrier-launches-recovers-first-autonomous-combat-aircraft"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-11-02-cn-000127",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "荊州",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "奄美大島と横当島の間～東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍フリゲート荊州が奄美大島と横当島との間の海域を南西進し、東シナ海へ向けて航行した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37395/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-11-02-ru-000126",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "カレリヤ",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "久米島沖接続水域～宮古海峡～太平洋",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍情報収集艦カレリヤが久米島周辺を航行後、宮古海峡を南進して太平洋へ向けて航行した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37389/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-11-02-us-000128",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "トリポリ",
+    "shipNumber": "LHA-7",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "佐世保日本",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍強襲揚陸艦トリポリが日本の佐世保港に入港している",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-11-02-us-000129",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "マキン・アイランド",
+    "shipNumber": "LHD-8",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "横須賀日本",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍強襲揚陸艦マキン・アイランドが日本の横須賀に入港している",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
     "id": "2026-11-01-ca-000114",
     "recordType": "individual",
     "country": "CA",
@@ -235,6 +355,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-31T00:00:00Z"
+  },
+  {
+    "id": "2026-10-31-us-000125",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "ジョン・ポール・ジョーンズ",
+    "shipNumber": "DDG-53",
+    "shipType": "destroyer",
+    "position": {
+      "area": "アラビア海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍アーレイ・バーク級ミサイル駆逐艦DDG-53ジョン・ポール・ジョーンズが、アラビア海で動力を失ったインド船籍船を支援した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37393/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-31T00:00:00Z"
@@ -2172,6 +2316,30 @@
     "count": null,
     "periodStart": "2026-10-01T00:00:00Z",
     "periodEnd": "2026-10-14T00:00:00Z"
+  },
+  {
+    "id": "2026-10-14-ru-000133",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "ノイストラシムイ",
+    "shipNumber": "177",
+    "shipType": "frigate",
+    "position": {
+      "area": "イギリス周辺・イギリス海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "英海軍駆逐艦HMS Dauntless (D33)と哨戒艇HMS Tyne (P281)がロシア海軍フリゲートRFS Neustrashimy (177)を追跡した。同艦は制裁対象の貨物船を護衛していた",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/03/u-k-forces-track-russian-warships-in-3-operations-spanning-2-weeks"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "2026-10-13-us-000014",
