@@ -1,31 +1,19 @@
 {
-  "generatedAt": "2026-11-03T06:31:35.576Z",
+  "generatedAt": "2026-11-03T15:00:28.070Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 193,
+  "count": 185,
   "warnings": [
     {
-      "id": "NAVAREA11-260495",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "海洋調査",
-      "number": "0495",
-      "title": "マカッサル海峡、地質調査作業終了",
-      "publishedAt": "2026-11-02T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0495    発表日時:2026年11月02日 21時\r\n\n\r\nSELAT MAKASAR.\r\r\nSEISMIC SURVEY WORKS BY S/V RAMFORM\r\r\nSOVEREIGN CONCLUDED.\r\r\nCANCEL 0034/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260495&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260494",
+      "id": "NAVAREA11-260496",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
       "category": "その他",
-      "number": "0494",
+      "number": "0496",
       "title": "スールー海、宇宙ゴミ落下",
-      "publishedAt": "2026-11-02T21:00:00+09:00",
+      "publishedAt": "2026-11-03T21:00:00+09:00",
       "geometry": null,
-      "rawText": "NO.26-0494    発表日時:2026年11月02日 21時\r\n\n\r\nSULU SEA.\r\r\nSPACE DEBRIS.\r\r\n051900Z TO 060100Z NOV. AREAS BOUNDED BY\r\r\nA. 09-16.8N 118-59.4E\r\r\n   09-24.0N 119-09.0E\r\r\n   09-06.0N 119-22.2E\r\r\n   08-59.4N 119-12.6E.\r\r\n(2)09-16.2N 118-57.0E\r\r\n   09-28.2N 119-12.6E\r\r\n   08-57.0N 119-36.0E\r\r\n   08-45.0N 119-19.8E.\r\r\nCANCEL THIS MSG 060200Z NOV.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260494&LANG=JP"
+      "rawText": "NO.26-0496    発表日時:2026年11月03日 21時\r\n\n\r\nSULU SEA.\r\r\nSPACE DEBRIS.\r\r\n081800Z TO 082400Z NOV. AREAS BOUNDED BY\r\r\nA. 09-16.8N 118-59.4E\r\r\n   09-24.0N 119-09.0E\r\r\n   09-06.0N 119-22.2E\r\r\n   08-59.4N 119-12.6E.\r\r\nB. 09-16.2N 118-57.0E\r\r\n   09-28.2N 119-12.6E\r\r\n   08-57.0N 119-36.0E\r\r\n   08-45.0N 119-19.8E.\r\r\nCANCEL 0494/26.\r\r\nCANCEL THIS MSG 090100Z NOV.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260496&LANG=JP"
     },
     {
       "id": "NAVAREA11-260493",
@@ -310,6 +298,62 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264345",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4345",
+      "title": "インド西岸、海底管作業",
+      "publishedAt": "2026-11-03T23:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4345   発表日時:2026年11月03日 23時\r\n\n\r\n★ インド西岸、\r\r\nFUGRO MAPPER、M/V ORION LAXMI、M/V SEAMAC\r\r\nPRINCESS、M/V SEAMAC 2による海底管作業、12月3日まで、\r\r\n20-21.93N 071-18.12E 20-27.62N 072-27.79E\r\r\n20-00.87N 072-27.20E 20-01.97N 071-19.79E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264345&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264344",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4344",
+      "title": "南太平洋東部、宇宙ゴミ落下",
+      "publishedAt": "2026-11-03T20:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -122.73333333333333,
+            -27.983333333333334
+          ],
+          [
+            -120.71666666666667,
+            -27.15
+          ],
+          [
+            -115.06666666666666,
+            -38.35
+          ],
+          [
+            -107.36666666666666,
+            -49.15
+          ],
+          [
+            -95.56666666666666,
+            -59.15
+          ],
+          [
+            -99.08333333333333,
+            -59.96666666666667
+          ],
+          [
+            -114.21666666666667,
+            -44.56666666666667
+          ]
+        ]
+      },
+      "rawText": "番号:26-4344   発表日時:2026年11月03日 20時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下、11月7日0233Z-0711Z、8日0219Z-0657Z、\r\r\n9日0206Z-0644Z、10日0152Z-0630Z、\r\r\n11日0138Z-0616Z、12日0124Z-0602Z、\r\r\n13日0110Z-0548Z、\r\r\n27-59S 122-44W 27-09S 120-43W \r\r\n38-21S 115-04W 49-09S 107-22W\r\r\n59-09S 095-34W 59-58S 099-05W\r\r\n44-34S 114-13Wで囲まれる海面。\r\r\n(4259削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264344&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264343",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -320,18 +364,6 @@
       "geometry": null,
       "rawText": "番号:26-4343   発表日時:2026年11月03日 08時\r\n\n\r\n★ インド東岸、\r\r\nVAKALPUDI NAVTEX局(Q)(17-00.8N 082-17.1E)\r\r\n欠射。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264343&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264342",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "4342",
-      "title": "ベンガル湾、灯台消灯に関する情報削除",
-      "publishedAt": "2026-11-03T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4342   発表日時:2026年11月03日 08時\r\n\n\r\n★ ベンガル湾、\r\r\nRAVAPORT灯台消灯に関する情報削除。\r\r\n(4275削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264342&LANG=JP"
     },
     {
       "id": "JAPANNW-264341",
@@ -604,18 +636,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264331&LANG=JP"
     },
     {
-      "id": "JAPANNW-264330",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海洋調査",
-      "number": "4330",
-      "title": "マカッサル海峡、地質調査作業終了",
-      "publishedAt": "2026-11-02T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4330   発表日時:2026年11月02日 20時\r\n\n\r\nマカッサル海峡、\r\r\nS/V RAMFORM SOVEREIGNによる地質調査作業終了。\r\r\n(0301削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264330&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264329",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -678,24 +698,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264327&LANG=JP"
     },
     {
-      "id": "JAPANNW-264326",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4326",
-      "title": "済州島北西、射撃",
-      "publishedAt": "2026-11-02T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          124.5,
-          34.416666666666664
-        ]
-      },
-      "rawText": "番号:26-4326   発表日時:2026年11月02日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島北西、\r\r\n射撃、11月2日2100Z-翌日0145Z、33-39N 34-25N\r\r\n124-30E 125-44Eの各線で囲まれる海面。\r\r\n(4307削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264326&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264325",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -706,18 +708,6 @@
       "geometry": null,
       "rawText": "番号:26-4325   発表日時:2026年11月02日 20時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃、11月7日(予備8日)0830-2400、36-55.8N\r\r\n141-17.0Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264325&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264323",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4323",
-      "title": "若狭湾、射撃終了",
-      "publishedAt": "2026-11-02T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4323   発表日時:2026年11月02日 20時\r\n\n\r\n若狭湾、\r\r\n射撃終了。\r\r\n(4242削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264323&LANG=JP"
     },
     {
       "id": "JAPANNW-264322",
@@ -996,24 +986,6 @@
       },
       "rawText": "番号:26-4303   発表日時:2026年10月30日 20時\r\n\n\r\n★ 朝鮮半島西岸、大青群島付近、\r\r\n射撃、11月3日、4日毎日0600Z-0900Z、5日0500Z-0800Z、\r\r\n6日0700Z-1000Z、37-44-55N 124-05-10E\r\r\n37-44-55N 124-36-40E 37-30-10N 124-36-40E\r\r\n37-30-14N 124-05-10Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264303&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264302",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4302",
-      "title": "済州島南（Ｄ−１４７）、射撃",
-      "publishedAt": "2026-10-30T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          126.33333333333333,
-          32.666666666666664
-        ]
-      },
-      "rawText": "番号:26-4302   発表日時:2026年10月30日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南、\r\r\n射撃、11月2日、3日毎日0000Z-1100Z、\r\r\n32-40N 126-20Eを中心とする半径6海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264302&LANG=JP"
     },
     {
       "id": "JAPANNW-264301",
@@ -1696,50 +1668,6 @@
       "geometry": null,
       "rawText": "番号:26-4264   発表日時:2026年10月29日 08時\r\n\n\r\n★ インド西岸、\r\r\n(1)掘削装置(ABAN IV)移設、\r\r\n   18-39.22N 070-58.86E、\r\r\n(2)掘削装置(JINDAL SUPREME)移設、\r\r\n   18-13.03N 070-44.14E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264264&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264259",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4259",
-      "title": "南太平洋東部、宇宙ゴミ落下",
-      "publishedAt": "2026-10-28T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -122.73333333333333,
-            -27.983333333333334
-          ],
-          [
-            -120.71666666666667,
-            -27.15
-          ],
-          [
-            -115.06666666666666,
-            -38.35
-          ],
-          [
-            -107.36666666666666,
-            -49.15
-          ],
-          [
-            -95.56666666666666,
-            -59.15
-          ],
-          [
-            -99.08333333333333,
-            -59.96666666666667
-          ],
-          [
-            -114.21666666666667,
-            -44.56666666666667
-          ]
-        ]
-      },
-      "rawText": "番号:26-4259   発表日時:2026年10月28日 20時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下、11月2日0343Z-0821Z、3日0329Z-0807Z、\r\r\n4日0315Z-0753Z、5日0301Z-0739Z、\r\r\n6日0247Z-0725Z、7日0233Z-0711Z、\r\r\n8日0219Z-0657Z、\r\r\n27-59S 122-44W 27-09S 120-43W \r\r\n38-21S 115-04W 49-09S 107-22W\r\r\n59-09S 095-34W 59-58S 099-05W\r\r\n44-34S 114-13Wで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264259&LANG=JP"
     },
     {
       "id": "JAPANNW-264258",
@@ -2740,130 +2668,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264199&LANG=JP"
     },
     {
-      "id": "JAPANNW-264171",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4171",
-      "title": "南太平洋東部、宇宙ゴミ落下",
-      "publishedAt": "2026-10-23T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -122.73333333333333,
-            -27.983333333333334
-          ],
-          [
-            -120.71666666666667,
-            -27.15
-          ],
-          [
-            -115.06666666666666,
-            -38.35
-          ],
-          [
-            -107.36666666666666,
-            -49.15
-          ],
-          [
-            -95.56666666666666,
-            -59.15
-          ],
-          [
-            -99.08333333333333,
-            -59.96666666666667
-          ],
-          [
-            -114.21666666666667,
-            -44.56666666666667
-          ]
-        ]
-      },
-      "rawText": "番号:26-4171   発表日時:2026年10月23日 20時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下、10月28日0618Z-1056Z、29日0604Z-1042Z、\r\r\n30日0549Z-1027Z、31日0535Z-1013Z、\r\r\n11月1日0520Z-0958Z、2日0506Z-0944Z、\r\r\n3日0452Z-0930Z、\r\r\n27-59S 122-44W 27-09S 120-43W \r\r\n38-21S 115-04W 49-09S 107-22W\r\r\n59-09S 095-34W 59-58S 099-05W\r\r\n44-34S 114-13Wで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264171&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264170",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4170",
-      "title": "北太平洋東部、ロケット打上げ",
-      "publishedAt": "2026-10-23T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -117.65,
-            29.8
-          ],
-          [
-            -120.3,
-            34.46666666666667
-          ],
-          [
-            -120.6,
-            34.666666666666664
-          ],
-          [
-            -120.65,
-            34.65
-          ],
-          [
-            -120.65,
-            34.5
-          ],
-          [
-            -118.2,
-            29.583333333333332
-          ],
-          [
-            -117.9,
-            29.866666666666667
-          ],
-          [
-            -117.65,
-            29.8
-          ],
-          [
-            -117.9,
-            29.866666666666667
-          ],
-          [
-            -118.2,
-            29.583333333333332
-          ],
-          [
-            -118.13333333333334,
-            29.4
-          ],
-          [
-            -118.03333333333333,
-            29.25
-          ],
-          [
-            -117.98333333333333,
-            29.033333333333335
-          ],
-          [
-            -117.31666666666666,
-            28.2
-          ],
-          [
-            -117.31666666666666,
-            28.833333333333332
-          ],
-          [
-            -117.26666666666667,
-            29.6
-          ]
-        ]
-      },
-      "rawText": "番号:26-4170   発表日時:2026年10月23日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\nロケット打上げ、\r\r\n(1)10月28日0431Z-0856Z(予備29日0417Z-0842Z、\r\r\n   30日0402Z-0827Z、31日0348Z-0813Z、\r\r\n   11月1日0333Z-0758Z、2日0319Z-0744Z、\r\r\n   3日0305Z-0730Z)、\r\r\n   29-48N 117-39W 34-28N 120-18W\r\r\n   34-40N 120-36W 34-39N 120-39W\r\r\n   34-30N 120-39W 29-35N 118-12W\r\r\n   29-52N 117-54W、\r\r\n(2)10月28日0431Z-0914Z(予備29日0417Z-0900Z、 \r\r\n   30日0402Z-0845Z、31日0348Z-0831Z、\r\r\n   11月1日0333Z-0816Z、2日0319Z-0802Z、\r\r\n   3日0305Z-0748Z)、\r\r\n   29-48N 117-39W 29-52N 117-54W\r\r\n   29-35N 118-12W 29-24N 118-08W\r\r\n   29-15N 118-02W 29-02N 117-59W\r\r\n   28-12N 117-19W 28-50N 117-19W\r\r\n   29-36N 117-16W、\r\r\nで囲まれる各海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264170&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264165",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2924,38 +2728,6 @@
       "geometry": null,
       "rawText": "番号:26-4128   発表日時:2026年10月19日 22時\r\n\n\r\n★ オーストラリア南西岸、\r\r\nM/V REACH REMOTE2による水中作業、当分の間、\r\r\n34-24.1S 34-53.6S 114-56.4E 115-39.7E\r\r\nの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264128&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264071",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4071",
-      "title": "ニュージーランド東、宇宙ゴミ落下",
-      "publishedAt": "2026-10-16T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            175.5,
-            -43.5
-          ],
-          [
-            177.5,
-            -43.5
-          ],
-          [
-            176.5,
-            -46.5
-          ],
-          [
-            174.5,
-            -46.5
-          ]
-        ]
-      },
-      "rawText": "番号:26-4071   発表日時:2026年10月16日 20時\r\n\n\r\n★ ニュージーランド東、\r\r\n宇宙ゴミ落下、10月21日-11月3日毎日0500Z-0845Z、\r\r\n43-30S 175-30E 43-30S 177-30E\r\r\n46-30S 176-30E 46-30S 174-30Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264071&LANG=JP"
     },
     {
       "id": "JAPANNW-264065",
