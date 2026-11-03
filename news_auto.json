@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-43718",
+    "headline": {
+      "ja": "サミット中のロシアが大規模ドローン攻撃に直面と発表",
+      "en": "Russia claims facing one of largest drone attacks during Russia-Africa summit"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ロシア・アフリカサミット開催中に大規模なドローン攻撃を受けたと発表した。",
+      "en": "Russian government reported facing one of the largest drone attacks during the Russia-Africa summit."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-03T16:47:51+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80dDdBN2JUV2hQeGEyV3BPWHA4WWZ0cXF5bXdpd2dCcTZ1QWJJQ2tvT0NxSnA4TUhPNnh4dk9EOGFGdnAyRlRlWdIBTkFVX3lxTE94VWVxRUt2VEQwTU9BNmhUSm5zeHI2cEZxQnluSmF2SDRETmo2Yk80Q0M2RGU3RnFTLW1JWVVMdFhUZEVrQjg1cjFTQ2l1Zw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_drone_attack_summit_2026-11-03"
+  },
+  {
     "id": "auto-43165",
     "headline": {
       "ja": "ウクライナで学校への攻撃が継続、2022年以降約2000件",
@@ -3041,120 +3064,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "us_iran_military_spending_2026_10_28"
-  },
-  {
-    "id": "auto-33769",
-    "headline": {
-      "ja": "ゼレンスキー、ベレス作戦でロシア軍がクピャンスク地域で失敗と述べる",
-      "en": "Zelenskyy Says Operation Veles Shows Russia Failing in Kupiansk Area"
-    },
-    "summary": {
-      "ja": "ウクライナ大統領は、オペレーション・ベレス作戦がウクライナの立場を強化し、ロシア軍がクピャンスク地域での目標を達成できていないことを示していると述べた。",
-      "en": "President Zelenskyy stated that Operation Veles strengthens Ukraine's positions and demonstrates Russia's failure to achieve objectives in the Kupiansk area."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 49.71,
-    "lon": 37.6158,
-    "occurredAt": "2026-10-27T18:40:00+00:00",
-    "source": {
-      "name": "ウクライナ 大統領府(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUljakstX0pHMS1OXzE0U2YwaGllS2hhSWRGZFh1WkxHdkNMTVBPY09pWEl5TWJLV2w2YzZkV3FyLXhaMk1YMzVTd2xoMTVqRkIyR0xqYTAzSzlyUUduQTlWb2FHOFNpMFpKTHZ0cE5QX0xzby0wQ2dfWUdMVGpvQTUzSHFTSDZkeE9NYU1zekxDNm50bi1Wcm5CZmFBWFFaLU9JeVhBYw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_operation_veles_kupiansk_2026-10-27"
-  },
-  {
-    "id": "auto-33734",
-    "headline": {
-      "ja": "クレムリン報道官、プーチンがゼレンスキーのモスクワ訪問を招待したと述べる",
-      "en": "Kremlin Aide Says Putin Invited Zelenskyy to Visit Moscow"
-    },
-    "summary": {
-      "ja": "ロシア大統領府の関係者によると、プーチン大統領はウクライナのゼレンスキー大統領のモスクワ訪問を招待し、その安全を確保すると約束したという。",
-      "en": "According to a Kremlin aide, President Putin invited Ukraine's President Zelenskyy to visit Moscow and promised to ensure his safety."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-27T18:00:50+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYWo2d21KekRzLTBFWmNsUWNBU2gtX3FLa3l4bVZxRWNWaDNOSTJNNVJrcVJfRktlM3NiVlBreXphOERuRzVRUFdxN1NhUXVqR21vLVBnMXBiNFZUVHJleGtCV0xRcS1SdjFUMlVPaTYzX0FiN3NCWWFjYzRLTlMxUlZoaVBCNmtRaU4yZEFPZnRGbXE2dV9LenpxS09EZHozMHhUck5UUFpxaVpWNkdiZjFVaXJ2Y0czeTE2YW8wazdCaEVxSlpncUtvVWQ0RFE3U0JvS3Rn?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "russia_ukraine_putin_zelenskyy_moscow_invitation_2026-10-27"
-  },
-  {
-    "id": "auto-33740",
-    "headline": {
-      "ja": "ヨルダン空爆後、シリアの民間人保護で国連が声明",
-      "en": "UN calls for protection of civilians following Jordanian airstrikes in southern Syria"
-    },
-    "summary": {
-      "ja": "国連は、ヨルダンがシリア南部で実施した空爆のあと、民間人保護の重要性を強調する声明を発表した。",
-      "en": "The UN emphasized the importance of civilian protection following Jordanian airstrikes in southern Syria."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-27T17:38:28+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEp2bGMzYVkxeEFtWXlpVEFIMmRxWm85bGR5NHdVT2VsV1dpdTFReVRnb3N4R2ZzTjdwSXE0UnM1ekg0VlB2XzNBZGc4SjVfTDNvSG11bzQ4ak5jNmwxbFU5SjNfM1ppcHp3MnB5V3RlOTB4OUJPTzM5Nms0MGFOLV9femhlYkdsaVBtdUw3bG9vdFFqMlplc3FlYnppV28wWFVudTh3VXotR1VUMXg1YWU5Z1NtanJDZXZKVA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "jordan_syria_airstrike_un_response_2026-10-27"
-  },
-  {
-    "id": "auto-33457",
-    "headline": {
-      "ja": "ヨルダン空爆でシリア家族4人が殺害、葬儀が執り行われた",
-      "en": "Funeral held for family of four killed in Jordanian airstrikes in Syria"
-    },
-    "summary": {
-      "ja": "シリアでのヨルダンの空爆により、子ども3人を含む家族4人が殺害され、葬儀が行われた。",
-      "en": "Four family members, including three children, were buried after being killed in Jordanian airstrikes in Syria."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-27T17:03:45+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "jordan_syria_airstrike_2026-10-27"
-  },
-  {
-    "id": "auto-33696",
-    "headline": {
-      "ja": "サウジがフーシ派の弾道ミサイル2発を迎撃、リヤドで被害報告",
-      "en": "Saudi Arabia intercepts two Houthi ballistic missiles, damage reported in Riyadh"
-    },
-    "summary": {
-      "ja": "サウジアラビア民間防衛庁は、フーシ派が発射した弾道ミサイル2発を迎撃したが、迎撃された破片がリヤドの建物、建設中のプロジェクト、車両に被害をもたらしたと発表した。",
-      "en": "Saudi Civil Defense reported successfully intercepting two Houthi ballistic missiles, with material damage to buildings, a construction project, and vehicles in Riyadh from debris."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-27T15:17:13+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MaFVwWl9UYjZNQWlRQWdsT3VMSFdHOGNET280czR1VHVVdENQN1lnVWRsZWFlUlhCYTd3S2UwYTZWcHhCaW4tYXhR?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_houthi_missile_attack_2026-10-27"
   }
 ]
