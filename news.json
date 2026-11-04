@@ -194,5 +194,26 @@
       "url": "https://www.koreatimes.co.kr/world/20261104/iran-us-still-far-apart-on-deal-to-end-war-as-qatar-pushes-mediation"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-04-02",
+    "headline": {
+      "ja": "米中間選挙(上院):民主党がノースカロライナ州で共和党議席を奪還、ジョージア・ニューハンプシャーは議席維持 下院は「民主党優位」と報道",
+      "en": "US midterms (Senate): Democrats flip North Carolina seat from GOP, hold Georgia and New Hampshire; House seen leaning Democratic"
+    },
+    "summary": {
+      "ja": "米中間選挙(11月3日投開票)の上院選について、AP通信はノースカロライナ州で民主党のロイ・クーパー氏が共和党のマイケル・ウェトリー氏を破って当選確実と報じ、これにより共和党が保持していた議席が民主党に移ったという。ジョージア州では民主党現職のジョン・オソフ氏が共和党のマイク・コリンズ氏を破り議席を維持、ニューハンプシャー州では民主党のクリス・パパス氏が共和党のジョン・スヌヌ氏を破り議席を維持したとAP通信が報じ、CBS News・CNBCも同様の当選確実情報を伝えたという。下院については本稿執筆時点で全議席の当選確実報道には至っていないが、CNBC・NBC Newsの集計では「民主党優位(リーン・デモクラティック)」の情勢と報じられているという。フロリダ州上院選については、CNBCは「予測不能」としたのに対しCBS Newsは共和党現職アシュリー・ムーディー氏の当選確実を報じるなど、報道間で食い違いがあるという。推測:上院・下院それぞれの最終的な多数派がどちらになるかは、本稿執筆時点で確定していない。[信頼性: 高](AP通信の当選確実〔レースコール〕をCBS News・CNBCが同様に報じており、独立した複数の主要メディアによる一致が確認できる。フロリダ州など一部の州の情勢については報道間で食い違いがある)",
+      "en": "In the Senate races of the November 3 US midterm elections, the Associated Press projected that Democrat Roy Cooper defeated Republican Michael Whatley in North Carolina, flipping a seat previously held by the GOP, according to AP, with CBS News and CNBC reporting the same call. In Georgia, Democratic incumbent Jon Ossoff was projected to have defeated Republican Mike Collins to hold his seat, and in New Hampshire Democrat Chris Pappas was projected to have defeated Republican John Sununu to hold that seat, per AP, CBS News and CNBC. As of this writing, not all House races have been called, but tallies from CNBC and NBC News describe the chamber as \"leaning Democratic.\" Reports diverged on Florida's Senate race, with CNBC calling it \"too close to call\" while CBS News projected Republican incumbent Ashley Moody had won. Inference: which party will ultimately hold a majority in the Senate and House was not yet settled at the time of writing. [Reliability: High] (AP's race calls are corroborated by matching reports from CBS News and CNBC, multiple independent major outlets; some state-level calls, such as Florida, diverge between outlets.)"
+    },
+    "category": "conflict",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-04T02:00:00+00:00",
+    "source": {
+      "name": "AP(CBS News/CNBC経由)",
+      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+    },
+    "reliability": "high"
   }
 ]
