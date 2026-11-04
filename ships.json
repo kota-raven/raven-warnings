@@ -168,6 +168,102 @@
     "observedAt": null
   },
   {
+    "id": "2026-11-04-cn-000137",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "玉衡星",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "大隅海峡(Osumi Strait)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍の情報収集艦「玉衡星」が大隅海峡を西進し東シナ海へ",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37395/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-04T21:21:02+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
+    "id": "2026-11-04-cn-000136",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "荊州",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "奄美大島と横当島の間、東シナ海(East China Sea)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍フリゲート「荊州」が奄美大島と横当島の間を南西進し東シナ海へ",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37402/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-04T21:21:02+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
+    "id": "2026-11-03-us-000138",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Harrisburg",
+    "shipNumber": "LPD-30",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Gulf Coast",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "San Antonio-class amphibious transport dock USS Harrisburg completed builder's sea trials",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/03/first-flight-ii-san-antonio-class-amphib-completes-builders-trials"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-04T21:21:02+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-03T22:02:02Z"
+  },
+  {
+    "id": "2026-11-02-us-000134",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Enterprise",
+    "shipNumber": "CVN-65",
+    "shipType": "carrier",
+    "position": {
+      "area": "Mobile, Alabama",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Decommissioned aircraft carrier hull being towed from Newport News Shipbuilding to Mobile, Alabama for dismantling",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37409/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-04T21:21:02+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T16:32:40Z"
+  },
+  {
     "id": "2026-11-02-cn-000130",
     "recordType": "individual",
     "country": "CN",
@@ -211,6 +307,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-11-02-cn-000135",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡(Miyako Strait)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦が宮古海峡を往来。高速戦闘支援艦「呼倫湖」や補給艦「巣湖」と航行",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37406/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-04T21:21:02+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-02T00:00:00Z"
@@ -647,8 +767,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -671,8 +791,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -695,8 +815,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -719,8 +839,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -743,8 +863,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -1177,8 +1297,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1345,8 +1465,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -1369,8 +1489,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -1393,8 +1513,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -1417,8 +1537,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -1441,8 +1561,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -1465,8 +1585,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -1489,8 +1609,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -1513,8 +1633,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-20T00:00:00Z"
   },
   {
@@ -1658,7 +1778,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -1681,8 +1801,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "count": 2,
     "periodStart": null,
     "periodEnd": null
@@ -1708,7 +1828,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
@@ -2769,8 +2889,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-23T19:35:00Z",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比6.4倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
