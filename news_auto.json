@@ -24,6 +24,98 @@
     "severity": 4
   },
   {
+    "id": "auto-44252",
+    "headline": {
+      "ja": "トランプ大統領がイスラエル軍事援助38億ドルの中止を表明",
+      "en": "Trump says he's ending Israel's $3.8 bn military aid deal"
+    },
+    "summary": {
+      "ja": "トランプ米大統領が、イスラエルへの年間38億ドルの軍事支援パッケージを年末までに終了すると述べた。",
+      "en": "US President Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-04T01:13:49+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "trump_israel_military_aid_2026-11-04"
+  },
+  {
+    "id": "auto-44260",
+    "headline": {
+      "ja": "イラン、新たな米国攻撃に対する「最大抑止力」計画を準備",
+      "en": "Iran prepares 'maximum deterrence' plan for any new US attack"
+    },
+    "summary": {
+      "ja": "イランは米国による新たな攻撃への対抗として「最大抑止力」計画を準備していると述べ、即座に対応すると警告した。",
+      "en": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-04T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_maximum_deterrence_plan_2026-11-04"
+  },
+  {
+    "id": "auto-44244",
+    "headline": {
+      "ja": "スペイン列車衝突事故で少なくとも69人死亡",
+      "en": "Spanish transport minister resigns days after deadly train crash"
+    },
+    "summary": {
+      "ja": "マドリード南部での列車衝突事故で少なくとも69人が死亡し、多数が負傷した。運輸大臣が辞任した。",
+      "en": "At least 69 people were killed and dozens injured in a train collision south of Madrid. The transport minister resigned."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-11-03T22:45:59+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_madrid_train_crash_2026-11-03"
+  },
+  {
+    "id": "auto-44300",
+    "headline": {
+      "ja": "IRGC、米国・イスラエルの攻撃には「無制限の対応」をするよう警告",
+      "en": "IRGC vows 'effective, unlimited' response to any aggression"
+    },
+    "summary": {
+      "ja": "イランの革命防衛隊(IRGC)は、米国・イスラエルによる新たな攻撃には「幅広い効果的な対応」で応じると警告した。",
+      "en": "Iran's IRGC has warned that any new US-Israeli attack will be met with a broad and effective response."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-03T19:51:20+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86311744/IRGC-vows-effective-unlimited-response-to-any-aggression"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "irgc_unlimited_response_warning_2026-11-03"
+  },
+  {
     "id": "auto-43718",
     "headline": {
       "ja": "サミット中のロシアが大規模ドローン攻撃に直面と発表",
@@ -114,6 +206,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "palestine_al_jazeera_journalist_arrest_2026"
+  },
+  {
+    "id": "auto-44297",
+    "headline": {
+      "ja": "イエメンの戦争で14歳の少女が強制的に結婚させられる",
+      "en": "Married off at 14: In Yemen's war, women and girls suffer 'devastating consequences'"
+    },
+    "summary": {
+      "ja": "イエメンの戦争で、少女たちが経済的な懸念から高齢男性と結婚させられている。14歳のサファは父親の死を危惧し、高齢男性に嫁いだ。",
+      "en": "In Yemen's ongoing war, young girls including a 14-year-old are being married off to elderly men as families fear for their survival."
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-03T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168730"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_child_marriage_crisis_2026-11-03"
   },
   {
     "id": "auto-43165",
