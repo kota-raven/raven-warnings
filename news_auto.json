@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-45411",
+    "headline": {
+      "ja": "ロシア、DPRのガソリンスタンドへのドローン攻撃でバス運転手が死傷と報告",
+      "en": "Russian-backed DPR reports bus driver killed in Ukrainian drone attack on gas station"
+    },
+    "summary": {
+      "ja": "ロシア側によると、ドネツク人民共和国のガソリンスタンドへのウクライナ側ドローン攻撃で、バス運転手が死傷した。",
+      "en": "Russian-backed sources reported that a bus driver was killed in a Ukrainian drone attack on a gas station in the DPR."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-04T07:31:24+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpejVremlCbDh3amxORFVyYjNEaklaTVEzMlVNdGJQVzd1VmI0ai1xblYtcGxXbmc5N3hRWGcyWGtIQWlXbHBB0gFMQVVfeXFMTnpvSldxeVZiRGt6dEo2ZlhtQmoyck5TUWR1M2tzVXhWS05fNC15SHd0SHFObHQyTVdjR1dfbnhZUDhrYmJESkduTkRFRw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "dpr_gas_station_drone_attack_2026-11-03"
+  },
+  {
+    "id": "auto-44875",
+    "headline": {
+      "ja": "イラン、油タンカー4隻が機雷で破壊、米ドローン撃墜と発表",
+      "en": "Iran announces destruction of 4 oil tankers by mines, shootdown of 56th US MQ-9 drone"
+    },
+    "summary": {
+      "ja": "イラン政府は、石油禁輸に違反した油タンカー4隻が機雷により破壊され、2隻が拿捕され、56番目のMQ-9ドローンが撃墜されたと発表した。",
+      "en": "Iran's IRGC announced the destruction of 4 oil tankers attempting to breach its sanctions, the seizure of 2 others, and the shootdown of a 56th MQ-9 drone."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-04T06:16:22+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86311879/Four-oil-tankers-trying-to-break-the-ban-hit-mines-IRGC-shoots"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_oil_tanker_mine_mq9_2026-11-04"
+  },
+  {
     "id": "auto-44759",
     "headline": {
       "ja": "北朝鮮、ミサイル発射と60億ドルの暗号資産盗難疑惑を否定",
@@ -21,6 +67,30 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "north_korea_binance_hack_denial_2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-45862",
+    "headline": {
+      "ja": "ロシア大使館、カリーニングラード防衛のため核兵器使用準備があると警告",
+      "en": "Russian Embassy warns of readiness to use nuclear weapons to defend Kaliningrad"
+    },
+    "summary": {
+      "ja": "ロシア大使館は、モスクワはカリーニングラード地域の防衛のため核兵器を使用する準備があると警告した。",
+      "en": "Russian Embassy warned that Moscow is prepared to use nuclear weapons to defend Kaliningrad region."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 54.7064,
+    "lon": 20.511,
+    "occurredAt": "2026-11-04T05:00:29+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DcTZKMG9pSk9FN3RnVkFuTGxiRlFrU3F6WmdyMUdBYi1jcnBzOFFuS0F1b2RrYzNIMVN5YVFhVkpIME4yWEw3VNIBTkFVX3lxTFBHU25PeTZNXzI0M0t6WF9tNGFXSF9ZVXktRGVORHozbFFtMVVUX2hhZ1gwUzdzdjd4WEsycUItTVJMN1Z1RGROMlgwUTNlUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_nuclear_warning_kaliningrad_2026-11-04",
     "severity": 4
   },
   {
@@ -116,6 +186,30 @@
     "eventKey": "irgc_unlimited_response_warning_2026-11-03"
   },
   {
+    "id": "auto-45414",
+    "headline": {
+      "ja": "ザポリージャ原発職員、ウクライナのドローン攻撃で死傷と報告",
+      "en": "Zaporozhye Nuclear Power Plant reports employee death from Ukrainian drone attack"
+    },
+    "summary": {
+      "ja": "ロシア側の報告によると、ザポリージャ原発の職員がウクライナのドローン攻撃により死傷した。原発当局はIAEAに通知するとしている。",
+      "en": "Russian-controlled Zaporozhye NPP reported an employee was killed in a Ukrainian drone attack and notified IAEA of the incident."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 47.5161,
+    "lon": 35.3691,
+    "occurredAt": "2026-11-03T19:27:47+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wMUp5Y0JJUWg5N1NVY0JqdGtJVjZNeTcyR1BiekJfdnVabU4xLUR5SDh2OG4teS1iT0ZLd2pxbVpqRlJ0WHJfa3hYZHdPU3lpWnfSAVJBVV95cUxPcDFKeWNCSVFoOTdTVWNCanRrSVY2TXk3MkdQYnpCX3Z1Wm1OMS1EeUg4djhuLXktYk9GS3dqcW1aakZSdFhyX2t4WGR3T1N5aVp3?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "zaporizhzhia_npp_drone_attack_2026-11-03",
+    "severity": 4
+  },
+  {
     "id": "auto-43718",
     "headline": {
       "ja": "サミット中のロシアが大規模ドローン攻撃に直面と発表",
@@ -137,6 +231,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_drone_attack_summit_2026-11-03"
+  },
+  {
+    "id": "auto-45851",
+    "headline": {
+      "ja": "ウクライナ、ドイツとパトリオット・ミサイル供給加速で合意",
+      "en": "Ukraine accelerating Patriot missile deliveries following German Defense Minister meeting"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領は、ドイツ防衛相との会談後、パトリオット・システム用ミサイルの供給加速に向けて協力することで合意したと発表した。",
+      "en": "Ukraine announced agreement with Germany to accelerate delivery of Patriot system missiles following presidential meeting with German Defense Minister."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-03T15:30:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUtiRGo5V1JySEdvWlZXdy1wXzJKcUNQa2U0ekRzV1V0VzBfRzdQVndmVkV4SGR3Z0ZiNDJxZDF3MmhoQ1Z0bTFmVnBPSVdPbnRHcUtOdDlpMzVwZmV4ZHR0c09aLThqSnBYcEQ3c3AtVlVCaHRlZ3JvUEVEd0poTGR4YzdKUmFoeGduMmdTeFpGVnhJOVpTVks0YjVKeTNrVjZ5cklubw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_germany_patriot_missile_2026-11-03"
   },
   {
     "id": "auto-43157",
@@ -3295,237 +3412,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "japan_tokyo_earthquake_2026-10-28"
-  },
-  {
-    "id": "auto-35178",
-    "headline": {
-      "ja": "スペイン列車事故 トルコ外務省が声明",
-      "en": "Turkey Comments on Spain Train Crash"
-    },
-    "summary": {
-      "ja": "スペインで発生した列車事故について、トルコ外務省が公式声明を発表した。",
-      "en": "Turkey's Ministry of Foreign Affairs issued an official statement regarding a train crash that occurred in Spain."
-    },
-    "category": "disaster",
-    "country": "スペイン",
-    "lat": 40.4165,
-    "lon": -3.7026,
-    "occurredAt": "2026-10-28T14:28:58+00:00",
-    "source": {
-      "name": "トルコ 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1RUckNVaDdlcGNEYXZIcm1tdE5ZREZEN3R0TVU3QlBsZUpFZnIzSENnOVFPUmJvNEFYUHFTcFlkRG5mdVlvQndUOTBwOV9pcDlreXppMGxuWjRFc2tneEJ5MWlIN1lWQ2dSNk85T1B6MGpCTE9kTXhHMm5zZTVqNUVEWlc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "spain_train_crash_2026-10-28"
-  },
-  {
-    "id": "auto-34910",
-    "headline": {
-      "ja": "ガザ南部でのドローン攻撃、パレスチナ人3人死亡",
-      "en": "Three Palestinians killed in Israeli drone strikes in southern Gaza"
-    },
-    "summary": {
-      "ja": "南ガザでのイスラエル軍ドローン攻撃により、パレスチナ人3人が死亡し、10人が負傷した。",
-      "en": "Israeli drone strikes in southern Gaza killed three Palestinians and injured ten others."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-10-28T14:28:01+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XSzhjSkdva0Y1N2paZkRpNHZJc09uQko0YWpacnJTOFYyQ3c4eW1KOGlJbUxSQnZWWHlWTU9SVXdyMEdKRmlSY3hrQlgzOWJGSTQ5WWNkWQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_gaza_drone_strike_2026-10-28"
-  },
-  {
-    "id": "auto-34727",
-    "headline": {
-      "ja": "シリアとジョルダン、国境での共同安全保障委員会設置で合意",
-      "en": "Syria and Jordan agree on joint security committee as border crossing reopens"
-    },
-    "summary": {
-      "ja": "シリアとジョルダンは共同安全保障委員会の設置に合意し、空爆後に国境通路を再開した。",
-      "en": "Syria and Jordan agreed to establish a joint security committee and reopened their border crossing following the deadly airstrikes."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-28T14:25:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90dlh0aHJlalphcjAyMThQa3ZWWE0tZHh2U2llMGNtOUJPMmE1SWZHLS03bzFxcjNIQlFSbTBfanBCWU1UZHA5elJQdl9iRlRxTUl3NXhxcUFaT2VmYTlpa2UxVHJmNTA4Mk9zQmVJQjRTdlhmeElHbnllbEE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "syria_jordan_border_agreement_2026-10-28"
-  },
-  {
-    "id": "auto-35489",
-    "headline": {
-      "ja": "アブダビでのウクライナ交渉、日程未定と報道",
-      "en": "No dates set for Ukraine talks in Abu Dhabi; coordination process underway"
-    },
-    "summary": {
-      "ja": "ロシア国営タス通信は、アブダビでのウクライナに関する交渉について、具体的な日程はまだ設定されていないが、調整プロセスが進行中だと報道した。",
-      "en": "Russian state TASS reports that while no specific dates have been set for Ukraine talks in Abu Dhabi, the coordination process is ongoing."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-28T14:24:16+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBraTlNc1gxbjhTM2plc0NHRG1uQlFyTWZNMjBfTmZ5S2NGalR0LWUxOHl4MUl0czFhUEQ0TUtxdU42RGZEa3Z0eGVNZm5sd9IBTkFVX3lxTFBraTlNc1gxbjhTM2plc0NHRG1uQlFyTWZNMjBfTmZ5S2NGalR0LWUxOHl4MUl0czFhUEQ0TUtxdU42RGZEa3Z0eGVNZm5sdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_peace_talks_abu_dhabi_2026_10_28"
-  },
-  {
-    "id": "auto-34953",
-    "headline": {
-      "ja": "スペイン列車衝突、50人以上死亡",
-      "en": "Spain train collision: at least 50 killed, up to 180 injured"
-    },
-    "summary": {
-      "ja": "スペインで2本の旅客列車が衝突し、少なくとも50人が死亡し、最大180人が負傷した。",
-      "en": "Two passenger trains collided in Spain, killing at least 50 people and injuring up to 180 others."
-    },
-    "category": "disaster",
-    "country": "スペイン",
-    "lat": 40.4165,
-    "lon": -3.7026,
-    "occurredAt": "2026-10-28T13:59:55+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EV04wakpvSFFDU3JnTTFrMG0wbDNWR25mOVh5TW1fVUxHczZjRXZjb09oQjRrT2J5eXZwV2RQRWtuZmZRUGxORGJrNEzSAVJBVV95cUxNNi0yS29lYmZTR3VfT21PLUVTRTZwRDB3VzVMd3pZRXNmaUxDQmVtcDBxVVd3dlg0RzEyMVY3eGJRZGxUcHhmQmJoaS1iZklCOVF3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "spain_urda_train_collision_2026-10-28",
-    "severity": 4
-  },
-  {
-    "id": "auto-34675",
-    "headline": {
-      "ja": "ジョルダン空爆でシリア南部の住民7人が死亡",
-      "en": "Jordan's air strikes kill 7 people in southern Syria"
-    },
-    "summary": {
-      "ja": "ジョルダンのシリア南部への空爆により、子ども3人を含む少なくとも7人が死亡した。",
-      "en": "Jordan's air strikes in southern Syria killed at least 7 people, including 3 children."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-10-28T12:35:19+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_syria_airstrikes_2026-10-28"
-  },
-  {
-    "id": "auto-36143",
-    "headline": {
-      "ja": "サウジ空爆でイエメン北部で14人死傷",
-      "en": "14 killed, 10 wounded in Saudi airstrikes in northern Yemen"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の空爆によるイエメン北部での攻撃で14人が死亡、10人が負傷した。",
-      "en": "Saudi airstrikes in northern Yemen killed 14 and wounded 10."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-28T12:20:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SbWEtaHhDbUdVOExnQnByaHBiTy00UjE3bEM0dFo4QjkxbW55RzE5X0I3TzhBYlZPbUZsN1RfOEhPa2w2NWJhMTV6RXJtek1JeXJxRGJNX2VSbXFBUFVNUmlfU1FJZ0pub1dFUkFSVDczSTBDSGFNdkszRHI?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_saudi_airstrike_north_2026-10-28",
-    "severity": 4
-  },
-  {
-    "id": "auto-35581",
-    "headline": {
-      "ja": "スーダン・エルオベイドで民間人が無人機攻撃と恣意的逮捕の脅威に",
-      "en": "Sudanese civilians trapped between drone attacks and arbitrary detention"
-    },
-    "summary": {
-      "ja": "国連調査団によると、スーダン東部エルオベイドの民間人は、迅速支援部隊（RSF）の無人機攻撃とスーダン軍（SAF）による恣意的な逮捕の脅威にさらされている。",
-      "en": "UN investigators report that civilians in Sudan's El Obeid face threats from drone attacks by RSF and arbitrary arrests by SAF."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 13.1842,
-    "lon": 30.2167,
-    "occurredAt": "2026-10-28T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_el_obeid_civilian_threat_2026-10-28"
-  },
-  {
-    "id": "auto-34969",
-    "headline": {
-      "ja": "ゼレンスキー、米国からのパトリオット供給不足を指摘",
-      "en": "Zelensky says Ukraine receives 12 Patriot missiles per month but fires more than 30"
-    },
-    "summary": {
-      "ja": "ゼレンスキー大統領は、ウクライナが毎月米国から12発のパトリオットミサイルを受け取るが、月30発以上を発射していると述べた。",
-      "en": "President Zelensky stated that Ukraine receives 12 Patriot missiles monthly from the US but fires more than 30 per month."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-28T11:01:16+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4R3BJZGpVVnpDeWl0TWRJcEhCMi1iekVraERjcnY4ZGxQaVNSR1BiUkhaSWhzWm02MmFpNTMybzVjUEtV0gFKQVVfeXFMTjl6WWQ4bXNDaUR5VVFoOEJwbWVKZFZZLTYyTUpKV3FkNGNhTVBUR0llejh3d3dKeXlJYnJDQkd1MmQ5dVdkdVZTOEE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_patriot_missile_shortage_2026-10-28"
-  },
-  {
-    "id": "auto-34647",
-    "headline": {
-      "ja": "中国政府、日本は核兵器の運搬手段を開発できると発言",
-      "en": "China says Japan can develop means of delivering nuclear weapons"
-    },
-    "summary": {
-      "ja": "中国政府は、日本が核兵器の運搬手段を開発できると発表した。",
-      "en": "China's government stated that Japan can develop means of delivering nuclear weapons."
-    },
-    "category": "conflict",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-10-28T10:41:10+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE14V2tEVmpLZUY3LWZOTkN4TTlNVnhRWnJYWElhQmpRSXlwbjBLcWZkVWU0SEdDUkhYcTRWSEdZbVpsenM50gFKQVVfeXFMTUs3b3FtNFFha1Z1WV9FMl8tRlU1QTRNdXlXbEpNZ09odHdkVUcxSEt1RTNwblgwWFhTX2d6N0RGYWJabU9rdDRoZVE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "china_japan_nuclear_rhetoric_2026-10-28"
   }
 ]
