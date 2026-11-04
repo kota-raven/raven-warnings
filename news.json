@@ -194,5 +194,49 @@
       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-05-01",
+    "headline": {
+      "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者40人に増加 ゼレンスキー氏「さらに30人超が生き埋めの可能性」と発表",
+      "en": "Zaporizhzhia's Komyshuvakha strike death toll rises to 40; Zelensky says over 30 more may be trapped"
+    },
+    "summary": {
+      "ja": "既報(id: 2026-11-03-05)のザポリッジャ州コムィシュヴァーハの人道支援拠点・避難所への二波空爆について、ゼレンスキー大統領は11月4日、死者数が40人に増加したとFacebookで発表したという(Ukrinform・APA通信〔アゼルバイジャン国営〕・unn.ua等複数メディアが報道)。同日早い時間にはザポリッジャ州行政当局者ミハイロ・セミキン氏が死者37人と発表していたという。ゼレンスキー氏は、さらに30人超が瓦礫の下に残っている可能性があるとしたという。行方不明者数については、11月3日夜時点でセミキン氏が58人としていたとの報道もあり、既報(27人)とも異なるため数字が流動的だという。ザポリッジャ州では11月3〜5日の3日間、追悼期間が設定されたという。ロシア側からの公式な反応は本稿執筆時点で確認できていない。推測:死者・行方不明者の最終的な数は今後さらに変動しうる。[信頼性: 高](Ukrinform・APA通信・unn.ua等、独立した複数のメディアがゼレンスキー大統領の発表〔Facebook〕について一致した内容を報じている。ただし死者数自体はウクライナ当局発表に基づくもので、ロシア側や第三者による独立した検証はできていない)",
+      "en": "Following up on the earlier report (id: 2026-11-03-05) of the two-wave strike on a humanitarian aid hub and shelter in Komyshuvakha, Zaporizhzhia region, President Zelensky said on Facebook on November 4 that the death toll had risen to 40, according to Ukrinform, Azerbaijan's state news agency APA, unn.ua and other outlets. Earlier the same day, Zaporizhzhia regional administration official Mykhailo Semikin had put the toll at 37. Zelensky said more than 30 additional people may still be trapped under rubble. Figures for those missing remain fluid: Semikin reportedly said 58 were missing as of Monday night, a figure that differs from the previously reported 27. A three-day mourning period (November 3-5) has been declared in Zaporizhzhia region. No official Russian response was found at the time of writing. Inference: final death and missing-person counts may change further. [Reliability: High] (Multiple independent outlets -- Ukrinform, APA, unn.ua and others -- consistently report President Zelensky's Facebook statement; however, the casualty figures themselves rest on Ukrainian official statements and have not been independently verified by Russia or a third party.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ザポリッジャ州",
+    "lat": 47.7194,
+    "lon": 35.5247,
+    "occurredAt": "2026-11-04T12:00:00+00:00",
+    "source": {
+      "name": "Ukrinform/APA(ゼレンスキー大統領発表)",
+      "url": "https://www.ukrinform.net/rubric-ato/4181429-zelensky-death-toll-in-komyshuvakha-rises-to-40-more-than-30-may-remain-trapped-under-rubble.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-05-02",
+    "headline": {
+      "ja": "サイクロン「ムラス」、インド東海岸アーンドラ・プラデーシュ州に上陸 約3万人避難、死傷者報告なし",
+      "en": "Cyclone Murasu makes landfall on India's Andhra Pradesh coast; ~30,000 evacuated, no casualties reported"
+    },
+    "summary": {
+      "ja": "インド気象局(IMD)によると、サイクロン「ムラス」が11月2日夜から3日未明にかけて、インド東部アーンドラ・プラデーシュ州プラカーサム県オングル付近(バーパトラ〜プラカーサム間)に上陸したという(Al Jazeera)。上陸時の風速については報道間で差異があり、追跡データでは最大時速157km(カテゴリー2相当)との情報がある一方、IMD発表に基づく別の集計では時速100〜110km(最大120km)とされているという。アーンドラ・プラデーシュ州当局は上陸に備え約3万人を安全な場所に移動させたとしており、本稿執筆時点で死者・負傷者の報道は確認できていないが、樹木・電柱の倒壊や農作物への被害が報告されているという。タミル・ナードゥ州・ポンディシェリ・オディシャ州でも大雨が観測されたという。推測:最終的な被害規模・上陸時刻の詳細は今後変動しうる。[信頼性: 中](Al Jazeera・複数の追跡サイトで上陸・避難の大枠は一致しているが、上陸の正確な日時・風速については報道間で差異があり、確定情報ではない)",
+      "en": "According to India's Meteorological Department, Cyclone Murasu made landfall on the night of November 2 into the early hours of November 3 near Ongole in Prakasam district, Andhra Pradesh (between Bapatla and Prakasam), on India's east coast, per Al Jazeera. Reports differ on wind speed at landfall: tracker data put peak sustained winds at about 157 km/h (Category 2 equivalent), while another IMD-based summary gives 100-110 km/h, gusting to 120 km/h. Andhra Pradesh authorities moved roughly 30,000 people to safety ahead of landfall; no deaths or injuries have been confirmed as of this writing, though downed trees and power poles and crop damage were reported. Heavy rain was also observed in Tamil Nadu, Puducherry and Odisha. Inference: the final scale of damage and exact landfall timing may still be clarified. [Reliability: Medium] (Al Jazeera and several tracking sites agree on the broad facts of landfall and evacuation, but reports differ on the exact landfall time and wind speed, so these are not yet settled.)"
+    },
+    "category": "disaster",
+    "country": "インド",
+    "region": "アーンドラ・プラデーシュ州(プラカーサム県)",
+    "lat": 16.8,
+    "lon": 81.84,
+    "occurredAt": "2026-11-02T19:30:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+    },
+    "reliability": "medium"
   }
 ]
