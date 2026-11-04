@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-46184",
+    "headline": {
+      "ja": "フーシ勢力、リヤド空港へのミサイル攻撃を主張",
+      "en": "Houthis claim ballistic missile strike on Riyadh airport"
+    },
+    "summary": {
+      "ja": "イエメンの親イラン勢力フーシは、サウジアラビアのリヤド国際空港へのミサイル攻撃を実行したと主張した。",
+      "en": "Houthis claimed responsibility for a ballistic missile strike on Riyadh International Airport in Saudi Arabia."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-04T15:41:17+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBtX3phRUpiUlIzLXlXMUFrb2RRUzRVSWFsXzN2REpfSFZkTHp2bzRNanVMTHBIUV9ZWW1idFQ0X0dBWkdL0gFKQVVfeXFMT05uOUZybEp2ZmNOb2pDaGZKakFHY1lSWUpqaFR0UFlqV19SUWRQdlhfRDNCRXp6NHFRTmozZDJYeXhiYVJwNHBBR2c?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthis_riyadh_airport_missile_attack_2026-11-04"
+  },
+  {
     "id": "auto-45411",
     "headline": {
       "ja": "ロシア、DPRのガソリンスタンドへのドローン攻撃でバス運転手が死傷と報告",
@@ -3250,167 +3273,5 @@
     "reliability": "low",
     "auto": true,
     "eventKey": "sudan_ethiopia_drone_conflict_2026-10-28"
-  },
-  {
-    "id": "auto-35552",
-    "headline": {
-      "ja": "ロシア、核兵器搭載可能な衛星開発中",
-      "en": "Russia developing nuclear-capable satellite system"
-    },
-    "summary": {
-      "ja": "西側情報源によると、ロシアが核兵器を搭載できる衛星システムの開発を進めているという。",
-      "en": "According to Western sources, Russia is developing a satellite system capable of carrying a nuclear weapon."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-28T19:37:24+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20623"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "russia_nuclear_satellite_development_2026-10"
-  },
-  {
-    "id": "auto-35539",
-    "headline": {
-      "ja": "スペイン列車衝突、数十年ぶりの大惨事",
-      "en": "Spain demands answers after deadliest train disaster in over a decade"
-    },
-    "summary": {
-      "ja": "マドリード南部で高速列車2編成が衝突し、少なくとも68人が死亡、100人以上が負傷した。過去10年以上で最も致命的な鉄道事故である。",
-      "en": "Two high-speed trains collided south of Madrid, killing at least 68 people and injuring more than 100, marking the deadliest train disaster in over a decade."
-    },
-    "category": "disaster",
-    "country": "スペイン",
-    "lat": 40.4165,
-    "lon": -3.7026,
-    "occurredAt": "2026-10-28T19:32:57+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "spain_train_collision_madrid_2026_10_28",
-    "severity": 4
-  },
-  {
-    "id": "auto-35520",
-    "headline": {
-      "ja": "NATO副事務総長、ウクライナの緊急の防空需要を強調",
-      "en": "NATO Deputy Secretary General stresses Ukraine's urgent need for more air defence"
-    },
-    "summary": {
-      "ja": "NATO副事務総長はキーウセキュリティフォーラムでスピーチを行い、ウクライナが緊急に防空能力の強化を必要としていることを強調した。",
-      "en": "NATO Deputy Secretary General emphasizes Ukraine's critical need for enhanced air defence capabilities at the Kyiv Security Forum."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-28T19:07:30+00:00",
-    "source": {
-      "name": "NATO(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdDE0bUg4VlpEUnRvejhQaklVWnRNZ3ltemtxWmIyV3ZxMGZnOERPWDFGdTJuYTdXUFdkaDVyMlRud0tpdDBXVXBaWU9uMnNVcjZ1bWlRTDhsTVZVYUhiSVo4U1c2WFdSR1R5d2tCSFZpOTM2a2x5TG4yMVpDOVVMbnB4UEZkRllwZUxrUk1JMktsa21ZR2t5Um9UaS03MjRGVlNkd2k4aWpfeE85WnVaeEpfalMzU05CSWdnVlJGY2xiRmdHRmc0a0NjamcxMk9zOHhHeGtYSWtZNEl6YWlleUxjT2tRVWR4Y0xCSWN4c1JsLXF6MFZZMDRhVkpPbWlWeUE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "nato_ukraine_air_defense_support_2026_10_28"
-  },
-  {
-    "id": "auto-35542",
-    "headline": {
-      "ja": "イスラエル選挙、明確な勝者なし",
-      "en": "What are the implications of Israel's elections?"
-    },
-    "summary": {
-      "ja": "イスラエルの選挙は、10月7日の攻撃と続くガザ戦争後の初選挙となったが、明確な勝者は出ていない。",
-      "en": "Israel's elections, held following the October 7 attacks and Gaza conflict, produced no clear winner."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-10-28T19:03:03+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_elections_2026_10_28"
-  },
-  {
-    "id": "auto-35490",
-    "headline": {
-      "ja": "欧州がウクライナ紛争終結へロシアとの対話が必要と認識",
-      "en": "Europe realizes it must talk to Russia to end Ukraine conflict"
-    },
-    "summary": {
-      "ja": "スロバキアの首相がロシア国営タス通信に対し、ウクライナ紛争を終わらせるには欧州がロシアとの対話が必要だという見方を示した。",
-      "en": "Slovak PM indicates that Europe must engage in talks with Russia to end the Ukraine conflict."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-28T18:20:25+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ROWhremdGSjJsZk50S3htQmNpTFR6alNyODdPcVk1SkRPZGQ0N2ZTMENCSmwyZ1FGb29fdE1fUlRBZndF0gFKQVVfeXFMUGxUMG1VNXhKcGtMY0d2Uk9IMXFJZDhROFpPS1pJcXNjQVhtSmdGRHI2VEJuUmpSY3pPNGlNczZGS3ZZcVpjcjIwZ2c?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_peace_talks_necessity_europe_2026_10_28"
-  },
-  {
-    "id": "auto-35590",
-    "headline": {
-      "ja": "アフガニスタンがドローン攻撃への報復としてパキスタン軍事施設を攻撃",
-      "en": "Afghanistan strikes Pakistani military positions in retaliation for drone attacks"
-    },
-    "summary": {
-      "ja": "アフガニスタン政府は、ドローン攻撃を受けたことへの報復として、パキスタン軍事施設を攻撃したと発表した。",
-      "en": "Afghanistan announced strikes on Pakistani military facilities in response to drone attacks."
-    },
-    "category": "conflict",
-    "country": "アフガニスタン",
-    "lat": 34.5281,
-    "lon": 69.1723,
-    "occurredAt": "2026-10-28T16:00:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02OTVuRzBkSENBaVpJdjE4RVZ3bVZzZUt4dm5YaW1Qb1NpdjAwelJCalAydml3dGRMQnJvSFpRbzQ5Z1lQd0dRNU9sbi1tS2ljZUxLWUFtc09kU2pDNXZZdVNHOUljUVhRSW1rX3VUX3A0ejd0SUxLYzNxRQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "afghanistan_pakistan_military_strike_2026-10-28"
-  },
-  {
-    "id": "auto-35032",
-    "headline": {
-      "ja": "東京近郊で震度5の地震発生",
-      "en": "5.4-magnitude earthquake near Tokyo"
-    },
-    "summary": {
-      "ja": "気象庁によれば、10月28日に東京付近で最大震度5の地震が発生した。",
-      "en": "A 5.4-magnitude earthquake struck near Tokyo on October 28, 2026, according to the Japan Meteorological Agency."
-    },
-    "category": "disaster",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-10-28T15:33:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LTWNFdFo3cHdHb2VDeGlmYkJGTEZES2Qzbk1xNkNKVU85eHAwbTZtLUpITXRhZXczS3RpWGJVMzhwWGtBRGFmeC1uVURnWGdPYTNqV2c3ZWFXVnRrTUhOdnN6NnpidDBHQXZaNDJYZ2pPdUFNc1Y4bk5Semk?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "japan_tokyo_earthquake_2026-10-28"
   }
 ]
