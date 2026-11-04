@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:54:47.042Z",
+  "generatedAt": "2026-11-04T01:13:56.861Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 184,
   "warnings": [
@@ -298,6 +298,48 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264348",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4348",
+      "title": "ニューカレドニア東、射撃",
+      "publishedAt": "2026-11-04T08:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          167.45,
+          -22.116666666666667
+        ]
+      },
+      "rawText": "番号:26-4348   発表日時:2026年11月04日 08時\r\n\n\r\n★ ニューカレドニア東、\r\r\n射撃、11月6日0100Z-0800Z、22-07S 167-27E\r\r\nを中心とする半径10海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264348&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264347",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4347",
+      "title": "オーストラリア南岸、宇宙ゴミ落下",
+      "publishedAt": "2026-11-04T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4347   発表日時:2026年11月04日 08時\r\n\n\r\n★ オーストラリア南岸、\r\r\n宇宙ゴミ落下、11月4日-8日毎日1100Z-1400Z、\r\r\n31-59.46S 132-50.86E 32-10.45S 133-35.98E\r\r\n33-06.72S 133-35.98E 33-10.31S 133-12.29E\r\r\nで囲まれる海面。\r\r\n(4256削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264347&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264346",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4346",
+      "title": "スールー海、宇宙ゴミ落下",
+      "publishedAt": "2026-11-04T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4346   発表日時:2026年11月04日 08時\r\n\n\r\nスールー海、\r\r\n宇宙ゴミ落下、11月8日1800Z-2400Z、\r\r\n(1)09-16.8N 118-59.4E 09-24.0N 119-09.0E\r\r\n   09-06.0N 119-22.2E 08-59.4N 119-12.6E、\r\r\n(2)09-16.2N 118-57.0E 09-28.2N 119-12.6E\r\r\n   08-57.0N 119-36.0E 08-45.0N 119-19.8E、\r\r\nで囲まれる各海面。\r\r\n(4328削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264346&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264345",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -394,30 +436,6 @@
       },
       "rawText": "番号:26-4340   発表日時:2026年11月03日 08時\r\n\n\r\n★ アンダマン海、\r\r\n射撃、11月4日、6日毎日0830Z-1030Z、12-50N 13-00N\r\r\n093-40E 094-10Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264340&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264339",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4339",
-      "title": "南太平洋東部、宇宙ゴミ落下終了",
-      "publishedAt": "2026-11-03T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4339   発表日時:2026年11月03日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(4333削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264339&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264338",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4338",
-      "title": "ニュージーランド東、宇宙ゴミ落下に関する情報削除",
-      "publishedAt": "2026-11-03T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4338   発表日時:2026年11月03日 08時\r\n\n\r\n★ ニュージーランド東、\r\r\n宇宙ゴミ落下に関する情報削除。\r\r\n(4257削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264338&LANG=JP"
     },
     {
       "id": "JAPANNW-264337",
@@ -652,18 +670,6 @@
       },
       "rawText": "番号:26-4329   発表日時:2026年11月02日 20時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V FUGRO KWILENAによる水中作業、当分の間、\r\r\n19-22S 20-05S 115-48E 116-45E\r\r\nの各線で囲まれる海面。\r\r\n(4263削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264329&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264328",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4328",
-      "title": "スールー海、宇宙ゴミ落下",
-      "publishedAt": "2026-11-02T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4328   発表日時:2026年11月02日 20時\r\n\n\r\nスールー海、\r\r\n宇宙ゴミ落下、11月5日1900Z-翌日0100Z、\r\r\n(1)09-16.8N 118-59.4E 09-24.0N 119-09.0E\r\r\n   09-06.0N 119-22.2E 08-59.4N 119-12.6E、\r\r\n(2)09-16.2N 118-57.0E 09-28.2N 119-12.6E\r\r\n   08-57.0N 119-36.0E 08-45.0N 119-19.8E、\r\r\nで囲まれる各海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264328&LANG=JP"
     },
     {
       "id": "JAPANNW-264327",
@@ -1792,18 +1798,6 @@
       },
       "rawText": "番号:26-4258   発表日時:2026年10月28日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\nロケット打上げ、\r\r\n(1)11月2日0156Z-0619Z(予備3日0142Z-0605Z、\r\r\n   4日0128Z-0551Z、5日0114Z-0537Z、\r\r\n   6日0100Z-0523Z、7日0046Z-0509Z、\r\r\n   8日0032Z-0455Z)、\r\r\n   34-40N 120-38W 34-31N 120-18W\r\r\n   34-12N 120-06W 33-15N 119-38W\r\r\n   32-30N 119-18W 32-05N 119-08W\r\r\n   32-05N 119-09W 34-19N 120-34W\r\r\n   34-27N 120-37W 34-36N 120-39W、\r\r\n(2)11月2日0156Z-0620Z(予備3日0142Z-0606Z、\r\r\n   4日0128Z-0552Z、5日0114Z-0538Z、\r\r\n   6日0100Z-0524Z、7日0046Z-0510Z、\r\r\n   8日0032Z-0456Z)、\r\r\n   31-23N 118-47W 30-46N 118-15W\r\r\n   29-48N 117-39W 29-52N 117-54W\r\r\n   29-35N 118-12W 30-26N 118-31W、\r\r\n(3)11月2日0156Z-0639Z(予備3日0142Z-0625Z、\r\r\n   4日0128Z-0611Z、5日0114Z-0557Z、\r\r\n   6日0100Z-0543Z、7日0046Z-0529Z、\r\r\n   8日0032Z-0515Z)、\r\r\n   29-52N 117-54W 29-48N 117-39W\r\r\n   29-36N 117-16W 28-50N 117-19W\r\r\n   28-15N 117-19W 28-16N 117-21W\r\r\n   28-50N 117-49W 29-02N 117-59W\r\r\n   29-15N 118-02W 29-24N 118-08W\r\r\n   29-35N 118-12W、\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264258&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264256",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4256",
-      "title": "オーストラリア南岸、宇宙ゴミ落下",
-      "publishedAt": "2026-10-28T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4256   発表日時:2026年10月28日 20時\r\n\n\r\n★ オーストラリア南岸、\r\r\n宇宙ゴミ落下、11月2日-8日毎日1100Z-1400Z、\r\r\n32-04.37S 132-59.19E 32-11.54S 133-21.80E\r\r\n32-49.58S 133-26.00E 32-51.45S 133-12.91E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264256&LANG=JP"
     },
     {
       "id": "JAPANNW-264255",
@@ -3218,6 +3212,38 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262099",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "海洋施設",
+      "number": "2099",
+      "title": "襟裳岬西、船舶間貨物油積替作業",
+      "publishedAt": "2026-11-04T09:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            141.66666666666666,
+            42.36666666666667
+          ],
+          [
+            142.85,
+            41.833333333333336
+          ],
+          [
+            141.63333333333333,
+            41.733333333333334
+          ],
+          [
+            141.5,
+            41.95
+          ]
+        ]
+      },
+      "rawText": "番号:26-2099    発表日時:2026年11月04日 09時\r\n\n\r\n襟裳岬西、\r\r\nTOKI MARU(164135トン)による\r\r\n船舶間貨物油積替作業、11月4日0800-当分の間、\r\r\n42-22N 141-40E 41-50N 142-51E\r\r\n41-44N 141-38E 41-57N 141-30E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262099&LANG=JP"
     },
     {
       "id": "NAVTEX-262098",
