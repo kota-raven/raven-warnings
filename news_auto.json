@@ -115,6 +115,29 @@
     "eventKey": "ukraine_school_attacks_ongoing"
   },
   {
+    "id": "auto-44296",
+    "headline": {
+      "ja": "ミャンマー学校が空爆で被害、子ども3人死亡",
+      "en": "Myanmar school hit by airstrike, 3 children killed"
+    },
+    "summary": {
+      "ja": "ミャンマーの学校が空爆を受け、子ども3人が死亡、5人が負傷したと国連児童基金が報じた。",
+      "en": "A school in Myanmar was struck by an airstrike, with three children reported killed and five injured, according to UN sources."
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 19.745,
+    "lon": 96.1297,
+    "occurredAt": "2026-11-03T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168729"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "myanmar_school_airstrike_2026-11-03"
+  },
+  {
     "id": "auto-43340",
     "headline": {
       "ja": "イスラエル攻撃がガザで市民1人を殺害、11人負傷",
@@ -3365,28 +3388,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_kharkiv_russian_drone_attack_2026-10-28"
-  },
-  {
-    "id": "auto-35498",
-    "headline": {
-      "ja": "米国のイラン関連軍事支出が470億ドルに達した",
-      "en": "US military spending on Iran conflict reaches $47 billion"
-    },
-    "summary": {
-      "ja": "ロシア国営タス通信によると、米国がイラン関連の軍事行動に費やした支出が470億ドルに達したと報道された。",
-      "en": "Reports indicate that US military spending related to Iran operations has reached approximately $47 billion."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-28T00:50:58+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UeGd5U0UtY2VvNVhSRFB3NjMxZU01d1FDVEZIWXZvQ3VvM3RJaHBubWJwVE9zOWdXS2pfamtVNnVwNkpRUVQw0gFMQVVfeXFMTnUzNWR6ejg4S3ZmNXI0WWlzcC1YaFlacl9HbndSdUkzRGRDN3lzRnZIcUNKZ0h5RU5SRGZ0ZXRPbU5NNWw5QWRCejhxUA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "us_iran_military_spending_2026_10_28"
   }
 ]
