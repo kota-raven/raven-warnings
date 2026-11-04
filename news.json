@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-01-01",
-    "headline": {
-      "ja": "イスラエル連立協議、統一アラブ会議(ジョイント・リスト)所属議員がアイゼンコット陣営を閣外協力で支持する意向、入閣は求めずと表明",
-      "en": "Israel coalition talks: Joint List MK signals outside support for Eisenkot bloc, says party won't seek cabinet posts"
-    },
-    "summary": {
-      "ja": "Haaretzは11月1日付のライブブログで、統一アラブ会議(ジョイント・リスト)所属の議員が、アイゼンコット氏の野党ブロックを閣外協力の形で支持する意向を示し、同党は入閣(閣僚ポスト)を求めないと表明したと報じたという。ジョイント・リスト議長のユセフ・ジャバリーン氏は10月末、ガザでの軍事作戦・レバノン南部占領への立場の違いから連立には参加できないが、ネタニヤフ首相退陣を目指す政権には閣外から協力しうるとし、支持にあたり複数の条件を示していたという。総選挙(10月27日投票)の最終集計(既報id: 2026-10-30-02)では与党陣営53・野党陣営48・アラブ系政党19議席で過半数(61)に届かず、中央選挙管理委員会による正式確定は11月4日予定という。推測:アラブ系政党の閣外協力の姿勢が明確化すれば、アイゼンコット陣営が過半数(66)を事実上確保しうるが、本稿執筆時点で他の主要メディアによる同日時点の独立した確認は得られていない。[信頼性: 中](Haaretzのライブブログ報道に基づく単一ソース。具体的な議員名・発言内容の全文は本稿執筆時点で確認できていない)",
-      "en": "Haaretz's live blog reported on November 1 that a Joint List member of Knesset signaled the Arab-led alliance would offer outside parliamentary support to Gadi Eisenkot's opposition bloc without seeking cabinet posts for itself. Joint List chairman Yousef Jabareen had said in late October that his party could not join an Eisenkot-led coalition over disagreements on Israel's Gaza campaign and its occupation of southern Lebanon, but that it could back an alternative government from outside parliament under certain conditions aimed at ousting Netanyahu. In the final certified count (previously reported id 2026-10-30-02), the ruling bloc held 53 seats, the Eisenkot-led opposition 48, and Arab parties a record 19, short of the 61-seat majority; official certification by the Central Elections Committee is due November 4. Inference: if outside support from Arab parties firms up, the Eisenkot bloc could effectively reach a working majority (66 seats combined), though this has not been independently corroborated by other major outlets as of this writing. [Reliability: Medium] (Based on a single Haaretz live-blog report; the specific MK's name and the full statement could not be confirmed at the time of writing.)"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.0461,
-    "lon": 34.8516,
-    "occurredAt": "2026-11-01T05:00:00+00:00",
-    "source": {
-      "name": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article-live/joint-list-mk-vows-to-back-eisenkot-bloc-says-party-wont-demand-cabinet-seats/000001a1-952a-d125-a3b1-f5ee554b0000"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-01-02",
     "headline": {
       "ja": "OPEC+、12月の産油量目標を3か月連続で維持 イラン戦争による供給混乱が背景",
@@ -213,6 +192,27 @@
     "source": {
       "name": "AP(CBS News/CNBC経由)",
       "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-04-03",
+    "headline": {
+      "ja": "米中間選挙、民主党が上院・下院の両院で過半数獲得と主要メディアが報道",
+      "en": "US midterms: major outlets project Democrats win control of both the Senate and House"
+    },
+    "summary": {
+      "ja": "CBSニュース・NBCニュース・CNBC・ABCニュースなど米主要メディアは、11月3日投開票の米中間選挙について、民主党が上院・下院の両院で過半数議席を獲得したと報じた。既報(id: 2026-11-04-02、ノースカロライナ州等)に続き、上院ではアイオワ州(民主党ジョシュ・ターレック氏が共和党アシュリー・ヒンソン氏を破る)・オハイオ州(民主党シェロッド・ブラウン氏が勝利)・テキサス州(民主党ジェームズ・タラリコ氏が共和党ケン・パクストン氏を破り、1994年以来民主党候補として同州初の州全体選挙勝利という)・メイン州(民主党トロイ・ジャクソン氏が共和党現職スーザン・コリンズ上院議員を破る)で共和党から議席を奪還したとAP通信などが伝えたという。一部報道はカンザス州・サウスカロライナ州も民主党への議席移動として挙げているが、他の報道との一致が得られておらず不確実。推測:正式な最終議席数(報道により49〜53議席など差異がある)やアラスカ州など一部の確定は本稿執筆時点で未了。[信頼性: 高](複数の独立した米主要メディアが上院・下院双方での民主党の過半数獲得という大枠について一致している。ただし個別州の確定議席数・一部州の帰属には報道間で差異があり、最終確定情報ではない)",
+      "en": "Major US outlets including CBS News, NBC News, CNBC and ABC News reported that Democrats have won control of both the Senate and House in the November 3 midterm elections. Building on the earlier report (id: 2026-11-04-02, North Carolina etc.), AP-based projections say Democrats flipped additional Republican-held Senate seats in Iowa (Josh Turek defeats Ashley Hinson), Ohio (Sherrod Brown wins), Texas (James Talarico defeats Ken Paxton, reportedly the first Democratic statewide win in Texas since 1994), and Maine (Troy Jackson defeats incumbent Sen. Susan Collins). Some outlets also list Kansas and South Carolina as Democratic flips, though this is not corroborated across all sources. Inference: the exact final seat counts (reports vary, citing numbers from 49 to 53) and some races (e.g. Alaska) remained uncalled at the time of writing. [Reliability: High] (Multiple independent major US outlets agree on the broad outcome of Democratic control of both chambers, though individual state tallies and some race calls differ between outlets and are not yet final.)"
+    },
+    "category": "conflict",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-04T06:00:00+00:00",
+    "source": {
+      "name": "CBS News(NBC News/CNBC/ABC News経由)",
+      "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
     },
     "reliability": "high"
   }
