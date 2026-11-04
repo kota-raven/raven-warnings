@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-44759",
+    "headline": {
+      "ja": "北朝鮮、ミサイル発射と60億ドルの暗号資産盗難疑惑を否定",
+      "en": "North Korea fires missiles, denies US allegations of $6 billion Binance hack"
+    },
+    "summary": {
+      "ja": "北朝鮮は複数のミサイルを発射し、600億ドル超の暗号資産盗難疑惑への米国の指摘を否定した。金与正氏は米国との対話を拒否している。",
+      "en": "North Korea conducted multiple missile launches and denied US claims that it was responsible for stealing over $6 billion in cryptocurrency from Binance. Kim Yo Jong refused dialogue with the US."
+    },
+    "category": "economy",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-04T05:11:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_binance_hack_denial_2026",
+    "severity": 4
+  },
+  {
     "id": "auto-43718",
     "headline": {
       "ja": "サミット中のロシアが大規模ドローン攻撃に直面と発表",
@@ -136,6 +160,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "myanmar_school_airstrike_2026-11-03"
+  },
+  {
+    "id": "auto-44626",
+    "headline": {
+      "ja": "国連、スーダンでのドローン攻撃が民間インフラに与える影響を警告",
+      "en": "UN warns of impact of deadly drone strikes in Sudan"
+    },
+    "summary": {
+      "ja": "スーダン全域でドローン攻撃が激化し、電力・水・燃料供給が断絶、人命が危機にさらされ人道支援活動が阻害されていると国連が警告した。",
+      "en": "The UN warns that intensifying drone strikes across Sudan are disrupting electricity, water, and fuel supplies, endangering lives and hampering humanitarian aid delivery."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-03T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168731"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_drone_strikes_infrastructure_nov2026"
   },
   {
     "id": "auto-43340",
@@ -3365,28 +3412,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "china_japan_nuclear_rhetoric_2026-10-28"
-  },
-  {
-    "id": "auto-34377",
-    "headline": {
-      "ja": "ハルキウへのロシアのドローン攻撃で民間人が避難",
-      "en": "Russian Drone Attack on Kharkiv Forces Civilian Evacuation"
-    },
-    "summary": {
-      "ja": "ウクライナ東部ハルキウで火曜夜遅くにロシアのドローン攻撃があり、高齢女性と子どもを含む市民が避難を強いられた。",
-      "en": "A Russian drone attack in Ukraine's Kharkiv on late Tuesday evening forced elderly women and children among other civilians to evacuate their homes."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 49.9818,
-    "lon": 36.2548,
-    "occurredAt": "2026-10-28T07:35:20+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_kharkiv_russian_drone_attack_2026-10-28"
   }
 ]
