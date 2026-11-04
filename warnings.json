@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T01:13:56.861Z",
+  "generatedAt": "2026-11-04T08:59:38.435Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 184,
+  "count": 190,
   "warnings": [
     {
       "id": "NAVAREA11-260496",
@@ -296,6 +296,30 @@
       "geometry": null,
       "rawText": "NO.26-0322    発表日時:2026年07月17日 03時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDISCOLOURED WATER REPORTED IN VICINITY\r\r\nOF 20-26.0N 145-01.0E AT 160013Z JUL.\r\r\nCANCEL 0020/24.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264350",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4350",
+      "title": "ベンガル湾、射撃",
+      "publishedAt": "2026-11-04T16:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4350   発表日時:2026年11月04日 16時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、11月4日0230Z-6日1130Z、\r\r\n17-39.85N 083-38.58E 17-23.10N 083-28.07E\r\r\n16-56.80N 083-42.93E 17-40.08N 084-10.10E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264350&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264349",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4349",
+      "title": "南太平洋、宇宙ゴミ落下",
+      "publishedAt": "2026-11-04T15:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4349   発表日時:2026年11月04日 15時\r\n\n\r\n★ 南太平洋、\r\r\n宇宙ゴミ落下、11月4日-30日毎日0500Z-0900Z、\r\r\n33-34.30S 162-09.50W 41-37.65S 141-44.23W\r\r\n42-38.60S 142-13.88W 34-32.18S 162-44.80W\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264349&LANG=JP"
     },
     {
       "id": "JAPANNW-264348",
@@ -884,24 +908,6 @@
       },
       "rawText": "番号:26-4308   発表日時:2026年10月30日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南西、\r\r\n射撃、11月2日-5日毎日0000Z-1100Z、6日0400Z-1100Z、\r\r\n7日、8日毎日0100Z-1100Z、32-59N 125-49E\r\r\nを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264308&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264306",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4306",
-      "title": "済州島北西、射撃",
-      "publishedAt": "2026-10-30T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          124.5,
-          34.333333333333336
-        ]
-      },
-      "rawText": "番号:26-4306   発表日時:2026年10月30日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島北西、\r\r\n射撃、11月3日2300Z-翌日0400Z、33-45-00N 34-20-00N\r\r\n124-30-00E 125-49-53Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264306&LANG=JP"
     },
     {
       "id": "JAPANNW-264305",
@@ -3214,6 +3220,140 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262106",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "その他",
+      "number": "2106",
+      "title": "南西諸島、那覇ＮＡＶＴＥＸ局一時利用範囲減少",
+      "publishedAt": "2026-11-04T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2106    発表日時:2026年11月04日 17時\r\n\n\r\n南西諸島、\r\r\n那覇NAVTEX局(G)(26-05.5N\r\r\n127-40.1E)一時利用範囲減少、11月5日(予備6日)\r\r\n0800-1700。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262106&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262105",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2105",
+      "title": "釜石港東、射撃終了",
+      "publishedAt": "2026-11-04T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2105    発表日時:2026年11月04日 17時\r\n\n\r\n釜石港東、\r\r\n射撃終了。\r\r\n(2079削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262105&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262104",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2104",
+      "title": "隠岐諸島西、射撃",
+      "publishedAt": "2026-11-04T17:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          132.65,
+          36.166666666666664
+        ]
+      },
+      "rawText": "番号:26-2104    発表日時:2026年11月04日 17時\r\n\n\r\n隠岐諸島西、\r\r\n射撃、11月6日(予備10日)0900-2400、\r\r\n36-10N 132-39Eを中心とする半径5海里の円内。\r\r\n(2090削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262104&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262103",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2103",
+      "title": "種子島南東、フレア発射",
+      "publishedAt": "2026-11-04T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          132.16666666666666,
+          29.333333333333332
+        ]
+      },
+      "rawText": "番号:26-2103    発表日時:2026年11月04日 13時\r\n\n\r\n種子島南東、\r\r\nフレア発射、11月9日、12日(予備10日、13日)\r\r\n毎日0800-1700、28-20N 29-20N \r\r\n132-10E 133-10Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262103&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262102",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2102",
+      "title": "野島埼南東、射撃及びフレア発射",
+      "publishedAt": "2026-11-04T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            140.28,
+            34.586666666666666
+          ],
+          [
+            140.55166666666668,
+            34.30638888888888
+          ],
+          [
+            140.78083333333333,
+            34.138333333333335
+          ],
+          [
+            140.95027777777776,
+            34.033055555555556
+          ],
+          [
+            141.08722222222224,
+            33.95194444444445
+          ],
+          [
+            140.4297222222222,
+            33.57472222222223
+          ],
+          [
+            140.13,
+            34.519999999999996
+          ]
+        ]
+      },
+      "rawText": "番号:26-2102    発表日時:2026年11月04日 13時\r\n\n\r\n野島埼南東、\r\r\n射撃及びフレア発射、11月9日-13日毎日0600-\r\r\n1800、34-35-12N 140-16-48E\r\r\n34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E\r\r\n34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E\r\r\n33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262102&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262101",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2101",
+      "title": "直江津港北西、射撃",
+      "publishedAt": "2026-11-04T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          137.75,
+          37.583333333333336
+        ]
+      },
+      "rawText": "番号:26-2101    発表日時:2026年11月04日 13時\r\n\n\r\n直江津港北西、\r\r\n射撃、11月9日、10日(予備12日、13日)\r\r\n毎日1000-2400、37-25N 37-35N \r\r\n137-45E 138-10Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262101&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262100",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2100",
+      "title": "佐渡島北東、射撃",
+      "publishedAt": "2026-11-04T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2100    発表日時:2026年11月04日 13時\r\n\n\r\n佐渡島北東、\r\r\n射撃、11月9日(予備日12日)0900-2400、\r\r\n38-22.0N 138-52.2Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262100&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262099",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3292,24 +3432,6 @@
       "geometry": null,
       "rawText": "番号:26-2091    発表日時:2026年10月31日 22時\r\n\n\r\n隠岐諸島東、\r\r\n射撃、11月5日(予備6日)0800-2400、\r\r\n36-10.2N 133-44.8Eを中心とする半径5海里の\r\r\n円内。\r\r\n(2089削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262091&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262090",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2090",
-      "title": "隠岐諸島西、射撃",
-      "publishedAt": "2026-10-31T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          132.65,
-          36.166666666666664
-        ]
-      },
-      "rawText": "番号:26-2090    発表日時:2026年10月31日 13時\r\n\n\r\n隠岐諸島西、\r\r\n射撃、11月5日(予備6日、10日)0900-2400、\r\r\n36-10N 132-39Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262090&LANG=JP"
     },
     {
       "id": "NAVTEX-262088",
@@ -3492,18 +3614,6 @@
       },
       "rawText": "番号:26-2080    発表日時:2026年10月30日 13時\r\n\n\r\n紀伊水道南、\r\r\n射撃、11月4日-6日毎日0800-1830、\r\r\n33-30-12N 134-49-50Eを中心とする\r\r\n半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262080&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262079",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2079",
-      "title": "釜石港東、射撃",
-      "publishedAt": "2026-10-30T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2079    発表日時:2026年10月30日 13時\r\n\n\r\n釜石港東、\r\r\n射撃、11月4日(予備5日)0800-2400、\r\r\n39-15.0N 142-12.3Eを中心とする半径5海里の\r\r\n東側半円海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262079&LANG=JP"
     },
     {
       "id": "NAVTEX-262078",
