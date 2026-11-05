@@ -216,6 +216,78 @@
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
+    "id": "2026-11-04-cn-000142",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦「斉斉哈爾」が高速戦闘支援艦「呼倫湖」と補給艦「巣湖」と共に宮古海峡を往来した。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37402/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
+    "id": "2026-11-04-ru-000146",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "カレリヤ",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "久米島沖・宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍情報収集艦「カレリヤ」が久米島沖の接続水域で遊弋後、宮古海峡を南進し太平洋へ向かった。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37389/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
+    "id": "2026-11-04-us-000144",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "ジョン・ポール・ジョーンズ",
+    "shipNumber": "DDG-53",
+    "shipType": "destroyer",
+    "position": {
+      "area": "アラビア海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米アーレイ・バーク級ミサイル駆逐艦「ジョン・ポール・ジョーンズ」がアラビア海で機関故障のインド船籍船を支援した。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37393/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
     "id": "2026-11-03-us-000138",
     "recordType": "individual",
     "country": "US",
@@ -238,6 +310,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-03T22:02:02Z"
+  },
+  {
+    "id": "2026-11-03-kr-000139",
+    "recordType": "individual",
+    "country": "KR",
+    "shipName": "徐熙",
+    "shipNumber": "SS-088",
+    "shipType": "submarine",
+    "position": {
+      "area": "巨済（韓国南部）",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "韓国海軍の張保皐III Batch-II型潜水艦2番艦「徐熙（SS-088）」がハンファオーシャン玉浦造船所で進水した。3600トン級潜水艦。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37429/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-03T00:00:00Z"
   },
   {
     "id": "2026-11-02-us-000134",
@@ -432,6 +528,58 @@
     "observedAt": "2026-11-01T00:00:00Z"
   },
   {
+    "id": "2026-11-01-jp-000140",
+    "recordType": "aggregate",
+    "country": "JP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "フィリピン海・南シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊護衛艦「おおなみ」がアメリカ海軍空母「セオドア・ルーズベルト」など5隻と日米共同訓練を実施した。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37425/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": "2026-10-31T00:00:00Z",
+    "periodEnd": "2026-11-01T00:00:00Z"
+  },
+  {
+    "id": "2026-11-01-us-000141",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "carrier",
+    "position": {
+      "area": "フィリピン海・南シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "アメリカ海軍空母「セオドア・ルーズベルト」が海上自衛隊との共同訓練に参加した。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37425/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": "2026-10-31T00:00:00Z",
+    "periodEnd": "2026-11-01T00:00:00Z"
+  },
+  {
     "id": "2026-10-31-jp-000039",
     "recordType": "individual",
     "country": "JP",
@@ -454,6 +602,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-10-31-cn-000145",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "同済",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "波照間島南西EEZ内",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海洋調査船「同済」が波照間島南西EEZ内で調査活動を実施し、海保が中止要求を行った。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37391/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-31T00:00:00Z"
   },
   {
     "id": "2026-10-31-ru-000116",
@@ -863,6 +1035,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-28T00:00:00Z"
+  },
+  {
+    "id": "2026-10-28-jp-000143",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "海上自衛隊",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "相模湾",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海自SH-60K対潜ヘリが米海軍MH-60Rと共同の対潜戦訓練を相模湾で実施した。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37397/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-28T00:00:00Z"
@@ -1417,8 +1613,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -1441,8 +1637,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -1465,8 +1661,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
@@ -1489,8 +1685,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-22T21:22:00.652960+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-21T00:00:00Z"
   },
   {
