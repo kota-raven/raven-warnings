@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-46705",
+    "headline": {
+      "ja": "北朝鮮が新型防空ミサイルシステムをテスト実施",
+      "en": "DPRK conducts test of new air-defense missile system"
+    },
+    "summary": {
+      "ja": "北朝鮮が新たに開発した防空ミサイルシステムのテスト発射を実施したと朝鮮中央通信が報道した。",
+      "en": "North Korea conducted a test-fire of a newly developed air-defense missile system, according to state media."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-05T02:18:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRnN6bERYSUV3alptVHM1dEJ2NE01OXJRcHVIMEZubkY5Y21ESzhuNGVtYUR5OG9uS0NUZ1hkUEZzM05YN1BldGh4c2RJQ25lNWxEWG5YRGZsRDQwQ3Zrb3Q5TWFNRWNHM2NBbENOU1ZabHRYNm5KQjBWT2NSdktDUllVSGhPOUVobDB0Ug?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "dprk_new_air_defense_system_test_2026-11-04"
+  },
+  {
     "id": "auto-46184",
     "headline": {
       "ja": "フーシ勢力、リヤド空港へのミサイル攻撃を主張",
@@ -44,6 +67,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "dpr_gas_station_drone_attack_2026-11-03"
+  },
+  {
+    "id": "auto-46462",
+    "headline": {
+      "ja": "フーシ戦闘員がイエメン軍事キャンプを砲撃",
+      "en": "Houthi forces shell military camp in Yemen"
+    },
+    "summary": {
+      "ja": "イエメンの軍事キャンプへの砲撃で14人が死亡、30人以上が負傷した。フーシ戦闘員による攻撃と伝えられている。",
+      "en": "Houthi shelling of a military camp in Yemen killed 14 and wounded over 30 personnel."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-04T06:45:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHpBN29DWjFTbWJJQzhMUk04NnlDVXRjWWZDZnhzS2pwY0paTEZVQXRrUUZva3A3RHpNVTRHUk8yTHZod3VNcnUwdWNUa1c1TWF6T1hJR2xKRDluZUxhRnh6c25MYl9YTkJtTExlcXBCMmYzTjd0dTBLRU85a3ZmdzQ0VjVIeE02Yk10N3ZNS3RsSjNjWGltampkS25GYTJBVHJBTzRiUnZQUkxVa1JCeDM3VXVGQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_military_camp_shelling_2026-11-04"
   },
   {
     "id": "auto-44875",
@@ -3180,51 +3226,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "north_korea_ballistic_missiles_2026-10-29"
-  },
-  {
-    "id": "auto-35983",
-    "headline": {
-      "ja": "北朝鮮への制裁 日本を含む各国が共同声明",
-      "en": "Japan and Allies Issue Joint Statement on DPRK Sanctions"
-    },
-    "summary": {
-      "ja": "日本、フランス、ドイツ、オランダ、EU欧州対外行動庁が北朝鮮への制裁に関する共同声明を発表した。複数の国による一致した行動である。",
-      "en": "Japan and several allied nations, including France, Germany, Netherlands, and the EU, issued a joint statement regarding sanctions on the Democratic People's Republic of Korea."
-    },
-    "category": "economy",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-29T01:22:31+00:00",
-    "source": {
-      "name": "日本 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTaXBNUURGQWNyU0NZTThDT0JJb2c1U0VxZG5ZeWNhY2ZTOVEtR292Xzk0YWdweFptSUZOVkhOLU1aSHNJRUtDdUVic3ZPa2VPdXRpdE5oWlhEcjU0?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "dprk_sanctions_multilateral_2026-10-29"
-  },
-  {
-    "id": "auto-35875",
-    "headline": {
-      "ja": "サウジ主導連合、東部地域へのフーシミサイルを迎撃・破壊と発表",
-      "en": "Saudi-led Coalition Intercepts, Destroys Houthi Ballistic Missile"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合軍は、テロ組織フーシ民兵が東部地域に向けて発射した弾道ミサイルを迎撃・破壊したと発表した。",
-      "en": "Saudi-led coalition announced it intercepted and destroyed a ballistic missile launched by the Houthi militia toward the Eastern Region."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-29T01:12:47+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5STGpMV2xqRS1NSFN5SFowYzhLTFZUTXpmY1lZc1BaWnAxTFNjWnZpTlduQWs3LTlrWUZpLW0yTFV6Vnctc2ROOFBn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_houthi_missile_defense_2026-10-29"
   }
 ]
