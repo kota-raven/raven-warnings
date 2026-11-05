@@ -3133,28 +3133,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "iran_navy_operations_us_2026-02-28"
-  },
-  {
-    "id": "auto-36221",
-    "headline": {
-      "ja": "米国がイラン作戦の可能性で同盟国に警告か",
-      "en": "US reportedly warns allies of possible Iran operation"
-    },
-    "summary": {
-      "ja": "Rybarのアカウントで、米国がイラン対抗作戦の可能性について同盟国に警告したという投稿があった。",
-      "en": "Report on Telegram that US warned allies about possible military operation against Iran."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-10-29T09:46:00+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84244"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "us_iran_military_operation_2026-10"
   }
 ]
