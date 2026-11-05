@@ -22,28 +22,6 @@
     "severity": 4
   },
   {
-    "id": "2026-11-03-02",
-    "headline": {
-      "ja": "ロシア軍、キーウ州などのエネルギー施設にドローン攻撃 緊急停電 ゼレンスキー氏はロシアによる大規模攻撃計画を警告と報道",
-      "en": "Russian drones reportedly hit energy facilities in Kyiv region; emergency power cuts as Zelensky warns of planned \"massive attack\""
-    },
-    "summary": {
-      "ja": "ウクライナでは11月2日、ロシア軍のドローン攻撃でキーウ州など複数地域のエネルギー施設が損傷し、キーウ市を含む複数地域で緊急停電が実施されたという(Ukrinform)。キーウ州軍政当局者によると、ビラツェルクヴァ地区のエネルギー施設がドローン攻撃で損傷し、同攻撃で女性1人が負傷したという。国営送電会社ウクレネルゴは、電力系統が安定すれば停電を解除するとしているという。ゼレンスキー大統領は同日、ロシアがウクライナのエネルギー・物流インフラに対する「大規模な攻撃」を準備しているとの見方を示したという。ウクライナ側はエネルギー施設への相互攻撃停止(停戦)を支持する立場を示しているが、ロシア側はこれに応じていないという。推測:ゼレンスキー氏の言う「大規模な攻撃」が実際にいつ・どの規模で行われるかは本稿執筆時点で確定していない。[信頼性: 高](Ukrinform、ウクライナ政府当局者の発言に基づく報道)",
-      "en": "On November 2, Russian drone strikes reportedly damaged energy facilities in Kyiv region and several other Ukrainian regions, triggering emergency power cuts in Kyiv city and other areas, according to Ukrinform. A Kyiv regional military administration official said a drone strike damaged an energy facility in the Bila Tserkva district and injured one woman. State grid operator Ukrenergo said outages would be lifted once the system stabilizes. President Zelensky reportedly said the same day that Russia is preparing a \"massive attack\" on Ukraine's energy and logistics infrastructure. Ukraine says it supports a mutual halt to strikes on energy facilities, but Russia has not agreed, according to the report. Inference: the timing and scale of the warned \"massive attack\" remained unconfirmed at the time of writing. [Reliability: High] (Based on Ukrinform reporting citing Ukrainian government officials.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ州",
-    "lat": 50.4501,
-    "lon": 30.5234,
-    "occurredAt": "2026-11-02T12:00:00+00:00",
-    "source": {
-      "name": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4180200-russian-drone-attacks-damage-energy-facilities-in-kyiv-region-injure-woman.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-03-03",
     "headline": {
       "ja": "米国株急落・金価格も下落 12月FOMCでの追加利上げ観測が重荷に",
@@ -85,29 +63,6 @@
       "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
     },
     "reliability": "medium",
-    "severity": 4
-  },
-  {
-    "id": "2026-11-03-05",
-    "headline": {
-      "ja": "ロシア軍、ザポリッジャ州コムィシュヴァーハの人道支援拠点・避難所を二波にわたり空爆 少なくとも26人死亡・27人不明と報道",
-      "en": "Russian forces reportedly carry out two-wave bombing of aid hub and shelter in Komyshuvakha, Zaporizhzhia region, killing at least 26, with 27 missing"
-    },
-    "summary": {
-      "ja": "Al Jazeera・Korea Times・Canberra Times・The Print・Star Advertiser・NZ City International News等複数のメディアが報じたところによると、ウクライナ当局者は、ロシア軍が11月2日(月)、ウクライナ南部ザポリッジャ州コムィシュヴァーハで、人道支援物資の配布拠点となっていた学校とその隣接する避難所を空爆したと発表したという。ゼレンスキー大統領によると、まず学校に対して空爆が行われた後、さらに9発の爆弾(FAB-3000誘導爆弾)による第2波の攻撃が、人々が避難していた避難所そのものを狙って行われたという(いわゆる「二段攻撃」)。この攻撃で少なくとも26人が死亡し、死者には救助隊員2人・警察官4人が含まれ、負傷者5人(うち救助隊員2人)が病院で治療を受けているという。ザポリッジャ市議会のレジーナ・ハルチェンコ書記によると、27人が行方不明だという。救助活動は、同地域での追加のロシア軍ドローン攻撃により難航しているという。ゼレンスキー氏は、同村が学校として使用されていなかったこと、前線に近い場所にあることを明らかにしたという。この攻撃は、ヘルソン州オレシキへの人道支援搬入・住民避難のために設定されていた6日間の地域停戦が失効した翌日に発生したという。死者数は当初18人と発表された後、26人に上方修正されたといい、行方不明者の捜索が続いているため、本稿執筆時点でもさらに変動する可能性があるという。ロシア側からの公式な反応は本稿執筆時点で確認できていない。推測:死者数・行方不明者数は今後変動しうる。[信頼性: 高](Al Jazeera・Korea Times・Canberra Times・The Print・Star Advertiser・NZ City International News等、独立した複数の主要メディアがウクライナ政府当局者〔ゼレンスキー大統領・ザポリッジャ市議会〕の発表に基づき一致した内容を報じている。ロシア側からの独立した確認は得られていない)",
-      "en": "Multiple outlets -- Al Jazeera, Korea Times, Canberra Times, The Print, Star Advertiser and NZ City International News -- reported that Ukrainian officials said Russian forces bombed a school serving as a humanitarian aid distribution point and an adjacent shelter in Komyshuvakha, Zaporizhzhia region, southern Ukraine, on Monday, November 2. President Zelensky said the school was hit first, followed by a second wave of nine more bombs (FAB-3000 guided bombs) specifically targeting the shelter where people had taken refuge -- a so-called \"double-tap\" strike. The attack killed at least 26 people, including two rescue workers and four police officers, with five more -- including two rescuers -- hospitalized. Regina Kharchenko, secretary of the Zaporizhzhia City Council, said 27 people remained missing. Rescue operations were reportedly hampered by further Russian drone strikes in the area. Zelensky said the village was not being used as a school and that it lies close to the front line. The strike came the day after a six-day local ceasefire -- arranged to bring humanitarian aid into Oleshky, Kherson region, and evacuate residents -- expired. The death toll was first put at 18 before being revised up to 26, and may still change given ongoing search efforts, officials said. No official Russian response was found at the time of writing. Inference: casualty and missing-person figures may still change. [Reliability: High] (Multiple independent major outlets -- Al Jazeera, Korea Times, Canberra Times, The Print, Star Advertiser, NZ City International News -- report consistent accounts based on Ukrainian government officials' statements (President Zelensky, Zaporizhzhia City Council); no independent confirmation from the Russian side was found.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリッジャ州",
-    "lat": 47.7194,
-    "lon": 35.5247,
-    "occurredAt": "2026-11-02T09:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera/Korea Times(ウクライナ政府当局者発表)",
-      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
-    },
-    "reliability": "high",
     "severity": 4
   },
   {
@@ -302,5 +257,28 @@
       "url": "https://darfur24.com/en/2026/11/04/drone-strike-kills-10-at-south-kordofan-fuel-station/"
     },
     "reliability": "unconfirmed"
+  },
+  {
+    "id": "2026-11-05-06",
+    "headline": {
+      "ja": "イラン、ホルムズ海峡再開の米提案を「説得力がない」と拒否 トランプ氏は追加の「重い一撃」の可能性に言及",
+      "en": "Iran rejects US response on Hormuz Strait reopening as 'unconvincing'; Trump signals possible further 'heavy hit'"
+    },
+    "summary": {
+      "ja": "イラン最高国家安全保障会議のレザイー書記は11月4日、ホルムズ海峡再開に向けたイラン側の7条件に対する米側の回答を「説得力がない」と評価し、条件が満たされない限り海峡再開はないと述べたという(Al Jazeera)。同日、トランプ米大統領はケシム島の対空施設に対する米軍の攻撃を確認し、「建設されるのを見ていた、そして攻撃した」と述べて「小規模な攻撃」と位置づけたという(Gulf News)。トランプ氏はまた、米軍が即応態勢(「ロックド・アンド・ローデッド」)にあると述べ、状況次第で追加の「重い一撃」を実施する可能性に言及したという。ホルムズ海峡周辺ではタンカーや曳船が炎上したとの報道も複数あるが、発生時期・原因についてメディア間で記述が一致していない。[信頼性: 中](Al Jazeera・Gulf News・Kurdistan24など複数の独立したメディアが同様の内容を報じているが、タンカー炎上の詳細は報道間で一致していない)",
+      "en": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said on November 4 that the US response to Iran's seven conditions for reopening the Strait of Hormuz was \"unconvincing,\" and that the strait would reopen only once those conditions are met, according to Al Jazeera. The same day, US President Trump confirmed a US strike on an anti-aircraft facility on Iran's Qeshm Island, saying \"we watched it get built — then we hit it,\" and described it as a \"minor attack,\" per Gulf News. Trump also said US forces remain \"locked and loaded\" and signaled the possibility of a further \"heavy hit\" depending on how the situation develops. Several reports also describe tankers and a tugboat catching fire near the Strait of Hormuz, though outlets differ on the timing and cause. [Reliability: Medium] (Multiple independent outlets — Al Jazeera, Gulf News, Kurdistan24 among others — report similar accounts, though details of the tanker fires are inconsistent across sources.)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-04T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+    },
+    "reliability": "medium",
+    "severity": 3
   }
 ]
