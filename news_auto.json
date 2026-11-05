@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-47295",
+    "headline": {
+      "ja": "UAEがイスラエル投資に100億ドル基金を発表",
+      "en": "UAE announces $10 billion fund for investments in Israel"
+    },
+    "summary": {
+      "ja": "UAE政府が、イスラエルへの投資に充てるため100億ドルの基金を発表した",
+      "en": "The UAE government announced a $10 billion fund for investments in Israel"
+    },
+    "category": "economy",
+    "country": "アラブ首長国連邦",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "occurredAt": "2026-11-05T14:00:51+00:00",
+    "source": {
+      "name": "UAE 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakdHb1BDTVZfbE1Rd2hjWVlONUJ5ekxBU1VFWHE4Z2I2SXdDWl9zUUVtbXN6Q24tODl2TVR2TnZYd2lsemtEQnFvUGRLcDZfaE5TVHhPdldkekFadjA5TldJcWc5MmtXOUNnTlRNelltb1BwS0I2d01jVWYtekIwNjVPUUlfRnl6MlVvbUNLZVNEeEF6dlFpVlVyS09iR1VkZHNLUFVVVEwxTmg3Vng0OExvQWtTU2c?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "uae_israel_investment_fund_2026-11-05"
+  },
+  {
     "id": "auto-47073",
     "headline": {
       "ja": "日本、有事の核兵器搬入を検討",
