@@ -238,5 +238,69 @@
       "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-05-03",
+    "headline": {
+      "ja": "米中間選挙(州知事選):ジョージア州・テキサス州で民主党、フロリダ州で共和党の当選確実",
+      "en": "US midterms (governors): Democrats win Georgia and Texas, Republicans win Florida"
+    },
+    "summary": {
+      "ja": "米中間選挙(11月3日投開票)の州知事選について、CBS News・Yahoo Newsなど複数メディアは、ジョージア州で民主党のケイシャ・ランス・ボトムズ氏(前アトランタ市長)が当選確実となり、同州史上初の黒人女性知事になるという。テキサス州では民主党のジーナ・イノホサ氏が当選確実となり、同州で30年以上ぶりの民主党知事になるという。フロリダ州では共和党のバイロン・ドナルズ氏が当選確実となり、同州史上初の黒人知事になるという。これら3州は事前の報道では接戦(トスアップないし「共和党有利」)とされていたが、既報(id: 2026-11-04-02、2026-11-04-03)の上下両院での民主党優位という流れとおおむね一致する結果になったという。推測:正式な確定(certification)には至っておらず、僅差州では今後数値が変動する可能性がある。[信頼性: 高](CBS News・Yahoo Newsなど独立した複数の主要メディアが同一の当選確実情報を報じている)",
+      "en": "In the governor races of the November 3 US midterm elections, CBS News, Yahoo News and other outlets projected that Democrat Keisha Lance Bottoms (former mayor of Atlanta) won in Georgia, becoming the state's first Black woman governor. In Texas, Democrat Gina Hinojosa was projected to win, becoming the state's first Democratic governor in more than 30 years. In Florida, Republican Byron Donalds was projected to win, becoming the state's first Black governor. All three races had previously been described as close (toss-up or lean-Republican), and the results broadly align with the Democratic gains in the Senate and House already reported (id: 2026-11-04-02, 2026-11-04-03). Inference: official certification has not been completed, and tallies in close states could still shift. [Reliability: High] (Multiple independent major outlets, including CBS News and Yahoo News, report the same projected results.)"
+    },
+    "category": "conflict",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-04T08:00:00+00:00",
+    "source": {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/2026-midterm-election-results-where-democrats-won/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-05-04",
+    "headline": {
+      "ja": "米国株式市場、中間選挙後に大幅続伸 ダウ3.03%上昇、原油価格は急落",
+      "en": "US stocks extend post-election rally; Dow jumps 3.03% as oil prices tumble"
+    },
+    "summary": {
+      "ja": "11月4日の米株式市場で、ダウ工業株30種平均は前日比1,569.40ポイント(3.03%)高の53,356.12で終了し、2025年4月9日以来の大幅な上昇率になったという。S&P500種は前日比1.58%高の7,688.62、ナスダック総合指数も1.44%高で終えたという(CNBC・TheStreet・CBS News)。中間選挙で民主党が上下両院の過半数を獲得したとの報道(既報id: 2026-11-04-03)を受け、議会の機能が停滞し大規模な税制・財政法案が通りにくくなるとの見方を投資家が好感したとみられるという。同日、原油価格も大幅に下落したと複数メディアが報じている。推測:株価上昇の主因は選挙結果に加え、原油安や金利観測など複数の要因が重なった可能性がある。[信頼性: 高](CNBC・TheStreet・CBS Newsなど独立した複数の主要メディアが同一の終値・変動率を報じている)",
+      "en": "In US trading on November 4, the Dow Jones Industrial Average closed up 1,569.40 points (3.03%) at 53,356.12, its biggest one-day gain since April 9, 2025, according to CNBC, TheStreet and CBS News. The S&P 500 closed up 1.58% at 7,688.62 and the Nasdaq Composite rose 1.44%. The rally followed reports that Democrats had won control of both the House and Senate in the midterm elections (previously reported id: 2026-11-04-03), with investors reportedly welcoming the prospect of a more gridlocked Congress less likely to pass major tax and spending legislation. Oil prices also fell sharply the same day, multiple outlets reported. Inference: the rally's drivers likely combine the election outcome with falling oil prices and shifting rate expectations. [Reliability: High] (Multiple independent major outlets, including CNBC, TheStreet and CBS News, report matching closing figures and percentage moves.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-04T21:00:00+00:00",
+    "source": {
+      "name": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-05-05",
+    "headline": {
+      "ja": "スーダン・南コルドファン州の燃料施設にドローン攻撃、10人超死亡と報道(未確認)",
+      "en": "Drone strike reportedly hits fuel station in Sudan's South Kordofan, killing over 10 (unconfirmed)"
+    },
+    "summary": {
+      "ja": "現地メディアDarfur24は11月4日、スーダン・南コルドファン州ナクリー・アル・アッバーシーヤの燃料施設がドローン攻撃を受け、10人超が死亡したと報じたという。攻撃の実行主体は特定されておらず、死者数についても独立した検証は取れていないという。南コルドファン州ではRSF(即応支援部隊)とスーダン国軍の戦闘が続いており、周辺のコルドファン地域全体で民間施設への攻撃が相次いでいるという。推測:攻撃主体についてRSFによるものとの見方があるが、本件は他の独立したメディアによる確証が得られていない。[信頼性: 未確認情報](Darfur24の単独報道で、死者数・実行主体ともに他の独立したメディアで確証が取れていない)",
+      "en": "Local outlet Darfur24 reported on November 4 that a drone strike hit a fuel station in Naqli al-Abbasiya, South Kordofan, Sudan, reportedly killing more than 10 people. Who carried out the strike has not been established, and the death toll has not been independently verified. Fighting between the Rapid Support Forces (RSF) and Sudan's army continues in South Kordofan, with attacks on civilian facilities reported across the wider Kordofan region. Inference: some accounts attribute the strike to the RSF, but this has not been corroborated by other independent outlets. [Reliability: Unconfirmed] (Based on a single report from Darfur24; neither the death toll nor the perpetrator has been confirmed by other independent media.)"
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "region": "南コルドファン州",
+    "lat": 11.0167,
+    "lon": 29.7167,
+    "occurredAt": "2026-11-04T00:00:00+00:00",
+    "source": {
+      "name": "Darfur24",
+      "url": "https://darfur24.com/en/2026/11/04/drone-strike-kills-10-at-south-kordofan-fuel-station/"
+    },
+    "reliability": "unconfirmed"
   }
 ]
