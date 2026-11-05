@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-03-01",
-    "headline": {
-      "ja": "米、湾岸同盟国に11月4日以降のイラン再攻撃の可能性を警告 ネタニヤフ氏は即時再開を要求と報道",
-      "en": "US reportedly warns Gulf allies of possible Iran strikes as soon as Nov. 4, as Netanyahu presses for resumption"
-    },
-    "summary": {
-      "ja": "ワシントンは、トランプ大統領が中間選挙(11月3日)前の攻撃再開を行わないとした公約が同日で期限を迎えることを踏まえ、湾岸地域の複数の同盟国に対し、翌11月4日以降に短期間・高強度のイラン再攻撃が行われる可能性があると伝えたという(The Times of Israel・NewsNation・Ynet News等、複数のメディアがMS NOW発として報道)。湾岸当局者3名の話として、作戦は「短時間だが強度の高いもの」で数日間に及ぶ可能性があるとされ、一部当局者はイランによる湾岸のエネルギー施設等への報復を懸念しているという。イスラエルのネタニヤフ首相は中間選挙直後の攻撃再開をトランプ氏に強く求めているとされる一方、トランプ氏は最終決定をしていないという(既報id:2026-10-31-02の続報)。カタールを通じた対イラン外交協議も並行して続いているという。推測:実際に11月4日に攻撃が開始されるかは本稿執筆時点で確定していない。[信頼性: 中](The Times of Israel・NewsNation・Ynet News等、複数の独立したメディアが報道しているが、いずれも同一の一次情報源〔湾岸当局者3名〕に基づくMS NOW発の報道であり、別系列の独立した裏付けは確認できていない)",
-      "en": "Washington reportedly told several Gulf allies that a short, intense round of renewed strikes on Iran could begin as soon as November 4 -- the day after the US midterm elections -- once President Trump's pledge not to strike before the vote expires, according to The Times of Israel, NewsNation, Ynet News and others, citing a report originating with MS NOW. Three senior Gulf Arab officials reportedly described the planned operation as brief but intense, possibly lasting several days, and some officials said they worry about Iranian retaliation against Gulf energy infrastructure. Israeli PM Netanyahu is said to be pressing Trump to resume strikes immediately after the midterms, while Trump has reportedly not made a final decision (a continuation of previously reported id 2026-10-31-02). Qatari-mediated diplomacy with Iran is said to be continuing in parallel. Inference: whether strikes actually begin on November 4 remained unconfirmed at the time of writing. [Reliability: Medium] (Multiple independent outlets -- The Times of Israel, NewsNation, Ynet News and others -- relay the same MS NOW-originated report, which traces to the same three Gulf officials; no independently sourced corroboration via a separate reporting chain was found.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-11-02T20:00:00+00:00",
-    "source": {
-      "name": "The Times of Israel/NewsNation/Ynet News(MS NOW発報道)",
-      "url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
     "id": "2026-11-03-03",
     "headline": {
       "ja": "米国株急落・金価格も下落 12月FOMCでの追加利上げ観測が重荷に",
@@ -86,27 +64,6 @@
       "url": "https://www.anews.com.tr/middle-east/2026/11/03/iran-says-3-oil-tankers-hit-naval-mines-catch-fire-in-strait-of-hormuz"
     },
     "reliability": "low"
-  },
-  {
-    "id": "2026-11-04-01",
-    "headline": {
-      "ja": "イラン・米、戦争終結合意で依然大きな隔たり カタール仲介活発化、米が覚書草案を承認との報道も(未確認)",
-      "en": "Iran and US reportedly still far apart on deal to end war as Qatar steps up mediation; US said to have approved draft MOU (unconfirmed)"
-    },
-    "summary": {
-      "ja": "ロイター発として複数メディア(Korea Times・The Print・samaa.tv等)が報じたところによると、カタールの仲介団は11月2日(月)夜、過去8日間協議されてきた米・イラン間の終戦合意草案についてテヘランで協議したという。カタール外務省は、米・イラン双方が仲介側提示案を検討中だと述べたという。イラン政府高官はロイターに対し、終戦合意には依然大きな隔たりがあると述べたという。一方、匿名の関係者の話として、米国が前日にカタール提示の覚書(MOU)草案を承認したと伝える報道(Pakistan Today等)もあるが、米・イラン両政府による公式な確認は本稿執筆時点で見当たらない。イラン側は、米国による石油制裁の解除・海上封鎖の終了・凍結資金の解放など自国の要求が満たされるまでホルムズ海峡の封鎖を維持する立場で、イラン外相は交渉成立後なら海峡を2日以内に再開できるとの見方を示したとされる。イラン高官は、核問題に関する協議はイラン側の要求が満たされてから開始されるとしているという。推測:米国による覚書草案承認の真偽、および終戦合意が近いかどうかは、本稿執筆時点で確認できていない。[信頼性: 中](ロイター発として複数の独立したメディア〔Korea Times・The Print・samaa.tv等〕が、カタール外務省・イラン高官の発言について一致した内容を報じている。米国による覚書草案承認については匿名の関係者情報のみに基づく報道で、独立した裏付けは本稿執筆時点で確認できていない)",
-      "en": "According to multiple outlets citing Reuters (Korea Times, The Print, samaa.tv and others), a Qatari mediation team traveled to Tehran on the night of Monday, November 2, to discuss a draft agreement to end the Iran-US war that has been under discussion for the past eight days. Qatar's foreign ministry said both the US and Iran were reviewing the proposal put forward by mediators. A senior Iranian official told Reuters the two sides remained far apart on a deal to end the war. Separately, some reports (e.g. Pakistan Today), citing anonymous sources, said the US had approved a Qatar-presented draft memorandum of understanding (MOU) the day before, though no official confirmation from either the US or Iranian government was found at the time of writing. Iran reportedly maintains that the Strait of Hormuz will stay closed until its demands -- lifting US oil sanctions, ending the naval blockade, and releasing frozen Iranian funds -- are met, with Iran's foreign minister suggesting the strait could reopen within two days once an agreement is reached. An Iranian official reportedly said nuclear talks would only begin once Iran's conditions are satisfied. Inference: whether the US actually approved the draft MOU, and whether a deal to end the war is imminent, could not be confirmed at the time of writing. [Reliability: Medium] (Multiple independent outlets -- Korea Times, The Print, samaa.tv and others -- consistently report the same Reuters-sourced statements from Qatar's foreign ministry and an Iranian official; the claim of US approval of the draft MOU rests solely on anonymous sourcing and has not been independently corroborated as of this writing.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-11-02T19:30:00+00:00",
-    "source": {
-      "name": "Reuters(The Korea Times配信)",
-      "url": "https://www.koreatimes.co.kr/world/20261104/iran-us-still-far-apart-on-deal-to-end-war-as-qatar-pushes-mediation"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-11-04-02",
@@ -280,5 +237,69 @@
     },
     "reliability": "medium",
     "severity": 3
+  },
+  {
+    "id": "2026-11-06-01",
+    "headline": {
+      "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者43人に増加 行方不明者1人の生存確認",
+      "en": "Zaporizhzhia's Komyshuvakha strike death toll rises to 43; one previously missing person found alive"
+    },
+    "summary": {
+      "ja": "既報(id: 2026-11-05-01)の続報として、ゼレンスキー大統領は11月5日、ザポリッジャ州コムィシュヴァーハの人道支援拠点・避難所への空爆による死者数が43人に増加したと発表したという(Ukrinform・ua.news・Interfax-Ukraine等複数メディア)。一部報道では、行方不明とされていた人物のうち1人が生存していることが確認されたとも伝えている。現場の捜索・がれき撤去作業は継続中とされ、行方不明者数については既報の時点でも報道間で数字の食い違いがあり、最終的な死者・行方不明者数は今後さらに変動する可能性がある。推測:死者数増加分がどの時点の行方不明者に対応するかなど詳細は、本稿執筆時点で確認できていない。[信頼性: 高](Ukrinform・ua.news・Interfax-Ukraine等、独立した複数のウクライナメディアがゼレンスキー大統領発表について一致した内容を報じている。ただし死者数自体はウクライナ当局発表に基づくもので、ロシア側や第三者による独立した検証はできていない)",
+      "en": "Following up on the earlier report (id: 2026-11-05-01), President Zelensky said on November 5 that the death toll from the strike on a humanitarian aid hub and shelter in Komyshuvakha, Zaporizhzhia region, had risen to 43, according to Ukrinform, ua.news, Interfax-Ukraine and other outlets. Some reports say one person previously listed as missing has been found alive. Search and rubble-clearing operations reportedly continue at the site; figures for those missing have varied across earlier reports, so the final death and missing-person counts may still change. Inference: details such as which point-in-time missing-person count corresponds to the latest rise in deaths could not be confirmed at the time of writing. [Reliability: High] (Multiple independent Ukrainian outlets -- Ukrinform, ua.news, Interfax-Ukraine and others -- consistently report President Zelensky's statement; however, the casualty figures themselves rest on Ukrainian official statements and have not been independently verified by Russia or a third party.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ザポリッジャ州",
+    "lat": 47.7194,
+    "lon": 35.5247,
+    "occurredAt": "2026-11-05T12:00:00+00:00",
+    "source": {
+      "name": "Ukrinform(ゼレンスキー大統領発表)",
+      "url": "https://www.ukrinform.net/rubric-ato/4181787-death-toll-from-russian-airstrike-on-komyshuvakha-rises-to-43-zelensky.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-06-02",
+    "headline": {
+      "ja": "北朝鮮、11月4日に東海(日本海)方向へ複数の飛翔体を発射 兵器種別は不明",
+      "en": "North Korea fires several projectiles toward the East Sea (Sea of Japan) on November 4; weapon type unclear"
+    },
+    "summary": {
+      "ja": "The Japan Times(2026年11月4日付)によると、韓国軍は同日、北朝鮮の咸鏡南道ソンドク(松涛)付近から東海(日本海)方向へ複数の飛翔体が発射されたと発表したという。発射された兵器が弾道ミサイルかどうかは直ちには明らかになっておらず、同日日本の防衛省がJアラート等の警報を発出しなかったことから、短射程の火砲や短距離弾道ミサイル以外の可能性もあるとみられるという。韓国国防省はこれを過去1か月で北朝鮮による4回目の兵器発射と位置づけているという。北朝鮮の金与正氏は米国に「敵視政策」の放棄を求め、対抗措置の強化を警告したとされる。推測:発射された兵器の正確な種類・飛行距離・落下地点は本稿執筆時点で確定していない。[信頼性: 中](The Japan Timesの報道に基づくが、本稿執筆時点で他の主要メディアによる独立した裏付け記事は確認できていない。前回〔17:00 JST〕収集時点では同種の見出しの配信日時・詳細を確証できず採用を見送っていたが、今回は日付の明確なThe Japan Times記事を確認できたため採用した)",
+      "en": "According to The Japan Times (dated November 4, 2026), South Korea's military said that day that several projectiles had been fired from near Sondok in North Korea's South Hamgyong province toward the East Sea (Sea of Japan). Whether the weapons were ballistic missiles was not immediately clear, and Japan's Defense Ministry did not issue a J-Alert or similar warning that day, which observers said could suggest the weapons were something other than short-range artillery or short-range ballistic missiles. South Korea's defense ministry reportedly described it as North Korea's fourth weapons launch in the past month. North Korean official Kim Yo Jong reportedly demanded the US abandon its \"hostile policy\" and warned of stronger countermeasures. Inference: the exact weapon type, flight distance and impact location could not be confirmed at the time of writing. [Reliability: Medium] (Based on a dated Japan Times report; no independent corroborating article from another major outlet was found at the time of writing. A similar headline could not be dated or confirmed in the previous [17:00 JST] collection, but this run found a clearly dated Japan Times article.)"
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "occurredAt": "2026-11-04T00:00:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/north-korea-missile-test-november-4/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-06-03",
+    "headline": {
+      "ja": "金価格、1オンス=4,135ドル前後に上昇 ドルは中間選挙後に約1カ月ぶりの安値",
+      "en": "Gold rises to around $4,135/oz as dollar hits roughly one-month low after US midterms"
+    },
+    "summary": {
+      "ja": "経済ニュースサイトFinanceFeeds(11月5日付)によると、11月6日発表予定の10月米雇用統計を翌日に控えた11月5日(木)、スポット金価格は1オンス=4,135ドル前後まで上昇したという。米ドルは、11月3日の中間選挙で民主党が上下両院を制したとの報道(既報id: 2026-11-04-03)を受けて約1カ月ぶりの安値まで下落したとされ、これが金価格を支える一因になっているという。同記事は短期的な値動きの目安として、強気シナリオで4,225ドル、弱気シナリオで4,000ドルという水準を挙げているという。個別銘柄や金そのものへの投資判断としてではなく、米国市場全体・ドル動向の出来事として採用した。推測:金価格上昇の主因が選挙結果によるドル安か、他の要因(金利観測等)によるものかについては複数の解釈があり、本稿執筆時点で確定していない。[信頼性: 中](FinanceFeedsという専門金融メディア単独の報道に基づくもので、本稿執筆時点で他の主要メディアによる独立した裏付けは確認できていない)",
+      "en": "According to financial news site FinanceFeeds (dated November 5), spot gold rose to around $4,135 an ounce on Thursday, November 5 -- the day before the October US jobs report due November 6. The US dollar reportedly fell to roughly a one-month low following reports that Democrats won control of both the House and Senate in the November 3 midterms (previously reported id: 2026-11-04-03), which is said to be helping support gold prices. The same report cites near-term scenario levels of $4,225 (bullish) and $4,000 (bearish). Treated here as a development in the broader US market and dollar, not as guidance for investing in gold or any individual security. Inference: whether the main driver of gold's rise is dollar weakness tied to the election outcome or other factors (e.g. rate expectations) remains open to interpretation and was not settled at the time of writing. [Reliability: Medium] (Based solely on a report from FinanceFeeds, a specialized financial outlet; no independent corroboration from another major outlet was found at the time of writing.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-05T00:00:00+00:00",
+    "source": {
+      "name": "FinanceFeeds",
+      "url": "https://financefeeds.com/gold-price-today-4135-thursday-before-6-november-jobs-report-dollar-near-one-month-low-bull-4225-bear-4000/"
+    },
+    "reliability": "medium"
   }
 ]
