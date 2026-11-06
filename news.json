@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-03-06",
-    "headline": {
-      "ja": "イラン革命防衛隊海軍、ホルムズ海峡で油送船3隻が機雷に触れ炎上と発表(未確認)",
-      "en": "Iran's IRGC Navy says three oil tankers hit mines and caught fire in Strait of Hormuz (unconfirmed)"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)海軍は11月3日(火)、ホルムズ海峡南岸付近で油送船3隻が機雷に触れて炎上し、乗員に放棄されたまま炎上を続けているという発表をしたという(Anadolu Agency・anews.com.tr・JFeed等複数メディア)。これに先立ち11月2日(月)には、イラン海軍が、航行システムを切っていた1隻のタンカーが海峡東方の制限区域で機雷に触れたと発表していたという。IRGCは、CENTCOM司令官ブラッド・クーパー氏が10月25日にホルムズ海峡を訪問して以降の9日間で、海峡で計11隻の油送船が炎上し一部は沈没したと主張しているといい、米国側や船舶運航会社・海事保安機関による独立した確認は本稿執筆時点で見当たらない。タンカー数(2隻とする報道もある)や機雷を設置した当事者についても報道間で一致していない。米・イスラエルとイランの軍事衝突(2026年2月28日開始)に伴い、ホルムズ海峡の原油・LNG輸送は既報(id: 2026-10-31-02ほか)の通り事実上停止状態にあるとされ、今回の発表が事実であれば航行安全・原油供給への影響がさらに深刻化する可能性がある。推測:機雷の設置者・沈没の有無を含め、本稿執筆時点で独立した検証はできていない。[信頼性: 低](報道の多くがイラン革命防衛隊・イラン海軍という当事国側の発表のみに基づき、タンカーの隻数等の具体的事実が報道間で一致していない。米側・船舶運航会社による独立した確認は見当たらない)",
-      "en": "Iran's Islamic Revolutionary Guard Corps (IRGC) Navy said on Tuesday, November 3, that three oil tankers hit naval mines and caught fire near the southern shore of the Strait of Hormuz, and remained abandoned and ablaze, according to Anadolu Agency, anews.com.tr, JFeed and other outlets. Separately, Iran's navy had said on Monday, November 2, that a tanker with its navigation systems switched off struck a mine in a restricted area east of the strait. The IRGC further claimed that, over the nine days since CENTCOM Commander Brad Cooper's October 25 visit to the strait, a total of 11 oil tankers have caught fire there, with some reportedly sinking -- a claim with no independent confirmation found at the time of writing from the US, shipping operators, or maritime security agencies. Reports differ on the number of tankers involved (some say two) and on who laid the mines. Amid the ongoing US-Israel military conflict with Iran (which began February 28, 2026), the Strait of Hormuz has reportedly been effectively shut to oil and LNG shipping (as previously reported, id 2026-10-31-02 and others); if accurate, this latest incident could further worsen navigational safety and oil-supply disruption. Inference: who laid the mines, and whether any tanker has actually sunk, could not be independently verified at the time of writing. [Reliability: Low] (Most reporting traces back solely to statements by Iran's IRGC and Navy -- parties to the conflict -- and specific details such as the number of tankers affected are inconsistent across outlets. No independent confirmation from the US side or shipping operators was found.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-03T04:00:00+00:00",
-    "source": {
-      "name": "Anadolu Agency/anews.com.tr/JFeed(イラン革命防衛隊海軍発表)",
-      "url": "https://www.anews.com.tr/middle-east/2026/11/03/iran-says-3-oil-tankers-hit-naval-mines-catch-fire-in-strait-of-hormuz"
-    },
-    "reliability": "low"
-  },
-  {
     "id": "2026-11-04-02",
     "headline": {
       "ja": "米中間選挙(上院):民主党がノースカロライナ州で共和党議席を奪還、ジョージア・ニューハンプシャーは議席維持 下院は「民主党優位」と報道",
@@ -300,24 +278,66 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-06-07",
+    "id": "2026-11-06-08",
     "headline": {
-      "ja": "マリ、内戦拡大の懸念 JNIMが国軍・露系民間軍事会社車両へのIED攻撃を主張、北部ではトゥアレグ系勢力との衝突も激化",
-      "en": "Mali Conflict Risks Escalating as JNIM Claims IED Attack on Army/Africa Corps Convoy; Clashes With Tuareg Rebels Intensify in North"
+      "ja": "欧州各国の旅客機に爆破予告が相次ぐ 戦闘機が複数機を護衛・空港へ誘導",
+      "en": "Wave of hoax bomb threats hits European flights, fighter jets escort diverted planes"
     },
     "summary": {
-      "ja": "複数の報道によると、アルカイダ系武装組織JNIMは2026年11月2日、マリ中部モプティ州で、マリ国軍とロシアの民間軍事会社「アフリカ軍団」の車両に対する即席爆発装置(IED)による攻撃を実施したと主張したという。米外交問題評議会(CFR)は11月3日付の分析で、JNIMとトゥアレグ系武装勢力「アザワド諸運動連合(CMA)」がマリ北部で勢力を強めており、同国が内戦の危機に近づいていると評価しているという。推測:「内戦の危機」との評価はCFRによる分析・評価であり、確定した事実ではない。また、JNIMによる攻撃の実施自体も同組織側の主張であり、独立した確認は本検索範囲では得られていない。[信頼性: 中](JNIM側の攻撃主張は未検証、CFRの分析は専門機関の評価)",
-      "en": "According to multiple reports, the al-Qaeda-linked group JNIM claimed it carried out an IED attack on a convoy carrying Malian army and Russian \"Africa Corps\" mercenary personnel in Mali's central Mopti region on November 2, 2026. In a November 3 analysis, the US Council on Foreign Relations assessed that JNIM and the Tuareg-led \"Coordination of Azawad Movements\" (CMA) rebel coalition are consolidating power in northern Mali, bringing the country closer to civil war. Inference: the \"brink of civil war\" assessment is CFR's own analysis, not a confirmed fact, and JNIM's attack claim itself is the group's own assertion that could not be independently verified within this search. [Reliability: Medium] (JNIM's attack claim is unverified; the CFR analysis is an expert assessment, not a raw event report.)"
+      "ja": "CNN・バチカンニュース・SBS(AP・ロイター引用)等によると、11月3日から5日にかけて欧州発着の旅客機27機以上(報道により16〜27機超と差あり)に爆破予告のメールが相次いで送られ、イタリア・フランス・ブルガリア・ハンガリー・ポーランド・スペイン・チェコなどで戦闘機が緊急発進し、複数の機体が目的地変更・護衛を受けたという。イタリア空軍はダブリン発ローマ行き機を強制着陸させ、フィンエアー機をローマへ護衛した。スペインでは20分間に3件の爆破予告メールが届いたとされる。いずれも機内から危険物は発見されておらず、送信者は特定されていない。推測:サイバーセキュリティ専門家は、航空会社・当局の同時対応能力を試す目的の可能性を指摘しているという。",
+      "en": "According to CNN, Vatican News and SBS (citing AP and Reuters), hoax bomb threat emails hit more than 27 European flights (reports vary from 16 to over 27) between November 3-5, prompting fighter jet scrambles in Italy, France, Bulgaria, Hungary, Poland, Spain and Czechia, with several aircraft diverted or escorted. Italian jets intercepted a Dublin-Rome flight and escorted a Finnair aircraft to Rome; Spanish authorities said three threat emails arrived within 20 minutes. No hazardous materials were found and the sender remains unidentified. Speculation: cybersecurity experts say it may be a test of simultaneous-emergency response capacity."
     },
     "category": "conflict",
-    "country": "マリ",
-    "lat": 17.570692,
-    "lon": -3.996166,
-    "occurredAt": "2026-11-02T08:00:00+00:00",
+    "country": "イタリア",
+    "lat": 41.8719,
+    "lon": 12.5674,
+    "occurredAt": "2026-11-05T14:00:00+00:00",
     "source": {
-      "name": "Counter-IED Report / CFR",
-      "url": "https://counteriedreport.com/mali-jnim-claims-ied-attack-on-malian-army-and-africa-corps-vehicle-in-mopti-region/"
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/11/05/europe/europe-bomb-threat-intl"
     },
-    "reliability": "medium"
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-06-09",
+    "headline": {
+      "ja": "トランプ氏、プーチン特使と会談 ウクライナ和平「近い」と発言",
+      "en": "Trump says Russia-Ukraine deal 'near' after meeting Putin's envoy Dmitriev"
+    },
+    "summary": {
+      "ja": "アルジャジーラ等によると、トランプ米大統領は11月5日、ホワイトハウスでプーチン露大統領の特使キリル・ドミトリエフ氏と非公開で会談し、ロシア・ウクライナ間の合意が近く、その内容は「欧州全体」に及ぶ可能性があるとの見通しを記者団に示したという。会談の具体的内容は明らかにされておらず、同日ウクライナ代表団との会合は行っていないという。米国の仲介団は11月10〜11日にアブダビで露・ウクライナ間の3者協議を予定しているとされる。推測:トランプ氏はこれまでも合意が近いとの見通しを繰り返し示してきており、実現時期は不確実との指摘がある。",
+      "en": "According to Al Jazeera, US President Trump met privately with Russian presidential envoy Kirill Dmitriev at the White House on November 5 and told reporters a Russia-Ukraine deal was close, possibly extending to 'all of Europe.' He did not disclose details and did not meet the Ukrainian delegation that day. A US-mediated trilateral session between Russia and Ukraine is reportedly planned in Abu Dhabi on November 10-11. Speculation: Trump has repeatedly predicted an imminent deal before, so the timeline remains uncertain."
+    },
+    "category": "conflict",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-05T19:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-06-10",
+    "headline": {
+      "ja": "米国株急落、ナスダックが修正相場入り AI・半導体株売り安中間選挙後の続伸分を帳消し",
+      "en": "Wall Street tumbles as Nasdaq enters correction, AI chip selloff erases post-election rally"
+    },
+    "summary": {
+      "ja": "CNBC・フォックスビジネス等によると、11月5日の米国株式市場はAI・半導体関連株の急落を受けて大幅下落し、ダウ工業株30種平均は1,833.06ポイント(3.44%)安の51,523.06、ナスダック総合指数は5.52%安の24,315.00で取引を終え、10月6日につけた終値高値から10%超下落して「修正相場」入りしたという。S&P500種指数も4.36%安の7,353.73となった。前日(11/4、既報id: 2026-11-05-04)に中間選挙結果を受けて大幅続伸した分がほぼ帳消しになったという。",
+      "en": "According to CNBC and Fox Business, US stocks fell sharply on November 5 as AI and chip stocks sold off: the Dow Jones Industrial Average dropped 1,833.06 points (3.44%) to 51,523.06, and the Nasdaq Composite fell 5.52% to 24,315.00, entering correction territory (more than 10% below its October 6 closing high). The S&P 500 fell 4.36% to 7,353.73, erasing most of the prior day's post-midterm-election rally (previously reported id: 2026-11-05-04)."
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-05T21:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+    },
+    "reliability": "high"
   }
 ]
