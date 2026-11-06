@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-03-03",
-    "headline": {
-      "ja": "米国株急落・金価格も下落 12月FOMCでの追加利上げ観測が重荷に",
-      "en": "US stocks tumble and gold falls as traders price in possible December Fed rate hike"
-    },
-    "summary": {
-      "ja": "11月2日、米国市場では12月の米連邦公開市場委員会(FOMC、12月8〜9日開催予定)で追加利上げが決定されるとの観測が強まり、ナスダック総合指数が2.9%下落したという(Rio Times Online)。金価格(スポット)も利上げ観測を背景に3.31%下落し、1オンス=3,875ドルとなったという。米連邦準備制度理事会(FRB)は10月のFOMCで、前月(9月)の利上げ後、政策金利を3.75〜4.00%で維持することを決定していたが、リサ・クック理事とクリーブランド連銀のベス・ハマック総裁は0.25%の追加利上げを主張して反対票を投じていたという。市場予測(Polymarket・CME FedWatch等)では、12月会合での0.25%利上げの確率が7〜8割程度とされているという。次の重要な指標として11月6日の雇用統計が注目されているという。個別銘柄の投資判断としてではなく、米国経済・市場全体の動向として採用した。[信頼性: 中](Rio Times Online〔11月2日付グローバル経済ブリーフィング〕の報道に基づく。具体的な変動率・金価格の数値は同記事の報道によるもので、他の主要経済メディアによる独立した裏付けは本稿執筆時点で確認できていない)",
-      "en": "On November 2, the Nasdaq Composite fell 2.9% amid growing expectations that the Federal Reserve will raise interest rates again at its December 8-9 FOMC meeting, according to a Rio Times Online economic briefing. Spot gold also fell 3.31% to $3,875 an ounce on the same rate-hike expectations. The Fed had held its policy rate at 3.75%-4.00% at its October meeting following a September hike, with Governor Lisa Cook and Cleveland Fed President Beth Hammack dissenting in favor of an additional quarter-point hike. Prediction markets (Polymarket, CME FedWatch) reportedly put the odds of a December quarter-point hike at roughly 70-85%. The November 6 jobs report is cited as the next key data point. Treated here as a US-wide economic and market development, not as guidance for individual stock investment. [Reliability: Medium] (Based on a Rio Times Online briefing dated November 2; the specific percentage moves and gold price have not been independently corroborated by other major financial outlets as of this writing.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-02T21:00:00+00:00",
-    "source": {
-      "name": "Rio Times Online",
-      "url": "https://riotimesonline.com/global-economy-briefing-november-2-2026"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-03-04",
-    "headline": {
-      "ja": "米軍、イランのミサイル発射への対応としてケシム島のIRGC対空ミサイル発射装置を「防衛的」空爆",
-      "en": "US carries out 'defensive' strike on IRGC air-defense launcher on Iran's Qeshm Island after Iranian missile fired at US aircraft, officials say"
-    },
-    "summary": {
-      "ja": "NBC News・Fox News・The Jerusalem Post・i24News・Arab Times・KTSA等複数の米メディアが米政府当局者の話として報じたところによると、イラン革命防衛隊(IRGC)がホルムズ海峡上空の米軍機に向けてミサイルを発射し、米軍がこれへの自衛的対応として、イラン・ホルモズガーン州のケシム島にあるIRGCの地対空ミサイル発射装置を破壊したという。米当局者はこの空爆を「防衛的」なものと説明し、本格的な戦闘再開を意味するものではないとして、大規模な作戦として広報することは避けていたという。Wall Street Journalは、このケシム島への攻撃が、米国がここ数週間水面下で実施してきた一連の限定的な対イラン軍事作戦の一部だと報じたという。イラン国営通信IRNAは、ケシム島で相次ぐ5回の爆発があったと独立して報じ、住民の一部が上空に航空機2機を目撃したとも伝えたという。報道の時点には食い違いがあり、多くの媒体が米国時間11月2日(月)としている一方、Arab Timesは11月3日付で報じている。米・イスラエルとイランの軍事衝突(2026年2月28日開始)は継続中で、既報(id: 2026-11-03-01、米が11月4日以降のイラン再攻撃の可能性を湾岸同盟国に伝えたとする報道)とは別に、今回はイランの対米ミサイル発射と米側の反撃という、既に生起した双方の武力行使であり、緊急チェック基準(国家間の相互攻撃・空爆の応酬)に該当すると判断した。推測:今回の「防衛的」空爆が、既報の11月4日以降とされるより大規模な再攻撃の前触れとなるかは本稿執筆時点で確定していない。イラン政府当局による今回の空爆そのものへの公式な確認・否定は本稿執筆時点で見当たらない。[信頼性: 中](NBC News・Fox News・The Jerusalem Post・i24News・Arab Times・KTSA等、独立した複数の主要メディアが米当局者発として一致した内容を報じており、イラン国営通信IRNAも爆発の発生自体を独立して報じている。ただし攻撃の経緯・意図に関する詳細は匿名の米当局者からの伝聞報道に基づくもので、単一の情報源〔Axios発〕に遡る可能性がある)",
-      "en": "Multiple US outlets -- NBC News, Fox News, The Jerusalem Post, i24News, Arab Times and KTSA -- reported, citing US officials, that Iran's Islamic Revolutionary Guard Corps (IRGC) fired a missile at a US aircraft over the Strait of Hormuz, and that the US military struck back in self-defense, destroying an IRGC surface-to-air missile launcher on Iran's Qeshm Island (Hormozgan province). US officials described the strike as \"defensive\" and said it did not signal a return to major combat, and reportedly kept it low-profile rather than publicizing it as a major operation. The Wall Street Journal reported the Qeshm strike was part of a series of limited military operations against Iranian targets that Washington has reportedly conducted quietly over recent weeks. Iran's state news agency IRNA independently reported five explosions in quick succession on Qeshm Island, with some residents saying they saw two aircraft overhead. Timing differs slightly across outlets: most date the strike to Monday, November 2 (US time), while Arab Times is datelined November 3. The US-Israel military conflict with Iran (which began February 28, 2026) remains ongoing. Distinct from the previously reported warning (id 2026-11-03-01) that the US told Gulf allies of possible renewed Iran strikes from November 4, this episode is an actual exchange of fire between the two sides (an Iranian missile launch at a US aircraft followed by a US strike), which is judged to meet the emergency-check criterion of \"mutual attacks/airstrikes between states.\" Inference: whether this \"defensive\" strike is a precursor to the larger reported Nov. 4-plus strikes remains unconfirmed at the time of writing. No official Iranian government confirmation or denial of this specific strike was found at the time of writing. [Reliability: Medium] (Multiple independent major outlets -- NBC News, Fox News, The Jerusalem Post, i24News, Arab Times, KTSA -- report consistent accounts attributed to US officials, and Iran's IRNA independently corroborates that explosions occurred; however, the narrative details on cause and intent rest on anonymous US officials and may trace back to a single original source, reported via Axios.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルモズガーン州(ケシム島)",
-    "lat": 27.1865,
-    "lon": 56.2808,
-    "occurredAt": "2026-11-02T22:00:00+00:00",
-    "source": {
-      "name": "NBC News/Fox News/The Jerusalem Post/i24News(米当局者発)",
-      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
     "id": "2026-11-03-06",
     "headline": {
       "ja": "イラン革命防衛隊海軍、ホルムズ海峡で油送船3隻が機雷に触れ炎上と発表(未確認)",
@@ -128,28 +84,6 @@
       "url": "https://www.ukrinform.net/rubric-ato/4181429-zelensky-death-toll-in-komyshuvakha-rises-to-40-more-than-30-may-remain-trapped-under-rubble.html"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-11-05-02",
-    "headline": {
-      "ja": "サイクロン「ムラス」、インド東海岸アーンドラ・プラデーシュ州に上陸 約3万人避難、死傷者報告なし",
-      "en": "Cyclone Murasu makes landfall on India's Andhra Pradesh coast; ~30,000 evacuated, no casualties reported"
-    },
-    "summary": {
-      "ja": "インド気象局(IMD)によると、サイクロン「ムラス」が11月2日夜から3日未明にかけて、インド東部アーンドラ・プラデーシュ州プラカーサム県オングル付近(バーパトラ〜プラカーサム間)に上陸したという(Al Jazeera)。上陸時の風速については報道間で差異があり、追跡データでは最大時速157km(カテゴリー2相当)との情報がある一方、IMD発表に基づく別の集計では時速100〜110km(最大120km)とされているという。アーンドラ・プラデーシュ州当局は上陸に備え約3万人を安全な場所に移動させたとしており、本稿執筆時点で死者・負傷者の報道は確認できていないが、樹木・電柱の倒壊や農作物への被害が報告されているという。タミル・ナードゥ州・ポンディシェリ・オディシャ州でも大雨が観測されたという。推測:最終的な被害規模・上陸時刻の詳細は今後変動しうる。[信頼性: 中](Al Jazeera・複数の追跡サイトで上陸・避難の大枠は一致しているが、上陸の正確な日時・風速については報道間で差異があり、確定情報ではない)",
-      "en": "According to India's Meteorological Department, Cyclone Murasu made landfall on the night of November 2 into the early hours of November 3 near Ongole in Prakasam district, Andhra Pradesh (between Bapatla and Prakasam), on India's east coast, per Al Jazeera. Reports differ on wind speed at landfall: tracker data put peak sustained winds at about 157 km/h (Category 2 equivalent), while another IMD-based summary gives 100-110 km/h, gusting to 120 km/h. Andhra Pradesh authorities moved roughly 30,000 people to safety ahead of landfall; no deaths or injuries have been confirmed as of this writing, though downed trees and power poles and crop damage were reported. Heavy rain was also observed in Tamil Nadu, Puducherry and Odisha. Inference: the final scale of damage and exact landfall timing may still be clarified. [Reliability: Medium] (Al Jazeera and several tracking sites agree on the broad facts of landfall and evacuation, but reports differ on the exact landfall time and wind speed, so these are not yet settled.)"
-    },
-    "category": "disaster",
-    "country": "インド",
-    "region": "アーンドラ・プラデーシュ州(プラカーサム県)",
-    "lat": 16.8,
-    "lon": 81.84,
-    "occurredAt": "2026-11-02T19:30:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-11-05-03",
@@ -299,6 +233,90 @@
     "source": {
       "name": "FinanceFeeds",
       "url": "https://financefeeds.com/gold-price-today-4135-thursday-before-6-november-jobs-report-dollar-near-one-month-low-bull-4225-bear-4000/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-06-04",
+    "headline": {
+      "ja": "日経平均がベア相場入り AIチップ関連株急落、韓国コスピも6%超急落",
+      "en": "Nikkei 225 Enters Bear-Market Territory as AI Chip Stocks Slide; Kospi Plunges Over 6%"
+    },
+    "summary": {
+      "ja": "複数の経済メディアの報道によると、2026年11月5日、東京市場で日経平均株価はアドバンテストなど主力AI半導体関連株の急落を受けて前日比2.22%安の60,808.68で取引を終えたという(Vantage Markets)。CNBCの報道によると、この下落により日経平均は6月につけた直近高値から20%超下落し、「ベア相場(bear market)」入りしたとされ、同日は韓国のコスピ指数も6%超下落してアジア市場で最大の下落率になったという。個別銘柄への投資判断としてではなく、日本・アジア市場全体の動向として採用した。推測:下落率の具体的な数値は報道間で若干の相違があり(CNBCは当日の下落率を5.9%と報じている一方、Vantage Marketsは2.22%安と報じている)、どちらが正確かは本稿執筆時点で確定していない。[信頼性: 中](複数メディアの報道に基づくが、下落率等の数値に相違がある)",
+      "en": "According to multiple financial outlets, Japan's Nikkei 225 closed 2.22% lower at 60,808.68 on November 5, 2026, dragged down by a sharp slide in major AI-chip-related stocks such as Advantest (Vantage Markets). CNBC reported that the drop put the Nikkei more than 20% below its June peak, pushing it into \"bear market\" territory, and that South Korea's Kospi fell more than 6% the same day, the biggest decline in the region. Treated here as a development in the broader Japanese/Asian market, not as guidance for any individual stock. Inference: the exact size of the decline differs between reports (CNBC cited a 5.9% drop that day, while Vantage Markets reported a 2.22% fall), and which figure is accurate had not been settled at the time of writing. [Reliability: Medium] (Based on multiple media reports, though the specific percentage figures differ between them.)"
+    },
+    "category": "economy",
+    "country": "日本",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "occurredAt": "2026-11-05T06:00:00+00:00",
+    "source": {
+      "name": "Vantage Markets / CNBC",
+      "url": "https://vantagemarkets.com/market-analysis/why-nikkei-225-fell-ai-chip-stocks-jp225-analysis-november-5-2026"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-06-05",
+    "headline": {
+      "ja": "コンゴ民主共和国のエボラ(ブンディブギョ型)流行、同国史上最大規模に 死者5,126人",
+      "en": "DRC's Ebola (Bundibugyo Virus) Outbreak Becomes the Country's Largest Ever Recorded, WHO Says"
+    },
+    "summary": {
+      "ja": "世界保健機関(WHO)の発表によると、2026年11月1日時点でコンゴ民主共和国におけるエボラ出血熱(ブンディブギョウイルス型)の確定症例は10,532人、死者は5,126人に達し、WHOはウイルス種を問わず同国で記録された中で最大規模のエボラ流行になったとしている。流行は同国内8州に拡大しており、ケニア・ナイジェリアでも輸入症例が報告されたという。WHOは11月4日、今回の流行で初めて、ブンディブギョウイルスに特化したワクチン候補を試験的に投入すると発表した。災害・感染症カテゴリの大規模事案として採用した。[信頼性: 高](WHO公式発表に基づく)",
+      "en": "According to the World Health Organization, as of November 1, 2026, the Democratic Republic of the Congo had recorded 10,532 confirmed cases and 5,126 deaths from Ebola disease caused by the Bundibugyo virus, which WHO described as the largest Ebola outbreak ever recorded in the country regardless of virus species. The outbreak has spread across eight provinces, with imported cases also reported in Kenya and Nigeria. On November 4, WHO announced that vaccine candidates specifically designed against the Bundibugyo virus would be tested in this outbreak for the first time. Treated here as a major disaster/epidemic event. [Reliability: High] (Based on official WHO statements.)"
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "lat": -4.0383,
+    "lon": 21.7587,
+    "occurredAt": "2026-11-04T00:00:00+00:00",
+    "source": {
+      "name": "WHO",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-06-06",
+    "headline": {
+      "ja": "ガザ、停戦下でも空爆続く 11月5日に子供含む4人死亡、停戦後の死者は累計1,602人との集計",
+      "en": "Israeli Strikes Continue in Gaza Despite Ceasefire; 4 Killed Including a Child on Nov. 5, Cumulative Toll Since Truce Reaches 1,602"
+    },
+    "summary": {
+      "ja": "アルジャジーラの報道によると、2026年11月5日、ガザ中部・南部へのイスラエル軍の攻撃で子供1人を含む4人のパレスチナ人が死亡したという。ガザの衛生当局の集計では、2025年10月11日の停戦発効以降の死者は累計1,602人、負傷者は5,794人に達しているとされ、ガザの政府系メディア局は停戦開始以降のイスラエルによる違反を5,989件と主張しているという。推測:これらの死者数・違反件数はハマスが統治するガザ側(衛生当局・メディア局)の集計に基づくものであり、本検索範囲ではイスラエル側の見解・反論は確認できていない。[信頼性: 中](アルジャジーラ等の報道機関を通じた報道だが、集計主体はガザ側当局)",
+      "en": "According to Al Jazeera, Israeli attacks on central and southern Gaza killed four Palestinians, including a child, on November 5, 2026. Gaza's health authorities say the cumulative death toll since the ceasefire took effect on October 11, 2025 has reached 1,602, with 5,794 wounded, and Gaza's government media office claims Israel has committed 5,989 ceasefire violations since the truce began. Inference: these casualty and violation figures come from Hamas-run Gaza authorities (health ministry and media office), and no Israeli government response or rebuttal was found within this search. [Reliability: Medium] (Reported via media outlets such as Al Jazeera, but the underlying tallies originate from Gaza-side authorities.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.9522,
+    "lon": 35.2332,
+    "occurredAt": "2026-11-05T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-06-07",
+    "headline": {
+      "ja": "マリ、内戦拡大の懸念 JNIMが国軍・露系民間軍事会社車両へのIED攻撃を主張、北部ではトゥアレグ系勢力との衝突も激化",
+      "en": "Mali Conflict Risks Escalating as JNIM Claims IED Attack on Army/Africa Corps Convoy; Clashes With Tuareg Rebels Intensify in North"
+    },
+    "summary": {
+      "ja": "複数の報道によると、アルカイダ系武装組織JNIMは2026年11月2日、マリ中部モプティ州で、マリ国軍とロシアの民間軍事会社「アフリカ軍団」の車両に対する即席爆発装置(IED)による攻撃を実施したと主張したという。米外交問題評議会(CFR)は11月3日付の分析で、JNIMとトゥアレグ系武装勢力「アザワド諸運動連合(CMA)」がマリ北部で勢力を強めており、同国が内戦の危機に近づいていると評価しているという。推測:「内戦の危機」との評価はCFRによる分析・評価であり、確定した事実ではない。また、JNIMによる攻撃の実施自体も同組織側の主張であり、独立した確認は本検索範囲では得られていない。[信頼性: 中](JNIM側の攻撃主張は未検証、CFRの分析は専門機関の評価)",
+      "en": "According to multiple reports, the al-Qaeda-linked group JNIM claimed it carried out an IED attack on a convoy carrying Malian army and Russian \"Africa Corps\" mercenary personnel in Mali's central Mopti region on November 2, 2026. In a November 3 analysis, the US Council on Foreign Relations assessed that JNIM and the Tuareg-led \"Coordination of Azawad Movements\" (CMA) rebel coalition are consolidating power in northern Mali, bringing the country closer to civil war. Inference: the \"brink of civil war\" assessment is CFR's own analysis, not a confirmed fact, and JNIM's attack claim itself is the group's own assertion that could not be independently verified within this search. [Reliability: Medium] (JNIM's attack claim is unverified; the CFR analysis is an expert assessment, not a raw event report.)"
+    },
+    "category": "conflict",
+    "country": "マリ",
+    "lat": 17.570692,
+    "lon": -3.996166,
+    "occurredAt": "2026-11-02T08:00:00+00:00",
+    "source": {
+      "name": "Counter-IED Report / CFR",
+      "url": "https://counteriedreport.com/mali-jnim-claims-ied-attack-on-malian-army-and-africa-corps-vehicle-in-mopti-region/"
     },
     "reliability": "medium"
   }
