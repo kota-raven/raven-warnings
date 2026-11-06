@@ -47,6 +47,52 @@
     "eventKey": "iran_us_mq1_drone_incident_2026_11_06"
   },
   {
+    "id": "auto-49115",
+    "headline": {
+      "ja": "ケニアの邪教指導者に200年の判決、190人の子どもが犠牲",
+      "en": "Kenyan court sentences cult leader Paul Mackenzie to 200 years"
+    },
+    "summary": {
+      "ja": "ケニアの裁判所は、邪教指導者ポール・マッケンジーと共犯者らに200年の判決を下した。190人の子どもと1人の成人の殺害で有罪となった。大規模な人命喪失を招いた事件として記録される。",
+      "en": "A Kenyan court has sentenced cult leader Paul Mackenzie and his accomplices to 200 years in prison after they were convicted of murdering 190 children and one adult."
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-11-06T12:50:24+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kenya_paul_mackenzie_cult_murder_sentence_2026"
+  },
+  {
+    "id": "auto-49123",
+    "headline": {
+      "ja": "ロシア・イラン、ロケット発射装置の取引で軍事関係深化",
+      "en": "Russia-Iran rocket launcher deal signals deepening military ties"
+    },
+    "summary": {
+      "ja": "ロシアとイランがロケット発射装置の取引を進めているとの報道があり、両国の軍事協力の深化を示唆している。イランのモフセン・レザイ最高安全保障官がプーチン大統領と防衛協力条約の策定について協議している。",
+      "en": "Reports indicate Russia and Iran are conducting a rocket launcher deal, reflecting deepening military cooperation. Top Iranian security official Mohsen Rezaei is discussing a developing defense cooperation treaty with Putin."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-06T11:28:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_iran_rocket_launcher_military_cooperation_2026"
+  },
+  {
     "id": "auto-49596",
     "headline": {
       "ja": "イラン議員、米国の攻撃に対応してミサイルでヨーロッパも射程内に入ると主張",
@@ -368,6 +414,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "dprk_new_air_defense_system_test_2026-11-04"
+  },
+  {
+    "id": "auto-46260",
+    "headline": {
+      "ja": "ロシアのザポリージャ攻撃で死者40人",
+      "en": "Russia strikes Zaporizhia, death toll reaches 40"
+    },
+    "summary": {
+      "ja": "ウクライナ南東部ザポリージャ州のコミシュワハでロシアの大規模な攻撃があり、死者が40人に上った。瓦礫の下にはさらに多くの人がいる可能性があり、ドローンの妨害を受けながらも救助活動が続いている。",
+      "en": "A major Russian strike on Komyshuvakha in Ukraine's Zaporizhia region killed 40 people, with more possibly trapped under rubble. Rescue efforts are ongoing despite interruptions from Russian drone attacks."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-04T20:31:56+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_zaporizhia_russian_strike_2026-11-04"
   },
   {
     "id": "auto-46184",
