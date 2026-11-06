@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-48109",
+    "headline": {
+      "ja": "サウジ連合軍、メディナへ向かうミサイルを迎撃",
+      "en": "Saudi coalition intercepts missile fired towards Medina"
+    },
+    "summary": {
+      "ja": "サウジアラビア市民防衛庁が戦略的港湾ヤンブー付近への危険を警告した後、連合軍がメディナへ向かうミサイルを迎撃した。",
+      "en": "Saudi coalition intercepted a missile fired towards Medina following a civil defence warning of potential danger near the strategic port of Yanbu."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.4686,
+    "lon": 39.6142,
+    "occurredAt": "2026-11-05T20:48:47+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "houthi_missile_attack_medina_2026-11-05"
+  },
+  {
+    "id": "auto-47817",
+    "headline": {
+      "ja": "ロシア、イランにヘリ搭載ミサイル発射機90機供給で合意",
+      "en": "Russia agrees to supply Iran with 90 helicopter-mounted missile launchers"
+    },
+    "summary": {
+      "ja": "ロシアがイランに対し、Mi-28攻撃ヘリコプター用の精密誘導ミサイル発射機90機を供給することで合意したと報道。",
+      "en": "Russia has agreed to supply Iran with 90 helicopter-mounted launchers for precision-guided missiles for Mi-28 attack helicopters, reflecting ongoing military cooperation between the two countries."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-05T18:12:53+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20681"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "russia_iran_missile_launcher_deal_2026-11-05"
+  },
+  {
     "id": "auto-47295",
     "headline": {
       "ja": "UAEがイスラエル投資に100億ドル基金を発表",
