@@ -168,6 +168,150 @@
     "observedAt": null
   },
   {
+    "id": "2026-11-06-us-000150",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Singapore",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍空母Theodore Roosevelt(CVN-71)がシンガポール寄港。中東向けに派遣される",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T00:00:00+00:00"
+  },
+  {
+    "id": "2026-11-06-us-000151",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Chosin",
+    "shipNumber": "CG-65",
+    "shipType": "other",
+    "position": {
+      "area": "Singapore",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍ミサイル巡洋艦Chosin(CG-65)がTheodore Roosevelt空母戦闘群の一部としてシンガポール寄港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T00:00:00+00:00"
+  },
+  {
+    "id": "2026-11-06-us-000152",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Paul Hamilton",
+    "shipNumber": "DDG-60",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Singapore",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍駆逐艦Paul Hamilton(DDG-60)がTheodore Roosevelt空母戦闘群の一部としてシンガポール寄港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T00:00:00+00:00"
+  },
+  {
+    "id": "2026-11-06-us-000153",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Decatur",
+    "shipNumber": "DDG-73",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Singapore",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍駆逐艦Decatur(DDG-73)がTheodore Roosevelt空母戦闘群の一部としてシンガポール寄港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T00:00:00+00:00"
+  },
+  {
+    "id": "2026-11-05-cn-000148",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡～東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦「斉斉哈爾」が沖縄本島と宮古島間の海域を北西進し、東シナ海へ向けて航行しているのを防衛省統合幕僚監部が確認した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37440/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-05T00:00:00+00:00"
+  },
+  {
+    "id": "2026-11-05-ru-000149",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "ヴァリャーク",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "宗谷海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍スラバ級ミサイル巡洋艦「ヴァリャーク」が宗谷海峡を西進するのを防衛省統合幕僚監部が確認した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37438/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-05T00:00:00+00:00"
+  },
+  {
     "id": "2026-11-04-cn-000137",
     "recordType": "individual",
     "country": "CN",
@@ -334,6 +478,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-03T00:00:00Z"
+  },
+  {
+    "id": "2026-11-03-kp-000147",
+    "recordType": "individual",
+    "country": "KP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "南浦造船所",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "北朝鮮の金正恩指導者が南浦造船所で建造中の10,000トン級巡洋艦の視察を行った",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-03T00:00:00+00:00"
   },
   {
     "id": "2026-11-02-us-000134",
@@ -1565,8 +1733,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-23T19:35:00Z",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-22T10:15:00Z"
   },
   {
@@ -1589,8 +1757,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-22T00:00:00Z"
   },
   {
