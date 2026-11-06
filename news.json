@@ -339,5 +339,48 @@
       "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-06-11",
+    "headline": {
+      "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者53人に増加 捜索5日目",
+      "en": "Zaporizhzhia's Komyshuvakha strike death toll rises to 53 as search enters 5th day"
+    },
+    "summary": {
+      "ja": "既報(id: 2026-11-06-01、死者43人)の続報として、Kyiv Independent・UNN(いずれも11月6日付)によると、ザポリッジャ州行政府のミハイロ・セミキン知事は11月6日、コムィシュヴァーハへのロシア軍空爆による死者数が53人に増加したと発表したという。がれき撤去・捜索作業は5日目に入っているとされ、最終的な死者・行方不明者数はなお変動する可能性がある。[信頼性: 高](Kyiv Independent・UNNという独立した複数のウクライナメディアがセミキン知事の発表について一致した内容を報じている。ただし死者数自体はウクライナ当局発表に基づくもので、独立した第三者による検証はできていない)",
+      "en": "Following up on the earlier report (id: 2026-11-06-01, 43 dead), Kyiv Independent and UNN (both dated November 6) reported that Zaporizhzhia regional governor Mykhailo Semikin said the death toll from the Russian airstrike on Komyshuvakha has risen to 53. Search and rubble-clearing operations are reportedly in their fifth day, so the final count may still change. [Reliability: High] (Multiple independent Ukrainian outlets -- Kyiv Independent and UNN -- report matching figures attributed to Gov. Semikin; however, the toll itself rests on Ukrainian official statements and has not been independently verified by a third party.)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ザポリッジャ州",
+    "lat": 47.7194,
+    "lon": 35.5247,
+    "occurredAt": "2026-11-06T00:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-06-12",
+    "headline": {
+      "ja": "10月米雇用統計、非農業部門雇用16.5万人増 失業率4.1%に低下",
+      "en": "US October jobs report: nonfarm payrolls add 165,000, unemployment rate falls to 4.1%"
+    },
+    "summary": {
+      "ja": "米労働統計局(BLS)が11月6日発表した10月の雇用統計によると、非農業部門雇用者数は前月比16.5万人増加し、事前予想を上回ったという。失業率は4.2%から4.1%に低下し、平均時給は前月比0.4%・前年比3.1%上昇し、いずれも事前予想を上回ったという(CNBC・Fox Business・CNN等)。8月・9月分の雇用者数も上方修正されたと報じられている。個別銘柄の投資判断ではなく、米国の雇用情勢・金融政策見通しに関わる出来事として採用した。推測:この結果が12月のFRB会合での利下げ判断にどう影響するかは、本稿執筆時点で確定していない。[信頼性: 高](BLS公式発表に基づき、CNBC・Fox Business・CNNなど独立した複数の主要メディアが同一の数値を報じている)",
+      "en": "According to the US Bureau of Labor Statistics' October jobs report released November 6, nonfarm payroll employment rose by 165,000, beating expectations. The unemployment rate fell to 4.1% from 4.2%, and average hourly earnings rose 0.4% month-over-month and 3.1% year-over-year, both above forecasts, according to CNBC, Fox Business and CNN. August and September figures were also revised upward, reports say. Treated here as a development in the US labor market and monetary-policy outlook, not as guidance for any individual security. Inference: how this result will affect the Fed's December rate decision was not settled at the time of writing. [Reliability: High] (Based on the official BLS release, corroborated by multiple independent major outlets including CNBC, Fox Business and CNN reporting matching figures.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-06T13:30:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+    },
+    "reliability": "high"
   }
 ]
