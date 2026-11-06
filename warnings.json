@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-05T20:36:57.598Z",
+  "generatedAt": "2026-11-06T01:29:43.633Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 187,
+  "count": 188,
   "warnings": [
-    {
-      "id": "NAVAREA11-260497",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0497",
-      "title": "北太平洋、東カロリン諸島、海底線回収作業終了",
-      "publishedAt": "2026-11-05T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0497    発表日時:2026年11月05日 09時\r\n\n\r\nNORTH PACIFIC, EAST CAROLINES.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK CONCLUDED.\r\r\nCANCEL 0483/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260497&LANG=JP"
-    },
     {
       "id": "NAVAREA11-260496",
       "type": "NAVAREA11",
@@ -298,6 +286,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264368",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海洋施設",
+      "number": "4368",
+      "title": "インド西岸、掘削装置移設",
+      "publishedAt": "2026-11-06T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4368   発表日時:2026年11月06日 08時\r\n\n\r\n★ インド西岸、\r\r\n掘削装置(ABAN 8)移設、18-28.16N 070-32.33E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264368&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264367",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4367",
+      "title": "インド洋西部、レユニオン島南西、射撃",
+      "publishedAt": "2026-11-06T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4367   発表日時:2026年11月06日 08時\r\n\n\r\n★ インド洋西部、レユニオン島南西、\r\r\n射撃、11月9日0400Z-11日2000Z、\r\r\n21-16.18S 054-22.72E 21-07.73S 054-56.99E\r\r\n21-30.75S 055-05.27E 21-45.69S 054-32.38E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264367&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264366",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -362,18 +374,6 @@
       "geometry": null,
       "rawText": "番号:26-4362   発表日時:2026年11月05日 20時\r\n\n\r\n隠岐諸島東、\r\r\n射撃終了。\r\r\n(4319削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264362&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264361",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4361",
-      "title": "北太平洋、東カロリン諸島、海底線回収作業終了",
-      "publishedAt": "2026-11-05T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4361   発表日時:2026年11月05日 08時\r\n\n\r\n北太平洋、東カロリン諸島、\r\r\nM/V ANIEKによる海底線回収作業終了。\r\r\n(4204削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264361&LANG=JP"
     },
     {
       "id": "JAPANNW-264360",
@@ -3222,6 +3222,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262119",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "2119",
+      "title": "酒田港、荒天に伴う錨泊自粛の勧告",
+      "publishedAt": "2026-11-06T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2119    発表日時:2026年11月06日 09時\r\n\n\r\n酒田港、\r\r\n荒天のため対象船舶に対し錨泊自粛の勧告、解除発表までの間、\r\r\n詳細は酒田港長に問い合わせられたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262119&LANG=JP"
     },
     {
       "id": "NAVTEX-262118",
