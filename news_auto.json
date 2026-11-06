@@ -2409,52 +2409,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ethiopia_displacement_camp_drone_attack_2026-10-30"
-  },
-  {
-    "id": "auto-38337",
-    "headline": {
-      "ja": "rybarアカウント、ウクライナへのロシア弾道ミサイル攻撃を投稿",
-      "en": "@rybar Posts on Russian Ballistic Missile Attack on Ukraine"
-    },
-    "summary": {
-      "ja": "親ロシア系Telegramアカウント「rybar」で、ロシア軍がウクライナへの弾道ミサイル攻撃を実行したという投稿があった。",
-      "en": "The @rybar Telegram account posted about a Russian ballistic missile attack on Ukraine."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-30T05:39:02+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84265"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "russia_ukraine_missile_attack_rybar_2026-10-30"
-  },
-  {
-    "id": "auto-38047",
-    "headline": {
-      "ja": "IAEA、ウクライナ・ザポリージャ原発従業員がドローン攻撃で死亡と確認",
-      "en": "IAEA Confirms Death of Zaporizhzhia Nuclear Plant Employee in Drone Attack"
-    },
-    "summary": {
-      "ja": "国連原子力機関（IAEA）は、ウクライナの占領下にあるザポリージャ原子力発電所の従業員がドローン攻撃で殺害されたことを確認した。",
-      "en": "The IAEA confirmed that an employee of Ukraine's Zaporizhzhia nuclear power plant was killed in a drone attack."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 47.5161,
-    "lon": 35.3691,
-    "occurredAt": "2026-10-30T03:49:59+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3NuT01CZF95a2I1WDFYa2ZPM3ZZVUNMbmdRd0ZNOXVkWXpFb3BXSk4xeUhpMWFoMUJrb1ZkQXYxemxhdkZSQWtlb0t6YVBaOGwyUlpNc0w2TXZqajNsQ2p5cXNUeHhXb3F4LTZ5M1N6YVJIQlNGbE9MT21aSUZ2SVR4QVk4clNVTEJFUG94Y256X1EySS05NjlTTUxKTldyRzBOOTg0SHl4MXIxWVc4UG5nM0NvVDd1SmhWVzJfYVM4emNJWXV3dG96Yk9oMWVv?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhzhia_npp_fatality_2026-10-30",
-    "severity": 4
   }
 ]
