@@ -1,5 +1,145 @@
 [
   {
+    "id": "auto-49458",
+    "headline": {
+      "ja": "イエメン軍がタイズでの領域奪回を主張、フーシ派のミサイル攻撃で多数の被害",
+      "en": "Yemeni army claims recapture of areas in Taiz as Houthi missile kills and wounds dozens"
+    },
+    "summary": {
+      "ja": "イエメン軍はタイズでの領土奪回を発表。同時にフーシ派のミサイル攻撃により多数の死傷者が出た。",
+      "en": "Yemeni army claims recapture in Taiz region while a Houthi missile attack causes numerous casualties."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 13.5795,
+    "lon": 44.0209,
+    "occurredAt": "2026-11-06T16:05:06+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmVzb2l3b05XRndfRnJmcmNpNUNZa3NnekdBdkRsTENsT0Z6SVVWLXRWcnRxSURXVmM5OXlkdWlPM004RzdzMFRyZmtPcmk5RU1CRm9LWjlyRmE4RW5IUmlTeUtIejRKUE1KbDFxM01UbzkyMmRDYjJYS3FfUHlmbXNUZ1BWMkl5S0xFN01TVTVRamZndzFRcFJVdGd3X2xvUl9ab0owNkdrc3hDWmxJMjAxOTFLMlJzdGE2R3lUbldYWGpCbWo4Qg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_taiz_military_campaign_2026_11_06",
+    "severity": 4
+  },
+  {
+    "id": "auto-49453",
+    "headline": {
+      "ja": "イラン、米MQ-1ドローンをカシュム島上空で撃墜したと主張",
+      "en": "Iran claims it shot down US MQ-1 drone over Qeshm Island"
+    },
+    "summary": {
+      "ja": "イラン政府は、米国の軍事ドローンMQ-1をペルシャ湾のカシュム島上空で撃墜したと発表した。",
+      "en": "Iran claims to have shot down a US military drone (MQ-1) over Qeshm Island in the Persian Gulf."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-06T15:25:09+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaW1pTnYyU08yZkRBZlVLU3FuRFdEZm9HMVh6NGxBRFVlajVDMG9vaE82XzdXRkN3U3FUNFRpOTFudzhsbC1JQThIX0ttVFk3M25XMjh4VDcxUE5TbGhBVDJoLXZZZU5nTjhFeU1rNHd1NjAySTk1Nmp4aHZWbFRsN1JGUHpqZWo0MWRYYzV1WU1lZE5KM0RUR19SLV9Cd1dIdWxN?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_us_mq1_drone_incident_2026_11_06"
+  },
+  {
+    "id": "auto-49596",
+    "headline": {
+      "ja": "イラン議員、米国の攻撃に対応してミサイルでヨーロッパも射程内に入ると主張",
+      "en": "Iranian lawmaker claims missiles could put Europe in range in response to any US attack"
+    },
+    "summary": {
+      "ja": "イランの議員は、米国の攻撃への報復としてヨーロッパまで射程に入るミサイルを保有していると主張した。",
+      "en": "An Iranian lawmaker claims Iran possesses missiles capable of reaching Europe in response to potential US attacks."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-06T10:56:14+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00LVdsc0JJcVl0bVVCVnpUQ18tOGlpUVVacjBMOWx6dnd1dXBweUdZNFRxb1pUb0xDS013azdISEs4bnRYal9xQ1JB0gFKQVVfeXFMTTQtV2xzQklxWXRtVUJWelRDXy04aWlRVVpyMEw5bHp2d3V1cHB5R1k0VHFvWlRvTENLTXdrN0hISzhudFhqX3FDUkE?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_missile_threat_europe_2026_11_06"
+  },
+  {
+    "id": "auto-49220",
+    "headline": {
+      "ja": "日本東部(東京周辺)で6.1の地震が発生",
+      "en": "6.1-magnitude earthquake strikes eastern Japan near Tokyo"
+    },
+    "summary": {
+      "ja": "気象庁によると、11月6日に東京周辺で6.1の地震が発生した。",
+      "en": "A 6.1-magnitude earthquake was recorded near Tokyo according to Japan Meteorological Agency."
+    },
+    "category": "disaster",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-11-06T10:47:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSc3RjQUdXVlNHMW42OHBOYnE5RWpqZG83cldMVHBMOHY0am5NSFNSZW4wR0ZZWDlCWTBSemNSYk1kV0x0WVJPRmhoX2RwN2xmbU5LUmhDSk1IV0RoY2w0M0l3QzMySFcwdjFHS1p3R2JnckRoU1RYb1BUWlo?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "japan_tokyo_earthquake_2026_11_06"
+  },
+  {
+    "id": "auto-48966",
+    "headline": {
+      "ja": "ガザでの空爆により2人のパレスチナ人が死亡",
+      "en": "Two Palestinians killed from Israeli airstrikes on Gaza"
+    },
+    "summary": {
+      "ja": "イスラエルの過去の空爆による怪我から、2人のパレスチナ人が亡くなった。",
+      "en": "Two Palestinians succumbed to wounds sustained in earlier Israeli airstrikes."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-06T07:36:49+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83N09WOEtKMHplT3k1d3JlZy1fZEh3cWJubG9URG9vSDhzOUtqUWtuNnZQZTdlSG05RWFQUG9nQ016SklITGMzSTUtV0NHYWRjbHV6QkxKaw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_palestinian_deaths_nov_2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-49099",
+    "headline": {
+      "ja": "イランのミサイル基地周辺で大規模な建設活動",
+      "en": "Major construction ongoing near Iran missile bases"
+    },
+    "summary": {
+      "ja": "衛星画像からイランのミサイル基地周辺での掘削と建造物建設が確認された。",
+      "en": "Satellite images show evidence of digging and new buildings near Iranian missile bases."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-06T07:33:41+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_missile_base_construction_nov_2026"
+  },
+  {
     "id": "auto-48107",
     "headline": {
       "ja": "イスラエルがビッドゥで5軒の家屋を破壊、100人以上が避難",
@@ -2363,74 +2503,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_canada_houthi_condemnation_2026-11"
-  },
-  {
-    "id": "auto-40237",
-    "headline": {
-      "ja": "イエメン軍、ホーシ派によるアデン空港・大統領宮殿への弾道ミサイル攻撃を発表",
-      "en": "Yemeni military announces ballistic missile attacks on Aden airport and presidential palace by Houthis"
-    },
-    "summary": {
-      "ja": "イエメン軍は、ホーシ派がアデン空港と大統領宮殿に対して弾道ミサイルで攻撃を実施したと発表した。",
-      "en": "The Yemeni military announced that the Houthi movement carried out ballistic missile attacks on Aden airport and the presidential palace."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-30T20:17:48+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ25HOTJWSS1lRFZka0ZJNXJzS1BDaTZXdk9vWVprQ0gwY1JCZWNxLWJsZVl1ZWVNdlhEY25oLVg5ZG9SQVJIbnlQWEFOeGRUT1RJVm1MamRlMDNJY0gtdWRDN2hzNFNNUmpubEloMzZNMGN2amhvaEgwb2lLeW5yc19WMnNOcUVLMC1pVXBORWZyQ19oTUQ5YXVOYXNNOTVpZnM3bUZJSGpndERla1N3Tm5tQ2RFdVVmNFpHVFB6YW1ucHR4VlJQaXNSaw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_aden_houthi_missile_attack_2026-10-30"
-  },
-  {
-    "id": "auto-39524",
-    "headline": {
-      "ja": "北朝鮮ドローン、新型巡航ミサイル試験成功と報告",
-      "en": "North Korea's Drone Succeeds in New Cruise Missile Test"
-    },
-    "summary": {
-      "ja": "@OSINTdefenderのアカウントで、北朝鮮の攻撃ドローンSaetbyol-9が新型空中発射型戦術巡航ミサイルの試験に成功したという投稿があった。",
-      "en": "A post on @OSINTdefender reported that North Korea's Saetbyol-9 attack drone successfully tested a new air-launched tactical cruise missile."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-10-30T18:29:24+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20635"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "north_korea_saetbyol9_cruise_missile_test_2026-10-30"
-  },
-  {
-    "id": "auto-38732",
-    "headline": {
-      "ja": "イエメン・アデンの住民、ミサイル攻撃で戦争再開に備える",
-      "en": "Yemeni Residents in Aden Prepare for Another War as Houthi Missiles Fall"
-    },
-    "summary": {
-      "ja": "フーシのミサイル攻撃がアデンを襲う中、住民は食料を備蓄し脱出計画を立てており、全面戦争の再開を懸念している。",
-      "en": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-10-30T15:26:00+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_aden_houthi_missile_crisis_2026-10-30"
   }
 ]
