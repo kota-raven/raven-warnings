@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-48107",
+    "headline": {
+      "ja": "イスラエルがビッドゥで5軒の家屋を破壊、100人以上が避難",
+      "en": "Israeli demolitions displace more than 100 Palestinians in Biddu"
+    },
+    "summary": {
+      "ja": "イスラエル軍がパレスチナ自治区ビッドゥで5軒の住宅を破壊し、100人以上のパレスチナ人が避難を余儀なくされた。",
+      "en": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 Palestinians."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.8348,
+    "lon": 35.1495,
+    "occurredAt": "2026-11-05T21:33:40+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_palestine_biddu_home_demolitions"
+  },
+  {
     "id": "auto-48109",
     "headline": {
       "ja": "サウジ連合軍、メディナへ向かうミサイルを迎撃",
@@ -21,6 +44,75 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "houthi_missile_attack_medina_2026-11-05"
+  },
+  {
+    "id": "auto-48097",
+    "headline": {
+      "ja": "トルコ西部の銃撃事件で8人が殺害",
+      "en": "Eight killed in series of shootings in western Turkey"
+    },
+    "summary": {
+      "ja": "トルコ西部で複数の銃撃事件が発生し、3台の別々の車両の中で8人が殺害された。",
+      "en": "Series of shootings in western Turkey resulted in eight deaths found in several vehicles across multiple locations."
+    },
+    "category": "conflict",
+    "country": "トルコ",
+    "lat": 39.9199,
+    "lon": 32.8543,
+    "occurredAt": "2026-11-05T19:32:54+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "turkey_shooting_incidents_western_region"
+  },
+  {
+    "id": "auto-48018",
+    "headline": {
+      "ja": "トランプ氏が中期選挙後にウクライナへの圧力強化の可能性",
+      "en": "Trump may intensify pressure on Ukraine after midterm elections"
+    },
+    "summary": {
+      "ja": "ロシア国営メディアが、米国のトランプ前大統領が中期選挙後にウクライナ（キーウ）への圧力を強化する可能性があると報じた。",
+      "en": "Russian state media reports that former US President Trump may intensify pressure on Ukraine (Kyiv) after midterm elections."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-05T19:08:17+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KNHJ5Z2FRVzJGV0VnY09hVFB1WFVSZHBZVThxWjRYdFpfTkhhT1JITEIwM0VBajJRZnU0UG11aURfYUhH0gFKQVVfeXFMT2dQNmJVdGR6dmt2N1NuSXpRMTRRdGh4SFR4V2NETUJ6a0wwMHh3cG1zbFRkTmlHSXJjOHR3UjZla1l6TzU4UjhmNWc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_trump_ukraine_pressure_policy"
+  },
+  {
+    "id": "auto-48117",
+    "headline": {
+      "ja": "イランがホルムズ海峡でのタンカー被撃を報告、米国新規攻撃の懸念の中で",
+      "en": "Iran says tankers struck in Hormuz amid fears of new US attack"
+    },
+    "summary": {
+      "ja": "イラン軍がホルムズ海峡で5隻の油タンカーと1隻のタグボートが複数の事件で火災に遭ったと報告した。",
+      "en": "Iranian forces report five oil tankers and a tugboat caught fire in several incidents in the Strait of Hormuz."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-05T18:47:10+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_hormuz_strait_tankers_attacked"
   },
   {
     "id": "auto-47817",
@@ -67,6 +159,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "uae_israel_investment_fund_2026-11-05"
+  },
+  {
+    "id": "auto-48134",
+    "headline": {
+      "ja": "アビエイのドローン攻撃で30人以上が殺害、UN平和維持活動責任者が「新たで懸念される脅威」と警告",
+      "en": "Deadly drone strikes in Abyei mark 'new and concerning' threat, UN warns"
+    },
+    "summary": {
+      "ja": "先月アビエイで30人以上を殺害したドローン攻撃は、紛争地域の安全保障に「新たで懸念される側面」を追加したと、UN平和維持活動の責任者が警告した。",
+      "en": "UN peacekeeping chief warned that drone strikes killing at least 30 people in Abyei added a new security threat dimension."
+    },
+    "category": "conflict",
+    "country": "南スーダン",
+    "lat": 4.8517,
+    "lon": 31.5825,
+    "occurredAt": "2026-11-05T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168749"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "abyei_south_sudan_drone_strikes_un_warning"
   },
   {
     "id": "auto-47073",
