@@ -1,47 +1,5 @@
 [
   {
-    "id": "2026-11-04-02",
-    "headline": {
-      "ja": "米中間選挙(上院):民主党がノースカロライナ州で共和党議席を奪還、ジョージア・ニューハンプシャーは議席維持 下院は「民主党優位」と報道",
-      "en": "US midterms (Senate): Democrats flip North Carolina seat from GOP, hold Georgia and New Hampshire; House seen leaning Democratic"
-    },
-    "summary": {
-      "ja": "米中間選挙(11月3日投開票)の上院選について、AP通信はノースカロライナ州で民主党のロイ・クーパー氏が共和党のマイケル・ウェトリー氏を破って当選確実と報じ、これにより共和党が保持していた議席が民主党に移ったという。ジョージア州では民主党現職のジョン・オソフ氏が共和党のマイク・コリンズ氏を破り議席を維持、ニューハンプシャー州では民主党のクリス・パパス氏が共和党のジョン・スヌヌ氏を破り議席を維持したとAP通信が報じ、CBS News・CNBCも同様の当選確実情報を伝えたという。下院については本稿執筆時点で全議席の当選確実報道には至っていないが、CNBC・NBC Newsの集計では「民主党優位(リーン・デモクラティック)」の情勢と報じられているという。フロリダ州上院選については、CNBCは「予測不能」としたのに対しCBS Newsは共和党現職アシュリー・ムーディー氏の当選確実を報じるなど、報道間で食い違いがあるという。推測:上院・下院それぞれの最終的な多数派がどちらになるかは、本稿執筆時点で確定していない。[信頼性: 高](AP通信の当選確実〔レースコール〕をCBS News・CNBCが同様に報じており、独立した複数の主要メディアによる一致が確認できる。フロリダ州など一部の州の情勢については報道間で食い違いがある)",
-      "en": "In the Senate races of the November 3 US midterm elections, the Associated Press projected that Democrat Roy Cooper defeated Republican Michael Whatley in North Carolina, flipping a seat previously held by the GOP, according to AP, with CBS News and CNBC reporting the same call. In Georgia, Democratic incumbent Jon Ossoff was projected to have defeated Republican Mike Collins to hold his seat, and in New Hampshire Democrat Chris Pappas was projected to have defeated Republican John Sununu to hold that seat, per AP, CBS News and CNBC. As of this writing, not all House races have been called, but tallies from CNBC and NBC News describe the chamber as \"leaning Democratic.\" Reports diverged on Florida's Senate race, with CNBC calling it \"too close to call\" while CBS News projected Republican incumbent Ashley Moody had won. Inference: which party will ultimately hold a majority in the Senate and House was not yet settled at the time of writing. [Reliability: High] (AP's race calls are corroborated by matching reports from CBS News and CNBC, multiple independent major outlets; some state-level calls, such as Florida, diverge between outlets.)"
-    },
-    "category": "conflict",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-04T02:00:00+00:00",
-    "source": {
-      "name": "AP(CBS News/CNBC経由)",
-      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-04-03",
-    "headline": {
-      "ja": "米中間選挙、民主党が上院・下院の両院で過半数獲得と主要メディアが報道",
-      "en": "US midterms: major outlets project Democrats win control of both the Senate and House"
-    },
-    "summary": {
-      "ja": "CBSニュース・NBCニュース・CNBC・ABCニュースなど米主要メディアは、11月3日投開票の米中間選挙について、民主党が上院・下院の両院で過半数議席を獲得したと報じた。既報(id: 2026-11-04-02、ノースカロライナ州等)に続き、上院ではアイオワ州(民主党ジョシュ・ターレック氏が共和党アシュリー・ヒンソン氏を破る)・オハイオ州(民主党シェロッド・ブラウン氏が勝利)・テキサス州(民主党ジェームズ・タラリコ氏が共和党ケン・パクストン氏を破り、1994年以来民主党候補として同州初の州全体選挙勝利という)・メイン州(民主党トロイ・ジャクソン氏が共和党現職スーザン・コリンズ上院議員を破る)で共和党から議席を奪還したとAP通信などが伝えたという。一部報道はカンザス州・サウスカロライナ州も民主党への議席移動として挙げているが、他の報道との一致が得られておらず不確実。推測:正式な最終議席数(報道により49〜53議席など差異がある)やアラスカ州など一部の確定は本稿執筆時点で未了。[信頼性: 高](複数の独立した米主要メディアが上院・下院双方での民主党の過半数獲得という大枠について一致している。ただし個別州の確定議席数・一部州の帰属には報道間で差異があり、最終確定情報ではない)",
-      "en": "Major US outlets including CBS News, NBC News, CNBC and ABC News reported that Democrats have won control of both the Senate and House in the November 3 midterm elections. Building on the earlier report (id: 2026-11-04-02, North Carolina etc.), AP-based projections say Democrats flipped additional Republican-held Senate seats in Iowa (Josh Turek defeats Ashley Hinson), Ohio (Sherrod Brown wins), Texas (James Talarico defeats Ken Paxton, reportedly the first Democratic statewide win in Texas since 1994), and Maine (Troy Jackson defeats incumbent Sen. Susan Collins). Some outlets also list Kansas and South Carolina as Democratic flips, though this is not corroborated across all sources. Inference: the exact final seat counts (reports vary, citing numbers from 49 to 53) and some races (e.g. Alaska) remained uncalled at the time of writing. [Reliability: High] (Multiple independent major US outlets agree on the broad outcome of Democratic control of both chambers, though individual state tallies and some race calls differ between outlets and are not yet final.)"
-    },
-    "category": "conflict",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-04T06:00:00+00:00",
-    "source": {
-      "name": "CBS News(NBC News/CNBC/ABC News経由)",
-      "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-05-01",
     "headline": {
       "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者40人に増加 ゼレンスキー氏「さらに30人超が生き埋めの可能性」と発表",
@@ -60,27 +18,6 @@
     "source": {
       "name": "Ukrinform/APA(ゼレンスキー大統領発表)",
       "url": "https://www.ukrinform.net/rubric-ato/4181429-zelensky-death-toll-in-komyshuvakha-rises-to-40-more-than-30-may-remain-trapped-under-rubble.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-05-03",
-    "headline": {
-      "ja": "米中間選挙(州知事選):ジョージア州・テキサス州で民主党、フロリダ州で共和党の当選確実",
-      "en": "US midterms (governors): Democrats win Georgia and Texas, Republicans win Florida"
-    },
-    "summary": {
-      "ja": "米中間選挙(11月3日投開票)の州知事選について、CBS News・Yahoo Newsなど複数メディアは、ジョージア州で民主党のケイシャ・ランス・ボトムズ氏(前アトランタ市長)が当選確実となり、同州史上初の黒人女性知事になるという。テキサス州では民主党のジーナ・イノホサ氏が当選確実となり、同州で30年以上ぶりの民主党知事になるという。フロリダ州では共和党のバイロン・ドナルズ氏が当選確実となり、同州史上初の黒人知事になるという。これら3州は事前の報道では接戦(トスアップないし「共和党有利」)とされていたが、既報(id: 2026-11-04-02、2026-11-04-03)の上下両院での民主党優位という流れとおおむね一致する結果になったという。推測:正式な確定(certification)には至っておらず、僅差州では今後数値が変動する可能性がある。[信頼性: 高](CBS News・Yahoo Newsなど独立した複数の主要メディアが同一の当選確実情報を報じている)",
-      "en": "In the governor races of the November 3 US midterm elections, CBS News, Yahoo News and other outlets projected that Democrat Keisha Lance Bottoms (former mayor of Atlanta) won in Georgia, becoming the state's first Black woman governor. In Texas, Democrat Gina Hinojosa was projected to win, becoming the state's first Democratic governor in more than 30 years. In Florida, Republican Byron Donalds was projected to win, becoming the state's first Black governor. All three races had previously been described as close (toss-up or lean-Republican), and the results broadly align with the Democratic gains in the Senate and House already reported (id: 2026-11-04-02, 2026-11-04-03). Inference: official certification has not been completed, and tallies in close states could still shift. [Reliability: High] (Multiple independent major outlets, including CBS News and Yahoo News, report the same projected results.)"
-    },
-    "category": "conflict",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-04T08:00:00+00:00",
-    "source": {
-      "name": "CBS News",
-      "url": "https://www.cbsnews.com/news/2026-midterm-election-results-where-democrats-won/"
     },
     "reliability": "high"
   },
@@ -339,5 +276,50 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-07-02",
+    "headline": {
+      "ja": "ロシア軍、キーウにミサイル攻撃 5人負傷・エネルギー施設被害、米露ウクライナ協議(11/10アブダビ)を前に",
+      "en": "Russia launches missile strikes on Kyiv, injuring 5 and damaging energy infrastructure, ahead of Nov. 10 Abu Dhabi talks"
+    },
+    "summary": {
+      "ja": "11月7日未明(現地時間)、ロシア軍がキーウにミサイル攻撃を行い、少なくとも5人が負傷したという。クリチコ市長によれば、キーウ州・ジトーミル州のエネルギーインフラが被害を受け、暖房・給水に支障が出ているという。報道によれば住宅や商業施設にも被害が出たほか、ドニプロ川に架かる橋が通行止めとなり、新たな停電・断水も発生したという。ゼレンスキー氏は事前にエネルギー施設への追加攻撃を警告し、同盟国にパトリオット迎撃ミサイルの追加供与を改めて求めていたという。ロシア・ウクライナ・米国による協議が11月10日からアブダビで(トランプ政権仲介による4回目の協議として)開始予定であり、その直前の攻撃となったという。[信頼性: 高](Al Jazeera、Euronews、Anadolu通信(AA)など複数の独立した主要メディアが同様の事実関係を報じている)",
+      "en": "Reportedly, Russian forces struck Kyiv with missiles early on November 7 local time, injuring at least 5 people. Mayor Vitali Klitschko said energy infrastructure in the Kyiv and Zhytomyr regions was damaged, disrupting heating and water supply. Reports say homes and commercial properties were also damaged, a bridge over the Dnipro River was closed to traffic, and new power and water outages occurred. Zelensky had reportedly warned beforehand of further strikes on the energy sector and renewed calls for additional Patriot interceptor deliveries. The strike came just before Russia, Ukraine and the US are set to begin talks in Abu Dhabi on November 10, the fourth round brokered by the Trump administration. [Reliability: High] (Corroborated by multiple independent major outlets including Al Jazeera, Euronews, and Anadolu Agency/AA)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ市",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-11-07T03:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-07-03",
+    "headline": {
+      "ja": "トランプ氏、イラン・ゲシュム島への米軍の「軽微な」攻撃を確認 イラン側は無人機撃墜を主張・報復警告も",
+      "en": "Trump confirms 'minor' US strikes on Iran's Qeshm Island; Iran claims drone shot down and warns of retaliation"
+    },
+    "summary": {
+      "ja": "トランプ米大統領は11月6日(米東部時間夜)のFox Newsとのインタビューで、米軍がイランのゲシュム島(ホルムズ海峡近傍)にある対空装備を標的に「軽微な」攻撃を行ったことを認めたという。トランプ氏は、イラン側が建設していた施設を監視しており、完成直後に攻撃したと説明したという。米当局者は、イラン革命防衛隊(IRGC)がゲシュム島からホルムズ海峡上空の米軍機に向けてミサイルを発射したことへの「自衛的」措置だったと説明しているという。イラン国営メディアは島内での複数回の爆発を報じ、IRGCは米軍の無人機を撃墜したと主張しているが、米側はこの主張を否定しているという。推測:米・イラン双方の発表に食い違いがあり、実際の被害や撃墜の有無は本稿執筆時点で確定していない。イランのペゼシュキアン大統領は「戦争への逆戻りから利益を得る者はいない」と述べたと報じられ、一方でイラン側は報復を警告したとも報じられている。米中央軍(CENTCOM)は現地情勢を「比較的平穏」としているという。[信頼性: 高](Al Jazeera、CNBC、NBC Newsなど複数の独立した主要メディアが、トランプ氏本人の発言を含めて報じている。ただし撃墜の有無など一部の事実関係は当事者間で主張が対立しており未確定)",
+      "en": "Reportedly, President Trump confirmed in a Fox News interview on the evening of November 6 (US Eastern time) that the US military carried out a 'minor' strike targeting Iranian air-defense equipment on Qeshm Island near the Strait of Hormuz. Trump reportedly said the US had watched the facility being built and struck it as soon as it was completed. US officials described the action as a 'defensive' response after Iranian Revolutionary Guard (IRGC) forces allegedly fired a missile from Qeshm Island at a US aircraft over the Strait of Hormuz. Iranian state media reported several explosions on the island, and the IRGC claimed to have shot down a US drone, a claim US officials disputed. Speculation: the US and Iranian accounts conflict, and the actual extent of damage or whether a drone was downed remains unconfirmed as of this writing. Iranian President Pezeshkian reportedly said no one would benefit from a return to war, while Iranian media also reportedly warned of retaliation. US Central Command (CENTCOM) described the situation on the ground as 'relatively calm.' [Reliability: High] (Reported by multiple independent major outlets including Al Jazeera, CNBC, and NBC News, including Trump's own on-record remarks; however, some facts, such as whether a drone was shot down, are disputed between the parties and remain unconfirmed)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルモズガーン州",
+    "lat": 27.1865,
+    "lon": 56.2808,
+    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
