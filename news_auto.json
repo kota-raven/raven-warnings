@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-50132",
+    "headline": {
+      "ja": "イスラエル、レバノン南部に90km軍事道路網を建設",
+      "en": "Israel builds 90km network of military roads across southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエルがレバノン南部に90km規模の軍事道路ネットワークと軍事拠点を構築しており、地域の軍事化が進展している。",
+      "en": "Israel is constructing an extensive 90-kilometer military road network and military outposts across southern Lebanon."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-07T16:30:33+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_lebanon_military_roads_2026"
+  },
+  {
+    "id": "auto-50133",
+    "headline": {
+      "ja": "グアテマラの下院議員3人の警察官が武装攻撃で殺害",
+      "en": "Guatemalan lawmaker and three police officers killed in armed attack"
+    },
+    "summary": {
+      "ja": "グアテマラの下院議員1人と警察官3人が、麻薬密売活動で知られる地域での武装攻撃で殺害された。",
+      "en": "A Guatemalan lawmaker and three police officers were killed in an armed attack in a region known for drug trafficking."
+    },
+    "category": "conflict",
+    "country": "グアテマラ",
+    "lat": 14.5989,
+    "lon": -90.5485,
+    "occurredAt": "2026-11-07T16:15:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "guatemala_lawmaker_attack_2026"
+  },
+  {
     "id": "auto-50136",
     "headline": {
       "ja": "イラン、地下兵器生産施設の建設を発表",
@@ -21,6 +67,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "iran_underground_weapons_facility_2026-11-07"
+  },
+  {
+    "id": "auto-50138",
+    "headline": {
+      "ja": "ポーランド・クラクフで銃撃事件、少なくとも5人が殺害",
+      "en": "At least five people killed in shooting in Poland's Krakow"
+    },
+    "summary": {
+      "ja": "ポーランド第2の都市クラクフで銃撃事件が発生し、少なくとも5人が殺害された。ドナルド・トゥスク首相は警察が調査を実施していると述べた。",
+      "en": "At least five people were killed in a shooting incident in Krakow, Poland's second-largest city. Prime Minister Donald Tusk confirmed police are investigating the tragic event."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 50.0614,
+    "lon": 19.9366,
+    "occurredAt": "2026-11-07T15:22:55+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_krakow_shooting_2026"
   },
   {
     "id": "auto-50532",
@@ -94,6 +163,29 @@
     "severity": 4
   },
   {
+    "id": "auto-50119",
+    "headline": {
+      "ja": "パラグアイ大統領が銀行危機で弾劾・軟禁状態に",
+      "en": "Paraguay's president impeached and under house arrest after bank collapse"
+    },
+    "summary": {
+      "ja": "サンティアゴ・ペーニャ大統領がパラグアイの銀行危機に責任を問われ、弾劾により軟禁状態に置かれた。多くの国民が資金にアクセスできない状況が発生している。",
+      "en": "President Santiago Peña was impeached and placed under house arrest due to a banking crisis that left millions unable to access their funds."
+    },
+    "category": "conflict",
+    "country": "パラグアイ",
+    "lat": -25.2865,
+    "lon": -57.647,
+    "occurredAt": "2026-11-07T07:20:00+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "paraguay_bank_crisis_impeachment_2026"
+  },
+  {
     "id": "auto-49225",
     "headline": {
       "ja": "イエメン市場での爆発、30人超が死傷",
@@ -115,6 +207,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_market_attack_2026-11-06"
+  },
+  {
+    "id": "auto-50126",
+    "headline": {
+      "ja": "スペイン鉄道当局、ウルダ事故後の欧州詐欺調査に直面",
+      "en": "Spain's rail authorities face European fraud probe after Urda rail disaster"
+    },
+    "summary": {
+      "ja": "スペイン検察はウルダ列車衝突事故(69人死亡)に関連した鉄道網アップグレード用のEU資金について詐欺疑惑の調査を開始した。",
+      "en": "European prosecutors began investigating potential fraud involving EU funds designated for upgrading the Spanish railway line where a train crash killed 69 people."
+    },
+    "category": "disaster",
+    "country": "スペイン",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "occurredAt": "2026-11-06T17:44:02+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "spain_urda_disaster_fraud_2026"
   },
   {
     "id": "auto-49458",
