@@ -1,5 +1,99 @@
 [
   {
+    "id": "auto-50136",
+    "headline": {
+      "ja": "イラン、地下兵器生産施設の建設を発表",
+      "en": "Iran IRGC announces construction of underground weapons production facilities"
+    },
+    "summary": {
+      "ja": "イランIRGCは爆撃の影響を受けても継続できるよう地下軍事複合施設を建設していると発表した。",
+      "en": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T15:34:58+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_underground_weapons_facility_2026-11-07"
+  },
+  {
+    "id": "auto-50532",
+    "headline": {
+      "ja": "ゼレンスキー大統領、ロシアが北朝鮮ミサイル使用と主張",
+      "en": "Zelenskyy claims Russian forces used North Korean missiles in strikes on Kyiv"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍が北朝鮮製のミサイルを使用してキーウに夜間攻撃を実施したと主張した。",
+      "en": "Ukrainian President Zelenskyy claims Russian forces used North Korean missiles in overnight strikes targeting Kyiv."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-07T15:08:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUi1lQW1OYkFLeUdtMEZjeklmaGhETTltRGNEcW1JejhicnRTUWpJTFRuUjljRXo1X0RsbzBaTXdSdkpZNFhIM3J1Z0l3ZlRjY0xXdUpmOWlSdFN6bWdSRFJVNjZDTkh5ZTNjU1NQTEFQR21veFN0R3NXbFR3WFllczRLT3VDaEVoSG1mZ0tTblh1a3U4b0ZTbHdETlozVlloQmlpd0hadUVvQVR5ZXQ4clE5bFp1SkQ1VWNSTFF3YmRQVXFfT2Z3NmVEU1J5Zw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_north_korea_missiles_kyiv_strike_2026-11-07",
+    "severity": 4
+  },
+  {
+    "id": "auto-50277",
+    "headline": {
+      "ja": "イラン、地下ミサイル・ドローン生産施設を確立と発表",
+      "en": "Iran IRGC establishes underground missile and drone production facilities"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊(IRGC)は新たに地下でのミサイルおよびドローン生産施設を確立したと発表した。",
+      "en": "Iran IRGC announces establishment of underground missile and drone production facilities."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T11:19:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0WW1XSFJ1eG1QTkpoTWI0RHRaWGd3R2Jnbk5pNmdsRnNaSE5GTGp5OEd1U0QtanpubmJjQTZJSXo2Ty0zcUZxMUNVaHdWaTh2bEhqWmNSMjl3MENSR3dUOW05c1ZVZk5MVkhwcGZjWFlYSE9tQ0Z4TDFpbFc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_underground_missile_drone_facility_2026-11-07"
+  },
+  {
+    "id": "auto-49996",
+    "headline": {
+      "ja": "イラン政府、ミサイル射程の制限を解除すると発表",
+      "en": "Iran IRGC announces lifting restrictions on missile range"
+    },
+    "summary": {
+      "ja": "イラン政府はミサイル射程に対する制限を解除すると発表した。これは地域的な軍事バランスに大きな影響を与える可能性がある。",
+      "en": "Iranian IRGC announces removal of restrictions on missile range, signaling potential shift in regional military dynamics."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T11:14:40+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GN29MQk5Ra1RCZk94Zy1kWU9lUDNydnphZElsWENpZGJ5R2VnaFJGdTZUZENtTXVrbV9YUlM2RzdtVE5mRDZHdHBn0gFKQVVfeXFMTUY3b0xCTlFrVEJmT3hnLWRZT2VQM3J2emFkSWxYQ2lkYnlHZWdoUkZ1NlRkQ21NdWttX1hSUzZHN21UTmZENkd0cGc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_missile_range_restriction_lifted_2026-11-07",
+    "severity": 4
+  },
+  {
     "id": "auto-49225",
     "headline": {
       "ja": "イエメン市場での爆発、30人超が死傷",
@@ -2340,168 +2434,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "north_korea_cluster_bomb_test_2026-11-01"
-  },
-  {
-    "id": "auto-40126",
-    "headline": {
-      "ja": "イランの最高指導者が地理的制限なしでの報復を表明",
-      "en": "イランの最高指導者が地理的制限なしでの報復を表明"
-    },
-    "summary": {
-      "ja": "イランの最高指導者は、どの脅威に対しても地理的制限なしで対抗する用意があると述べた。",
-      "en": "イランの最高指導者は、どの脅威に対しても地理的制限なしで対抗する用意があると述べた。"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-31T13:38:24+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9nUXRUOFUydEdWUGhmcEFKY3FoUHFRdXl0SFZxekNfRTg1R2dSRFJXU2VrU3NxLUZpZ0ZlbnFuc2tNTlNC0gFKQVVfeXFMUERmQzFtSFp1dUdIOGNGbGFaSWljMUhEUndSVm9iRzNKdWdLcGtlTFNJUUFjdkgzeE5rVUJadWxBVWlRdlFmOWEzRWc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_supreme_leader_retaliation"
-  },
-  {
-    "id": "auto-39960",
-    "headline": {
-      "ja": "イエメンの新たな戦闘で290,000人が避難、妊婦がリスク",
-      "en": "イエメンの新たな戦闘で290,000人が避難、妊婦がリスク"
-    },
-    "summary": {
-      "ja": "イエメンの新たな戦闘の勃発により、国連によると290,000人が家を逃れた。妊婦を含む脆弱層が特にリスクにさらされている。",
-      "en": "イエメンの新たな戦闘の勃発により、国連によると290,000人が家を逃れた。妊婦を含む脆弱層が特にリスクにさらされている。"
-    },
-    "category": "disaster",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-10-31T12:45:49+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_fighting_290k_displaced"
-  },
-  {
-    "id": "auto-40089",
-    "headline": {
-      "ja": "イランの最高指導者が「敵が攻撃を再開すれば」紛争終結時を決定すると表明",
-      "en": "イランの最高指導者が「敵が攻撃を再開すれば」紛争終結時を決定すると表明"
-    },
-    "summary": {
-      "ja": "イランの最高指導者は、敵国が攻撃を再開した場合、テヘランが紛争をいつ終わらせるかを決めると述べた。",
-      "en": "イランの最高指導者は、敵国が攻撃を再開した場合、テヘランが紛争をいつ終わらせるかを決めると述べた。"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-31T12:27:45+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3lvRm53ZU1qaHRnVzJ3UkpYeWxSRWtLUWVUb2xSZDllcEptb3ZpLUxidkJJeDRnUElKdkxMY1djNkdtYnl0Y2hUZkdvRWhnb2Nwbk8tVFdEZHBQaGp2dG9OWE5yQ0VDVUVfX1NQU0FITjN1Ylh4UU9ENDkwRm53QWFQUEVDNzNJSjVaa0Y5RDZnU255Z1RLbkdJUzFRUXEyZG5vZmxiRnlFdGd2VDE1UEpBZ0dQaXo5NUE5Qmg0WkJmUHRPTzFRS3dFNFdTQWxaQ3c?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_supreme_leader_conflict_end"
-  },
-  {
-    "id": "auto-39965",
-    "headline": {
-      "ja": "イランが攻撃を受ければ無制限の報復を警告、仲介者が平和協議を進行",
-      "en": "イランが攻撃を受ければ無制限の報復を警告、仲介者が平和協議を進行"
-    },
-    "summary": {
-      "ja": "イランの最高指導者は、攻撃を受けた場合、テヘランの報復には地理的制限がないと警告した。一方、仲介者らが平和協議の実現を目指している。",
-      "en": "イランの最高指導者は、攻撃を受けた場合、テヘランの報復には地理的制限がないと警告した。一方、仲介者らが平和協議の実現を目指している。"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-31T12:13:42+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_retaliation_warning_unfettered",
-    "severity": 4
-  },
-  {
-    "id": "auto-39901",
-    "headline": {
-      "ja": "イスラエル軍、南レバノンで空襲と機関銃攻撃を実施",
-      "en": "Israeli army launches airstrikes and machine-gun attacks in southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエル軍がレバノン南部に対して新たな空襲と機関銃攻撃を実施した。",
-      "en": "Israeli military forces conducted fresh airstrikes and machine-gun attacks in southern Lebanon."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-10-31T11:11:31+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHhFSEVWZ0FRZHZWb0VoSjB5dk1kcmJER1E2UGF4WGQ3aS1WNDMyZEVTandMTjliRUxKTmItQkZOcXcybDVpb1RscFV1bVZLaHVBa25Pc2ZQbkFONEJfZ3VUaDNrY1JMWTFqVGNCQnVjWHNlenlyUGh5Z1lkYnJ6OHZxc1lPS0Vib0JOQlFKVEkwVUJObkdaZ0JoRldyRm9FRVNWanhBV0g4dWFDMFZGUTdTNk1VbVlvZTNUTg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_military_operations_2026-10-31"
-  },
-  {
-    "id": "auto-39854",
-    "headline": {
-      "ja": "イランの最高指導者が新たな侵略に対する迅速で決定的な報復を命令",
-      "en": "イランの最高指導者が新たな侵略に対する迅速で決定的な報復を命令"
-    },
-    "summary": {
-      "ja": "イランの最高指導者ハメネイがイラン軍高級指揮官に対し、新たな侵略に対する迅速で強力な報復を地理的制限なしで行うよう命令した。イスラエルの軍事行動への対抗を示唆している。",
-      "en": "イランの最高指導者ハメネイがイラン軍高級指揮官に対し、新たな侵略に対する迅速で強力な報復を地理的制限なしで行うよう命令した。イスラエルの軍事行動への対抗を示唆している。"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-10-31T10:54:00+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86308323/Leader-orders-swift-decisive-response-to-any-new-aggression"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_khamenei_military_response_order",
-    "severity": 4
-  },
-  {
-    "id": "auto-39687",
-    "headline": {
-      "ja": "ガザの子どもたちが学校通学中の爆撃とライフル銃火の危険に直面",
-      "en": "Education under fire: Gaza's children face death on their way to school"
-    },
-    "summary": {
-      "ja": "ガザの新学期開始以降、子どもたちが学校への通学中にイスラエルの爆撃とスナイパー銃火による危険にさらされている。",
-      "en": "Since the academic year resumed in Gaza, children have faced Israeli bombs and sniper fire on their way to school."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-10-31T10:00:17+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_children_school_danger_2026-10"
   }
 ]
