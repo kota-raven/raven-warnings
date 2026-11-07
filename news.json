@@ -106,28 +106,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-05-05",
-    "headline": {
-      "ja": "スーダン・南コルドファン州の燃料施設にドローン攻撃、10人超死亡と報道(未確認)",
-      "en": "Drone strike reportedly hits fuel station in Sudan's South Kordofan, killing over 10 (unconfirmed)"
-    },
-    "summary": {
-      "ja": "現地メディアDarfur24は11月4日、スーダン・南コルドファン州ナクリー・アル・アッバーシーヤの燃料施設がドローン攻撃を受け、10人超が死亡したと報じたという。攻撃の実行主体は特定されておらず、死者数についても独立した検証は取れていないという。南コルドファン州ではRSF(即応支援部隊)とスーダン国軍の戦闘が続いており、周辺のコルドファン地域全体で民間施設への攻撃が相次いでいるという。推測:攻撃主体についてRSFによるものとの見方があるが、本件は他の独立したメディアによる確証が得られていない。[信頼性: 未確認情報](Darfur24の単独報道で、死者数・実行主体ともに他の独立したメディアで確証が取れていない)",
-      "en": "Local outlet Darfur24 reported on November 4 that a drone strike hit a fuel station in Naqli al-Abbasiya, South Kordofan, Sudan, reportedly killing more than 10 people. Who carried out the strike has not been established, and the death toll has not been independently verified. Fighting between the Rapid Support Forces (RSF) and Sudan's army continues in South Kordofan, with attacks on civilian facilities reported across the wider Kordofan region. Inference: some accounts attribute the strike to the RSF, but this has not been corroborated by other independent outlets. [Reliability: Unconfirmed] (Based on a single report from Darfur24; neither the death toll nor the perpetrator has been confirmed by other independent media.)"
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "region": "南コルドファン州",
-    "lat": 11.0167,
-    "lon": 29.7167,
-    "occurredAt": "2026-11-04T00:00:00+00:00",
-    "source": {
-      "name": "Darfur24",
-      "url": "https://darfur24.com/en/2026/11/04/drone-strike-kills-10-at-south-kordofan-fuel-station/"
-    },
-    "reliability": "unconfirmed"
-  },
-  {
     "id": "2026-11-05-06",
     "headline": {
       "ja": "イラン、ホルムズ海峡再開の米提案を「説得力がない」と拒否 トランプ氏は追加の「重い一撃」の可能性に言及",
@@ -173,27 +151,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-06-02",
-    "headline": {
-      "ja": "北朝鮮、11月4日に東海(日本海)方向へ複数の飛翔体を発射 兵器種別は不明",
-      "en": "North Korea fires several projectiles toward the East Sea (Sea of Japan) on November 4; weapon type unclear"
-    },
-    "summary": {
-      "ja": "The Japan Times(2026年11月4日付)によると、韓国軍は同日、北朝鮮の咸鏡南道ソンドク(松涛)付近から東海(日本海)方向へ複数の飛翔体が発射されたと発表したという。発射された兵器が弾道ミサイルかどうかは直ちには明らかになっておらず、同日日本の防衛省がJアラート等の警報を発出しなかったことから、短射程の火砲や短距離弾道ミサイル以外の可能性もあるとみられるという。韓国国防省はこれを過去1か月で北朝鮮による4回目の兵器発射と位置づけているという。北朝鮮の金与正氏は米国に「敵視政策」の放棄を求め、対抗措置の強化を警告したとされる。推測:発射された兵器の正確な種類・飛行距離・落下地点は本稿執筆時点で確定していない。[信頼性: 中](The Japan Timesの報道に基づくが、本稿執筆時点で他の主要メディアによる独立した裏付け記事は確認できていない。前回〔17:00 JST〕収集時点では同種の見出しの配信日時・詳細を確証できず採用を見送っていたが、今回は日付の明確なThe Japan Times記事を確認できたため採用した)",
-      "en": "According to The Japan Times (dated November 4, 2026), South Korea's military said that day that several projectiles had been fired from near Sondok in North Korea's South Hamgyong province toward the East Sea (Sea of Japan). Whether the weapons were ballistic missiles was not immediately clear, and Japan's Defense Ministry did not issue a J-Alert or similar warning that day, which observers said could suggest the weapons were something other than short-range artillery or short-range ballistic missiles. South Korea's defense ministry reportedly described it as North Korea's fourth weapons launch in the past month. North Korean official Kim Yo Jong reportedly demanded the US abandon its \"hostile policy\" and warned of stronger countermeasures. Inference: the exact weapon type, flight distance and impact location could not be confirmed at the time of writing. [Reliability: Medium] (Based on a dated Japan Times report; no independent corroborating article from another major outlet was found at the time of writing. A similar headline could not be dated or confirmed in the previous [17:00 JST] collection, but this run found a clearly dated Japan Times article.)"
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 40.3399,
-    "lon": 127.5101,
-    "occurredAt": "2026-11-04T00:00:00+00:00",
-    "source": {
-      "name": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/north-korea-missile-test-november-4/"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-06-03",
     "headline": {
       "ja": "金価格、1オンス=4,135ドル前後に上昇 ドルは中間選挙後に約1カ月ぶりの安値",
@@ -234,27 +191,6 @@
       "url": "https://vantagemarkets.com/market-analysis/why-nikkei-225-fell-ai-chip-stocks-jp225-analysis-november-5-2026"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-11-06-05",
-    "headline": {
-      "ja": "コンゴ民主共和国のエボラ(ブンディブギョ型)流行、同国史上最大規模に 死者5,126人",
-      "en": "DRC's Ebola (Bundibugyo Virus) Outbreak Becomes the Country's Largest Ever Recorded, WHO Says"
-    },
-    "summary": {
-      "ja": "世界保健機関(WHO)の発表によると、2026年11月1日時点でコンゴ民主共和国におけるエボラ出血熱(ブンディブギョウイルス型)の確定症例は10,532人、死者は5,126人に達し、WHOはウイルス種を問わず同国で記録された中で最大規模のエボラ流行になったとしている。流行は同国内8州に拡大しており、ケニア・ナイジェリアでも輸入症例が報告されたという。WHOは11月4日、今回の流行で初めて、ブンディブギョウイルスに特化したワクチン候補を試験的に投入すると発表した。災害・感染症カテゴリの大規模事案として採用した。[信頼性: 高](WHO公式発表に基づく)",
-      "en": "According to the World Health Organization, as of November 1, 2026, the Democratic Republic of the Congo had recorded 10,532 confirmed cases and 5,126 deaths from Ebola disease caused by the Bundibugyo virus, which WHO described as the largest Ebola outbreak ever recorded in the country regardless of virus species. The outbreak has spread across eight provinces, with imported cases also reported in Kenya and Nigeria. On November 4, WHO announced that vaccine candidates specifically designed against the Bundibugyo virus would be tested in this outbreak for the first time. Treated here as a major disaster/epidemic event. [Reliability: High] (Based on official WHO statements.)"
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "lat": -4.0383,
-    "lon": 21.7587,
-    "occurredAt": "2026-11-04T00:00:00+00:00",
-    "source": {
-      "name": "WHO",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-11-06-06",
@@ -382,5 +318,26 @@
       "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-07-01",
+    "headline": {
+      "ja": "米国株式市場、11月6日は主要指数まちまちで終了 ナスダック反発・ダウは続落、半導体株中心に前日急落分の一部を回復",
+      "en": "US stocks mixed at Nov 6 close: Nasdaq rebounds, Dow slips, chip stocks recover part of prior day's slide"
+    },
+    "summary": {
+      "ja": "CNBCの報道を引用する複数の報道によると、11月6日(金)の米国株式市場は、前日(11/5、既報id: 2026-11-06-10)の大幅下落から一部回復する形となり、ナスダック総合指数は前日比1.09%高で取引を終えた一方、ダウ工業株30種平均は0.46%安で終えたという。半導体関連株を中心に、前日の急落分の3分の1超を取り戻したとの報道がある(StockTitan)。同日発表された10月雇用統計(既報id: 2026-11-06-12)の結果も相場の反応材料になったとみられるという。個別銘柄への投資判断ではなく、米国市場全体の動向として採用した。推測:S&P500種指数の終値変動率については報道間で一致が取れておらず(取引終了前の速報値を引用する報道も混在している)、本稿執筆時点で確定した数値は確認できていない。[信頼性: 中](Yahoo Finance・StockTitan等がCNBC等の情報を引用して報じているが、S&P500の変動率など一部数値は報道間で一致していない)",
+      "en": "According to multiple reports citing CNBC, US stocks partly recovered at the close on Friday, November 6, from the prior day's steep selloff (previously reported id: 2026-11-06-10): the Nasdaq Composite ended the day up 1.09%, while the Dow Jones Industrial Average fell 0.46%. Chip stocks reportedly recovered more than a third of the previous day's losses (StockTitan). The same-day release of the October jobs report (previously reported id: 2026-11-06-12) was also cited as a factor in the market's reaction. Treated here as a development in the broader US market, not as guidance for any individual security. Inference: reports disagree on the S&P 500's closing move, with some citing pre-close snapshots, and a settled figure could not be confirmed at the time of writing. [Reliability: Medium] (Yahoo Finance, StockTitan and others report this citing CNBC, but some figures such as the S&P 500's percentage move are inconsistent between reports.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-06T21:00:00+00:00",
+    "source": {
+      "name": "Yahoo Finance / CNBC",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    },
+    "reliability": "medium"
   }
 ]
