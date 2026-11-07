@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-11-07T16:19:18.209Z",
+  "generatedAt": "2026-11-07T20:48:55.573Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 185,
+  "count": 187,
   "warnings": [
+    {
+      "id": "NAVAREA11-260500",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "漂流物等",
+      "number": "0500",
+      "title": "北太平洋北西部、コンテナ多数漂流",
+      "publishedAt": "2026-11-08T01:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0500    発表日時:2026年11月08日 01時\r\n\n\r\nNORTH PACIFIC, NORTHWESTERN PART.\r\r\nNUMEROUS CONTAINERS ADRIFT IN \r\r\nVICINITY OF 38-30.0N 168-56.7E TO\r\r\n38-49.6N 165-46.1E AT 06 NOV.\r\r\nCANCEL THIS MSG 100630Z NOV.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260500&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260498",
       "type": "NAVAREA11",
@@ -284,6 +296,18 @@
       "geometry": null,
       "rawText": "NO.26-0322    発表日時:2026年07月17日 03時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDISCOLOURED WATER REPORTED IN VICINITY\r\r\nOF 20-26.0N 145-01.0E AT 160013Z JUL.\r\r\nCANCEL 0020/24.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264405",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4405",
+      "title": "北太平洋北西部、コンテナ多数漂流",
+      "publishedAt": "2026-11-08T01:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4405   発表日時:2026年11月08日 01時\r\n\n\r\n北太平洋北西部、\r\r\nコンテナ多数漂流、11月6日、38-30.0N 168-56.7Eから\r\r\n38-49.6N 165-46.1E付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264405&LANG=JP"
     },
     {
       "id": "JAPANNW-264404",
