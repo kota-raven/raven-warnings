@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-49225",
+    "headline": {
+      "ja": "イエメン市場での爆発、30人超が死傷",
+      "en": "30 killed, 8 wounded in Yemeni market attack"
+    },
+    "summary": {
+      "ja": "イエメンの市場で爆発が発生し、30人が殺害、8人が負傷した。責任所在については異なる主張がある。",
+      "en": "An explosion at a market in Yemen killed 30 people and wounded 8. Responsibility for the attack is disputed."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-06T18:11:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUzZES1Vya1lPXzFTMzZZWm55Mzg5M1V5dkxBUXFlX3NzR2ExSTBSRlFkUVZncHpHdGlFdVNVdjZoMklJUVBHYnFKMWw2X1FjeW80SXVtVEFOR01Qa2w4bzRvRUoyS2xyOXBiY1V4VTBqbnlOa1c0SXQ5R0o?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_market_attack_2026-11-06"
+  },
+  {
     "id": "auto-49458",
     "headline": {
       "ja": "イエメン軍がタイズでの領域奪回を主張、フーシ派のミサイル攻撃で多数の被害",
@@ -2480,97 +2503,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "gaza_children_school_danger_2026-10"
-  },
-  {
-    "id": "auto-39823",
-    "headline": {
-      "ja": "ロシア軍がウクライナの兵站・エネルギー施設を攻撃",
-      "en": "ロシア軍がウクライナの兵站・エネルギー施設を攻撃"
-    },
-    "summary": {
-      "ja": "ロシア軍がウクライナ軍の兵站施設とエネルギーインフラを攻撃した。",
-      "en": "ロシア軍がウクライナ軍の兵站施設とエネルギーインフラを攻撃した。"
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-10-31T07:11:45+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rTE1ERlRoTlJqQWpCVWxGZl9TeUhmT3lGaExjMnhkVmVVbi14dzJhaS1hcGlPa0phSU9JblBDMEJhYjhsN1U40gFMQVVfeXFMTXFPbnMxTkp5MWxxZlZEV1lXMm1NcHRSdXQwZXZxVGRwWE0xbV9ldWt1eHpPRVMzWS1haDFXY3kyQXBQa1JucHRmUzVjRg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_logistics_energy_strike"
-  },
-  {
-    "id": "auto-38741",
-    "headline": {
-      "ja": "米国がウクライナへの愛国者ミサイルシステム21億ドル相当を承認",
-      "en": "US approves $2.1 billion Patriot missile system sale to Ukraine"
-    },
-    "summary": {
-      "ja": "米国はウクライナへの防衛兵器として愛国者ミサイルシステム500台相当(21億ドル)の売却を承認した。トランプ政権発足以来、ウクライナへの重要な軍事支援となる。",
-      "en": "The US approved a $2.1 billion sale of 500 Patriot missile systems to Ukraine as defensive weapons. This represents significant military support since Trump's administration took office."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-10-31T04:51:25+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_patriot_missile_sale_2026-10-30"
-  },
-  {
-    "id": "auto-38746",
-    "headline": {
-      "ja": "コンゴ民主共和国のエボラ流行、死亡者5000人超に",
-      "en": "Ebola death toll in DR Congo exceeds 5,000"
-    },
-    "summary": {
-      "ja": "DRコンゴでのエボラ流行で死亡者が5000人を超えた。当局は承認済みの治療法やワクチンがなく、感染制御に苦慮している。",
-      "en": "Ebola outbreak in DR Congo has caused over 5,000 deaths. Authorities struggle to control the outbreak with no approved treatments or vaccines available."
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "lat": -4.3276,
-    "lon": 15.3136,
-    "occurredAt": "2026-10-31T02:51:52+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "drc_ebola_outbreak_2026-10"
-  },
-  {
-    "id": "auto-41834",
-    "headline": {
-      "ja": "サウジアラビアとカナダ外相がフーシ派による攻撃を非難",
-      "en": "Saudi Arabia and Canada condemn Houthi attacks"
-    },
-    "summary": {
-      "ja": "G20会議でのサウジアラビアとカナダの外相がフーシ派による攻撃を非難する声明を発表した。",
-      "en": "Saudi Arabia and Canada's foreign ministers condemn Houthi attacks in statement at G20 meeting."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-10-30T23:41:38+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzUlE1cjNDc0NxN0Z2ZnkzM0N5Wmwzd210c01aTm9VVzdIa1pId1VsMHVuY3BGODU2bHRaMl80ZG9zcy1rSDFHT2Nn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_canada_houthi_condemnation_2026-11"
   }
 ]
