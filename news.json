@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-05-01",
-    "headline": {
-      "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者40人に増加 ゼレンスキー氏「さらに30人超が生き埋めの可能性」と発表",
-      "en": "Zaporizhzhia's Komyshuvakha strike death toll rises to 40; Zelensky says over 30 more may be trapped"
-    },
-    "summary": {
-      "ja": "既報(id: 2026-11-03-05)のザポリッジャ州コムィシュヴァーハの人道支援拠点・避難所への二波空爆について、ゼレンスキー大統領は11月4日、死者数が40人に増加したとFacebookで発表したという(Ukrinform・APA通信〔アゼルバイジャン国営〕・unn.ua等複数メディアが報道)。同日早い時間にはザポリッジャ州行政当局者ミハイロ・セミキン氏が死者37人と発表していたという。ゼレンスキー氏は、さらに30人超が瓦礫の下に残っている可能性があるとしたという。行方不明者数については、11月3日夜時点でセミキン氏が58人としていたとの報道もあり、既報(27人)とも異なるため数字が流動的だという。ザポリッジャ州では11月3〜5日の3日間、追悼期間が設定されたという。ロシア側からの公式な反応は本稿執筆時点で確認できていない。推測:死者・行方不明者の最終的な数は今後さらに変動しうる。[信頼性: 高](Ukrinform・APA通信・unn.ua等、独立した複数のメディアがゼレンスキー大統領の発表〔Facebook〕について一致した内容を報じている。ただし死者数自体はウクライナ当局発表に基づくもので、ロシア側や第三者による独立した検証はできていない)",
-      "en": "Following up on the earlier report (id: 2026-11-03-05) of the two-wave strike on a humanitarian aid hub and shelter in Komyshuvakha, Zaporizhzhia region, President Zelensky said on Facebook on November 4 that the death toll had risen to 40, according to Ukrinform, Azerbaijan's state news agency APA, unn.ua and other outlets. Earlier the same day, Zaporizhzhia regional administration official Mykhailo Semikin had put the toll at 37. Zelensky said more than 30 additional people may still be trapped under rubble. Figures for those missing remain fluid: Semikin reportedly said 58 were missing as of Monday night, a figure that differs from the previously reported 27. A three-day mourning period (November 3-5) has been declared in Zaporizhzhia region. No official Russian response was found at the time of writing. Inference: final death and missing-person counts may change further. [Reliability: High] (Multiple independent outlets -- Ukrinform, APA, unn.ua and others -- consistently report President Zelensky's Facebook statement; however, the casualty figures themselves rest on Ukrainian official statements and have not been independently verified by Russia or a third party.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリッジャ州",
-    "lat": 47.7194,
-    "lon": 35.5247,
-    "occurredAt": "2026-11-04T12:00:00+00:00",
-    "source": {
-      "name": "Ukrinform/APA(ゼレンスキー大統領発表)",
-      "url": "https://www.ukrinform.net/rubric-ato/4181429-zelensky-death-toll-in-komyshuvakha-rises-to-40-more-than-30-may-remain-trapped-under-rubble.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-05-04",
     "headline": {
       "ja": "米国株式市場、中間選挙後に大幅続伸 ダウ3.03%上昇、原油価格は急落",
@@ -41,29 +19,6 @@
       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-11-05-06",
-    "headline": {
-      "ja": "イラン、ホルムズ海峡再開の米提案を「説得力がない」と拒否 トランプ氏は追加の「重い一撃」の可能性に言及",
-      "en": "Iran rejects US response on Hormuz Strait reopening as 'unconvincing'; Trump signals possible further 'heavy hit'"
-    },
-    "summary": {
-      "ja": "イラン最高国家安全保障会議のレザイー書記は11月4日、ホルムズ海峡再開に向けたイラン側の7条件に対する米側の回答を「説得力がない」と評価し、条件が満たされない限り海峡再開はないと述べたという(Al Jazeera)。同日、トランプ米大統領はケシム島の対空施設に対する米軍の攻撃を確認し、「建設されるのを見ていた、そして攻撃した」と述べて「小規模な攻撃」と位置づけたという(Gulf News)。トランプ氏はまた、米軍が即応態勢(「ロックド・アンド・ローデッド」)にあると述べ、状況次第で追加の「重い一撃」を実施する可能性に言及したという。ホルムズ海峡周辺ではタンカーや曳船が炎上したとの報道も複数あるが、発生時期・原因についてメディア間で記述が一致していない。[信頼性: 中](Al Jazeera・Gulf News・Kurdistan24など複数の独立したメディアが同様の内容を報じているが、タンカー炎上の詳細は報道間で一致していない)",
-      "en": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said on November 4 that the US response to Iran's seven conditions for reopening the Strait of Hormuz was \"unconvincing,\" and that the strait would reopen only once those conditions are met, according to Al Jazeera. The same day, US President Trump confirmed a US strike on an anti-aircraft facility on Iran's Qeshm Island, saying \"we watched it get built — then we hit it,\" and described it as a \"minor attack,\" per Gulf News. Trump also said US forces remain \"locked and loaded\" and signaled the possibility of a further \"heavy hit\" depending on how the situation develops. Several reports also describe tankers and a tugboat catching fire near the Strait of Hormuz, though outlets differ on the timing and cause. [Reliability: Medium] (Multiple independent outlets — Al Jazeera, Gulf News, Kurdistan24 among others — report similar accounts, though details of the tanker fires are inconsistent across sources.)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-04T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
-    },
-    "reliability": "medium",
-    "severity": 3
   },
   {
     "id": "2026-11-06-01",
