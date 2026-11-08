@@ -144,6 +144,30 @@
     "observedAt": "2026-11-11T00:00:00Z"
   },
   {
+    "id": "2026-11-07-kr-000156",
+    "recordType": "individual",
+    "country": "KR",
+    "shipName": "徐熙(So-hee)",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "ハンファオーション玉浦造船所",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "3,600トン級ジャンボゴIII Batch-IIクラス潜水艦の進水式。同級2番艦",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37429/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-07T00:00:00Z"
+  },
+  {
     "id": "2026-11-06-ca-000121",
     "recordType": "individual",
     "country": "CA",
@@ -427,8 +451,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -839,8 +863,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-31T00:00:00Z"
   },
   {
@@ -1448,6 +1472,30 @@
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
+    "id": "2026-10-25-us-000155",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Stout",
+    "shipNumber": "DDG-55",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Augusta Bay, Italy",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "ポート訪問中にエンジニアリング障害で停電が発生。36時間以内に重要システムの電力を復旧、3日以内に完全復旧",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-10-25T00:00:00Z"
+  },
+  {
     "id": "2026-10-24-cn-000091",
     "recordType": "individual",
     "country": "CN",
@@ -1467,8 +1515,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-24T00:00:00Z"
   },
   {
@@ -1517,8 +1565,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-24T00:00:00Z"
   },
   {
@@ -1541,8 +1589,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1565,8 +1613,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1589,8 +1637,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1613,8 +1661,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1637,8 +1685,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1661,8 +1709,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1685,8 +1733,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -1709,8 +1757,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-24T21:21:14.314622+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-23T00:00:00Z"
   },
   {
@@ -3284,6 +3332,30 @@
     "periodEnd": null
   },
   {
+    "id": "-jp-000157",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "護衛艦おおなみ",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "フィリピン海・南シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米空母セオドア・ルーズベルトほか5隻との日米共同訓練を実施。クロスデッキも実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37425/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-jp-000122",
     "recordType": "individual",
     "country": "JP",
@@ -3406,5 +3478,31 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "-us-000158",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": null,
+    "shipType": "carrier",
+    "position": {
+      "area": "フィリピン海・南シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "日本の護衛艦おおなみほか4隻との日米共同訓練を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37425/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": "2026-11-06T00:00:00Z",
+    "periodEnd": null
   }
 ]

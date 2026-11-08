@@ -26,6 +26,32 @@
     "periodEnd": "2026-11-29T00:00:00Z"
   },
   {
+    "id": "2026-11-08-jp-000154",
+    "recordType": "aggregate",
+    "country": "JP",
+    "unitName": "P-1及びSH-60K",
+    "unitNumber": null,
+    "aircraftType": "reconnaissance",
+    "position": {
+      "area": "横須賀市防衛大学校",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛大学校開校記念祭に参加する海上自衛隊P-1とSH-60Kが上空を飛行予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37406/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 2,
+    "periodStart": "2026-11-08T00:00:00Z",
+    "periodEnd": "2026-11-08T23:59:59Z"
+  },
+  {
     "id": "2026-11-02-cn-000131",
     "recordType": "individual",
     "country": "CN",
