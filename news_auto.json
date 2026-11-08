@@ -139,6 +139,29 @@
     "eventKey": "gaza_humanitarian_crisis_hamas_2026-11"
   },
   {
+    "id": "auto-51068",
+    "headline": {
+      "ja": "パキスタン北西部でIED爆発、爆発処理班幹部が殺害",
+      "en": "Police bomb disposal squad official killed in IED blast in NW Pakistan"
+    },
+    "summary": {
+      "ja": "パキスタン北西部でIED(即興爆発装置)が爆発し、警察爆発物処理班の幹部が殺害された。テロ活動が継続。",
+      "en": "An IED blast in northwestern Pakistan killed a police bomb disposal squad official, indicating ongoing terrorist activities."
+    },
+    "category": "conflict",
+    "country": "パキスタン",
+    "lat": 33.7215,
+    "lon": 73.0433,
+    "occurredAt": "2026-11-08T10:26:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEMzSGhYb0UwaWJKNllrU29GQ2YxdV9yVk1WaklnTlZuZTF4MWRIUm9YM3I0eUVkcGxfTW1LWm1VdUlEUV9sb1Z1WGZhVGRXOTJfUllGT1F5a1R3cVU1QnA5bTlPbndmUEJnX29WSVVqWU5WN2k0YmVFeTg2YXVzMGxIcFRxN0tRai1WWA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "pakistan_nw_ied_blast_2026-11"
+  },
+  {
     "id": "auto-51014",
     "headline": {
       "ja": "アフガニスタン西部で乗用車転覆、5人死亡",
