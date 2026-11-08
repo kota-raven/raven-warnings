@@ -168,6 +168,102 @@
     "observedAt": "2026-11-07T00:00:00Z"
   },
   {
+    "id": "2026-11-06-fr-000159",
+    "recordType": "individual",
+    "country": "FR",
+    "shipName": "FS Jacques Stosskopf",
+    "shipNumber": "A726",
+    "shipType": "transport",
+    "position": {
+      "area": "Toulon naval base, France",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Bâtiment ravitailleur de forces-class resupply ship conducting close-in defense drill at Toulon naval base, flanked by French carrier strike group escorts.",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/the-future-of-french-fleet-close-in-defense"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T21:54:51Z"
+  },
+  {
+    "id": "2026-11-06-us-000160",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Singapore (Changi Naval Base)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Theodore Roosevelt Carrier Strike Group (CVN-71, CG-65, DDG-60, DDG-73 with CVW-11) pulled into Singapore for port visit. Transiting Malacca Strait to Middle East.",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/usni-news-western-pacific-pulse-nov-6-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T18:35:17Z"
+  },
+  {
+    "id": "2026-11-06-us-000161",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Chosin",
+    "shipNumber": "CG-65",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Singapore (Changi Naval Base)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Guided-missile cruiser USS Chosin docked at Changi Naval Base as part of Theodore Roosevelt Carrier Strike Group.",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/usni-news-western-pacific-pulse-nov-6-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T18:35:17Z"
+  },
+  {
+    "id": "2026-11-06-us-000162",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Paul Hamilton / USS Decatur",
+    "shipNumber": "DDG-60 / DDG-73",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Singapore (Changi/Sembawang Naval Base)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Destroyers USS Paul Hamilton (DDG-60, Changi) and USS Decatur (DDG-73, Sembawang) docked as part of Theodore Roosevelt Carrier Strike Group.",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/06/usni-news-western-pacific-pulse-nov-6-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T18:35:17Z"
+  },
+  {
     "id": "2026-11-06-ca-000121",
     "recordType": "individual",
     "country": "CA",
@@ -3404,6 +3500,30 @@
     "count": 20,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "-ru-000163",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "Varyag",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "Soya Strait",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍のスラバ級ミサイル巡洋艦「ヴァリャーク」が宗谷海峡を西進。海上自衛隊のP-3C哨戒機とミサイル艇「はやぶさ」が警戒監視を実施。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37438/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-us-000088",
