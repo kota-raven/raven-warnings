@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-51618",
+    "headline": {
+      "ja": "サウジ連合軍がフーシ派のミサイル発射拠点を攻撃",
+      "en": "Saudi-led Coalition Strikes Houthi Missile Launcher Sites"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合軍がリヤド攻撃に使用されるフーシ派のミサイル発射拠点を攻撃したと、ロシア国営通信が報道した。",
+      "en": "Russian state news reported that the Saudi-led coalition struck Houthi missile launcher sites used to attack Riyadh."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-08T16:49:29+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MWnNVam9PV1o0V3FmNTRFWjVBZENpTHlpV3pfT3hFZHRya2kxa3otMldjV3VoREZlTWE0TFFtUkJYVVhG0gFKQVVfeXFMUFItc0J3azNEVmdUZEk2M2Vrbm9KRG50aWVTdnNManhwUHZOb0hsbEs0eHFrbks2ZjIzWmRsOEthbHhRNEptVGQwM1E?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_houthi_missile_defense_2026-11-08"
+  },
+  {
     "id": "auto-51364",
     "headline": {
       "ja": "日本中部で震度5.7の地震、20人以上が負傷",
@@ -716,6 +739,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "japan_tokyo_earthquake_2026_11_06"
+  },
+  {
+    "id": "auto-48872",
+    "headline": {
+      "ja": "サウジ連合軍がフーシ派の弾道ミサイル2発を撃墜",
+      "en": "Saudi-led Coalition Intercepts and Destroys Two Ballistic Missiles Launched by Houthi Militia"
+    },
+    "summary": {
+      "ja": "フーシ派がナジラン方向に発射した弾道ミサイル2発をサウジアラビア主導の連合軍が迎撃・破壊したと、サウジアラビア政府が発表した。",
+      "en": "The Saudi-led coalition intercepted and destroyed two ballistic missiles launched by Houthi militia toward Najran, according to Saudi government announcement."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 17.4933,
+    "lon": 44.1277,
+    "occurredAt": "2026-11-06T08:00:41+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VeU50QkVNSDI5eEhwbEdVUnNBdEZ3Y20yMFlIRVg4alNMXzRPNnRNVGpULUFFNVdIalRtTHFZcTEyUEhfYm15Vi1B?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_houthi_missile_defense_2026-11-06"
   },
   {
     "id": "auto-48966",
@@ -2386,308 +2432,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "israel_hebron_siege_2026-11"
-  },
-  {
-    "id": "auto-41531",
-    "headline": {
-      "ja": "ウクライナ=ロシア：オレシキ停戦が違反報告なく継続",
-      "en": "Oleshky ceasefire between Ukraine and Russia continues with no violations reported"
-    },
-    "summary": {
-      "ja": "ウクライナとロシア間のオレシキ地域での停戦協定が、違反報告なく継続している。停戦の安定が保たれている状況を示している。",
-      "en": "The ceasefire in the Oleshky region between Ukraine and Russia continues with no violations reported, indicating the stability of the temporary truce."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 46.6255,
-    "lon": 32.7243,
-    "occurredAt": "2026-11-01T20:34:28+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWFweW1oNk15eHFEVHNqUE92ODlDWThZdWNEcUlSZGZqM0FTQXZtZTBxUXhtdWZVS0ZETERqdDk3WUo0SHlzYng2STRQMkN2MVZNQVdGRkppeVN1elAzTHhBbE44ZjRXLXlPSUp5N19jdnZKVXVsN2I0RnJqQm16TXFheWdfVkxVbEU4NlhHYTUwdEFhTDRsRHc1aWR2X0ZycEhta0tJdEZUcVUtVXhFemlYRQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_russia_oleshky_ceasefire_nov2026"
-  },
-  {
-    "id": "auto-41532",
-    "headline": {
-      "ja": "トランプ大統領がイラン外交を支持、ネタニヤフが米選挙後の攻撃促進",
-      "en": "Trump favors diplomacy with Iran while Netanyahu urges strikes immediately after US midterms"
-    },
-    "summary": {
-      "ja": "トランプ米大統領はイランとの外交交渉を支持する立場を示した。一方、イスラエルのネタニヤフ首相は火曜日の米国中間選挙直後の即座のイラン攻撃を促している。米国とイスラエルの中東政策の相違が明らかになった。",
-      "en": "US President Trump expressed support for diplomacy with Iran, while Israeli Prime Minister Netanyahu is urging immediate military strikes against Iran immediately after Tuesday's US midterm elections, revealing a divergence in approach between the two allied nations."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-01T19:48:29+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObVBvU1h0Z0JSVDA4VFo2Y201MzJlbC1RNDFIRFJnVEQxQVhubDlsSElDdXl0NWNWT25SS2QwckZOTVlQbXpmLU9ZYXhUdHdHTER1X2NwSkl6MXpNVXJTN2t4eWZhV3ZsZkdqX203WElPUVZpR2hpQXpJZEJzSHI1MHNKZTZVeUZCdzAxdU9pMHViUlc5UXFaS0VqYVZqbmUtSVB0N2lBRFhoUEtIYm5SWGtCa0dkYXA1MHlwbkwxMWs1cjRyTEZtbjlzYi1rWmdhTDhUdDM5SDJmSWNXU1A5eQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_israel_iran_diplomacy_conflict_nov2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-41681",
-    "headline": {
-      "ja": "イラン政府が防衛学説の変更を発表、脅威の地理が報復の地理を制限しないと表明",
-      "en": "Iran announces shift in defense doctrine, says threat geography no longer constrains response"
-    },
-    "summary": {
-      "ja": "イランの指導部高官モハマド・モクベルは、イランの防衛学説が急速に進化し、脅威の地理がもはや報復の地理を決定しなくなったと述べた。",
-      "en": "Iran's senior advisor Mohammad Mokhber states that Iran's defense doctrine is rapidly evolving and threat geography no longer determines response geography."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-01T19:33:50+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86309609/Iran-s-defense-doctrine-no-longer-bound-by-geography-of-a-threat"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_defense_doctrine_shift_2026-11"
-  },
-  {
-    "id": "auto-41544",
-    "headline": {
-      "ja": "イスラエル軍がヘブロンで店舗捜索、住民を暴行",
-      "en": "Israeli military raids shops in Hebron, assaults residents during incursion"
-    },
-    "summary": {
-      "ja": "イスラエル軍はヘブロンのハルフル地区での侵攻中に、店舗を捜索し住民を暴行した。占領地での軍事行動が報告されている。",
-      "en": "Israeli military forces raided shops in Hebron and physically assaulted residents during an incursion into the Halhul neighborhood, according to Palestinian sources."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5294,
-    "lon": 35.0938,
-    "occurredAt": "2026-11-01T19:32:07+00:00",
-    "source": {
-      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yblRHZXNEWGNXUV9pdzM3c0xGeVRJSVNGZUdjd1F4YjVDcUhESEdmcERQWFF1TW9LUlhzX0FLb1Fwb2FQdG16Z0pDa2I1VDZFZ2NuUm43MA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "hebron_israel_military_raid_assault_nov2026"
-  },
-  {
-    "id": "auto-41489",
-    "headline": {
-      "ja": "アラブ連盟、カタール液化ガスタンカー攻撃を非難",
-      "en": "Arab League condemns attack on Qatari LNG tanker"
-    },
-    "summary": {
-      "ja": "アラブ連盟は、カタールの液化天然ガス(LNG)タンカーに対する攻撃を非難する声明を発表した。海上での商業船舶への攻撃は地域の安定と国際通商の脅威となっている。",
-      "en": "The Arab League issued a statement condemning an attack on a Qatari liquefied natural gas tanker, describing it as a threat to regional stability and international commerce."
-    },
-    "category": "conflict",
-    "country": "カタール",
-    "lat": 25.2855,
-    "lon": 51.531,
-    "occurredAt": "2026-11-01T19:18:31+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IalFEY3BtclNlWFVxSnNJbmNNcUVBQ0MyajA4YXQ3VDhsc3JVWHIwR0JlUFh5NU9hNlNFY1FWdWhwcVpGSUY2aVBn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "qatar_lng_tanker_attack_maritime_nov2026"
-  },
-  {
-    "id": "auto-41417",
-    "headline": {
-      "ja": "米国攻撃でイラン船舶の船長が殺害、ペルシャ湾で事件発生",
-      "en": "Iranian ship captain killed in US attack in Persian Gulf, farewell ceremony held"
-    },
-    "summary": {
-      "ja": "ペルシャ湾の公海でナセル・エブラヒミ・ネジャダン船長が米国の攻撃で殺害された。イラン南部アバダンで船長の遺体の告別式が行われた。イラン国営通信（IRNA）の報道による。",
-      "en": "Nasser Ebrahimi-Nejadan, captain of an Iranian vessel, was killed in an attack by the United States in the Persian Gulf. A farewell ceremony for his body was held in Abadan."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-01T18:42:21+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86309590/People-in-Abadan-bid-farewell-to-ship-captain-martyred-in-US"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_usa_gulf_maritime_conflict_nov2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-41507",
-    "headline": {
-      "ja": "カタール、アラビア湾のLNGキャリア攻撃を非難",
-      "en": "Qatar condemns attack on LNG carrier in Arabian Gulf"
-    },
-    "summary": {
-      "ja": "カタール外務省は、アラビア湾でのLNG(液化天然ガス)キャリアへの攻撃を非難する声明を発表した。カタールは海上通商の安全保障と地域の安定を呼びかけた。",
-      "en": "The Qatar Ministry of Foreign Affairs issued a statement condemning an attack on a liquefied natural gas carrier in the Arabian Gulf, calling for protection of maritime commerce and regional stability."
-    },
-    "category": "conflict",
-    "country": "カタール",
-    "lat": 25.2855,
-    "lon": 51.531,
-    "occurredAt": "2026-11-01T18:18:55+00:00",
-    "source": {
-      "name": "カタール 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSm1MRHZwYjl3S0NmSC1aTTg3UE9rc01PYjgyVXhXanVvTzlXZzJWUGVCSTBVdGN6b2Vfa3dJNWUxVE1FSTl2UnFYVzdLdEJSczVRZHJPdkNWUzZZSUpDeGdBUXE0ZkUwdU9ObDd6VEVMc2lfX3dzMllhQXNSMVIwYTdvQktyNDVubEJQbXZ0QWZlR09JdWhPRDVlUWpsWnB0bjUxNA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "qatar_lng_carrier_attack_gulf_nov2026"
-  },
-  {
-    "id": "auto-41590",
-    "headline": {
-      "ja": "イラン最高指導者顧問、防衛戦略が急速に変化していると述べる",
-      "en": "Iran's supreme leader adviser says defense doctrine is rapidly changing"
-    },
-    "summary": {
-      "ja": "イラン最高指導者の顧問は、イランの防衛戦略が急速に変化していると述べた。米国との地域紛争激化の可能性を反映している。",
-      "en": "An adviser to Iran's supreme leader stated that Iran's defense doctrine is undergoing rapid changes, signaling potential escalation in the region."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-01T17:52:03+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMRlRBNS14SF9QWThLankxNmZYUjViNkxJWXJYOGtZRmJTdDhQbHVBYVZ1cnhRdVdCNFQ2VFpaaFZhbmk4UXBPMGp30gFKQVVfeXFMUExGVEE1LXhIX1BZOEtqeTE2ZlhSNWI2TElZclg4a1lGYlN0OFBsdUFhVnVyeFF1V0I0VDZUWlpoVmFuaThRcE8wanc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_defense_doctrine_strategic_shift_2026"
-  },
-  {
-    "id": "auto-41425",
-    "headline": {
-      "ja": "イラン軍司令部、敵に対する広範な攻撃能力を保有と宣言",
-      "en": "Iran's IRGC declares vast arena for inflicting damage on enemy"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)の報道官は、イランが敵に損害を与えるための広大な範囲での能力を有していると発表した。イラン国営通信が報道した。",
-      "en": "An Iranian Revolutionary Guard Corps (IRGC) spokesman declared that Iran has defined a vast arena to inflict damage on enemies, according to state media."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-01T17:41:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRVHhvQjBHdjExb1BMYzhnUkZTaTNMdENBelRVT3lJUjczRTQ2cEhQQ1NmcHVtVE9qMFRzczNsdEtJTUtoTjBNRGNBR1pXRjZCdGJIUnFBN2ZIX1l2S25hTkVHOU9SUlpUejQxUXFTUnVmWTYySjNKdHV4MGg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_military_capability_declaration_2026"
-  },
-  {
-    "id": "auto-41400",
-    "headline": {
-      "ja": "ヘブロン包囲が10日目、イスラエルが広範攻撃を脅迫",
-      "en": "Hebron under siege for 10th day as Israel threatens wider offensive"
-    },
-    "summary": {
-      "ja": "イスラエル軍によるヘブロンの包囲が10日間続いており、経済損失が380万ドルを超えている。イスラエル軍は西岸地域の家屋を取り壊し、数百の事業を閉鎖している。イスラエル政府は広範な軍事行動の脅迫を続けている。",
-      "en": "Hebron remains under siege for the 10th consecutive day with economic losses exceeding $3.8 million. Israeli forces are demolishing homes in the West Bank and closing hundreds of businesses, while threatening a wider military offensive."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5294,
-    "lon": 35.0938,
-    "occurredAt": "2026-11-01T17:30:45+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "hebron_siege_israel_palestine_nov2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-41393",
-    "headline": {
-      "ja": "イスラエル空爆がガザで8人を殺害、子ども1人含む",
-      "en": "Israeli airstrikes kill eight in Gaza including a child"
-    },
-    "summary": {
-      "ja": "BBC報道によると、イスラエルの空爆によってガザで8人が殺害された。ハマス系警察幹部5人がハンユニスで、3人（子ども1人含む）がガザシティで殺害されたと当局が発表した。",
-      "en": "Israeli strikes in Gaza have killed eight people, including a child. Hamas-run police officials said five officers were killed in Khan Younis and three others, including a child, died in Gaza City."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-01T17:06:32+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_israeli_strikes_casualties_nov2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-41494",
-    "headline": {
-      "ja": "シリアで豪雨と洪水被害、UAE表示して弔意",
-      "en": "Syria hit by heavy rainfall and floods, UAE expresses solidarity and condolences"
-    },
-    "summary": {
-      "ja": "シリアが豪雨と洪水に見舞われた。UAEはシリアとの連帯を表明し、被害者に対して弔意を表明した。多くの人命と生活が失われた可能性がある。",
-      "en": "Syria was struck by heavy rainfall and severe flooding. The UAE expressed solidarity with Syria and conveyed condolences to the victims of the natural disaster."
-    },
-    "category": "disaster",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-11-01T16:40:45+00:00",
-    "source": {
-      "name": "UAE 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHUTVzdHdjZHFZUXdGV1JDa1RsRHg3TEFpU3czSmZMY2xvdUtDMlgxT2hCdVJvaUlvb0hMeHNoY2l6a0x1cndpc1FEaWJPdnB4dFVnSkFOSVdNM1l2R3YwRHd1WmtMUGZrRXJDXw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "syria_rainfall_floods_disaster_nov2026"
-  },
-  {
-    "id": "auto-41351",
-    "headline": {
-      "ja": "ゼレンスキー、ロシア軍が10月に54,400人の損失を被ったと主張",
-      "en": "Zelenskyy Claims Russia Lost 54,400 Troops in October"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍が10月に54,400人の兵士が戦死または負傷したと主張している。この数字に関しては第三者による独立検証は未確認である。",
-      "en": "Ukraine's Zelenskyy claims Russia lost record 54,400 troops killed or wounded in October, though third-party verification is not yet confirmed."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-01T16:13:12+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaC1zR3pLaUZDM1J0SVcxc1cyQS0xMl9IQXVCZzF6b3FxUXprblhFVndpbW8yWnVhZVE2YXBQaEc5NnAwd1ZNVVdOcU5CU1VxN2p5QWFtTnBNRDA4V1J0S3hsUHNmdnFpekhzWktjLVl6Y0swYjJsYmFtZzhfOERGLUFWLS1GVVVVNUxHeHdPM3lNNmdUNFgyTklVal9zMUlGZ3hMWTdfQW0tNUJSWXFrOGJobDU3bXVNY0Rj?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "ukraine_russia_military_losses_october_2026"
   }
 ]
