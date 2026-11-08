@@ -746,6 +746,29 @@
     "severity": 4
   },
   {
+    "id": "auto-51157",
+    "headline": {
+      "ja": "キング・ハーリド国際空港への攻撃報告",
+      "en": "Two Attacks Target King Khalid International Airport Facilities and Saudia Aircraft"
+    },
+    "summary": {
+      "ja": "GACA（一般民間航空委員会）は、キング・ハーリド国際空港の施設とSaudia航空機を標的とした2件の攻撃を報告。",
+      "en": "Saudi Arabia's GACA reported two attacks targeting King Khalid International Airport facilities and a Saudia aircraft."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-07T14:19:41+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aSWduaDhLZlAydXQybHFaQ2RlQXQzUVVFV1VBaGNJcFBvWUhybkhvQ1cxN2ZSWW1nS0t4bm1kTmU4amdIUE1BN29B?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_airport_attacks_2026-11"
+  },
+  {
     "id": "auto-51150",
     "headline": {
       "ja": "サウジ連合、フーシ支配地域の136軍事目標を破壊と発表",
