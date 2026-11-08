@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-50205",
+    "headline": {
+      "ja": "米国、イラン金融網への制裁を強化",
+      "en": "US announces sanctions on Iranian financial networks"
+    },
+    "summary": {
+      "ja": "米国国務省は、イラン政権を支える金融ネットワークに対する制裁が効果を発揮していると発表した。",
+      "en": "US State Department announced that sanctions targeting Iranian regime financial networks are crippling their operations."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-08T09:44:17+00:00",
+    "source": {
+      "name": "米国 国務省",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-cripple-financial-networks-sustaining-the-iranian-regime/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_iran_sanctions"
+  },
+  {
+    "id": "auto-50208",
+    "headline": {
+      "ja": "台湾、パプアニューギニアの外交使節団を閉鎖",
+      "en": "Taiwan closes diplomatic mission in Papua New Guinea"
+    },
+    "summary": {
+      "ja": "台湾外交部は、パプアニューギニアの公館を閉鎖し、外交協力を見直し、同盟国との関係深化にリソースを配分すると発表した。",
+      "en": "Taiwan announced closure of its mission in Papua New Guinea and comprehensive adjustment of bilateral cooperation to focus on allied nations."
+    },
+    "category": "conflict",
+    "country": "台湾",
+    "lat": 25.0531,
+    "lon": 121.5264,
+    "occurredAt": "2026-11-08T09:44:17+00:00",
+    "source": {
+      "name": "台湾 外交部",
+      "url": "https://en.mofa.gov.tw/News_Content.aspx?n=1328&sms=273&s=123381"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "taiwan_png_diplomatic_closure"
+  },
+  {
     "id": "auto-50132",
     "headline": {
       "ja": "イスラエル、レバノン南部に90km軍事道路網を建設",
@@ -92,6 +138,29 @@
     "eventKey": "poland_krakow_shooting_2026"
   },
   {
+    "id": "auto-50234",
+    "headline": {
+      "ja": "ポーランド・クラクフで銃撃事件、複数の死傷者",
+      "en": "Shooting in Poland's Krakow leaves people dead and injured"
+    },
+    "summary": {
+      "ja": "ポーランドのクラクフで銃撃事件が発生し、複数の死傷者が出た。",
+      "en": "A shooting incident in Krakow, Poland resulted in multiple casualties."
+    },
+    "category": "disaster",
+    "country": "ポーランド",
+    "lat": 50.0614,
+    "lon": 19.9366,
+    "occurredAt": "2026-11-07T15:12:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94NHFOMlVvbkhmQ0RSMDFFQVNDRmVTQkdiYm4tbl9QLXhDNW83SHlzWi04OVZ0R253Y29qTFZjZEpHOUF4eVlud2o4TlUyeXRxNXgzUlJmQWJjczBsWi1WZ0VMSnJ3djNsRmpxOGFDUFBIVDRPU1NBbE44dng?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_krakow_shooting"
+  },
+  {
     "id": "auto-50532",
     "headline": {
       "ja": "ゼレンスキー大統領、ロシアが北朝鮮ミサイル使用と主張",
@@ -163,6 +232,29 @@
     "severity": 4
   },
   {
+    "id": "auto-50196",
+    "headline": {
+      "ja": "イラン軍、対米イスラエル新型兵器導入を示唆",
+      "en": "IRGC spokesperson hints at new weapons if US-Israel attacks resume"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊は、新たな米イスラエル軍事行動が起きた場合、世界を驚かせる新型兵器の導入を明かすと発表した。",
+      "en": "IRGC spokesperson stated Iran would unveil new weapons if military confrontation with US and Israel resumes."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T09:54:39+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86314803/New-surprises-to-be-unveiled-on-battlefield-if-attacks-on-Iran"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_irgc_new_weapons_threat"
+  },
+  {
     "id": "auto-50119",
     "headline": {
       "ja": "パラグアイ大統領が銀行危機で弾劾・軟禁状態に",
@@ -184,6 +276,54 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "paraguay_bank_crisis_impeachment_2026"
+  },
+  {
+    "id": "auto-50202",
+    "headline": {
+      "ja": "イラン、ホルムズ海峡閉鎖を維持",
+      "en": "Iran maintains control over Strait of Hormuz closure"
+    },
+    "summary": {
+      "ja": "イラン軍報道官は、ホルムズ海峡をイランが支配下に置き、米国が条件を受け入れるまで閉鎖を続けると発表した。",
+      "en": "Iran's Army spokesperson declared Iran controls the Strait of Hormuz and will keep it closed until the US accepts Tehran's conditions."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T06:37:23+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86314322/Strait-of-Hormuz-will-stay-closed-until-US-accepts-its-terms"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_hormuz_strait_closure",
+    "severity": 4
+  },
+  {
+    "id": "auto-50229",
+    "headline": {
+      "ja": "イラン、米国無人機2機をカシュム島上空で撃墜",
+      "en": "Iran shoots down 2 U.S. drones over Qeshm Island"
+    },
+    "summary": {
+      "ja": "イラン当局は、カシュム島上空でアメリカの無人機2機を撃墜したと発表した。トランプ前大統領は米国の報復は『小規模』だと述べている。",
+      "en": "Iran reported shooting down 2 U.S. drones over Qeshm Island amid ongoing military tensions, while Trump characterized any U.S. response as 'minor'."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T03:19:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUb0xHUTA1dEJRUVBMa1dXUEhLd3hmU29PS0JZYllaOVBKbUFZbGJBa3pKdEhaeVlCYXVlMEJaTE9iRzFLa2w5ajBVeEdQbjFaS0RsQ19iUHcwOGV2Q2FnRVh0cXRPM242YUViYXpQdlhxOVRvdHZDVzA4VGw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_us_qeshm_drone_shootdown",
+    "severity": 4
   },
   {
     "id": "auto-49225",
@@ -2503,51 +2643,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "qatar_lng_carrier_gulf_strike_2026-11-01"
-  },
-  {
-    "id": "auto-40644",
-    "headline": {
-      "ja": "イラン、英国の諜報機関と軍をテロ組織に指定",
-      "en": "Iran designates MI6 as hostile group, British military as terrorist organizations"
-    },
-    "summary": {
-      "ja": "イラン政府は、英国の情報機関MI6を敵対集団に指定し、英王立海軍と王立空軍をテロ組織と宣言した。英国の行動に対する報復措置。",
-      "en": "Iran designated Britain's MI6 intelligence service as a hostile group and declared the Royal Navy and Royal Air Force as terrorist organizations in retaliation for what Tehran characterizes as hostile actions."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-01T06:31:55+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86308838/Iran-designates-MI6-as-hostile-group-British-navy-and-air"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_uk_escalation_mi6_designation_2026-11-01"
-  },
-  {
-    "id": "auto-40946",
-    "headline": {
-      "ja": "北朝鮮が戦術弾道ミサイル用クラスター弾頭をテスト",
-      "en": "North Korea Tests Tactical Ballistic Missile Cluster Warhead"
-    },
-    "summary": {
-      "ja": "北朝鮮がクラスター弾頭搭載の戦術弾道ミサイルの試験を実施した。",
-      "en": "North Korea conducted a test of tactical ballistic missile with cluster warhead."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-11-01T04:43:13+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTdjM1VySmNpbDJnRmRTVEt1X2U4NUtBZ0NJYnVqVXowM1BWX2xNNjJrQ0dMd1p0dFRRYV9GVDBrSWV4SFN6MFl3cDNfbEM2ajluVkJNOTFIVEFWem9udFUyeGpaNWNfNmVCSHF4LTJvQjRsOTV1RmVOLW91U1BmdTlJMjBYTElQNjVmcjY4U2ZJa3M0RW5aaU9LRFZ1eWJmMVBNNThMRG0zdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "north_korea_cluster_bomb_test_2026-11-01"
   }
 ]
