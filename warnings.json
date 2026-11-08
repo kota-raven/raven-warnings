@@ -1,8 +1,64 @@
 {
-  "generatedAt": "2026-11-07T20:48:55.573Z",
+  "generatedAt": "2026-11-08T00:25:40.550Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 187,
+  "count": 189,
   "warnings": [
+    {
+      "id": "NAVAREA11-260501",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0501",
+      "title": "北太平洋、マーシャル諸島西、海底線回収作業",
+      "publishedAt": "2026-11-08T09:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            159.93333333333334,
+            16.316666666666666
+          ],
+          [
+            158.96666666666667,
+            15.933333333333334
+          ],
+          [
+            158.66666666666666,
+            15.95
+          ],
+          [
+            158.16666666666666,
+            15.866666666666667
+          ],
+          [
+            156.91666666666666,
+            15.416666666666666
+          ],
+          [
+            156.5,
+            15.333333333333334
+          ],
+          [
+            155.83333333333334,
+            15
+          ],
+          [
+            155.06666666666666,
+            14.25
+          ],
+          [
+            154.83333333333334,
+            14.083333333333334
+          ],
+          [
+            154.65,
+            14.05
+          ]
+        ]
+      },
+      "rawText": "NO.26-0501    発表日時:2026年11月08日 09時\r\n\n\r\nNORTH PACIFIC, MARSHALLS.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK, 1008 TONS, 080800Z NOV TO\r\r\nUNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n16-19N 159-56E 15-56N 158-58E\r\r\n15-57N 158-40E 15-52N 158-10E\r\r\n15-25N 156-55E 15-20N 156-30E\r\r\n15-00N 155-50E 14-15N 155-04E\r\r\n14-05N 154-50E 14-03N 154-39E.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260501&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260500",
       "type": "NAVAREA11",
@@ -298,6 +354,86 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264408",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4408",
+      "title": "北太平洋東部、海底線作業",
+      "publishedAt": "2026-11-08T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4408   発表日時:2026年11月08日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nM/V GRACEによる海底線作業、11月9日0200Zまで、\r\r\n36-02.61N 123-23.94W 36-05.58N 123-27.77W\r\r\n36-25.44N 123-50.45W 36-26.39N 123-51.54W\r\r\nを結ぶ線上付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264408&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264407",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4407",
+      "title": "北太平洋、マーシャル諸島西、海底線回収作業",
+      "publishedAt": "2026-11-08T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            159.93333333333334,
+            16.316666666666666
+          ],
+          [
+            158.96666666666667,
+            15.933333333333334
+          ],
+          [
+            158.66666666666666,
+            15.95
+          ],
+          [
+            158.16666666666666,
+            15.866666666666667
+          ],
+          [
+            156.91666666666666,
+            15.416666666666666
+          ],
+          [
+            156.5,
+            15.333333333333334
+          ],
+          [
+            155.83333333333334,
+            15
+          ],
+          [
+            155.06666666666666,
+            14.25
+          ],
+          [
+            154.83333333333334,
+            14.083333333333334
+          ],
+          [
+            154.65,
+            14.05
+          ]
+        ]
+      },
+      "rawText": "番号:26-4407   発表日時:2026年11月08日 08時\r\n\n\r\n北太平洋、マーシャル諸島西、\r\r\nM/V ANIEK(1008トン)による海底線回収作業、11月8日-当分の間、\r\r\n16-19N 159-56E 15-56N 158-58E\r\r\n15-57N 158-40E 15-52N 158-10E\r\r\n15-25N 156-55E 15-20N 156-30E\r\r\n15-00N 155-50E 14-15N 155-04E\r\r\n14-05N 154-50E 14-03N 154-39Eを結ぶ線上付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264407&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264406",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4406",
+      "title": "塩屋埼東南東、射撃終了",
+      "publishedAt": "2026-11-08T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4406   発表日時:2026年11月08日 08時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃終了。\r\r\n(4325削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264406&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264405",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -506,18 +642,6 @@
       "geometry": null,
       "rawText": "番号:26-4394   発表日時:2026年11月07日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n飛しょう体発射、11月11日0430Z-0630Z、\r\r\n0830Z-1030Z、21-32.08N 087-09.90E\r\r\n21-03.43N 087-39.50E 20-40.23N 087-14.52E\r\r\n20-59.60N 086-54.03Eを結ぶ線及び陸岸で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264394&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264393",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "4393",
-      "title": "南太平洋、ペルー、灯台運用不能情報削除",
-      "publishedAt": "2026-11-07T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4393   発表日時:2026年11月07日 08時\r\n\n\r\n南太平洋、ペルー、\r\r\nMANCORA灯台運用不能情報削除。\r\r\n(4026削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264393&LANG=JP"
     },
     {
       "id": "JAPANNW-264392",
@@ -1770,18 +1894,6 @@
       },
       "rawText": "番号:26-4327   発表日時:2026年11月02日 20時\r\n\n\r\n南シナ海北部、\r\r\n射撃、11月6日(予備13日)2300Z-翌日1400Z、\r\r\n10-25-10N 114-18-34E 10-25-17N 114-25-48E\r\r\n10-20-57N 114-26-05E 10-20-12N 114-18-34E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264327&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264325",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4325",
-      "title": "塩屋埼東南東、射撃",
-      "publishedAt": "2026-11-02T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4325   発表日時:2026年11月02日 20時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃、11月7日(予備8日)0830-2400、36-55.8N\r\r\n141-17.0Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264325&LANG=JP"
     },
     {
       "id": "JAPANNW-264322",
@@ -3226,6 +3338,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262137",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2137",
+      "title": "塩屋埼東南東、射撃終了",
+      "publishedAt": "2026-11-08T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2137    発表日時:2026年11月08日 09時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃終了。\r\r\n(2096削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262137&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262136",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3626,18 +3750,6 @@
       "geometry": null,
       "rawText": "番号:26-2100    発表日時:2026年11月04日 13時\r\n\n\r\n佐渡島北東、\r\r\n射撃、11月9日(予備日12日)0900-2400、\r\r\n38-22.0N 138-52.2Eを中心とする半径5海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262100&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262096",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2096",
-      "title": "塩屋埼東南東、射撃",
-      "publishedAt": "2026-11-02T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2096    発表日時:2026年11月02日 13時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃、11月7日(予備8日)0830-2400、\r\r\n36-55.8N 141-17.0Eを中心とする\r\r\n半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262096&LANG=JP"
     },
     {
       "id": "NAVTEX-262084",
