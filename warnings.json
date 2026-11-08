@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T00:25:40.550Z",
+  "generatedAt": "2026-11-08T07:11:52.007Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 189,
+  "count": 190,
   "warnings": [
     {
       "id": "NAVAREA11-260501",
@@ -3338,16 +3338,46 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-262137",
+      "id": "NAVTEX-262140",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "2140",
+      "title": "瀬戸内海、阪神港−新居浜港、台船えい航",
+      "publishedAt": "2026-11-08T15:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          134.25,
+          34.4
+        ]
+      },
+      "rawText": "番号:26-2140    発表日時:2026年11月08日 15時\r\n\n\r\n備讃瀬戸航路東口-新居浜港、\r\r\nえい船(むろつ丸、MMSI 431003663)\r\r\n台船(神-25000-2、長さ120メートル)えい航、\r\r\n備讃瀬戸東航路東口(34-24N 134-15E)\r\r\n11月8日1900通過予定、新居浜港付近9日0630到着予\r\r\n定、速力約5ノット、長さ約220メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262140&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262139",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
       "category": "訓練試験",
-      "number": "2137",
-      "title": "塩屋埼東南東、射撃終了",
-      "publishedAt": "2026-11-08T09:00:00+09:00",
+      "number": "2139",
+      "title": "石垣島北、射撃",
+      "publishedAt": "2026-11-08T13:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-2137    発表日時:2026年11月08日 09時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃終了。\r\r\n(2096削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262137&LANG=JP"
+      "rawText": "番号:26-2139    発表日時:2026年11月08日 13時\r\n\n\r\n石垣島北、\r\r\n射撃、11月13日0800-2400、24-49.3N \r\r\n124-10.2Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262139&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262138",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "2138",
+      "title": "秋田船川港、船川区、荒天に伴う錨泊自粛の勧告解除",
+      "publishedAt": "2026-11-08T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2138    発表日時:2026年11月08日 13時\r\n\n\r\n秋田船川港、船川区、\r\r\n錨泊自粛解除。\r\r\n(2117削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262138&LANG=JP"
     },
     {
       "id": "NAVTEX-262136",
@@ -3604,18 +3634,6 @@
       "geometry": null,
       "rawText": "番号:26-2119    発表日時:2026年11月06日 09時\r\n\n\r\n酒田港、\r\r\n荒天のため対象船舶に対し錨泊自粛の勧告、解除発表までの間、\r\r\n詳細は酒田港長に問い合わせられたい。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262119&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262117",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "制限禁止",
-      "number": "2117",
-      "title": "秋田船川港、船川区、荒天に伴う錨泊自粛の勧告",
-      "publishedAt": "2026-11-05T18:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2117    発表日時:2026年11月05日 18時\r\n\n\r\n秋田船川港、船川区、\r\r\n荒天のため対象船舶に対し錨泊自粛の勧告、解除発表までの間、\r\r\n詳細は秋田船川港長に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262117&LANG=JP"
     },
     {
       "id": "NAVTEX-262115",
