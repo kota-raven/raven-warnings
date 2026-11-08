@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-05-04",
-    "headline": {
-      "ja": "米国株式市場、中間選挙後に大幅続伸 ダウ3.03%上昇、原油価格は急落",
-      "en": "US stocks extend post-election rally; Dow jumps 3.03% as oil prices tumble"
-    },
-    "summary": {
-      "ja": "11月4日の米株式市場で、ダウ工業株30種平均は前日比1,569.40ポイント(3.03%)高の53,356.12で終了し、2025年4月9日以来の大幅な上昇率になったという。S&P500種は前日比1.58%高の7,688.62、ナスダック総合指数も1.44%高で終えたという(CNBC・TheStreet・CBS News)。中間選挙で民主党が上下両院の過半数を獲得したとの報道(既報id: 2026-11-04-03)を受け、議会の機能が停滞し大規模な税制・財政法案が通りにくくなるとの見方を投資家が好感したとみられるという。同日、原油価格も大幅に下落したと複数メディアが報じている。推測:株価上昇の主因は選挙結果に加え、原油安や金利観測など複数の要因が重なった可能性がある。[信頼性: 高](CNBC・TheStreet・CBS Newsなど独立した複数の主要メディアが同一の終値・変動率を報じている)",
-      "en": "In US trading on November 4, the Dow Jones Industrial Average closed up 1,569.40 points (3.03%) at 53,356.12, its biggest one-day gain since April 9, 2025, according to CNBC, TheStreet and CBS News. The S&P 500 closed up 1.58% at 7,688.62 and the Nasdaq Composite rose 1.44%. The rally followed reports that Democrats had won control of both the House and Senate in the midterm elections (previously reported id: 2026-11-04-03), with investors reportedly welcoming the prospect of a more gridlocked Congress less likely to pass major tax and spending legislation. Oil prices also fell sharply the same day, multiple outlets reported. Inference: the rally's drivers likely combine the election outcome with falling oil prices and shifting rate expectations. [Reliability: High] (Multiple independent major outlets, including CNBC, TheStreet and CBS News, report matching closing figures and percentage moves.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-04T21:00:00+00:00",
-    "source": {
-      "name": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-06-01",
     "headline": {
       "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者43人に増加 行方不明者1人の生存確認",
@@ -43,27 +22,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-06-03",
-    "headline": {
-      "ja": "金価格、1オンス=4,135ドル前後に上昇 ドルは中間選挙後に約1カ月ぶりの安値",
-      "en": "Gold rises to around $4,135/oz as dollar hits roughly one-month low after US midterms"
-    },
-    "summary": {
-      "ja": "経済ニュースサイトFinanceFeeds(11月5日付)によると、11月6日発表予定の10月米雇用統計を翌日に控えた11月5日(木)、スポット金価格は1オンス=4,135ドル前後まで上昇したという。米ドルは、11月3日の中間選挙で民主党が上下両院を制したとの報道(既報id: 2026-11-04-03)を受けて約1カ月ぶりの安値まで下落したとされ、これが金価格を支える一因になっているという。同記事は短期的な値動きの目安として、強気シナリオで4,225ドル、弱気シナリオで4,000ドルという水準を挙げているという。個別銘柄や金そのものへの投資判断としてではなく、米国市場全体・ドル動向の出来事として採用した。推測:金価格上昇の主因が選挙結果によるドル安か、他の要因(金利観測等)によるものかについては複数の解釈があり、本稿執筆時点で確定していない。[信頼性: 中](FinanceFeedsという専門金融メディア単独の報道に基づくもので、本稿執筆時点で他の主要メディアによる独立した裏付けは確認できていない)",
-      "en": "According to financial news site FinanceFeeds (dated November 5), spot gold rose to around $4,135 an ounce on Thursday, November 5 -- the day before the October US jobs report due November 6. The US dollar reportedly fell to roughly a one-month low following reports that Democrats won control of both the House and Senate in the November 3 midterms (previously reported id: 2026-11-04-03), which is said to be helping support gold prices. The same report cites near-term scenario levels of $4,225 (bullish) and $4,000 (bearish). Treated here as a development in the broader US market and dollar, not as guidance for investing in gold or any individual security. Inference: whether the main driver of gold's rise is dollar weakness tied to the election outcome or other factors (e.g. rate expectations) remains open to interpretation and was not settled at the time of writing. [Reliability: Medium] (Based solely on a report from FinanceFeeds, a specialized financial outlet; no independent corroboration from another major outlet was found at the time of writing.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-05T00:00:00+00:00",
-    "source": {
-      "name": "FinanceFeeds",
-      "url": "https://financefeeds.com/gold-price-today-4135-thursday-before-6-november-jobs-report-dollar-near-one-month-low-bull-4225-bear-4000/"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-06-04",
     "headline": {
       "ja": "日経平均がベア相場入り AIチップ関連株急落、韓国コスピも6%超急落",
@@ -81,27 +39,6 @@
     "source": {
       "name": "Vantage Markets / CNBC",
       "url": "https://vantagemarkets.com/market-analysis/why-nikkei-225-fell-ai-chip-stocks-jp225-analysis-november-5-2026"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-06-06",
-    "headline": {
-      "ja": "ガザ、停戦下でも空爆続く 11月5日に子供含む4人死亡、停戦後の死者は累計1,602人との集計",
-      "en": "Israeli Strikes Continue in Gaza Despite Ceasefire; 4 Killed Including a Child on Nov. 5, Cumulative Toll Since Truce Reaches 1,602"
-    },
-    "summary": {
-      "ja": "アルジャジーラの報道によると、2026年11月5日、ガザ中部・南部へのイスラエル軍の攻撃で子供1人を含む4人のパレスチナ人が死亡したという。ガザの衛生当局の集計では、2025年10月11日の停戦発効以降の死者は累計1,602人、負傷者は5,794人に達しているとされ、ガザの政府系メディア局は停戦開始以降のイスラエルによる違反を5,989件と主張しているという。推測:これらの死者数・違反件数はハマスが統治するガザ側(衛生当局・メディア局)の集計に基づくものであり、本検索範囲ではイスラエル側の見解・反論は確認できていない。[信頼性: 中](アルジャジーラ等の報道機関を通じた報道だが、集計主体はガザ側当局)",
-      "en": "According to Al Jazeera, Israeli attacks on central and southern Gaza killed four Palestinians, including a child, on November 5, 2026. Gaza's health authorities say the cumulative death toll since the ceasefire took effect on October 11, 2025 has reached 1,602, with 5,794 wounded, and Gaza's government media office claims Israel has committed 5,989 ceasefire violations since the truce began. Inference: these casualty and violation figures come from Hamas-run Gaza authorities (health ministry and media office), and no Israeli government response or rebuttal was found within this search. [Reliability: Medium] (Reported via media outlets such as Al Jazeera, but the underlying tallies originate from Gaza-side authorities.)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.9522,
-    "lon": 35.2332,
-    "occurredAt": "2026-11-05T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza"
     },
     "reliability": "medium"
   },
