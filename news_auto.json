@@ -746,6 +746,29 @@
     "severity": 4
   },
   {
+    "id": "auto-51150",
+    "headline": {
+      "ja": "サウジ連合、フーシ支配地域の136軍事目標を破壊と発表",
+      "en": "Coalition: 136 Military Targets Destroyed in Houthi-Controlled Areas"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合は、イエメンのテロ組織フーシ民兵支配地域の136の軍事目標を破壊したと発表。",
+      "en": "The Saudi-led coalition announced the destruction of 136 military targets in areas controlled by the Houthi terrorist militia in Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-07T14:15:58+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vQUlia2o5ak9yNzNiSndyV0hieFRlbHRLbmI5UUprOHVBTVVSNTZFXzBjbTBlZXYzZ01sUWd1Wkdhd0tPeUl0NFBn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_coalition_airstrikes_houthis_2026-11"
+  },
+  {
     "id": "auto-50983",
     "headline": {
       "ja": "ガザの障害児兄弟、初めて車いすで日常生活へ",
