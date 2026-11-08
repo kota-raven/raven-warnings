@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T15:00:56.877Z",
+  "generatedAt": "2026-11-08T19:31:09.564Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 184,
+  "count": 181,
   "warnings": [
     {
       "id": "NAVAREA11-260501",
@@ -1682,18 +1682,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264349&LANG=JP"
     },
     {
-      "id": "JAPANNW-264347",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4347",
-      "title": "オーストラリア南岸、宇宙ゴミ落下",
-      "publishedAt": "2026-11-04T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4347   発表日時:2026年11月04日 08時\r\n\n\r\n★ オーストラリア南岸、\r\r\n宇宙ゴミ落下、11月4日-8日毎日1100Z-1400Z、\r\r\n31-59.46S 132-50.86E 32-10.45S 133-35.98E\r\r\n33-06.72S 133-35.98E 33-10.31S 133-12.29E\r\r\nで囲まれる海面。\r\r\n(4256削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264347&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264346",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2000,42 +1988,6 @@
       "geometry": null,
       "rawText": "番号:26-4320   発表日時:2026年11月01日 11時\r\n\n\r\nシンガポール海峡、\r\r\nBATU BERHANTI孤立障害灯浮標(01-11.76N\r\r\n103-52.51E)消灯。\r\r\n(2421削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264320&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264308",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4308",
-      "title": "済州島南西、射撃",
-      "publishedAt": "2026-10-30T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          125.81666666666666,
-          32.983333333333334
-        ]
-      },
-      "rawText": "番号:26-4308   発表日時:2026年10月30日 20時\r\n\n\r\n★ 朝鮮半島南岸、済州島南西、\r\r\n射撃、11月2日-5日毎日0000Z-1100Z、6日0400Z-1100Z、\r\r\n7日、8日毎日0100Z-1100Z、32-59N 125-49E\r\r\nを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264308&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264300",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4300",
-      "title": "鬱陵島東（Ｄ−１４１）、射撃",
-      "publishedAt": "2026-10-30T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          131.2,
-          37.668055555555554
-        ]
-      },
-      "rawText": "番号:26-4300   発表日時:2026年10月30日 20時\r\n\n\r\n★ 朝鮮半島東岸、鬱陵島東、\r\r\n射撃、11月1日2100Z-翌日1459Z、3日、4日、7日、8日0000Z-\r\r\n1400Z、5日0000Z-1400Z、2100Z-翌日1400Z、\r\r\n37-30-05N 37-40-05N 131-12-00E 131-25-00E\r\r\nの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264300&LANG=JP"
     },
     {
       "id": "JAPANNW-264278",
