@@ -213,5 +213,27 @@
       "url": "https://watchers.news/2026/11/06/kilauea-episode-56-ends-abruptly-after-nearly-6-hours-of-lava-fountaining-hawaii/"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-09-01",
+    "headline": {
+      "ja": "イラン革命防衛隊、弾道ミサイル射程の自主的上限「解除」を発表 最高指導者の反撃発言直後",
+      "en": "Iran's IRGC says it has lifted self-imposed cap on missile range, days after supreme leader's warning"
+    },
+    "summary": {
+      "ja": "AP通信(ABC News・WRAL・Daily Journal・Arab News等複数媒体に配信)やThe Times of Israelが11月7日に報じたところによると、イラン革命防衛隊(IRGC)報道官モヘッビ氏はテヘランでの記者会見で、イランが自ら課していた弾道ミサイル射程2,000kmの上限について「(我々にとって)その制約は解除された」と述べたという。実際にその上限を超える能力を持つミサイルを保有しているかは明言せず、「声明ではなく実際の行動で能力を示す」と述べたという。この発言は、イラン最高指導者モジュタバ・ホメイニ氏による「米国・イスラエルからのいかなる種類・レベルの脅威にも、地理的限界のない反撃を行う」との声明の数日後に出されたもので、既報(id: 2026-11-07-03、イラン・ゲシュム島への米軍の「軽微な」攻撃とイラン側の反撃警告)と直接関連する、イラン側のその後の軍事的姿勢表明だという。報道によれば射程2,000kmはギリシャ・バルカン半島の一部、アラビア半島全域、レバント地方、エジプトの大部分を含む距離とされる。推測:今回の発表が実際の新型ミサイル実戦配備・試射を意味するかは本稿執筆時点で確認できていない。[信頼性: 高](AP通信を複数の独立媒体が配信し、The Times of Israelも同様の内容を独自に報道)",
+      "en": "According to an AP wire story (carried by ABC News, WRAL, Daily Journal, Arab News and others) and The Times of Israel, published November 7, IRGC spokesman Gen. Hossein Mohebbi told a press conference in Tehran that Iran's self-imposed 2,000km cap on ballistic missile range 'has been lifted for us.' He did not say whether Iran currently has missiles exceeding that range, saying Iran would 'demonstrate these capabilities in practice' rather than through statements. The remarks came days after a statement attributed to Iran's supreme leader, Mojtaba Khomeini, that any threat from the US or Israel would face a response 'without geographic limits.' This follows and is directly linked to the already-reported 'minor' US strike on Iran's Qeshm Island and Iran's warning of retaliation (id: 2026-11-07-03). Reports note the 2,000km range would cover parts of Greece and the Balkans, the entire Arabian Peninsula, the Levant, and most of Egypt. Speculation: it is not yet confirmed whether this announcement reflects an actual new missile deployment or test. [Reliability: High] (AP wire carried by multiple independent outlets, corroborated independently by The Times of Israel)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "source": {
+      "name": "AP通信 / The Times of Israel",
+      "url": "https://www.wral.com/news/ap/c2675-iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
