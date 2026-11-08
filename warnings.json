@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:31:09.564Z",
+  "generatedAt": "2026-11-08T23:38:54.277Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 181,
   "warnings": [
@@ -354,6 +354,94 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264413",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "航路標識",
+      "number": "4413",
+      "title": "シンガポール海峡、孤立障害灯浮標復旧",
+      "publishedAt": "2026-11-09T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4413   発表日時:2026年11月09日 08時\r\n\n\r\nシンガポール海峡、\r\r\nBATU BERHANTI孤立障害灯浮標復旧。\r\r\n(4320削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264413&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264412",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4412",
+      "title": "ニュージーランド東、宇宙ゴミ落下",
+      "publishedAt": "2026-11-09T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -177.3,
+            -39.25
+          ],
+          [
+            -171.9,
+            -39.9
+          ],
+          [
+            -172.2,
+            -41.7
+          ],
+          [
+            -177.75,
+            -41
+          ]
+        ]
+      },
+      "rawText": "番号:26-4412   発表日時:2026年11月09日 08時\r\n\n\r\n★ ニュージーランド東、\r\r\n宇宙ゴミ落下、11月13日-26日毎日2215Z-0700Z、\r\r\n39-15S 177-18W 39-54S 171-54W\r\r\n41-42S 172-12W 41-00S 177-45Wで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264412&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264411",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4411",
+      "title": "南太平洋東部、宇宙ゴミ落下",
+      "publishedAt": "2026-11-09T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -122.73333333333333,
+            -27.983333333333334
+          ],
+          [
+            -120.71666666666667,
+            -27.15
+          ],
+          [
+            -115.06666666666666,
+            -38.35
+          ],
+          [
+            -107.36666666666666,
+            -49.15
+          ],
+          [
+            -95.56666666666666,
+            -59.15
+          ],
+          [
+            -99.08333333333333,
+            -59.96666666666667
+          ],
+          [
+            -114.21666666666667,
+            -44.56666666666667
+          ]
+        ]
+      },
+      "rawText": "番号:26-4411   発表日時:2026年11月09日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下、11月13日-19日毎日0447Z-1048Z、\r\r\n27-59S 122-44W 27-09S 120-43W\r\r\n38-21S 115-04W 49-09S 107-22W\r\r\n59-09S 095-34W 59-58S 099-05W\r\r\n44-34S 114-13Wで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264411&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264410",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -568,18 +656,6 @@
       "geometry": null,
       "rawText": "番号:26-4405   発表日時:2026年11月08日 01時\r\n\n\r\n北太平洋北西部、\r\r\nコンテナ多数漂流、11月6日、38-30.0N 168-56.7Eから\r\r\n38-49.6N 165-46.1E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264405&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264404",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "自然現象",
-      "number": "4404",
-      "title": "静岡県西部、地震発生",
-      "publishedAt": "2026-11-08T01:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4404   発表日時:2026年11月08日 01時\r\n\n\r\n地震発生情報、\r\r\n愛知県西部、静岡県西部、愛知県東部、\r\r\n11月8日0104、震度5弱以上(最大震度5強)の地震発生、\r\r\n危険な漂流物、水深変化、港湾施設又は航路標識破損の\r\r\nおそれあり。船舶は注意されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264404&LANG=JP"
     },
     {
       "id": "JAPANNW-264399",
@@ -1978,18 +2054,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264322&LANG=JP"
     },
     {
-      "id": "JAPANNW-264320",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "4320",
-      "title": "シンガポール海峡、孤立障害灯浮標消灯",
-      "publishedAt": "2026-11-01T11:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4320   発表日時:2026年11月01日 11時\r\n\n\r\nシンガポール海峡、\r\r\nBATU BERHANTI孤立障害灯浮標(01-11.76N\r\r\n103-52.51E)消灯。\r\r\n(2421削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264320&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264278",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -3384,18 +3448,6 @@
       "geometry": null,
       "rawText": "番号:26-2138    発表日時:2026年11月08日 13時\r\n\n\r\n秋田船川港、船川区、\r\r\n錨泊自粛解除。\r\r\n(2117削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262138&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262136",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "自然現象",
-      "number": "2136",
-      "title": "静岡県西部、地震発生",
-      "publishedAt": "2026-11-08T01:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2136    発表日時:2026年11月08日 01時\r\n\n\r\n地震発生情報、\r\r\n愛知県西部、静岡県西部、愛知県東部、\r\r\n11月8日0104、震度5弱以上(最大震度5強)の地震発生、\r\r\n危険な漂流物、水深変化、港湾施設又は航路標識破損の\r\r\nおそれあり。船舶は注意されたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262136&LANG=JP"
     },
     {
       "id": "NAVTEX-262133",
