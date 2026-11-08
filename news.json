@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-06-09",
-    "headline": {
-      "ja": "トランプ氏、プーチン特使と会談 ウクライナ和平「近い」と発言",
-      "en": "Trump says Russia-Ukraine deal 'near' after meeting Putin's envoy Dmitriev"
-    },
-    "summary": {
-      "ja": "アルジャジーラ等によると、トランプ米大統領は11月5日、ホワイトハウスでプーチン露大統領の特使キリル・ドミトリエフ氏と非公開で会談し、ロシア・ウクライナ間の合意が近く、その内容は「欧州全体」に及ぶ可能性があるとの見通しを記者団に示したという。会談の具体的内容は明らかにされておらず、同日ウクライナ代表団との会合は行っていないという。米国の仲介団は11月10〜11日にアブダビで露・ウクライナ間の3者協議を予定しているとされる。推測:トランプ氏はこれまでも合意が近いとの見通しを繰り返し示してきており、実現時期は不確実との指摘がある。",
-      "en": "According to Al Jazeera, US President Trump met privately with Russian presidential envoy Kirill Dmitriev at the White House on November 5 and told reporters a Russia-Ukraine deal was close, possibly extending to 'all of Europe.' He did not disclose details and did not meet the Ukrainian delegation that day. A US-mediated trilateral session between Russia and Ukraine is reportedly planned in Abu Dhabi on November 10-11. Speculation: Trump has repeatedly predicted an imminent deal before, so the timeline remains uncertain."
-    },
-    "category": "conflict",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-05T19:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-06-10",
     "headline": {
       "ja": "米国株急落、ナスダックが修正相場入り AI・半導体株売り安中間選挙後の続伸分を帳消し",
