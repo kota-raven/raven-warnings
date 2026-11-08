@@ -22,27 +22,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-06-04",
-    "headline": {
-      "ja": "日経平均がベア相場入り AIチップ関連株急落、韓国コスピも6%超急落",
-      "en": "Nikkei 225 Enters Bear-Market Territory as AI Chip Stocks Slide; Kospi Plunges Over 6%"
-    },
-    "summary": {
-      "ja": "複数の経済メディアの報道によると、2026年11月5日、東京市場で日経平均株価はアドバンテストなど主力AI半導体関連株の急落を受けて前日比2.22%安の60,808.68で取引を終えたという(Vantage Markets)。CNBCの報道によると、この下落により日経平均は6月につけた直近高値から20%超下落し、「ベア相場(bear market)」入りしたとされ、同日は韓国のコスピ指数も6%超下落してアジア市場で最大の下落率になったという。個別銘柄への投資判断としてではなく、日本・アジア市場全体の動向として採用した。推測:下落率の具体的な数値は報道間で若干の相違があり(CNBCは当日の下落率を5.9%と報じている一方、Vantage Marketsは2.22%安と報じている)、どちらが正確かは本稿執筆時点で確定していない。[信頼性: 中](複数メディアの報道に基づくが、下落率等の数値に相違がある)",
-      "en": "According to multiple financial outlets, Japan's Nikkei 225 closed 2.22% lower at 60,808.68 on November 5, 2026, dragged down by a sharp slide in major AI-chip-related stocks such as Advantest (Vantage Markets). CNBC reported that the drop put the Nikkei more than 20% below its June peak, pushing it into \"bear market\" territory, and that South Korea's Kospi fell more than 6% the same day, the biggest decline in the region. Treated here as a development in the broader Japanese/Asian market, not as guidance for any individual stock. Inference: the exact size of the decline differs between reports (CNBC cited a 5.9% drop that day, while Vantage Markets reported a 2.22% fall), and which figure is accurate had not been settled at the time of writing. [Reliability: Medium] (Based on multiple media reports, though the specific percentage figures differ between them.)"
-    },
-    "category": "economy",
-    "country": "日本",
-    "lat": 36.2048,
-    "lon": 138.2529,
-    "occurredAt": "2026-11-05T06:00:00+00:00",
-    "source": {
-      "name": "Vantage Markets / CNBC",
-      "url": "https://vantagemarkets.com/market-analysis/why-nikkei-225-fell-ai-chip-stocks-jp225-analysis-november-5-2026"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-06-08",
     "headline": {
       "ja": "欧州各国の旅客機に爆破予告が相次ぐ 戦闘機が複数機を護衛・空港へ誘導",
