@@ -46,6 +46,29 @@
     "eventKey": "japan_earthquake_central_2026-11-08"
   },
   {
+    "id": "auto-51056",
+    "headline": {
+      "ja": "エジプト・ギザで列車脱線",
+      "en": "Train derails in Egypt's Giza governorate"
+    },
+    "summary": {
+      "ja": "エジプト・ギザ県で列車が脱線。詳細な被害状況は未明。",
+      "en": "A train derailed in Egypt's Giza governorate. Details of casualties and damage are still unclear."
+    },
+    "category": "disaster",
+    "country": "エジプト",
+    "lat": 30.0094,
+    "lon": 31.2086,
+    "occurredAt": "2026-11-08T12:33:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzZxT3BkdFNldTZDY0lacWs3OE5vV05iZ0lJVTJDNUVmMmhTRHpzNno5dXZDZW05M0F6YjNYbjdZUlBQR0txUWx3S3BSWkFHLThUalhNWXBHd0JmRG5NLXpaQnVubDdMWmV0ZG5DUUxESEZuaDE0WVJheTdqRk9SbFRyeU83QQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "egypt_giza_train_derail_2026-11"
+  },
+  {
     "id": "auto-51232",
     "headline": {
       "ja": "サウジ主導有志連合、リヤド周辺でドローン1機とミサイル4発を迎撃と発表",
@@ -67,6 +90,76 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_coalition_intercept_2026-11-08"
+  },
+  {
+    "id": "auto-50985",
+    "headline": {
+      "ja": "ホルムズ海峡で3隻のタンカーが機雷で火災",
+      "en": "Three oil tankers catch fire after hitting naval mines in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊海軍は、ホルムズ海峡で許可されていない航路を通過しようとした3隻のタンカーが機雷に接触して火災を起こしたと発表。地域の海上安全に重大な影響。",
+      "en": "Iran's IRGC Navy announced that three tankers caught fire after hitting mines in the Strait of Hormuz while attempting unauthorized routes, posing significant risks to regional maritime security."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-08T11:31:42+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86315927/Three-offending-oil-tankers-catch-fire-after-hitting-naval-mines"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "strait_hormuz_tanker_mines_2026-11-08",
+    "severity": 4
+  },
+  {
+    "id": "auto-50986",
+    "headline": {
+      "ja": "ハマス、イスラエルのガザ危機悪化を非難",
+      "en": "Hamas accuses Israeli regime of deepening Gaza humanitarian crisis"
+    },
+    "summary": {
+      "ja": "パレスチナ・イスラム抵抗運動(ハマス)は、イスラエル政権がガザ地区の人道的カタストロフを意図的に悪化させていると非難。Peace Board がその責任を負うべきと主張。",
+      "en": "Hamas stated that the Israeli regime is deliberately worsening the humanitarian catastrophe in Gaza, accusing the Peace Board of responsibility for continued violations."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-08T10:38:21+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86315746/Israeli-regime-deepening-Gaza-crisis-Hamas"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_humanitarian_crisis_hamas_2026-11"
+  },
+  {
+    "id": "auto-51014",
+    "headline": {
+      "ja": "アフガニスタン西部で乗用車転覆、5人死亡",
+      "en": "Passenger vehicle overturns in western Afghanistan, 5 killed and 16 injured"
+    },
+    "summary": {
+      "ja": "アフガニスタン西部で乗用車が転覆し、5人が死亡、16人が負傷。詳細な事故原因は不明。",
+      "en": "A passenger vehicle overturned in western Afghanistan, resulting in 5 deaths and 16 injuries. Cause of the accident remains unclear."
+    },
+    "category": "disaster",
+    "country": "アフガニスタン",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "occurredAt": "2026-11-08T10:22:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlpzN1lyWi1KM2xxNWREQ0x4TmJhY29vRmdMQWFFV0tocGlWa2JMb1VxRnNtSzJxSmV2cXl1d0dvckJkQ0lpMC0yNV9KLTRHaEZCd0lMUVVNX1lMX19JOUJkcndNVWZkWDVfVVZuQ3BvNDFleW02dmR3aVk4a2xJRk9qVWNqQUlOS0pRSA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "afghanistan_vehicle_accident_west_2026-11"
   },
   {
     "id": "auto-50205",
@@ -115,6 +208,54 @@
     "eventKey": "taiwan_png_diplomatic_closure"
   },
   {
+    "id": "auto-50835",
+    "headline": {
+      "ja": "米軍、オマーン湾の商船を無効化と発表",
+      "en": "US Armed Forces disabled merchant vessel in Gulf of Oman"
+    },
+    "summary": {
+      "ja": "米国中央司令部は、オマーン湾での商船無効化作戦を発表。地域の海上安全と輸送路確保に関連。",
+      "en": "US CENTCOM announced the disabling of a merchant vessel in the Gulf of Oman, relating to regional maritime security and freedom of navigation operations."
+    },
+    "category": "conflict",
+    "country": "オマーン",
+    "lat": 23.5841,
+    "lon": 58.4078,
+    "occurredAt": "2026-11-08T09:17:39+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lVlk0RFAyNjhaanN0ZVhVR1V0ZjZSekZNSUtJY05MS0ljYlRFQjV1dWRtNjhPM3ktS3NuNFd6eEJHVzhP0gFKQVVfeXFMUGtpWndtTmRwVXlSNEZESmFTNWgyNzlIdlhfZ3c0aTJFWmNURy1vVEtYX2wydGhQX1JoOFpEbjFqRWY0WUpEc1pqV0E?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_gulf_oman_merchant_ship_2026-11-08",
+    "severity": 4
+  },
+  {
+    "id": "auto-51022",
+    "headline": {
+      "ja": "セネガル北西沖で移民ボート沈没、21人死亡",
+      "en": "Migrant boat sank off northwestern Senegal, 21 killed"
+    },
+    "summary": {
+      "ja": "セネガル北西沖で移民を乗せたボートが沈没し、21人が死亡。西アフリカでの海難事故による人的被害。",
+      "en": "A migrant boat sank off the coast of northwestern Senegal, resulting in 21 deaths. Major maritime tragedy in West Africa."
+    },
+    "category": "disaster",
+    "country": "セネガル",
+    "lat": 14.6937,
+    "lon": -17.4441,
+    "occurredAt": "2026-11-08T09:15:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWNnelVxWUVDbTZkSFdhejc3eFMybk4xeGJuQWhWOTM1UHJNRWdUdjFQZU0zWW9hcWt5X2t6VHFhMllJc29mWWtuVXZSSi1tdVB0aEdwZ0Z5cFBicFBLSXp2YzNCRHdtdUd4S3hNcER3TFlRMWI4YWhjeHVsbGRFdDJrLTBPZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "senegal_migrant_boat_sinking_2026-11",
+    "severity": 4
+  },
+  {
     "id": "auto-50880",
     "headline": {
       "ja": "サウジアラビア「リヤドﾑ近郊で2発のミサイルを破壊」",
@@ -136,6 +277,53 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_riyadh_missile_defense_2026-11-08"
+  },
+  {
+    "id": "auto-50994",
+    "headline": {
+      "ja": "ホルムズ海峡でタンカー2隻爆発",
+      "en": "IRGC Navy reports explosions on two tankers in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊海軍は、ホルムズ海峡で2隻のタンカーが爆発により火災を起こしたと報告。地域の海上安全が急速に悪化。",
+      "en": "Iran's IRGC Navy reported that two oil tankers caught fire following explosions in the Strait of Hormuz early Sunday, indicating deteriorating maritime security in the region."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-08T06:06:15+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86315378/IRGC-navy-reports-explosions-on-two-tankers-in-Strait-of-Hormuz"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "strait_hormuz_tanker_explosions_2026-11-08",
+    "severity": 4
+  },
+  {
+    "id": "auto-51067",
+    "headline": {
+      "ja": "アフガニスタン東部で高速道路衝突、7人死亡",
+      "en": "Highway collision kills 7 in eastern Afghanistan"
+    },
+    "summary": {
+      "ja": "アフガニスタン東部で高速道路での衝突事故が発生し、7人が死亡、2人が負傷。",
+      "en": "A highway collision in eastern Afghanistan resulted in 7 deaths and 2 injuries."
+    },
+    "category": "disaster",
+    "country": "アフガニスタン",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "occurredAt": "2026-11-08T05:39:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUFhT2FFZ3BIOXozMTIxeUNWZXhkcFBUUlRNb0pNNzl4UjIyWHkwLURzR1RlVGtaVXpWeWNZRGZwM0NHcGxJWlA3eUFCTnVGb01lSGY4cWFmSmV3VFVuMzEzN1hXOUN6OWRmd2p5eHFDNkdFTDl3X053Z1lneC1jNVBoQ3I2eGpGamVjWA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "afghanistan_highway_collision_east_2026-11"
   },
   {
     "id": "auto-50965",
@@ -207,6 +395,30 @@
     "eventKey": "yemen_houthi_airstrikes_2026-11-08"
   },
   {
+    "id": "auto-51001",
+    "headline": {
+      "ja": "米軍、オマーン湾の商船無効化を発表",
+      "en": "U.S. forces disable commercial cargo vessel in Gulf of Oman"
+    },
+    "summary": {
+      "ja": "米国中央司令部は、オマーン湾での商船無効化作戦を発表。地域の海上安全と輸送路の確保に関わる重要な行動。",
+      "en": "US CENTCOM announced disabling a commercial cargo vessel in the Gulf of Oman as part of regional maritime security operations."
+    },
+    "category": "conflict",
+    "country": "オマーン",
+    "lat": 23.5841,
+    "lon": 58.4078,
+    "occurredAt": "2026-11-08T03:36:18+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCTjE1UTMtY1NmR0dZSnpRM0RabGVqQ2JzNkltLTF2YVRRdFVwUWRMSXo3S2Q3WElzcXVOUEZCbW1CMEN4RXI1NG56cHcyMUhoWEliWFoxYzZaTnRBVlhySllWdmNXRkg2Y2kyZDMwTGNGTV9hLWkyVWx3dFg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_gulf_oman_cargo_ship_2026-11-08",
+    "severity": 4
+  },
+  {
     "id": "auto-51239",
     "headline": {
       "ja": "コロンビア軍基地へのドローン攻撃で兵士3人が殺害、8人が重傷",
@@ -230,6 +442,54 @@
     "eventKey": "colombia_military_drone_attack_2026-11-08"
   },
   {
+    "id": "auto-51023",
+    "headline": {
+      "ja": "セネガル沖のボート座礁で約20体回収",
+      "en": "Around 20 bodies recovered from coast after boat ran aground in Senegal"
+    },
+    "summary": {
+      "ja": "セネガルで船舶が座礁した事故で、海岸から約20体が回収された。西アフリカでの大規模な海難事故。",
+      "en": "Approximately 20 bodies were recovered from the coast following a boat running aground in Senegal, indicating a major maritime disaster."
+    },
+    "category": "disaster",
+    "country": "セネガル",
+    "lat": 14.6937,
+    "lon": -17.4441,
+    "occurredAt": "2026-11-08T01:55:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjc2VXo3RXQ2aTZPT080bzVVOTVuV1ZJdldzQVkzMjU2ZS1tNl9OeHBmRnNlLU15d1RfZ1h6SnNTcU84Yk0zVzBZSWlNUUh5TE9uR0ZqSVc5S19sMlJ5bVJQTklmTkVvVS1NbjZWV1gtQlIxRFRqX01mMkoxaVZiMjg5TjZMQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "senegal_boat_grounding_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-50656",
+    "headline": {
+      "ja": "イラン南部地域で爆発音を確認",
+      "en": "Explosions confirmed in Iran's southern counties"
+    },
+    "summary": {
+      "ja": "イラン国営テレビがイラン南部の複数の県での爆発を確認。被害規模や原因については詳細未明。",
+      "en": "Iran's state television has confirmed explosions in several southern counties. Details regarding casualties and causes remain unclear."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T21:29:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WT2xFSjM4TXBQT2FUYnZqWXItRERMano4eW0zc3FZSEphUHczUTU5cVdMMnJ0ZU94R1VXYjNaUkl5alB0eUlYVDVfcVFMOU1pZzlJbzNJX2FTTWE0UlpwQUtHX3ZYZ2hHWVBBcF9TZGtlWWJmYnMybzdoR0M?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_southern_explosions_2026-11-07",
+    "severity": 4
+  },
+  {
     "id": "auto-50648",
     "headline": {
       "ja": "イラン「イエメン軍がサウジアラビア領内で6作戦実施」",
@@ -251,6 +511,30 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "yemen_saudi_operations_2026-11-07"
+  },
+  {
+    "id": "auto-50584",
+    "headline": {
+      "ja": "イスラエル大統領がエイゼンコトに政府組閣を指示",
+      "en": "Israel's President Herzog tasks Eisenkot with forming next government"
+    },
+    "summary": {
+      "ja": "イスラエル大統領は、元国防相のギャディ・エイゼンコトに次期政府の組閣を指示。イスラエルの政治危機における重大な転換局面。",
+      "en": "Israel's President Herzog has tasked former Defense Minister Gadi Eisenkot with forming the next government, marking a critical juncture in Israeli political crisis resolution."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-07T19:42:05+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWU1djVGdlZWNXpMaV9aWFFVZ2d1LWFmM0FNdUhvX0xzTExpUXAtc3NzTVlDMDFadVlpaGtpTTdybmhtYWRyeVdpX2xZU0Izcmc0RERmR0dKbkhVVGltd244TFlWbVZyemVXdHZZcWhpMTBnVHp3UTFDSFpjbUJpR0Jmb3RpVXJmcjVUX2VBMmVMN3NGM0xHZ0dlcmNkZnR1Q3g5VkY5N3kzcndfTkVpNGhNOFA1RG9xdXBHT3VNZWZVOGll?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_govt_eisenkot_formation_2026-11",
+    "severity": 4
   },
   {
     "id": "auto-50638",
@@ -320,6 +604,30 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "guatemala_lawmaker_attack_2026"
+  },
+  {
+    "id": "auto-51043",
+    "headline": {
+      "ja": "米国・イラン関係が緊張激化、地域で抑制を求める声",
+      "en": "U.S.-Iran tensions intensify amid regional calls for restraint"
+    },
+    "summary": {
+      "ja": "米国とイランの間の緊張が激化し、地域内から両国に対する抑制を求める声が高まる。中東情勢の悪化。",
+      "en": "Tensions between the United States and Iran are escalating, prompting regional calls for restraint from both parties. The situation threatens to further destabilize the Middle East."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T15:54:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGJDUUp0UTd0RTkwZk5oSGtqRWhCR3lvUnFEaVZicWMtUGVzRlhfWDBaZUs2VDNrTWhUdV80QllYUU9jWEw3WlVyYzBZcXYtNllVVVlMdHUtQnFrSEZzVl92THNYaktPYVVGdG9kY2IzbVp3TjlpRVNVTVM5OEZPMHY3UDh4MFRyeTBhWDd3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_iran_tensions_2026-11",
+    "severity": 4
   },
   {
     "id": "auto-50136",
@@ -413,6 +721,29 @@
     "auto": true,
     "eventKey": "ukraine_north_korea_missiles_kyiv_strike_2026-11-07",
     "severity": 4
+  },
+  {
+    "id": "auto-50983",
+    "headline": {
+      "ja": "ガザの障害児兄弟、初めて車いすで日常生活へ",
+      "en": "Gaza siblings with disabilities gain independence through wheelchair support"
+    },
+    "summary": {
+      "ja": "ガザで両足を持たない3人兄弟姉妹が、国連の支援で初めて自分専用の車いすを得て、食事や読み書きといった日常生活の自立を実現。",
+      "en": "Three Gaza siblings born without legs have gained unprecedented independence through UN-provided wheelchair mobility aids, enabling them to perform daily activities independently."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-07T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168759"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_disabilities_un_support_2026-11"
   },
   {
     "id": "auto-50277",
@@ -2271,6 +2602,29 @@
     "eventKey": "ukraine_russia_app_cyberattack_false_alerts_nov2026"
   },
   {
+    "id": "auto-41869",
+    "headline": {
+      "ja": "イスラエルのヘブロン包囲作戦により約8万人の学生が就学できず",
+      "en": "Israeli siege keeps nearly 80,000 Palestinian students out of school in Hebron"
+    },
+    "summary": {
+      "ja": "イスラエルの軍事包囲によってヘブロンのパレスチナ系学生約8万人が学校に通うことができなくなっている。",
+      "en": "Israeli military siege prevents approximately 80,000 Palestinian students in Hebron from attending school."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-11-02T01:13:33+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOXdlbUNVVHRYcmFCa29HNHhBdHp4MlU4YVZFTzA5Z2ZtLVNaVUtHanM0YmNrSG4ydEU3bEZkbXNZYkVKMHgwamhsVkwzV2RYRTQtWnBHXzNJazBIT3RZWWNPeFlnSlA1b1FqR0g2elNxaVktbDV2UV8wTWM0THR3cXo5THY1X3ppdFZWRUdhZXA1Z0QybVNwcHFsejB3ajI2ZGFTOGhwU3U2bDFmN2w3Z3l3bjBCNXRqa19rWmZVMW9uWDJBdWZuaTlGQWF3TFU?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_hebron_siege_2026-11"
+  },
+  {
     "id": "auto-41654",
     "headline": {
       "ja": "ホルムズ海峡でタンカーが機雷に接触、イランが報告",
@@ -2386,51 +2740,5 @@
     "auto": true,
     "eventKey": "ukraine_russia_kherson_ceasefire_power_attack_nov2026",
     "severity": 4
-  },
-  {
-    "id": "auto-41855",
-    "headline": {
-      "ja": "アメリカ・フロリダ州での航空機墜落、乗員乗客9人全員が死亡",
-      "en": "Nine people killed in plane crash in residential area of Florida"
-    },
-    "summary": {
-      "ja": "アメリカ・フロリダ州の住宅地に航空機が墜落し、乗員乗客9人全員が死亡した。",
-      "en": "Nine people killed when an aircraft crashed in a residential area in Florida, USA."
-    },
-    "category": "disaster",
-    "country": "アメリカ",
-    "lat": 27.6242,
-    "lon": -81.4683,
-    "occurredAt": "2026-11-01T21:43:45+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUNaYXhEZ0NwN2ZYMmt1RklvX3ZrdGREeHRZWDE1TmhxNFJKbFAwdGFXRWNGMFpnMWRoQlpqeURWU3o5WDlSc2xFRjBiYm92RlZjS1dseE9zWGhULXpCQzhMS0hmQ0Y0NTM5dHFLTi0xbU8ybE0tR1ktMm8xQUpMaXhTWjVid1FFa25JVzUxcUF3aHotay05Mkp0aTFtOWwwcXJTMllLM25wdHYzNEdCa0t3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_florida_plane_crash_2026-11"
-  },
-  {
-    "id": "auto-41661",
-    "headline": {
-      "ja": "イスラエルのヘブロン包囲作戦で約5000人が避難",
-      "en": "Approximately 5,000 displaced by Israel's siege on Hebron"
-    },
-    "summary": {
-      "ja": "イスラエル軍の軍事包囲によって、パレスチナ領土ヘブロンからおよそ5000人が避難を強いられている。",
-      "en": "Israeli military siege forces approximately 5,000 people to flee Hebron in the Palestinian territories."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5294,
-    "lon": 35.0938,
-    "occurredAt": "2026-11-01T21:28:47+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_hebron_siege_2026-11"
   }
 ]
