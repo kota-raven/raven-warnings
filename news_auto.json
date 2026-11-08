@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-51364",
+    "headline": {
+      "ja": "日本中部で震度5.7の地震、20人以上が負傷",
+      "en": "5.7-magnitude earthquake hits central Japan, injuring more than 20"
+    },
+    "summary": {
+      "ja": "日本中部でマグニチュード5.7の地震が発生し、20人以上が負傷した。",
+      "en": "A 5.7-magnitude earthquake struck central Japan, injuring more than 20 people."
+    },
+    "category": "disaster",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-11-08T13:11:41+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "japan_earthquake_central_2026-11-08"
+  },
+  {
+    "id": "auto-51232",
+    "headline": {
+      "ja": "サウジ主導有志連合、リヤド周辺でドローン1機とミサイル4発を迎撃と発表",
+      "en": "Saudi-led coalition says it intercepted drone and 4 missiles over Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の有志連合は、リヤドと南部地域上空でドローン1機とミサイル4発を迎撃したと発表した。",
+      "en": "Saudi-led coalition reports interception of one drone and four missiles over Riyadh and southern regions."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-08T11:36:45+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVNEcUZPZ1RTYzdtTGczc3JKQWVtbXZCWkJCcXRTR3BVOGZ5Y0tmU04yZjkyeXRWLTVUNGFuTkIzNE0tR1ZXTG9La0VUZmpYLUtyelg0SUlMZjlHTGRRNmdHVlFzX1NlcWdKZVFnSjN2bVBuQzRlR1J2OEJkckY1LTA0SjM5SjM1aUx1aHBXQy0yb09jbzFOSUxObVhpSm9JNUI5Vm42V0xUQnhQTTZWdHBFbVQxLVlydlRySFprMTY1dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_coalition_intercept_2026-11-08"
+  },
+  {
     "id": "auto-50205",
     "headline": {
       "ja": "米国、イラン金融網への制裁を強化",
@@ -44,6 +90,167 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "taiwan_png_diplomatic_closure"
+  },
+  {
+    "id": "auto-50880",
+    "headline": {
+      "ja": "サウジアラビア「リヤドﾑ近郊で2発のミサイルを破壊」",
+      "en": "Saudi Arabia reports destruction of two missiles near Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビアはリヤド近郊でミサイル2発を破壊したと報告した。",
+      "en": "Saudi Arabia reported the destruction of two missiles near Riyadh."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-08T07:12:41+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yRTR0WXg2VnJEVlV6Y01Rak9EZEdSemYyeFMxaDdvOENwM3U1VG5vU1hObFRuN1NSeWNqRHNtTGhWcGN2OHo5ZDFn0gFKQVVfeXFMTnJFNHRZeDZWckRWVXpjTVFqT0RkR1J6ZjJ4UzFoN284Q3AzdTVUbm9TWE5sVG43U1J5Y2pEc21MaFZwY3Y4ejlkMWc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_riyadh_missile_defense_2026-11-08"
+  },
+  {
+    "id": "auto-50965",
+    "headline": {
+      "ja": "コロンビア軍基地へのドローン攻撃で兵士3人が殺害",
+      "en": "Drone attack on Colombian army base kills three soldiers and wounds 16"
+    },
+    "summary": {
+      "ja": "コロンビアのサンタ・ロサ・デル・スル軍基地へのドローン攻撃で兵士3人が殺害され、16人が負傷した。",
+      "en": "A drone attack on a Colombian army base in Santa Rosa del Sur killed three soldiers and wounded 16."
+    },
+    "category": "conflict",
+    "country": "コロンビア",
+    "lat": 7.9644,
+    "lon": -74.0544,
+    "occurredAt": "2026-11-08T04:56:37+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "colombia_santa_rosa_drone_attack_2026-11-08"
+  },
+  {
+    "id": "auto-51258",
+    "headline": {
+      "ja": "サウジアラビア「東部地域への弾道ミサイルを迎撃」",
+      "en": "Saudi Arabia says it intercepted ballistic missile fired toward eastern region"
+    },
+    "summary": {
+      "ja": "サウジアラビアは、東部地域へ向けられた弾道ミサイルを迎撃したと発表した。",
+      "en": "Saudi Arabia announced the interception of a ballistic missile targeting its eastern region."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-08T04:21:37+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUNjRHRnZkhVWHE5UjhjSlNxSDR0elpMY0R0cGRsbmdGc1l3MGdsclNYX0p1NGVINHRlSkhaUU84V0JpY2w3ZlpHekl2b1lmTUU5WWNWd0lyaUpOTkZ3TldHek5la3N3eFlzNEs0Ymd6aC1jSzFwTFE0VFV1VF9zei0xQmVaYXRXdHc5REhPZm9PSGdISXgzZGZsT2lhdUpiczlkbWdQakQyRVI1Zzl6TXVxSFBOc0dhYWww?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_intercept_ballistic_missile_2026-11-08"
+  },
+  {
+    "id": "auto-50935",
+    "headline": {
+      "ja": "フーシ派「サウジ空爆で最低33人が殺害」",
+      "en": "Houthis say at least 33 killed in Saudi air strike"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派は、サウジアラビア主導の有志連合による空爆で少なくとも33人が殺害されたと述べた。",
+      "en": "Houthis in Yemen claim at least 33 people were killed in a Saudi-led coalition air strike."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-08T04:03:12+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_airstrikes_2026-11-08"
+  },
+  {
+    "id": "auto-51239",
+    "headline": {
+      "ja": "コロンビア軍基地へのドローン攻撃で兵士3人が殺害、8人が重傷",
+      "en": "At least 3 Colombian soldiers killed, 8 seriously injured in drone attack on military base"
+    },
+    "summary": {
+      "ja": "コロンビアの軍事基地へのドローン攻撃で兵士3人以上が殺害され、8人が重傷を負った。",
+      "en": "A drone attack on a Colombian military base killed at least three soldiers and seriously injured eight others."
+    },
+    "category": "conflict",
+    "country": "コロンビア",
+    "lat": 4.6097,
+    "lon": -74.0817,
+    "occurredAt": "2026-11-08T02:54:08+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZENFQ3F5QmVtMlFBdUJ2VEFCNkl1amZCdzBvdHJSeURKTk5sU1FEZVNCb3ZPM0ZPVnMyZGRIUkNxSk9XN2JZMXFKczczMXE5VUEtN0diaGhyR2xwRWN0ZU16VGRTVGxiVnZLejdkbXZlamZISVhVN3VzN08tSkg1NWljUjhQQWZ4U0RkR3Q1b1JhX25QZDI5bzlwY1pQWUdwTEtac2ZfNWFpempfcy1HNElxQmgxeHhkVWQ0UngtU25rb3hBTW1sUFhjcw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "colombia_military_drone_attack_2026-11-08"
+  },
+  {
+    "id": "auto-50648",
+    "headline": {
+      "ja": "イラン「イエメン軍がサウジアラビア領内で6作戦実施」",
+      "en": "Iran: Yemeni armed forces conduct 6 operations deep inside Saudi Arabia"
+    },
+    "summary": {
+      "ja": "イラン通信によると、イエメン軍がサウジアラビア領内の戦略施設を狙ったミサイル・ドローン作戦を6件実施したと発表した。",
+      "en": "Iran's state news agency reports that Yemen's armed forces targeted strategic sites in Saudi Arabia with 6 missile and drone operations."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-07T19:45:07+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86315255/Yemeni-armed-forces-conduct-6-operations-deep-inside-Saudi-Arabia"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saudi_operations_2026-11-07"
+  },
+  {
+    "id": "auto-50638",
+    "headline": {
+      "ja": "イエメン・フーシ派、空爆で最低25人が殺害されたと報告",
+      "en": "Houthis report 25 killed in Yemen strikes"
+    },
+    "summary": {
+      "ja": "イエメンの反政府勢力フーシ派は、空爆により少なくとも25人が殺害され、30人が負傷したと報告した。",
+      "en": "Yemen's Houthis say at least 25 people have been killed and 30 injured in air strikes."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-07T17:39:23+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_houthi_airstrikes_2026-11-07"
   },
   {
     "id": "auto-50132",
@@ -2482,166 +2689,5 @@
     "reliability": "low",
     "auto": true,
     "eventKey": "ukraine_russia_military_losses_october_2026"
-  },
-  {
-    "id": "auto-41354",
-    "headline": {
-      "ja": "休戦中のガザシティでイスラエル軍の攻撃で3人が死亡（子ども含む）",
-      "en": "Israeli Attack in Gaza City Kills Three Including Child Despite Ceasefire"
-    },
-    "summary": {
-      "ja": "イスラエル軍がガザシティを攻撃し、子ども1人を含む3人が殺害された。この攻撃は休戦中に発生した。",
-      "en": "Israeli attack on Gaza City killed three people including a child during the ceasefire."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-01T15:02:04+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy12WjB1ZTdZSExiSXNPQ1VDdTlUc2RnV2EyMjFBSUQxWE16bm15U0pBZTh2cXNmMy1ZOGU3M1BxOWwybWlJQ0FDUkt4Z2xibjk3LUk4dXBRWEhkMUJLQ2JZWG03OWdMOEJsYVRMVEtNaWxLU3ptcGQ3T05yVTkxMXgtdHZWNzdxdXdNeXRvWGVoTkVFTFZEMkU5M3ZGdEEtdGFGS00wcHZuelQtbFhuT0hSWmFkVWc3TEtxWWJtRQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_gaza_israeli_attack_nov_2026"
-  },
-  {
-    "id": "auto-41244",
-    "headline": {
-      "ja": "イスラエルのガザ攻撃で最低9人が死亡",
-      "en": "Israeli Attacks on Gaza Kill at Least Nine"
-    },
-    "summary": {
-      "ja": "イスラエル軍がガザシティとハン・ユーニスを攻撃し、少なくとも9人が殺害された。",
-      "en": "Israeli attacks on Gaza City and Khan Younis killed at least nine people."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-01T14:10:59+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_gaza_israeli_attacks_nov_2026"
-  },
-  {
-    "id": "auto-41248",
-    "headline": {
-      "ja": "ガザでのイスラエル攻撃で少なくとも8人が死亡",
-      "en": "At Least Eight Palestinians Killed in Israeli Attacks in Gaza"
-    },
-    "summary": {
-      "ja": "ガザ地区でのイスラエル軍によるドローン攻撃により、4歳を含む少なくとも8人のパレスチナ人が殺害された。",
-      "en": "Israeli drone attacks in the Gaza Strip killed at least eight Palestinians, including a four-year-old."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-01T13:36:16+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_israeli_airstrikes_2026-11-01"
-  },
-  {
-    "id": "auto-41378",
-    "headline": {
-      "ja": "スーダン東部でドローンがインフラ施設を攻撃",
-      "en": "Drone strikes target oil and energy infrastructure in eastern Sudan"
-    },
-    "summary": {
-      "ja": "スーダン東部で、ドローンによる石油・エネルギー関連インフラへの攻撃が報告された。武装勢力による戦術的な施設破壊と見られている。",
-      "en": "Unmanned drones have attacked oil and energy infrastructure facilities in eastern Sudan, with military targets reportedly damaged."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-11-01T12:36:33+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QeXdzM3duQ2Z2UXJFc0VsMERuS1dHQXhBTU5xZXM4UlUwSk42RTN3Y0p4Mk9QV1NXQmdHdXBYSl93YjBUMjdhX3RB0gFKQVVfeXFMTlB5d3Mzd25DZnZRckVzRWwwRG5LV0dBeEFNTnFlczhSVTBKTjZFM3djSngyT1BXU1dCZ0d1cFhKX3diMFQyN2FfdEE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_eastern_drone_strike_infrastructure_2026-11"
-  },
-  {
-    "id": "auto-41527",
-    "headline": {
-      "ja": "ドイツの冬季ガス貯蔵が80%目標達成ならず、供給不安台頭",
-      "en": "Germany's gas storage falls short of 80% winter target, raising supply concerns"
-    },
-    "summary": {
-      "ja": "ドイツは冬季天然ガス貯蔵の80%目標達成に失敗した。ウクライナ情勢や国際エネルギー情勢の不安定化の中で、ドイツ国内のガス供給不安が高まっている。",
-      "en": "Germany's gas storage failed to reach the 80% winter target, raising serious concerns about energy supply security during the winter months amid international energy tensions."
-    },
-    "category": "disaster",
-    "country": "ドイツ",
-    "lat": 52.5244,
-    "lon": 13.4105,
-    "occurredAt": "2026-11-01T12:22:29+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUJDUktJZDYwTU9CSk5uNnRnT3U1YU5FX204N2NMak44aC1iV2Rabl83ckdBTlE4NHRnb2xtRHRMaE5na1ZnM0FSS3dJamszZnR1RFRkbWlqbGpwY3dvZmRYNHlYVE42WHVMQUY0Q2VNcDFxUmdGZTVIY05WMVRTZ0p6RllMUXQySXpnZXFOeDZYVjdpeEJBSkV5VUo4RDNVcEFXS1dlcUtuRjZJUXZqRUU4Q3BhbWtqOGJLX2xRUTNpcmfSAcMBQVVfeXFMTVlCQ1JLSWQ2ME1PQkpObjZ0Z091NWFORV9tODdjTGpOOGgtYldkWm5fN3JHQU5RODR0Z29sbUR0TGhOZ2tWZzNBUkt3SWprM2Z0dURUZG1pamxqcGN3b2ZkWDR5WFRONlh1TEFGNENlTXAxcVJnRmU1SGNOVjFUU2dKekZZTFF0Mkl6Z2VxTng2WFY3aXhCQUpFeVVKOEQzVXBBV0tXZXFLbkY2SVF2akVFOENwYW1rajhiS19sUVEzaXJn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "germany_gas_storage_winter_supply_crisis_2026"
-  },
-  {
-    "id": "auto-40708",
-    "headline": {
-      "ja": "ナイジェリア北西部で警察が匪賊攻撃を撃退、30以上の遺体を回収",
-      "en": "Over 30 bodies recovered after police repel bandit attack in NW Nigeria"
-    },
-    "summary": {
-      "ja": "ナイジェリア北西部で警察が武装勢力の攻撃を撃退し、30以上の遺体が回収された。地域の治安問題を示す事案。",
-      "en": "Police in northwestern Nigeria repelled an armed bandit attack, resulting in over 30 bodies recovered. The incident reflects ongoing security challenges in the region."
-    },
-    "category": "conflict",
-    "country": "ナイジェリア",
-    "lat": 9.0579,
-    "lon": 7.4951,
-    "occurredAt": "2026-11-01T10:57:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEFGWmI4bmsyVGl4ZzFQaGxEdFlvWFhnZ0FYRk5YcnV1emkxQm81Z2xScnBXYXVCY0dVQ2pRcHVDT1dQSmZWS3VURFVxY0hyUnAwREZmNzhiS0lHOV90UjNaeWpKVFNCZ0dGTGZjMWNzck5TYU54YTc1WkMxQ0w0Xy03U0tjdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "nigeria_bandit_attack_northwest_2026-11-01"
-  },
-  {
-    "id": "auto-40598",
-    "headline": {
-      "ja": "カタールのLNG輸送船がペルシャ湾で未確認物体に衝突",
-      "en": "Qatar LNG carrier struck by unidentified objects in Gulf"
-    },
-    "summary": {
-      "ja": "カタール・ガス・トランスポート・カンパニーが運航するLNG輸送船がペルシャ湾で未確認の物体に衝突したと発表。死傷者および環境汚染は報告されていない。",
-      "en": "Qatar Gas Transport Company reported that its LNG carrier was struck by unidentified objects in the Gulf with no reported injuries or environmental damage."
-    },
-    "category": "conflict",
-    "country": "カタール",
-    "lat": 25.2855,
-    "lon": 51.531,
-    "occurredAt": "2026-11-01T10:21:48+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "qatar_lng_carrier_gulf_strike_2026-11-01"
   }
 ]
