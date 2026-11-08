@@ -1,48 +1,5 @@
 [
   {
-    "id": "2026-11-06-01",
-    "headline": {
-      "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者43人に増加 行方不明者1人の生存確認",
-      "en": "Zaporizhzhia's Komyshuvakha strike death toll rises to 43; one previously missing person found alive"
-    },
-    "summary": {
-      "ja": "既報(id: 2026-11-05-01)の続報として、ゼレンスキー大統領は11月5日、ザポリッジャ州コムィシュヴァーハの人道支援拠点・避難所への空爆による死者数が43人に増加したと発表したという(Ukrinform・ua.news・Interfax-Ukraine等複数メディア)。一部報道では、行方不明とされていた人物のうち1人が生存していることが確認されたとも伝えている。現場の捜索・がれき撤去作業は継続中とされ、行方不明者数については既報の時点でも報道間で数字の食い違いがあり、最終的な死者・行方不明者数は今後さらに変動する可能性がある。推測:死者数増加分がどの時点の行方不明者に対応するかなど詳細は、本稿執筆時点で確認できていない。[信頼性: 高](Ukrinform・ua.news・Interfax-Ukraine等、独立した複数のウクライナメディアがゼレンスキー大統領発表について一致した内容を報じている。ただし死者数自体はウクライナ当局発表に基づくもので、ロシア側や第三者による独立した検証はできていない)",
-      "en": "Following up on the earlier report (id: 2026-11-05-01), President Zelensky said on November 5 that the death toll from the strike on a humanitarian aid hub and shelter in Komyshuvakha, Zaporizhzhia region, had risen to 43, according to Ukrinform, ua.news, Interfax-Ukraine and other outlets. Some reports say one person previously listed as missing has been found alive. Search and rubble-clearing operations reportedly continue at the site; figures for those missing have varied across earlier reports, so the final death and missing-person counts may still change. Inference: details such as which point-in-time missing-person count corresponds to the latest rise in deaths could not be confirmed at the time of writing. [Reliability: High] (Multiple independent Ukrainian outlets -- Ukrinform, ua.news, Interfax-Ukraine and others -- consistently report President Zelensky's statement; however, the casualty figures themselves rest on Ukrainian official statements and have not been independently verified by Russia or a third party.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリッジャ州",
-    "lat": 47.7194,
-    "lon": 35.5247,
-    "occurredAt": "2026-11-05T12:00:00+00:00",
-    "source": {
-      "name": "Ukrinform(ゼレンスキー大統領発表)",
-      "url": "https://www.ukrinform.net/rubric-ato/4181787-death-toll-from-russian-airstrike-on-komyshuvakha-rises-to-43-zelensky.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-06-08",
-    "headline": {
-      "ja": "欧州各国の旅客機に爆破予告が相次ぐ 戦闘機が複数機を護衛・空港へ誘導",
-      "en": "Wave of hoax bomb threats hits European flights, fighter jets escort diverted planes"
-    },
-    "summary": {
-      "ja": "CNN・バチカンニュース・SBS(AP・ロイター引用)等によると、11月3日から5日にかけて欧州発着の旅客機27機以上(報道により16〜27機超と差あり)に爆破予告のメールが相次いで送られ、イタリア・フランス・ブルガリア・ハンガリー・ポーランド・スペイン・チェコなどで戦闘機が緊急発進し、複数の機体が目的地変更・護衛を受けたという。イタリア空軍はダブリン発ローマ行き機を強制着陸させ、フィンエアー機をローマへ護衛した。スペインでは20分間に3件の爆破予告メールが届いたとされる。いずれも機内から危険物は発見されておらず、送信者は特定されていない。推測:サイバーセキュリティ専門家は、航空会社・当局の同時対応能力を試す目的の可能性を指摘しているという。",
-      "en": "According to CNN, Vatican News and SBS (citing AP and Reuters), hoax bomb threat emails hit more than 27 European flights (reports vary from 16 to over 27) between November 3-5, prompting fighter jet scrambles in Italy, France, Bulgaria, Hungary, Poland, Spain and Czechia, with several aircraft diverted or escorted. Italian jets intercepted a Dublin-Rome flight and escorted a Finnair aircraft to Rome; Spanish authorities said three threat emails arrived within 20 minutes. No hazardous materials were found and the sender remains unidentified. Speculation: cybersecurity experts say it may be a test of simultaneous-emergency response capacity."
-    },
-    "category": "conflict",
-    "country": "イタリア",
-    "lat": 41.8719,
-    "lon": 12.5674,
-    "occurredAt": "2026-11-05T14:00:00+00:00",
-    "source": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/11/05/europe/europe-bomb-threat-intl"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-06-09",
     "headline": {
       "ja": "トランプ氏、プーチン特使と会談 ウクライナ和平「近い」と発言",
@@ -192,5 +149,69 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-11-08-01",
+    "headline": {
+      "ja": "日経平均、11月6日に約6%急落 週間ではコロナ相場以来の大幅下落",
+      "en": "Nikkei 225 plunges roughly 6% on Nov. 6, posts worst weekly drop since the COVID crash"
+    },
+    "summary": {
+      "ja": "Trading Economics・RTTNews等によると、11月6日(金)の東京株式市場で日経平均株価は前日比で急落し、終値は57,435〜57,550円(報道により差があり、下落率は5.78〜5.96%)となったという。前日の米ナスダック総合指数の修正相場入り(既報id: 2026-11-06-10)を受けたAI・半導体関連株の売りが主因とされる。週間ではおよそ9%超の下落となり、2020年3月のコロナショック以来最大の週間下落率になったと複数メディアが報じている。個別銘柄への投資判断ではなく、日本市場全体の動向として採用した。推測:終値の具体的な数値や下落率の基準(「コロナ以来」が3月の急落そのものと比較しているか、別の期間との比較かなど)は報道間で表現に幅があり、本稿執筆時点で統一した数値は確認できていない。[信頼性: 高](Trading Economics・RTTNews・investinglive等、独立した複数の市場情報サービスが同様の下落規模・要因を報じている。ただし終値の正確な数値は報道間で若干の差がある)",
+      "en": "According to Trading Economics, RTTNews and other outlets, Tokyo's Nikkei 225 plunged sharply on Friday, November 6, closing between 57,435 and 57,550 (reports vary), a decline of 5.78% to 5.96% depending on the source. The selloff was mainly attributed to AI and semiconductor stocks, following the Nasdaq Composite's entry into correction territory on Wall Street the previous day (previously reported id: 2026-11-06-10). Multiple outlets reported the weekly decline exceeded 9%, the steepest weekly drop since the March 2020 COVID crash. Treated here as a development in the broader Japanese market, not as guidance for any individual security. Inference: exact closing figures and the precise basis for the 'since COVID' comparison vary across reports, and a single confirmed figure could not be established at the time of writing. [Reliability: High] (Multiple independent market data services -- Trading Economics, RTTNews, investinglive and others -- report a similar scale of decline and cause, though exact closing figures differ slightly between reports.)"
+    },
+    "category": "economy",
+    "country": "日本",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "occurredAt": "2026-11-06T06:00:00+00:00",
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/japan/stock-market/news/598952"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-08-02",
+    "headline": {
+      "ja": "台湾加権指数、半導体株安で6カ月ぶり安値 週間で4週連続安・下落率12%超",
+      "en": "Taiwan's TAIEX hits 6-month low on chip-stock selloff, posts 4th straight weekly loss of over 12%"
+    },
+    "summary": {
+      "ja": "Focus Taiwan・Trading Economics等によると、台湾の加権指数(TAIEX)は11月3日に3.59%安、11月5日に3.2%安(終値41,574.72、7月31日以来の安値)、11月6日には4万ポイントを割り込み同市場史上4番目の規模の1日あたり下落となったという。週間では約12.2%下落し、4週連続の下落になったと報じられている。時価総額の4割超を占める台湾積体電路製造(TSMC)を中心に、AIデータセンター関連の先行き懸念や、原油高・インフレ・米利上げ観測の高まりが背景とされる。台湾政府は11月6日、金融監督管理委員会(FSC)に市場安定化策の検討を指示したという。個別銘柄への投資判断ではなく、台湾市場全体・当局対応の動向として採用した。推測:同指数が節目となる「ベアマーケット」(直近高値から20%超下落)入りしたかどうかは、本稿執筆時点で確認できる報道の範囲では確定していない。[信頼性: 高](Focus Taiwan・Trading Economicsなど独立した複数の報道が、同様の下落幅・経緯を報じている)",
+      "en": "According to Focus Taiwan, Trading Economics and other outlets, Taiwan's TAIEX index fell 3.59% on November 3, dropped a further 3.2% on November 5 to close at 41,574.72 (its lowest since July 31), and on November 6 fell below the 40,000 level in what was reported as the fourth-largest single-day point loss in the market's history. The weekly decline was reported at about 12.2%, the index's fourth consecutive weekly loss. The selloff was centered on Taiwan Semiconductor Manufacturing Co. (TSMC), which accounts for over 40% of the index's market value, amid concerns over AI data-center spending, rising oil prices, inflation and US rate-hike expectations. Taiwan's Cabinet reportedly instructed the Financial Supervisory Commission on November 6 to consider market-stabilization measures. Treated here as a development in the broader Taiwanese market and policy response, not as guidance for any individual security. Inference: whether the index has technically entered a 'bear market' (a decline of more than 20% from its recent peak) could not be confirmed from the reporting available at the time of writing. [Reliability: High] (Multiple independent outlets -- Focus Taiwan, Trading Economics and others -- report a consistent scale of decline and sequence of events.)"
+    },
+    "category": "economy",
+    "country": "台湾",
+    "lat": 23.6978,
+    "lon": 120.9605,
+    "occurredAt": "2026-11-06T07:00:00+00:00",
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611060016"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-08-03",
+    "headline": {
+      "ja": "ハワイ・キラウエア火山、エピソード56の噴火 溶岩噴泉が約200mに達し約6時間で終息",
+      "en": "Hawaii's Kilauea erupts in Episode 56, lava fountains reach ~200m before ending after about 6 hours"
+    },
+    "summary": {
+      "ja": "米地質調査所(USGS)・ハワイ火山観測所(HVO)の発表やmauinow・watchers.news等の報道によると、キラウエア山ハレマウマウ火口で進行中の噴火活動の「エピソード56」が、現地時間11月5日12時10分(日本時間同日22時10分頃)に開始したという。溶岩噴泉は高さ約200m(660フィート)に達し、噴煙は高度約5,500m(18,000フィート)まで上がったとされる。噴火は同日18時01分(現地時間)に突如終息し、継続時間は約6時間だったという。USGSは火山警戒レベルを「ウォッチ」、航空カラーコードを「オレンジ」に維持しているとされる。噴火地点はハワイ火山国立公園内のカルデラ内であり、人的被害・建物被害の報道は確認できていない。前回(11月5日17時JST)までの定時収集では噴火開始の確証が取れていなかったが、本時間帯の調査で開始・終息の経緯が複数の報道・USGS発表で確認できたため採用した。[信頼性: 高](USGS/HVOの公式火山情報に基づき、mauinow・Honolulu Star-Advertiser・watchers.newsなど独立した複数の報道が同様の経緯を伝えている)",
+      "en": "According to announcements from the US Geological Survey's Hawaiian Volcano Observatory and reporting by Maui Now, Watchers.news and others, 'Episode 56' of the ongoing eruption at Kilauea's Halemaʻumaʻu crater began at 12:10 p.m. local time on November 5 (around 10:10 p.m. JST the same day). Lava fountains reportedly reached heights of about 200 meters (660 feet), with the plume rising to roughly 5,500 meters (18,000 feet). The episode ended abruptly at 6:01 p.m. local time the same day, lasting about six hours in total. USGS is reported to have kept the Volcano Alert Level at WATCH and the Aviation Color Code at ORANGE. The eruption site is within the caldera inside Hawaii Volcanoes National Park, and no reports of casualties or property damage were found. Earlier collection rounds (through 17:00 JST on November 5) could not confirm that the episode had begun, but this round's research found multiple reports and USGS notices confirming both its start and end, so it is included here. [Reliability: High] (Based on official USGS/HVO volcano notices, corroborated by multiple independent outlets including Maui Now, the Honolulu Star-Advertiser and Watchers.news reporting a consistent sequence of events.)"
+    },
+    "category": "disaster",
+    "country": "米国",
+    "region": "ハワイ州",
+    "lat": 19.4069,
+    "lon": -155.2834,
+    "occurredAt": "2026-11-05T22:10:00+00:00",
+    "source": {
+      "name": "Watchers.news / USGS HVO",
+      "url": "https://watchers.news/2026/11/06/kilauea-episode-56-ends-abruptly-after-nearly-6-hours-of-lava-fountaining-hawaii/"
+    },
+    "reliability": "high"
   }
 ]
