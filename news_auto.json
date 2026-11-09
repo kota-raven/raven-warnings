@@ -46,6 +46,75 @@
     "eventKey": "ukraine_power_plant_drone_attack_2026-11-09"
   },
   {
+    "id": "auto-52310",
+    "headline": {
+      "ja": "イラク首相がテヘランへ予告なく訪問",
+      "en": "Iraqi PM makes unannounced visit to Tehran for Iran-US conflict talks"
+    },
+    "summary": {
+      "ja": "イラク首相が予告なくテヘランを訪問し、イラン-米国紛争の終結に向けた協議を実施したと報道された。",
+      "en": "Report: Iraqi Prime Minister visited Tehran for talks aimed at ending Iran-US conflict"
+    },
+    "category": "conflict",
+    "country": "イラク",
+    "lat": 33.3406,
+    "lon": 44.4009,
+    "occurredAt": "2026-11-09T14:25:21+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2xGNTlXRE9jZkVDSGpxeUdTRWN6a3FCZGhzME5CRERkU2tHZEJEZjh4NlQyVEZGdXZSSXoxeVZKSHJES1gxekRud1lQMHFoNTl3S0gyRmd0QWp1UnBtWXpwaGxoWlBXUHFzRUxBVlRhbDRrSkF0ZnFxYUJkdDdjaE1PVGQ5RWJRQ1pBVlJ0cDBOYnpBbXJUTzh1TUV1RVFpdzJWN1NSSllmeVBSa3NQN2RfVjYta0NMekdYLXl3TEk5NGZSZElPb1FqZjB1dw?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iraq_iran_us_diplomatic_talks_2026-11"
+  },
+  {
+    "id": "auto-52316",
+    "headline": {
+      "ja": "ガザの死傷者数が74,643人に達する",
+      "en": "Gaza death toll reaches 74,643 since aggression began"
+    },
+    "summary": {
+      "ja": "パレスチナ側は、ガザの死傷者数が74,643人に達したと発表した。",
+      "en": "Palestinian sources report death toll in Gaza has risen to 74,643 with injuries to 175,962"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-09T11:40:23+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZlVoZG85R0dNQWJydWZIbkFSRWc1dDFfTUliUXR6YVB3eFBHS216N2xzMmtBaTRTZ0lfS0xpUl9NSXBNVXJseHRjSUsxYW9nRjJvYzRqNA?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "palestine_gaza_casualty_toll_2026-11"
+  },
+  {
+    "id": "auto-52000",
+    "headline": {
+      "ja": "ギリシャ・クレタ沖で難民船沈没、20人が死亡",
+      "en": "20 migrants dead in boat incidents off Greece's Crete"
+    },
+    "summary": {
+      "ja": "ギリシャのクレタ沖での難民船沈没事故で20人が死亡、133人が救助された。",
+      "en": "A maritime disaster off Crete resulted in 20 migrant deaths and 133 rescues"
+    },
+    "category": "disaster",
+    "country": "ギリシャ",
+    "lat": 35.3368,
+    "lon": 24.8805,
+    "occurredAt": "2026-11-09T10:44:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjZiWGtfR2VoRmI3OVU0QkwxNTJZUlhFZW1PTkk4WnZhUW1Hc2o5dnpaUlhRNkZKbUYwNGhSeXVpVHdISE80SVNlbko0SEN6ay1ram9SMUJWMUpJMExvbldEVVplZ0hiRl9vSW5TR2p6V0ZZV1g5aE51NWJRQkVLS3dFSGRnQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "greece_crete_migrant_boat_disaster_2026-11"
+  },
+  {
     "id": "auto-52431",
     "headline": {
       "ja": "ロシア情報当局がウクライナの動員政策変更を指摘",
@@ -67,6 +136,29 @@
     "reliability": "low",
     "auto": true,
     "eventKey": "ukraine_mobilization_policy_changes_2026-11-09"
+  },
+  {
+    "id": "auto-52387",
+    "headline": {
+      "ja": "EU、ウクライナ向け特別緊急メカニズム発動",
+      "en": "EU to activate special emergency mechanism for Ukraine"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領とEU委員会委員長フォン・デア・ライエンの会談を受け、EU が特別緊急メカニズムを発動する。",
+      "en": "Following conversation between Zelenskyy and EU Commission President von der Leyen, EU will activate special emergency mechanism for Ukraine"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-09T08:18:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzBlbDJyaG1wZFB4Z0t5ekVlLV83M0U1cVZkQ2kyYWxadTBTd0NwTkx4M2xTRHZsSFZ1SzVLcFk3YVk1cDRGNkczTEt5RXpGNXI5TVY1Z0U0dHI1SmhYVUZ0YXlGTnpTbkRDUG43eWdrX2I3aXF4Tmgxbk9acEZVQVU1ZjVqLXliWGRqNWhna0E0VjlUT0NIRmlkU2RySUhjSEx0VmN2dw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_eu_emergency_mechanism_2026-11"
   },
   {
     "id": "auto-52447",
