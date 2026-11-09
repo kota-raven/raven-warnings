@@ -599,8 +599,7 @@
     },
     "reliability": "high",
     "auto": true,
-    "eventKey": "poland_krakow_shooting_2026-11-08",
-    "severity": 4
+    "eventKey": "poland_krakow_shooting_2026-11-08"
   },
   {
     "id": "auto-50935",
