@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-06-12",
-    "headline": {
-      "ja": "10月米雇用統計、非農業部門雇用16.5万人増 失業率4.1%に低下",
-      "en": "US October jobs report: nonfarm payrolls add 165,000, unemployment rate falls to 4.1%"
-    },
-    "summary": {
-      "ja": "米労働統計局(BLS)が11月6日発表した10月の雇用統計によると、非農業部門雇用者数は前月比16.5万人増加し、事前予想を上回ったという。失業率は4.2%から4.1%に低下し、平均時給は前月比0.4%・前年比3.1%上昇し、いずれも事前予想を上回ったという(CNBC・Fox Business・CNN等)。8月・9月分の雇用者数も上方修正されたと報じられている。個別銘柄の投資判断ではなく、米国の雇用情勢・金融政策見通しに関わる出来事として採用した。推測:この結果が12月のFRB会合での利下げ判断にどう影響するかは、本稿執筆時点で確定していない。[信頼性: 高](BLS公式発表に基づき、CNBC・Fox Business・CNNなど独立した複数の主要メディアが同一の数値を報じている)",
-      "en": "According to the US Bureau of Labor Statistics' October jobs report released November 6, nonfarm payroll employment rose by 165,000, beating expectations. The unemployment rate fell to 4.1% from 4.2%, and average hourly earnings rose 0.4% month-over-month and 3.1% year-over-year, both above forecasts, according to CNBC, Fox Business and CNN. August and September figures were also revised upward, reports say. Treated here as a development in the US labor market and monetary-policy outlook, not as guidance for any individual security. Inference: how this result will affect the Fed's December rate decision was not settled at the time of writing. [Reliability: High] (Based on the official BLS release, corroborated by multiple independent major outlets including CNBC, Fox Business and CNN reporting matching figures.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-06T13:30:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-07-01",
     "headline": {
       "ja": "米国株式市場、11月6日は主要指数まちまちで終了 ナスダック反発・ダウは続落、半導体株中心に前日急落分の一部を回復",
