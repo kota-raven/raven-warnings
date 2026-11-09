@@ -144,6 +144,78 @@
     "observedAt": "2026-11-11T00:00:00Z"
   },
   {
+    "id": "2026-11-09-us-000167",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Tripoli",
+    "shipNumber": "LHA-7",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Sasebo, Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍のサンアントニオ級強襲揚陸艦トリポリ(LHA-7)がササボに停泊中。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-09T21:00:00+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-09T00:00:00Z"
+  },
+  {
+    "id": "2026-11-08-cn-000164",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡-東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍のミサイル駆逐艦斉斉哈爾が宮古海峡を北西進し東シナ海へ進出。海自P-1が警戒監視。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37440/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-09T21:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-08T00:00:00Z"
+  },
+  {
+    "id": "2026-11-08-us-000168",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Makin Island",
+    "shipNumber": "LHD-8",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Sea of Japan",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍のワスプ級強襲揚陸艦マキンアイランド(LHD-8)がサセボを出港。マキンアイランド遠征群に属し、アンカレッジ(LPD-23)、ジョン・P・ムルタ(LPD-26)および第13海兵遠征部隊を搭載。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-09T21:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-08T00:00:00Z"
+  },
+  {
     "id": "2026-11-07-kr-000156",
     "recordType": "individual",
     "country": "KR",
@@ -286,6 +358,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-11-06-gb-000169",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "1st Autonomous Squadron",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Portsmouth, England",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "英国海軍が初めての自律型無人艦艇戦隊(1st Autonomous Squadron)を就役させた。ポーツマスの軍事基地で式典を実施。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/09/royal-navy-commissions-first-unmanned-surface-vehicle-squadron"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-09T21:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-06T00:00:00Z"
   },
   {
     "id": "2026-11-06-us-000150",
@@ -739,6 +835,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-02T00:00:00Z"
+  },
+  {
+    "id": "2026-11-02-us-000165",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Enterprise",
+    "shipNumber": "CVN-65",
+    "shipType": "carrier",
+    "position": {
+      "area": "Newport News (VA) - Mobile (AL)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "退役した原子力空母エンタープライズ(CVN-65)が解体に向けた最後の航海を開始。ニューポートニューズ造船所からモービルへ曳航。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37471/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-09T21:00:00+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-02T00:00:00Z"
@@ -1491,8 +1611,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1587,8 +1707,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-25T00:00:00Z"
   },
   {
@@ -2726,6 +2846,30 @@
     "observedAt": "2026-10-15T00:00:00Z"
   },
   {
+    "id": "2026-10-15-gb-000166",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "Queen Elizabeth",
+    "shipNumber": "R08",
+    "shipType": "carrier",
+    "position": {
+      "area": "North Atlantic",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "英国海軍の空母クイーン・エリザベス(HMS Queen Elizabeth R08)が攻撃型ドローンの発進試験を実施。英海軍の空母では初の試験。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37465/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-09T21:00:00+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "observedAt": "2026-10-15T00:00:00Z"
+  },
+  {
     "id": "2026-10-15-ph-000037",
     "recordType": "individual",
     "country": "PH",
@@ -3014,7 +3158,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-13T19:11:00Z"
   },
   {
