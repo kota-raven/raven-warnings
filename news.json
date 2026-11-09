@@ -86,5 +86,49 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-11-10-01",
+    "headline": {
+      "ja": "ウクライナ・ザポリッジャ州コムィシュヴァーハへのロシア軍攻撃、死者55人に増加",
+      "en": "Death toll from Russian strike on Komyshuvakha, Zaporizhzhia region, rises to 55"
+    },
+    "summary": {
+      "ja": "ウクライナ版プラウダ(pravda.com.ua)やウクライナ国民通信社(UNN)が11月7日に報じたところによると、ウクライナ国家緊急事態庁(DSNS)は、11月2日にロシア軍がザポリッジャ州コムィシュヴァーハの旧学校(人道支援物資の配布のため住民が集まっていた場所)を攻撃した事案について、瓦礫からさらに9人分の遺体・遺体の一部を収容した結果、死者数が既報の53人(11月6日時点)から55人に増えたと発表したという。Kyiv Independentによれば、同攻撃による捜索活動は7日目に入っているという。遺伝子鑑定による身元確認作業は継続中で、死者数は今後さらに変動する可能性があるという。推測:最終的な確定死者数は本稿執筆時点では不明。[信頼性: 高](ウクライナの複数の独立した報道機関〔Pravda.ua、UNN、Kyiv Independent〕が、いずれもウクライナ国家緊急事態庁の発表を引用して同内容を報じている)",
+      "en": "According to Ukraine's Pravda (pravda.com.ua) and the Ukrainian News Agency (UNN), reporting November 7, Ukraine's State Emergency Service (DSNS) said the death toll from the November 2 Russian strike on a former school in Komyshuvakha, Zaporizhzhia region — where residents had gathered for humanitarian aid — rose from the previously reported 53 (as of November 6) to 55, after crews recovered the bodies and remains of nine more victims from the rubble. Kyiv Independent reported the search operation has entered its fifth day. Genetic identification of remains is ongoing, so the toll could still change. Speculation: the final confirmed death toll remains unknown as of this writing. [Reliability: High] (Multiple independent Ukrainian outlets — Pravda.ua, UNN, and Kyiv Independent — report the same figure, each citing Ukraine's State Emergency Service)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ザポリッジャ州",
+    "lat": 47.7194,
+    "lon": 35.5247,
+    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "source": {
+      "name": "Pravda.ua / UNN / Kyiv Independent",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/07/8061683/"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-10-02",
+    "headline": {
+      "ja": "ガザ地区で季節初の大雨、テント約7万張りが浸水 避難民ら住まい失う",
+      "en": "Season's first heavy rain floods about 70,000 tents in Gaza Strip, leaving displaced without shelter"
+    },
+    "summary": {
+      "ja": "Al Jazeera、Al-Monitor(ロイター配信含む)、Gulf Today、Ahram Online等が11月7日に報じたところによると、ガザ地区で今季初の冬の嵐となる大雨が降り、ガザ地区政府メディア室によれば12時間以内に約7万張りのテントが浸水したという。民間防衛当局(Civil Defence)報道官のマフムード・バサル氏によれば、最初の10時間で約1,500件の救助要請が寄せられ、一部の避難施設では水位が30〜40cm上昇し、完全に水没した避難センターもあったという。同庁長官ラーイド・アルダフシャン氏は、配布用の防水シートやテントがほとんど残っていないと述べ、燃料不足や機材損傷も対応を妨げているという。海岸沿いのキャンプに住む12万5千世帯以上が、テントを波にさらわれる危険に直面しているという。ヌセイラトでは建物の一部が崩壊し、ガザ北部でも壁が崩れて2人が負傷したという(パレスチナ通信WAFA経由)。ガザ地区政府メディア室による初期被害推定額は約300万米ドルという。推測:今回の大雨による死者の有無は本稿執筆時点で確証できる報道を確認できていない。[信頼性: 中](Al Jazeera、Al-Monitor/ロイター、Gulf Today、Ahram Online等、複数の独立した媒体が同趣旨の内容を報じているが、被災規模の数値はガザ地区政府メディア室など当事者側発表に基づくものが中心)",
+      "en": "According to Al Jazeera, Al-Monitor (carrying Reuters reporting), Gulf Today and Ahram Online, reporting November 7, heavy rain from the season's first winter storm hit the Gaza Strip, flooding an estimated 70,000 tents within 12 hours, according to Gaza's Government Media Office. Civil Defence spokesman Mahmoud Basal said about 1,500 distress calls came in during the first 10 hours, with water rising 30-40cm at several shelter sites and some shelter centers completely flooded. Civil Defence director Raed al-Dahshan said crews had almost no tarpaulins or tents left to distribute, and fuel shortages and damaged equipment were also hampering the response. More than 125,000 families in coastal camps face the risk of having their tents swept away by the sea. A partial building collapse was reported in Nuseirat, and a wall collapse in northern Gaza injured two people, per the Palestinian news agency WAFA. Gaza's Government Media Office put initial damage at about $3 million. Speculation: no confirmed reporting of deaths from this storm could be found as of this writing. [Reliability: Medium] (Multiple independent outlets — Al Jazeera, Al-Monitor/Reuters, Gulf Today, Ahram Online — report similar content, though damage figures are largely based on statements from Gaza's Government Media Office, a party to the event)"
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "region": "ガザ地区",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / Al-Monitor",
+      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
+    },
+    "reliability": "medium"
   }
 ]
