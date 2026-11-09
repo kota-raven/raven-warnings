@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-52595",
+    "headline": {
+      "ja": "シリアとヨルダンが11の協定に署名、空爆対応を協議",
+      "en": "Syria and Jordan sign 11 agreements, discuss response to deadly airstrikes"
+    },
+    "summary": {
+      "ja": "シリアとヨルダンが二国間の協定11件に署名した。同時に空爆による被害への対応が協議されている。",
+      "en": "Syria and Jordan signed 11 bilateral agreements. Response to deadly airstrikes was discussed simultaneously."
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "occurredAt": "2026-11-09T18:03:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NNWhHRFZfTnhXcXFraVdvUWVlNkYtNEJ0WGtReHQ0NG5hTGI2MU9zSFFQRUxIOFYtS2hOZjJUTF8zVTJyd2pyMXhka0JabGxHSWZ1akhIMUFMbFhrRWU4SjZGWGhwZGlvcnFrWUxCY3lZT3hfTy1DWXZPbnQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "syria_jordan_agreement_airstrikes_2026-11-09"
+  },
+  {
+    "id": "auto-52730",
+    "headline": {
+      "ja": "ウクライナ原発職員がドローン攻撃で殺害、国連が非難",
+      "en": "UN nuclear watchdog condemns drone attacks killing Ukrainian power plant workers"
+    },
+    "summary": {
+      "ja": "ウクライナの原発でドローン攻撃により職員2名が殺害された。国連原子力機関(IAEA)はこの攻撃を非難する声明を発表した。",
+      "en": "Two power plant workers in Ukraine were killed in drone attacks. The UN's International Atomic Energy Agency (IAEA) condemned the attacks."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-09T15:30:11+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmQ1dzNsTEU0RU11cGZDUERyMXg5ZFMxQW5kRG4tdE8wOVRfUFNoeEZmakI5em5qUHplT2wtaEM1Q2g2MEJOcVc4WUZGTzBMTHhRTkUxVUg3R0dvUUYxV214WWRCZnhob0VYdWg5Z3F0Ml9CdENuLW1nRUdZQUdEYThDSG05QUlkUlNhSkpXM2tzR0lzY2lnUzB5aTA0MnZJaXkwWWRjVXB5aEJnbTV3Y2MzTllzYnhpZGZvbWwxZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_power_plant_drone_attack_2026-11-09"
+  },
+  {
     "id": "auto-52431",
     "headline": {
       "ja": "ロシア情報当局がウクライナの動員政策変更を指摘",
@@ -2759,74 +2805,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "moscow_ukrainian_drone_attack_nov2026"
-  },
-  {
-    "id": "auto-42751",
-    "headline": {
-      "ja": "ゼレンスキー大統領、ザポリージャ地域空爆で18人死亡5人負傷と発表",
-      "en": "Zelenskyy says 18 killed, 5 injured in Russian airstrikes on Ukraine's Zaporizhzhia region"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍のザポリージャ地域への空爆で18人が死亡し5人が負傷したと発表した。",
-      "en": "President Zelenskyy announces 18 killed and 5 injured in Russian airstrikes on Zaporizhzhia"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 47.5161,
-    "lon": 35.3691,
-    "occurredAt": "2026-11-02T17:49:30+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNyOFRfNGx1TFVFSzdkVDFsNC1WdUFjcFBIVy1OSGFWakw0amhrSUI1QVNKWFRQTHFieENtalZiZmp5bnNGSkNld1dsNXY4eXN4TmxuZ0JHTVhWUks5TWt2WXhkMFpCbHBWeG9wWlh4YjlGNHE5bkFCU0JlbjZsRnBaYXBITF9MRTF3WHk0VUNNTlA1YU1WaUVhNU5UUkwtQ25qYVptQ0x2NHpKczJXRFFtUENsTWdmZWFZRW9yMWI5dw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhzhia_airstrikes_nov2026"
-  },
-  {
-    "id": "auto-43107",
-    "headline": {
-      "ja": "ウクライナ南東部クルソン州で戦闘再開、停戦終了",
-      "en": "Fighting resumes in Kherson after Ukraine ceasefire ends"
-    },
-    "summary": {
-      "ja": "ウクライナ戦争における過去最長となった6日間の停戦終了後、南東部クルソン州で戦闘が再開した。停戦は紛争全体の進展を大きく変えていない。",
-      "en": "Fighting returns to Kherson after unprecedented six-day ceasefire in Ukraine war ends. Truce did little to alter the wider trajectory of the conflict."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 46.6369,
-    "lon": 32.6146,
-    "occurredAt": "2026-11-02T17:33:19+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_kherson_fighting_resumed_2026-11-02"
-  },
-  {
-    "id": "auto-41983",
-    "headline": {
-      "ja": "スーダン電力網を狙ったドローン攻撃が拡大",
-      "en": "Drone attacks extend campaign targeting Sudan's power system"
-    },
-    "summary": {
-      "ja": "スーダン軍は電力供給システムへの攻撃が続いていることを報告し、反政府勢力RSFからの新たな脱出者も確認されている。",
-      "en": "Sudanese military reports ongoing drone attacks on power infrastructure with additional RSF defections"
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-11-02T17:26:32+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "sudan_power_system_drone_campaign"
   }
 ]
