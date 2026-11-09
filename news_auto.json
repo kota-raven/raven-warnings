@@ -1,5 +1,167 @@
 [
   {
+    "id": "auto-52431",
+    "headline": {
+      "ja": "ロシア情報当局がウクライナの動員政策変更を指摘",
+      "en": "Russian intelligence claims Ukraine lowering military mobilization age"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ウクライナが長期戦への備えとして兵役適齢年を引き下げたと主張している。ロシア情報機関の発表による。",
+      "en": "Russian government claims that Ukraine is lowering the military mobilization age as part of preparations for a prolonged conflict."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-09T09:59:32+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OMlhWbEItM1RPdGhNd0NvZ202Tk1vd0k3QmhOU3NLM2FfNFJTWkMzZi1RVXZQTmFXcG9HUi15YXIwdG14VkZR0gFMQVVfeXFMTW5uMy1RZnFNTzhjTXR0Q3AzZFJUdU5SVVNSOFVyajlncGRkSUZfNm9SVDFBcWpqYlREcGdLYU5raGNXeDZKblUybG5VSQ?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "ukraine_mobilization_policy_changes_2026-11-09"
+  },
+  {
+    "id": "auto-52447",
+    "headline": {
+      "ja": "ウクライナ大規模ドローン攻撃、ロシア側が430機の撃墜を発表",
+      "en": "Russia reports downing 430 Ukrainian drones in large-scale attack"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ウクライナの大規模ドローン攻撃に対してロシア軍が430機のドローンを撃墜したと発表した。複数の地域での攻撃があったもよう。",
+      "en": "Russia announced that its air defense downed 430 Ukrainian drones during a large-scale attack across multiple regions."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-09T08:12:28+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rSnBWQ21pNWdqTmdWb2tXM0lBcFp6RmJvTnkzeWRzUFc0a25xdmxxMUZyQl9GTFlScExvQloyZ1VYOG42ZzF1a9IBTkFVX3lxTE5XRkRjYkw2Uk5zVkowQjhYZzFOUk5SSEVPeXlJbnRLRzM4cnowVHhjQ3hIWUZVaDdON3lJTHk3NHB6SUNMWWp2LXB6M2lmdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_mass_drone_attack_russian_response_2026-11-09"
+  },
+  {
+    "id": "auto-51978",
+    "headline": {
+      "ja": "ウクライナドローンがロシア製油所に着弾、火災発生",
+      "en": "Ukrainian drone strike sets Russian oil refinery on fire"
+    },
+    "summary": {
+      "ja": "ウクライナのドローン攻撃によってロシアの石油精製所が直撃され、火災が発生した。攻撃により1人が死亡したと報道されている。",
+      "en": "A Ukrainian drone strike hit a Russian oil refinery, causing a fire. One person was killed in the attack, according to reports."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-09T08:00:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnA5V1BQUkJGU2k4NnhwUTNOM1JFYmZ6NHJxeVJfbmlHVGM5b1RxeEtTSEgwb3Bla0dYN01vZmpINUJqOEx1eHlZa3FLZFNydVU0ck1tcXpKQjNxV3c1U0V1b1VoSWc3bGFHRzBxS2lMX1BSS1NxNmtNTnB3VXVLUFp1LXM1dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_russian_refinery_fire_2026-11-09"
+  },
+  {
+    "id": "auto-51874",
+    "headline": {
+      "ja": "ウクライナドローンがロシア製油所を攻撃との報道",
+      "en": "Ukrainian drone reportedly attacks Russian oil refinery"
+    },
+    "summary": {
+      "ja": "rybarのアカウントで、ウクライナ軍がロシアのキリシ製油所を空中ドローンで攻撃したという投稿があった。ロシア北西部の主要製油施設の一つが対象とされている。",
+      "en": "A post on the rybar account reports that Ukrainian forces conducted a drone attack on Russia's Kirishy oil refinery, one of the country's major petroleum facilities."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-09T07:13:05+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84559"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_russian_refinery_kirishy_2026-11-09"
+  },
+  {
+    "id": "auto-51882",
+    "headline": {
+      "ja": "イラク北部でドローン攻撃により発電能力が大幅低下",
+      "en": "Drone attack in Iraqi Kurdistan causes major power generation collapse"
+    },
+    "summary": {
+      "ja": "クルド地域のホル・モール油ガス田への無人機攻撃により、同地域の発電能力が80%低下した。発電所への天然ガス供給が遮断され、広域の停電が発生している。",
+      "en": "A drone attack on the Khor Mor gas field in Iraqi Kurdistan caused an 80% collapse in power generation, with widespread electricity outages as gas supplies to power plants were halted."
+    },
+    "category": "disaster",
+    "country": "イラク",
+    "lat": 33.3406,
+    "lon": 44.4009,
+    "occurredAt": "2026-11-09T06:59:40+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20715"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "iraq_khor_mor_gas_field_drone_attack_2026-11-09"
+  },
+  {
+    "id": "auto-51906",
+    "headline": {
+      "ja": "イエメン首都周辺への空爆で多数の死傷者と報告",
+      "en": "Saudi airstrike on Yemeni village causes heavy casualties"
+    },
+    "summary": {
+      "ja": "サウジアラビアによるイエメン首都サナア周辺への空爆で、死者40人以上、負傷者40人以上が出たとイエメン保健省が発表した。単一の攻撃による重大な人的被害。",
+      "en": "Saudi airstrikes on a village near Yemen's capital Sana'a have resulted in at least 40 deaths and 40 wounded, according to Yemen's Health Ministry."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-09T06:22:06+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86316500/Yemen-says-death-toll-in-Saudi-attack-on-village-near-Sana-a"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_airstrike_yemen_sanaa_2026-11-09",
+    "severity": 4
+  },
+  {
+    "id": "auto-52266",
+    "headline": {
+      "ja": "ソロモン諸島で6.4の地震が発生",
+      "en": "Magnitude 6.4 earthquake strikes Solomon Islands"
+    },
+    "summary": {
+      "ja": "太平洋地域のソロモン諸島で6.4の地震が発生した。これは同地域の活発な火山地帯での地震活動の一部。",
+      "en": "A magnitude 6.4 earthquake has struck the Solomon Islands in the Pacific region."
+    },
+    "category": "disaster",
+    "country": "ソロモン諸島",
+    "lat": -9.4333,
+    "lon": 159.95,
+    "occurredAt": "2026-11-09T06:13:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVlKQzJHbzNwU19jZWZiMnBkVkE4TjN0MWZQa2E3aVRFVVRNUW9jdFJBel9kanFpNmRRVExPYURrZ3J5TUc1Q2ExeW0zQTZzM1I2QkwwaElkQjFwcFhmS0Yxc2VuY0hVNmVwMjJZREI2dG5VeDN6dHlkMWZCLUw3TjJVeDBpbWgweXVPSVpxbWRyaVBQTEE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "solomon_islands_earthquake_2026-11-09"
+  },
+  {
     "id": "auto-51403",
     "headline": {
       "ja": "エジプトで列車衝突、複数の死傷者",
