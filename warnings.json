@@ -1,63 +1,87 @@
 {
-  "generatedAt": "2026-11-08T23:38:54.277Z",
+  "generatedAt": "2026-11-09T06:02:42.970Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 181,
+  "count": 179,
   "warnings": [
     {
-      "id": "NAVAREA11-260501",
+      "id": "NAVAREA11-260503",
       "type": "NAVAREA11",
       "typeLabel": "NAVAREA XI",
-      "category": "その他",
-      "number": "0501",
-      "title": "北太平洋、マーシャル諸島西、海底線回収作業",
-      "publishedAt": "2026-11-08T09:00:00+09:00",
+      "category": "海底施設",
+      "number": "0503",
+      "title": "北太平洋、マリアナ諸島東南東、海底線回収作業",
+      "publishedAt": "2026-11-09T09:00:00+09:00",
       "geometry": {
         "type": "polygon",
         "coordinates": [
           [
-            159.93333333333334,
-            16.316666666666666
+            146.06666666666666,
+            11.866666666666667
           ],
           [
-            158.96666666666667,
-            15.933333333333334
+            146.28333333333333,
+            11.716666666666667
           ],
           [
-            158.66666666666666,
-            15.95
+            146.45,
+            11.65
           ],
           [
-            158.16666666666666,
-            15.866666666666667
+            146.45,
+            11.6
           ],
           [
-            156.91666666666666,
-            15.416666666666666
+            146.75,
+            11.383333333333333
           ],
           [
-            156.5,
-            15.333333333333334
+            146.85,
+            11.366666666666667
           ],
           [
-            155.83333333333334,
-            15
+            146.91666666666666,
+            11.25
           ],
           [
-            155.06666666666666,
-            14.25
+            146.98333333333332,
+            11.216666666666667
           ],
           [
-            154.83333333333334,
-            14.083333333333334
+            147.11666666666667,
+            11.25
           ],
           [
-            154.65,
-            14.05
+            147.33333333333334,
+            11.3
+          ],
+          [
+            147.48333333333332,
+            11.3
+          ],
+          [
+            147.58333333333334,
+            11.2
+          ],
+          [
+            147.65,
+            11.166666666666666
           ]
         ]
       },
-      "rawText": "NO.26-0501    発表日時:2026年11月08日 09時\r\n\n\r\nNORTH PACIFIC, MARSHALLS.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK, 1008 TONS, 080800Z NOV TO\r\r\nUNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n16-19N 159-56E 15-56N 158-58E\r\r\n15-57N 158-40E 15-52N 158-10E\r\r\n15-25N 156-55E 15-20N 156-30E\r\r\n15-00N 155-50E 14-15N 155-04E\r\r\n14-05N 154-50E 14-03N 154-39E.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260501&LANG=JP"
+      "rawText": "NO.26-0503    発表日時:2026年11月09日 09時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nSUBMARINE CABLE RECOVERY WORKS BY\r\r\nM/V ANIEK, 1008 TONS, \r\r\nUNTIL FURTHER NOTICE.\r\r\nIN VICINITY OF LINE JOINING\r\r\n11-52N 146-04E 11-43N 146-17E\r\r\n11-39N 146-27E 11-36N 146-27E\r\r\n11-23N 146-45E 11-22N 146-51E\r\r\n11-15N 146-55E 11-13N 146-59E\r\r\n11-15N 147-07E 11-18N 147-20E\r\r\n11-18N 147-29E 11-12N 147-35E\r\r\n11-10N 147-39E.\r\r\nCANCEL 0501/26.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260503&LANG=JP"
+    },
+    {
+      "id": "NAVAREA11-260502",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "航路標識",
+      "number": "0502",
+      "title": "シンガポール海峡、孤立障害灯浮標復旧",
+      "publishedAt": "2026-11-09T09:00:00+09:00",
+      "geometry": null,
+      "rawText": "NO.26-0502    発表日時:2026年11月09日 09時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nBATU BERHANTI ISOLATED DANGER MARKS \r\r\nLIGHT BUOY RESTORED.\r\r\nCANCEL 0491/26 AND THIS MSG.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260502&LANG=JP"
     },
     {
       "id": "NAVAREA11-260500",
@@ -162,18 +186,6 @@
       },
       "rawText": "NO.26-0493    発表日時:2026年11月02日 21時\r\n\n\r\nSOUTH CHINA SEA, NORTHERN PART.\r\r\nGUNNERY. 062300Z TO 071300Z NOV,\r\r\nALTERNATE 132300Z TO 141400Z NOV.\r\r\nAREA BOUNDED BY 10-25-10N 114-18-34E\r\r\n10-25-17N 114-25-48E\r\r\n10-20-57N 114-26-05E\r\r\n10-20-12N 114-18-34E.\r\r\nCANCEL THIS MSG 141500Z NOV.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260493&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260491",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "航路標識",
-      "number": "0491",
-      "title": "シンガポール海峡、孤立障害灯浮標消灯",
-      "publishedAt": "2026-11-01T11:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0491    発表日時:2026年11月01日 11時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nBATU BERHANTI ISOLATED DANGER MARKS \r\r\nLIGHT BUOY, 01-11.76N 103-52.51E,\r\r\nEXTINGUISHED.\r\r\nCANCEL 0273/26.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260491&LANG=JP"
     },
     {
       "id": "NAVAREA11-260485",
@@ -3372,6 +3384,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262145",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "2145",
+      "title": "千葉港、千葉灯標灯質変更",
+      "publishedAt": "2026-11-09T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2145    発表日時:2026年11月09日 13時\r\n\n\r\n千葉港、\r\r\n千葉灯標(35-34.1N 140-02.7E、\r\r\n灯台表第1巻、2222、M6433)灯質変更、\r\r\n単閃白光15秒に1閃、15海里。\r\r\n(2128削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262145&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262144",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2144",
+      "title": "佐渡島北東、射撃",
+      "publishedAt": "2026-11-09T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2144    発表日時:2026年11月09日 13時\r\n\n\r\n佐渡島北東、\r\r\n射撃、11月12日0900-2400、38-22.0N\r\r\n138-52.2Eを中心とする半径5海里の円内。\r\r\n(2100削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262144&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262143",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3408,24 +3444,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262141&LANG=JP"
     },
     {
-      "id": "NAVTEX-262140",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "2140",
-      "title": "瀬戸内海、阪神港−新居浜港、台船えい航",
-      "publishedAt": "2026-11-08T15:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          134.25,
-          34.4
-        ]
-      },
-      "rawText": "番号:26-2140    発表日時:2026年11月08日 15時\r\n\n\r\n備讃瀬戸航路東口-新居浜港、\r\r\nえい船(むろつ丸、MMSI 431003663)\r\r\n台船(神-25000-2、長さ120メートル)えい航、\r\r\n備讃瀬戸東航路東口(34-24N 134-15E)\r\r\n11月8日1900通過予定、新居浜港付近9日0630到着予\r\r\n定、速力約5ノット、長さ約220メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262140&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262139",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3436,18 +3454,6 @@
       "geometry": null,
       "rawText": "番号:26-2139    発表日時:2026年11月08日 13時\r\n\n\r\n石垣島北、\r\r\n射撃、11月13日0800-2400、24-49.3N \r\r\n124-10.2Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262139&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262138",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "制限禁止",
-      "number": "2138",
-      "title": "秋田船川港、船川区、荒天に伴う錨泊自粛の勧告解除",
-      "publishedAt": "2026-11-08T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2138    発表日時:2026年11月08日 13時\r\n\n\r\n秋田船川港、船川区、\r\r\n錨泊自粛解除。\r\r\n(2117削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262138&LANG=JP"
     },
     {
       "id": "NAVTEX-262133",
@@ -3466,18 +3472,6 @@
       },
       "rawText": "番号:26-2133    発表日時:2026年11月07日 13時\r\n\n\r\n大王埼南東、\r\r\n射撃、11月12日0800-2400、\r\r\n34-00N 137-13Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262133&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262128",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2128",
-      "title": "千葉港、千葉灯標一時変更",
-      "publishedAt": "2026-11-06T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2128    発表日時:2026年11月06日 21時\r\n\n\r\n千葉港、\r\r\n千葉灯標(35-34.1N 140-02.7E、\r\r\n灯台表第1巻、2222、M6433)一時変更、\r\r\n単閃白光10秒に1閃、3海里。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262128&LANG=JP"
     },
     {
       "id": "NAVTEX-262126",
@@ -3778,18 +3772,6 @@
       },
       "rawText": "番号:26-2101    発表日時:2026年11月04日 13時\r\n\n\r\n直江津港北西、\r\r\n射撃、11月9日、10日(予備12日、13日)\r\r\n毎日1000-2400、37-25N 37-35N \r\r\n137-45E 138-10Eの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262101&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262100",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2100",
-      "title": "佐渡島北東、射撃",
-      "publishedAt": "2026-11-04T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2100    発表日時:2026年11月04日 13時\r\n\n\r\n佐渡島北東、\r\r\n射撃、11月9日(予備日12日)0900-2400、\r\r\n38-22.0N 138-52.2Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262100&LANG=JP"
     },
     {
       "id": "NAVTEX-262062",
