@@ -1,48 +1,5 @@
 [
   {
-    "id": "2026-11-06-10",
-    "headline": {
-      "ja": "米国株急落、ナスダックが修正相場入り AI・半導体株売り安中間選挙後の続伸分を帳消し",
-      "en": "Wall Street tumbles as Nasdaq enters correction, AI chip selloff erases post-election rally"
-    },
-    "summary": {
-      "ja": "CNBC・フォックスビジネス等によると、11月5日の米国株式市場はAI・半導体関連株の急落を受けて大幅下落し、ダウ工業株30種平均は1,833.06ポイント(3.44%)安の51,523.06、ナスダック総合指数は5.52%安の24,315.00で取引を終え、10月6日につけた終値高値から10%超下落して「修正相場」入りしたという。S&P500種指数も4.36%安の7,353.73となった。前日(11/4、既報id: 2026-11-05-04)に中間選挙結果を受けて大幅続伸した分がほぼ帳消しになったという。",
-      "en": "According to CNBC and Fox Business, US stocks fell sharply on November 5 as AI and chip stocks sold off: the Dow Jones Industrial Average dropped 1,833.06 points (3.44%) to 51,523.06, and the Nasdaq Composite fell 5.52% to 24,315.00, entering correction territory (more than 10% below its October 6 closing high). The S&P 500 fell 4.36% to 7,353.73, erasing most of the prior day's post-midterm-election rally (previously reported id: 2026-11-05-04)."
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-05T21:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-06-11",
-    "headline": {
-      "ja": "ザポリッジャ州コムィシュヴァーハ空爆、死者53人に増加 捜索5日目",
-      "en": "Zaporizhzhia's Komyshuvakha strike death toll rises to 53 as search enters 5th day"
-    },
-    "summary": {
-      "ja": "既報(id: 2026-11-06-01、死者43人)の続報として、Kyiv Independent・UNN(いずれも11月6日付)によると、ザポリッジャ州行政府のミハイロ・セミキン知事は11月6日、コムィシュヴァーハへのロシア軍空爆による死者数が53人に増加したと発表したという。がれき撤去・捜索作業は5日目に入っているとされ、最終的な死者・行方不明者数はなお変動する可能性がある。[信頼性: 高](Kyiv Independent・UNNという独立した複数のウクライナメディアがセミキン知事の発表について一致した内容を報じている。ただし死者数自体はウクライナ当局発表に基づくもので、独立した第三者による検証はできていない)",
-      "en": "Following up on the earlier report (id: 2026-11-06-01, 43 dead), Kyiv Independent and UNN (both dated November 6) reported that Zaporizhzhia regional governor Mykhailo Semikin said the death toll from the Russian airstrike on Komyshuvakha has risen to 53. Search and rubble-clearing operations are reportedly in their fifth day, so the final count may still change. [Reliability: High] (Multiple independent Ukrainian outlets -- Kyiv Independent and UNN -- report matching figures attributed to Gov. Semikin; however, the toll itself rests on Ukrainian official statements and has not been independently verified by a third party.)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリッジャ州",
-    "lat": 47.7194,
-    "lon": 35.5247,
-    "occurredAt": "2026-11-06T00:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-06-12",
     "headline": {
       "ja": "10月米雇用統計、非農業部門雇用16.5万人増 失業率4.1%に低下",
@@ -168,28 +125,6 @@
     "source": {
       "name": "Focus Taiwan",
       "url": "https://focustaiwan.tw/business/202611060016"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-08-03",
-    "headline": {
-      "ja": "ハワイ・キラウエア火山、エピソード56の噴火 溶岩噴泉が約200mに達し約6時間で終息",
-      "en": "Hawaii's Kilauea erupts in Episode 56, lava fountains reach ~200m before ending after about 6 hours"
-    },
-    "summary": {
-      "ja": "米地質調査所(USGS)・ハワイ火山観測所(HVO)の発表やmauinow・watchers.news等の報道によると、キラウエア山ハレマウマウ火口で進行中の噴火活動の「エピソード56」が、現地時間11月5日12時10分(日本時間同日22時10分頃)に開始したという。溶岩噴泉は高さ約200m(660フィート)に達し、噴煙は高度約5,500m(18,000フィート)まで上がったとされる。噴火は同日18時01分(現地時間)に突如終息し、継続時間は約6時間だったという。USGSは火山警戒レベルを「ウォッチ」、航空カラーコードを「オレンジ」に維持しているとされる。噴火地点はハワイ火山国立公園内のカルデラ内であり、人的被害・建物被害の報道は確認できていない。前回(11月5日17時JST)までの定時収集では噴火開始の確証が取れていなかったが、本時間帯の調査で開始・終息の経緯が複数の報道・USGS発表で確認できたため採用した。[信頼性: 高](USGS/HVOの公式火山情報に基づき、mauinow・Honolulu Star-Advertiser・watchers.newsなど独立した複数の報道が同様の経緯を伝えている)",
-      "en": "According to announcements from the US Geological Survey's Hawaiian Volcano Observatory and reporting by Maui Now, Watchers.news and others, 'Episode 56' of the ongoing eruption at Kilauea's Halemaʻumaʻu crater began at 12:10 p.m. local time on November 5 (around 10:10 p.m. JST the same day). Lava fountains reportedly reached heights of about 200 meters (660 feet), with the plume rising to roughly 5,500 meters (18,000 feet). The episode ended abruptly at 6:01 p.m. local time the same day, lasting about six hours in total. USGS is reported to have kept the Volcano Alert Level at WATCH and the Aviation Color Code at ORANGE. The eruption site is within the caldera inside Hawaii Volcanoes National Park, and no reports of casualties or property damage were found. Earlier collection rounds (through 17:00 JST on November 5) could not confirm that the episode had begun, but this round's research found multiple reports and USGS notices confirming both its start and end, so it is included here. [Reliability: High] (Based on official USGS/HVO volcano notices, corroborated by multiple independent outlets including Maui Now, the Honolulu Star-Advertiser and Watchers.news reporting a consistent sequence of events.)"
-    },
-    "category": "disaster",
-    "country": "米国",
-    "region": "ハワイ州",
-    "lat": 19.4069,
-    "lon": -155.2834,
-    "occurredAt": "2026-11-05T22:10:00+00:00",
-    "source": {
-      "name": "Watchers.news / USGS HVO",
-      "url": "https://watchers.news/2026/11/06/kilauea-episode-56-ends-abruptly-after-nearly-6-hours-of-lava-fountaining-hawaii/"
     },
     "reliability": "high"
   },
