@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-51403",
+    "headline": {
+      "ja": "エジプトで列車衝突、複数の死傷者",
+      "en": "Trains collide in Egypt killing 7, injuring over 100"
+    },
+    "summary": {
+      "ja": "エジプトで列車同士が衝突し、7人が死亡し、100人以上が負傷した",
+      "en": "Seven dead and more than 100 injured after trains collide in Egypt"
+    },
+    "category": "disaster",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-11-08T17:35:13+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "egypt_train_collision_2026-11-08"
+  },
+  {
     "id": "auto-51618",
     "headline": {
       "ja": "サウジ連合軍がフーシ派のミサイル発射拠点を攻撃",
@@ -23,6 +46,52 @@
     "eventKey": "saudi_houthi_missile_defense_2026-11-08"
   },
   {
+    "id": "auto-51406",
+    "headline": {
+      "ja": "エジプト列車脱線で死傷者",
+      "en": "Derailed train carriages in Egypt"
+    },
+    "summary": {
+      "ja": "エジプトで列車脱線事故が発生し、複数の客車が脱線した",
+      "en": "Footage shows derailed carriages after fatal train crash in Egypt"
+    },
+    "category": "disaster",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-11-08T16:05:57+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "egypt_train_derailment_footage_2026-11-08"
+  },
+  {
+    "id": "auto-51338",
+    "headline": {
+      "ja": "エジプトで列車事故、複数の死傷者",
+      "en": "Train accident in Egypt kills driver, injures at least 64"
+    },
+    "summary": {
+      "ja": "エジプトで列車事故が発生し、運転手が死亡し、少なくとも64人が負傷した",
+      "en": "Train accident in Egypt kills driver, injures at least 64: local media"
+    },
+    "category": "disaster",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-11-08T13:16:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Wekk4WjRUQ1lENUJTNzRNOHpYczR2YktGLU0zbVc4THlnbzJjVTR1STBGQ205S3Jra2l0S3M4bmgyVjhEdTVtZ3JpTVd4WmJoZndZRkpsZVhlXzR2R0dmclhrc0d4T1ZPUGhuUmtJbms3UUhRZGRiRC01cHk?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "egypt_train_accident_2026-11-08"
+  },
+  {
     "id": "auto-51364",
     "headline": {
       "ja": "日本中部で震度5.7の地震、20人以上が負傷",
@@ -44,6 +113,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "japan_earthquake_central_2026-11-08"
+  },
+  {
+    "id": "auto-51340",
+    "headline": {
+      "ja": "エジプトで列車脱線、50人以上が負傷",
+      "en": "Train derailment in Egypt injures at least 50"
+    },
+    "summary": {
+      "ja": "エジプトで列車が脱線し、少なくとも50人が負傷した",
+      "en": "At least 50 people injured in train derailment in Egypt: media"
+    },
+    "category": "disaster",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-11-08T12:45:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkE3SERkWHZyWjg1SEp5Y1VKaE9IWkFXM2xObTRtQXRkVTZDT3NVamRxRFZWR09zaEtQM3ZFLUZDRDYyNjNQT295NmlyOFBfT1ZJWGZSeEt0MDRlZk5pdFdVWGVjU0hzM3NmbmF2UWNnRkN3X0dWajBDS3ZWNFJDQUo0a0dKQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "egypt_train_derailment_2026-11-08"
   },
   {
     "id": "auto-51056",
@@ -92,6 +184,29 @@
     "eventKey": "saudi_coalition_intercept_2026-11-08"
   },
   {
+    "id": "auto-51254",
+    "headline": {
+      "ja": "ウクライナ・ドニプロ地域が大規模停電",
+      "en": "Russian strikes leave over 600,000 without power in Ukraine"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領ゼレンスキーは、ロシアの攻撃でドニプロ地域の60万人以上が停電状態にあると発表した",
+      "en": "Zelenskyy says Russian strikes leave over 600,000 people without power in Ukraine's Dnipro region"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.4666,
+    "lon": 35.0407,
+    "occurredAt": "2026-11-08T11:34:49+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTV2QTR4Z3dSS1Y5UUNreklDTGNnZmZPNEZMbHlqTXFmc1A2ZlBrMTNvMUpRMU13ZWdJQjRncHMwMjlwU0QtVlZIWHY0RGpCamQyOGdpT2lYWDllMVVDX2w2TnJlVDBQWGpRQWYtLWxKMVNCUEUzdlktbkh5Ml9MUVEteFZMSFNCSFZYa3c0Y185c0doWmVtN2Fhc1pWQnFSMWdlOGg3TDF2c3liTDItQ2V2Tm8tNW1ySHdRejFNWmotMTF4blhadGtFcUhvYW9xQjNR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_dnipro_power_outage_2026-11-08"
+  },
+  {
     "id": "auto-50985",
     "headline": {
       "ja": "ホルムズ海峡で3隻のタンカーが機雷で火災",
@@ -114,6 +229,29 @@
     "auto": true,
     "eventKey": "strait_hormuz_tanker_mines_2026-11-08",
     "severity": 4
+  },
+  {
+    "id": "auto-51246",
+    "headline": {
+      "ja": "サウジアラビア・アラムコ施設が攻撃被害",
+      "en": "Saudi Aramco building suffers minor damage in attempted attack"
+    },
+    "summary": {
+      "ja": "サウジアラビア政府は、リヤドのアラムコ建物が試みられた攻撃を受けて軽微な損害があったと発表した",
+      "en": "Saudi Arabia says Aramco building suffers minor damage after attempted attack in Riyadh"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-08T10:51:31+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXJtOWhiN0NWMldyUUZBcXRRX20zQnBIbG1ad1dEamtUQ0V6LTBLUXdVeHdjaEk5R0R1QVZvMzY3QkNKWVJ1b1c1VDU2RUpVckJ5ZGVQNFp0YWNYS3VzVFBHWlNhcnpBQUg2Mk9IdGo5Q1o1NzhDTTVEYVpCTElTRU5wdW53Tkg0QXlRUFJTS2QzNjNBMGhWZFEwTXBJTTIxR29tbXE0WjdUUHAyWXd3TkhtUkl6cDR4TjBLY2hCdXZvdkZObzZhSm5vMA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_riyadh_aramco_attack_2026-11-08"
   },
   {
     "id": "auto-50986",
@@ -231,6 +369,29 @@
     "eventKey": "taiwan_png_diplomatic_closure"
   },
   {
+    "id": "auto-51265",
+    "headline": {
+      "ja": "台湾がF-16戦闘機を受領",
+      "en": "Taiwan receives second batch of F-16 Block 70 jets from US"
+    },
+    "summary": {
+      "ja": "台湾はアメリカから第2陣のF-16ブロック70戦闘機を受け取った。中国は反発している",
+      "en": "Taiwan receives 2nd batch of F-16 Block 70 fighter jets from US amid China's opposition"
+    },
+    "category": "conflict",
+    "country": "台湾",
+    "lat": 25.0531,
+    "lon": 121.5264,
+    "occurredAt": "2026-11-08T09:34:39+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdzQyWUdVczVnMlFtakI5VmlYbEV6X3Z4MDBCWTF5RFVYR2NIbDRQWHEtejhFZDViMFFHbDAyUTlGQ2VuZmxxc3BzMGJsSXA3LVRpMDd3YzlrOENTRmt6elhpczd1MzJsYzUtdXl1Z28tR3YycjZlaUVtdlBENkI1cU11bEtCWmJUS0NJajJXbTd4RE5BNTNUMDFkSXp3SVpDUG9DVmZ0Y0x2UU5YYmJEWkgxQTBDVF9yQkJwdjFUMUZ2aU5LTUdvX0RJcko?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "taiwan_f16_delivery_2026-11-08"
+  },
+  {
     "id": "auto-50835",
     "headline": {
       "ja": "米軍、オマーン湾の商船を無効化と発表",
@@ -277,6 +438,29 @@
     "auto": true,
     "eventKey": "senegal_migrant_boat_sinking_2026-11",
     "severity": 4
+  },
+  {
+    "id": "auto-51211",
+    "headline": {
+      "ja": "ポーランド・クラクフテロ攻撃",
+      "en": "Poland terrorist attack"
+    },
+    "summary": {
+      "ja": "トルコ政府はポーランドでの武装テロ攻撃を非難する声明を発表した",
+      "en": "Turkish government issued statement regarding terrorist attack in Poland"
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 50.0614,
+    "lon": 19.9366,
+    "occurredAt": "2026-11-08T08:10:57+00:00",
+    "source": {
+      "name": "トルコ 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjE4Z01hNXJuY0NMOVFZcUlpc1Uyb2ljcUptNjN1QnZua2hhNy1qSVJhT1VXdGFjU1RxQXYtWUJtWlVtVHdyYXgxbnh6UF9FMVhRU0dRMlBxaXNtZHlhcTNhZzVsNmxZNDhsUGNHWldMNENlcUxwNWFzTUlfTzVPQzF4dEdQajNGcEl3UmlR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_krakow_terror_attack_2026-11-08"
   },
   {
     "id": "auto-50880",
@@ -395,6 +579,30 @@
     "eventKey": "saudi_intercept_ballistic_missile_2026-11-08"
   },
   {
+    "id": "auto-51217",
+    "headline": {
+      "ja": "ポーランド・クラクフ銃撃事件で国家喪に",
+      "en": "Deadly shooting in Krakow declares national mourning"
+    },
+    "summary": {
+      "ja": "ポーランドのクラクフで銃撃事件が発生し、複数の死傷者が出た。ポーランド政府は2日間の国家喪の期間を宣言した。ロシア通信社タスも同内容を報道",
+      "en": "Poland declared 2 days of national mourning after deadly shooting in Krakow"
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 50.0614,
+    "lon": 19.9366,
+    "occurredAt": "2026-11-08T04:21:33+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanFvZ25qU2RNVk54X0lBU0pTcG5ncHgwSUVjcFpCOUNuTF9CRFFXaENXZEVmRnp2ZzhwYkJQZkNkZmh3bWM5Y1MyNVBlNjVKQWxHX21aVzhqSUM2WU5UeXVsZEQ0UXFmcUVUanp5dG9PZ1piWXRNNXZXYUVfenBWWEpSYW0zUEtCUzRTUmVJNVVleUFTdjQ0dFIwOURTdmg0Z1Q1Q3RnbkNnM21GOHdwTg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_krakow_shooting_2026-11-08",
+    "severity": 4
+  },
+  {
     "id": "auto-50935",
     "headline": {
       "ja": "フーシ派「サウジ空爆で最低33人が殺害」",
@@ -489,6 +697,121 @@
     "severity": 4
   },
   {
+    "id": "auto-51253",
+    "headline": {
+      "ja": "イスラエル軍がパレスチナ児童に発砲",
+      "en": "Israeli forces shoot Palestinian child in West Bank"
+    },
+    "summary": {
+      "ja": "イスラエル軍がヨルダン川西岸での作戦で、パレスチナ児童に発砲し、2名を拘束した",
+      "en": "Israeli forces shoot Palestinian child, detain 2 in West Bank raids"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-08T01:45:23+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWMyOWJUeGMtRVhaWHJ0bnR2NUZzMkhFaUlIZHNSeVFkU2lBWFNNOHVMcnBuYWloNktKTTdBUjV5S3A3bzI4TDZTbkJCNHNzYWdNdW85M051WnlDUldSNmY5QlFQRklZM0J6Sk1sWWZVVGlFWnh3Z0pFZGZVRHZDcFlYclZNZXJwMUtqUzBiUTZjUkhpTld2d3pPS2MxU3FnSjBEV2RPTk51SzNjR2hUZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_west_bank_shooting_2026-11-08"
+  },
+  {
+    "id": "auto-51257",
+    "headline": {
+      "ja": "イスラエル軍がシリア南部で作戦",
+      "en": "Israeli troops raid school and homes in southern Syria"
+    },
+    "summary": {
+      "ja": "イスラエル軍がシリア南部で学校と住宅を襲撃した",
+      "en": "Israeli troops storm school, raid homes in southern Syria"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-08T01:44:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakpmalFLRFdVUEwzTDhQVTRhOEMwaWNadmhmM2c4blpod25SQ0NEMWFZQWE0S1htcF95ZnJaLTZJYVZ0Q3FlSFZEd0JyZ2huZnR6c09Bb21aRzBjb1pzY3ZfNm9FXzNVUUdRdHIzQzdoa0Jqb3lDMUJSUk8zV20zSHZTeHRKNVdTQ21WWjItZ3NjM3NoZzBBM0xpcHFfYnVtdk9R?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_syria_raids_2026-11-08"
+  },
+  {
+    "id": "auto-51233",
+    "headline": {
+      "ja": "イエメンで報道写真家が被弾死",
+      "en": "Photojournalist killed in Yemen"
+    },
+    "summary": {
+      "ja": "イエメンのマリブでの武力紛争取材中に報道写真家が被弾した",
+      "en": "Photojournalist killed while covering fighting in Yemen's Marib"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.4625,
+    "lon": 45.3258,
+    "occurredAt": "2026-11-07T23:05:42+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFA3VVdBMksyWVROOWpfMG91ZXJ0YjIyNExoVDM3NHRLN3didHRWLWhJQUthLVJDV05OYWtzcHlpUjZhb3BKd2hWNXRScDlVeGdfZWt4MG5HWTA0T0k4RzJ2anpINmlQcGVWODlKTVpyZnpjLUlKdEZCNzk5NEZLTVh5RjlacE1oSk01anRObnlUUkRKSi1qSU9WRzdnSVkzcTBDXzQ5dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_marib_journalist_killed_2026-11-07"
+  },
+  {
+    "id": "auto-51235",
+    "headline": {
+      "ja": "イラン革命防衛隊がホルムズ海峡でタンカー攻撃報告",
+      "en": "Iran reports oil tanker incidents in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊は、ホルムズ海峡付近で2隻の石油タンカーが機雷に接触して火災を起こしたと発表した",
+      "en": "Iran's Revolutionary Guards say 2 oil tankers hit mines and caught fire near Strait of Hormuz"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T22:21:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSjhCUnp2dlpKMnEtMFRhdGxEdVludGg1OXFvN09UMktIVGhENWFMekt5ZnNzdTRRX25wb3NrWTdkektWLW12cmsxRXhudUVMcXRsWG52cEEyMzg4MS12ZXRZdHFySmFkZjFnZjV3WHdnZUQ4bVlZckFEdUZud2tYaE43eVNJTlJzRFpoZndIZEdEcE9ZeFNpcDBINGZmTXc5SlJQVVp0eFlfa1VuQU1nVVZpN3VBejJtR0kyZE9RbW1UdWRsNmI1SWxrU3JzcEE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_strait_hormuz_tanker_incident_2026-11-07"
+  },
+  {
+    "id": "auto-51241",
+    "headline": {
+      "ja": "クラクフ銃撃犯が極右思想の影響か",
+      "en": "Krakow attacker may be influenced by far-right ideologies"
+    },
+    "summary": {
+      "ja": "ポーランド内務大臣は、クラクフの攻撃者が極右イデオロギーの影響を受けている可能性があると述べた",
+      "en": "Krakow attacker may be influenced by far-right ideologies: Polish interior minister"
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 50.0614,
+    "lon": 19.9366,
+    "occurredAt": "2026-11-07T21:57:25+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3N0ZWZIZzJ5bXJUdnFfa290VW8zMEVNa1ZURzBiLVNWWjRSNi12MjJ0aVpneHNndlN5Z0J5NVY2N3FvUGNaQ1ZIYVNFaDVBME9pN3FOUWZqcms4LTVXSmctajhxWFlONlZ5dU56YjVHaGkwMllENDJaNkswU2hMQk4xMG1oM0l5Q05CSldUM2xqcjBfeDdYOERtUmdyUHJ4SFJ0ZnhlTTRFcVQ1eTA0dTJmUk9FQVQ2dHc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_krakow_extremism_2026-11-08"
+  },
+  {
     "id": "auto-50656",
     "headline": {
       "ja": "イラン南部地域で爆発音を確認",
@@ -511,6 +834,29 @@
     "auto": true,
     "eventKey": "iran_southern_explosions_2026-11-07",
     "severity": 4
+  },
+  {
+    "id": "auto-51281",
+    "headline": {
+      "ja": "イラン南部で爆発報告",
+      "en": "Explosions reported in southern Iran"
+    },
+    "summary": {
+      "ja": "イランの南部地域(ケシュム、ジャスク)で爆発が聞かれたとの報告がある",
+      "en": "Explosions heard in southern Iran's Qeshm, Jask: Report"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-07T20:24:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0NaQnBJbWNldzYxY2JtNG1YNXM3R1N4azhvbzN4RTBJTnh4czQ3Rkd3WmNNbWdvVVlvdEdLYk1VSU9kSElrSFlaYXFndjk2NkZpYWJmN1RQZlE0bDgyRlZxdllMSjI1NTRBcGRlby03M0EwSklNMS1uRUotaC1SQ2V6TEVlMVI3X0xTbTdHUi1kTWN3d1N4MnJR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_explosions_2026-11-07"
   },
   {
     "id": "auto-50648",
@@ -748,12 +1094,12 @@
   {
     "id": "auto-51157",
     "headline": {
-      "ja": "キング・ハーリド国際空港への攻撃報告",
-      "en": "Two Attacks Target King Khalid International Airport Facilities and Saudia Aircraft"
+      "ja": "サウジアラビア・リヤド空港が攻撃被害",
+      "en": "King Khalid International Airport and Saudia Aircraft Attacked"
     },
     "summary": {
-      "ja": "GACA（一般民間航空委員会）は、キング・ハーリド国際空港の施設とSaudia航空機を標的とした2件の攻撃を報告。",
-      "en": "Saudi Arabia's GACA reported two attacks targeting King Khalid International Airport facilities and a Saudia aircraft."
+      "ja": "サウジアラビア政府は、キング・ハーリド国際空港の施設とサウジア航空機が2件の攻撃の標的になったと発表した",
+      "en": "Saudi Arabian government announced two attacks targeting King Khalid International Airport facilities and a Saudia Aircraft"
     },
     "category": "conflict",
     "country": "サウジアラビア",
@@ -766,7 +1112,7 @@
     },
     "reliability": "high",
     "auto": true,
-    "eventKey": "saudi_airport_attacks_2026-11"
+    "eventKey": "saudi_riyadh_airport_attack_2026-11-07"
   },
   {
     "id": "auto-51150",
@@ -2321,493 +2667,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "sudan_power_system_drone_campaign"
-  },
-  {
-    "id": "auto-43115",
-    "headline": {
-      "ja": "イラン当局に銃撃された少女の母が真実究明を求める",
-      "en": "Iranian mother seeking justice after daughter shot dead by authorities"
-    },
-    "summary": {
-      "ja": "イランで銃撃により殺害された少女セヴダの母親サミラが、テヘラン当局に対して真実究明と正義を求めて立ち上がっている。",
-      "en": "Mother of Iranian teenager shot dead by authorities speaks out, seeking justice against the Tehran regime following daughter Sevda's killing."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T06:05:34+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_teen_sevda_killing_2026"
-  },
-  {
-    "id": "auto-41907",
-    "headline": {
-      "ja": "メラニア・トランプ氏がアレシキ任務の成功を表明、ロシアとウクライナに感謝",
-      "en": "Melania Trump calls mission in Oleshky successful, expresses gratitude to Russia, Ukraine"
-    },
-    "summary": {
-      "ja": "メラニア・トランプ氏はアレシキでの任務が成功裏に終わったと述べ、この成果に対するロシアとウクライナの協力に感謝の意を示した。",
-      "en": "Melania Trump states the mission in Oleshky was successful and expresses gratitude to Russia and Ukraine for their cooperation."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 46.6255,
-    "lon": 32.7243,
-    "occurredAt": "2026-11-02T04:50:56+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE95Vkc0Wm5IOFdaWU5KNEdUaWg0VnZQR2dNOThsTS1SVHYteGZ0QVJOTHJYbW84dFp0cEdRX1BOdzV3Tl810gFKQVVfeXFMT21TY2NKaUtKTVlUSjlYNXZqRy1abjhkN2ZETFpmRGk2U3pybjlMM1JwLXA1cHJFYzJadTRLNl9kckhrdDZIbVJVakE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_oleshky_ceasefire_evacuation_2026-11"
-  },
-  {
-    "id": "auto-41911",
-    "headline": {
-      "ja": "トランプ氏が米国中間選挙直後のイラン攻撃再開を否定",
-      "en": "Trump doesn't intend to resume strikes against Iran right after midterm elections"
-    },
-    "summary": {
-      "ja": "トランプ氏は、アメリカの中間選挙直後のイランに対する軍事攻撃の再開は予定していないと述べた。",
-      "en": "Trump states he does not intend to resume military strikes against Iran immediately after US midterm elections."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T04:27:57+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SeVhnV1pITVpZU3pqdlpNbkl1N2hhdGNZR09FQmVUbkJURTE3UHEzcE9NeEhGNkMyMEE4cTMyZ1BpQUhR0gFKQVVfeXFMTW0yQUt2Mk1Ka1VXa2VDQVBJUVVHRmxmUDdfbldmVm0zUWs3NzlFZjN6VHVfQU1RMnhoa25JNERqUUQxY0VVRkdJSGc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "trump_iran_military_stance_2026-11"
-  },
-  {
-    "id": "auto-41693",
-    "headline": {
-      "ja": "イランが広範で長期の紛争の可能性を警告、トランプ大統領が空爆脅威を継続",
-      "en": "Iran warns of wider, longer conflict as Trump renews threats of strikes"
-    },
-    "summary": {
-      "ja": "イランはより広範で長期の軍事紛争の可能性を警告し、トランプ大統領がイランへの空爆脅威を改めて示唆した。",
-      "en": "Iran warns of potential wider and longer military conflict while Trump renews threats of airstrikes against Iran."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T04:27:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11a09LS0Fjc1BRRTBZNDJkWWdGQUdNUmo2eVk5Tk4zVUU5SjQwVEx5YVk2VmdaWHdyc2IxN1BsTmFVZG51MXoyM1NEeWg5bi1hX00wTjgyYzVRb0Nnd0FPcWxQTFJCMmxNNmdzTmZQOHBRWUpkTlZ1VzRTUFE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_trump_military_escalation_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-41868",
-    "headline": {
-      "ja": "ナイジェリア軍がボルノ州でISWAP指導部を殺害",
-      "en": "Nigeria military kills senior ISWAP commanders in Borno"
-    },
-    "summary": {
-      "ja": "ナイジェリア軍はボルノ州での作戦でイスラム国西アフリカ支部(ISWAP)の幹部複数人を殺害し、その中にはシュラ評議会メンバーが含まれていると発表した。",
-      "en": "Nigeria military reports killing senior ISWAP commanders in Borno, including a Shura Council member, during counter-terrorism operations."
-    },
-    "category": "conflict",
-    "country": "ナイジェリア",
-    "lat": 9.0579,
-    "lon": 7.4951,
-    "occurredAt": "2026-11-02T04:18:17+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTFWdXpBdHFzaG9SZVY0MGRCOFFtUHhrbmFEalMyLXJoc2pLNkJsdkZ6MnNJZ215ekJ4WWw2RGJGR19VSkhHSzg5Y2hTOHdMRjRENEZOcXI3am4xdkxWT3VuTjhka2NOV2xJejdDSTlzc3NKbmJNSFh2LWVZMVgydkdITlpxQUdCckE4Z2ZJOU5XazdwMkdoOXFaZGIwOGRFXzYxcTZGUDgteUJiTE43V3dwZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "nigeria_iswap_military_operation_2026-11"
-  },
-  {
-    "id": "auto-41909",
-    "headline": {
-      "ja": "トランプ氏がイランとの合意がない場合の新たな措置を示唆",
-      "en": "Trump suggests potential new measures against Iran if no deal is reached"
-    },
-    "summary": {
-      "ja": "トランプ氏は、イランとの間で新たな合意に到達しない場合、新たな措置を講じる可能性があることを示唆した。",
-      "en": "Trump suggests he may pursue new measures against Iran if no agreement is reached."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T03:59:50+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12cnZkTW1hdzczRDZjWHMyUU9WRFZfTXdHbEVGVU0tQUoyLW1ZZGZaSFJDSkY4M2FPYkpuMnJ1RDlUdHpk0gFKQVVfeXFMUDNqd1BseUZNekZUOUNwUk1wQzIyOFRNcm1kZVc0QUJDaExrYjQtX1VjdnFYLWNwckdLMlA3Tl9SVWNkTlpsZ3hOSEE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "trump_iran_negotiations_threat_2026-11"
-  },
-  {
-    "id": "auto-41856",
-    "headline": {
-      "ja": "パレスチナ側発表：イスラエルがガザに10万トン以上の爆発物を投下",
-      "en": "Palestinian sources claim Israel dropped over 100,000 tons of explosives on Gaza"
-    },
-    "summary": {
-      "ja": "パレスチナのメディアオフィスは、イスラエルがガザ地域に10万トン以上の爆発物を投下し、約2200世帯が壊滅したと主張している。",
-      "en": "Palestinian Media Office claims Israel has dropped over 100,000 tons of explosives on Gaza, destroying approximately 2,200 families."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-02T03:30:33+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUTBKSVN4d3JjWG5FYi1KUlVXNkxJaGZSNHhQYkFRRzcwUktUbXV5TGJBbHpsdFhPZTUta3Z5SC12UXZicVA5aTJhaU9OMTRYVGNDak1MTC1GdmdGdnd5UWZKZHdWWHJ6NEsyQzJfUjNZZFQ3RlRBcjBlelFtbkFVVnNISjNnQjkwMUd3S2xpR3RKclA0bzFUaTZzTVhlSnd0RHBQZDRuS1cyUlJsNGJYaldqRkdvUmo5bFMtbkJsOFRzb04xVC1MWFZ4V3cxVGNPZWJF?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_gaza_explosives_claims_2026-11",
-    "severity": 5
-  },
-  {
-    "id": "auto-41687",
-    "headline": {
-      "ja": "イラン革命防衛隊(IRGC)がホルムズ海峡でのタンカー2隻爆発事案を発表",
-      "en": "Iran's IRGC reports two oil tankers exploded after hitting mines in Hormuz Strait"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊は、ホルムズ海峡において「違反」タンカー2隻が機雷に接触して爆発したと発表した。",
-      "en": "Iran's Islamic Revolutionary Guard Corps claims two 'violating' oil tankers exploded after hitting mines in Hormuz Strait."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T03:11:16+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfWFUwNVUybDhMdDdCamI1cm14N3owX3ljbVV4RnRLWWpXM2VpaXJ1UmM0Y0tDYllOZlpwWlRXeEZHa2Q3dUdMTkkyRy1JR25KUzlsQVQtbjBubFFIZGJuWjVuMnBEdFZ5Ti1Na3BhdlhaUnFoaXZwRzc4ckg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_hormuz_strait_tanker_incident_2026-11"
-  },
-  {
-    "id": "auto-41864",
-    "headline": {
-      "ja": "国連事務総長がフーシ派拘留中のスタッフメンバーの死亡を非難",
-      "en": "UN chief condemns death of staff member in Houthi detention"
-    },
-    "summary": {
-      "ja": "国連事務総長は、フーシ派の拘留下で死亡した国連職員の死亡について非難する声明を発表した。",
-      "en": "UN Secretary-General condemns the death of UN staff member while in Houthi detention."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-02T02:37:44+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjl4Q2x4WUkzWHFQdTMwNzJ1UmlGZjhNSXNRWGI2REhveFBjSjlZX3NIdGhXcmRoUzJ3cEVIYnphU1g2T0pxY2FIMjZxV2VDVXZKU21JU0pOaGJwU09kY1M1c1NESTlDbW5qTEZKQ3NRSmFkakdfYTgwYjB6WWVEQnc0ay1xUnFoMk42MHBsaHc1eGxOWGtlaFpMTXo0MWhqRWRvU01vdVVzTFdkX0xFdWlwQQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthi_un_staff_death_2026-11"
-  },
-  {
-    "id": "auto-41874",
-    "headline": {
-      "ja": "イスラエル元司令官が「不可逆的な崩壊」の危機を警告",
-      "en": "Former Israeli military commander warns Israel faces 'irreversible collapse'"
-    },
-    "summary": {
-      "ja": "イスラエルの元高級軍司令官は、同国が「不可逆的な崩壊」に直面しているという警告を発表した。",
-      "en": "Former senior Israeli military commander warns that Israel faces an 'irreversible collapse'."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-02T02:31:44+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjF5VU5LNHhmNzlLTE1ZNWdENkRNQXF4WWI2LXpJb2FhWnd6NFhXNzZFSWJEUUNXU191N3NCckdqYWg4dl84VjZSeUc0aWZ0TjI2dlNCUlFwbl9IdTk5UlFzaEhIbDBuNG9fM1d3NDNBdTVRSmt4U2NTMHg4eXlTYXF1WkxkaEtONmd1UTl0SWo4bDZJTmhtUklIclEyVnl2RGxIWXNnZldZbDZCdzRHVA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_military_collapse_warning_2026-11"
-  },
-  {
-    "id": "auto-41872",
-    "headline": {
-      "ja": "アラブ連盟がイスラエルの獄中拷問疑惑に対する国際調査を要求",
-      "en": "Arab League calls for international probe into torture allegations of Gaza detainees in Israeli prison"
-    },
-    "summary": {
-      "ja": "アラブ連盟は、イスラエルの獄中におけるガザ被拘禁者への拷問疑惑について国際的な調査を要求する声明を発表した。",
-      "en": "Arab League calls for international investigation into alleged torture of Gaza detainees held in Israeli prisons."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-11-02T02:27:28+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZGR1a2MzeFdoc2FXY0FFRHl6UXhJcjZtd0tRU3FZX3hIYXdZMFhsTnpicldVN203N01GS2JLS29PVlhnTThBcGVVOGQyb0Z6UlJLeE1ROEVGVDUyNEljc1d1cW1xdFdCNVZ3MmV0b0pVYTB0RGRsUE9XWjZHb3RnOFZLdTRDZ0F2NDVDc2RlMThhVlJ0aGtaZEVsVHlDQmcyZjdNRGJ3U2JxVGRRSVlpYm9qU0NPYUpIakhaNnZybFcxYVlUdjMtV0M4d3dyeHRt?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_detainee_torture_allegations_2026-11"
-  },
-  {
-    "id": "auto-41875",
-    "headline": {
-      "ja": "イエメン軍がフーシ派約500人を「無力化」したと発表",
-      "en": "Yemeni army says nearly 500 Houthis 'neutralized' in latest operations"
-    },
-    "summary": {
-      "ja": "イエメン軍は最新の軍事作戦でフーシ派約500人を「無力化」したと主張している。",
-      "en": "Yemeni military reports 'neutralizing' nearly 500 Houthis in latest operations."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-02T02:05:53+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmVySEdxNC1FZDRhajkyZHNMZUJwRy01d1FNSkdQUlNxWWpod1I5a3Z6bGZSSms4Yk1CQTFkNzRRQ3MxZVdoelR3cjRxMkROLTU5a3UySkJEWWF5d0lTOVZROGUweTJUbnZGT05YR1ZLdW9md1NkMUpNYzR2YWpjenFobWdFYUlFY1luQlFPWlZraDM0bmlLdHdJTjY5aHpWWjVGYU1Qb1JUS3RyU0hCcC1ONA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_army_houthi_operation_2026-11"
-  },
-  {
-    "id": "auto-41888",
-    "headline": {
-      "ja": "アメリカがイラン革命防衛隊司令部を破壊したと主張",
-      "en": "US claims to have destroyed IRGC headquarters, cutting off 'head of the snake'"
-    },
-    "summary": {
-      "ja": "アメリカ政府はイラン革命防衛隊(IRGC)の司令部を破壊したと主張し、イランの軍事指導部を無効化したと述べた。",
-      "en": "US claims to have destroyed Islamic Revolutionary Guard Corps headquarters, effectively decapitating Iran's military leadership."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T01:54:33+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWltTXIybEFjZ1ZCZm1mMy1XVjlSb1lvQ2tJOGpmRTFUbEZuTUpQM2h0UnNqZm1HUnA2VFdBNkZBemt6Mkc2TnRDSTZxdDhhMlRZT2VtVHR3MmR6MmV0Vl9XV2dZMkoyTG54UmdUNmFhRVUtaWVTb1FCdGxhbUVhQzA0UjN5TzdMQUZ5QkdYTVB3ZGlBYWMwOS1xNGN2Q1V2eGV1NmdSSGFOaVNFU1JTRlJXU0VPYWNxUXNnQjZZX0o?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "us_iran_irgc_strike_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-41648",
-    "headline": {
-      "ja": "ウクライナとロシアの警報アプリがサイバー攻撃被害",
-      "en": "Ukraine and Russia air alert apps hit by cyberattacks"
-    },
-    "summary": {
-      "ja": "停戦終了後、ウクライナの警報アプリがロシアからの攻撃と思われるサイバー攻撃を受け、虚偽の核脅威警報を配信。ロシア側のアプリにも偽情報が表示されている。",
-      "en": "After truce ends, Ukraine's air raid alert app suffers cyberattack distributing false nuclear warnings; Russia's app also displays false information."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-02T01:40:50+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russia_alert_app_cyberattack_2026-11"
-  },
-  {
-    "id": "auto-41638",
-    "headline": {
-      "ja": "ウクライナ空襲警告アプリが詐欺ハック、ロシアアプリも同様の被害",
-      "en": "Ukraine air raid app hacked with false radiation threats; Russian app also compromised"
-    },
-    "summary": {
-      "ja": "ウクライナの空襲警告アプリが不正にハックされ、虚偽の放射線警告が送信された。その直後、ロシア当局も同国のアプリが同様にハックされて虚偽警告が配信されたと述べた。両国でのサイバー戦が顕在化している。",
-      "en": "Ukraine's air raid alert application was hacked with false radiation threat notifications. Hours later, Russian authorities reported their emergency app was similarly compromised with fake warnings, indicating escalating cyber warfare."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-02T01:18:27+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_russia_app_cyberattack_false_alerts_nov2026"
-  },
-  {
-    "id": "auto-41869",
-    "headline": {
-      "ja": "イスラエルのヘブロン包囲作戦により約8万人の学生が就学できず",
-      "en": "Israeli siege keeps nearly 80,000 Palestinian students out of school in Hebron"
-    },
-    "summary": {
-      "ja": "イスラエルの軍事包囲によってヘブロンのパレスチナ系学生約8万人が学校に通うことができなくなっている。",
-      "en": "Israeli military siege prevents approximately 80,000 Palestinian students in Hebron from attending school."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5294,
-    "lon": 35.0938,
-    "occurredAt": "2026-11-02T01:13:33+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOXdlbUNVVHRYcmFCa29HNHhBdHp4MlU4YVZFTzA5Z2ZtLVNaVUtHanM0YmNrSG4ydEU3bEZkbXNZYkVKMHgwamhsVkwzV2RYRTQtWnBHXzNJazBIT3RZWWNPeFlnSlA1b1FqR0g2elNxaVktbDV2UV8wTWM0THR3cXo5THY1X3ppdFZWRUdhZXA1Z0QybVNwcHFsejB3ajI2ZGFTOGhwU3U2bDFmN2w3Z3l3bjBCNXRqa19rWmZVMW9uWDJBdWZuaTlGQWF3TFU?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_hebron_siege_2026-11"
-  },
-  {
-    "id": "auto-41654",
-    "headline": {
-      "ja": "ホルムズ海峡でタンカーが機雷に接触、イランが報告",
-      "en": "Tankers hit in Hormuz Strait; Trump warns Iran as conflict escalates"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊は、ホルムズ海峡でタンカー2隻が機雷に接触して火災を発生させたと報告した。米国大統領トランプは、紛争を早期に終わらせることを警告している。海上での重大な軍事エスカレーションである。",
-      "en": "Iran's IRGC reported that two tankers hit mines and caught fire in the Strait of Hormuz. US President Trump warned Iran while saying the conflict will end soon, indicating critical maritime escalation."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-02T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_hormuz_strait_tanker_mines_fire_nov2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-41860",
-    "headline": {
-      "ja": "ドイツ政府：政治家および政府高官へのサイバー攻撃を確認",
-      "en": "Germany confirms cyberattacks targeting lawmakers and government officials"
-    },
-    "summary": {
-      "ja": "ドイツの政府担当大臣は、ハッカーがドイツの国会議員および政府高官のデバイスを標的にしたサイバー攻撃を確認したと発表した。",
-      "en": "German government official confirms cyberattacks targeting German lawmakers and government officials' devices."
-    },
-    "category": "conflict",
-    "country": "ドイツ",
-    "lat": 52.5244,
-    "lon": 13.4105,
-    "occurredAt": "2026-11-01T23:06:44+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXc4ZDgwX0lJbXA0cWw5SU9EYmV4SEUxQmFJRTdPU3cwZVZwSGRuenpzdUx4OTI5V2ZnQzdfWE43TUNIVmlKY1QtWENnd3BoZVMwYUlvQi1qcEo0blZydnhrNGI2VkpLYjZtUEFGaGhIWW1NM0F6T19mUkZHZ1JBMWR6WVFyREI2SWYzX0h2UnFEOGFseVdJdHNYX2k1dERwcWxoSzFVYkZBZFdmVUE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "germany_cyberattack_government_2026-11"
-  },
-  {
-    "id": "auto-41659",
-    "headline": {
-      "ja": "ケルソン地域の停戦終了、戦争が戻る",
-      "en": "Kherson braces for return of war as localised Russia-Ukraine truce ends"
-    },
-    "summary": {
-      "ja": "ウクライナ・ケルソン地域での局地的停戦が終了し、戦争の再開に備えている。6日間の停戦中に違反報告はなかったが、モスクワとキーウは他の地域での攻撃を続けている。",
-      "en": "The Kherson region braces for renewed military conflict as the localised Russia-Ukraine ceasefire ends after six days with no reported violations, though fighting continues elsewhere."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 46.6369,
-    "lon": 32.6146,
-    "occurredAt": "2026-11-01T22:15:14+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kherson_russia_ukraine_ceasefire_ends_nov2026"
-  },
-  {
-    "id": "auto-41838",
-    "headline": {
-      "ja": "アラブ首長国連邦がカタール企業のLNGタンカー狙撃事件を非難",
-      "en": "UAE condemns targeting of Qatar's LNG tanker"
-    },
-    "summary": {
-      "ja": "アラブ首長国連邦政府は、カタール・ガス輸送会社のLNGタンカーが狙撃された事件を非難する声明を発表した。",
-      "en": "UAE government condemns the targeting of an LNG tanker operated by Qatar Gas Transport Company."
-    },
-    "category": "conflict",
-    "country": "カタール",
-    "lat": 25.2855,
-    "lon": 51.531,
-    "occurredAt": "2026-11-01T21:56:02+00:00",
-    "source": {
-      "name": "UAE 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IakhWY1BPSzk4c2UtWVg2enFUUGlIS3J5YmJDTEdSM3JCM2ZCanFxejhZRFNOa2FVOHZGQUhUUUdvVGdyZ1RkRW10eGlrZUZmc3FTeEpFUVVIZFU3QW5WZHFKb2FFajV2U3RYcQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "qatar_lng_tanker_targeting_2026-11"
-  },
-  {
-    "id": "auto-41639",
-    "headline": {
-      "ja": "ロシア攻撃、ハリソン停戦終了直後にウクライナの電力施設を破壊",
-      "en": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends"
-    },
-    "summary": {
-      "ja": "ハリソン地域での人道的停戦の終了直後、ロシア軍による攻撃がウクライナの電力施設に対して実行され、数千人が電力供給を失った。この攻撃はオレシキでの民間人避難後のロシアンによる報復攻撃と見られている。",
-      "en": "Russian military strikes targeted power infrastructure in Ukraine immediately after the Kherson ceasefire ended, leaving thousands without electricity. The attacks came right after a rare humanitarian pause that allowed civilians to evacuate the Russian-occupied city of Oleshky."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 46.6369,
-    "lon": 32.6146,
-    "occurredAt": "2026-11-01T21:55:01+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russia_kherson_ceasefire_power_attack_nov2026",
-    "severity": 4
   }
 ]
