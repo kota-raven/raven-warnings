@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T00:11:13.477Z",
+  "generatedAt": "2026-11-10T08:18:30.145Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 195,
+  "count": 190,
   "warnings": [
     {
       "id": "NAVAREA11-260506",
@@ -4106,76 +4106,72 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-262149",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2149",
-      "title": "御前埼付近、ＡＩＳによる情報提供業務休止",
-      "publishedAt": "2026-11-10T09:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2149    発表日時:2026年11月10日 09時\r\n\n\r\n御前埼付近、\r\r\n金冠AIS送受信所(34-58.3N 138-50.3E)を\r\r\n使用した情報提供業務休止、11月10日1100-1300。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262149&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262148",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2148",
-      "title": "豊後水道南口、ＡＩＳによる情報提供業務一時休止",
-      "publishedAt": "2026-11-10T05:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2148    発表日時:2026年11月10日 05時\r\n\n\r\n豊後水道南口、\r\r\n土佐沖ノ島AIS送受信所(32-42.3N\r\r\n132-32.6E)を使用した情報提供業務一時休止、\r\r\n11月10日0900-1400。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262148&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262147",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "2147",
-      "title": "瀬戸内海、釣島水道−関門航路東口、起重機船えい航",
-      "publishedAt": "2026-11-09T17:00:00+09:00",
-      "geometry": {
-        "type": "line",
-        "coordinates": [
-          [
-            132.66666666666666,
-            33.93333333333333
-          ],
-          [
-            131.03333333333333,
-            33.96666666666667
-          ]
-        ]
-      },
-      "rawText": "番号:26-2147    発表日時:2026年11月09日 17時\r\n\n\r\n瀬戸内海、釣島水道-関門航路東口、\r\r\nえい船(第3神好丸、MMSI 432993000)による\r\r\n起重機船(海しょう)えい航、\r\r\n釣島水道(33-56N 132-40E)11月9日\r\r\n1630通過、関門航路東口(33-58N 131-02E)\r\r\n11月10日1205到着予定、速力約5ノット、\r\r\n長さ最大300メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262147&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262146",
+      "id": "NAVTEX-262153",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
       "category": "訓練試験",
-      "number": "2146",
-      "title": "隠岐諸島西、射撃中止",
-      "publishedAt": "2026-11-09T17:00:00+09:00",
+      "number": "2153",
+      "title": "直江津港北西、射撃終了",
+      "publishedAt": "2026-11-10T17:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-2146    発表日時:2026年11月09日 17時\r\n\n\r\n隠岐諸島西、\r\r\n射撃中止。\r\r\n(2115削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262146&LANG=JP"
+      "rawText": "番号:26-2153    発表日時:2026年11月10日 17時\r\n\n\r\n直江津港北西、\r\r\n射撃終了。\r\r\n(2101削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262153&LANG=JP"
     },
     {
-      "id": "NAVTEX-262145",
+      "id": "NAVTEX-262152",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2145",
-      "title": "千葉港、千葉灯標灯質変更",
-      "publishedAt": "2026-11-09T13:00:00+09:00",
+      "category": "訓練試験",
+      "number": "2152",
+      "title": "沖縄島東（ホテル・ホテル）、爆撃",
+      "publishedAt": "2026-11-10T17:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            129.16444444444446,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            27.10388888888889
+          ],
+          [
+            130.99777777777777,
+            26.170833333333334
+          ],
+          [
+            129.16666666666666,
+            26.325
+          ]
+        ]
+      },
+      "rawText": "番号:26-2152    発表日時:2026年11月10日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n11月10日-22日毎日0600-2400、\r\r\n27-06-14N 129-09-52E\r\r\n27-06-14N 130-59-52E\r\r\n26-10-15N 130-59-52E\r\r\n26-19-30N 129-10-00Eで囲まれる海面。\r\r\n(2062削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262152&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262151",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2151",
+      "title": "釧路港南南東、射撃",
+      "publishedAt": "2026-11-10T13:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-2145    発表日時:2026年11月09日 13時\r\n\n\r\n千葉港、\r\r\n千葉灯標(35-34.1N 140-02.7E、\r\r\n灯台表第1巻、2222、M6433)灯質変更、\r\r\n単閃白光15秒に1閃、15海里。\r\r\n(2128削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262145&LANG=JP"
+      "rawText": "番号:26-2151    発表日時:2026年11月10日 13時\r\n\n\r\n釧路港南南東、\r\r\n射撃、11月11日(予備12日)0830-2400、\r\r\n42-39.1N 144-30.4Eを中心とする半径5海里の\r\r\n円内。\r\r\n(2111削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262151&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262150",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2150",
+      "title": "紀伊水道南、射撃",
+      "publishedAt": "2026-11-10T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2150    発表日時:2026年11月10日 13時\r\n\n\r\n紀伊水道南、\r\r\n射撃、11月12日0900-2400、\r\r\n33-29.6N 134-48.8Eを中心とする半径5海里\r\r\nの円内。\r\r\n(2121削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262150&LANG=JP"
     },
     {
       "id": "NAVTEX-262144",
@@ -4380,18 +4376,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262122&LANG=JP"
     },
     {
-      "id": "NAVTEX-262121",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2121",
-      "title": "紀伊水道南、射撃",
-      "publishedAt": "2026-11-06T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2121    発表日時:2026年11月06日 13時\r\n\n\r\n紀伊水道南、\r\r\n射撃、11月11日(予備12日)0900-2400、\r\r\n33-29.6N 134-48.8Eを中心とする半径5海里\r\r\nの円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262121&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262120",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4408,18 +4392,6 @@
       },
       "rawText": "番号:26-2120    発表日時:2026年11月06日 13時\r\n\n\r\n佐多岬西、\r\r\n射撃、11月11日(予備12日)0800-2400、\r\r\n31-01N 130-19Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262120&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262111",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2111",
-      "title": "釧路港南南東、射撃",
-      "publishedAt": "2026-11-05T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2111    発表日時:2026年11月05日 13時\r\n\n\r\n釧路港南南東、\r\r\n射撃、11月10日(予備11、12日)0830-2400、\r\r\n42-39.1N 144-30.4Eを中心とする半径5海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262111&LANG=JP"
     },
     {
       "id": "NAVTEX-262107",
@@ -4494,72 +4466,6 @@
       },
       "rawText": "番号:26-2102    発表日時:2026年11月04日 13時\r\n\n\r\n野島埼南東、\r\r\n射撃及びフレア発射、11月9日-13日毎日0600-\r\r\n1800、34-35-12N 140-16-48E\r\r\n34-18-23N 140-33-06E\r\r\n34-08-18N 140-46-51E\r\r\n34-01-59N 140-57-01E\r\r\n33-57-07N 141-05-14E\r\r\n33-34-29N 140-25-47E\r\r\n34-31-12N 140-07-48Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262102&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262101",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2101",
-      "title": "直江津港北西、射撃",
-      "publishedAt": "2026-11-04T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          137.75,
-          37.583333333333336
-        ]
-      },
-      "rawText": "番号:26-2101    発表日時:2026年11月04日 13時\r\n\n\r\n直江津港北西、\r\r\n射撃、11月9日、10日(予備12日、13日)\r\r\n毎日1000-2400、37-25N 37-35N \r\r\n137-45E 138-10Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262101&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262062",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2062",
-      "title": "沖縄島東（ホテル・ホテル）、爆撃",
-      "publishedAt": "2026-10-28T17:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            129.16444444444446,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            26.170833333333334
-          ],
-          [
-            129.16666666666666,
-            26.325
-          ],
-          [
-            129.16444444444446,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            27.10388888888889
-          ],
-          [
-            130.99777777777777,
-            26.170833333333334
-          ],
-          [
-            128.33138888888888,
-            26.38722222222222
-          ]
-        ]
-      },
-      "rawText": "番号:26-2062    発表日時:2026年10月28日 17時\r\n\n\r\n沖縄島東、\r\r\n爆撃、\r\r\n(1)10月30日-11月15日毎日0600-2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-19-30N 129-10-00E\r\r\n   で囲まれる海面、\r\r\n(2)10月28日、29日毎日0600-2400、\r\r\n   27-06-14N 129-09-52E\r\r\n   27-06-14N 130-59-52E\r\r\n   26-10-15N 130-59-52E\r\r\n   26-23-14N 128-19-53E\r\r\n   で囲まれる海面。\r\r\n(1990削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262062&LANG=JP"
     },
     {
       "id": "NAVTEX-262057",
