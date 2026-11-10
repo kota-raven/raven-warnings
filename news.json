@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-07-02",
-    "headline": {
-      "ja": "ロシア軍、キーウにミサイル攻撃 5人負傷・エネルギー施設被害、米露ウクライナ協議(11/10アブダビ)を前に",
-      "en": "Russia launches missile strikes on Kyiv, injuring 5 and damaging energy infrastructure, ahead of Nov. 10 Abu Dhabi talks"
-    },
-    "summary": {
-      "ja": "11月7日未明(現地時間)、ロシア軍がキーウにミサイル攻撃を行い、少なくとも5人が負傷したという。クリチコ市長によれば、キーウ州・ジトーミル州のエネルギーインフラが被害を受け、暖房・給水に支障が出ているという。報道によれば住宅や商業施設にも被害が出たほか、ドニプロ川に架かる橋が通行止めとなり、新たな停電・断水も発生したという。ゼレンスキー氏は事前にエネルギー施設への追加攻撃を警告し、同盟国にパトリオット迎撃ミサイルの追加供与を改めて求めていたという。ロシア・ウクライナ・米国による協議が11月10日からアブダビで(トランプ政権仲介による4回目の協議として)開始予定であり、その直前の攻撃となったという。[信頼性: 高](Al Jazeera、Euronews、Anadolu通信(AA)など複数の独立した主要メディアが同様の事実関係を報じている)",
-      "en": "Reportedly, Russian forces struck Kyiv with missiles early on November 7 local time, injuring at least 5 people. Mayor Vitali Klitschko said energy infrastructure in the Kyiv and Zhytomyr regions was damaged, disrupting heating and water supply. Reports say homes and commercial properties were also damaged, a bridge over the Dnipro River was closed to traffic, and new power and water outages occurred. Zelensky had reportedly warned beforehand of further strikes on the energy sector and renewed calls for additional Patriot interceptor deliveries. The strike came just before Russia, Ukraine and the US are set to begin talks in Abu Dhabi on November 10, the fourth round brokered by the Trump administration. [Reliability: High] (Corroborated by multiple independent major outlets including Al Jazeera, Euronews, and Anadolu Agency/AA)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ市",
-    "lat": 50.4501,
-    "lon": 30.5234,
-    "occurredAt": "2026-11-07T03:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-10-03",
     "headline": {
       "ja": "米露ウクライナ3者協議、アブダビで開幕 2月以来初の対面交渉",
