@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-07-01",
-    "headline": {
-      "ja": "米国株式市場、11月6日は主要指数まちまちで終了 ナスダック反発・ダウは続落、半導体株中心に前日急落分の一部を回復",
-      "en": "US stocks mixed at Nov 6 close: Nasdaq rebounds, Dow slips, chip stocks recover part of prior day's slide"
-    },
-    "summary": {
-      "ja": "CNBCの報道を引用する複数の報道によると、11月6日(金)の米国株式市場は、前日(11/5、既報id: 2026-11-06-10)の大幅下落から一部回復する形となり、ナスダック総合指数は前日比1.09%高で取引を終えた一方、ダウ工業株30種平均は0.46%安で終えたという。半導体関連株を中心に、前日の急落分の3分の1超を取り戻したとの報道がある(StockTitan)。同日発表された10月雇用統計(既報id: 2026-11-06-12)の結果も相場の反応材料になったとみられるという。個別銘柄への投資判断ではなく、米国市場全体の動向として採用した。推測:S&P500種指数の終値変動率については報道間で一致が取れておらず(取引終了前の速報値を引用する報道も混在している)、本稿執筆時点で確定した数値は確認できていない。[信頼性: 中](Yahoo Finance・StockTitan等がCNBC等の情報を引用して報じているが、S&P500の変動率など一部数値は報道間で一致していない)",
-      "en": "According to multiple reports citing CNBC, US stocks partly recovered at the close on Friday, November 6, from the prior day's steep selloff (previously reported id: 2026-11-06-10): the Nasdaq Composite ended the day up 1.09%, while the Dow Jones Industrial Average fell 0.46%. Chip stocks reportedly recovered more than a third of the previous day's losses (StockTitan). The same-day release of the October jobs report (previously reported id: 2026-11-06-12) was also cited as a factor in the market's reaction. Treated here as a development in the broader US market, not as guidance for any individual security. Inference: reports disagree on the S&P 500's closing move, with some citing pre-close snapshots, and a settled figure could not be confirmed at the time of writing. [Reliability: Medium] (Yahoo Finance, StockTitan and others report this citing CNBC, but some figures such as the S&P 500's percentage move are inconsistent between reports.)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-06T21:00:00+00:00",
-    "source": {
-      "name": "Yahoo Finance / CNBC",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-07-02",
     "headline": {
       "ja": "ロシア軍、キーウにミサイル攻撃 5人負傷・エネルギー施設被害、米露ウクライナ協議(11/10アブダビ)を前に",
@@ -43,92 +22,25 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-07-03",
+    "id": "2026-11-10-03",
     "headline": {
-      "ja": "トランプ氏、イラン・ゲシュム島への米軍の「軽微な」攻撃を確認 イラン側は無人機撃墜を主張・報復警告も",
-      "en": "Trump confirms 'minor' US strikes on Iran's Qeshm Island; Iran claims drone shot down and warns of retaliation"
+      "ja": "米露ウクライナ3者協議、アブダビで開幕 2月以来初の対面交渉",
+      "en": "US-Russia-Ukraine trilateral talks open in Abu Dhabi, first in-person round since February"
     },
     "summary": {
-      "ja": "トランプ米大統領は11月6日(米東部時間夜)のFox Newsとのインタビューで、米軍がイランのゲシュム島(ホルムズ海峡近傍)にある対空装備を標的に「軽微な」攻撃を行ったことを認めたという。トランプ氏は、イラン側が建設していた施設を監視しており、完成直後に攻撃したと説明したという。米当局者は、イラン革命防衛隊(IRGC)がゲシュム島からホルムズ海峡上空の米軍機に向けてミサイルを発射したことへの「自衛的」措置だったと説明しているという。イラン国営メディアは島内での複数回の爆発を報じ、IRGCは米軍の無人機を撃墜したと主張しているが、米側はこの主張を否定しているという。推測:米・イラン双方の発表に食い違いがあり、実際の被害や撃墜の有無は本稿執筆時点で確定していない。イランのペゼシュキアン大統領は「戦争への逆戻りから利益を得る者はいない」と述べたと報じられ、一方でイラン側は報復を警告したとも報じられている。米中央軍(CENTCOM)は現地情勢を「比較的平穏」としているという。[信頼性: 高](Al Jazeera、CNBC、NBC Newsなど複数の独立した主要メディアが、トランプ氏本人の発言を含めて報じている。ただし撃墜の有無など一部の事実関係は当事者間で主張が対立しており未確定)",
-      "en": "Reportedly, President Trump confirmed in a Fox News interview on the evening of November 6 (US Eastern time) that the US military carried out a 'minor' strike targeting Iranian air-defense equipment on Qeshm Island near the Strait of Hormuz. Trump reportedly said the US had watched the facility being built and struck it as soon as it was completed. US officials described the action as a 'defensive' response after Iranian Revolutionary Guard (IRGC) forces allegedly fired a missile from Qeshm Island at a US aircraft over the Strait of Hormuz. Iranian state media reported several explosions on the island, and the IRGC claimed to have shot down a US drone, a claim US officials disputed. Speculation: the US and Iranian accounts conflict, and the actual extent of damage or whether a drone was downed remains unconfirmed as of this writing. Iranian President Pezeshkian reportedly said no one would benefit from a return to war, while Iranian media also reportedly warned of retaliation. US Central Command (CENTCOM) described the situation on the ground as 'relatively calm.' [Reliability: High] (Reported by multiple independent major outlets including Al Jazeera, CNBC, and NBC News, including Trump's own on-record remarks; however, some facts, such as whether a drone was shot down, are disputed between the parties and remain unconfirmed)"
+      "ja": "2026年11月10日、米国のウィトコフ特使・クシュナー氏が率いる米国代表団と、ロシア・ウクライナ両代表団による3者協議がアブダビで開幕し、11日まで2日間行われる予定だという。2月の開戦後初の3者対面交渉とされる。協議に先立ち、ウィトコフ氏・クシュナー氏はウクライナ・EU・NATO・ドイツ・フランス・英国・イタリアの代表とも個別に協議したという。クシュナー氏は戦争終結・再発防止・ウクライナの戦後復興・人道支援を優先課題に挙げ、ロシアのラブロフ外相は「集団安全保障」を中心的論点としているという。米政府高官によれば、両陣営は非公式に領土交換の可能性を示唆しているが、ウクライナは侵攻前の国境への回復を公式に要求し、プーチン大統領はドンバス全域の割譲を求めており、公式の立場は依然大きく隔たっているという。推測:本稿執筆時点(日本時間11月10日午前)では協議は開幕段階であり、具体的な進展・結果はまだ確認できていない。[信頼性: 高](Axios、ABC News、Euronews、Ukrinform など複数の独立したメディアが直近24時間以内に同様の内容を報じている)",
+      "en": "On November 10, 2026, trilateral talks between US, Russian and Ukrainian delegations opened in Abu Dhabi, led on the US side by special envoy Steve Witkoff and Jared Kushner, and are reported to run through November 11 — described as the first in-person three-way negotiations since the war's February anniversary. Ahead of the trilateral round, Witkoff and Kushner reportedly held separate consultations with officials from Ukraine, the EU, NATO, Germany, France, the UK and Italy. Kushner reportedly listed ending the war, preventing it from reigniting, reviving Ukraine's postwar economy and humanitarian aid as priorities, while Russian Foreign Minister Lavrov has reportedly pushed \"collective security\" as a central theme. According to a US official, both sides have privately signaled openness to a territorial trade, but Ukraine publicly demands a return to its pre-invasion border while President Putin is said to want the whole of Donbas, so public positions remain far apart. Speculation: as of this writing (Tuesday morning JST), the talks have only just opened and no concrete outcome can yet be confirmed. [Reliability: High] (Corroborated within the last 24 hours by multiple independent outlets including Axios, ABC News, Euronews and Ukrinform)"
     },
     "category": "conflict",
-    "country": "イラン",
-    "region": "ホルモズガーン州",
-    "lat": 27.1865,
-    "lon": 56.2808,
-    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "country": "UAE",
+    "region": "アブダビ",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "occurredAt": "2026-11-10T00:00:00+00:00",
     "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-11-09-01",
-    "headline": {
-      "ja": "イラン革命防衛隊、弾道ミサイル射程の自主的上限「解除」を発表 最高指導者の反撃発言直後",
-      "en": "Iran's IRGC says it has lifted self-imposed cap on missile range, days after supreme leader's warning"
-    },
-    "summary": {
-      "ja": "AP通信(ABC News・WRAL・Daily Journal・Arab News等複数媒体に配信)やThe Times of Israelが11月7日に報じたところによると、イラン革命防衛隊(IRGC)報道官モヘッビ氏はテヘランでの記者会見で、イランが自ら課していた弾道ミサイル射程2,000kmの上限について「(我々にとって)その制約は解除された」と述べたという。実際にその上限を超える能力を持つミサイルを保有しているかは明言せず、「声明ではなく実際の行動で能力を示す」と述べたという。この発言は、イラン最高指導者モジュタバ・ホメイニ氏による「米国・イスラエルからのいかなる種類・レベルの脅威にも、地理的限界のない反撃を行う」との声明の数日後に出されたもので、既報(id: 2026-11-07-03、イラン・ゲシュム島への米軍の「軽微な」攻撃とイラン側の反撃警告)と直接関連する、イラン側のその後の軍事的姿勢表明だという。報道によれば射程2,000kmはギリシャ・バルカン半島の一部、アラビア半島全域、レバント地方、エジプトの大部分を含む距離とされる。推測:今回の発表が実際の新型ミサイル実戦配備・試射を意味するかは本稿執筆時点で確認できていない。[信頼性: 高](AP通信を複数の独立媒体が配信し、The Times of Israelも同様の内容を独自に報道)",
-      "en": "According to an AP wire story (carried by ABC News, WRAL, Daily Journal, Arab News and others) and The Times of Israel, published November 7, IRGC spokesman Gen. Hossein Mohebbi told a press conference in Tehran that Iran's self-imposed 2,000km cap on ballistic missile range 'has been lifted for us.' He did not say whether Iran currently has missiles exceeding that range, saying Iran would 'demonstrate these capabilities in practice' rather than through statements. The remarks came days after a statement attributed to Iran's supreme leader, Mojtaba Khomeini, that any threat from the US or Israel would face a response 'without geographic limits.' This follows and is directly linked to the already-reported 'minor' US strike on Iran's Qeshm Island and Iran's warning of retaliation (id: 2026-11-07-03). Reports note the 2,000km range would cover parts of Greece and the Balkans, the entire Arabian Peninsula, the Levant, and most of Egypt. Speculation: it is not yet confirmed whether this announcement reflects an actual new missile deployment or test. [Reliability: High] (AP wire carried by multiple independent outlets, corroborated independently by The Times of Israel)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-11-07T00:00:00+00:00",
-    "source": {
-      "name": "AP通信 / The Times of Israel",
-      "url": "https://www.wral.com/news/ap/c2675-iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-11-10-01",
-    "headline": {
-      "ja": "ウクライナ・ザポリッジャ州コムィシュヴァーハへのロシア軍攻撃、死者55人に増加",
-      "en": "Death toll from Russian strike on Komyshuvakha, Zaporizhzhia region, rises to 55"
-    },
-    "summary": {
-      "ja": "ウクライナ版プラウダ(pravda.com.ua)やウクライナ国民通信社(UNN)が11月7日に報じたところによると、ウクライナ国家緊急事態庁(DSNS)は、11月2日にロシア軍がザポリッジャ州コムィシュヴァーハの旧学校(人道支援物資の配布のため住民が集まっていた場所)を攻撃した事案について、瓦礫からさらに9人分の遺体・遺体の一部を収容した結果、死者数が既報の53人(11月6日時点)から55人に増えたと発表したという。Kyiv Independentによれば、同攻撃による捜索活動は7日目に入っているという。遺伝子鑑定による身元確認作業は継続中で、死者数は今後さらに変動する可能性があるという。推測:最終的な確定死者数は本稿執筆時点では不明。[信頼性: 高](ウクライナの複数の独立した報道機関〔Pravda.ua、UNN、Kyiv Independent〕が、いずれもウクライナ国家緊急事態庁の発表を引用して同内容を報じている)",
-      "en": "According to Ukraine's Pravda (pravda.com.ua) and the Ukrainian News Agency (UNN), reporting November 7, Ukraine's State Emergency Service (DSNS) said the death toll from the November 2 Russian strike on a former school in Komyshuvakha, Zaporizhzhia region — where residents had gathered for humanitarian aid — rose from the previously reported 53 (as of November 6) to 55, after crews recovered the bodies and remains of nine more victims from the rubble. Kyiv Independent reported the search operation has entered its fifth day. Genetic identification of remains is ongoing, so the toll could still change. Speculation: the final confirmed death toll remains unknown as of this writing. [Reliability: High] (Multiple independent Ukrainian outlets — Pravda.ua, UNN, and Kyiv Independent — report the same figure, each citing Ukraine's State Emergency Service)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリッジャ州",
-    "lat": 47.7194,
-    "lon": 35.5247,
-    "occurredAt": "2026-11-07T00:00:00+00:00",
-    "source": {
-      "name": "Pravda.ua / UNN / Kyiv Independent",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/07/8061683/"
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-11-10-02",
-    "headline": {
-      "ja": "ガザ地区で季節初の大雨、テント約7万張りが浸水 避難民ら住まい失う",
-      "en": "Season's first heavy rain floods about 70,000 tents in Gaza Strip, leaving displaced without shelter"
-    },
-    "summary": {
-      "ja": "Al Jazeera、Al-Monitor(ロイター配信含む)、Gulf Today、Ahram Online等が11月7日に報じたところによると、ガザ地区で今季初の冬の嵐となる大雨が降り、ガザ地区政府メディア室によれば12時間以内に約7万張りのテントが浸水したという。民間防衛当局(Civil Defence)報道官のマフムード・バサル氏によれば、最初の10時間で約1,500件の救助要請が寄せられ、一部の避難施設では水位が30〜40cm上昇し、完全に水没した避難センターもあったという。同庁長官ラーイド・アルダフシャン氏は、配布用の防水シートやテントがほとんど残っていないと述べ、燃料不足や機材損傷も対応を妨げているという。海岸沿いのキャンプに住む12万5千世帯以上が、テントを波にさらわれる危険に直面しているという。ヌセイラトでは建物の一部が崩壊し、ガザ北部でも壁が崩れて2人が負傷したという(パレスチナ通信WAFA経由)。ガザ地区政府メディア室による初期被害推定額は約300万米ドルという。推測:今回の大雨による死者の有無は本稿執筆時点で確証できる報道を確認できていない。[信頼性: 中](Al Jazeera、Al-Monitor/ロイター、Gulf Today、Ahram Online等、複数の独立した媒体が同趣旨の内容を報じているが、被災規模の数値はガザ地区政府メディア室など当事者側発表に基づくものが中心)",
-      "en": "According to Al Jazeera, Al-Monitor (carrying Reuters reporting), Gulf Today and Ahram Online, reporting November 7, heavy rain from the season's first winter storm hit the Gaza Strip, flooding an estimated 70,000 tents within 12 hours, according to Gaza's Government Media Office. Civil Defence spokesman Mahmoud Basal said about 1,500 distress calls came in during the first 10 hours, with water rising 30-40cm at several shelter sites and some shelter centers completely flooded. Civil Defence director Raed al-Dahshan said crews had almost no tarpaulins or tents left to distribute, and fuel shortages and damaged equipment were also hampering the response. More than 125,000 families in coastal camps face the risk of having their tents swept away by the sea. A partial building collapse was reported in Nuseirat, and a wall collapse in northern Gaza injured two people, per the Palestinian news agency WAFA. Gaza's Government Media Office put initial damage at about $3 million. Speculation: no confirmed reporting of deaths from this storm could be found as of this writing. [Reliability: Medium] (Multiple independent outlets — Al Jazeera, Al-Monitor/Reuters, Gulf Today, Ahram Online — report similar content, though damage figures are largely based on statements from Gaza's Government Media Office, a party to the event)"
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "region": "ガザ地区",
-    "lat": 31.5017,
-    "lon": 34.4668,
-    "occurredAt": "2026-11-07T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera / Al-Monitor",
-      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
-    },
-    "reliability": "medium"
   }
 ]
