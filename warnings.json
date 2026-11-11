@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T22:18:07.214Z",
+  "generatedAt": "2026-11-11T02:42:36.960Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 189,
+  "count": 190,
   "warnings": [
     {
       "id": "NAVAREA11-260508",
@@ -560,6 +560,30 @@
       "geometry": null,
       "rawText": "NO.26-0322    発表日時:2026年07月17日 03時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDISCOLOURED WATER REPORTED IN VICINITY\r\r\nOF 20-26.0N 145-01.0E AT 160013Z JUL.\r\r\nCANCEL 0020/24.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264446",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4446",
+      "title": "インド西岸、海底管作業",
+      "publishedAt": "2026-11-11T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4446   発表日時:2026年11月11日 08時\r\n\n\r\n★ インド西岸、\r\r\nM/V JD ODYSSEY、M/V TAG13、M/V CREATIVE 1、 \r\r\nM/V SEAMAC GLORIOUS、M/V WILCHIEF 1及び\r\r\nM/V LTS 3000による海底管作業、12月5日まで、\r\r\n20-28.00N 071-13.00E 20-28.83N 071-13.01E\r\r\n20-27.49N 072-30.63E 20-00.35N 072-27.73E\r\r\n20-00.00N 072-27.00E 20-01.00N 071-14.00E\r\r\nで囲まれる海面。\r\r\n(4276削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264446&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264445",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4445",
+      "title": "インド東岸、射撃",
+      "publishedAt": "2026-11-11T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4445   発表日時:2026年11月11日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、11月12日1230Z-14日1230Z、\r\r\n17-02.55N 17-13.10N 083-23.50E 083-33.40E\r\r\nの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264445&LANG=JP"
     },
     {
       "id": "JAPANNW-264444",
@@ -3104,18 +3128,6 @@
       },
       "rawText": "番号:26-4278   発表日時:2026年10月30日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n射撃、11月1日-30日(金曜日と土曜日を除く。)毎日0001Z-1600Z、\r\r\n(1)21-20.83N 090-34.00E\r\r\n   21-41.00N 091-14.00E   \r\r\n   21-20.83N 091-28.00E\r\r\n   21-00.00N 090-47.83E\r\r\n(2)20-07N 090-52E 20-22N 091-06E\r\r\n   20-00N 091-36E 19-44N 091-21E\r\r\n(3)20-46.5N 091-31.0E 20-24.0N 091-59.0E\r\r\n   20-00.0N 091-36.0E 20-22.0N 091-06.0E\r\r\n(4)21-18N 089-31E 21-18N 089-50E\r\r\n   21-04N 089-54E 21-04N 089-34E\r\r\n(5)20-58N 089-34E 20-58N 089-54E\r\r\n   20-34N 089-54E 20-34N 089-34E\r\r\nで囲まれる各海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264278&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264276",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4276",
-      "title": "インド西岸、海底管作業",
-      "publishedAt": "2026-10-30T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4276   発表日時:2026年10月30日 08時\r\n\n\r\n★ インド西岸、\r\r\nM/V JD ODYSSEY、M/V TAG13、M/V CREATIVE 1、 \r\r\nM/V SEAMAC GLORIOUS及びM/V WILCHIEF 1による\r\r\n海底管作業、当分の間、20-28.00N 071-13.00E\r\r\n20-28.83N 071-13.01E 20-27.49N 072-30.63E\r\r\n20-00.35N 072-27.73E 20-00.00N 072-27.00E\r\r\n20-01.00N 071-14.00Eで囲まれる海面。\r\r\n(4260削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264276&LANG=JP"
     },
     {
       "id": "JAPANNW-264274",
