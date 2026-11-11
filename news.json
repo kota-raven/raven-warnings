@@ -88,46 +88,46 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-11-04",
+    "id": "2026-11-11-06",
     "headline": {
-      "ja": "ベネズエラで洪水、GDACSが警報 死者3人",
-      "en": "Flooding in Venezuela prompts GDACS alert, 3 dead"
+      "ja": "米露ウクライナ3者協議、2日目終了 核心的対立は未解決、大規模捕虜交換に合意",
+      "en": "Day two of US-Russia-Ukraine Abu Dhabi talks ends with no breakthrough, large prisoner swap agreed"
     },
     "summary": {
-      "ja": "GDACS(国連関連の災害警報システム)によれば、ベネズエラで2026年11月7日に始まった洪水により3人が死亡したという。2026年11月9日時点で「グリーン(警戒度最低)」の洪水警報が発出されており、大規模な住民避難は確認されていないという。推測:詳細な被災地域・被害規模は本稿時点で確認できていない。[信頼性: 中](GDACSのデータを集約するdefconlevel.comの速報を確認。クラウド環境のネットワーク制限によりGDACS公式サイト〔gdacs.org〕原本の直接確認はできなかった)",
-      "en": "According to GDACS (the UN-affiliated Global Disaster Alert and Coordination System), flooding that began in Venezuela on November 7, 2026 has reportedly killed 3 people. As of November 9, 2026, a \"green\" (lowest-level) flood alert remained in effect, and no large-scale evacuations have been confirmed. Speculation: the specific affected areas and extent of damage could not be confirmed as of this writing. [Reliability: Medium] (Based on a GDACS data summary via aggregator defconlevel.com; the original GDACS site could not be directly verified due to network restrictions in this cloud environment)"
+      "ja": "2026年11月11日、アブダビで行われていた米国・ロシア・ウクライナの3者協議の2日目が終了したという。領土問題など核心的な対立点では進展がなかったとされるが、大規模な捕虜交換について合意し、具体的な人数は翌日までに確定させるとクシュナー氏が述べたという。ゼレンスキー大統領(会場には同席せず)は協議を「建設的」と評価しつつ、ロシアとの合意の難しさも認めたという。クシュナー氏・ウィトコフ特使はこの後モスクワに移動してプーチン大統領と協議し、続いてゼレンスキー大統領とも会談する予定だという。推測:捕虜交換の最終的な人数・実施日時、モスクワ訪問の具体的な結果は本稿執筆時点では確認できていない。[信頼性: 高](CNN、Yahoo News、2Newsなど複数の独立したメディアが2026年11月11日時点で同様の内容を報じている)",
+      "en": "On November 11, 2026, the second day of trilateral US-Russia-Ukraine talks in Abu Dhabi reportedly concluded. No progress was reported on core disputes such as territory, but the parties are said to have agreed on a large-scale prisoner exchange, with Jared Kushner saying the exact numbers would be finalized by the next day. President Zelensky, who was not present in the room, reportedly called the talks \"constructive\" while acknowledging the difficulty of reaching agreement with Russia. Kushner and envoy Steve Witkoff are reported to be heading next to Moscow to meet President Putin, followed by a meeting with Zelensky. Speculation: the final prisoner-exchange numbers/timing and the outcome of the Moscow visit could not be confirmed as of this writing. [Reliability: High] (Corroborated as of November 11, 2026 by multiple independent outlets including CNN, Yahoo News and 2News)"
     },
-    "category": "disaster",
-    "country": "Venezuela",
-    "region": "",
-    "lat": 6.4238,
-    "lon": -66.5897,
-    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "category": "conflict",
+    "country": "UAE",
+    "region": "アブダビ",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "occurredAt": "2026-11-11T12:00:00+00:00",
     "source": {
-      "name": "GDACS (via defconlevel.com)",
-      "url": "https://www.defconlevel.com/alert/2026-11-09-gdacs-disasters-green-flood-alert-in-venezuela"
+      "name": "CNN",
+      "url": "https://edition.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl"
     },
-    "reliability": "medium"
+    "reliability": "high"
   },
   {
-    "id": "2026-11-11-05",
+    "id": "2026-11-11-07",
     "headline": {
-      "ja": "インドネシア・スメル山とイブ山で噴火相次ぐ、火砕流も発生",
-      "en": "Indonesia's Semeru and Ibu volcanoes see repeated eruptions, including pyroclastic flow"
+      "ja": "米国株式市場、大幅反発 ダウ2.15%・S&P500 2.35%・ナスダック2.74%高",
+      "en": "US stocks rally sharply: Dow +2.15%, S&P 500 +2.35%, Nasdaq +2.74%"
     },
     "summary": {
-      "ja": "火山観測の集約サイトVolcanoDiscoveryによれば、インドネシア・ジャワ島のスメル山で2026年11月5日に強い噴火が発生し、南斜面に火砕流が流れ下ったという。北マルク州のイブ山でも11月5日・7日・8日に噴火が相次ぎ、11月5日時点で噴煙が高度約7,000フィートに達したという。推測:具体的な避難者数・人的被害は本稿時点で確認できていない。[信頼性: 中](VolcanoDiscoveryの火山観測情報〔インドネシア火山地質災害対策センター等の公的機関データを集約〕に基づく。クラウド環境のネットワーク制限により元データの直接確認はできなかった)",
-      "en": "According to volcano-monitoring aggregator VolcanoDiscovery, Indonesia's Mount Semeru on Java saw a strong eruption on November 5, 2026 that sent a pyroclastic flow down its southern slope. Mount Ibu in North Maluku also reportedly erupted repeatedly on November 5, 7 and 8, with its ash plume reaching roughly 7,000 feet as of November 5. Speculation: specific evacuation numbers or casualties could not be confirmed as of this writing. [Reliability: Medium] (Based on VolcanoDiscovery's monitoring data, which aggregates official sources such as Indonesia's volcanology agency (PVMBG); original source data could not be directly verified due to network restrictions in this cloud environment)"
+      "ja": "2026年11月9日(月)、米国株式市場は前週後半のAI関連株急落からの反発を続け、大幅高で取引を終えたという。ダウ工業株30種平均は前日比1,104.02ポイント(2.15%)高の52,389.75、S&P500種は173.08ポイント(2.35%)高の7,549.94、ナスダック総合指数は673.71ポイント(2.74%)高の25,253.14で終えたとされる。複数の報道によれば、この日の上昇率は4月以来最大規模だという。推測:11月10日以降の取引結果は本稿執筆時点では確認できていない。[信頼性: 中](The Star〔マレーシア〕、La Nacion〔アルゼンチン〕など複数の報道で同様の数値を確認。クラウド環境のネットワーク制限により、Reuters・AP等の一次配信記事の直接確認はできなかった)",
+      "en": "On Monday, November 9, 2026, US stock markets reportedly extended their rebound from the prior week's steep AI-stock selloff, closing sharply higher. The Dow Jones Industrial Average is reported to have risen 1,104.02 points (2.15%) to 52,389.75, the S&P 500 up 173.08 points (2.35%) to 7,549.94, and the Nasdaq Composite up 673.71 points (2.74%) to 25,253.14. Multiple reports describe this as the best single-day percentage gain since April. Speculation: trading results from November 10 onward could not be confirmed as of this writing. [Reliability: Medium] (Matching figures corroborated via The Star (Malaysia) and La Nacion (Argentina); the original Reuters/AP wire text could not be directly verified due to network restrictions in this cloud environment)"
     },
-    "category": "disaster",
-    "country": "Indonesia",
-    "region": "東ジャワ州",
-    "lat": -0.7893,
-    "lon": 113.9213,
-    "occurredAt": "2026-11-05T00:00:00+00:00",
+    "category": "economy",
+    "country": "United States",
+    "region": "",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-09T21:00:00+00:00",
     "source": {
-      "name": "VolcanoDiscovery",
-      "url": "https://www.volcanodiscovery.com/vulkane/heute.html"
+      "name": "The Star (Malaysia)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/10/us-stocks-close-higher"
     },
     "reliability": "medium"
   }
