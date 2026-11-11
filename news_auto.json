@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-54893",
+    "headline": {
+      "ja": "トランプ大統領、プーチン大統領・習主席との会談で核兵器協議を希望",
+      "en": "Trump wants to discuss nuclear weapons at meeting with Putin and Xi"
+    },
+    "summary": {
+      "ja": "トランプ大統領はプーチン大統領と習近平主席との会談で核兵器について協議したいと希望していると、ルビオ国務長官が述べた。",
+      "en": "Trump wants to discuss nuclear weapons at meetings with Putin and Xi Jinping, according to Rubio."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-11T00:53:09+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8wNkNuSzU3TUNnM2RQRmRlVVZrUEtNTVlhLTQwcENEN01oNEFiaWFMMjhLT3VSVEkwTl96NlJKbkNSeUtM0gFKQVVfeXFMT3VDMl9ZVXNfcXZJVEtkcDFienc1N0ViZ1g5M25BM2EtYmp3SnNTVXRJUDZNSnd3UVkwcmFpTEkxRGRNVDJ6ZGFuX1E?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_trump_nuclear_talks_putin_xi_2026-11-10"
+  },
+  {
     "id": "auto-53816",
     "headline": {
       "ja": "サウジ主導軍とイエメン親イラン派、攻撃が激化",
@@ -45,6 +68,29 @@
     "auto": true,
     "eventKey": "iran_ballistic_missile_range_2026-11-10",
     "severity": 4
+  },
+  {
+    "id": "auto-54403",
+    "headline": {
+      "ja": "スーダンでのドローン攻撃が前例のない規模に達する",
+      "en": "Sudan faces unprecedented drone and long-range strike attacks"
+    },
+    "summary": {
+      "ja": "国連児童基金はスーダンでのドローン攻撃が前例のない規模に達していると報告。1500km以上の長距離ドローンを含む攻撃がインフラに深刻な影響を与えている。",
+      "en": "UN reports unprecedented drone attacks on Sudan's infrastructure, including strikes from drones traveling over 1,500 km."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-10T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168771"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_drone_infrastructure_attacks_2026-11-10"
   },
   {
     "id": "auto-53446",
@@ -2364,74 +2410,5 @@
     "auto": true,
     "eventKey": "russia_nuclear_warning_kaliningrad_2026-11-04",
     "severity": 4
-  },
-  {
-    "id": "auto-44252",
-    "headline": {
-      "ja": "トランプ大統領がイスラエル軍事援助38億ドルの中止を表明",
-      "en": "Trump says he's ending Israel's $3.8 bn military aid deal"
-    },
-    "summary": {
-      "ja": "トランプ米大統領が、イスラエルへの年間38億ドルの軍事支援パッケージを年末までに終了すると述べた。",
-      "en": "US President Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-04T01:13:49+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "trump_israel_military_aid_2026-11-04"
-  },
-  {
-    "id": "auto-44260",
-    "headline": {
-      "ja": "イラン、新たな米国攻撃に対する「最大抑止力」計画を準備",
-      "en": "Iran prepares 'maximum deterrence' plan for any new US attack"
-    },
-    "summary": {
-      "ja": "イランは米国による新たな攻撃への対抗として「最大抑止力」計画を準備していると述べ、即座に対応すると警告した。",
-      "en": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-04T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_maximum_deterrence_plan_2026-11-04"
-  },
-  {
-    "id": "auto-44244",
-    "headline": {
-      "ja": "スペイン列車衝突事故で少なくとも69人死亡",
-      "en": "Spanish transport minister resigns days after deadly train crash"
-    },
-    "summary": {
-      "ja": "マドリード南部での列車衝突事故で少なくとも69人が死亡し、多数が負傷した。運輸大臣が辞任した。",
-      "en": "At least 69 people were killed and dozens injured in a train collision south of Madrid. The transport minister resigned."
-    },
-    "category": "disaster",
-    "country": "スペイン",
-    "lat": 40.4165,
-    "lon": -3.7026,
-    "occurredAt": "2026-11-03T22:45:59+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "spain_madrid_train_crash_2026-11-03"
   }
 ]
