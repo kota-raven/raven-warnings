@@ -1,5 +1,31 @@
 [
   {
+    "id": "2027-11-30-jp-000173",
+    "recordType": "aggregate",
+    "country": "JP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "Somali coast/Aden Gulf",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊のソマリア沖・アデン湾海賊対処行動が2027年11月まで1年間延長・継続されることが閣議決定された。P-1への変更が完了。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37457/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": "2026-11-10T00:00:00Z",
+    "periodEnd": "2027-11-30T23:59:59Z"
+  },
+  {
     "id": "2026-11-30-in-000041",
     "recordType": "individual",
     "country": "IN",
@@ -70,6 +96,32 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-11-26-jp-000172",
+    "recordType": "aggregate",
+    "country": "JP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Hyuga-nada",
+      "lat": 32.6,
+      "lon": 131.6,
+      "approximate": true
+    },
+    "activity": "海上自衛隊が日向灘で日米共同機雷戦訓練を実施。日米の艦艇17隻が参加予定。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37474/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 17,
+    "periodStart": "2026-11-16T00:00:00Z",
+    "periodEnd": "2026-11-26T23:59:59Z"
   },
   {
     "id": "2026-11-12-jp-000109",
@@ -600,6 +652,30 @@
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
+    "id": "2026-11-04-es-000171",
+    "recordType": "individual",
+    "country": "ES",
+    "shipName": "Isaac Peral",
+    "shipNumber": "S-81",
+    "shipType": "submarine",
+    "position": {
+      "area": "Atlantic Ocean",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Spanish Navy attack submarine participated in SINKEX 26 exercise, conducting torpedo firing on decommissioned frigate Infanta Elena.",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37480/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
     "id": "2026-11-04-ru-000146",
     "recordType": "individual",
     "country": "RU",
@@ -643,8 +719,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -691,6 +767,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-03T00:00:00Z"
+  },
+  {
+    "id": "2026-11-03-us-000170",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Harrisburg",
+    "shipNumber": null,
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "Ingalls Shipbuilding, Mobile, Alabama",
+      "lat": 30.3897,
+      "lon": -88.095,
+      "approximate": true
+    },
+    "activity": "San Antonio-class Flight II amphibious transport ship completed sea trials at Huntington Ingalls Industries.",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37482/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-03T00:00:00Z"
@@ -1079,8 +1179,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-10-31T00:00:00Z"
   },
   {
@@ -1515,8 +1615,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-28T21:21:22.521184+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-27T00:00:00Z"
   },
   {
@@ -1539,8 +1639,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-27T00:00:00Z"
   },
   {
@@ -1563,8 +1663,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-27T00:00:00Z"
   },
   {
@@ -1587,8 +1687,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1612,7 +1712,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1635,8 +1735,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1659,8 +1759,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -1683,8 +1783,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-29T21:22:36.412462+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -3544,6 +3644,32 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "-gb-000174",
+    "recordType": "aggregate",
+    "country": "GB",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "North Atlantic",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "UK Ministry of Defense announced £90 million investment in 'Atlantic Net' - network of drones, sensors, and AI systems for Royal Navy to counter Russian submarine threats in North Atlantic.",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/10/u-k-to-develop-north-atlantic-network-of-drones-ai-systems-to-find-russian-subs"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": null,
+    "periodEnd": null
   },
   {
     "id": "-jp-000070",
