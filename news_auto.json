@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-55420",
+    "headline": {
+      "ja": "ロシアがノルウェーのミサイル企業を攻撃対象に指定",
+      "en": "Norway's missile producer becomes legitimate target for Russia"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ノルウェーのミサイル製造企業がロシアへの攻撃支援を理由に、正当な攻撃対象であると述べた。",
+      "en": "Russia declared Norway's missile production company a legitimate target due to its support for attacks against Russia."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-11T07:53:15+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qNXV6Qy1USTBCOW53aHhqOG1BWDBzbVR5Z1V6VDQxSFpVU0p4UE0zZ1VpMzdCUlMxMmVFUTV2THZEVW91a2lLQtIBTkFVX3lxTE53UkV3ZjFiVFhfaWRXWEJMNHFPU091VUNhS21KVzc0YnFjNFNiU0lQUGw1QXhsWkdiSGxlamtGa1ktN1dIamlrZ01kRC1ndw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_norway_missile_company_threat"
+  },
+  {
+    "id": "auto-55415",
+    "headline": {
+      "ja": "レニングラード地域が1年間で最大規模のドローン攻撃を受けたと発表",
+      "en": "Leningrad Region records largest drone attack of year"
+    },
+    "summary": {
+      "ja": "ロシア政府は、レニングラード地域が年間を通じて最大規模のドローン攻撃を受けたと発表した。",
+      "en": "Russian government announced that Leningrad Region faced the largest drone attack of the year."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 59.9364,
+    "lon": 30.312,
+    "occurredAt": "2026-11-11T06:06:06+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeklBeFNlUkNwZjBPQmI1U3Q2ZjIySWdTdmRSOW5Ba0lfZ1FTTFFUNUJuN2QzU203OHlHT1JBRGVxWjVORlRRZtIBTkFVX3lxTE9sNmNkN196S3VJbzFBeFhZeGtCRUJBcTA0LVRYOThIeXJsRExqd1JrbzR6YTFzZEVOTzJOOGpVeWs2dGJKSDJpdnZ4UVVNUQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_leningrad_drone_attack_2026-11-11",
+    "severity": 4
+  },
+  {
     "id": "auto-54893",
     "headline": {
       "ja": "トランプ大統領、プーチン大統領・習主席との会談で核兵器協議を希望",
