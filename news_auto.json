@@ -2574,51 +2574,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "dprk_new_air_defense_system_test_2026-11-04"
-  },
-  {
-    "id": "auto-46260",
-    "headline": {
-      "ja": "ロシアのザポリージャ攻撃で死者40人",
-      "en": "Russia strikes Zaporizhia, death toll reaches 40"
-    },
-    "summary": {
-      "ja": "ウクライナ南東部ザポリージャ州のコミシュワハでロシアの大規模な攻撃があり、死者が40人に上った。瓦礫の下にはさらに多くの人がいる可能性があり、ドローンの妨害を受けながらも救助活動が続いている。",
-      "en": "A major Russian strike on Komyshuvakha in Ukraine's Zaporizhia region killed 40 people, with more possibly trapped under rubble. Rescue efforts are ongoing despite interruptions from Russian drone attacks."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-04T20:31:56+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhia_russian_strike_2026-11-04"
-  },
-  {
-    "id": "auto-46184",
-    "headline": {
-      "ja": "フーシ勢力、リヤド空港へのミサイル攻撃を主張",
-      "en": "Houthis claim ballistic missile strike on Riyadh airport"
-    },
-    "summary": {
-      "ja": "イエメンの親イラン勢力フーシは、サウジアラビアのリヤド国際空港へのミサイル攻撃を実行したと主張した。",
-      "en": "Houthis claimed responsibility for a ballistic missile strike on Riyadh International Airport in Saudi Arabia."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-04T15:41:17+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBtX3phRUpiUlIzLXlXMUFrb2RRUzRVSWFsXzN2REpfSFZkTHp2bzRNanVMTHBIUV9ZWW1idFQ0X0dBWkdL0gFKQVVfeXFMT05uOUZybEp2ZmNOb2pDaGZKakFHY1lSWUpqaFR0UFlqV19SUWRQdlhfRDNCRXp6NHFRTmozZDJYeXhiYVJwNHBBR2c?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_houthis_riyadh_airport_missile_attack_2026-11-04"
   }
 ]
