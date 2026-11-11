@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T02:42:36.960Z",
+  "generatedAt": "2026-11-11T10:43:07.162Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 190,
+  "count": 196,
   "warnings": [
     {
       "id": "NAVAREA11-260508",
@@ -4280,6 +4280,132 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262164",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "2164",
+      "title": "秋田船川港、秋田区、秋田第２南防波堤北仮設灯台復旧",
+      "publishedAt": "2026-11-11T17:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2164    発表日時:2026年11月11日 17時\r\n\n\r\n秋田船川港、秋田区、\r\r\n秋田第2南防波堤北仮設灯台復旧。\r\r\n(2107削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262164&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262163",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2163",
+      "title": "佐多岬西、照明弾を使用した救難訓練",
+      "publishedAt": "2026-11-11T17:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          130.31666666666666,
+          31.033333333333335
+        ]
+      },
+      "rawText": "番号:26-2163    発表日時:2026年11月11日 17時\r\n\n\r\n佐多岬西、\r\r\n照明弾を使用した救難訓練、11月11日1700-2000、\r\r\n31-02N 130-19Eを中心とする半径9海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262163&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262162",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2162",
+      "title": "塩屋埼東南東、射撃",
+      "publishedAt": "2026-11-11T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2162    発表日時:2026年11月11日 13時\r\n\n\r\n塩屋埼東南東、\r\r\n射撃、11月16日0800-2400、\r\r\n36-55.8N 141-17.0Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262162&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262161",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2161",
+      "title": "伊豆諸島、大島東、射撃",
+      "publishedAt": "2026-11-11T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          139.64694444444444,
+          34.736666666666665
+        ]
+      },
+      "rawText": "番号:26-2161    発表日時:2026年11月11日 13時\r\n\n\r\n伊豆諸島、大島東、\r\r\n射撃、11月16日-20日(予備12月7日-11日、\r\r\n14日-18日)毎日0800-2100、34-44-12N \r\r\n139-38-49Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262161&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262160",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2160",
+      "title": "紀伊水道南、射撃",
+      "publishedAt": "2026-11-11T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          134.83055555555555,
+          33.50333333333333
+        ]
+      },
+      "rawText": "番号:26-2160    発表日時:2026年11月11日 13時\r\n\n\r\n紀伊水道南、\r\r\n射撃、11月16日(予備17日-20日)0800-1830、\r\r\n33-30-12N 134-49-50Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262160&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262159",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2159",
+      "title": "若狭湾、射撃",
+      "publishedAt": "2026-11-11T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2159    発表日時:2026年11月11日 13時\r\n\n\r\n若狭湾、\r\r\n射撃、11月16日(予備17日)1000-2400、\r\r\n35-41.0N 135-40.0Eを中心とする\r\r\n半径2海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262159&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262158",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2158",
+      "title": "五島列島東、射撃",
+      "publishedAt": "2026-11-11T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          129.3311111111111,
+          32.80333333333333
+        ]
+      },
+      "rawText": "番号:26-2158    発表日時:2026年11月11日 13時\r\n\n\r\n五島列島東、\r\r\n射撃、11月16日-18日(予備19日、20日)毎日\r\r\n0800-1730、32-48-12N 129-19-52E\r\r\nを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262158&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262157",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2157",
+      "title": "五島列島南、射撃及びフレア発射",
+      "publishedAt": "2026-11-11T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          128.76444444444445,
+          32.336666666666666
+        ]
+      },
+      "rawText": "番号:26-2157    発表日時:2026年11月11日 13時\r\n\n\r\n五島列島南、\r\r\n射撃及びフレア発射、11月16日-18日\r\r\n(予備19日、20日)毎日0800-1700、\r\r\n31-47-12N 32-20-12N 128-45-52E\r\r\n129-09-52Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262157&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262156",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4334,18 +4460,6 @@
       "geometry": null,
       "rawText": "番号:26-2154    発表日時:2026年11月10日 18時\r\n\n\r\n都井岬北北東、\r\r\n鞍埼灯台(31-30.9N 131-25.0E、\r\r\n灯台表第1巻、6711、M4864)消灯。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262154&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262153",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2153",
-      "title": "直江津港北西、射撃終了",
-      "publishedAt": "2026-11-10T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2153    発表日時:2026年11月10日 17時\r\n\n\r\n直江津港北西、\r\r\n射撃終了。\r\r\n(2101削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262153&LANG=JP"
     },
     {
       "id": "NAVTEX-262152",
@@ -4578,18 +4692,6 @@
       },
       "rawText": "番号:26-2120    発表日時:2026年11月06日 13時\r\n\n\r\n佐多岬西、\r\r\n射撃、11月11日(予備12日)0800-2400、\r\r\n31-01N 130-19Eを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262120&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262107",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2107",
-      "title": "秋田船川港、秋田区、秋田第２南防波堤北仮設灯台消灯",
-      "publishedAt": "2026-11-04T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2107    発表日時:2026年11月04日 17時\r\n\n\r\n秋田船川港、秋田区、\r\r\n秋田第2南防波堤北仮設灯台(39-47.1N \r\r\n140-00.1E、灯台表第1巻、1395.6)消灯。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262107&LANG=JP"
     },
     {
       "id": "NAVTEX-262103",
