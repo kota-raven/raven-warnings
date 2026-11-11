@@ -42,5 +42,93 @@
       "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-11-02",
+    "headline": {
+      "ja": "米露ウクライナ3者協議2日目再開、停戦合意は依然遠い",
+      "en": "Second day of US-Russia-Ukraine Abu Dhabi talks resumes; ceasefire still far off"
+    },
+    "summary": {
+      "ja": "2026年11月11日、アブダビで行われている米国・ロシア・ウクライナの3者協議の2日目が再開したという。Euronewsによれば、協議は「建設的」と評価されているものの、停戦合意にはなお程遠いとされる。ウクライナ系メディア(ua.news)の事前報道によれば、2日目は停戦・エネルギー問題・黒海における安全保障が主要議題になる見通しだったという。領土問題は依然最大の対立点で、ロシア側はドンバス全域の割譲を交渉の前提としているとされ、公式の立場の隔たりは縮まっていないという。推測:本稿執筆時点(日本時間11日17時台)では2日目協議の具体的な結果はまだ確認できていない。[信頼性: 中](Euronews〔2026年11月11日〕の見出し・要旨を確認。クラウド環境のネットワーク制限により記事本文の直接確認はできず、ua.newsの事前報道と合わせて判断)",
+      "en": "On November 11, 2026, the second day of trilateral US-Russia-Ukraine talks in Abu Dhabi reportedly resumed. According to Euronews, the talks are being described as \"constructive,\" but a ceasefire deal remains far away. Ukrainian outlet ua.news had previewed that the second day's agenda would center on a possible ceasefire, energy issues, and Black Sea security. Territory is reported to remain the biggest sticking point, with Russia said to treat full control of the Donbas as a precondition, leaving the sides' public positions unchanged. Speculation: as of this writing, no concrete outcome from the second day could yet be confirmed. [Reliability: Medium] (Based on the Euronews Nov 11, 2026 headline/summary; full article text could not be directly verified due to network restrictions in this cloud environment, cross-checked against ua.news' preview)"
+    },
+    "category": "conflict",
+    "country": "UAE",
+    "region": "アブダビ",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "occurredAt": "2026-11-11T05:00:00+00:00",
+    "source": {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-11-03",
+    "headline": {
+      "ja": "日経平均、AI株急落からの反発続く 週明けに2%超上昇",
+      "en": "Japan's Nikkei extends rebound from AI-driven selloff, up over 2%"
+    },
+    "summary": {
+      "ja": "2026年11月9日(月)、日経平均株価は前週のAI関連株急落(週間ベースで9%超の下落、2020年3月の新型コロナ急落以来最大の週間下落率とされる)から反発し、前日比2.33%高の58,775円で取引を終えたという。米国株式市場も前週末(11月6日)の急落後、週明けにかけて持ち直し、S&P500・ダウ先物はそれぞれ0.3%・0.6%高で始まったと報じられている。推測:本稿時点で11月10・11日の取引結果は確認できていない。[信頼性: 中](Boston Globe、Trading Economics、RTTNewsなど複数の市場関連報道を確認。クラウド環境のネットワーク制限により記事本文の直接確認はできず、WebSearchの要旨に基づく)",
+      "en": "On Monday, November 9, 2026, Japan's Nikkei 225 is reported to have rebounded from the prior week's steep AI-stock selloff — a weekly decline of more than 9%, said to be the sharpest since the COVID-19 crash of March 2020 — closing up 2.33% at 58,775. U.S. futures were also reported higher early Monday (S&P 500 +0.3%, Dow +0.6%) after a volatile end to the previous week. Speculation: results for Nov 10-11 trading could not be confirmed as of this writing. [Reliability: Medium] (Based on multiple market reports including Boston Globe, Trading Economics and RTTNews summarized via WebSearch; full article text could not be directly verified due to network restrictions in this cloud environment)"
+    },
+    "category": "economy",
+    "country": "Japan",
+    "region": "",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "occurredAt": "2026-11-09T06:00:00+00:00",
+    "source": {
+      "name": "Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/11/09/business/world-markets-bounce-back-recovery-ai-stocks-wall-street/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-11-04",
+    "headline": {
+      "ja": "ベネズエラで洪水、GDACSが警報 死者3人",
+      "en": "Flooding in Venezuela prompts GDACS alert, 3 dead"
+    },
+    "summary": {
+      "ja": "GDACS(国連関連の災害警報システム)によれば、ベネズエラで2026年11月7日に始まった洪水により3人が死亡したという。2026年11月9日時点で「グリーン(警戒度最低)」の洪水警報が発出されており、大規模な住民避難は確認されていないという。推測:詳細な被災地域・被害規模は本稿時点で確認できていない。[信頼性: 中](GDACSのデータを集約するdefconlevel.comの速報を確認。クラウド環境のネットワーク制限によりGDACS公式サイト〔gdacs.org〕原本の直接確認はできなかった)",
+      "en": "According to GDACS (the UN-affiliated Global Disaster Alert and Coordination System), flooding that began in Venezuela on November 7, 2026 has reportedly killed 3 people. As of November 9, 2026, a \"green\" (lowest-level) flood alert remained in effect, and no large-scale evacuations have been confirmed. Speculation: the specific affected areas and extent of damage could not be confirmed as of this writing. [Reliability: Medium] (Based on a GDACS data summary via aggregator defconlevel.com; the original GDACS site could not be directly verified due to network restrictions in this cloud environment)"
+    },
+    "category": "disaster",
+    "country": "Venezuela",
+    "region": "",
+    "lat": 6.4238,
+    "lon": -66.5897,
+    "occurredAt": "2026-11-07T00:00:00+00:00",
+    "source": {
+      "name": "GDACS (via defconlevel.com)",
+      "url": "https://www.defconlevel.com/alert/2026-11-09-gdacs-disasters-green-flood-alert-in-venezuela"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-11-05",
+    "headline": {
+      "ja": "インドネシア・スメル山とイブ山で噴火相次ぐ、火砕流も発生",
+      "en": "Indonesia's Semeru and Ibu volcanoes see repeated eruptions, including pyroclastic flow"
+    },
+    "summary": {
+      "ja": "火山観測の集約サイトVolcanoDiscoveryによれば、インドネシア・ジャワ島のスメル山で2026年11月5日に強い噴火が発生し、南斜面に火砕流が流れ下ったという。北マルク州のイブ山でも11月5日・7日・8日に噴火が相次ぎ、11月5日時点で噴煙が高度約7,000フィートに達したという。推測:具体的な避難者数・人的被害は本稿時点で確認できていない。[信頼性: 中](VolcanoDiscoveryの火山観測情報〔インドネシア火山地質災害対策センター等の公的機関データを集約〕に基づく。クラウド環境のネットワーク制限により元データの直接確認はできなかった)",
+      "en": "According to volcano-monitoring aggregator VolcanoDiscovery, Indonesia's Mount Semeru on Java saw a strong eruption on November 5, 2026 that sent a pyroclastic flow down its southern slope. Mount Ibu in North Maluku also reportedly erupted repeatedly on November 5, 7 and 8, with its ash plume reaching roughly 7,000 feet as of November 5. Speculation: specific evacuation numbers or casualties could not be confirmed as of this writing. [Reliability: Medium] (Based on VolcanoDiscovery's monitoring data, which aggregates official sources such as Indonesia's volcanology agency (PVMBG); original source data could not be directly verified due to network restrictions in this cloud environment)"
+    },
+    "category": "disaster",
+    "country": "Indonesia",
+    "region": "東ジャワ州",
+    "lat": -0.7893,
+    "lon": 113.9213,
+    "occurredAt": "2026-11-05T00:00:00+00:00",
+    "source": {
+      "name": "VolcanoDiscovery",
+      "url": "https://www.volcanodiscovery.com/vulkane/heute.html"
+    },
+    "reliability": "medium"
   }
 ]
