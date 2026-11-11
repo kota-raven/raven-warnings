@@ -20,5 +20,27 @@
       "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-11-01",
+    "headline": {
+      "ja": "米露ウクライナ3者協議、初日終了 ゼレンスキー氏「建設的」、2日目は11日に",
+      "en": "First day of US-Russia-Ukraine Abu Dhabi talks ends 'constructive', second round set for Nov 11"
+    },
+    "summary": {
+      "ja": "2026年11月10日、米国のウィトコフ特使・クシュナー氏の仲介によるロシア・ウクライナ・米国の3者協議の初日が、アブダビで約4時間にわたり行われ終了したという。会場に同席しなかったゼレンスキー大統領は協議を「建設的で、かなり内容のあるものだった」と評価し、米国のルビオ国務長官もパリから「非常に生産的だった」と述べたという。協議では捕虜交換や、連れ去られたウクライナの民間人・子どもの帰還など人道問題が中心的な議題になったとされる。領土問題など核心的な対立点では進展は報じられておらず、ウクライナ側はプーチン大統領が求める領土の自発的割譲を拒否し即時停戦を求める一方、ロシア側はこれに応じていないという。2日目の協議は11日(水)に行われる予定だという。推測:本稿執筆時点では2日目の結果はまだ確認できていない。[信頼性: 高](France 24、Boston Globe、NPR、PBS、Al Jazeeraなど複数の独立メディアが2026年11月10日時点で同様の内容を報じている)",
+      "en": "On November 10, 2026, the first day of trilateral US-Russia-Ukraine talks mediated by US envoys Steve Witkoff and Jared Kushner reportedly ran for nearly four hours in Abu Dhabi and concluded. President Zelensky, who was not present in the room, is reported to have called the session \"constructive and quite substantive,\" while US Secretary of State Rubio, speaking from Paris, reportedly called it \"very productive.\" The talks reportedly focused mainly on humanitarian issues, including prisoner exchanges and the return of abducted Ukrainian civilians and children. No progress was reported on core disputes such as territory: Ukraine is said to continue rejecting Putin's demand for a voluntary territorial cession and to be pressing for an immediate ceasefire, while Russia has not agreed to one. A second day of talks is reportedly scheduled for Wednesday, November 11. Speculation: as of this writing, the outcome of the second day could not yet be confirmed. [Reliability: High] (Corroborated as of November 10, 2026 by multiple independent outlets including France 24, Boston Globe, NPR, PBS and Al Jazeera)"
+    },
+    "category": "conflict",
+    "country": "UAE",
+    "region": "アブダビ",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "occurredAt": "2026-11-10T18:00:00+00:00",
+    "source": {
+      "name": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
+    },
+    "reliability": "high"
   }
 ]
