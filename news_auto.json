@@ -1,5 +1,422 @@
 [
   {
+    "id": "auto-55784",
+    "headline": {
+      "ja": "ロシア・ウクライナ会談、戦後の安全保障について協議も進展なし",
+      "en": "Russia-Ukraine talks focus on post-war security but achieve no breakthrough"
+    },
+    "summary": {
+      "ja": "アブダビで開催されたロシア・ウクライナ会談がヨーロッパの安全保障枠組みについて協議したが、進展がなかった。米国特使が木曜日にプーチンとゼレンスキーに会う予定。",
+      "en": "Russia-Ukraine talks in Abu Dhabi focused on Europe's security framework but ended without breakthrough, with US envoys due to meet Putin and Zelensky on Thursday."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T18:04:58+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_post_war_security_talks_abu_dhabi_2026-11"
+  },
+  {
+    "id": "auto-55799",
+    "headline": {
+      "ja": "ロシア・ウクライナ、アラブ首長国連邦での米国仲介交渉で大規模捕虜交換合意を達成",
+      "en": "Russia and Ukraine secure major prisoner exchange deal in US-mediated talks in UAE"
+    },
+    "summary": {
+      "ja": "ロシアとウクライナが2日間のアラブ首長国連邦アブダビでの米国仲介交渉の後、大規模な捕虜交換合意に達した。",
+      "en": "Russia and Ukraine agree to major prisoner exchange following two days of US-mediated talks in Abu Dhabi."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T16:58:32+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_major_prisoner_exchange_deal_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-55801",
+    "headline": {
+      "ja": "イスラエル軍、パレスチナ人サッカー選手をガザで殺害",
+      "en": "Israeli army kills Palestinian footballer in Gaza"
+    },
+    "summary": {
+      "ja": "ガザスポーツクラブのキャプテン兼ゴールキーパーであるマフムード・カマル・アブデル・マレク選手がイスラエル軍の軍事作戦で殺害された。",
+      "en": "Israeli military operation kills Mahmoud Kamal Abdel-Malek, captain and goalkeeper of Gaza Sports Club."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-11T16:48:48+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_military_casualty_palestinian_footballer_gaza_2026-11"
+  },
+  {
+    "id": "auto-55785",
+    "headline": {
+      "ja": "米財務長官、イラン脅迫で軍事基地に移転",
+      "en": "US Treasury Secretary relocated to military base due to alleged Iranian threats"
+    },
+    "summary": {
+      "ja": "米国のスコット・ベッセント財務長官がイランからの脅迫を理由に軍事基地に移転した。複数のトランプ政権高官が同様の安全保障上の懸念から軍事基地に移住している。",
+      "en": "US Treasury Secretary Scott Bessent relocated to military base due to alleged Iranian threats. Several Trump administration officials have relocated to military bases for security concerns."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-11T16:45:11+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_treasury_secretary_security_threat_iran_2026-11"
+  },
+  {
+    "id": "auto-55792",
+    "headline": {
+      "ja": "インドネシア副大統領が権力闘争の最中に辞任",
+      "en": "Indonesia's vice president resigns amid ruling alliance tensions"
+    },
+    "summary": {
+      "ja": "インドネシアの副大統領が前任者ジョコ・ウィドドとの関係悪化の中で辞任した。プラボウォ大統領の支配体制が分裂の兆候を見せている。",
+      "en": "Indonesia's vice president resigns amid growing rift with predecessor Joko Widodo, showing signs of instability in President Prabowo's ruling alliance."
+    },
+    "category": "conflict",
+    "country": "インドネシア",
+    "lat": -6.2146,
+    "lon": 106.8451,
+    "occurredAt": "2026-11-11T16:38:07+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "indonesia_vice_president_resignation_political_conflict_2026-11"
+  },
+  {
+    "id": "auto-55803",
+    "headline": {
+      "ja": "イスラエル、レバノン農業生態系に深刻な被害、小麦生産に悪影響",
+      "en": "Israeli military operations disrupting Lebanon's agricultural ecosystem including wheat production"
+    },
+    "summary": {
+      "ja": "イスラエルの軍事作戦がレバノンの農業生態系に大きな影響を及ぼしており、特に南部とベカー谷の農地が深刻な破壊に直面している。",
+      "en": "Israeli military operations causing severe disruption to Lebanon's agricultural ecosystem, with farmlands in the south and Bekaa Valley facing significant destruction affecting wheat production."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-11T15:48:39+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_lebanon_agricultural_damage_ecosystem_disruption_2026-11"
+  },
+  {
+    "id": "auto-55807",
+    "headline": {
+      "ja": "イラン報復キャンペーン、西側に拡大の懸念",
+      "en": "Iran's retaliation campaign potentially expanding to Western targets, experts warn"
+    },
+    "summary": {
+      "ja": "米財務長官の軍事基地への移転が、イランの報復キャンペーンが中東を超えて西側に拡大している可能性を示唆している。",
+      "en": "US Treasury Secretary's relocation to military base suggests possible expansion of Iran's retaliation campaign beyond Middle East to Western targets."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-11T15:33:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_retaliation_campaign_western_expansion_analysis_2026-11"
+  },
+  {
+    "id": "auto-55811",
+    "headline": {
+      "ja": "トランプ政権内、イラン政策で分裂、強硬派と外交派の対立",
+      "en": "Trump administration reportedly split on Iran policy between hardliners and diplomats"
+    },
+    "summary": {
+      "ja": "トランプ政権内でイラン政策について軍事行動と外交の間で意見が分かれており、長期的な経済制裁と海上封鎖に落ち着く可能性がある。",
+      "en": "Trump administration appears divided on Iran approach, torn between military action and diplomacy, potentially settling for long-term economic pressure and blockade."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-11T14:10:47+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_trump_administration_iran_policy_internal_division_2026-11"
+  },
+  {
+    "id": "auto-55813",
+    "headline": {
+      "ja": "ガザ、砂堤決壊による洪水災害、多数の死傷者",
+      "en": "Gaza sandbank collapse triggers deadly floods with casualties in Deir el-Balah"
+    },
+    "summary": {
+      "ja": "ガザ地区デイル・アル・バラで砂堤が決壊し、家族が水に埋もれた。生存者が絶望的な救援活動について証言している。",
+      "en": "Deadly sandbank collapse in Gaza's Deir el-Balah buries families, with survivors describing desperate rescue attempts."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.4183,
+    "lon": 34.3493,
+    "occurredAt": "2026-11-11T14:04:17+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_flood_disaster_sandbank_collapse_2026-11"
+  },
+  {
+    "id": "auto-55815",
+    "headline": {
+      "ja": "イタリア全域の学校で爆弾メール警告、300校以上が避難",
+      "en": "Italian schools evacuated nationwide following email bomb threats affecting hundreds of schools"
+    },
+    "summary": {
+      "ja": "イタリアの300以上の学校がメール爆弾警告を受けた。イタリア首相メローニは危険性はないと述べている。英国と北アイルランド当局も同様の虚偽警告を報告している。",
+      "en": "Hundreds of Italian schools evacuated after email bomb threats. Italian PM Meloni confirms no actual danger. UK and Northern Ireland authorities also report similar bogus alerts."
+    },
+    "category": "conflict",
+    "country": "イタリア",
+    "lat": 41.8919,
+    "lon": 12.5113,
+    "occurredAt": "2026-11-11T13:18:36+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "italy_bomb_threats_schools_evacuation_2026-11"
+  },
+  {
+    "id": "auto-55816",
+    "headline": {
+      "ja": "ロシア・ウクライナ、アラブ首長国連邦での会談で捕虜交換合意に達成",
+      "en": "Russia and Ukraine reach prisoner exchange agreement in Abu Dhabi talks"
+    },
+    "summary": {
+      "ja": "ロシアとウクライナが2月以来初となるアラブ首長国連邦アブダビでの会談で捕虜交換合意に達した。",
+      "en": "Russia and Ukraine reach prisoner exchange agreement in Abu Dhabi, marking first talks between the warring sides since February."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T13:16:30+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_prisoner_exchange_agreement_abu_dhabi_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-55764",
+    "headline": {
+      "ja": "G7、ウクライナの主権と領土保全を再確認",
+      "en": "G7 reaffirms support for Ukraine's sovereignty and territorial integrity"
+    },
+    "summary": {
+      "ja": "G7がウクライナの主権と領土保全に対する支持を再確認した。",
+      "en": "G7 reaffirms support for Ukraine's sovereignty and territorial integrity."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T12:39:53+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXVTLXozNHVuWlZzclFGbHRFU0VYNEpLSU10SDR0YmVEU2VtaUp0VnlKeUNpM29iR3pSeEVROEFfUTBHamwxeXN6OHFLRXdic0ExRlR2UHNQd3RnN1JwVmVKS1dOMGRwWmxpVTZReFJDWDZzZThTU0F2TlNRM1FaSUwxdk9GdFhxSkJHam5lcWZkTXhVaDJjb21xVGJTbG5Md3dzSkxpU2lTTm8?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "g7_ukraine_support_statement_2026-11"
+  },
+  {
+    "id": "auto-55786",
+    "headline": {
+      "ja": "イタリア、スコットランド、北アイルランドで爆弾脅迫が疑われるホビーイタズラ",
+      "en": "Schools in Italy, Scotland, and Northern Ireland hit by bomb threat hoax"
+    },
+    "summary": {
+      "ja": "イタリアで6000以上の学校を含むイタリア、スコットランド、北アイルランドの学校が爆弾脅迫を受けた。当局は公共に対する危険はないと述べている。事件の関連性は不明。",
+      "en": "More than 6,000 Italian schools and schools in Scotland and Northern Ireland receive bomb threats in suspected hoax. Authorities say no public risk detected. Connection between incidents unclear."
+    },
+    "category": "conflict",
+    "country": "イタリア",
+    "lat": 41.8919,
+    "lon": 12.5113,
+    "occurredAt": "2026-11-11T12:30:29+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "bomb_threats_schools_italy_scotland_northern_ireland_2026-11"
+  },
+  {
+    "id": "auto-55684",
+    "headline": {
+      "ja": "ロシア・ウクライナ、アラブ首長国連邦での会談を終了、捕虜交換を実施",
+      "en": "Russia and Ukraine conclude Abu Dhabi talks with prisoner exchange"
+    },
+    "summary": {
+      "ja": "中国国営新華社通信がロシア・ウクライナ両国がアラブ首長国連邦アブダビで会談を終了し、捕虜交換を実施したと報じた。今後の交渉継続が予定されている。",
+      "en": "China's Xinhua reports Russia and Ukraine concluded talks in Abu Dhabi with prisoner exchange, with negotiations set to continue."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T12:30:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY1RXcXNPTmNzRnhoUzNEcWhDX0VBVFhHa2FrOXo3ZFZIeGt4cDgtOHY3ZnZhY2NJTDhadlpuSHQzTlFuTjkwZ0tNUHRXenZweTRYclltS3lCdE11WjJhcWZ0a1F1b1prOURpaTdoSk1rLVlUZEhtVDN3RElpNUtrTGlYdTN5dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_abu_dhabi_talks_prisoner_exchange_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-55668",
+    "headline": {
+      "ja": "イラン政府、ホルムズ海峡でタンカー2隻が機雷に接触したと発表",
+      "en": "Iran announces two oil tankers hit naval mines in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊がホルムズ海峡で違法行為を行っていたタンカー2隻が機雷に接触し火災が発生したと発表した。",
+      "en": "Iran's IRGC Navy reports two violating oil tankers caught fire after hitting naval mines in Strait of Hormuz."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 27.095,
+    "lon": 56.4529,
+    "occurredAt": "2026-11-11T12:27:48+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86319077/Two-more-violating-oil-tankers-hit-naval-mines-in-Strait-of-Hormuz"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_tanker_naval_mines_hormuz_2026-11"
+  },
+  {
+    "id": "auto-55763",
+    "headline": {
+      "ja": "トランプ特使がモスクワ訪問予定、捕虜解放について協議へ",
+      "en": "Trump envoys to visit Moscow to finalize prisoner release negotiations"
+    },
+    "summary": {
+      "ja": "トランプ政権の特使がモスクワを訪問し、「最大規模の人道的捕虜解放」について交渉を行う予定であるとクシュナー氏が発表した。",
+      "en": "Trump administration envoys plan to visit Moscow to finalize negotiations for major prisoner release, according to Kushner."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-11T12:12:22+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPamhYLXpZOWpqZ2NJVjYzV0xSYXFaUi1JclIzNDgzTEdmeTFWUmdxWENJZGZKek8tM0czWURHbjlFXzMwSTlhZ0xKVTJfUkt4QXotVEJQaEVfdG1FdU1Nb1FsYnVyM0FVRjNYVk5hV1RjVWtCVFVSck5PX0t1QTFhMEdFaGpDMWFMZGpCX3diMUNfVjMxaTVrb1FkWVctZEJOYlh4d2wtbjhWSHpoV3JYdzgxc1BhYmpUaXhkdDBadHlSelQ4UEhGdk92RkVvbjJaQzJnX3E5V3lZN2VJNXlr?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "trump_envoys_moscow_prisoner_release_negotiations_2026-11"
+  },
+  {
+    "id": "auto-55762",
+    "headline": {
+      "ja": "ロシア、ウクライナとの捕虜交換に原則合意したと発表",
+      "en": "Moscow announces Russia and Ukraine 'agree in principle' on prisoner exchange"
+    },
+    "summary": {
+      "ja": "ロシア政府がウクライナとの捕虜交換について原則合意したと発表した。",
+      "en": "Russia announces agreement in principle with Ukraine on prisoner exchange."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T12:06:20+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzZmeU9kY1pmbDd4RXBJdFlPSDI3OXpiRXhnNlBqekg3djQxdTlyUmZDM25NZUV1SXFFVURIZjM1RnpfdTdrazZ1T2dESlBsSE03TnJySE13aWlVMVVyNV9ENHlBbmo1S2d1dVhZeEtOVDVfc2xmWmxiYndBMmMzOHg2VDRSRDdDeUxQSENzclF6NXNnTUZYUFN6LVNwc2NJRHc1ejk0MGV2UnlvWk9UMXQzWGVWQWM0Mnc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_prisoner_exchange_agreement_2026-11"
+  },
+  {
+    "id": "auto-55505",
+    "headline": {
+      "ja": "ウクライナ危機解決に向けた3者会談がアラブ首長国連邦で終了",
+      "en": "Trilateral talks on Ukraine crisis settlement conclude in UAE"
+    },
+    "summary": {
+      "ja": "中国国営新華社通信がアラブ首長国連邦アブダビでウクライナ危機の解決に関する3者会談が終了したと報じた。",
+      "en": "Xinhua reports trilateral talks on Ukraine crisis settlement concluded in Abu Dhabi, UAE."
+    },
+    "category": "conflict",
+    "country": "アラブ首長国連邦",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "occurredAt": "2026-11-11T10:38:26+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFNsbVZEd3lQYkNoNTNDX29EZ3RwY2o1UThoRGJqMGdQT2UtVzNFVmNuNnRMbGcxQUx0Rnl4UVRXZkV4MDJtVHpEbHF6VkF5QXdac1NsZC1FQ29NYmpiRmk3OTAxZDIwZWJmUEJmcTM0ekNLN1hoWFRSZ3pmdkREMXZMdXp6YlprdUt1VVRR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_crisis_trilateral_talks_abu_dhabi_2026-11"
+  },
+  {
     "id": "auto-55420",
     "headline": {
       "ja": "ロシアがノルウェーのミサイル企業を攻撃対象に指定",
@@ -418,6 +835,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "sudan_drone_infrastructure_attacks_2026-11-10"
+  },
+  {
+    "id": "auto-53966",
+    "headline": {
+      "ja": "フランス政府、イランのサイバー攻撃を認定",
+      "en": "France officially attributes cyber attacks to Iran"
+    },
+    "summary": {
+      "ja": "フランス政府がイランによるサイバー攻撃を公式に認定した。",
+      "en": "French government officially attributes cyber attacks to Iran."
+    },
+    "category": "conflict",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-11-10T11:58:15+00:00",
+    "source": {
+      "name": "フランス 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUlsZWN3a3FUWGRGaEh0ekd3dzRzLWp2cEotWWJtTzVjZm1obGgwU1R5ZU1lWjhzUlN4S2hmT0FSTHRhRGI5c0RoSEpxNThDRlZaRHozR1Ntd0ZmR3ptTkN6Q1AxbjBCVUJuUnM1OHNKd2dNOVRSbi03cEdPOEhPcUVlTVU1ZGVoSE9hM05DaXhPZ1JXd3lOZEhRQVg4RHZ1UUd0VVpxX3JfZ3FGTENqb1lsNlBIVzRtOE4tVGgxcXB1YUNjVDVUaUhQVDQySTdXdnlYYTJ5SE91VGlTN1RUbE5mZU15emdOTHM2dg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_cyber_attack_france_2026-11"
   },
   {
     "id": "auto-53446",
