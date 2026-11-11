@@ -23,6 +23,240 @@
     "eventKey": "us_trump_nuclear_talks_putin_xi_2026-11-10"
   },
   {
+    "id": "auto-54529",
+    "headline": {
+      "ja": "イラン国会議長、イラン・米国の『戦争でも平和でもない』状況終結に中国が重要な役割を果たせると指摘",
+      "en": "Chinese role key to ending Iran's 'neither war nor peace' with US: Iranian parliament speaker"
+    },
+    "summary": {
+      "ja": "イランの国会議長が、イランと米国の間の膠着状態を終わらせるために、中国が重要な外交的役割を果たすことができると述べた。",
+      "en": "Iran's parliament speaker stated that China could play a key role in resolving Iran's stalled situation with the US."
+    },
+    "category": "conflict",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-11-10T21:29:16+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQlRRNzRHN1VHTTB6WjdHSUxoazQtMG1kLVcydWxJQzBvRlFyMm9zOXJsSXBuOWkxb1B5UUZyZUU2eE5aWlV3ZW9vV0NRenREVWw3MTZwUlAxYXZrSGZTeWNVQk1yWnlJbVc1R3N3eFN5bG81LXU1S0Uyak1BcU1mZG50QlRidm9wQ2xwZ3ZTNHpCSUw3VXl2LURJeGhJRVBpb0FPYnFMcjNjMHV1T3Q4QndHN1FGZkZ6SE1xTUtNZTU1QV9fX1hHazRnSGVFWG1FaUtOSFFwSE5taVpxazZic0NPWVk5M0k?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_china_usa_diplomacy_2026-11-10"
+  },
+  {
+    "id": "auto-54501",
+    "headline": {
+      "ja": "ゼレンスキー大統領、ウクライナ交渉会場提供でUAEに謝意",
+      "en": "Zelensky thanks UAE for providing venue for Ukraine negotiations"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領がUAEに対し、ウクライナ関連の交渉開催の会場を提供してくれたことに感謝を表明した。",
+      "en": "Ukrainian President Zelensky expressed gratitude to the UAE for providing a reliable venue for negotiations related to Ukraine."
+    },
+    "category": "conflict",
+    "country": "アラブ首長国連邦",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "occurredAt": "2026-11-10T20:33:42+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG8xbG9TQmROX3J1SWZSUnNQS0pBQkpIdmRZZng2SXJYdC1GQUdwdU5IbWYwbkNDMzdvdE4yRmdaSk5kaFJqR0VqOFUwcS15Zm9rNGhOYURIZXM3V3ozeFE1YU16WXJrTW9VMDhEbGt2RV9FdGFyMFhnTEpESWVuclJMVDRBbjBQWnJVLTZ6Zw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_uae_negotiations_venue_2026-11-10"
+  },
+  {
+    "id": "auto-54522",
+    "headline": {
+      "ja": "米上院議員、ガザへの緊急人道支援を促進するよう促す",
+      "en": "US senator urges urgent humanitarian aid to Gaza"
+    },
+    "summary": {
+      "ja": "米国の上院議員がイスラエルに対し、ガザへの緊急人道支援を許可するよう要請した。",
+      "en": "A U.S. senator urged Israel to allow urgent humanitarian aid into Gaza."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-10T20:33:11+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkw3aGtZd0dXdW5JVFhFTnlFYVd5dGQwRDZzOUJoWGcxQkFNbjg5di1PemtlZzJzd0dNWFpuQWJvMU44S0Y1U001aDhlR25CVmNmNnBIMG41Z19tTUQ5dEIxNER6RGwxYUZEODhfV2piUnlkS2tVS3JiWFhpRWV4S1kyMGVILTlTMW1YbVpuRk1ROEVYSlZxaTFJYWM4alphZXpxTXd3V3c3aWs?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_humanitarian_aid_crisis_2026-11-10"
+  },
+  {
+    "id": "auto-54466",
+    "headline": {
+      "ja": "リヤド空港への攻撃、パキスタン首相が強く非難",
+      "en": "Pakistani PM strongly condemns attack on Riyadh Airport"
+    },
+    "summary": {
+      "ja": "パキスタンのシャバズ・シャリフ首相は、リヤド空港への攻撃を強く非難した。",
+      "en": "Pakistani Prime Minister Shehbaz Sharif strongly condemned the attack on Riyadh Airport."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-10T20:17:00+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iWW84cUQ3RkZzZFRvMGFiLWxxakVxa2RDMlhuSmJ1Vm5Wc0h4c29QTkVidUxjUVMzWUE2Rk02ZDZmX1FxNlVURnZB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_airport_attack_2026-11-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-54540",
+    "headline": {
+      "ja": "G7外相会談、ウクライナのシビハ外相と協議",
+      "en": "G7 Foreign Ministers meet with Ukraine's Foreign Minister"
+    },
+    "summary": {
+      "ja": "フランスはG7外相会談を開催し、ウクライナのアンドリー・シビハ外相と会談した。",
+      "en": "France held a G7 Foreign Ministers' meeting with Ukraine's Foreign Minister Andrii Sybiha."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-10T19:57:44+00:00",
+    "source": {
+      "name": "フランス 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRXhySDlOS1l4bklqNVV4d1dNaFJBellZSzV4MWxPOEFNMFNnb1N3aVNESExHdWk1dVoxazJlS0FEdTg1dk1reXBreWtrNi1KbFc5SlBuYmpDRy01RGZNdXRweDlqQ0J3Z0RjcEx1M0t2T0U3M2k2VjljaENtVUh0d09DV25aYXpxd2pnZURTWWt5WlJYT1RJWm8xenNYSUpaaHJtZTJ0a09Rb3JFWUpnZzdRQmFpekZwZWhSSWF6X3F4Y1pqMVB4SVRmanROVENqb1c3VTQ2aHpmUnpTWE9teG9rWTJsNVhBMzNDaUNSajk1SEllM01DUnRMblc5TnBvaDVKbElGYkxfQ3Ni?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_g7_diplomatic_meeting_2026-11-10"
+  },
+  {
+    "id": "auto-54525",
+    "headline": {
+      "ja": "ネタニャフ首相とトランプ氏、イラン問題を巡り対立 - 報道",
+      "en": "Netanyahu and Trump reportedly clash over Iran - Report"
+    },
+    "summary": {
+      "ja": "イスラエルのベンヤミン・ネタニャフ首相と米国のドナルド・トランプ次期大統領が、イラン政策を巡って緊張した電話会談を行ったと報じられた。",
+      "en": "Israeli PM Netanyahu and US President-elect Trump reportedly had a tense call clashing over Iran policy."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-10T19:41:42+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVRNWEwtc2dHYk8wdWdDRllJWHNLemtwLTZ1RGk2akdDRkxSWUtzREhPbWpFbHJvdGtmckFCUXRadGpxcHlZTnUwa210NlVzTFo5b3lveHVfWFBjTVo5LUU5N0V0MlJVWjFIUFE2bUhWN1ctUlJycWI3MTVyRVJIZHlHTy0zRlQ2WEF5cEdmbXNhZEN0ZW12ZTFKRnpPaXJuSGtQZDV3NlpUYXNs?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_usa_iran_diplomatic_tension_2026-11-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-54527",
+    "headline": {
+      "ja": "米陸軍兵士、ロシアスパイ容疑で英国で逮捕",
+      "en": "US Army member arrested in UK on suspicion of Russian espionage"
+    },
+    "summary": {
+      "ja": "米国陸軍の兵士がロシアのためのスパイ活動の疑いで英国で逮捕された。",
+      "en": "A US Army member was arrested in the United Kingdom on suspicion of conducting espionage for Russia."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-10T19:31:26+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1d3Ry1wczMyTzJkMGppbDFsTmdGcWdKNXE3NU82cFh5VUM5SGxwc3RKdF94U0tTNHNuLV9vbTBULTlaNzQ3SHdMNFJyczhMWWZSQVR1MkdoaGJMMHgtSWc2ZWkzQ2lHWkpJNndnd2dNTmRMLURnMEp0RVFWSzhCSlotaDNwTUxScUN4TVJSTDQwajhrOVozOVMxSF9FSlFkQ2V2NkxBbnEtcXF6VlE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_espionage_arrest_russia_2026-11-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-54526",
+    "headline": {
+      "ja": "ロシア・ベラルーシ首脳、モスクワ近郊の安全保障サミット前に会談",
+      "en": "Russian and Belarusian presidents meet before security summit near Moscow"
+    },
+    "summary": {
+      "ja": "ロシアのプーチン大統領とベラルーシのルカシェンコ大統領がモスクワ近郊での安全保障サミット前に会談を行った。",
+      "en": "Russian President Putin and Belarusian President Lukashenko met ahead of a security summit near Moscow."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-10T18:53:03+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW9wLUJZbmN3T0NEQ041WkdTWE5VTnhJSVdpV1I2OVU0UkpKUWhxazd0WlR6SkFmb20yYWROQUhnU0FSdVlwcC15STBQbDFhdFQyTkVlOFlrTEhwdnluRTNNazJIVHlrdjZBTTBYbm9od3lzWktLTEFMWWNtXzRYRGIwYWlUQ29vbV9pZFhMOXpnUWh2VGVoc3pEUGY4Zkc0RXAtekhHbE91YVhtZzI4Rg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_belarus_security_summit_2026-11-10"
+  },
+  {
+    "id": "auto-54535",
+    "headline": {
+      "ja": "国連事務総長、イスラエルがガザ平和計画の実施を阻止していると批判",
+      "en": "UN chief: Israel obstructing implementation of Gaza peace plan"
+    },
+    "summary": {
+      "ja": "国連事務総長がイスラエルを批判し、安全保障理事会が承認したガザ平和計画の実施を妨害していると述べた。",
+      "en": "UN Secretary-General criticized Israel for obstructing the implementation of a UN Security Council-endorsed Gaza peace plan."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-10T16:55:58+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oMDZHTWVtNUhNNDl3cXM1SUZwanM4Qy1MLVpobXlVWGM2MXNZSGxueFJZbl93TEJfTkhHU0lqSnR3dEg5bHZna192X2kxRVo5R0tTd3pJSQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_gaza_peace_plan_obstruction_2026-11-10",
+    "severity": 4
+  },
+  {
+    "id": "auto-54543",
+    "headline": {
+      "ja": "インド国防相、米国次期政権との戦略的連携を強化する意向を表明",
+      "en": "Indian Defense Minister expresses intention to strengthen strategic ties with incoming US administration"
+    },
+    "summary": {
+      "ja": "インドの国防相が、米国の次期政権との戦略的連携を強化する方針を表明した。",
+      "en": "India's Defense Minister expressed the intention to strengthen strategic cooperation with the incoming US administration."
+    },
+    "category": "conflict",
+    "country": "インド",
+    "lat": 28.6214,
+    "lon": 77.2148,
+    "occurredAt": "2026-11-10T16:18:37+00:00",
+    "source": {
+      "name": "イタリア 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEZmakU4UVdDQUJmRDZVV1haOElOaFgwWlZHVS1TZUpRREZfMGJEZ1p3TnVpS2hFSVpoVmxRSnluZWdMOHFsNW1hSXc4ZWJvOGZQX3h4NDdIMzFIa0R1XzVwVkxZVVBNSDB5VlJsZ0NENHNPUURrM2RpZW9oNTJFQWdtME5JRW9BVkZkN2VMRHhQR1ZCWVRsU3YtMlM5NlFsU21UWlBmOU1TcEN2ckhPRmoxVG9LSE1Db2hXQjhsY0dGOWo0REtIdlI2Zw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "india_usa_strategic_partnership_2026-11-10"
+  },
+  {
     "id": "auto-53816",
     "headline": {
       "ja": "サウジ主導軍とイエメン親イラン派、攻撃が激化",
@@ -44,6 +278,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "yemen_saudi_houthi_escalation_2026-11-10"
+  },
+  {
+    "id": "auto-54578",
+    "headline": {
+      "ja": "ウクライナとデンマークの指導者、コペンハーゲン大学で学生と会談し欧州防衛支援を協議",
+      "en": "Leaders of Ukraine and Denmark meet with students at University of Copenhagen to discuss European defense support"
+    },
+    "summary": {
+      "ja": "ウクライナとデンマークの指導者がコペンハーゲン大学の学生と会談し、ウクライナ支援とロシアに対する欧州の団結について議論した。",
+      "en": "The leaders of Ukraine and Denmark met with students at the University of Copenhagen to discuss support for Ukraine and European unity against Russia."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-10T13:32:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHE1NHI3TFFtSjRFMFY5cFpqcDcxaV9pdXFkY0F2UmJKSjhobkRVVjVGVXk4djJTN0kzZXhwTy1CaXJqM0g3NjFUVzNyd2taOFVQMFhiMmE4cUFKbjlueDAwRThxUUFWN3BtLWNnSzlTYjJRX0JnR1dBZkU1c3hOSzhoY2VRT0VSdDJKT3AxMmVPbkpqczc0Tks2cGxId2FUczBmRE83SQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_denmark_european_defense_2026-11-10"
   },
   {
     "id": "auto-53821",
@@ -68,6 +325,29 @@
     "auto": true,
     "eventKey": "iran_ballistic_missile_range_2026-11-10",
     "severity": 4
+  },
+  {
+    "id": "auto-54067",
+    "headline": {
+      "ja": "ブルガリアで多重衝突事故、11人死亡",
+      "en": "Multiple pile-up accidents kill 11 in Bulgaria"
+    },
+    "summary": {
+      "ja": "ブルガリアで2件の連鎖衝突事故が発生し、少なくとも11人が死亡、48人が負傷した。",
+      "en": "Two pile-up accidents in Bulgaria resulted in at least 11 deaths and 48 injuries."
+    },
+    "category": "disaster",
+    "country": "ブルガリア",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "occurredAt": "2026-11-10T12:10:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzZkFRWUw2ZDc0bV9KdDRXbU9IeG5iVTFoUDZYZktOVWs1OTZsN0tkaEx0LWRwdHVrOEM2eHBWZzdYTGlhMkd0RWpPQTJVNUs4OXJKdHZWZDBuSU0zaVhPdXNDYmVEcTJUOHlNQ2FVMHItdnJiSGtwMXQtRkw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "bulgaria_pile_up_accidents_2026-11-10"
   },
   {
     "id": "auto-54403",
