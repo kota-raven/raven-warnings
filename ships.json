@@ -124,6 +124,56 @@
     "periodEnd": "2026-11-26T23:59:59Z"
   },
   {
+    "id": "2026-11-26-jp-000176",
+    "recordType": "aggregate",
+    "country": "JP",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "日向灘",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊、日向灘で機雷戦・掃海特別訓練を実施。日米の艦艇17隻が参加",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37474/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-11T21:21:25+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 17,
+    "periodStart": "2026-11-16T00:00:00Z",
+    "periodEnd": "2026-11-26T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-us-000177",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Enterprise",
+    "shipNumber": "CVN-65",
+    "shipType": "carrier",
+    "position": {
+      "area": "Mobile, AL to dismantling facility",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍で退役した原子力空母「エンタープライズ」が解体に向け最後の航海を実施。曳航でモービルに到着予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37471/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-11T21:21:25+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
     "id": "2026-11-12-jp-000109",
     "recordType": "individual",
     "country": "JP",
@@ -194,6 +244,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-11T00:00:00Z"
+  },
+  {
+    "id": "2026-11-10-es-000175",
+    "recordType": "individual",
+    "country": "ES",
+    "shipName": "Isaac Peral",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "SINKEX 26 exercise area",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "スペイン海軍の潜水艦「イサーク・ペラル」が実弾射撃演習「SINKEX 26」で退役哨戒艦「インファンタ・エレナ」を魚雷で撃沈",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37480/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-11T21:21:25+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-10T00:00:00Z"
   },
   {
     "id": "2026-11-09-us-000167",
