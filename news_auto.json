@@ -464,6 +464,29 @@
     "eventKey": "russia_ukraine_prisoner_exchange_agreement_2026-11"
   },
   {
+    "id": "auto-55597",
+    "headline": {
+      "ja": "ロシア・米国・ウクライナの3者協議、アブダビで2日目終了",
+      "en": "Russia-US-Ukraine trilateral talks conclude second day in Abu Dhabi"
+    },
+    "summary": {
+      "ja": "ロシア、米国、ウクライナがアブダビで開催している平和協議の2日目が終了した。クレムリン報道官は協議を「実質的で有用だった」と評価している。",
+      "en": "Second day of trilateral talks between Russia, US, and Ukraine concluded in Abu Dhabi. A Kremlin aide called the talks 'substantive' and 'quite useful.'"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-11T11:31:41+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ydFg2My1TejNjTjhDbVhiQmRlU3k0SmQ3ajRkZTdOanphRldISkpxZHNUUFNSY0V4LWltMzJkcG5tZ3ZkbXozYtIBTkFVX3lxTFBQU1lrNjZRTDVtOExmYkEtLVNQYjV5Vkt0V19sNTdnU054MFRJRUlodnMyQkNzMDY4UzFieUxZdzJMSHl0aDQwa2oxZGs4Zw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_us_ukraine_talks_abudhabi_2026-11-11"
+  },
+  {
     "id": "auto-55505",
     "headline": {
       "ja": "ウクライナ危機解決に向けた3者会談がアラブ首長国連邦で終了",
