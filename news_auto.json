@@ -23,6 +23,53 @@
     "eventKey": "saudi_houthi_missile_intercept_mecca_2026-11-12"
   },
   {
+    "id": "auto-56676",
+    "headline": {
+      "ja": "イスラエル空爆がガザのナッサー病院を攻撃、パレスチナ人6人が殺害",
+      "en": "Israeli airstrike kills 6 Palestinians at Nasser Hospital in southern Gaza"
+    },
+    "summary": {
+      "ja": "ガザ南部のナッサー病院がイスラエルの空爆により被害を受け、パレスチナ人6人が殺害された。",
+      "en": "Israeli airstrike struck Nasser Hospital in southern Gaza, killing 6 Palestinians."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.3402,
+    "lon": 34.3063,
+    "occurredAt": "2026-11-12T00:47:08+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnZ2RDJPS2ZWNk1Md2x0aW5SMGRGQUFaUGhLM3h3WU9fOG9RSkNsS3NiNzNBMW5uS1Nvb0tlX2x3WnZyb0xJSzY1Z1F2MUNjd0JCTVFWRUlHYnFiWHpLVjY4cWpBNFVWNTBmVGJxMVQzRTBockZiRGFBTW9JR3ZJMUNsbVhjX2pqZXlkd0dtM285TFZ2WXVsLUVzU3hBbko2NDlkLUFyUldLUEtibmtlYnhHbTFyamc2dUdj?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_airstrike_nasser_hospital_2026-11-12",
+    "severity": 4
+  },
+  {
+    "id": "auto-56716",
+    "headline": {
+      "ja": "イランの革命防衛隊が制裁下でのミサイル開発継続を誓約、イスラエルが対イラン準備を強化",
+      "en": "Iran's IRGC pledges continued missile development despite sanctions as Israel prepares for possible attack"
+    },
+    "summary": {
+      "ja": "イランの革命防衛隊首脳が、国際制裁によってもミサイル開発は継続すると表明した。イスラエルはこれに対応する形でイラン攻撃に向けた軍事準備を強化している。",
+      "en": "Iran's Islamic Revolutionary Guard Corps chief pledged continued missile development despite international sanctions. Israel has ordered its military to step up preparations for a possible attack on Iran in response."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-12T00:00:44+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_israel_military_tensions_2026-11-12"
+  },
+  {
     "id": "auto-55784",
     "headline": {
       "ja": "ロシア・ウクライナ会談、戦後の安全保障について協議も進展なし",
@@ -2991,28 +3038,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "abyei_south_sudan_drone_strikes_un_warning"
-  },
-  {
-    "id": "auto-47073",
-    "headline": {
-      "ja": "日本、有事の核兵器搬入を検討",
-      "en": "Japan considers allowing nuclear weapons entry in emergencies"
-    },
-    "summary": {
-      "ja": "日本政府の安全保障政策検討で、有事時の核兵器搬入許可方針が検討されている。",
-      "en": "Japan's government is considering allowing nuclear weapons entry during emergencies as part of security policy review."
-    },
-    "category": "conflict",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-05T08:55:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03Qkx0SnFuRUFUSG94ZVpnRWZMMDZqak85VENmMW1URmVOb2xGNW1tNDBNYXVCa2JBRlpYMzFkRUhfN0FmQl9jclZKekZzY0M5MV9Ya01uSFBscXZ4Q1JtSmowaWZDdGIzN2N5eTdvZHp2T3hudkZpaUtBT1M?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "japan_nuclear_weapons_policy_2026-11-05"
   }
 ]
