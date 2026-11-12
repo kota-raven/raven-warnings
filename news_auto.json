@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-56609",
+    "headline": {
+      "ja": "サウジがフーシ派ミサイル迎撃、破片がメッカ地域に落下",
+      "en": "Saudi Arabia intercepts Houthi missile, debris falls in Mecca region"
+    },
+    "summary": {
+      "ja": "サウジアラビアはイエメンのフーシ派からのミサイルを迎撃したが、その破片がサウジアラビアのメッカ地域に落下したとトルコのアナドル通信が報じた。",
+      "en": "Saudi Arabia intercepted a missile from Yemen's Houthi movement, but debris from the interception fell in the Mecca region of Saudi Arabia, according to Turkey's Anadolu Agency."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 21.4266,
+    "lon": 39.8256,
+    "occurredAt": "2026-11-12T00:47:08+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2xLa1A4dnJpdUE0QUFrSFhyNUVmblJYZzRod0hHcFRKYlplSkFWLW9NdWxBUEs5M3dOMnJhdEZlZVIzVjJqUkxYQjRBWXFiNXdLc2w2X0p5NG5oWDZQTm9jN3lQX3hLM212dHVFQWVVbi1rdmZNTC10bG9Yb050dmdBN1RESFBjUmh4YTVGNEoxX0dzRlBrbTdWY3FPRFhRVElVTDVEclZYZlZNQU9IeDN2RE5nblRq?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_houthi_missile_intercept_mecca_2026-11-12"
+  },
+  {
     "id": "auto-55784",
     "headline": {
       "ja": "ロシア・ウクライナ会談、戦後の安全保障について協議も進展なし",
@@ -2991,28 +3014,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "japan_nuclear_weapons_policy_2026-11-05"
-  },
-  {
-    "id": "auto-46705",
-    "headline": {
-      "ja": "北朝鮮が新型防空ミサイルシステムをテスト実施",
-      "en": "DPRK conducts test of new air-defense missile system"
-    },
-    "summary": {
-      "ja": "北朝鮮が新たに開発した防空ミサイルシステムのテスト発射を実施したと朝鮮中央通信が報道した。",
-      "en": "North Korea conducted a test-fire of a newly developed air-defense missile system, according to state media."
-    },
-    "category": "conflict",
-    "country": "北朝鮮",
-    "lat": 39.0339,
-    "lon": 125.7543,
-    "occurredAt": "2026-11-05T02:18:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRnN6bERYSUV3alptVHM1dEJ2NE01OXJRcHVIMEZubkY5Y21ESzhuNGVtYUR5OG9uS0NUZ1hkUEZzM05YN1BldGh4c2RJQ25lNWxEWG5YRGZsRDQwQ3Zrb3Q5TWFNRWNHM2NBbENOU1ZabHRYNm5KQjBWT2NSdktDUllVSGhPOUVobDB0Ug?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "dprk_new_air_defense_system_test_2026-11-04"
   }
 ]
