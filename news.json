@@ -132,6 +132,28 @@
     "reliability": "high"
   },
   {
+    "id": "2026-11-13-02",
+    "headline": {
+      "ja": "エヌビディア、ジェンセン・フアンCEOが辞任 CFOコレット・クレス氏が暫定CEOに",
+      "en": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim CEO"
+    },
+    "summary": {
+      "ja": "2026年11月11日、エヌビディアの取締役会がジェンセン・フアン氏の辞任を受け入れ、同氏は社長・最高経営責任者(CEO)・取締役を直ちに退任したという。同社は11日付のSEC提出書類(Form 8-K)および12日付の公式発表で、最高財務責任者(CFO)のコレット・クレス氏が暫定CEOに就任すると明らかにしたという。報道によれば、フアン氏の辞任は、中国情報機関と関係があるとされる人物との交際、および部下にあたる同社副社長との交際に関する取締役会の社内調査を受けたものだという。この問題が表面化して以降、エヌビディア株は約14年ぶりの安値まで下落したと報じられている。同社は11月17日に2027会計年度第3四半期決算を発表する予定だという。推測:取締役会による後任CEOの選定(社内・社外候補の検討)の具体的な進捗は本稿執筆時点では確認できていない。[信頼性: 高](Al Jazeera、Washington Post、CNN、Fortuneなど複数の独立した媒体、および同社の公式発表・SEC提出書類により確認)",
+      "en": "On November 11, 2026, Nvidia's board of directors is reported to have accepted Jensen Huang's resignation, with Huang stepping down immediately as President, CEO and a board member. The company's November 11 SEC filing (Form 8-K) and a November 12 official announcement reportedly named CFO Colette Kress as interim CEO. Reports say the resignation followed a board investigation into Huang's relationships, including with a woman reportedly linked to Chinese intelligence and with a company vice president who reported to him. Nvidia's stock is reported to have fallen to roughly a 14-year low since the matter became public. The company is reported to plan to report its fiscal Q3 2027 results on November 17. Speculation: the board's progress in selecting a permanent successor (from internal and external candidates) could not be confirmed as of this writing. [Reliability: High] (Confirmed by multiple independent outlets including Al Jazeera, the Washington Post, CNN and Fortune, as well as the company's own announcement and SEC filing)"
+    },
+    "category": "economy",
+    "country": "United States",
+    "region": "カリフォルニア州",
+    "lat": 36.1162,
+    "lon": -119.6816,
+    "occurredAt": "2026-11-11T22:00:00+00:00",
+    "source": {
+      "name": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    "reliability": "high"
+  },
+  {
     "id": "2026-11-12-01",
     "headline": {
       "ja": "米特使ウィトコフ氏・クシュナー氏、モスクワ到着 アブダビ協議後にプーチン氏と会談へ",
@@ -172,6 +194,28 @@
     "source": {
       "name": "AOL (Reuters)",
       "url": "https://www.aol.com/news/putin-greets-steve-witkoff-moscow-153411158.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-13-01",
+    "headline": {
+      "ja": "ゼレンスキー氏、欧州政治共同体(EPC)首脳会議のためダブリン入り ウィトコフ氏・クシュナー氏の報告を待つ",
+      "en": "Zelensky arrives in Dublin for European Political Community summit, awaits debrief from Witkoff and Kushner"
+    },
+    "summary": {
+      "ja": "2026年11月12日、ウクライナのゼレンスキー大統領が、ダブリンで開催される欧州政治共同体(EPC)首脳会議出席のためアイルランドに到着したという。同日、米国のウィトコフ特使・クシュナー氏はモスクワでプーチン大統領と会談した後、ダブリンに移動しゼレンスキー大統領に会談内容を報告(デブリーフィング)する予定とされる。フランス・ドイツ・英国などの欧州代表団もこの報告会に同席する可能性があると一部で報じられている。アイルランド警察当局は、首脳会議期間中のドローンによる侵入や破壊行為の可能性を念頭に、厳重な警備体制を敷いているという。推測:ゼレンスキー氏とウィトコフ氏・クシュナー氏との実際の会談結果は、本稿執筆時点ではまだ確認できていない。[信頼性: 高](Kyiv Independent、CNN、Irish Times、Meduza、Arab News、Tribune Indiaなど複数の独立した媒体が2026年11月12日時点で同様の内容を報じている)",
+      "en": "On November 12, 2026, Ukrainian President Volodymyr Zelensky is reported to have arrived in Ireland to attend the European Political Community (EPC) summit in Dublin. The same day, US envoys Steve Witkoff and Jared Kushner, after meeting President Putin in Moscow, are reported to be traveling to Dublin to brief Zelensky on the talks. Some reports suggest European representatives from France, Germany and the UK may also join that debrief. Irish police are reported to have put heightened security in place during the summit, citing concerns including possible drone incursions and sabotage. Speculation: the actual outcome of the Zelensky-Witkoff-Kushner meeting could not be confirmed as of this writing. [Reliability: High] (Corroborated as of November 12, 2026 by multiple independent outlets including Kyiv Independent, CNN, the Irish Times, Meduza, Arab News and Tribune India)"
+    },
+    "category": "conflict",
+    "country": "Ireland",
+    "region": "ダブリン",
+    "lat": 53.4129,
+    "lon": -8.2439,
+    "occurredAt": "2026-11-12T16:15:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-arrives-in-dublin-for-european-political-community-summit-expects-a-debrief-from-witkoff-kushner/"
     },
     "reliability": "high"
   }
