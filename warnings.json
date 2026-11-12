@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T18:37:11.490Z",
+  "generatedAt": "2026-11-12T01:28:49.389Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 198,
+  "count": 197,
   "warnings": [
     {
       "id": "NAVAREA11-260508",
@@ -562,6 +562,30 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264458",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4458",
+      "title": "ベンガル湾、危険な訓練",
+      "publishedAt": "2026-11-12T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4458   発表日時:2026年11月12日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n危険な訓練、11月14日、15日毎日0430Z-0830Z、\r\r\n17-48.27N 083-34.01E 17-48.18N 084-02.40E\r\r\n17-38.82N 084-00.47E 17-33.42N 083-38.12E\r\r\nで囲まれる海面。\r\r\n(4430削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264458&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264457",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4457",
+      "title": "ベンガル湾、飛しょう体発射に関する情報削除",
+      "publishedAt": "2026-11-12T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4457   発表日時:2026年11月12日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n飛しょう体発射に関する情報削除。\r\r\n(4431削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264457&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264456",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1092,30 +1116,6 @@
       "geometry": null,
       "rawText": "番号:26-4432   発表日時:2026年11月10日 08時\r\n\n\r\n★ インド東岸、射撃、\r\r\n11月11日1831Z-14日1829Z、\r\r\n19-14.6N 084-53.7Eを中心とする半径41海里の円のうち\r\r\n100-180度の扇形海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264432&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264431",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4431",
-      "title": "ベンガル湾、飛しょう体発射",
-      "publishedAt": "2026-11-10T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4431   発表日時:2026年11月10日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n飛しょう体発射、11月12日、13日毎日0330Z-0530Z、\r\r\n0830Z-1030Z、21-32.08N 087-09.90E\r\r\n21-03.43N 087-39.50E 20-40.23N 087-14.52E\r\r\n20-59.60N 086-54.03Eを結ぶ線及び陸岸で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264431&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264430",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4430",
-      "title": "ベンガル湾、飛しょう体発射",
-      "publishedAt": "2026-11-10T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4430   発表日時:2026年11月10日 08時\r\n\n\r\n★ ベンガル湾、\r\r\n飛しょう体発射、11月12日、13日毎日0530Z-0830Z、14日、15日\r\r\n0430Z-0830Z、17-48.27N 083-34.01E\r\r\n17-48.18N 084-02.40E 17-38.82N 084-00.47E\r\r\n17-33.42N 083-38.12Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264430&LANG=JP"
     },
     {
       "id": "JAPANNW-264429",
@@ -2566,18 +2566,6 @@
       },
       "rawText": "番号:26-4373   発表日時:2026年11月06日 20時\r\n\n\r\n朝鮮半島南岸、巨済島南西、\r\r\n射撃、11月9日、11日、13日毎日0000Z-0700Z、\r\r\n10日、12日毎日0000Z-1300Z、34-09-41N 128-00-00E\r\r\n34-18-01N 128-11-27E 34-18-00N 128-35-00E\r\r\n34-20-12N 128-35-14E 34-09-13N 128-43-11E\r\r\n34-00-00N 128-35-00E 34-00-00N 128-00-00E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264373&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264367",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4367",
-      "title": "インド洋西部、レユニオン島南西、射撃",
-      "publishedAt": "2026-11-06T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4367   発表日時:2026年11月06日 08時\r\n\n\r\n★ インド洋西部、レユニオン島南西、\r\r\n射撃、11月9日0400Z-11日2000Z、\r\r\n21-16.18S 054-22.72E 21-07.73S 054-56.99E\r\r\n21-30.75S 055-05.27E 21-45.69S 054-32.38E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264367&LANG=JP"
     },
     {
       "id": "JAPANNW-264366",
