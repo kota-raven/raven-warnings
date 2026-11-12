@@ -232,6 +232,29 @@
     "eventKey": "iran_retaliation_campaign_western_expansion_analysis_2026-11"
   },
   {
+    "id": "auto-56139",
+    "headline": {
+      "ja": "ロシア代表団長、アブダビ協議後に和平接近の見通しを述べる",
+      "en": "Russian delegation head says parties moving closer to peace after Abu Dhabi talks"
+    },
+    "summary": {
+      "ja": "ロシア代表団の指導者は、アブダビでの3者協議を受けて、関係各国が平和に向けて接近していると述べた。",
+      "en": "Russian delegation head indicates parties are moving closer to peace following trilateral talks in Abu Dhabi."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-11T14:31:28+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tYTUwcFlGQ19iLXhiN2dwNHpKWjl0LUJVZEJDdEs0aEpJbXFMbEltR2U3bTBRSVlwX2Z6N2JHVmtIcnZBSll3dtIBTkFVX3lxTE1XSGlzNFhBOEdlMXN1TUl1V21NazZ1UmQtNEpOV0M3TExyYkRaVU1xSXdSUlFvdTVvNElia3VVbHNHVjhSOUc2dlpHR3BjZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_peace_progress_abudhabi_2026-11-11"
+  },
+  {
     "id": "auto-55811",
     "headline": {
       "ja": "トランプ政権内、イラン政策で分裂、強硬派と外交派の対立",
@@ -253,6 +276,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "us_trump_administration_iran_policy_internal_division_2026-11"
+  },
+  {
+    "id": "auto-56141",
+    "headline": {
+      "ja": "クレムリン報道官、ロシア・EU間のウクライナおよびユーラシア安保協議の可能性に言及",
+      "en": "Kremlin spokesman addresses potential for Russia-EU talks on Ukraine and Eurasian security"
+    },
+    "summary": {
+      "ja": "クレムリンのスポークスマンは、ウクライナおよびユーラシア地域の安全保障に関するロシアとEU間の協議の可能性について述べた。",
+      "en": "Kremlin spokesman discusses potential Russia-EU talks on Ukraine and broader Eurasian security issues."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-11T14:07:59+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYaDFOWHlXN1NjX0x2dXJUM21JcUFFWi03QWF1OTlsd1VPVjh0MmsyV3Mxby1neHVOZVdkek9UQXJpR3NHSU8xeNIBTkFVX3lxTE9QcnFnY29MclJiTVFkWGxUTkhkSTE2MTRmQ3JJalVKazFab2ttLUxVQ1l6a1U3STI4U203b3JTWGU2U1hrMTdFVEtaTVdldw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_eu_ukraine_talks_potential_2026-11-11"
   },
   {
     "id": "auto-55813",
@@ -323,6 +369,29 @@
     "auto": true,
     "eventKey": "russia_ukraine_prisoner_exchange_agreement_abu_dhabi_2026-11",
     "severity": 4
+  },
+  {
+    "id": "auto-56095",
+    "headline": {
+      "ja": "G7外相会議、パリで共同宣言採択",
+      "en": "G7 Foreign Ministers adopt joint declaration in Paris"
+    },
+    "summary": {
+      "ja": "フランス・パリで開催されたG7外相会議が、11月9-10日に共同宣言を採択した。",
+      "en": "G7 Foreign Ministers Meeting in Paris on November 9-10, 2026 adopted a joint declaration."
+    },
+    "category": "economy",
+    "country": "フランス",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "occurredAt": "2026-11-11T13:01:55+00:00",
+    "source": {
+      "name": "イタリア 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPdkd2QU5YM0pxU19vMWdsbmhTRU9MdTJxVlVMaDR6azBPNnRpY2hUSW5vamNfZnFsLXNNZ1Z2ODFSUkM0bV9JZHhMdWRib0hxYlNpeDNDTWNmSFVUWlNzSkRCMlFkNDN6QVA1ZGk2eWU5YlFhc0JzSzJmSnVrVk9uc2pzUExXV2R3YkIyUExIekdOZW9oUmo4WWlkVlNkWDR6ekFMUUFGVkJpYXg5NHhkb1paM0l1LVFGWlJoOTZudnBDdmNHYnExcnR4NUFfXzRWalA0NWo5aWZtZFNxbV9KTVd3SUVMZVo2SnNnU0JTR1pWeHR6UEdtVlppTW5tT0swQ0hHLWd0aDhvaXlJSkdORGRSRGxpamVoVGRsNF94OUE2dw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "g7_foreign_ministers_paris_2026-11-09"
   },
   {
     "id": "auto-55764",
