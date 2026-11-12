@@ -152,5 +152,27 @@
       "url": "https://www.tribuneindia.com/news/abu-dhabi-negotiations/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-with-putin"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-12-03",
+    "headline": {
+      "ja": "露、米和平案の一部を「容認できない」 プーチン氏・ウィトコフ氏・クシュナー氏のモスクワ会談終了",
+      "en": "Putin's Kremlin talks with Witkoff, Kushner end; Russia calls parts of US plan 'unacceptable'"
+    },
+    "summary": {
+      "ja": "2026年11月12日(木)、モスクワを訪問していた米国のウィトコフ特使・クシュナー氏が、プーチン大統領と3時間余りにわたり会談し終了したという。プーチン大統領は会談の冒頭、ウクライナ戦争の解決は「永続的な平和(eternal peace)」でなければならないと述べたと報じられている。会談後、ロシア側は米国の和平案の一部の条件を「容認できない」としたと報じられている。プーチン大統領はまた、和平合意後に欧州がウクライナへ部隊を展開すれば「戦争が再開する」と述べ、展開された外国部隊はロシア軍の「正当な攻撃対象」になり得るとの考えを示したという。領土問題などの核心的対立点については、ウクライナ側が指摘する「グレーゾーン」(実効支配境界が曖昧な地域)の問題にロシア側も留意しているとプーチン大統領が述べたとされる。両氏はこの後、アイルランド・ダブリンでゼレンスキー大統領とも会談する予定だという。推定:会談の正確な終了時刻、ロシア側が「容認できない」とした具体的な条件の内容は、本稿執筆時点では確認できていない。[信頼性: 高](TASS〔ロシア国営通信、プーチン氏発言の引用元〕、PBS NewsHour、AOL(Reuters系)、Clash Reportなど複数の独立した媒体が2026年11月12日時点で同様の内容を報じている)",
+      "en": "On Thursday, November 12, 2026, US envoys Steve Witkoff and Jared Kushner are reported to have concluded over three hours of talks with President Putin in Moscow. At the opening of the meeting, Putin is reported to have said any resolution of the Ukraine war must be an \"eternal peace.\" Following the talks, Russia is reported to have called some terms of the US peace proposal \"unacceptable.\" Putin also reportedly said that if European troops were deployed to Ukraine after a peace deal, \"war will resume,\" and suggested any such foreign forces deployed there could be considered \"legitimate targets\" for the Russian armed forces. On core disputes such as territory, Putin reportedly said Russia is aware of the \"gray zone\" issue raised by Ukraine (areas where front-line control is ambiguous). The envoys are reported to be heading next to Dublin to meet President Zelensky. Speculation: the exact end time of the meeting and the specific terms Russia called \"unacceptable\" could not be confirmed as of this writing. [Reliability: High] (Corroborated as of November 12, 2026 by multiple independent outlets including TASS, PBS NewsHour, AOL (Reuters-sourced) and Clash Report)"
+    },
+    "category": "conflict",
+    "country": "Russia",
+    "region": "モスクワ",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "occurredAt": "2026-11-12T11:00:00+00:00",
+    "source": {
+      "name": "AOL (Reuters)",
+      "url": "https://www.aol.com/news/putin-greets-steve-witkoff-moscow-153411158.html"
+    },
+    "reliability": "high"
   }
 ]
