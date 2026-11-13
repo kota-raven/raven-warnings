@@ -218,5 +218,28 @@
       "url": "https://kyivindependent.com/zelensky-arrives-in-dublin-for-european-political-community-summit-expects-a-debrief-from-witkoff-kushner/"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-13-03",
+    "headline": {
+      "ja": "イラン・ホルムズ海峡でタンカー4隻が爆発、イラン側は「機雷」と主張。トランプ氏は船舶攻撃時の軍事力行使を再警告",
+      "en": "Iran says four tankers struck by explosions in Strait of Hormuz; Trump warns of renewed strikes if vessels attacked"
+    },
+    "summary": {
+      "ja": "Reuters(11月12日報道)によると、イラン軍はホルムズ海峡で航行中のタンカー4隻が爆発に見舞われたと発表したという。別途、イラン革命防衛隊(IRGC)海軍は11日夜にタンカー2隻が大規模爆発後に航行停止したと発表し、イラン国営メディアはこれらが機雷に触れたと説明しているという。推測:原因(機雷か否か)はイラン側の説明のみに基づき、独立した確証は得られていない。トランプ米大統領は、米の同盟国や海峡の船舶が攻撃された場合は再び軍事力を行使すると警告したと複数媒体が報じている。[信頼性: 中](Reuters・Anadolu・AP系配信など複数の独立した通信社がイラン側発表を報じているが、原因の詳細は第三者による独立確証が得られていない)",
+      "en": "Reuters reported on November 12 that Iran's military said four tankers were struck by explosions while transiting the Strait of Hormuz. Separately, Iran's IRGC Navy said two tankers lost propulsion after major explosions on the night of November 11, with Iranian state media attributing this to naval mines. Speculation: the cause (mines or otherwise) rests solely on Iranian official statements and has not been independently verified. Multiple outlets report Trump warned the US would use military force again if allies or vessels in the strait were attacked. [Reliability: Medium] (Reported by Reuters, Anadolu and AP-affiliated outlets relaying Iranian government statements, but the cause has not been independently corroborated)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-12T11:00:00+00:00",
+    "source": {
+      "name": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/commodities-news/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says-5022725"
+    },
+    "reliability": "medium",
+    "severity": 3
   }
 ]
