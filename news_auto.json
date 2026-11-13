@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-57580",
+    "headline": {
+      "ja": "ロシアのミサイル攻撃でウクライナの大型発電所が損傷",
+      "en": "Russian ballistic missile strike damages Ukraine power plant"
+    },
+    "summary": {
+      "ja": "ロシアが弾道ミサイルでウクライナの大型発電所を攻撃し、施設に深刻な損傷を与えた。",
+      "en": "A Russian ballistic missile strike severely damaged one of Ukraine's largest power stations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-12T13:02:46+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_power_plant_russian_missile_2026-11-12"
+  },
+  {
+    "id": "auto-57678",
+    "headline": {
+      "ja": "ガザのナッサー医療複合体への空爆、6人死亡27人負傷",
+      "en": "Six killed in Israeli airstrike on Gaza's Nasser Hospital"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザのナッサー病院を空爆し、6人が死亡、27人が負傷し、施設に広範な損傷が生じた。",
+      "en": "An Israeli airstrike on Gaza's Nasser Hospital killed six people, injured 27 others and caused extensive damage."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.3402,
+    "lon": 34.3063,
+    "occurredAt": "2026-11-12T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_nasser_hospital_airstrike_2026-11-11"
+  },
+  {
+    "id": "auto-57710",
+    "headline": {
+      "ja": "イエメン、サウジアラビアのアデン司令部にミサイル攻撃",
+      "en": "Yemen fires missiles at Saudi operations room in Aden"
+    },
+    "summary": {
+      "ja": "イエメン武装勢力の報道官ヤヒャ・サリエは、サウジアラビアが統制するアデンの指揮司令室へのミサイル攻撃を発表した。",
+      "en": "Yemen's armed forces spokesman announced a missile attack on Saudi Arabia's command and operations room in Aden."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-11-12T06:47:17+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86319677/Yemen-fires-missiles-at-Saudi-operations-room-in-Aden"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saudi_aden_missile_attack_2026-11-12"
+  },
+  {
     "id": "auto-56609",
     "headline": {
       "ja": "サウジがフーシ派ミサイル迎撃、破片がメッカ地域に落下",
