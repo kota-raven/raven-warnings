@@ -263,5 +263,28 @@
       "url": "https://www.zaikei.co.jp/article/20261113/877508.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-13-07",
+    "headline": {
+      "ja": "イラン、ホルムズ海峡でLNGタンカーが機雷に触れ爆発と発表(金曜)",
+      "en": "Iran says LNG tanker hit mine, exploded in Strait of Hormuz (Friday)"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊(IRGC)海軍は、ホルムズ海峡で許可されていない南方の航路を無許可航行していたLNG(液化天然ガス)タンカー1隻が、警告を無視したため機雷に触れて爆発したと発表したという(11月13日・金曜日付)。船名・船籍は示されていない。Reuters(Arab News・Alarabiya等配信)によると、船の詳細は直ちには判明していないという。推測:原因(機雷か否か)はイラン側発表のみに基づき、独立した確証は得られていない。既報(id: 2026-11-13-03、11月11〜12日のタンカー4隻爆発)に続く、ホルムズ海峡での攻撃応酬継続の一環と判断した。[信頼性: 中](Reuters・Arab News・Alarabiya等複数の媒体がイラン側発表を報じているが、第三者による独立確証は得られていない)",
+      "en": "Iran's IRGC Navy said an LNG (liquefied natural gas) tanker that was taking an unauthorized southern route through the Strait of Hormuz hit a sea mine and exploded after ignoring warnings, in an announcement dated Friday, November 13. The vessel's name and flag were not given. Reuters (via Arab News, Alarabiya, and others) reported no details on the tanker were immediately available. Speculation: the cause (mine or otherwise) rests solely on Iran's own account and has not been independently verified. Assessed as a continuation of the ongoing pattern of attacks in the Strait of Hormuz following the previously reported incident (id: 2026-11-13-03, four tankers struck Nov 11-12). [Reliability: Medium] (Reported by Reuters, Arab News, Alarabiya and others relaying Iran's statement, but not independently corroborated)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-13T06:00:00+00:00",
+    "source": {
+      "name": "Reuters(Arab News配信)",
+      "url": "https://www.arabnews.com/middle-east/iran-says-lng-tanker-hit-mine-suffered-explosion-in-hormuz-3011666"
+    },
+    "reliability": "medium",
+    "severity": 2
   }
 ]
