@@ -1,5 +1,29 @@
 [
   {
+    "id": "2026-11-11-us-000178",
+    "recordType": "individual",
+    "country": "US",
+    "unitName": "1st Marine Logistics Group Headquarters and Service Battalion",
+    "unitNumber": null,
+    "unitType": "other",
+    "position": {
+      "area": "Camp Pendleton, California",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "1st Marine Logistics Group Headquarters and Service Battalion obtained VR goggles for counter-drone training",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/11/vr-goggles-get-dual-use-for-suicide-prevention-counter-drone-training"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-12T21:22:21Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-11T16:04:56Z"
+  },
+  {
     "id": "2026-10-16-us-000075",
     "recordType": "individual",
     "country": "US",

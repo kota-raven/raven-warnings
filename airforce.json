@@ -95,8 +95,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -119,8 +119,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
@@ -143,8 +143,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-10-28T00:00:00Z"
   },
   {
