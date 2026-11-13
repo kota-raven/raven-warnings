@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-11-07",
-    "headline": {
-      "ja": "米国株式市場、大幅反発 ダウ2.15%・S&P500 2.35%・ナスダック2.74%高",
-      "en": "US stocks rally sharply: Dow +2.15%, S&P 500 +2.35%, Nasdaq +2.74%"
-    },
-    "summary": {
-      "ja": "2026年11月9日(月)、米国株式市場は前週後半のAI関連株急落からの反発を続け、大幅高で取引を終えたという。ダウ工業株30種平均は前日比1,104.02ポイント(2.15%)高の52,389.75、S&P500種は173.08ポイント(2.35%)高の7,549.94、ナスダック総合指数は673.71ポイント(2.74%)高の25,253.14で終えたとされる。複数の報道によれば、この日の上昇率は4月以来最大規模だという。推測:11月10日以降の取引結果は本稿執筆時点では確認できていない。[信頼性: 中](The Star〔マレーシア〕、La Nacion〔アルゼンチン〕など複数の報道で同様の数値を確認。クラウド環境のネットワーク制限により、Reuters・AP等の一次配信記事の直接確認はできなかった)",
-      "en": "On Monday, November 9, 2026, US stock markets reportedly extended their rebound from the prior week's steep AI-stock selloff, closing sharply higher. The Dow Jones Industrial Average is reported to have risen 1,104.02 points (2.15%) to 52,389.75, the S&P 500 up 173.08 points (2.35%) to 7,549.94, and the Nasdaq Composite up 673.71 points (2.74%) to 25,253.14. Multiple reports describe this as the best single-day percentage gain since April. Speculation: trading results from November 10 onward could not be confirmed as of this writing. [Reliability: Medium] (Matching figures corroborated via The Star (Malaysia) and La Nacion (Argentina); the original Reuters/AP wire text could not be directly verified due to network restrictions in this cloud environment)"
-    },
-    "category": "economy",
-    "country": "United States",
-    "region": "",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-09T21:00:00+00:00",
-    "source": {
-      "name": "The Star (Malaysia)",
-      "url": "https://www.thestar.com.my/news/world/2026/11/10/us-stocks-close-higher"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-10-03",
-    "headline": {
-      "ja": "米露ウクライナ3者協議、アブダビで開幕 2月以来初の対面交渉",
-      "en": "US-Russia-Ukraine trilateral talks open in Abu Dhabi, first in-person round since February"
-    },
-    "summary": {
-      "ja": "2026年11月10日、米国のウィトコフ特使・クシュナー氏が率いる米国代表団と、ロシア・ウクライナ両代表団による3者協議がアブダビで開幕し、11日まで2日間行われる予定だという。2月の開戦後初の3者対面交渉とされる。協議に先立ち、ウィトコフ氏・クシュナー氏はウクライナ・EU・NATO・ドイツ・フランス・英国・イタリアの代表とも個別に協議したという。クシュナー氏は戦争終結・再発防止・ウクライナの戦後復興・人道支援を優先課題に挙げ、ロシアのラブロフ外相は「集団安全保障」を中心的論点としているという。米政府高官によれば、両陣営は非公式に領土交換の可能性を示唆しているが、ウクライナは侵攻前の国境への回復を公式に要求し、プーチン大統領はドンバス全域の割譲を求めており、公式の立場は依然大きく隔たっているという。推測:本稿執筆時点(日本時間11月10日午前)では協議は開幕段階であり、具体的な進展・結果はまだ確認できていない。[信頼性: 高](Axios、ABC News、Euronews、Ukrinform など複数の独立したメディアが直近24時間以内に同様の内容を報じている)",
-      "en": "On November 10, 2026, trilateral talks between US, Russian and Ukrainian delegations opened in Abu Dhabi, led on the US side by special envoy Steve Witkoff and Jared Kushner, and are reported to run through November 11 — described as the first in-person three-way negotiations since the war's February anniversary. Ahead of the trilateral round, Witkoff and Kushner reportedly held separate consultations with officials from Ukraine, the EU, NATO, Germany, France, the UK and Italy. Kushner reportedly listed ending the war, preventing it from reigniting, reviving Ukraine's postwar economy and humanitarian aid as priorities, while Russian Foreign Minister Lavrov has reportedly pushed \"collective security\" as a central theme. According to a US official, both sides have privately signaled openness to a territorial trade, but Ukraine publicly demands a return to its pre-invasion border while President Putin is said to want the whole of Donbas, so public positions remain far apart. Speculation: as of this writing (Tuesday morning JST), the talks have only just opened and no concrete outcome can yet be confirmed. [Reliability: High] (Corroborated within the last 24 hours by multiple independent outlets including Axios, ABC News, Euronews and Ukrinform)"
-    },
-    "category": "conflict",
-    "country": "UAE",
-    "region": "アブダビ",
-    "lat": 23.4241,
-    "lon": 53.8478,
-    "occurredAt": "2026-11-10T00:00:00+00:00",
-    "source": {
-      "name": "Axios",
-      "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-11-01",
     "headline": {
       "ja": "米露ウクライナ3者協議、初日終了 ゼレンスキー氏「建設的」、2日目は11日に",
@@ -198,6 +154,29 @@
     "reliability": "high"
   },
   {
+    "id": "2026-11-13-03",
+    "headline": {
+      "ja": "イラン・ホルムズ海峡でタンカー4隻が爆発、イラン側は「機雷」と主張。トランプ氏は船舶攻撃時の軍事力行使を再警告",
+      "en": "Iran says four tankers struck by explosions in Strait of Hormuz; Trump warns of renewed strikes if vessels attacked"
+    },
+    "summary": {
+      "ja": "Reuters(11月12日報道)によると、イラン軍はホルムズ海峡で航行中のタンカー4隻が爆発に見舞われたと発表したという。別途、イラン革命防衛隊(IRGC)海軍は11日夜にタンカー2隻が大規模爆発後に航行停止したと発表し、イラン国営メディアはこれらが機雷に触れたと説明しているという。推測:原因(機雷か否か)はイラン側の説明のみに基づき、独立した確証は得られていない。トランプ米大統領は、米の同盟国や海峡の船舶が攻撃された場合は再び軍事力を行使すると警告したと複数媒体が報じている。[信頼性: 中](Reuters・Anadolu・AP系配信など複数の独立した通信社がイラン側発表を報じているが、原因の詳細は第三者による独立確証が得られていない)",
+      "en": "Reuters reported on November 12 that Iran's military said four tankers were struck by explosions while transiting the Strait of Hormuz. Separately, Iran's IRGC Navy said two tankers lost propulsion after major explosions on the night of November 11, with Iranian state media attributing this to naval mines. Speculation: the cause (mines or otherwise) rests solely on Iranian official statements and has not been independently verified. Multiple outlets report Trump warned the US would use military force again if allies or vessels in the strait were attacked. [Reliability: Medium] (Reported by Reuters, Anadolu and AP-affiliated outlets relaying Iranian government statements, but the cause has not been independently corroborated)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-12T11:00:00+00:00",
+    "source": {
+      "name": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/commodities-news/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says-5022725"
+    },
+    "reliability": "medium",
+    "severity": 3
+  },
+  {
     "id": "2026-11-13-01",
     "headline": {
       "ja": "ゼレンスキー氏、欧州政治共同体(EPC)首脳会議のためダブリン入り ウィトコフ氏・クシュナー氏の報告を待つ",
@@ -220,26 +199,25 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-13-03",
+    "id": "2026-11-13-04",
     "headline": {
-      "ja": "イラン・ホルムズ海峡でタンカー4隻が爆発、イラン側は「機雷」と主張。トランプ氏は船舶攻撃時の軍事力行使を再警告",
-      "en": "Iran says four tankers struck by explosions in Strait of Hormuz; Trump warns of renewed strikes if vessels attacked"
+      "ja": "米国株、エヌビディア安で続落 S&P500・ダウ・ナスダックとも下落(11月12日)",
+      "en": "US stocks slip again as Nvidia tumbles; S&P, Dow, Nasdaq all lower (Nov 12)"
     },
     "summary": {
-      "ja": "Reuters(11月12日報道)によると、イラン軍はホルムズ海峡で航行中のタンカー4隻が爆発に見舞われたと発表したという。別途、イラン革命防衛隊(IRGC)海軍は11日夜にタンカー2隻が大規模爆発後に航行停止したと発表し、イラン国営メディアはこれらが機雷に触れたと説明しているという。推測:原因(機雷か否か)はイラン側の説明のみに基づき、独立した確証は得られていない。トランプ米大統領は、米の同盟国や海峡の船舶が攻撃された場合は再び軍事力を行使すると警告したと複数媒体が報じている。[信頼性: 中](Reuters・Anadolu・AP系配信など複数の独立した通信社がイラン側発表を報じているが、原因の詳細は第三者による独立確証が得られていない)",
-      "en": "Reuters reported on November 12 that Iran's military said four tankers were struck by explosions while transiting the Strait of Hormuz. Separately, Iran's IRGC Navy said two tankers lost propulsion after major explosions on the night of November 11, with Iranian state media attributing this to naval mines. Speculation: the cause (mines or otherwise) rests solely on Iranian official statements and has not been independently verified. Multiple outlets report Trump warned the US would use military force again if allies or vessels in the strait were attacked. [Reliability: Medium] (Reported by Reuters, Anadolu and AP-affiliated outlets relaying Iranian government statements, but the cause has not been independently corroborated)"
+      "ja": "2026年11月12日(木)の米国株式市場は、前日のエヌビディアのジェンセン・フアンCEO辞任を受けた流れが続き、3指数とも下落して取引を終えたという。S&P500種は0.35%安の7,592.40、ダウ工業株30種平均は189.40ポイント(0.36%)安の52,297.09、ナスダック総合指数は0.39%安の25,366.09だったとされる。エヌビディア株は一時大きく下落した後、下げを半分程度に縮小しつつも4.3%安で終えた一方、他のAI関連半導体株は上昇したという。[信頼性: 高](CNBC・Yahoo Finance・The Motley Foolなど複数の主要金融メディアがほぼ同一の数値を報じている)",
+      "en": "US stock markets reportedly closed lower across the board on Thursday, November 12, 2026, continuing the prior day's reaction to Nvidia CEO Jensen Huang's resignation. The S&P 500 is reported to have fallen 0.35% to 7,592.40, the Dow Jones Industrial Average down 189.40 points (0.36%) to 52,297.09, and the Nasdaq Composite down 0.39% to 25,366.09. Nvidia shares reportedly pared an initial steep decline to close down 4.3%, while other AI-chip peers rose. [Reliability: High] (Closely matching figures reported by multiple major financial outlets including CNBC, Yahoo Finance, and The Motley Fool)"
     },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-12T11:00:00+00:00",
+    "category": "economy",
+    "country": "United States",
+    "region": "",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-12T21:00:00+00:00",
     "source": {
-      "name": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/commodities-news/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says-5022725"
+      "name": "CNBC / The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
     },
-    "reliability": "medium",
-    "severity": 3
+    "reliability": "high"
   }
 ]
