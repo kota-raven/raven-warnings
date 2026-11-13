@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-11-01",
-    "headline": {
-      "ja": "米露ウクライナ3者協議、初日終了 ゼレンスキー氏「建設的」、2日目は11日に",
-      "en": "First day of US-Russia-Ukraine Abu Dhabi talks ends 'constructive', second round set for Nov 11"
-    },
-    "summary": {
-      "ja": "2026年11月10日、米国のウィトコフ特使・クシュナー氏の仲介によるロシア・ウクライナ・米国の3者協議の初日が、アブダビで約4時間にわたり行われ終了したという。会場に同席しなかったゼレンスキー大統領は協議を「建設的で、かなり内容のあるものだった」と評価し、米国のルビオ国務長官もパリから「非常に生産的だった」と述べたという。協議では捕虜交換や、連れ去られたウクライナの民間人・子どもの帰還など人道問題が中心的な議題になったとされる。領土問題など核心的な対立点では進展は報じられておらず、ウクライナ側はプーチン大統領が求める領土の自発的割譲を拒否し即時停戦を求める一方、ロシア側はこれに応じていないという。2日目の協議は11日(水)に行われる予定だという。推測:本稿執筆時点では2日目の結果はまだ確認できていない。[信頼性: 高](France 24、Boston Globe、NPR、PBS、Al Jazeeraなど複数の独立メディアが2026年11月10日時点で同様の内容を報じている)",
-      "en": "On November 10, 2026, the first day of trilateral US-Russia-Ukraine talks mediated by US envoys Steve Witkoff and Jared Kushner reportedly ran for nearly four hours in Abu Dhabi and concluded. President Zelensky, who was not present in the room, is reported to have called the session \"constructive and quite substantive,\" while US Secretary of State Rubio, speaking from Paris, reportedly called it \"very productive.\" The talks reportedly focused mainly on humanitarian issues, including prisoner exchanges and the return of abducted Ukrainian civilians and children. No progress was reported on core disputes such as territory: Ukraine is said to continue rejecting Putin's demand for a voluntary territorial cession and to be pressing for an immediate ceasefire, while Russia has not agreed to one. A second day of talks is reportedly scheduled for Wednesday, November 11. Speculation: as of this writing, the outcome of the second day could not yet be confirmed. [Reliability: High] (Corroborated as of November 10, 2026 by multiple independent outlets including France 24, Boston Globe, NPR, PBS and Al Jazeera)"
-    },
-    "category": "conflict",
-    "country": "UAE",
-    "region": "アブダビ",
-    "lat": 23.4241,
-    "lon": 53.8478,
-    "occurredAt": "2026-11-10T18:00:00+00:00",
-    "source": {
-      "name": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-12-02",
     "headline": {
       "ja": "ロシア軍、ウクライナの変電所など電力網を攻撃 複数州で停電",
@@ -286,5 +264,92 @@
     },
     "reliability": "medium",
     "severity": 2
+  },
+  {
+    "id": "2026-11-14-01",
+    "headline": {
+      "ja": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダーを破壊と発表 米中央軍は否定、無人機2機撃墜と説明",
+      "en": "Iran's IRGC claims it destroyed US early-warning radar in Bahrain; US CENTCOM denies, says it downed two drones"
+    },
+    "summary": {
+      "ja": "2026年11月13日、イラン革命防衛隊(IRGC)航空宇宙部隊が、バーレーンにある米軍の早期警戒レーダー施設を破壊したと発表したという。IRGCはこれを、イラン南部ホルモズガーン州シリクの通信塔への攻撃に対する報復と説明したが、シリクへの攻撃の実行主体については明言していないという。これに対し米中央軍(CENTCOM)はX(旧Twitter)で、IRGCがバーレーンに向け「片道攻撃無人機」2機を発射したが、米軍がいずれも撃墜し、負傷者・損害はなかったと発表し、レーダー破壊の主張を否定したという。一部報道は、関係者3人がロイターに対しバーレーンの島から煙が上がる映像を確認したと伝えているとするが、被害の程度は確認されていない。背景として、2月28日に始まった米国・イスラエルによるイラン攻撃以降、カタール・パキスタンの仲介による外交努力が続く中での緊張の高い停戦状態があるという。推測:シリクへの攻撃の実行主体、実際の被害の有無・規模は、本稿執筆時点では確証が得られていない。[信頼性: 中](イラン側〔IRGC発表〕と米側〔CENTCOM発表〕の説明が相互に矛盾しており、独立した現地報道による確証は限定的。euronews、RFE/RL、Yahoo News〔Reuters〕、Iran Internationalなど複数媒体が2026年11月13日時点で各国政府の発表内容を報じている)",
+      "en": "On November 13, 2026, Iran's Islamic Revolutionary Guard Corps (IRGC) Aerospace Force reportedly announced it had destroyed a US early-warning radar installation in Bahrain. The IRGC reportedly framed the strike as retaliation for an attack on a telecommunications tower in Sirik, in Iran's southern Hormozgan province, though it did not say who it believed carried out the Sirik attack. In response, US Central Command (CENTCOM) reportedly said on X that the IRGC launched two one-way attack drones toward Bahrain, both shot down by US forces with no injuries or damage, denying the radar-destruction claim. Some reports say three sources told Reuters they had seen video of smoke rising from the island, though the extent of any damage remains unconfirmed. This comes against the backdrop of a tense lull following the US-Israeli strikes on Iran that began February 28, amid ongoing Qatari- and Pakistani-mediated diplomacy. Speculation: who carried out the Sirik attack, and whether and how much damage actually occurred, could not be confirmed as of this writing. [Reliability: Medium] (Iran's IRGC account and the US CENTCOM account directly contradict each other, and independent corroboration is limited; multiple outlets including Euronews, RFE/RL, Yahoo News (Reuters) and Iran International reported the competing claims as of November 13, 2026.)"
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.0667,
+    "lon": 50.5577,
+    "occurredAt": "2026-11-13T10:00:00+00:00",
+    "source": {
+      "name": "euronews",
+      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
+    },
+    "reliability": "medium",
+    "severity": 3
+  },
+  {
+    "id": "2026-11-14-02",
+    "headline": {
+      "ja": "サウジ、リヤド方面へのフーシ派ミサイル・無人機を迎撃 同日、国連安保理がイエメン制裁を1年延長",
+      "en": "Saudi Arabia intercepts Houthi missiles and drones aimed at Riyadh area; UN Security Council extends Yemen sanctions by one year"
+    },
+    "summary": {
+      "ja": "2026年11月12日(木)、サウジアラビア主導の連合軍が、リヤド地方および東部州方面に向けて発射されたイエメンのフーシ派によるものとみられる複数の弾道ミサイル・無人機を迎撃・破壊したと発表したという。フーシ派の軍事部門報道官ヤヒヤ・サリー氏は、一部で報じられた「メッカを狙った」との情報を否定し、同派の攻撃対象は石油関連施設・軍事基地に限られると述べたという。同日、国連安全保障理事会は、イエメンに対する制裁措置および専門家パネルの任期を1年延長する決議を全会一致で採択したという。背景として、先月にはフーシ派によるリヤド・キング・ハーリド国際空港への攻撃で13人が死亡・300人超が負傷したとされ、11月に入ってからも同様の迎撃が連日報じられている。推測:本時間帯に迎撃されたミサイル・無人機の具体的な発射地点・弾種は、本稿執筆時点では確認できていない。[信頼性: 高](Al Jazeera、Arab News、AA〔アナドル通信〕など複数メディアの報道、および国連安全保障理事会の決議採択という公的事実に基づく)",
+      "en": "On Thursday, November 12, 2026, the Saudi-led coalition reportedly said it intercepted and destroyed several ballistic missiles and drones, believed to have been launched by Yemen's Houthi movement, aimed at the Riyadh region and the Eastern Province. Houthi military spokesperson Yahya Saree reportedly denied claims that the group had targeted Mecca, saying its operations are limited to oil facilities and military bases. The same day, the UN Security Council reportedly unanimously adopted a resolution extending Yemen sanctions measures and the mandate of its Panel of Experts by one year. This follows a Houthi attack last month on Riyadh's King Khalid International Airport that reportedly killed 13 people and wounded more than 300, with similar interceptions reported daily so far in November. Speculation: the exact launch sites and munition types involved in this round of interceptions could not be confirmed as of this writing. [Reliability: High] (Based on multiple outlets including Al Jazeera, Arab News and Anadolu Agency (AA), and the public fact of the UN Security Council's resolution.)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "リヤド",
+    "lat": 24.9578,
+    "lon": 46.6988,
+    "occurredAt": "2026-11-12T20:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-14-03",
+    "headline": {
+      "ja": "米ハイテク株、半導体中心に急落 AMD一時10%超安、米10年債利回り5%に上昇(11月13日)",
+      "en": "US tech stocks slide sharply, led by chipmakers; AMD briefly drops over 10%, 10-year Treasury yield hits 5% (Nov 13)"
+    },
+    "summary": {
+      "ja": "2026年11月13日(金)の米株式市場で、取引時間中にハイテク株、特に半導体関連株の売りが加速したという。複数の報道によると、同日午後(現地時間)の時点でナスダック総合指数は前日比約1〜1.5%安、S&P500種は約0.5〜0.8%安で推移し、ダウ工業株30種平均はほぼ横ばいだったという。AMD株は一時9〜10%超安となり、エヌビディア株は11日のジェンセン・フアンCEO辞任発表後の下落が続き、2〜4%安の160ドル台前半で推移したという。HSBCはエヌビディア株の評価を「保有(Hold)」に引き下げ、目標株価も下げたとされる。米10年債利回りが5%に達したこと、同日発表の米卸売物価指数(PPI)が市場予想を上回ったことも、株安の要因として報じられている。推測:これらの数値は取引継続中の暫定値であり、確定した終値は本稿執筆時点では確認できていない(次回収集で確定値を確認予定)。[信頼性: 中](Yahoo Finance、The Motley Fool、Benzingaなど複数の金融メディアが2026年11月13日午後時点の暫定値として報じている)",
+      "en": "In US stock trading on Friday, November 13, 2026, selling reportedly accelerated in tech stocks, particularly chipmakers. Multiple reports say that as of Friday afternoon (local time), the Nasdaq Composite was down roughly 1-1.5% from the prior close, the S&P 500 down roughly 0.5-0.8%, and the Dow Jones Industrial Average roughly flat. AMD shares reportedly fell more than 9-10% at one point, while Nvidia shares continued their decline following CEO Jensen Huang's November 11 resignation announcement, trading down 2-4% in the low $160s. HSBC is reported to have downgraded Nvidia to 'Hold' and cut its price target. A rise in the 10-year Treasury yield to 5%, and a hotter-than-expected US producer price index (PPI) reading released the same day, were also cited as factors in the selloff. Speculation: these figures are intraday, provisional numbers, and the final closing figures could not be confirmed as of this writing (to be checked in the next collection cycle). [Reliability: Medium] (Multiple financial outlets including Yahoo Finance, The Motley Fool and Benzinga reported these as provisional figures as of Friday afternoon, November 13, 2026.)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-13T17:00:00+00:00",
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-14-04",
+    "headline": {
+      "ja": "ガザで大雨・土砂崩れ 避難民のテントを直撃し5人死亡、乳児1人も溺死(CARE報告)",
+      "en": "Heavy rain and landslide hit displaced people's tents in Gaza, killing 5; infant also drowned, CARE reports"
+    },
+    "summary": {
+      "ja": "国際NGO・CAREが2026年11月11日付で発表した報告によると、ガザ地区で大雨により避難民用のテント約7万基が浸水したという。デイル・アル・バラ西方のアル・バルカ貯水池付近では、砂地の丘が崩落して避難民のテント群を直撃し、子ども3人・女性2人の計5人が死亡、1人が負傷したとされる。別の避難先では、乳児1人が溺死したとも報告されている。推測:事故発生の正確な日時、死傷者の最終的な確定数は、本稿執筆時点では確認できていない。[信頼性: 中](国際NGO・CAREの状況報告に基づく。現地当局・複数の独立した主要メディアによる確証は本稿執筆時点では得られていない)",
+      "en": "According to a report published November 11, 2026 by the international NGO CARE, heavy rain reportedly flooded roughly 70,000 tents sheltering displaced people in the Gaza Strip. Near the Al Berka Reservoir west of Deir al-Balah, a sandy hillside is reported to have collapsed onto a cluster of tents, killing five displaced people - three children and two women - and injuring one more. At another displacement site, an infant is also reported to have drowned. Speculation: the exact timing of the incident and a final, confirmed casualty count could not be verified as of this writing. [Reliability: Medium] (Based on a situation report from the international NGO CARE; independent corroboration from local authorities or multiple major outlets could not be obtained as of this writing.)"
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "region": "ガザ地区(デイル・アル・バラ近郊)",
+    "lat": 31.4175,
+    "lon": 34.3503,
+    "occurredAt": "2026-11-11T00:00:00+00:00",
+    "source": {
+      "name": "CARE",
+      "url": "https://www.care.org/news-and-stories/gaza-floods-november-2026"
+    },
+    "reliability": "medium"
   }
 ]
