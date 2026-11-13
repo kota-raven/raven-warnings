@@ -23,6 +23,190 @@
     "eventKey": "us_japan_seabed_minerals_statement_2026-11"
   },
   {
+    "id": "auto-58027",
+    "headline": {
+      "ja": "イラン革命防衛隊がバーレーンの米国早期警戒レーダーを破壊したと発表",
+      "en": "IRGC destroyed US early-warning radar in Bahrain"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊は、バーレーン島にある米国軍の早期警戒レーダーを標的にして破壊したと発表した。",
+      "en": "Iran's Islamic Revolution Guards Corps announced that it destroyed a US military early-warning radar system located on Bahrain."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-13T05:28:10+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86320332/IRGC-destroyed-US-early-warning-radar-in-Bahrain"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_us_radar_bahrain_strike_2026-11-13"
+  },
+  {
+    "id": "auto-58023",
+    "headline": {
+      "ja": "ブルキナファソの対立武装勢力JNIM・ISILが激戦、国家支配喪失",
+      "en": "Burkina Faso's rival armed groups turn on each other as state loses ground"
+    },
+    "summary": {
+      "ja": "ブルキナファソでJNIMとISILの間の紛争が激化し、国家権力が統制を失う中、武装勢力同士の戦闘が拡大している。",
+      "en": "In Burkina Faso, rival militant groups JNIM and ISIL are intensifying conflict while the state struggles to maintain control over the country."
+    },
+    "category": "conflict",
+    "country": "ブルキナファソ",
+    "lat": 12.3657,
+    "lon": -1.5339,
+    "occurredAt": "2026-11-13T05:23:31+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "burkina_faso_jnim_isil_conflict_escalation_2026-11-13"
+  },
+  {
+    "id": "auto-58052",
+    "headline": {
+      "ja": "UN が6人死亡27人負傷のガザ・ナセル病院イスラエル空爆を非難",
+      "en": "UN condemns Israeli strike on Nasser Hospital that killed six, injured 27"
+    },
+    "summary": {
+      "ja": "国連は、ガザのナセル病院に対するイスラエル空爆を非難し、6人の死亡と27人の負傷を報告した。",
+      "en": "The UN condemned an Israeli strike on Gaza's Nasser Hospital that killed six people and injured 27."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-13T04:43:51+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2dVZFRCTUVkY1B6V0JzdTBEdk54RTgzX3BIMDRyUGhicnV3aVhiQkZxNi0xMWFQU2FXX3d2NEVQVHhhVHdYVUQ1Ynh1Vkx3eVNWdFFWS0g2X1NKVE5JTTU4Z2tSOENXTjRUdGNaazAxcGYtTWUyamp4Q2FKeEliN2FDa1ZwYTM2aGc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_nasser_hospital_un_condemn_deaths_2026-11-13"
+  },
+  {
+    "id": "auto-57921",
+    "headline": {
+      "ja": "米国特使がプーチンとゼレンスキーの間をシャトル外交でロシア・ウクライナ和平交渉仲介",
+      "en": "US envoys shuttle between Putin and Zelenskyy to broker Russia-Ukraine peace deal"
+    },
+    "summary": {
+      "ja": "米国の特使 Witkoff と Kushner は、ロシア・ウクライナ和平合意仲介のため、ダブリンとモスクワの間を往来している。",
+      "en": "US envoys Witkoff and Kushner are shuttling between Dublin and Moscow to mediate peace negotiations between Russia and Ukraine."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T04:12:01+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_russia_ukraine_peace_shuttle_diplomacy_2026-11-13"
+  },
+  {
+    "id": "auto-57926",
+    "headline": {
+      "ja": "国連当局がガザのナセル病院へのイスラエル空爆を非難",
+      "en": "UN officials deplore deadly Israeli strike on Gaza's Nasser Hospital"
+    },
+    "summary": {
+      "ja": "国連の当局者は、ガザのナセル病院に対するイスラエルの空爆を強く非難し、民間人への被害を問題視している。",
+      "en": "UN officials have condemned an Israeli airstrike on Gaza's Nasser Hospital, expressing concern over civilian casualties and infrastructure damage."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-13T04:03:21+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83alFTOE1RVHVxOGFrNzRyN1FnSHZzOVJKVXo3QUlKdlZpbXFsY1M2azhzWGlvbk8xSTRZbUMyN2gwOHBXdTRoTWttWU5iZEItQkluYnJRdDFkc3pJSDFUdFVyZGI0TE00NWdzSlZOMG9UNy1KVk94ck0ybTA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_nasser_hospital_un_condemns_2026-11-13"
+  },
+  {
+    "id": "auto-57978",
+    "headline": {
+      "ja": "ウクライナとロシアが過去最大規模の捕虜交換を計画",
+      "en": "Ukraine, Russia to hold largest-ever prisoner exchange: Zelenskyy"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領は、ウクライナとロシアが過去最大規模の捕虜交換を行う計画を発表した。",
+      "en": "President Zelenskyy announced that Ukraine and Russia will conduct their largest prisoner exchange ever."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T03:52:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlBGMmQ5WmI4dWFzdmxPT0FVcmU1eHd6blRtS2Y5aU52dllFS2xfU0NLWUxRaFBCbmpHV3VPSmQ0a0J3dFZsbTVRbFVMZWlubncyWHFsTnJJWEwyYmJTU2Q1S1hYVFd0NkYzTXRfZUtBRE9CZVZBV1duVVNCcU1hRU5IVGhjQlNkYlBlSFJuYjZrU0l3Qm5mRzNGbTM2eVExUVVpcVNfM3BQY1VOZjlDWg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_largest_prisoner_exchange_2026-11-13"
+  },
+  {
+    "id": "auto-57916",
+    "headline": {
+      "ja": "イランがバーレーンの米国レーダー施設を攻撃したと発表",
+      "en": "Iran says it targeted US radar site in Bahrain"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊は、米国がイラン南部ホルムズガン州の通信塔を攻撃したことへの報復として、バーレーンの米国レーダー施設を攻撃したと発表した。",
+      "en": "Iran's Revolutionary Guards claimed responsibility for striking a US radar facility in Bahrain in retaliation for alleged US attacks on Iranian telecommunications infrastructure."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-13T03:17:27+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_us_military_escalation_bahrain_2026-11-13"
+  },
+  {
+    "id": "auto-57917",
+    "headline": {
+      "ja": "ガザのナセル病院へのイスラエル空爆で多くの被害",
+      "en": "Gaza surgeon films aftermath of Israeli strike on Nasser Hospital"
+    },
+    "summary": {
+      "ja": "英国の医療ボランティア医師がガザのナセル病院へのイスラエル空爆の直後の様子を撮影した映像が報じられた。",
+      "en": "A British volunteer surgeon documented the aftermath of an Israeli airstrike on Gaza's Nasser Hospital, revealing significant destruction and casualties."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-13T03:11:43+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_nasser_hospital_israeli_strike_2026-11-13"
+  },
+  {
     "id": "auto-57832",
     "headline": {
       "ja": "日本の財務相、円安進行なら必要に応じ対応と警告",
@@ -92,6 +276,52 @@
     "auto": true,
     "eventKey": "cuba_us_regime_change_remarks_2026-11-13",
     "severity": 4
+  },
+  {
+    "id": "auto-57892",
+    "headline": {
+      "ja": "トランプ大統領が地域国要請を理由にイラン制裁強化を控える",
+      "en": "Trump administration refrains from tougher measures against Iran following requests from regional countries"
+    },
+    "summary": {
+      "ja": "トランプ大統領は、中東地域国の要請に応じて、イランに対するより厳しい経済制裁措置を見送ると表明した。",
+      "en": "The Trump administration has decided against implementing stricter measures against Iran at the request of regional countries."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-13T02:25:13+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE03ODJwT3VmZUhybXBIQkFkbkVpcklwVl9mQ09mYnlmWEZER3FFVE1YT2l1TXpuVUtZODI0djgyUllFMlla0gFKQVVfeXFMTk5iLTh1YWsxWjRhOFYzTXBmMDlFdVdiUU5MVWdfSWpTV1cwTnYtSC11N3MwQlRPbkg2ajhXRU5nRHpsWm9FS245SlE?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_iran_sanctions_regional_diplomacy_2026-11-13"
+  },
+  {
+    "id": "auto-57894",
+    "headline": {
+      "ja": "米中央軍がイスラエルへの対イラン戦争準備指示の報道を否定",
+      "en": "CENTCOM denies reports of instructions to Israel to prepare for war with Iran"
+    },
+    "summary": {
+      "ja": "米国中央軍司令部は、イスラエルに対イラン戦争準備を指示したとの報道を公式に否定した。",
+      "en": "CENTCOM officially denied reports that it had instructed Israel to prepare for a potential conflict with Iran."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-13T02:23:05+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ONzFhTVFCUDNtZXJ6aXF5QVhnZFlJdHlLbDh2cjZjcF8xX0pLWHZBRkJFVWZ6UzZSby10QmFnZzBiTVdo0gFKQVVfeXFMTTdIZjhFYW9JdmJ3UmVqMXIwMXdLcTNhSmZaT09ZZWd0N1piWndXZGluWll4R1djR1dMejFzd0RsaWIwbXItR3lBN2c?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_israel_iran_war_preparation_denial_2026-11-13"
   },
   {
     "id": "auto-57830",
@@ -534,6 +764,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "europe_dublin_security_summit_2026-11-12"
+  },
+  {
+    "id": "auto-57872",
+    "headline": {
+      "ja": "ウクライナ和平交渉でヨーロッパ指導者が一致した声を呼びかけ",
+      "en": "European leaders call for unified voice in Ukraine peace negotiations"
+    },
+    "summary": {
+      "ja": "ウクライナの和平交渉に向けて、ヨーロッパの主要指導者が統一した立場を示すよう求めている。",
+      "en": "European leaders are calling for a coordinated diplomatic approach to Ukraine peace negotiations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-12T20:04:44+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzczQWpSMVZZb2prV2FoblktTjRVZlZtdURadWpjZHNvTXhsYkZqeDhGWEhBSU1wT0dKZUgtYVlKSXFfWWhqVWxCRFBBa2FiQ0ZjY25IYTV5Y2ZUUXJDdzZ2cFo0X05xTEFHVkp4bS1oaEY0b2VEenlsVlhINE8tU3FOT245eXY0bWs4eTUtaUpKUGc1RDBZVmZZeGNxcHB5UnZOaVAyVmhlTlRTWnc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_peace_negotiations_2026-11-12"
   },
   {
     "id": "auto-57600",
@@ -1297,6 +1550,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "uganda_school_poisoning_oranges_2026-11-12"
+  },
+  {
+    "id": "auto-57873",
+    "headline": {
+      "ja": "イスラエル軍が西岸のパレスチナ町を攻撃",
+      "en": "Israeli occupiers attack Palestinian town in West Bank under army protection"
+    },
+    "summary": {
+      "ja": "イスラエル軍の保護下で、西岸のパレスチナ町に対する攻撃が行われた。",
+      "en": "Armed clashes occur in a Palestinian town in the West Bank with Israeli army involvement."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-11-12T07:16:02+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUpEQ2kzMEM2dUFsaWFqYVFvZHl0ckNGRnVlZXc4R0ZZakkwV0dQenRVcERhMTdjTFFuRkR6WW04clJzcklQVDE3dGYxSUo4ZW0waUpUc2hoaW13aGFKcVNlNUZvc0R5MUhQM29jMFJPemlGM3AxT0NiNkRsUjU3OWR4YjVTamxuenJwY196aE90clBWbjlsWjdxYXpOeUxlNnNZUVpZVnpzem9sak1VemRpdTdURTFGNlFUUE04WQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_westbank_palestine_attack_2026-11-12"
   },
   {
     "id": "auto-57710",
@@ -4083,190 +4359,5 @@
     "auto": true,
     "eventKey": "iran_us_qeshm_drone_shootdown",
     "severity": 4
-  },
-  {
-    "id": "auto-49225",
-    "headline": {
-      "ja": "イエメン市場での爆発、30人超が死傷",
-      "en": "30 killed, 8 wounded in Yemeni market attack"
-    },
-    "summary": {
-      "ja": "イエメンの市場で爆発が発生し、30人が殺害、8人が負傷した。責任所在については異なる主張がある。",
-      "en": "An explosion at a market in Yemen killed 30 people and wounded 8. Responsibility for the attack is disputed."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-06T18:11:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUzZES1Vya1lPXzFTMzZZWm55Mzg5M1V5dkxBUXFlX3NzR2ExSTBSRlFkUVZncHpHdGlFdVNVdjZoMklJUVBHYnFKMWw2X1FjeW80SXVtVEFOR01Qa2w4bzRvRUoyS2xyOXBiY1V4VTBqbnlOa1c0SXQ5R0o?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_market_attack_2026-11-06"
-  },
-  {
-    "id": "auto-50126",
-    "headline": {
-      "ja": "スペイン鉄道当局、ウルダ事故後の欧州詐欺調査に直面",
-      "en": "Spain's rail authorities face European fraud probe after Urda rail disaster"
-    },
-    "summary": {
-      "ja": "スペイン検察はウルダ列車衝突事故(69人死亡)に関連した鉄道網アップグレード用のEU資金について詐欺疑惑の調査を開始した。",
-      "en": "European prosecutors began investigating potential fraud involving EU funds designated for upgrading the Spanish railway line where a train crash killed 69 people."
-    },
-    "category": "disaster",
-    "country": "スペイン",
-    "lat": 40.4165,
-    "lon": -3.7026,
-    "occurredAt": "2026-11-06T17:44:02+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "spain_urda_disaster_fraud_2026"
-  },
-  {
-    "id": "auto-49458",
-    "headline": {
-      "ja": "イエメン軍がタイズでの領域奪回を主張、フーシ派のミサイル攻撃で多数の被害",
-      "en": "Yemeni army claims recapture of areas in Taiz as Houthi missile kills and wounds dozens"
-    },
-    "summary": {
-      "ja": "イエメン軍はタイズでの領土奪回を発表。同時にフーシ派のミサイル攻撃により多数の死傷者が出た。",
-      "en": "Yemeni army claims recapture in Taiz region while a Houthi missile attack causes numerous casualties."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 13.5795,
-    "lon": 44.0209,
-    "occurredAt": "2026-11-06T16:05:06+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmVzb2l3b05XRndfRnJmcmNpNUNZa3NnekdBdkRsTENsT0Z6SVVWLXRWcnRxSURXVmM5OXlkdWlPM004RzdzMFRyZmtPcmk5RU1CRm9LWjlyRmE4RW5IUmlTeUtIejRKUE1KbDFxM01UbzkyMmRDYjJYS3FfUHlmbXNUZ1BWMkl5S0xFN01TVTVRamZndzFRcFJVdGd3X2xvUl9ab0owNkdrc3hDWmxJMjAxOTFLMlJzdGE2R3lUbldYWGpCbWo4Qg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_taiz_military_campaign_2026_11_06",
-    "severity": 4
-  },
-  {
-    "id": "auto-49453",
-    "headline": {
-      "ja": "イラン、米MQ-1ドローンをカシュム島上空で撃墜したと主張",
-      "en": "Iran claims it shot down US MQ-1 drone over Qeshm Island"
-    },
-    "summary": {
-      "ja": "イラン政府は、米国の軍事ドローンMQ-1をペルシャ湾のカシュム島上空で撃墜したと発表した。",
-      "en": "Iran claims to have shot down a US military drone (MQ-1) over Qeshm Island in the Persian Gulf."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-06T15:25:09+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaW1pTnYyU08yZkRBZlVLU3FuRFdEZm9HMVh6NGxBRFVlajVDMG9vaE82XzdXRkN3U3FUNFRpOTFudzhsbC1JQThIX0ttVFk3M25XMjh4VDcxUE5TbGhBVDJoLXZZZU5nTjhFeU1rNHd1NjAySTk1Nmp4aHZWbFRsN1JGUHpqZWo0MWRYYzV1WU1lZE5KM0RUR19SLV9Cd1dIdWxN?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_us_mq1_drone_incident_2026_11_06"
-  },
-  {
-    "id": "auto-49115",
-    "headline": {
-      "ja": "ケニアの邪教指導者に200年の判決、190人の子どもが犠牲",
-      "en": "Kenyan court sentences cult leader Paul Mackenzie to 200 years"
-    },
-    "summary": {
-      "ja": "ケニアの裁判所は、邪教指導者ポール・マッケンジーと共犯者らに200年の判決を下した。190人の子どもと1人の成人の殺害で有罪となった。大規模な人命喪失を招いた事件として記録される。",
-      "en": "A Kenyan court has sentenced cult leader Paul Mackenzie and his accomplices to 200 years in prison after they were convicted of murdering 190 children and one adult."
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-11-06T12:50:24+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kenya_paul_mackenzie_cult_murder_sentence_2026"
-  },
-  {
-    "id": "auto-49123",
-    "headline": {
-      "ja": "ロシア・イラン、ロケット発射装置の取引で軍事関係深化",
-      "en": "Russia-Iran rocket launcher deal signals deepening military ties"
-    },
-    "summary": {
-      "ja": "ロシアとイランがロケット発射装置の取引を進めているとの報道があり、両国の軍事協力の深化を示唆している。イランのモフセン・レザイ最高安全保障官がプーチン大統領と防衛協力条約の策定について協議している。",
-      "en": "Reports indicate Russia and Iran are conducting a rocket launcher deal, reflecting deepening military cooperation. Top Iranian security official Mohsen Rezaei is discussing a developing defense cooperation treaty with Putin."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-06T11:28:38+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_iran_rocket_launcher_military_cooperation_2026"
-  },
-  {
-    "id": "auto-49596",
-    "headline": {
-      "ja": "イラン議員、米国の攻撃に対応してミサイルでヨーロッパも射程内に入ると主張",
-      "en": "Iranian lawmaker claims missiles could put Europe in range in response to any US attack"
-    },
-    "summary": {
-      "ja": "イランの議員は、米国の攻撃への報復としてヨーロッパまで射程に入るミサイルを保有していると主張した。",
-      "en": "An Iranian lawmaker claims Iran possesses missiles capable of reaching Europe in response to potential US attacks."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-06T10:56:14+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00LVdsc0JJcVl0bVVCVnpUQ18tOGlpUVVacjBMOWx6dnd1dXBweUdZNFRxb1pUb0xDS013azdISEs4bnRYal9xQ1JB0gFKQVVfeXFMTTQtV2xzQklxWXRtVUJWelRDXy04aWlRVVpyMEw5bHp2d3V1cHB5R1k0VHFvWlRvTENLTXdrN0hISzhudFhqX3FDUkE?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_missile_threat_europe_2026_11_06"
-  },
-  {
-    "id": "auto-49220",
-    "headline": {
-      "ja": "日本東部(東京周辺)で6.1の地震が発生",
-      "en": "6.1-magnitude earthquake strikes eastern Japan near Tokyo"
-    },
-    "summary": {
-      "ja": "気象庁によると、11月6日に東京周辺で6.1の地震が発生した。",
-      "en": "A 6.1-magnitude earthquake was recorded near Tokyo according to Japan Meteorological Agency."
-    },
-    "category": "disaster",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-06T10:47:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSc3RjQUdXVlNHMW42OHBOYnE5RWpqZG83cldMVHBMOHY0am5NSFNSZW4wR0ZZWDlCWTBSemNSYk1kV0x0WVJPRmhoX2RwN2xmbU5LUmhDSk1IV0RoY2w0M0l3QzMySFcwdjFHS1p3R2JnckRoU1RYb1BUWlo?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "japan_tokyo_earthquake_2026_11_06"
   }
 ]
