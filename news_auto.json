@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-59916",
+    "headline": {
+      "ja": "18カ国、ガザ病院空爆を非難",
+      "en": "18 Muslim-majority countries condemn Israeli strike on Gaza hospital"
+    },
+    "summary": {
+      "ja": "18のアラブ・イスラム諸国がガザのナッサー医療複合施設への空爆を強く非難した。患者と医療スタッフに被害が出た。",
+      "en": "18 Arab and Islamic nations strongly condemned the Israeli airstrike on Nasser Medical Complex in Gaza, which resulted in casualties among patients and medical staff."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-14T14:57:01+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86321649/18-Muslim-majority-countries-condemn-Israeli-attack-on-Gaza-s"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_nasser_hospital_airstrike_2026-11-14"
+  },
+  {
     "id": "auto-59750",
     "headline": {
       "ja": "トランプ、プーチン、習が来週中国で首脳会談を計画",
@@ -4288,237 +4311,5 @@
     "auto": true,
     "eventKey": "iran_southern_explosions_2026-11-07",
     "severity": 4
-  },
-  {
-    "id": "auto-51281",
-    "headline": {
-      "ja": "イラン南部で爆発報告",
-      "en": "Explosions reported in southern Iran"
-    },
-    "summary": {
-      "ja": "イランの南部地域(ケシュム、ジャスク)で爆発が聞かれたとの報告がある",
-      "en": "Explosions heard in southern Iran's Qeshm, Jask: Report"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T20:24:57+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0NaQnBJbWNldzYxY2JtNG1YNXM3R1N4azhvbzN4RTBJTnh4czQ3Rkd3WmNNbWdvVVlvdEdLYk1VSU9kSElrSFlaYXFndjk2NkZpYWJmN1RQZlE0bDgyRlZxdllMSjI1NTRBcGRlby03M0EwSklNMS1uRUotaC1SQ2V6TEVlMVI3X0xTbTdHUi1kTWN3d1N4MnJR?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_explosions_2026-11-07"
-  },
-  {
-    "id": "auto-50648",
-    "headline": {
-      "ja": "イラン「イエメン軍がサウジアラビア領内で6作戦実施」",
-      "en": "Iran: Yemeni armed forces conduct 6 operations deep inside Saudi Arabia"
-    },
-    "summary": {
-      "ja": "イラン通信によると、イエメン軍がサウジアラビア領内の戦略施設を狙ったミサイル・ドローン作戦を6件実施したと発表した。",
-      "en": "Iran's state news agency reports that Yemen's armed forces targeted strategic sites in Saudi Arabia with 6 missile and drone operations."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-07T19:45:07+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86315255/Yemeni-armed-forces-conduct-6-operations-deep-inside-Saudi-Arabia"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_saudi_operations_2026-11-07"
-  },
-  {
-    "id": "auto-50584",
-    "headline": {
-      "ja": "イスラエル大統領がエイゼンコトに政府組閣を指示",
-      "en": "Israel's President Herzog tasks Eisenkot with forming next government"
-    },
-    "summary": {
-      "ja": "イスラエル大統領は、元国防相のギャディ・エイゼンコトに次期政府の組閣を指示。イスラエルの政治危機における重大な転換局面。",
-      "en": "Israel's President Herzog has tasked former Defense Minister Gadi Eisenkot with forming the next government, marking a critical juncture in Israeli political crisis resolution."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-07T19:42:05+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWU1djVGdlZWNXpMaV9aWFFVZ2d1LWFmM0FNdUhvX0xzTExpUXAtc3NzTVlDMDFadVlpaGtpTTdybmhtYWRyeVdpX2xZU0Izcmc0RERmR0dKbkhVVGltd244TFlWbVZyemVXdHZZcWhpMTBnVHp3UTFDSFpjbUJpR0Jmb3RpVXJmcjVUX2VBMmVMN3NGM0xHZ0dlcmNkZnR1Q3g5VkY5N3kzcndfTkVpNGhNOFA1RG9xdXBHT3VNZWZVOGll?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_govt_eisenkot_formation_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-50638",
-    "headline": {
-      "ja": "イエメン・フーシ派、空爆で最低25人が殺害されたと報告",
-      "en": "Houthis report 25 killed in Yemen strikes"
-    },
-    "summary": {
-      "ja": "イエメンの反政府勢力フーシ派は、空爆により少なくとも25人が殺害され、30人が負傷したと報告した。",
-      "en": "Yemen's Houthis say at least 25 people have been killed and 30 injured in air strikes."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-07T17:39:23+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_houthi_airstrikes_2026-11-07"
-  },
-  {
-    "id": "auto-50132",
-    "headline": {
-      "ja": "イスラエル、レバノン南部に90km軍事道路網を建設",
-      "en": "Israel builds 90km network of military roads across southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエルがレバノン南部に90km規模の軍事道路ネットワークと軍事拠点を構築しており、地域の軍事化が進展している。",
-      "en": "Israel is constructing an extensive 90-kilometer military road network and military outposts across southern Lebanon."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-11-07T16:30:33+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_lebanon_military_roads_2026"
-  },
-  {
-    "id": "auto-50133",
-    "headline": {
-      "ja": "グアテマラの下院議員3人の警察官が武装攻撃で殺害",
-      "en": "Guatemalan lawmaker and three police officers killed in armed attack"
-    },
-    "summary": {
-      "ja": "グアテマラの下院議員1人と警察官3人が、麻薬密売活動で知られる地域での武装攻撃で殺害された。",
-      "en": "A Guatemalan lawmaker and three police officers were killed in an armed attack in a region known for drug trafficking."
-    },
-    "category": "conflict",
-    "country": "グアテマラ",
-    "lat": 14.5989,
-    "lon": -90.5485,
-    "occurredAt": "2026-11-07T16:15:18+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "guatemala_lawmaker_attack_2026"
-  },
-  {
-    "id": "auto-51043",
-    "headline": {
-      "ja": "米国・イラン関係が緊張激化、地域で抑制を求める声",
-      "en": "U.S.-Iran tensions intensify amid regional calls for restraint"
-    },
-    "summary": {
-      "ja": "米国とイランの間の緊張が激化し、地域内から両国に対する抑制を求める声が高まる。中東情勢の悪化。",
-      "en": "Tensions between the United States and Iran are escalating, prompting regional calls for restraint from both parties. The situation threatens to further destabilize the Middle East."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T15:54:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGJDUUp0UTd0RTkwZk5oSGtqRWhCR3lvUnFEaVZicWMtUGVzRlhfWDBaZUs2VDNrTWhUdV80QllYUU9jWEw3WlVyYzBZcXYtNllVVVlMdHUtQnFrSEZzVl92THNYaktPYVVGdG9kY2IzbVp3TjlpRVNVTVM5OEZPMHY3UDh4MFRyeTBhWDd3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "usa_iran_tensions_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-50136",
-    "headline": {
-      "ja": "イラン、地下兵器生産施設の建設を発表",
-      "en": "Iran IRGC announces construction of underground weapons production facilities"
-    },
-    "summary": {
-      "ja": "イランIRGCは爆撃の影響を受けても継続できるよう地下軍事複合施設を建設していると発表した。",
-      "en": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T15:34:58+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_underground_weapons_facility_2026-11-07"
-  },
-  {
-    "id": "auto-50138",
-    "headline": {
-      "ja": "ポーランド・クラクフで銃撃事件、少なくとも5人が殺害",
-      "en": "At least five people killed in shooting in Poland's Krakow"
-    },
-    "summary": {
-      "ja": "ポーランド第2の都市クラクフで銃撃事件が発生し、少なくとも5人が殺害された。ドナルド・トゥスク首相は警察が調査を実施していると述べた。",
-      "en": "At least five people were killed in a shooting incident in Krakow, Poland's second-largest city. Prime Minister Donald Tusk confirmed police are investigating the tragic event."
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 50.0614,
-    "lon": 19.9366,
-    "occurredAt": "2026-11-07T15:22:55+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_krakow_shooting_2026"
-  },
-  {
-    "id": "auto-50234",
-    "headline": {
-      "ja": "ポーランド・クラクフで銃撃事件、複数の死傷者",
-      "en": "Shooting in Poland's Krakow leaves people dead and injured"
-    },
-    "summary": {
-      "ja": "ポーランドのクラクフで銃撃事件が発生し、複数の死傷者が出た。",
-      "en": "A shooting incident in Krakow, Poland resulted in multiple casualties."
-    },
-    "category": "disaster",
-    "country": "ポーランド",
-    "lat": 50.0614,
-    "lon": 19.9366,
-    "occurredAt": "2026-11-07T15:12:45+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94NHFOMlVvbkhmQ0RSMDFFQVNDRmVTQkdiYm4tbl9QLXhDNW83SHlzWi04OVZ0R253Y29qTFZjZEpHOUF4eVlud2o4TlUyeXRxNXgzUlJmQWJjczBsWi1WZ0VMSnJ3djNsRmpxOGFDUFBIVDRPU1NBbE44dng?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_krakow_shooting"
   }
 ]
