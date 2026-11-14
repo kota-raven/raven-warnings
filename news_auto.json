@@ -23,6 +23,53 @@
     "eventKey": "iran_usmq1_drone_shootdown_hormozgan_2026-11-13"
   },
   {
+    "id": "auto-58756",
+    "headline": {
+      "ja": "国連、イスラエル攻撃によりガザの保健システムが崩壊危機に直面していると警告",
+      "en": "UN warns Israeli attacks have pushed Gaza's health system to brink of collapse"
+    },
+    "summary": {
+      "ja": "国連はイスラエルの攻撃により、ガザの保健システムが崩壊の危機に瀕していると警告を発出した。",
+      "en": "The UN warned that Israeli attacks have pushed Gaza's health system to the brink of collapse."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-13T15:43:37+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWRTTUJDSWcxZzRkUmFPZlg2UzB6Zkp4MGYzS3BPM3NPdlplWFA3cGdsRFppb0FYUHhVTk5KLW01ZTQ0SUd0Tmc1aXdWUnNaOHQyWkRQVXphcFZxdmEtVnhoWlhtejAxS21RMV9JLTRyMmZWVk15ZjFNNE5JV0FsbzdPOEROeEJTemNBN1RzN2NHelNONEIzY0xlV2doRWtRMUo4RjdDSlRCV2pyNUtMcTFuSFI2bThJM3c?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_health_system_crisis_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-58754",
+    "headline": {
+      "ja": "ドイツのMerz、具体的なウクライナ平和交渉が今後数週間中に予定されると表明",
+      "en": "Germany's Merz says first concrete Ukraine peace talks expected in coming weeks"
+    },
+    "summary": {
+      "ja": "ドイツの政治指導者Merzは、ウクライナに関する初の具体的な平和交渉が今後数週間中に予定されていると述べた。",
+      "en": "German political leader Merz stated that the first concrete peace talks on Ukraine are expected to begin in the coming weeks."
+    },
+    "category": "conflict",
+    "country": "ドイツ",
+    "lat": 52.5244,
+    "lon": 13.4105,
+    "occurredAt": "2026-11-13T15:40:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1dSUmtWRHJvc2RvOWJSelhUYmlRZU5FNnlfbmhkbl9YTnI3eHpsYzJmcVRzSU9oMmRsenhEZUVYLWlTdnpMT3VEdGMzQjhJRFNYcUlNRzBEYlRadjl0QVdXQmZTWlZHNHdNTERMSXYxM29jQ01XOS1MYnF6T19lOS1IdWQzOTJpUzJvUTJRVG5JOHNtN2hjeTJacmItNjJkUHRGeGhSSUhZSGw1Nzl5NjIyTV9OaHM?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_germany_peace_talks_2026-11"
+  },
+  {
     "id": "auto-58345",
     "headline": {
       "ja": "Telegramのrybarアカウントが、ウクライナによる大規模ドローン攻撃を報告",
@@ -44,6 +91,99 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_russia_drone_attack_massive_moscow_2026-11-13"
+  },
+  {
+    "id": "auto-58753",
+    "headline": {
+      "ja": "ガザで生後9ヶ月の乳幼児が寒冷で死亡 - 今冬初",
+      "en": "9-month-old baby dies from severe cold in Gaza, first cold-related death this winter"
+    },
+    "summary": {
+      "ja": "ガザ保健省によると、ガザで生後9ヶ月の乳幼児が厳しい寒冷により死亡し、今冬初の寒冷関連死となったと報じられた。",
+      "en": "Gaza's Health Ministry reported that a 9-month-old infant died from severe cold exposure in Gaza, marking the first cold-related death of the winter."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-13T12:05:05+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2U1bm82cERpZmdGazRZYjdXSloxWnY2dzcxUzdVYmJCYnl2SlZOQmdDLVI1N3J0NXhybmFqSnBPeUUzbENnYzVQOEZXYWJZb1pOMGtoeEh3a0dpMXl4bDJYaGFUYUhsc1NJRHNWRUljTDMxMXVBTk9iZ1ptZmZHLXNPRnRPeG9INGhIeFExOUd4SHFjRC1CNzQxOUJKMHpUT1BwbktMUldXeVBYaXBTVlgtZllhSE4tV1ZycC1qb3VyeE8yY2NDY1VnQnc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_cold_related_death_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-58774",
+    "headline": {
+      "ja": "ケニア首都近郊で建設中の8階建てビル倒壊、6人が死亡",
+      "en": "6 killed as 8-story under-construction building collapses near Kenya's capital"
+    },
+    "summary": {
+      "ja": "ケニアの首都近郊で建設中の8階建てビルが倒壊し、6人が死亡したと報じられた。",
+      "en": "An 8-story building under construction collapsed near Kenya's capital, killing 6 people."
+    },
+    "category": "disaster",
+    "country": "ケニア",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "occurredAt": "2026-11-13T11:48:06+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUm9YMERhTHM0UmJPaEN5ak91RTVxajF1eUtPZ0QtNmdQMHk1emxiWVA1bE1RN0hEcHlFQ2wwdFNyMmZVczdNMmxvazZ3R2xnanVTbUg4cHRaWS1YX1lmM3c2Y0pYMUhLM01LV0s1Z09fbkx2UHpHX3d6Z0RxbEprdEtqeDZuT0dVWEY1SVhUZmJLVktuUHFYODRwZ29aWjRIaEdwTUxtZklyYUVfblVSWWl6WQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "kenya_building_collapse_2026-11-13"
+  },
+  {
+    "id": "auto-58772",
+    "headline": {
+      "ja": "ウクライナ前首相の元補佐官、モスクワ南部での車爆弾により負傷",
+      "en": "Ex-aide to former Ukrainian premier injured in car blast in southern Moscow"
+    },
+    "summary": {
+      "ja": "アナドル通信によると、ウクライナの前首相の元補佐官がモスクワ南部で車爆弾に見舞われ、負傷したと報じられた。",
+      "en": "Turkish media reports that a former aide to a previous Ukrainian prime minister was injured in a car blast in southern Moscow."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-13T10:56:02+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEJGMUxZSGluUW9EXzRLQUlwN2gtQnBURkIwNUxJbHdxTXplRkF3Vk5Pelp2WmdFM1hmTE0zTzRibHBBbzlFMDd4V1Y3TVNXX2xpcnA1QTFpMktpSzNoSG5yZW9BVXQ3WjAwSTMtNzVWWTBIVnhBUFlTUG9pMDVpNmZiVlVkeVFwa1dnN0VBZ1FQT0lkWGdjVW8zZlFuQ0gwWElWOVhnN1IzbDkxN0M3eW9tSkRSbVdLZXltVE1B?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "moscow_car_blast_ukrainian_official_2026-11-13"
+  },
+  {
+    "id": "auto-58763",
+    "headline": {
+      "ja": "イスラエル、南部レバノンの5町に砲撃・ドローンがベイルート上空を低空飛行",
+      "en": "Israeli forces shell 5 southern Lebanon towns as drones fly low over Beirut"
+    },
+    "summary": {
+      "ja": "イスラエル軍が南部レバノンの5つの町に砲撃を加えるとともに、ドローンがベイルート上空を低空飛行しているとアナドル通信が報じた。",
+      "en": "Turkish media reports Israeli forces shelled five towns in southern Lebanon while drones flew low over Beirut."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-13T09:59:31+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWFMN1VuTG5VcGhhQzZ2R2xOaTBPN09fY2FCU2ZXQzlIOXRTZE5ySnRsWGpra0JJQmZWUnhjRExxUVF5TWY2d19hN3lDa0hLS1R4RlhIODlLdGJtczR4NFM4eFhNYTNBcjMtVGNPOEtnUE9IZlBZTVdmUWFnSURGa2RCQnhsSjQwQlRoZWhBUm5iMVJrdUg2cFd3bXFIS1hpQlJfcXdqMnZKU2U1ODg5SmNOWmgzdG1uZmJMMA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_military_action_2026-11-13"
   },
   {
     "id": "auto-58762",
@@ -69,6 +209,29 @@
     "eventKey": "lebanon_israel_airstrike_southern_2026-11-13"
   },
   {
+    "id": "auto-58733",
+    "headline": {
+      "ja": "Kushner特使、ロシア・ウクライナ平和交渉の次段階にヨーロッパ参加を明示",
+      "en": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe"
+    },
+    "summary": {
+      "ja": "アナドル通信によると、トランプ政権のKushner特使は、ロシア・ウクライナ平和交渉の次のラウンドにヨーロッパが参加すると述べた。",
+      "en": "Turkish media reports that Trump envoy Kushner stated Europe will participate in the next round of Russia-Ukraine peace talks."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T09:47:25+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1Vfc1JKWjlUZzFINjVjZDczYkJBUW1BajNLMC1TMTh5eUsyTmlYVTJzOUNqRS02Mk5mWTFPYVNYX1RVZUNDMVVVU2tsWFUxeXoyY0RWLWd4Q0dlUmZLajBTcVNsRlFYc05XRS1xb1RjbFlqWDh5Z283TlpCajJTNDY1SGZReE5KUE1lZ2lVTHN4cDZBTGNtd1NFdEgwWUppdHRiRTB4LWFUMm1vTGJEY0p4VHFLQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_peace_talks_2026-11"
+  },
+  {
     "id": "auto-57821",
     "headline": {
       "ja": "日米両政府、海底鉱物資源の開発で共同声明",
@@ -90,6 +253,76 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "us_japan_seabed_minerals_statement_2026-11"
+  },
+  {
+    "id": "auto-58732",
+    "headline": {
+      "ja": "ロシア政府、フィンランドのNATO離脱を要求 - Abu Dhabi協議で",
+      "en": "Russia demands Finland leave NATO in Abu Dhabi talks"
+    },
+    "summary": {
+      "ja": "アナドル通信によると、Abu Dhabi協議の場で、ロシア政府がフィンランドのNATO離脱を要求したと報じられた。",
+      "en": "Turkish state media reports that Russia demanded Finland's withdrawal from NATO during talks in Abu Dhabi."
+    },
+    "category": "conflict",
+    "country": "フィンランド",
+    "lat": 60.1695,
+    "lon": 24.9354,
+    "occurredAt": "2026-11-13T09:31:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEs4YWt0ZHd6VzBIRE5hd2ZUYWNzRzhaWEZfNWRjRjZCaWZmdktfS0sxSk5YTjhBUUJtTjRvOTl4Znl2UGQzX2dtN3VvanpVSElObzhHUWFzYXY5VjNoLXpNdFd3bDNtVnU3WWd2QnFuZDk3SlExV0tURi12d2hwdjBmQy03S1ozanZjUGpDbU1pVG9mNDQxMnlR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_finland_nato_withdrawal_2026-11"
+  },
+  {
+    "id": "auto-58748",
+    "headline": {
+      "ja": "米国、日本に米軍駐留経費を3倍の19億ドルに増額要求",
+      "en": "US demands Japan triple spending on American troops to $19B"
+    },
+    "summary": {
+      "ja": "トランプ政権が日本に対し、米国軍駐留経費を現在の約3倍となる年間19億ドルに増額するよう要求していると報じられた。",
+      "en": "Trump administration is reportedly demanding Japan triple defense spending on US military presence to $19 billion annually."
+    },
+    "category": "economy",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-11-13T09:26:39+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEF3Y0c4WHMxSzNKT3RxdFJSWVFmZW1helg4emlwZjNXQXc1dUVLT3BCNFhNQ3ZGcXdfN2RpYkx2dTNpclA3cFNndlBZU2xoUXNBZ0w0d0E1Y1JsQjBFTlgxemptbUxIN1FUMWtoMXBNOFlpMVd0SWpXcmNCUFpqN3NkaHFVWWNaRHRxUzlKQzg0VEhCMkk2TGlod3M1bkkwR2ZMT0o2bWRiYXp1SzBTUmJReE1TM3Q0cTJxNjVOVVpkeEli?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "usa_japan_defense_spending_2026-11"
+  },
+  {
+    "id": "auto-58736",
+    "headline": {
+      "ja": "ウクライナ・ロシア、夜間の激しい攻撃で10人以上が死亡",
+      "en": "More than 10 killed as Russia, Ukraine trade accusations following overnight strikes"
+    },
+    "summary": {
+      "ja": "アナドル通信によると、夜間のウクライナ・ロシア間の攻撃により10人以上が殺害されたと報じられた。双方が相手側の攻撃を非難している。",
+      "en": "Turkish media reports over 10 people were killed in overnight strikes between Ukraine and Russia, with both sides trading accusations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T08:34:40+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHRNMEZzekFmUE9ZTnJfQldIUFdaTktPNUpMZzE5TnV2TVl3XzhCRlZObHA5RkhrQWt4Wl9NUWVtM1UxcndzQUwzWDhlT1FLR0xTMUVUX2RzYjF2YThBdTI0ZVFPZFlrb05hdXFxcGVNYlhSTHZLNWtGVjBHbGJobVFwQnQ2QkRPcGJzWURQN1ZjczRNS3NfX1RrNGRmRGpUY0Qwc2dtRzNkZHZQSVMzem9hVktyRmNianp3X0YxZUlaS2lkZndQeHg0RmxSeEhyYmpoeFlkYTRwdkVpNkNkNjNKUmluZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_overnight_strikes_2026-11-13",
+    "severity": 4
   },
   {
     "id": "auto-58940",
@@ -1064,6 +1297,29 @@
     "auto": true,
     "eventKey": "gaza_nasser_hospital_strike_2026-11-12",
     "severity": 4
+  },
+  {
+    "id": "auto-57335",
+    "headline": {
+      "ja": "ガザ病院攻撃後、トランプ計画の即時実装を要求",
+      "en": "Peace group urges immediate implementation of Trump's Gaza plan after Israeli hospital attack"
+    },
+    "summary": {
+      "ja": "アナドル通信によると、ガザでのイスラエル病院攻撃に関連し、トランプ政権のガザ計画の即座の実装を平和団体が呼びかけた。",
+      "en": "Turkish state media reports that a peace group is calling for immediate implementation of Trump's Gaza plan following an Israeli hospital strike in Gaza."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-12T17:14:07+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzJzSHl4Y0dLaFE2eUdmVEplcWJVLW1jZGMtYkFTaGVOVjhDd1VlNEZXd2dHTXpFclF0MlU4eUI2LS1nQnJIcmFEX2hZVnpsUDlTcU1FQzJLYWo2aS14ZElJSHJnWms2S1dyODlBMkR1V3FYclN0UDkyNlFKMjNnTUFRVmdCUk1QUkFIa3ZFS0ZKTVNOT0ZBUDdRSWMxRDlRZFU2OUtjX2JvYVRuZ2lYQzc0aXI0SjJEdS1zMGlXd3dVY3hTRmgtSmUzeUN2cGNpcXRr?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "palestine_gaza_hospital_strike_2026-11-13"
   },
   {
     "id": "auto-57694",
@@ -4379,100 +4635,6 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iran_missile_range_restriction_lifted_2026-11-07",
-    "severity": 4
-  },
-  {
-    "id": "auto-50196",
-    "headline": {
-      "ja": "イラン軍、対米イスラエル新型兵器導入を示唆",
-      "en": "IRGC spokesperson hints at new weapons if US-Israel attacks resume"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊は、新たな米イスラエル軍事行動が起きた場合、世界を驚かせる新型兵器の導入を明かすと発表した。",
-      "en": "IRGC spokesperson stated Iran would unveil new weapons if military confrontation with US and Israel resumes."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T09:54:39+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86314803/New-surprises-to-be-unveiled-on-battlefield-if-attacks-on-Iran"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_irgc_new_weapons_threat"
-  },
-  {
-    "id": "auto-50119",
-    "headline": {
-      "ja": "パラグアイ大統領が銀行危機で弾劾・軟禁状態に",
-      "en": "Paraguay's president impeached and under house arrest after bank collapse"
-    },
-    "summary": {
-      "ja": "サンティアゴ・ペーニャ大統領がパラグアイの銀行危機に責任を問われ、弾劾により軟禁状態に置かれた。多くの国民が資金にアクセスできない状況が発生している。",
-      "en": "President Santiago Peña was impeached and placed under house arrest due to a banking crisis that left millions unable to access their funds."
-    },
-    "category": "conflict",
-    "country": "パラグアイ",
-    "lat": -25.2865,
-    "lon": -57.647,
-    "occurredAt": "2026-11-07T07:20:00+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "paraguay_bank_crisis_impeachment_2026"
-  },
-  {
-    "id": "auto-50202",
-    "headline": {
-      "ja": "イラン、ホルムズ海峡閉鎖を維持",
-      "en": "Iran maintains control over Strait of Hormuz closure"
-    },
-    "summary": {
-      "ja": "イラン軍報道官は、ホルムズ海峡をイランが支配下に置き、米国が条件を受け入れるまで閉鎖を続けると発表した。",
-      "en": "Iran's Army spokesperson declared Iran controls the Strait of Hormuz and will keep it closed until the US accepts Tehran's conditions."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T06:37:23+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86314322/Strait-of-Hormuz-will-stay-closed-until-US-accepts-its-terms"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_hormuz_strait_closure",
-    "severity": 4
-  },
-  {
-    "id": "auto-50229",
-    "headline": {
-      "ja": "イラン、米国無人機2機をカシュム島上空で撃墜",
-      "en": "Iran shoots down 2 U.S. drones over Qeshm Island"
-    },
-    "summary": {
-      "ja": "イラン当局は、カシュム島上空でアメリカの無人機2機を撃墜したと発表した。トランプ前大統領は米国の報復は『小規模』だと述べている。",
-      "en": "Iran reported shooting down 2 U.S. drones over Qeshm Island amid ongoing military tensions, while Trump characterized any U.S. response as 'minor'."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T03:19:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUb0xHUTA1dEJRUVBMa1dXUEhLd3hmU29PS0JZYllaOVBKbUFZbGJBa3pKdEhaeVlCYXVlMEJaTE9iRzFLa2w5ajBVeEdQbjFaS0RsQ19iUHcwOGV2Q2FnRVh0cXRPM242YUViYXpQdlhxOVRvdHZDVzA4VGw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_qeshm_drone_shootdown",
     "severity": 4
   }
 ]
