@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-11-06",
-    "headline": {
-      "ja": "米露ウクライナ3者協議、2日目終了 核心的対立は未解決、大規模捕虜交換に合意",
-      "en": "Day two of US-Russia-Ukraine Abu Dhabi talks ends with no breakthrough, large prisoner swap agreed"
-    },
-    "summary": {
-      "ja": "2026年11月11日、アブダビで行われていた米国・ロシア・ウクライナの3者協議の2日目が終了したという。領土問題など核心的な対立点では進展がなかったとされるが、大規模な捕虜交換について合意し、具体的な人数は翌日までに確定させるとクシュナー氏が述べたという。ゼレンスキー大統領(会場には同席せず)は協議を「建設的」と評価しつつ、ロシアとの合意の難しさも認めたという。クシュナー氏・ウィトコフ特使はこの後モスクワに移動してプーチン大統領と協議し、続いてゼレンスキー大統領とも会談する予定だという。推測:捕虜交換の最終的な人数・実施日時、モスクワ訪問の具体的な結果は本稿執筆時点では確認できていない。[信頼性: 高](CNN、Yahoo News、2Newsなど複数の独立したメディアが2026年11月11日時点で同様の内容を報じている)",
-      "en": "On November 11, 2026, the second day of trilateral US-Russia-Ukraine talks in Abu Dhabi reportedly concluded. No progress was reported on core disputes such as territory, but the parties are said to have agreed on a large-scale prisoner exchange, with Jared Kushner saying the exact numbers would be finalized by the next day. President Zelensky, who was not present in the room, reportedly called the talks \"constructive\" while acknowledging the difficulty of reaching agreement with Russia. Kushner and envoy Steve Witkoff are reported to be heading next to Moscow to meet President Putin, followed by a meeting with Zelensky. Speculation: the final prisoner-exchange numbers/timing and the outcome of the Moscow visit could not be confirmed as of this writing. [Reliability: High] (Corroborated as of November 11, 2026 by multiple independent outlets including CNN, Yahoo News and 2News)"
-    },
-    "category": "conflict",
-    "country": "UAE",
-    "region": "アブダビ",
-    "lat": 23.4241,
-    "lon": 53.8478,
-    "occurredAt": "2026-11-11T12:00:00+00:00",
-    "source": {
-      "name": "CNN",
-      "url": "https://edition.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-13-02",
     "headline": {
       "ja": "エヌビディア、ジェンセン・フアンCEOが辞任 CFOコレット・クレス氏が暫定CEOに",
