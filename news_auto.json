@@ -23,6 +23,53 @@
     "eventKey": "gaza_nasser_hospital_airstrike_2026-11-14"
   },
   {
+    "id": "auto-59391",
+    "headline": {
+      "ja": "ゼレンスキー大統領、米国がウクライナ領土割譲とNATO加盟交換を提案と発表",
+      "en": "Zelensky says U.S. proposed ceding Ukrainian territory in exchange for joining NATO"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、米国がウクライナ領土の一部割譲と引き換えにNATO加盟を認める提案をしたと述べた。",
+      "en": "President Zelensky stated that the U.S. proposed ceding Ukrainian territory in exchange for NATO membership."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-14T09:38:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFRsd3RBZndSV1cxY0k1M0Z4NDRUazJ1bVhZQm9wYjdfUnFSQWcwTDN4VzJOU2FJRXczZ0tOOFlqTGdRZDRGSXpzM2g2bEVtcTRKNXZtTkpRZVAtSWRBTWFXbGluRU1OY1lEa3ZrS3NlajZGcFVRRTFGb09nSU40VlhQWXJ1dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_us_territorial_proposal_2026-11-14",
+    "severity": 4
+  },
+  {
+    "id": "auto-59371",
+    "headline": {
+      "ja": "ロシア・中国、イランへの戦争脅威に懸念を表明し外交的解決を強調",
+      "en": "Russia and China urge immediate end to war against Iran, stress negotiated solution"
+    },
+    "summary": {
+      "ja": "ロシアと中国の国連大使が、米国とイスラエルのイランに対する再度の敵対行為の脅威に懸念を表明し、政治的・外交的手段による平和構築の必要性を強調した。",
+      "en": "Russian and Chinese ambassadors to the UN expressed concern over US and Israeli threats of renewed hostilities against Iran, stressing the need for political and diplomatic solutions."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-14T07:25:50+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86321045/Russia-and-China-urge-immediate-end-to-war-against-Iran-stress"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_china_iran_un_2026-11-14"
+  },
+  {
     "id": "auto-59750",
     "headline": {
       "ja": "トランプ、プーチン、習が来週中国で首脳会談を計画",
@@ -47,6 +94,75 @@
     "severity": 4
   },
   {
+    "id": "auto-59380",
+    "headline": {
+      "ja": "エジプト・トルコ・カタール情報機関トップがガザ情勢で協議",
+      "en": "Egyptian, Turkish, Qatari intelligence chiefs meet on situation in Gaza"
+    },
+    "summary": {
+      "ja": "エジプト、トルコ、カタールの情報機関トップがガザの情勢について会談した。",
+      "en": "Intelligence chiefs from Egypt, Turkey, and Qatar met to discuss the situation in Gaza."
+    },
+    "category": "conflict",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-11-14T05:52:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mb25ZQkFxWkJWTGZKRVN4SEhzYzVqcXFZN0szbG9tU2tQcUJDajVicW5xWDZWUElSRlJfVDg4ZWROMVdrekQtU1hDOWVPNi0zb2tkclBJc1VfY0F5OTg5RXYxczR1UTFUalcwREZYS2l1VVVDdVgyOTl6cHQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_multiparty_intelligence_meeting_2026-11-14"
+  },
+  {
+    "id": "auto-59377",
+    "headline": {
+      "ja": "イラン、外交的解決ならアメリカは侵攻と封鎖を終結すべきと主張",
+      "en": "US expected to end aggression, blockade if committed to diplomacy: Iran"
+    },
+    "summary": {
+      "ja": "イラン国連大使は、米国が外交的解決に本当にコミットしているなら、イランへの侵攻と海上封鎖を無条件で終結すべきだと述べた。",
+      "en": "Iran's UN ambassador stated that the US must unconditionally end aggression and maritime blockade against Iran if committed to diplomatic solution."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-14T05:29:16+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86320910/US-expected-to-end-aggression-blockade-if-committed-to-diplomacy"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_un_diplomacy_demand_2026-11-14"
+  },
+  {
+    "id": "auto-59344",
+    "headline": {
+      "ja": "国連、ガザの冬嵐被害はイスラエルの政策が悪化させたと指摘",
+      "en": "UN says Israeli policies worsened deadly impact of Gaza winter storm"
+    },
+    "summary": {
+      "ja": "国連はイスラエルが十分な人道支援を許可していれば、ガザの冬嵐による被害と破壊を防ぐことができたと述べた。",
+      "en": "The UN states that Israel could have prevented death and destruction from the winter storm in Gaza had it allowed sufficient aid."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-14T04:12:15+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_winter_storm_humanitarian_2026-11-14"
+  },
+  {
     "id": "auto-58374",
     "headline": {
       "ja": "イラン政府は、米国のMQ-1ドローンを撃墜したと発表",
@@ -68,6 +184,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iran_usmq1_drone_shootdown_hormozgan_2026-11-13"
+  },
+  {
+    "id": "auto-58440",
+    "headline": {
+      "ja": "EU機関がウクライナ和平交渉にヨーロッパ代表として参加へ",
+      "en": "EU institutions, E5 to represent Europe in Ukraine peace talks"
+    },
+    "summary": {
+      "ja": "EU機関およびE5が、ウクライナとの平和交渉においてヨーロッパを代表して参加することになった。",
+      "en": "EU institutions and E5 countries are to represent Europe in Ukraine peace talks."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T17:54:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbU1LVm9KSG16MGIwYW9zSUZjYWJYNmsxeW1sY0hQd1dwZW5DdWU3RW1KUkNXSzBuNEhObXZwLUYzTjIwdkpJWlV2YnMxeVVDd2pOSjBxVXJlbmZibmViOVMxckYxTEFyQncxZFpMUFZhVFA2TkZGbDVFckN0ZjRlUEd4ODc5Zw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_eu_peace_talks_2026-11-14"
   },
   {
     "id": "auto-58756",
@@ -4287,29 +4426,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "poland_krakow_extremism_2026-11-08"
-  },
-  {
-    "id": "auto-50656",
-    "headline": {
-      "ja": "イラン南部地域で爆発音を確認",
-      "en": "Explosions confirmed in Iran's southern counties"
-    },
-    "summary": {
-      "ja": "イラン国営テレビがイラン南部の複数の県での爆発を確認。被害規模や原因については詳細未明。",
-      "en": "Iran's state television has confirmed explosions in several southern counties. Details regarding casualties and causes remain unclear."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T21:29:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WT2xFSjM4TXBQT2FUYnZqWXItRERMano4eW0zc3FZSEphUHczUTU5cVdMMnJ0ZU94R1VXYjNaUkl5alB0eUlYVDVfcVFMOU1pZzlJbzNJX2FTTWE0UlpwQUtHX3ZYZ2hHWVBBcF9TZGtlWWJmYnMybzdoR0M?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_southern_explosions_2026-11-07",
-    "severity": 4
   }
 ]
