@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-59750",
+    "headline": {
+      "ja": "トランプ、プーチン、習が来週中国で首脳会談を計画",
+      "en": "Trump, Putin and Xi plan historic joint meeting in China next week"
+    },
+    "summary": {
+      "ja": "ホワイトハウスは、トランプ大統領、プーチン大統領、習近平主席が来週中国で歴史的な3者会談を開催予定と発表。核兵器削減について協議するという。",
+      "en": "The White House announced plans for unprecedented talks between Trump, Putin, and Xi in China next week to discuss nuclear weapons reduction."
+    },
+    "category": "conflict",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-11-14T05:52:31+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "trump_putin_xi_summit_2026-11-15",
+    "severity": 4
+  },
+  {
     "id": "auto-58374",
     "headline": {
       "ja": "イラン政府は、米国のMQ-1ドローンを撃墜したと発表",
@@ -4496,145 +4520,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "poland_krakow_shooting"
-  },
-  {
-    "id": "auto-50532",
-    "headline": {
-      "ja": "ゼレンスキー大統領、ロシアが北朝鮮ミサイル使用と主張",
-      "en": "Zelenskyy claims Russian forces used North Korean missiles in strikes on Kyiv"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領は、ロシア軍が北朝鮮製のミサイルを使用してキーウに夜間攻撃を実施したと主張した。",
-      "en": "Ukrainian President Zelenskyy claims Russian forces used North Korean missiles in overnight strikes targeting Kyiv."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-07T15:08:35+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUi1lQW1OYkFLeUdtMEZjeklmaGhETTltRGNEcW1JejhicnRTUWpJTFRuUjljRXo1X0RsbzBaTXdSdkpZNFhIM3J1Z0l3ZlRjY0xXdUpmOWlSdFN6bWdSRFJVNjZDTkh5ZTNjU1NQTEFQR21veFN0R3NXbFR3WFllczRLT3VDaEVoSG1mZ0tTblh1a3U4b0ZTbHdETlozVlloQmlpd0hadUVvQVR5ZXQ4clE5bFp1SkQ1VWNSTFF3YmRQVXFfT2Z3NmVEU1J5Zw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_north_korea_missiles_kyiv_strike_2026-11-07",
-    "severity": 4
-  },
-  {
-    "id": "auto-51157",
-    "headline": {
-      "ja": "サウジアラビア・リヤド空港が攻撃被害",
-      "en": "King Khalid International Airport and Saudia Aircraft Attacked"
-    },
-    "summary": {
-      "ja": "サウジアラビア政府は、キング・ハーリド国際空港の施設とサウジア航空機が2件の攻撃の標的になったと発表した",
-      "en": "Saudi Arabian government announced two attacks targeting King Khalid International Airport facilities and a Saudia Aircraft"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-07T14:19:41+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aSWduaDhLZlAydXQybHFaQ2RlQXQzUVVFV1VBaGNJcFBvWUhybkhvQ1cxN2ZSWW1nS0t4bm1kTmU4amdIUE1BN29B?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_airport_attack_2026-11-07"
-  },
-  {
-    "id": "auto-51150",
-    "headline": {
-      "ja": "サウジ連合、フーシ支配地域の136軍事目標を破壊と発表",
-      "en": "Coalition: 136 Military Targets Destroyed in Houthi-Controlled Areas"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合は、イエメンのテロ組織フーシ民兵支配地域の136の軍事目標を破壊したと発表。",
-      "en": "The Saudi-led coalition announced the destruction of 136 military targets in areas controlled by the Houthi terrorist militia in Yemen."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-07T14:15:58+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vQUlia2o5ak9yNzNiSndyV0hieFRlbHRLbmI5UUprOHVBTVVSNTZFXzBjbTBlZXYzZ01sUWd1Wkdhd0tPeUl0NFBn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_coalition_airstrikes_houthis_2026-11"
-  },
-  {
-    "id": "auto-50983",
-    "headline": {
-      "ja": "ガザの障害児兄弟、初めて車いすで日常生活へ",
-      "en": "Gaza siblings with disabilities gain independence through wheelchair support"
-    },
-    "summary": {
-      "ja": "ガザで両足を持たない3人兄弟姉妹が、国連の支援で初めて自分専用の車いすを得て、食事や読み書きといった日常生活の自立を実現。",
-      "en": "Three Gaza siblings born without legs have gained unprecedented independence through UN-provided wheelchair mobility aids, enabling them to perform daily activities independently."
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-07T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168759"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_disabilities_un_support_2026-11"
-  },
-  {
-    "id": "auto-50277",
-    "headline": {
-      "ja": "イラン、地下ミサイル・ドローン生産施設を確立と発表",
-      "en": "Iran IRGC establishes underground missile and drone production facilities"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)は新たに地下でのミサイルおよびドローン生産施設を確立したと発表した。",
-      "en": "Iran IRGC announces establishment of underground missile and drone production facilities."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T11:19:16+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0WW1XSFJ1eG1QTkpoTWI0RHRaWGd3R2Jnbk5pNmdsRnNaSE5GTGp5OEd1U0QtanpubmJjQTZJSXo2Ty0zcUZxMUNVaHdWaTh2bEhqWmNSMjl3MENSR3dUOW05c1ZVZk5MVkhwcGZjWFlYSE9tQ0Z4TDFpbFc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_underground_missile_drone_facility_2026-11-07"
-  },
-  {
-    "id": "auto-49996",
-    "headline": {
-      "ja": "イラン政府、ミサイル射程の制限を解除すると発表",
-      "en": "Iran IRGC announces lifting restrictions on missile range"
-    },
-    "summary": {
-      "ja": "イラン政府はミサイル射程に対する制限を解除すると発表した。これは地域的な軍事バランスに大きな影響を与える可能性がある。",
-      "en": "Iranian IRGC announces removal of restrictions on missile range, signaling potential shift in regional military dynamics."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-07T11:14:40+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GN29MQk5Ra1RCZk94Zy1kWU9lUDNydnphZElsWENpZGJ5R2VnaFJGdTZUZENtTXVrbV9YUlM2RzdtVE5mRDZHdHBn0gFKQVVfeXFMTUY3b0xCTlFrVEJmT3hnLWRZT2VQM3J2emFkSWxYQ2lkYnlHZWdoUkZ1NlRkQ21NdWttX1hSUzZHN21UTmZENkd0cGc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_missile_range_restriction_lifted_2026-11-07",
-    "severity": 4
   }
 ]
