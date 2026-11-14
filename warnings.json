@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T03:04:18.817Z",
+  "generatedAt": "2026-11-14T10:12:18.784Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 209,
+  "count": 210,
   "warnings": [
     {
       "id": "NAVAREA11-260511",
@@ -4928,6 +4928,92 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262188",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "2188",
+      "title": "瀬戸内海、明石海峡航路−東播磨港、起重機船えい航",
+      "publishedAt": "2026-11-14T17:00:00+09:00",
+      "geometry": {
+        "type": "line",
+        "coordinates": [
+          [
+            135.08333333333334,
+            34.583333333333336
+          ],
+          [
+            134.81666666666666,
+            34.7
+          ]
+        ]
+      },
+      "rawText": "番号:26-2188    発表日時:2026年11月14日 17時\r\n\n\r\n瀬戸内海、友ケ島水道-東播磨港、\r\r\n曳船(第18神海丸、MMSI 431301418)による\r\r\n起重機船(長さ95メートル)えい航、\r\r\n明石海峡航路東口(34-35N 135-05E)\r\r\n11月14日2120通過、東播磨港(34-42N\r\r\n134-49E)14日2330到着予定、\r\r\n速力約4ノット、長さ250メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262188&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262187",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2187",
+      "title": "酒田港西、射撃",
+      "publishedAt": "2026-11-14T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          139.41666666666666,
+          38.93333333333333
+        ]
+      },
+      "rawText": "番号:26-2187    発表日時:2026年11月14日 13時\r\n\n\r\n酒田港西、\r\r\n射撃、11月19日(予備20日)0830-2400、\r\r\n38-56N 139-25Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262187&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262186",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2186",
+      "title": "潮岬西南西、射撃",
+      "publishedAt": "2026-11-14T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2186    発表日時:2026年11月14日 13時\r\n\n\r\n潮岬西南西、\r\r\n射撃、11月19日1500-2400、\r\r\n33-19.2N 135-19.1Eを中心とする半径5海里の\r\r\n円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262186&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262185",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2185",
+      "title": "済州島東（Ｄ−１１８）、射撃",
+      "publishedAt": "2026-11-14T13:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            127.66666666666667,
+            34
+          ],
+          [
+            128.5,
+            34
+          ],
+          [
+            127.83333333333333,
+            33.166666666666664
+          ],
+          [
+            127.66666666666667,
+            33.166666666666664
+          ]
+        ]
+      },
+      "rawText": "番号:26-2185    発表日時:2026年11月14日 13時\r\n\n\r\n朝鮮半島南岸、済州島東、\r\r\n射撃、11月19日-22日毎日1400-2000、\r\r\n34-00N 127-40E 34-00N 128-30E\r\r\n33-10N 127-50E 33-10N 127-40E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262185&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262184",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4938,30 +5024,6 @@
       "geometry": null,
       "rawText": "番号:26-2184    発表日時:2026年11月14日 01時\r\n\n\r\n石垣島南東、\r\r\nC/S ILE D’AIXによる海底線修理作業終了。\r\r\n(1953削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262184&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262183",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2183",
-      "title": "石垣島北、射撃終了",
-      "publishedAt": "2026-11-13T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2183    発表日時:2026年11月13日 21時\r\n\n\r\n石垣島北、\r\r\n射撃終了。\r\r\n(2139削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262183&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262182",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "制限禁止",
-      "number": "2182",
-      "title": "松山港、投錨禁止区域設定解除",
-      "publishedAt": "2026-11-13T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2182    発表日時:2026年11月13日 17時\r\n\n\r\n松山港、第2区\r\r\n投錨禁止解除。\r\r\n(2175削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262182&LANG=JP"
     },
     {
       "id": "NAVTEX-262181",
@@ -5120,18 +5182,6 @@
       },
       "rawText": "番号:26-2177    発表日時:2026年11月13日 13時\r\n\n\r\n経ケ岬北、\r\r\n射撃、11月18日-20日毎日0800-1800、\r\r\n36-05-11N 135-09-50Eを中心とする\r\r\n半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262177&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262176",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "その他",
-      "number": "2176",
-      "title": "東シナ海、北太平洋西部及び南太平洋、ロケット打上げに伴う危険区域設定解除",
-      "publishedAt": "2026-11-13T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2176    発表日時:2026年11月13日 13時\r\n\n\r\n東シナ海、北太平洋西部及び南太平洋、\r\r\nロケット打上げに伴う危険区域設定解除。\r\r\n(2155削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262176&LANG=JP"
     },
     {
       "id": "NAVTEX-262171",
