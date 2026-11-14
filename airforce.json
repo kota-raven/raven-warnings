@@ -1,5 +1,31 @@
 [
   {
+    "id": "2027-12-31-gb-000183",
+    "recordType": "aggregate",
+    "country": "GB",
+    "unitName": "Talon IQ",
+    "unitNumber": null,
+    "aircraftType": "drone",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "英国海軍がノースロップ・グラマン製タロン IQ自動テストベッドをクイーン・エリザベス級空母での試験を2027年に実施予定。F-35ライトニング II との協同作戦試験が目的",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/12/royal-navy-to-trial-northrop-grumman-test-aircraft-on-carrier-in-2027"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": "2027-01-01T00:00:00Z",
+    "periodEnd": "2027-12-31T23:59:59Z"
+  },
+  {
     "id": "2026-11-29-jp-000120",
     "recordType": "aggregate",
     "country": "JP",

@@ -150,6 +150,54 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-13-ru-000179",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "宗谷海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍のキロ改級潜水艦1隻が宗谷海峡を西進。海上自衛隊「うみたか」等が警戒監視中",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37500/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-ru-000180",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "Nikolai Vilkov",
+    "shipNumber": null,
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "宗谷海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍の戦車揚陸艦「ニコライ・ヴィルコフ」が宗谷海峡を西進。海上自衛隊が警戒監視中",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37500/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
     "id": "2026-11-13-us-000177",
     "recordType": "individual",
     "country": "US",
@@ -649,8 +697,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-05T00:00:00+00:00"
   },
   {
@@ -745,6 +793,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-04T00:00:00Z"
+  },
+  {
+    "id": "2026-11-04-ph-000182",
+    "recordType": "individual",
+    "country": "PH",
+    "shipName": "T38 Devil Ray USV",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "Subic Bay",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国がマリタイム・タクティカル・システムズT38デビルレイ無人水上艦2隻をスービック湾でフィリピン海兵隊に引き渡した",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-04T00:00:00Z"
@@ -1277,8 +1349,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-30T00:00:00Z"
   },
   {
@@ -1301,8 +1373,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-30T21:21:34.479751+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-30T00:00:00Z"
   },
   {
@@ -1325,8 +1397,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-02T04:43:11+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-30T00:00:00Z"
   },
   {
@@ -1349,8 +1421,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-30T00:00:00Z"
   },
   {
@@ -3868,6 +3940,32 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "-us-000181",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": "SSN(X)",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "米海軍がSSN(X)攻撃原潜の設計分析を完了。次世代ヴァージニア級原潜の後継型として、高速化とドローン母艦機能を実装予定",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": null,
+    "periodEnd": null
   },
   {
     "id": "-us-000088",
