@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-58374",
+    "headline": {
+      "ja": "イラン政府は、米国のMQ-1ドローンを撃墜したと発表",
+      "en": "Iranian Army shoots down US MQ-1 drone off southern coast"
+    },
+    "summary": {
+      "ja": "イラン軍は、同国南部ホルモズガン州沿岸のクウェスタク地域付近で、先進的な防空システムで米国のMQ-1ドローンを撃墜したと発表した。",
+      "en": "Iranian military reported shooting down a US MQ-1 drone using an advanced air defense system off the southern coast in Hormozgan Province."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 27.0969,
+    "lon": 56.1191,
+    "occurredAt": "2026-11-13T19:30:25+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86320807/Iranian-Army-shoots-down-US-MQ-1-drone-off-southern-coast"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_usmq1_drone_shootdown_hormozgan_2026-11-13"
+  },
+  {
+    "id": "auto-58345",
+    "headline": {
+      "ja": "Telegramのrybarアカウントが、ウクライナによる大規模ドローン攻撃を報告",
+      "en": "Telegram report: Ukraine conducted massive drone attack on Russian regions"
+    },
+    "summary": {
+      "ja": "Telegramの軍事情報チャネル「rybar」で、ウクライナが1198機のドローンによる大規模攻撃を実施し、モスクワ地域を含む18州が対象になったという報告があった。",
+      "en": "Social media report claims Ukraine launched large-scale drone attack involving 1198 unmanned vehicles against Russian territory including Moscow region."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T14:29:24+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84656"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_attack_massive_moscow_2026-11-13"
+  },
+  {
+    "id": "auto-58762",
+    "headline": {
+      "ja": "イスラエル、南レバノンの町に空爆・砲撃を実施",
+      "en": "Israeli airstrikes and shelling hit towns across southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍が南レバノンの複数の町に対して空爆と砲撃を実施した。",
+      "en": "Israeli forces conducted airstrikes and shelling against towns in southern Lebanon."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-13T09:59:31+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmxuT3AzNWdZNllOV21JQU9pUFcyZ05oSUdxMnNLamFUdFVoOVBEMHN1dTROMTZBeDVCN29SbkNHeTloMWZ3aTFPWk00bmpPVHlXNGhpQVhLSXZiOFBHajBBYm5XeV9FdG5xM1JOclV1cnBmRkZaRExKX3JMT2JjcFlOTmZnUnRtUVl0RDY4NDVKNlp3dUZrTEVrWVpzWW1ScG1LZXg4OW9LbTNUeDVLZg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "lebanon_israel_airstrike_southern_2026-11-13"
+  },
+  {
     "id": "auto-57821",
     "headline": {
       "ja": "日米両政府、海底鉱物資源の開発で共同声明",
@@ -21,6 +90,52 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "us_japan_seabed_minerals_statement_2026-11"
+  },
+  {
+    "id": "auto-58940",
+    "headline": {
+      "ja": "ロシア政府は、ボルゴグラードへのドローン攻撃で4人死亡と発表",
+      "en": "Four people dead, two injured in drone attack on Russia's Volgograd"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ボルゴグラード州へのドローン攻撃で4人が死亡、2人が負傷したと発表した。",
+      "en": "Russian authorities report four people killed and two injured in drone attack on Volgograd."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 48.7138,
+    "lon": 44.4976,
+    "occurredAt": "2026-11-13T07:51:25+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XZ0J2UXhybzZJTFhlck1jMFEtZ1JPSUFvMFM2RXg1Wk5lc1Z2c0pBTHNPNExTQ1FNbXROdnZJb2FCUEdpOUpNQtIBTkFVX3lxTE1hYmJnWmVZZklBY0I3UHBWa0pRU1RxSGdjdmxmUVUwdDYzQ2FXV0wzV1dieXNZT1EwU0VweGo5VnZXd0xfOFZqMnFNUG5hZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_attack_volgograd_2026-11-13"
+  },
+  {
+    "id": "auto-58246",
+    "headline": {
+      "ja": "ロシア政府は、ウクライナの大規模ドローン攻撃を記録したと発表",
+      "en": "Russia records one of Ukraine's largest overnight drone attacks of year"
+    },
+    "summary": {
+      "ja": "ロシア国防省は、ウクライナが夜間に記録的規模のドローン攻撃を実施したと発表した。",
+      "en": "Russian Ministry of Defense claims Ukraine conducted one of the year's largest overnight drone attacks."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-13T07:04:54+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NM0xqOS1zeGtzNktFWFJLbnl1VDkzUUJKU242VUh6MGZtcmZ2Q1ZyYzlSWnAtYXJYcHI0Mng5R2tBT1dGYWpsbtIBTkFVX3lxTFBNV2Y0OE9lUy1HQzVxTXZWc19YeXRmdFY4MGpJd25OTGNDYWRvNU9pcVIyeUowUDNURkZ3Umk2OTdET0JONGJYZ3U0dzBOQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_attack_massive_2026-11-13"
   },
   {
     "id": "auto-58027",
