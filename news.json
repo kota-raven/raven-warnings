@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-12-02",
-    "headline": {
-      "ja": "ロシア軍、ウクライナの変電所など電力網を攻撃 複数州で停電",
-      "en": "Russian strikes hit Ukraine's power grid, causing blackouts across multiple regions"
-    },
-    "summary": {
-      "ja": "2026年11月10日から11日の夜間にかけて、ロシア軍がウクライナの主要変電所など電力網を攻撃し、ヴィーンヌィツャ州・キロヴォフラード州・ジトームィル州・フメルニツィキー州・リヴネ州など複数州で停電が発生したという。リヴネ州では160超の集落で夜間に停電したとされる。一部報道では、首都キーウで最大1日20時間に及ぶ計画停電が実施されているとも伝えられているが、この数値は単独の報道にとどまり他の報道での裏付けは取れていない。これは2夜連続の大規模な電力インフラへの攻撃とされ、冬季を前にウクライナの電力網への圧力が増しているという。推測:被害の全容・復旧の見通しは本稿執筆時点では確認できていない。[信頼性: 中](Kyiv Independent、Kyiv Post、Interfax-Ukraine、112.uaなど複数の独立したメディアが2026年11月10日〜11日時点で同様の内容を報じている。クラウド環境のネットワーク制限により一次報道サイトへの直接アクセス〔WebFetch〕はできず、WebSearchの要旨に基づく)",
-      "en": "Overnight between November 10 and 11, 2026, Russian forces reportedly struck major electrical substations and other grid infrastructure in Ukraine, causing power outages across multiple regions including Vinnytsia, Kirovohrad, Zhytomyr, Khmelnytskyi and Rivne oblasts. More than 160 settlements in Rivne oblast reportedly lost power overnight. Some reports additionally describe rolling blackouts leaving homes in Kyiv without power for up to 20 hours a day, though that figure comes from a single outlet and could not be corroborated elsewhere. The strikes are reported to mark a second consecutive night of large-scale attacks on power infrastructure, adding pressure on Ukraine's grid ahead of winter. Speculation: the full extent of damage and the repair outlook could not be confirmed as of this writing. [Reliability: Medium] (Corroborated as of November 10-11, 2026 by multiple independent outlets including Kyiv Independent, Kyiv Post, Interfax-Ukraine and 112.ua; direct access to primary reporting sites via WebFetch was not possible due to network restrictions in this cloud environment, so this is based on WebSearch summaries)"
-    },
-    "category": "conflict",
-    "country": "Ukraine",
-    "region": "",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-11-11T02:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-strikes-6-major-power-substations-causing-outages-across-ukraine/"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-11-02",
     "headline": {
       "ja": "米露ウクライナ3者協議2日目再開、停戦合意は依然遠い",
@@ -327,28 +305,6 @@
     "source": {
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-14-04",
-    "headline": {
-      "ja": "ガザで大雨・土砂崩れ 避難民のテントを直撃し5人死亡、乳児1人も溺死(CARE報告)",
-      "en": "Heavy rain and landslide hit displaced people's tents in Gaza, killing 5; infant also drowned, CARE reports"
-    },
-    "summary": {
-      "ja": "国際NGO・CAREが2026年11月11日付で発表した報告によると、ガザ地区で大雨により避難民用のテント約7万基が浸水したという。デイル・アル・バラ西方のアル・バルカ貯水池付近では、砂地の丘が崩落して避難民のテント群を直撃し、子ども3人・女性2人の計5人が死亡、1人が負傷したとされる。別の避難先では、乳児1人が溺死したとも報告されている。推測:事故発生の正確な日時、死傷者の最終的な確定数は、本稿執筆時点では確認できていない。[信頼性: 中](国際NGO・CAREの状況報告に基づく。現地当局・複数の独立した主要メディアによる確証は本稿執筆時点では得られていない)",
-      "en": "According to a report published November 11, 2026 by the international NGO CARE, heavy rain reportedly flooded roughly 70,000 tents sheltering displaced people in the Gaza Strip. Near the Al Berka Reservoir west of Deir al-Balah, a sandy hillside is reported to have collapsed onto a cluster of tents, killing five displaced people - three children and two women - and injuring one more. At another displacement site, an infant is also reported to have drowned. Speculation: the exact timing of the incident and a final, confirmed casualty count could not be verified as of this writing. [Reliability: Medium] (Based on a situation report from the international NGO CARE; independent corroboration from local authorities or multiple major outlets could not be obtained as of this writing.)"
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "region": "ガザ地区(デイル・アル・バラ近郊)",
-    "lat": 31.4175,
-    "lon": 34.3503,
-    "occurredAt": "2026-11-11T00:00:00+00:00",
-    "source": {
-      "name": "CARE",
-      "url": "https://www.care.org/news-and-stories/gaza-floods-november-2026"
     },
     "reliability": "medium"
   }
