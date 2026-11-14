@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-11-02",
-    "headline": {
-      "ja": "米露ウクライナ3者協議2日目再開、停戦合意は依然遠い",
-      "en": "Second day of US-Russia-Ukraine Abu Dhabi talks resumes; ceasefire still far off"
-    },
-    "summary": {
-      "ja": "2026年11月11日、アブダビで行われている米国・ロシア・ウクライナの3者協議の2日目が再開したという。Euronewsによれば、協議は「建設的」と評価されているものの、停戦合意にはなお程遠いとされる。ウクライナ系メディア(ua.news)の事前報道によれば、2日目は停戦・エネルギー問題・黒海における安全保障が主要議題になる見通しだったという。領土問題は依然最大の対立点で、ロシア側はドンバス全域の割譲を交渉の前提としているとされ、公式の立場の隔たりは縮まっていないという。推測:本稿執筆時点(日本時間11日17時台)では2日目協議の具体的な結果はまだ確認できていない。[信頼性: 中](Euronews〔2026年11月11日〕の見出し・要旨を確認。クラウド環境のネットワーク制限により記事本文の直接確認はできず、ua.newsの事前報道と合わせて判断)",
-      "en": "On November 11, 2026, the second day of trilateral US-Russia-Ukraine talks in Abu Dhabi reportedly resumed. According to Euronews, the talks are being described as \"constructive,\" but a ceasefire deal remains far away. Ukrainian outlet ua.news had previewed that the second day's agenda would center on a possible ceasefire, energy issues, and Black Sea security. Territory is reported to remain the biggest sticking point, with Russia said to treat full control of the Donbas as a precondition, leaving the sides' public positions unchanged. Speculation: as of this writing, no concrete outcome from the second day could yet be confirmed. [Reliability: Medium] (Based on the Euronews Nov 11, 2026 headline/summary; full article text could not be directly verified due to network restrictions in this cloud environment, cross-checked against ua.news' preview)"
-    },
-    "category": "conflict",
-    "country": "UAE",
-    "region": "アブダビ",
-    "lat": 23.4241,
-    "lon": 53.8478,
-    "occurredAt": "2026-11-11T05:00:00+00:00",
-    "source": {
-      "name": "Euronews",
-      "url": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-11-06",
     "headline": {
       "ja": "米露ウクライナ3者協議、2日目終了 核心的対立は未解決、大規模捕虜交換に合意",
@@ -305,6 +283,49 @@
     "source": {
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-14-05",
+    "headline": {
+      "ja": "IAEA、イランのエスファハーン地下濃縮関連施設への懸念を強める 濃縮ウラン440kg超の行方依然不明",
+      "en": "IAEA raises alarm over Iran's underground Isfahan enrichment-related facility; whereabouts of over 440 kg of enriched uranium still unknown"
+    },
+    "summary": {
+      "ja": "国際原子力機関(IAEA)の非公開報告(2026年11月13日時点の報道)によれば、イランが2025年に申告したエスファハーン州の地下濃縮関連施設への査察官の立ち入りが依然認められておらず、IAEAは同施設への懸念を強めているという。2025年6月の米・イスラエルによる攻撃前の推定で約440kgとされる60%濃縮ウラン在庫について、現在の量・組成・所在地を検証できていないとされる。グロッシ事務局長は、以前申告された高濃縮ウラン在庫に関する「継続性の知識」を失って1年以上になると述べたという。IAEA理事会は11月18〜20日にウィーンで開催予定で、イランの保障措置履行が議題に含まれるとされる。推測:同施設で実際に濃縮が行われているか否かは、この報道時点では確定していない。[信頼性: 高](Al Jazeera、The National、Al-Monitorなど複数の独立メディアが2026年11月13日時点で同一のIAEA報告内容を報じている)",
+      "en": "According to a confidential IAEA report described in media coverage as of November 13, 2026, inspectors still have not been granted access to an underground uranium-enrichment-related facility at Isfahan that Iran declared in 2025, and the agency is reported to be increasingly concerned about it. The IAEA is said to be unable to verify the current quantity, composition, or location of Iran's roughly 440 kg stockpile of 60%-enriched uranium, last estimated before the US-Israeli strikes of June 2025. Director General Rafael Grossi reportedly said it has been more than a year since the agency lost \"continuity of knowledge\" regarding previously declared highly enriched uranium inventories. The IAEA Board of Governors is reported to meet in Vienna November 18-20, with implementation of Iran's safeguards agreement on the agenda. Speculation: whether enrichment is actually taking place at the facility is not established by the report as described. [Reliability: High] (Corroborated as of November 13, 2026 by multiple independent outlets including Al Jazeera, The National and Al-Monitor reporting on the same IAEA report)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "エスファハーン州",
+    "lat": 32.6546,
+    "lon": 51.668,
+    "occurredAt": "2026-11-13T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-14-06",
+    "headline": {
+      "ja": "米株式、ハイテク株中心に続落で週を終える エヌビディア52週安値・時価総額4兆ドル割れ、AMDは8%超安(11月13日)",
+      "en": "US stocks end week lower led by tech selloff; Nvidia hits 52-week low, market cap falls below $4 trillion, AMD drops over 8% (Nov 13)"
+    },
+    "summary": {
+      "ja": "2026年11月13日(金)の米国株式市場は、取引終了時点でハイテク株中心に続落して週を終えたという。AMD株は約8.75%安の534.06ドルでS&P500構成銘柄中最大の下落率となり、ブロードコムも約4.8%安だったという。エヌビディア株はさらに下落して52週安値を更新し、時価総額が4兆ドルを割り込んだと報じられている(下落率は報道により2%前後〜3%前後とばらつきがある)。一方、ナスダック総合指数は同日0.91%安だったものの、週間では8月以来最良の週間パフォーマンスになったとも報じられている。推測:エヌビディア株の正確な終値・下落率は報道間で一致していない。[信頼性: 中](Yahoo Finance/AP系(Manila Times等)、TechFlow Post、StockTitanなど複数の金融メディアが2026年11月13日終値として報じているが、数値の細部は媒体間で差がある)",
+      "en": "US stock markets reportedly closed lower on Friday, November 13, 2026, ending the week with a tech-led selloff. AMD shares are reported to have fallen about 8.75% to $534.06, the worst performer in the S&P 500, while Broadcom fell about 4.8%. Nvidia shares reportedly fell further, hitting a 52-week low and pushing the company's market capitalization below $4 trillion (reported declines for Nvidia range from roughly 2% to roughly 3% depending on the outlet). The Nasdaq Composite is reported to have fallen 0.91% on the day, even as it logged its best weekly performance since August. Speculation: the exact closing figures and decline for Nvidia are not consistent across reports. [Reliability: Medium] (Reported as of the November 13, 2026 close by multiple financial outlets including Yahoo Finance/AP-affiliated sites such as Manila Times, TechFlow Post, and StockTitan, though exact figures vary between outlets)"
+    },
+    "category": "economy",
+    "country": "United States",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-13T21:00:00+00:00",
+    "source": {
+      "name": "Yahoo Finance / Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/14/business/foreign-business/wall-street-stocks-mostly-lower-as-nvidia-extends-slump/2469971"
     },
     "reliability": "medium"
   }
