@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-60063",
+    "headline": {
+      "ja": "スーダンで発電所へのドローン攻撃、複数都市が停電",
+      "en": "Drone attacks target Sudan's power stations, causing widespread blackouts"
+    },
+    "summary": {
+      "ja": "スーダンの複数の発電所がドローン攻撃の対象となり、都市部の停電が相次いでいる。",
+      "en": "Sudan's power stations are being targeted in waves of drone attacks, causing widespread power outages in cities."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-15T09:59:37+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_power_infrastructure_attack_2026-11-15"
+  },
+  {
+    "id": "auto-60015",
+    "headline": {
+      "ja": "ミャンマー軍がラカイン州の避難民キャンプ爆撃、12人死亡",
+      "en": "Myanmar military airstrike kills 12 at displacement camp in Rakhine state"
+    },
+    "summary": {
+      "ja": "ミャンマー軍がラカイン州の避難民キャンプを空爆し、12人が殺害された。",
+      "en": "Myanmar military conducted an airstrike on a displacement camp in Rakhine state, killing 12 people."
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 19.745,
+    "lon": 96.1297,
+    "occurredAt": "2026-11-14T16:13:43+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "myanmar_rakhine_airstrike_2026-11-14"
+  },
+  {
     "id": "auto-59916",
     "headline": {
       "ja": "18カ国、ガザ病院空爆を非難",
@@ -3707,259 +3753,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "egypt_train_derailment_footage_2026-11-08"
-  },
-  {
-    "id": "auto-51338",
-    "headline": {
-      "ja": "エジプトで列車事故、複数の死傷者",
-      "en": "Train accident in Egypt kills driver, injures at least 64"
-    },
-    "summary": {
-      "ja": "エジプトで列車事故が発生し、運転手が死亡し、少なくとも64人が負傷した",
-      "en": "Train accident in Egypt kills driver, injures at least 64: local media"
-    },
-    "category": "disaster",
-    "country": "エジプト",
-    "lat": 30.0626,
-    "lon": 31.2497,
-    "occurredAt": "2026-11-08T13:16:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Wekk4WjRUQ1lENUJTNzRNOHpYczR2YktGLU0zbVc4THlnbzJjVTR1STBGQ205S3Jra2l0S3M4bmgyVjhEdTVtZ3JpTVd4WmJoZndZRkpsZVhlXzR2R0dmclhrc0d4T1ZPUGhuUmtJbms3UUhRZGRiRC01cHk?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "egypt_train_accident_2026-11-08"
-  },
-  {
-    "id": "auto-51364",
-    "headline": {
-      "ja": "日本中部で震度5.7の地震、20人以上が負傷",
-      "en": "5.7-magnitude earthquake hits central Japan, injuring more than 20"
-    },
-    "summary": {
-      "ja": "日本中部でマグニチュード5.7の地震が発生し、20人以上が負傷した。",
-      "en": "A 5.7-magnitude earthquake struck central Japan, injuring more than 20 people."
-    },
-    "category": "disaster",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-08T13:11:41+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "japan_earthquake_central_2026-11-08"
-  },
-  {
-    "id": "auto-51340",
-    "headline": {
-      "ja": "エジプトで列車脱線、50人以上が負傷",
-      "en": "Train derailment in Egypt injures at least 50"
-    },
-    "summary": {
-      "ja": "エジプトで列車が脱線し、少なくとも50人が負傷した",
-      "en": "At least 50 people injured in train derailment in Egypt: media"
-    },
-    "category": "disaster",
-    "country": "エジプト",
-    "lat": 30.0626,
-    "lon": 31.2497,
-    "occurredAt": "2026-11-08T12:45:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkE3SERkWHZyWjg1SEp5Y1VKaE9IWkFXM2xObTRtQXRkVTZDT3NVamRxRFZWR09zaEtQM3ZFLUZDRDYyNjNQT295NmlyOFBfT1ZJWGZSeEt0MDRlZk5pdFdVWGVjU0hzM3NmbmF2UWNnRkN3X0dWajBDS3ZWNFJDQUo0a0dKQQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "egypt_train_derailment_2026-11-08"
-  },
-  {
-    "id": "auto-51056",
-    "headline": {
-      "ja": "エジプト・ギザで列車脱線",
-      "en": "Train derails in Egypt's Giza governorate"
-    },
-    "summary": {
-      "ja": "エジプト・ギザ県で列車が脱線。詳細な被害状況は未明。",
-      "en": "A train derailed in Egypt's Giza governorate. Details of casualties and damage are still unclear."
-    },
-    "category": "disaster",
-    "country": "エジプト",
-    "lat": 30.0094,
-    "lon": 31.2086,
-    "occurredAt": "2026-11-08T12:33:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzZxT3BkdFNldTZDY0lacWs3OE5vV05iZ0lJVTJDNUVmMmhTRHpzNno5dXZDZW05M0F6YjNYbjdZUlBQR0txUWx3S3BSWkFHLThUalhNWXBHd0JmRG5NLXpaQnVubDdMWmV0ZG5DUUxESEZuaDE0WVJheTdqRk9SbFRyeU83QQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "egypt_giza_train_derail_2026-11"
-  },
-  {
-    "id": "auto-51232",
-    "headline": {
-      "ja": "サウジ主導有志連合、リヤド周辺でドローン1機とミサイル4発を迎撃と発表",
-      "en": "Saudi-led coalition says it intercepted drone and 4 missiles over Riyadh"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の有志連合は、リヤドと南部地域上空でドローン1機とミサイル4発を迎撃したと発表した。",
-      "en": "Saudi-led coalition reports interception of one drone and four missiles over Riyadh and southern regions."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-08T11:36:45+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVNEcUZPZ1RTYzdtTGczc3JKQWVtbXZCWkJCcXRTR3BVOGZ5Y0tmU04yZjkyeXRWLTVUNGFuTkIzNE0tR1ZXTG9La0VUZmpYLUtyelg0SUlMZjlHTGRRNmdHVlFzX1NlcWdKZVFnSjN2bVBuQzRlR1J2OEJkckY1LTA0SjM5SjM1aUx1aHBXQy0yb09jbzFOSUxObVhpSm9JNUI5Vm42V0xUQnhQTTZWdHBFbVQxLVlydlRySFprMTY1dw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_coalition_intercept_2026-11-08"
-  },
-  {
-    "id": "auto-51254",
-    "headline": {
-      "ja": "ウクライナ・ドニプロ地域が大規模停電",
-      "en": "Russian strikes leave over 600,000 without power in Ukraine"
-    },
-    "summary": {
-      "ja": "ウクライナ大統領ゼレンスキーは、ロシアの攻撃でドニプロ地域の60万人以上が停電状態にあると発表した",
-      "en": "Zelenskyy says Russian strikes leave over 600,000 people without power in Ukraine's Dnipro region"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 48.4666,
-    "lon": 35.0407,
-    "occurredAt": "2026-11-08T11:34:49+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTV2QTR4Z3dSS1Y5UUNreklDTGNnZmZPNEZMbHlqTXFmc1A2ZlBrMTNvMUpRMU13ZWdJQjRncHMwMjlwU0QtVlZIWHY0RGpCamQyOGdpT2lYWDllMVVDX2w2TnJlVDBQWGpRQWYtLWxKMVNCUEUzdlktbkh5Ml9MUVEteFZMSFNCSFZYa3c0Y185c0doWmVtN2Fhc1pWQnFSMWdlOGg3TDF2c3liTDItQ2V2Tm8tNW1ySHdRejFNWmotMTF4blhadGtFcUhvYW9xQjNR?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_dnipro_power_outage_2026-11-08"
-  },
-  {
-    "id": "auto-50985",
-    "headline": {
-      "ja": "ホルムズ海峡で3隻のタンカーが機雷で火災",
-      "en": "Three oil tankers catch fire after hitting naval mines in Strait of Hormuz"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊海軍は、ホルムズ海峡で許可されていない航路を通過しようとした3隻のタンカーが機雷に接触して火災を起こしたと発表。地域の海上安全に重大な影響。",
-      "en": "Iran's IRGC Navy announced that three tankers caught fire after hitting mines in the Strait of Hormuz while attempting unauthorized routes, posing significant risks to regional maritime security."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-08T11:31:42+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86315927/Three-offending-oil-tankers-catch-fire-after-hitting-naval-mines"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "strait_hormuz_tanker_mines_2026-11-08",
-    "severity": 4
-  },
-  {
-    "id": "auto-51246",
-    "headline": {
-      "ja": "サウジアラビア・アラムコ施設が攻撃被害",
-      "en": "Saudi Aramco building suffers minor damage in attempted attack"
-    },
-    "summary": {
-      "ja": "サウジアラビア政府は、リヤドのアラムコ建物が試みられた攻撃を受けて軽微な損害があったと発表した",
-      "en": "Saudi Arabia says Aramco building suffers minor damage after attempted attack in Riyadh"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-08T10:51:31+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXJtOWhiN0NWMldyUUZBcXRRX20zQnBIbG1ad1dEamtUQ0V6LTBLUXdVeHdjaEk5R0R1QVZvMzY3QkNKWVJ1b1c1VDU2RUpVckJ5ZGVQNFp0YWNYS3VzVFBHWlNhcnpBQUg2Mk9IdGo5Q1o1NzhDTTVEYVpCTElTRU5wdW53Tkg0QXlRUFJTS2QzNjNBMGhWZFEwTXBJTTIxR29tbXE0WjdUUHAyWXd3TkhtUkl6cDR4TjBLY2hCdXZvdkZObzZhSm5vMA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_aramco_attack_2026-11-08"
-  },
-  {
-    "id": "auto-50986",
-    "headline": {
-      "ja": "ハマス、イスラエルのガザ危機悪化を非難",
-      "en": "Hamas accuses Israeli regime of deepening Gaza humanitarian crisis"
-    },
-    "summary": {
-      "ja": "パレスチナ・イスラム抵抗運動(ハマス)は、イスラエル政権がガザ地区の人道的カタストロフを意図的に悪化させていると非難。Peace Board がその責任を負うべきと主張。",
-      "en": "Hamas stated that the Israeli regime is deliberately worsening the humanitarian catastrophe in Gaza, accusing the Peace Board of responsibility for continued violations."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-08T10:38:21+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86315746/Israeli-regime-deepening-Gaza-crisis-Hamas"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_humanitarian_crisis_hamas_2026-11"
-  },
-  {
-    "id": "auto-51068",
-    "headline": {
-      "ja": "パキスタン北西部でIED爆発、爆発処理班幹部が殺害",
-      "en": "Police bomb disposal squad official killed in IED blast in NW Pakistan"
-    },
-    "summary": {
-      "ja": "パキスタン北西部でIED(即興爆発装置)が爆発し、警察爆発物処理班の幹部が殺害された。テロ活動が継続。",
-      "en": "An IED blast in northwestern Pakistan killed a police bomb disposal squad official, indicating ongoing terrorist activities."
-    },
-    "category": "conflict",
-    "country": "パキスタン",
-    "lat": 33.7215,
-    "lon": 73.0433,
-    "occurredAt": "2026-11-08T10:26:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEMzSGhYb0UwaWJKNllrU29GQ2YxdV9yVk1WaklnTlZuZTF4MWRIUm9YM3I0eUVkcGxfTW1LWm1VdUlEUV9sb1Z1WGZhVGRXOTJfUllGT1F5a1R3cVU1QnA5bTlPbndmUEJnX29WSVVqWU5WN2k0YmVFeTg2YXVzMGxIcFRxN0tRai1WWA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "pakistan_nw_ied_blast_2026-11"
-  },
-  {
-    "id": "auto-51014",
-    "headline": {
-      "ja": "アフガニスタン西部で乗用車転覆、5人死亡",
-      "en": "Passenger vehicle overturns in western Afghanistan, 5 killed and 16 injured"
-    },
-    "summary": {
-      "ja": "アフガニスタン西部で乗用車が転覆し、5人が死亡、16人が負傷。詳細な事故原因は不明。",
-      "en": "A passenger vehicle overturned in western Afghanistan, resulting in 5 deaths and 16 injuries. Cause of the accident remains unclear."
-    },
-    "category": "disaster",
-    "country": "アフガニスタン",
-    "lat": 34.5281,
-    "lon": 69.1723,
-    "occurredAt": "2026-11-08T10:22:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlpzN1lyWi1KM2xxNWREQ0x4TmJhY29vRmdMQWFFV0tocGlWa2JMb1VxRnNtSzJxSmV2cXl1d0dvckJkQ0lpMC0yNV9KLTRHaEZCd0lMUVVNX1lMX19JOUJkcndNVWZkWDVfVVZuQ3BvNDFleW02dmR3aVk4a2xJRk9qVWNqQUlOS0pRSA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "afghanistan_vehicle_accident_west_2026-11"
   }
 ]
