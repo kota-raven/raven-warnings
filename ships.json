@@ -150,6 +150,78 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-14-cn-000185",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "宮古海峡を南東進し太平洋へ。海自P-1、P-3Cが警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-14T21:21:11.773188+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "2026-11-14-cn-000186",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "呼倫湖",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "宮古海峡を南東進し太平洋へ。海自P-1、P-3Cが警戒監視",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-14T21:21:11.773188+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "2026-11-14-us-000187",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "スプルーアンス",
+    "shipNumber": "DDG-111",
+    "shipType": "destroyer",
+    "position": {
+      "area": "サンディエゴ",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "12か月の派遣任務を終えサンディエゴに帰港。エピック・フューリー作戦に参加",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37533/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-14T21:21:11.773188+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-14T00:00:00Z"
+  },
+  {
     "id": "2026-11-13-ru-000179",
     "recordType": "individual",
     "country": "RU",
@@ -361,6 +433,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-09T21:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-08T00:00:00Z"
+  },
+  {
+    "id": "2026-11-08-jp-000184",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "あおぞら",
+    "shipNumber": "LCU-4153",
+    "shipType": "transport",
+    "position": {
+      "area": "堺泉北港",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防災訓練で輸送支援活動を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37516/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-14T21:21:11.773188+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-08T00:00:00Z"
@@ -1277,8 +1373,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-31T00:00:00Z"
   },
   {
@@ -1301,8 +1397,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-31T00:00:00Z"
   },
   {
@@ -1325,8 +1421,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-31T00:00:00Z"
   },
   {
