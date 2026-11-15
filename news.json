@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-13-02",
-    "headline": {
-      "ja": "エヌビディア、ジェンセン・フアンCEOが辞任 CFOコレット・クレス氏が暫定CEOに",
-      "en": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim CEO"
-    },
-    "summary": {
-      "ja": "2026年11月11日、エヌビディアの取締役会がジェンセン・フアン氏の辞任を受け入れ、同氏は社長・最高経営責任者(CEO)・取締役を直ちに退任したという。同社は11日付のSEC提出書類(Form 8-K)および12日付の公式発表で、最高財務責任者(CFO)のコレット・クレス氏が暫定CEOに就任すると明らかにしたという。報道によれば、フアン氏の辞任は、中国情報機関と関係があるとされる人物との交際、および部下にあたる同社副社長との交際に関する取締役会の社内調査を受けたものだという。この問題が表面化して以降、エヌビディア株は約14年ぶりの安値まで下落したと報じられている。同社は11月17日に2027会計年度第3四半期決算を発表する予定だという。推測:取締役会による後任CEOの選定(社内・社外候補の検討)の具体的な進捗は本稿執筆時点では確認できていない。[信頼性: 高](Al Jazeera、Washington Post、CNN、Fortuneなど複数の独立した媒体、および同社の公式発表・SEC提出書類により確認)",
-      "en": "On November 11, 2026, Nvidia's board of directors is reported to have accepted Jensen Huang's resignation, with Huang stepping down immediately as President, CEO and a board member. The company's November 11 SEC filing (Form 8-K) and a November 12 official announcement reportedly named CFO Colette Kress as interim CEO. Reports say the resignation followed a board investigation into Huang's relationships, including with a woman reportedly linked to Chinese intelligence and with a company vice president who reported to him. Nvidia's stock is reported to have fallen to roughly a 14-year low since the matter became public. The company is reported to plan to report its fiscal Q3 2027 results on November 17. Speculation: the board's progress in selecting a permanent successor (from internal and external candidates) could not be confirmed as of this writing. [Reliability: High] (Confirmed by multiple independent outlets including Al Jazeera, the Washington Post, CNN and Fortune, as well as the company's own announcement and SEC filing)"
-    },
-    "category": "economy",
-    "country": "United States",
-    "region": "カリフォルニア州",
-    "lat": 36.1162,
-    "lon": -119.6816,
-    "occurredAt": "2026-11-11T22:00:00+00:00",
-    "source": {
-      "name": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-12-01",
     "headline": {
       "ja": "米特使ウィトコフ氏・クシュナー氏、モスクワ到着 アブダビ協議後にプーチン氏と会談へ",
