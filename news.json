@@ -1,50 +1,5 @@
 [
   {
-    "id": "2026-11-12-03",
-    "headline": {
-      "ja": "露、米和平案の一部を「容認できない」 プーチン氏・ウィトコフ氏・クシュナー氏のモスクワ会談終了",
-      "en": "Putin's Kremlin talks with Witkoff, Kushner end; Russia calls parts of US plan 'unacceptable'"
-    },
-    "summary": {
-      "ja": "2026年11月12日(木)、モスクワを訪問していた米国のウィトコフ特使・クシュナー氏が、プーチン大統領と3時間余りにわたり会談し終了したという。プーチン大統領は会談の冒頭、ウクライナ戦争の解決は「永続的な平和(eternal peace)」でなければならないと述べたと報じられている。会談後、ロシア側は米国の和平案の一部の条件を「容認できない」としたと報じられている。プーチン大統領はまた、和平合意後に欧州がウクライナへ部隊を展開すれば「戦争が再開する」と述べ、展開された外国部隊はロシア軍の「正当な攻撃対象」になり得るとの考えを示したという。領土問題などの核心的対立点については、ウクライナ側が指摘する「グレーゾーン」(実効支配境界が曖昧な地域)の問題にロシア側も留意しているとプーチン大統領が述べたとされる。両氏はこの後、アイルランド・ダブリンでゼレンスキー大統領とも会談する予定だという。推定:会談の正確な終了時刻、ロシア側が「容認できない」とした具体的な条件の内容は、本稿執筆時点では確認できていない。[信頼性: 高](TASS〔ロシア国営通信、プーチン氏発言の引用元〕、PBS NewsHour、AOL(Reuters系)、Clash Reportなど複数の独立した媒体が2026年11月12日時点で同様の内容を報じている)",
-      "en": "On Thursday, November 12, 2026, US envoys Steve Witkoff and Jared Kushner are reported to have concluded over three hours of talks with President Putin in Moscow. At the opening of the meeting, Putin is reported to have said any resolution of the Ukraine war must be an \"eternal peace.\" Following the talks, Russia is reported to have called some terms of the US peace proposal \"unacceptable.\" Putin also reportedly said that if European troops were deployed to Ukraine after a peace deal, \"war will resume,\" and suggested any such foreign forces deployed there could be considered \"legitimate targets\" for the Russian armed forces. On core disputes such as territory, Putin reportedly said Russia is aware of the \"gray zone\" issue raised by Ukraine (areas where front-line control is ambiguous). The envoys are reported to be heading next to Dublin to meet President Zelensky. Speculation: the exact end time of the meeting and the specific terms Russia called \"unacceptable\" could not be confirmed as of this writing. [Reliability: High] (Corroborated as of November 12, 2026 by multiple independent outlets including TASS, PBS NewsHour, AOL (Reuters-sourced) and Clash Report)"
-    },
-    "category": "conflict",
-    "country": "Russia",
-    "region": "モスクワ",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "occurredAt": "2026-11-12T11:00:00+00:00",
-    "source": {
-      "name": "AOL (Reuters)",
-      "url": "https://www.aol.com/news/putin-greets-steve-witkoff-moscow-153411158.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-13-03",
-    "headline": {
-      "ja": "イラン・ホルムズ海峡でタンカー4隻が爆発、イラン側は「機雷」と主張。トランプ氏は船舶攻撃時の軍事力行使を再警告",
-      "en": "Iran says four tankers struck by explosions in Strait of Hormuz; Trump warns of renewed strikes if vessels attacked"
-    },
-    "summary": {
-      "ja": "Reuters(11月12日報道)によると、イラン軍はホルムズ海峡で航行中のタンカー4隻が爆発に見舞われたと発表したという。別途、イラン革命防衛隊(IRGC)海軍は11日夜にタンカー2隻が大規模爆発後に航行停止したと発表し、イラン国営メディアはこれらが機雷に触れたと説明しているという。推測:原因(機雷か否か)はイラン側の説明のみに基づき、独立した確証は得られていない。トランプ米大統領は、米の同盟国や海峡の船舶が攻撃された場合は再び軍事力を行使すると警告したと複数媒体が報じている。[信頼性: 中](Reuters・Anadolu・AP系配信など複数の独立した通信社がイラン側発表を報じているが、原因の詳細は第三者による独立確証が得られていない)",
-      "en": "Reuters reported on November 12 that Iran's military said four tankers were struck by explosions while transiting the Strait of Hormuz. Separately, Iran's IRGC Navy said two tankers lost propulsion after major explosions on the night of November 11, with Iranian state media attributing this to naval mines. Speculation: the cause (mines or otherwise) rests solely on Iranian official statements and has not been independently verified. Multiple outlets report Trump warned the US would use military force again if allies or vessels in the strait were attacked. [Reliability: Medium] (Reported by Reuters, Anadolu and AP-affiliated outlets relaying Iranian government statements, but the cause has not been independently corroborated)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-12T11:00:00+00:00",
-    "source": {
-      "name": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/commodities-news/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says-5022725"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
     "id": "2026-11-13-01",
     "headline": {
       "ja": "ゼレンスキー氏、欧州政治共同体(EPC)首脳会議のためダブリン入り ウィトコフ氏・クシュナー氏の報告を待つ",
@@ -284,5 +239,27 @@
       "url": "https://www.manilatimes.net/2026/11/14/business/foreign-business/wall-street-stocks-mostly-lower-as-nvidia-extends-slump/2469971"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-15-02",
+    "headline": {
+      "ja": "ロシア、11月13日夜〜14日未明にウクライナ各地(キーウ中心に13地点)へ大規模ドローン・ミサイル攻撃 449発中419発を迎撃、死者4〜6人・負傷27人超(報道により差)",
+      "en": "Russia launches massive overnight drone/missile attack on Ukraine (Kyiv-centered, 13 locations hit); 419 of 449 targets downed, 4-6 killed, 27+ injured (tolls vary by source)"
+    },
+    "summary": {
+      "ja": "11月13日夜から14日未明(現地時間)にかけて、ロシア軍がウクライナ各地に大規模なドローン・ミサイル攻撃を行ったという。ウクライナ空軍によれば、ドローン430機・ミサイル19発(弾道ミサイル13発を含む)の計449発が飛来し、シャヘド型ドローン405機を含む419発を迎撃・妨害したとされる。主要な標的はキーウで、キーウ・ハルキウ・オデーサ・ポルタヴァ・チェルカースィ州など13地点で着弾が確認されたという。死傷者数は報道により差があり、TSN(ウクライナ)はキーウ市内で死者4人・負傷27人(妊婦・子供2人含む)と報じ、RFE/RLは死者6人以上、Euromaidan Pressは死者6人・負傷36人と報じている。ゼレンスキー大統領は、スームィ州にジルコン(Zircon)極超音速ミサイルが着弾したと述べたという。ウクライナ側によるロシア・ノヴォロシースク(黒海沿岸、エネルギー関連施設)への攻撃で大きな混乱が生じたとも報じられている。ロシア原子力企業ロスアトムは、ウクライナの無人機がノヴォヴォロネジ原子力発電所を攻撃したと主張しているが、ウクライナ側はこれを確認していない。推測:死傷者数の確定値は報道間で一致していない。[信頼性: 高](Kyiv Independent系・RFE/RL・Euromaidan Press・TSN・ukranews.com・unn.ua等、複数の独立したウクライナ・国際メディアが2026年11月14日の攻撃として報じている)",
+      "en": "Russian forces reportedly carried out a large-scale combined drone and missile attack across Ukraine overnight from Nov 13 into the early hours of Nov 14 (local time). Ukraine's Air Force said 449 aerial targets were launched — 430 drones and 19 missiles, including 13 ballistic — of which 419 (including 405 Shahed-type drones) were shot down or suppressed. Kyiv was reported to be the main target, with impacts recorded at 13 locations across the Kyiv, Kharkiv, Odesa, Poltava and Cherkasy regions. Casualty figures vary by outlet: TSN (Ukraine) reported 4 killed and 27 injured in Kyiv (including a pregnant woman and 2 children), RFE/RL reported at least 6 killed, and Euromaidan Press reported 6 killed and 36 wounded. President Zelensky said a Zircon hypersonic missile struck Sumy region. Separately, a Ukrainian strike on Russia's Black Sea port of Novorossiysk reportedly caused major disruption to energy infrastructure there. Russia's state nuclear operator Rosatom claimed Ukrainian drones attacked the Novovoronezh nuclear power plant, a claim Ukraine has not confirmed. Speculation: exact casualty tolls are not consistent across outlets. [Reliability: High] (Reported as of November 14, 2026 by multiple independent Ukrainian and international outlets including Kyiv Independent-affiliated sites, RFE/RL, Euromaidan Press, TSN, ukranews.com and unn.ua)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-11-14T02:00:00+00:00",
+    "source": {
+      "name": "RFE/RL / Euromaidan Press / TSN(複数報道の集約)",
+      "url": "https://www.rferl.org/a/russia-attacks-kyiv-ukraine-invasion-deaths/33591664.html"
+    },
+    "reliability": "high"
   }
 ]
