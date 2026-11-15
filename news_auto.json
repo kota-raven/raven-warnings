@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-60053",
+    "headline": {
+      "ja": "イランがバーレーンの米軍レーダーに報復ドローン攻撃",
+      "en": "Iran launches retaliatory drone strikes on US military radar in Bahrain"
+    },
+    "summary": {
+      "ja": "イランの革命防衛隊は、バーレーンの米軍基地内の米軍レーダー施設に対する報復として6機のドローンを発射したと発表した。",
+      "en": "Iran's Islamic Revolutionary Guard Corps announced it launched six drones in a retaliatory strike against a US military radar installation at an air base in Bahrain."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-15T12:15:51+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_us_bahrain_radar_drone_attack_2026-11-15",
+    "severity": 4
+  },
+  {
+    "id": "auto-60054",
+    "headline": {
+      "ja": "ヘブロン工業地区の封鎖がパレスチナ経済を脅かす",
+      "en": "Siege on Hebron industrial zone threatens Palestinian economy"
+    },
+    "summary": {
+      "ja": "イスラエルがヨルダン川西岸占領地のパレスチナ経済を弱める措置を講じており、ヘブロンのベイト・ウラ工業地区への包囲がパレスチナの事業に深刻な影響を与えている。",
+      "en": "Israeli measures against Palestinian businesses in the occupied West Bank, including a siege on Hebron's Beit Ula industrial zone, threaten the Palestinian economy."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5294,
+    "lon": 35.0938,
+    "occurredAt": "2026-11-15T12:02:45+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_hebron_siege_economic_2026-11-15"
+  },
+  {
+    "id": "auto-60039",
+    "headline": {
+      "ja": "ヨルダンの教会銃撃事件で死刑判決",
+      "en": "Three sentenced to death in Jordan church shooting"
+    },
+    "summary": {
+      "ja": "ヨルダン正教会での葬儀中の銃撃事件で9人が殺害された事件について、3人に死刑判決が言い渡された。",
+      "en": "Three men sentenced to death in connection with a fatal attack on a funeral at a Greek Orthodox church that killed nine people."
+    },
+    "category": "conflict",
+    "country": "ヨルダン",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "occurredAt": "2026-11-15T11:06:32+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "jordan_church_shooting_death_sentences_2026-11-15"
+  },
+  {
+    "id": "auto-60059",
+    "headline": {
+      "ja": "米国がウクライナにドンバス割譲とNATO加盟の取引を提案か",
+      "en": "Could new US pitch work for Ukraine, Russia? Donbas trade for NATO seat proposed"
+    },
+    "summary": {
+      "ja": "ウクライナのNATO加盟志向はクレムリンにとって赤い線であり、領土放棄はウクライナにとって譲歩できない問題であるなか、米国が提案する新たな和平案がこの膠着状況を打開できるかが注目されている。",
+      "en": "As Ukraine seeks NATO membership and Russia opposes it, while Ukraine refuses territorial concessions, a new US proposal for trading Donbas territory for NATO membership could potentially break the deadlock."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-15T10:58:36+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_donbas_nato_negotiation_2026-11-15"
+  },
+  {
     "id": "auto-60063",
     "headline": {
       "ja": "スーダンで発電所へのドローン攻撃、複数都市が停電",
@@ -21,6 +114,168 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "sudan_power_infrastructure_attack_2026-11-15"
+  },
+  {
+    "id": "auto-60040",
+    "headline": {
+      "ja": "イスラエルがガザのハマス司令官を殺害",
+      "en": "Israel kills Hamas commander in Gaza operation"
+    },
+    "summary": {
+      "ja": "イスラエルの軍事作戦によってガザ地区ラファ旅団の司令官サミール・アブ・ユニスが殺害され、ハマスとイスラエル国防軍の両者が死亡を確認した。",
+      "en": "Israeli military operation kills Samir Abu Younis, commander of Hamas Rafah Brigade, in Gaza, confirmed by both Hamas and IDF officials."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-15T08:17:41+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_rafah_commander_killed_2026-11-15",
+    "severity": 4
+  },
+  {
+    "id": "auto-60094",
+    "headline": {
+      "ja": "トランプ大統領がイランへの追加攻撃を保留する意向を示唆",
+      "en": "Trump indicated willingness to hold off on further Iran strikes if Tehran avoids escalation"
+    },
+    "summary": {
+      "ja": "Telegramの@OSINTdefenderアカウントで、トランプ大統領がテヘランとその地域同盟者が攻撃を避ければ、イランへの新たな攻撃を保留する傾向があると述べたという投稿があった。",
+      "en": "Telegram account @OSINTdefender reported that Trump is inclined to hold off on new strikes against Iran if Tehran and its regional allies avoid further escalation."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-15T07:55:32+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20764"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "us_iran_military_policy_2026-11-15"
+  },
+  {
+    "id": "auto-60117",
+    "headline": {
+      "ja": "ハマス指導者がガザの人道危機対応を促す",
+      "en": "Hamas official urges action as Gaza humanitarian crisis worsens"
+    },
+    "summary": {
+      "ja": "ハマス政治局長が、冬の到来とともに深刻化するガザの食糧不足と人道危機に対応するよう、アラブ・イスラム諸国に行動を呼びかけた。",
+      "en": "Hamas Political Bureau head urged Arab and Islamic nations to address Gaza's worsening humanitarian crisis with food shortages and mounting hardship as winter approaches."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-15T07:44:36+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86322057/Hamas-official-urges-action-as-humanitarian-crisis-worsens-in"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_humanitarian_crisis_2026-11-15"
+  },
+  {
+    "id": "auto-60073",
+    "headline": {
+      "ja": "ASEAN首脳会談、米国とイスラエルのイラン作戦による energy 危機が焦点",
+      "en": "ASEAN summit: US-Israel war on Iran's energy disruption central focus"
+    },
+    "summary": {
+      "ja": "フィリピンで開催されるASEAN首脳会談では、米国とイスラエルのイラン作戦による energy 供給途絶がエネルギー輸入に依存するASEAN諸国に与える影響が主要議題となっている。",
+      "en": "At the ASEAN summit in the Philippines, energy disruptions caused by the US-Israel operations against Iran are a central issue for import-dependent Southeast Asian nations."
+    },
+    "category": "conflict",
+    "country": "フィリピン",
+    "lat": 14.6042,
+    "lon": 120.9822,
+    "occurredAt": "2026-11-15T07:11:24+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "asean_summit_energy_crisis_2026-11-15"
+  },
+  {
+    "id": "auto-60031",
+    "headline": {
+      "ja": "ダブリン会談でウクライナ和平交渉の欧州の役割が進展",
+      "en": "Dublin summits advance Europe's role in Ukraine peace talks"
+    },
+    "summary": {
+      "ja": "ダブリンで開催された会談により、ウクライナ和平交渉における欧州の役割が前進し、一方でAIの課題が浮き彫りになった。",
+      "en": "Summits held in Dublin advanced Europe's role in Ukraine peace talks while exposing challenges related to AI."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-14T19:12:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RY0thWkp5NEc2S19aSjItTHl6N2JFYUxLSk9FV3ItYU15S1lIVm5nZElnTVU0SFY2MXNPcG1wYUVGT05wQVAtbERqMWtuc19McGozWmhMT0xOMFJtR0RKYWdnLWRNWERkVGM2NjFKOU0xY3duYnhJakNneTM?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "dublin_ukraine_peace_talks_2026-11-14"
+  },
+  {
+    "id": "auto-60088",
+    "headline": {
+      "ja": "ネタニヤフ首相がイランの核プログラム再開を主張",
+      "en": "Netanyahu claims Iran renewing nuclear program, poses significant threat"
+    },
+    "summary": {
+      "ja": "Telegramの@OSINTdefenderアカウントで、ネタニヤフ首相がイラン体制はその核プログラムを再開しており重大な脅威をもたらすと述べたという投稿があった。",
+      "en": "Telegram account @OSINTdefender reported that Israeli PM Netanyahu stated the Iranian regime is renewing its nuclear program and poses a significant threat."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-14T18:38:36+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20758"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "israel_iran_nuclear_threat_2026-11-15"
+  },
+  {
+    "id": "auto-60086",
+    "headline": {
+      "ja": "EUがウクライナ和平交渉の代表団構成を発表へ",
+      "en": "EU to include national security advisers in Ukraine peace talks delegation"
+    },
+    "summary": {
+      "ja": "Telegramの@OSINTdefenderアカウントで、ロシア・ウクライナ和平交渉に向けたEU代表団に複数国の国家安全保障顧問が含まれるという投稿があった。",
+      "en": "Telegram account @OSINTdefender reported that Europe's delegation for Russia-Ukraine peace talks will include national security advisers from multiple nations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-14T18:18:53+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20756"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "eu_ukraine_peace_talks_delegation_2026-11-15"
   },
   {
     "id": "auto-60015",
@@ -3684,74 +3939,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "solomon_islands_earthquake_2026-11-09"
-  },
-  {
-    "id": "auto-51403",
-    "headline": {
-      "ja": "エジプトで列車衝突、複数の死傷者",
-      "en": "Trains collide in Egypt killing 7, injuring over 100"
-    },
-    "summary": {
-      "ja": "エジプトで列車同士が衝突し、7人が死亡し、100人以上が負傷した",
-      "en": "Seven dead and more than 100 injured after trains collide in Egypt"
-    },
-    "category": "disaster",
-    "country": "エジプト",
-    "lat": 30.0626,
-    "lon": 31.2497,
-    "occurredAt": "2026-11-08T17:35:13+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "egypt_train_collision_2026-11-08"
-  },
-  {
-    "id": "auto-51618",
-    "headline": {
-      "ja": "サウジ連合軍がフーシ派のミサイル発射拠点を攻撃",
-      "en": "Saudi-led Coalition Strikes Houthi Missile Launcher Sites"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合軍がリヤド攻撃に使用されるフーシ派のミサイル発射拠点を攻撃したと、ロシア国営通信が報道した。",
-      "en": "Russian state news reported that the Saudi-led coalition struck Houthi missile launcher sites used to attack Riyadh."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-08T16:49:29+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MWnNVam9PV1o0V3FmNTRFWjVBZENpTHlpV3pfT3hFZHRya2kxa3otMldjV3VoREZlTWE0TFFtUkJYVVhG0gFKQVVfeXFMUFItc0J3azNEVmdUZEk2M2Vrbm9KRG50aWVTdnNManhwUHZOb0hsbEs0eHFrbks2ZjIzWmRsOEthbHhRNEptVGQwM1E?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_houthi_missile_defense_2026-11-08"
-  },
-  {
-    "id": "auto-51406",
-    "headline": {
-      "ja": "エジプト列車脱線で死傷者",
-      "en": "Derailed train carriages in Egypt"
-    },
-    "summary": {
-      "ja": "エジプトで列車脱線事故が発生し、複数の客車が脱線した",
-      "en": "Footage shows derailed carriages after fatal train crash in Egypt"
-    },
-    "category": "disaster",
-    "country": "エジプト",
-    "lat": 30.0626,
-    "lon": 31.2497,
-    "occurredAt": "2026-11-08T16:05:57+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "egypt_train_derailment_footage_2026-11-08"
   }
 ]
