@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-14-01",
-    "headline": {
-      "ja": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダーを破壊と発表 米中央軍は否定、無人機2機撃墜と説明",
-      "en": "Iran's IRGC claims it destroyed US early-warning radar in Bahrain; US CENTCOM denies, says it downed two drones"
-    },
-    "summary": {
-      "ja": "2026年11月13日、イラン革命防衛隊(IRGC)航空宇宙部隊が、バーレーンにある米軍の早期警戒レーダー施設を破壊したと発表したという。IRGCはこれを、イラン南部ホルモズガーン州シリクの通信塔への攻撃に対する報復と説明したが、シリクへの攻撃の実行主体については明言していないという。これに対し米中央軍(CENTCOM)はX(旧Twitter)で、IRGCがバーレーンに向け「片道攻撃無人機」2機を発射したが、米軍がいずれも撃墜し、負傷者・損害はなかったと発表し、レーダー破壊の主張を否定したという。一部報道は、関係者3人がロイターに対しバーレーンの島から煙が上がる映像を確認したと伝えているとするが、被害の程度は確認されていない。背景として、2月28日に始まった米国・イスラエルによるイラン攻撃以降、カタール・パキスタンの仲介による外交努力が続く中での緊張の高い停戦状態があるという。推測:シリクへの攻撃の実行主体、実際の被害の有無・規模は、本稿執筆時点では確証が得られていない。[信頼性: 中](イラン側〔IRGC発表〕と米側〔CENTCOM発表〕の説明が相互に矛盾しており、独立した現地報道による確証は限定的。euronews、RFE/RL、Yahoo News〔Reuters〕、Iran Internationalなど複数媒体が2026年11月13日時点で各国政府の発表内容を報じている)",
-      "en": "On November 13, 2026, Iran's Islamic Revolutionary Guard Corps (IRGC) Aerospace Force reportedly announced it had destroyed a US early-warning radar installation in Bahrain. The IRGC reportedly framed the strike as retaliation for an attack on a telecommunications tower in Sirik, in Iran's southern Hormozgan province, though it did not say who it believed carried out the Sirik attack. In response, US Central Command (CENTCOM) reportedly said on X that the IRGC launched two one-way attack drones toward Bahrain, both shot down by US forces with no injuries or damage, denying the radar-destruction claim. Some reports say three sources told Reuters they had seen video of smoke rising from the island, though the extent of any damage remains unconfirmed. This comes against the backdrop of a tense lull following the US-Israeli strikes on Iran that began February 28, amid ongoing Qatari- and Pakistani-mediated diplomacy. Speculation: who carried out the Sirik attack, and whether and how much damage actually occurred, could not be confirmed as of this writing. [Reliability: Medium] (Iran's IRGC account and the US CENTCOM account directly contradict each other, and independent corroboration is limited; multiple outlets including Euronews, RFE/RL, Yahoo News (Reuters) and Iran International reported the competing claims as of November 13, 2026.)"
-    },
-    "category": "conflict",
-    "country": "バーレーン",
-    "lat": 26.0667,
-    "lon": 50.5577,
-    "occurredAt": "2026-11-13T10:00:00+00:00",
-    "source": {
-      "name": "euronews",
-      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
     "id": "2026-11-14-03",
     "headline": {
       "ja": "米ハイテク株、半導体中心に急落 AMD一時10%超安、米10年債利回り5%に上昇(11月13日)",
