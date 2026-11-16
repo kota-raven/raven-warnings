@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-13-04",
-    "headline": {
-      "ja": "米国株、エヌビディア安で続落 S&P500・ダウ・ナスダックとも下落(11月12日)",
-      "en": "US stocks slip again as Nvidia tumbles; S&P, Dow, Nasdaq all lower (Nov 12)"
-    },
-    "summary": {
-      "ja": "2026年11月12日(木)の米国株式市場は、前日のエヌビディアのジェンセン・フアンCEO辞任を受けた流れが続き、3指数とも下落して取引を終えたという。S&P500種は0.35%安の7,592.40、ダウ工業株30種平均は189.40ポイント(0.36%)安の52,297.09、ナスダック総合指数は0.39%安の25,366.09だったとされる。エヌビディア株は一時大きく下落した後、下げを半分程度に縮小しつつも4.3%安で終えた一方、他のAI関連半導体株は上昇したという。[信頼性: 高](CNBC・Yahoo Finance・The Motley Foolなど複数の主要金融メディアがほぼ同一の数値を報じている)",
-      "en": "US stock markets reportedly closed lower across the board on Thursday, November 12, 2026, continuing the prior day's reaction to Nvidia CEO Jensen Huang's resignation. The S&P 500 is reported to have fallen 0.35% to 7,592.40, the Dow Jones Industrial Average down 189.40 points (0.36%) to 52,297.09, and the Nasdaq Composite down 0.39% to 25,366.09. Nvidia shares reportedly pared an initial steep decline to close down 4.3%, while other AI-chip peers rose. [Reliability: High] (Closely matching figures reported by multiple major financial outlets including CNBC, Yahoo Finance, and The Motley Fool)"
-    },
-    "category": "economy",
-    "country": "United States",
-    "region": "",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-12T21:00:00+00:00",
-    "source": {
-      "name": "CNBC / The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-14-05",
-    "headline": {
-      "ja": "IAEA、イランのエスファハーン地下濃縮関連施設への懸念を強める 濃縮ウラン440kg超の行方依然不明",
-      "en": "IAEA raises alarm over Iran's underground Isfahan enrichment-related facility; whereabouts of over 440 kg of enriched uranium still unknown"
-    },
-    "summary": {
-      "ja": "国際原子力機関(IAEA)の非公開報告(2026年11月13日時点の報道)によれば、イランが2025年に申告したエスファハーン州の地下濃縮関連施設への査察官の立ち入りが依然認められておらず、IAEAは同施設への懸念を強めているという。2025年6月の米・イスラエルによる攻撃前の推定で約440kgとされる60%濃縮ウラン在庫について、現在の量・組成・所在地を検証できていないとされる。グロッシ事務局長は、以前申告された高濃縮ウラン在庫に関する「継続性の知識」を失って1年以上になると述べたという。IAEA理事会は11月18〜20日にウィーンで開催予定で、イランの保障措置履行が議題に含まれるとされる。推測:同施設で実際に濃縮が行われているか否かは、この報道時点では確定していない。[信頼性: 高](Al Jazeera、The National、Al-Monitorなど複数の独立メディアが2026年11月13日時点で同一のIAEA報告内容を報じている)",
-      "en": "According to a confidential IAEA report described in media coverage as of November 13, 2026, inspectors still have not been granted access to an underground uranium-enrichment-related facility at Isfahan that Iran declared in 2025, and the agency is reported to be increasingly concerned about it. The IAEA is said to be unable to verify the current quantity, composition, or location of Iran's roughly 440 kg stockpile of 60%-enriched uranium, last estimated before the US-Israeli strikes of June 2025. Director General Rafael Grossi reportedly said it has been more than a year since the agency lost \"continuity of knowledge\" regarding previously declared highly enriched uranium inventories. The IAEA Board of Governors is reported to meet in Vienna November 18-20, with implementation of Iran's safeguards agreement on the agenda. Speculation: whether enrichment is actually taking place at the facility is not established by the report as described. [Reliability: High] (Corroborated as of November 13, 2026 by multiple independent outlets including Al Jazeera, The National and Al-Monitor reporting on the same IAEA report)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "エスファハーン州",
-    "lat": 32.6546,
-    "lon": 51.668,
-    "occurredAt": "2026-11-13T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-13-06",
     "headline": {
       "ja": "日経平均、半導体株買い戻しで反発 香港株はエヌビディア混乱の余波で続落(11月13日)",
