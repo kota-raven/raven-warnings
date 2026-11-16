@@ -117,6 +117,29 @@
     "severity": 4
   },
   {
+    "id": "auto-60992",
+    "headline": {
+      "ja": "イスラエル元参謀総長、ネタニャフは民主主義への脅威と批判・選挙干渉調査予告",
+      "en": "Eisenkot calls Netanyahu a 'direct threat' to Israel's democracy, vows probe into alleged election interference"
+    },
+    "summary": {
+      "ja": "イスラエル元参謀総長ギャディ・アイゼンコットがネタニャフ首相を民主主義への直接的脅威と批判し、選挙干渉の疑いについて調査を実施する意向を表明した。",
+      "en": "Former Israeli chief of staff Eisenkot called Netanyahu a 'direct threat' to Israel's democracy and vowed to probe alleged election interference."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-15T22:23:07+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1ByY3k4eF9MendPYmE2UGJSUmpnQXg3ajZ1X1VVeVh6Z0prMDFMWktJTkc0aE9aQmNveTlWaHFIRmUzWnEwZzFuWmJBRDRKUHZJOEhtOUFjU1h3OU4wTnBvaWlTQk51YnFqcmRzNWZxMFQtUDZUV3dia3I5RC0xNjgzTkRvendSLVhIaVpqbURrbTZKejkyVXhrek81QVFMd19qckc0Z3NhVF8xZmxYLUpIZmxwSkdaUnZNclpFMlM2cHg3SmJkVFI4T3lONjVueDYxSDB2V21WWkcyOV9hVTBiWmRHY3Ni?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_netanyahu_democracy_criticism_2026-11-15"
+  },
+  {
     "id": "auto-60670",
     "headline": {
       "ja": "豪加伊英、イスラエルのガザ援助阻止を非難",
@@ -210,6 +233,98 @@
     "severity": 4
   },
   {
+    "id": "auto-60981",
+    "headline": {
+      "ja": "モサド長官、イラン協議後イスラエル帰国・ネタニャフに報告予定",
+      "en": "Mossad chief returns to Israel after US talks on Iran, set to brief Netanyahu"
+    },
+    "summary": {
+      "ja": "イスラエルの情報機関モサドの長官がイラン関連の米国との協議を終えてイスラエルに帰国し、ネタニャフ首相への報告を予定している。",
+      "en": "Mossad chief returned to Israel after US talks on Iran and is set to brief Netanyahu."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-15T18:38:16+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFhJVkhNM25VajlTeS1sSVhCaHF3MS1YWDRFR2pma1F5NjRPbzhFbzl1UjdtM0xaLUNYZjNyRTdSaEg3TjlURFZUeU1RNVFhejROUk1xOWFmQkNMWHh0RHhVcUtHblktdzg2a3M0am5ta2lmNENuRW91QW9icmdydHlqUWpjdzNpSGo0eXhZdVJOQkdlcklZQmpuYVdpeEsxVnJEUWNubGt3SS1rVWtTOWRUNEYxTGtJZ1RmSFhLZTFCQXVHUVU4?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_mossad_iran_talks_2026-11-15"
+  },
+  {
+    "id": "auto-60910",
+    "headline": {
+      "ja": "UAE、イランのバーレーン攻撃を非難",
+      "en": "UAE Strongly Condemns Renewed Hostile Iranian Attack on Bahrain"
+    },
+    "summary": {
+      "ja": "UAE政府はイランによるバーレーンへの敵対的攻撃を強く非難した。",
+      "en": "The UAE government strongly condemned Iran's renewed hostile attack on Bahrain."
+    },
+    "category": "conflict",
+    "country": "アラブ首長国連邦",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "occurredAt": "2026-11-15T18:25:41+00:00",
+    "source": {
+      "name": "UAE 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51Zk1Ec1dfSmhDZklCR0UyU0prc2p4bFZyeVY0VUdpaXR5SzF1ZG1ISEx3RUdCQU5YSUxudElvM2JncVhzcUVmNW9GTWxvTjhta0lkV2ZqOHh2RGRXZkVEbzJtUmJjQzBqM3ZkaEZaOXA?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_bahrain_hostile_action_2026-11-15"
+  },
+  {
+    "id": "auto-60962",
+    "headline": {
+      "ja": "米航空母艦セオドア・ルーズベルト、中東への展開を継続",
+      "en": "USS Theodore Roosevelt to join 2 US aircraft carriers in Middle East"
+    },
+    "summary": {
+      "ja": "米国防総省がセオドア・ルーズベルト空母を含む複数の米空母を中東に配備することを発表した。",
+      "en": "The USS Theodore Roosevelt will join 2 other US aircraft carriers in the Middle East deployment within the next day."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-15T17:20:03+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnlkaGJRSldTa01yWTJjOVVIbk9TRzJlLWZ2Q0JXcVhkeDhCUkZpUGN6aTNiVFV4NWpXQXlIVlJFUXg4Qi1XSm5fbzZWcUxYWnVNdHhDRFpfZXBNeFllX2lIQjNZUVhNbXpFZXhzNnNJXzU0d2tfVm5tQ0NaaW1uTjIyelVqbkhJNGg3SWxZUGtPUkk2NTh4SWZMdFZ2b081LXdqRjYzbnBONWg5alJ1OWZ3QXFDYXA1Z3d6b0I4Y1dtdGJxcHRXOXlWSVRpZw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_military_carrier_deployment_2026-11-15"
+  },
+  {
+    "id": "auto-60963",
+    "headline": {
+      "ja": "イラン政府、「戦争でも平和でもない」状態からの脱却を主張",
+      "en": "Iran says won't remain in 'neither war nor peace' state"
+    },
+    "summary": {
+      "ja": "イラン政府は、現在の「戦争でも平和でもない」状態から脱却する必要があると主張した。",
+      "en": "Iran stated it will not remain in the current 'neither war nor peace' state indefinitely."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-15T17:01:06+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzQxMnNCeVdseGFaSHMyNzRiR3F5eGNwVTA1cUlFVHFkQmRUT24zVENMYzNlaHJDQ1JGOWRTMEFpX0ZTc29UYWNxRDJ2eUxSdHFQckNpTmpFSS1rY0FMQnlJdV85cWR0dDZSanQzTFU2Q2pidGpaLTY2WG45UksyeEVSSTVjOVdELVdzNUlxYXBfM0tvSmhLQUhYNy1NNEU?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_military_posture_2026-11-15"
+  },
+  {
     "id": "auto-61120",
     "headline": {
       "ja": "ベルゴロド州でウクライナドローン攻撃により民間人3人負傷",
@@ -231,6 +346,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_belgorod_drone_attack_2026-11-15"
+  },
+  {
+    "id": "auto-60980",
+    "headline": {
+      "ja": "イラン、新攻撃への報復は「限定的でない」と警告",
+      "en": "Iran warns its response to any new attack 'will not be limited or short-lived'"
+    },
+    "summary": {
+      "ja": "イラン政府は、新たな攻撃に対する報復は「限定的でなく長引く」ことになると警告した。",
+      "en": "Iran warned that its response to any new attack will not be limited or short-lived."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-15T14:16:59+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2RiekM1T0x5ZGU0cXdjMWNkb1dxV29ENHA1QWhCbmtNQnR1ZnVja1hiX0tZWlVoMkpDODRKRnFCS05ZMGhTSnVFdmYyU3lJTHE4LTYweXJwRkg3T3Nqc1h2UzdWSi1sMUhRVGoxSlhBdmZZRTRRRGZPQXJUN3lfVkV1dVhRZjBjSW0wOUszWUlRcW9mUmc5RUttUnpqekZJSmlKTnBTWFQ0bEZjSGx5elk5elRtQUo3WTVCcTV5RQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_military_response_warning_2026-11-15"
   },
   {
     "id": "auto-60653",
@@ -3871,98 +4009,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iraq_khor_mor_drone_attack_2026-11-10"
-  },
-  {
-    "id": "auto-52898",
-    "headline": {
-      "ja": "トルコ製鋼工場で爆発、17人以上が死亡",
-      "en": "Turkey steel factory blast kills at least 17 people"
-    },
-    "summary": {
-      "ja": "トルコのアリアガにあるハバス・デミル・チェリク製鋼工場で爆発が発生し、少なくとも17人が死亡した。目撃者によると爆発は大きく、地震と間違うほどの揺れが感じられたという。",
-      "en": "A major explosion at the Habas Demir Celik steel factory in Aliaga, Turkey, killed at least 17 people. Eyewitnesses reported significant ground shaking and widespread damage."
-    },
-    "category": "disaster",
-    "country": "トルコ",
-    "lat": 38.7998,
-    "lon": 26.972,
-    "occurredAt": "2026-11-09T20:42:04+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "turkey_aliaga_steel_factory_explosion_2026-11-09"
-  },
-  {
-    "id": "auto-52936",
-    "headline": {
-      "ja": "イラン革命防衛隊、弾道ミサイルの射程制限を解除",
-      "en": "Iran's IRGC lifts self-imposed ballistic missile range limit"
-    },
-    "summary": {
-      "ja": "イランのイスラム革命防衛隊(IRGC)が、弾道ミサイルに設けていた自主制限の2000km上限を解除した。この決定は地政学的な緊張を大きく高める可能性がある。",
-      "en": "Iran's Islamic Revolutionary Guard Corps has lifted the self-imposed 2000km range limit on ballistic missiles. The decision significantly escalates regional tensions."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-09T19:13:08+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20720"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "iran_irgc_missile_range_limit_removal_2026-11-09",
-    "severity": 4
-  },
-  {
-    "id": "auto-52595",
-    "headline": {
-      "ja": "シリアとヨルダンが11の協定に署名、空爆対応を協議",
-      "en": "Syria and Jordan sign 11 agreements, discuss response to deadly airstrikes"
-    },
-    "summary": {
-      "ja": "シリアとヨルダンが二国間の協定11件に署名した。同時に空爆による被害への対応が協議されている。",
-      "en": "Syria and Jordan signed 11 bilateral agreements. Response to deadly airstrikes was discussed simultaneously."
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 33.5102,
-    "lon": 36.2913,
-    "occurredAt": "2026-11-09T18:03:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NNWhHRFZfTnhXcXFraVdvUWVlNkYtNEJ0WGtReHQ0NG5hTGI2MU9zSFFQRUxIOFYtS2hOZjJUTF8zVTJyd2pyMXhka0JabGxHSWZ1akhIMUFMbFhrRWU4SjZGWGhwZGlvcnFrWUxCY3lZT3hfTy1DWXZPbnQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "syria_jordan_agreement_airstrikes_2026-11-09"
-  },
-  {
-    "id": "auto-52730",
-    "headline": {
-      "ja": "ウクライナ原発職員がドローン攻撃で殺害、国連が非難",
-      "en": "UN nuclear watchdog condemns drone attacks killing Ukrainian power plant workers"
-    },
-    "summary": {
-      "ja": "ウクライナの原発でドローン攻撃により職員2名が殺害された。国連原子力機関(IAEA)はこの攻撃を非難する声明を発表した。",
-      "en": "Two power plant workers in Ukraine were killed in drone attacks. The UN's International Atomic Energy Agency (IAEA) condemned the attacks."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-09T15:30:11+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmQ1dzNsTEU0RU11cGZDUERyMXg5ZFMxQW5kRG4tdE8wOVRfUFNoeEZmakI5em5qUHplT2wtaEM1Q2g2MEJOcVc4WUZGTzBMTHhRTkUxVUg3R0dvUUYxV214WWRCZnhob0VYdWg5Z3F0Ml9CdENuLW1nRUdZQUdEYThDSG05QUlkUlNhSkpXM2tzR0lzY2lnUzB5aTA0MnZJaXkwWWRjVXB5aEJnbTV3Y2MzTllzYnhpZGZvbWwxZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_power_plant_drone_attack_2026-11-09"
   }
 ]
