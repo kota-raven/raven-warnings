@@ -150,6 +150,30 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-15-us-000192",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS North Dakota",
+    "shipNumber": "SSN-784",
+    "shipType": "submarine",
+    "position": {
+      "area": "Pearl Harbor",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米バージニア級原子力潜水艦「ノース・ダコタ」がパールハーバーに到着し第1潜水戦隊に編入された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37542/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-15T00:00:00Z"
+  },
+  {
     "id": "2026-11-14-cn-000185",
     "recordType": "individual",
     "country": "CN",
@@ -270,6 +294,78 @@
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
+    "id": "2026-11-13-us-000188",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "Indian Ocean",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "シンガポールからインド洋への派遣任務を継続中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-us-000189",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Chosin",
+    "shipNumber": "CG-65",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Indian Ocean",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "シンガポールからインド洋への派遣任務を継続中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-us-000191",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Decatur",
+    "shipNumber": "DDG-73",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Indian Ocean",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "シンガポールからインド洋への派遣任務を継続中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
     "id": "2026-11-13-us-000177",
     "recordType": "individual",
     "country": "US",
@@ -289,6 +385,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-11T21:21:25+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-us-000190",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Paul Hamilton",
+    "shipNumber": "DDG-60",
+    "shipType": "destroyer",
+    "position": {
+      "area": "South China Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "シンガポールから南シナ海への派遣任務を継続中",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/13/usni-news-western-pacific-pulse-nov-13-2026"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-13T00:00:00Z"
@@ -340,6 +460,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "2026-11-12-us-000193",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Michael Murphy",
+    "shipNumber": "DDG-112",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Pearl Harbor",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "約11か月の中東派遣任務(エピック・フューリー作戦)を終えてパールハーバーに帰港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37538/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-12T00:00:00Z"
   },
   {
     "id": "2026-11-11-jp-000115",
@@ -409,8 +553,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-09T21:00:00+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-09T00:00:00Z"
   },
   {
@@ -1273,8 +1417,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-01T00:00:00Z"
   },
   {
@@ -1954,7 +2098,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-27T21:21:45.280465+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-26T00:00:00Z"
   },
   {
@@ -3500,7 +3644,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-15T21:21:28.440302+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-13T19:11:00Z"
   },
   {
