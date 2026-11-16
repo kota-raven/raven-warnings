@@ -1,72 +1,5 @@
 [
   {
-    "id": "2026-11-13-06",
-    "headline": {
-      "ja": "日経平均、半導体株買い戻しで反発 香港株はエヌビディア混乱の余波で続落(11月13日)",
-      "en": "Nikkei rebounds on chip-stock buybacks while Hong Kong extends fall after Nvidia leadership shake-up (Nov 13)"
-    },
-    "summary": {
-      "ja": "2026年11月13日、東京株式市場で日経平均株価は前日比322.99円高の61,142.35円で取引を終え、反発したという。前日12日の米国市場でエヌビディアがジェンセン・フアン最高経営責任者(CEO)の辞任を発表し半導体関連株が売られたことを受け、朝方は押し目買いが先行したものの、後場には上げ幅を縮小したという。一方、香港株式市場ではハンセン指数が続落し、前日の取引で1.3%安となった流れを受けて13日の取引でも下落して始まったという。中国系AI関連株は、米国による対中半導体規制強化への懸念から売られる一方、国産代替への期待から中国本土の半導体関連株には買いが入ったとの報道もあるという。推測:本稿執筆時点で東京以外の市場の最終的な終値は確定していない。[信頼性: 高](財経新聞、Investing.com、RTHK、Business Recorderなど、2026年11月13日時点で複数の独立メディアが同様の内容を報じている)",
-      "en": "On November 13, 2026, Tokyo's Nikkei 225 reportedly closed up 322.99 points at 61,142.35, rebounding as investors bought back chip-related shares that had sold off after Nvidia announced CEO Jensen Huang's resignation in US trading the previous day, though gains narrowed in the afternoon session. Meanwhile, Hong Kong's Hang Seng Index reportedly extended its decline, opening lower on November 13 after falling 1.3% the prior session; Chinese AI-linked shares were reportedly sold on concerns over tightened US chip export restrictions to China, while some mainland Chinese chip stocks reportedly gained on hopes for domestic substitution. Speculation: final closing figures for markets outside Tokyo were not yet confirmed as of this writing. [Reliability: High] (Multiple independent outlets including Zaikei Shimbun, Investing.com, RTHK and Business Recorder reported consistent details as of November 13, 2026.)"
-    },
-    "category": "economy",
-    "country": "Japan",
-    "region": "東京都",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-13T06:00:00+00:00",
-    "source": {
-      "name": "財経新聞",
-      "url": "https://www.zaikei.co.jp/article/20261113/877508.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-13-07",
-    "headline": {
-      "ja": "イラン、ホルムズ海峡でLNGタンカーが機雷に触れ爆発と発表(金曜)",
-      "en": "Iran says LNG tanker hit mine, exploded in Strait of Hormuz (Friday)"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)海軍は、ホルムズ海峡で許可されていない南方の航路を無許可航行していたLNG(液化天然ガス)タンカー1隻が、警告を無視したため機雷に触れて爆発したと発表したという(11月13日・金曜日付)。船名・船籍は示されていない。Reuters(Arab News・Alarabiya等配信)によると、船の詳細は直ちには判明していないという。推測:原因(機雷か否か)はイラン側発表のみに基づき、独立した確証は得られていない。既報(id: 2026-11-13-03、11月11〜12日のタンカー4隻爆発)に続く、ホルムズ海峡での攻撃応酬継続の一環と判断した。[信頼性: 中](Reuters・Arab News・Alarabiya等複数の媒体がイラン側発表を報じているが、第三者による独立確証は得られていない)",
-      "en": "Iran's IRGC Navy said an LNG (liquefied natural gas) tanker that was taking an unauthorized southern route through the Strait of Hormuz hit a sea mine and exploded after ignoring warnings, in an announcement dated Friday, November 13. The vessel's name and flag were not given. Reuters (via Arab News, Alarabiya, and others) reported no details on the tanker were immediately available. Speculation: the cause (mine or otherwise) rests solely on Iran's own account and has not been independently verified. Assessed as a continuation of the ongoing pattern of attacks in the Strait of Hormuz following the previously reported incident (id: 2026-11-13-03, four tankers struck Nov 11-12). [Reliability: Medium] (Reported by Reuters, Arab News, Alarabiya and others relaying Iran's statement, but not independently corroborated)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-13T06:00:00+00:00",
-    "source": {
-      "name": "Reuters(Arab News配信)",
-      "url": "https://www.arabnews.com/middle-east/iran-says-lng-tanker-hit-mine-suffered-explosion-in-hormuz-3011666"
-    },
-    "reliability": "medium",
-    "severity": 2
-  },
-  {
-    "id": "2026-11-15-01",
-    "headline": {
-      "ja": "ロシア、11月13日(金)にウクライナ各地(オデーサ・ザポリージャ・ハルキウ各州)を攻撃 計3人以上死亡・20人超負傷",
-      "en": "Russia strikes Ukraine's Odesa, Zaporizhzhia and Kharkiv regions on Nov 13, killing at least 3 and wounding over 20"
-    },
-    "summary": {
-      "ja": "11月13日(金)、ロシア軍によるドローン・ミサイル攻撃がウクライナのオデーサ州・ザポリージャ州・ハルキウ州など複数地域を襲った。複数メディア・地方当局の発表によれば、計3人以上が死亡、20人超が負傷。オデーサ州では民家への攻撃で2人が死亡、5人が負傷(重傷2人含む)。ザポリージャ州では、ロイター通信は死者1人・負傷50人超と報じ、Meduzaは17歳の少女が死亡、子供5人を含む13人が負傷したと報じるなど、報道により被害集計に幅がある。ハルキウ州でも子供を含む7人が負傷したとの報道がある。",
-      "en": "On Friday, Nov 13, Russian drone and missile strikes hit multiple Ukrainian regions including Odesa, Zaporizhzhia and Kharkiv. Multiple outlets and regional officials reported at least 3 people killed and more than 20 injured overall. In Odesa region, a strike on a private residence killed 2 and injured 5 (2 seriously). In Zaporizhzhia region, Reuters reported 1 killed and over 50 injured, while Meduza reported a 17-year-old girl killed and 13 injured including 5 children; casualty counts vary by source. Kharkiv region also reported 7 injured, including children."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ザポリージャ州",
-    "lat": 47.8388,
-    "lon": 35.1396,
-    "occurredAt": "2026-11-13T06:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent / Meduza / Euronews(複数報道の集約)",
-      "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-14-01",
     "headline": {
       "ja": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダーを破壊と発表 米中央軍は否定、無人機2機撃墜と説明",
@@ -151,5 +84,26 @@
       "url": "https://www.rferl.org/a/russia-attacks-kyiv-ukraine-invasion-deaths/33591664.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-16-01",
+    "headline": {
+      "ja": "ナスダック急落・AI半導体不安でアジア株全面安、韓国KOSPIが急落(11月16日月曜)",
+      "en": "Asian shares broadly fall on Nvidia-linked AI chip jitters; South Korea's Kospi leads declines (Monday, Nov 16)"
+    },
+    "summary": {
+      "ja": "2026年11月16日(月)、先週のエヌビディア最高経営責任者(CEO)辞任を受けたAI関連株への懸念が続く中、アジア株式市場は総じて下落したという。複数の報道(AP通信配信記事、Investing.com、FXStreet等)によれば、韓国総合株価指数(KOSPI)はSKハイニックス・サムスン電子など半導体株が売られ、約3%台半ば下落(ある報道では前日比約3.6%安・5,100.25で取引)、外国人投資家がKOSPI株を大幅売り越ししたとされる。日経平均株価もハイテク・半導体関連株中心に下落(報道により下落率に幅があり、約1.7〜2.3%程度の下げ幅とされる)、台湾加権指数は約3.9%安と報じられている。一方、香港ハンセン指数は約0.5%高・23,759.37で推移したとの報道があり、上海総合指数は中国の弱い経済指標を受けて約1%安とされる。背景として、ジェンスン・フアン氏のエヌビディアCEO辞任(不倫問題に伴う米国家安全保障上の懸念が理由とされる)以降、エヌビディア株が6週連続安(2012年10月以来の長さ)となったこと、11月18日(火、米東部時間)に予定されるエヌビディア決算発表への警戒、Anthropic社の大型株式上場(IPO)を控えていることなどが挙げられている。推測:指数の下落幅・終値については報道(通信社配信記事の各掲載媒体版)間で数値の食い違いが見られ、取引時間中の暫定値を含む可能性がある。[信頼性: 中](AP通信配信記事〔KSAT、ABC News、WFTV等複数媒体掲載〕、Investing.com、FXStreet、BeInCrypto等が2026年11月16日の報道として伝えているが、具体的な数値には媒体間で差がある)",
+      "en": "On Monday, November 16, 2026, Asian equity markets reportedly fell broadly as concerns over AI-related stocks persisted following Nvidia CEO Jensen Huang's resignation last week. Multiple reports (an AP wire story carried by several outlets, Investing.com, FXStreet, and others) say South Korea's Kospi index led declines, dropping roughly 3% to the mid-3% range (one version put it at about -3.6% to 5,100.25) as chip stocks SK Hynix and Samsung Electronics were sold off, with foreign investors reportedly net sellers of a large volume of Kospi shares. Japan's Nikkei 225 also fell, led by tech and chip-related names, though reported declines vary (roughly 1.7% to 2.3% depending on the source). Taiwan's benchmark index was reported down about 3.9%. By contrast, some reports say Hong Kong's Hang Seng index rose about 0.5% to 23,759.37, while Shanghai's Composite Index fell about 1% on weak Chinese economic data. Background cited includes Nvidia's six consecutive weekly stock declines (the longest such streak since October 2012) following Huang's resignation amid reported US national-security concerns tied to an extramarital affair; investor caution ahead of Nvidia's earnings report expected Tuesday, November 18 (US Eastern time); and anticipation of Anthropic's major stock market IPO. Speculation: exact index levels and percentage declines differ across syndicated versions of the same wire report, and some figures may reflect intraday rather than closing values. [Reliability: Medium] (Reported as of November 16, 2026 by an AP wire story carried across multiple outlets including KSAT and ABC News affiliates, plus Investing.com, FXStreet and BeInCrypto, though specific figures vary between outlets)"
+    },
+    "category": "economy",
+    "country": "韓国",
+    "lat": 35.9078,
+    "lon": 127.7669,
+    "occurredAt": "2026-11-16T06:00:00+00:00",
+    "source": {
+      "name": "AP通信(KSAT/ABC News等配信)・Investing.com・FXStreet",
+      "url": "https://www.ksat.com/business/2026/11/16/stocks-decline-in-asia-as-concerns-over-the-nvidia-fallout-persist/"
+    },
+    "reliability": "medium"
   }
 ]
