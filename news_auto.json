@@ -70,6 +70,146 @@
     "severity": 4
   },
   {
+    "id": "auto-60666",
+    "headline": {
+      "ja": "Eisenkot、ネタニヤフ首相の継続を批判",
+      "en": "Eisenkot says Netanyahu cannot remain Israel PM amid vote meddling"
+    },
+    "summary": {
+      "ja": "イスラエルの政治家Eisenkotは、選挙への不正な干渉疑惑を理由にネタニヤフ首相の辞任を要求した。",
+      "en": "Eisenkot calls for Netanyahu's resignation following allegations of unauthorized election interference."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-16T00:01:45+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_netanyahu_election_meddling_2026-11"
+  },
+  {
+    "id": "auto-60667",
+    "headline": {
+      "ja": "イラン、米国攻撃警告、Theodore Roosevelt母艦中東到着",
+      "en": "Iran warns it could strike first as third US carrier arrives"
+    },
+    "summary": {
+      "ja": "米国のTheodore Roosevelt空母がペルシア湾に到着した一方、イラン政府は先制攻撃も辞さないと警告した。",
+      "en": "USS Theodore Roosevelt carrier arrives in Middle East as Iran warns of potential preemptive strike."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-16T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_usa_tensions_2026-11",
+    "severity": 4
+  },
+  {
+    "id": "auto-60670",
+    "headline": {
+      "ja": "豪加伊英、イスラエルのガザ援助阻止を非難",
+      "en": "Australia, Canada, Italy, UK call for Israel to allow humanitarian aid to Gaza"
+    },
+    "summary": {
+      "ja": "オーストラリア、カナダ、イタリア、イギリスはイスラエルがガザへの援助物資（テント等）の搬入を阻止していると非難した。",
+      "en": "Four Western nations condemn Israel for preventing humanitarian supplies from entering Gaza."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-15T22:06:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_humanitarian_aid_2026-11"
+  },
+  {
+    "id": "auto-60672",
+    "headline": {
+      "ja": "フーシ派、600人の戦争捕虜を一方的に解放",
+      "en": "Yemen Houthis unilaterally release 600 war detainees"
+    },
+    "summary": {
+      "ja": "イエメンのフーシ派勢力は、内戦中に投獄されていた600人を一方的に解放した。",
+      "en": "Houthi forces in Yemen have unilaterally released 600 people detained during the civil war."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-15T21:19:08+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthis_detainee_release_2026-11"
+  },
+  {
+    "id": "auto-60675",
+    "headline": {
+      "ja": "イスラエルのガザ停戦実施を強制する者は誰か",
+      "en": "Who can force Israel to implement Gaza ceasefire"
+    },
+    "summary": {
+      "ja": "パレスチナ領土にはハリケーンが襲来し、イスラエルは人道支援物資の搬入を制限し続けている。",
+      "en": "Storms hit Palestinian territory while Israel continues to restrict humanitarian aid entry into Gaza."
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-15T20:37:43+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "israel_gaza_ceasefire_enforcement_2026-11"
+  },
+  {
+    "id": "auto-60678",
+    "headline": {
+      "ja": "アフリカCDC、DR Congo Ebola感染は制御下にない",
+      "en": "Africa CDC warns Ebola outbreak in DR Congo 'still not under control'"
+    },
+    "summary": {
+      "ja": "アフリカCDCは、コンゴ民主共和国でのエボラ感染が制御下にあると述べ、対策を講じないと過去最悪の流行になる可能性があると警告した。",
+      "en": "Africa CDC warns that if the Ebola outbreak in DR Congo is not stopped, it could become the worst outbreak on record."
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "occurredAt": "2026-11-15T20:07:06+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "drc_ebola_outbreak_2026-11",
+    "severity": 4
+  },
+  {
     "id": "auto-61120",
     "headline": {
       "ja": "ベルゴロド州でウクライナドローン攻撃により民間人3人負傷",
