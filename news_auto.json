@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-60657",
+    "headline": {
+      "ja": "タイ・プーケットの商業ビル火災で11人以上死亡",
+      "en": "Shophouse fire kills at least 11 in Phuket"
+    },
+    "summary": {
+      "ja": "タイの観光地パトンにおいて、複数のビルが火災に覆われ、複数人が死亡し多くの人が負傷した。",
+      "en": "Fire engulfed multiple buildings in Thailand's Patong tourist area, killing several people and injuring many others."
+    },
+    "category": "disaster",
+    "country": "タイ",
+    "lat": 7.8906,
+    "lon": 98.3981,
+    "occurredAt": "2026-11-16T03:51:43+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "thailand_phuket_fire_2026-11-16"
+  },
+  {
+    "id": "auto-60658",
+    "headline": {
+      "ja": "ASEAN・中国、南シナ海行動規範で合意に至らず",
+      "en": "ASEAN and China fail to reach South China Sea code agreement"
+    },
+    "summary": {
+      "ja": "東南アジア指導者らはミャンマーでの暴力を非難し、同国の指導者の首脳会議参加禁止措置を延長した。",
+      "en": "Southeast Asian leaders denounced violence in Myanmar and extended a ban on the country's leader attending bloc summits."
+    },
+    "category": "conflict",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-11-16T02:46:35+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "asean_china_south_china_sea_2026-11"
+  },
+  {
+    "id": "auto-60659",
+    "headline": {
+      "ja": "フーシ派がイエメン政府軍の最後の要塞を脅かす",
+      "en": "Houthis advance in Yemen as government forces defend Aden"
+    },
+    "summary": {
+      "ja": "イエメンではフーシ派勢力が進攻し、政府軍が支配下のアデンを防衛するため動員されている。",
+      "en": "Houthi armed group advances threaten one of the government's last strongholds in Yemen."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-11-16T02:22:29+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthis_aden_offensive_2026-11",
+    "severity": 4
+  },
+  {
     "id": "auto-61120",
     "headline": {
       "ja": "ベルゴロド州でウクライナドローン攻撃により民間人3人負傷",
@@ -21,6 +91,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_belgorod_drone_attack_2026-11-15"
+  },
+  {
+    "id": "auto-60653",
+    "headline": {
+      "ja": "バーレーン、イランの領土攻撃を非難",
+      "en": "Bahrain accuses Iran of territorial attack"
+    },
+    "summary": {
+      "ja": "バーレーンはイランによる領土への攻撃を非難し、イランが米国と協力する国への報復攻撃を正当化していると指摘した。",
+      "en": "Bahrain condemned Iranian attacks on its territory, stating Iran is retaliating against countries cooperating with the US."
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.2279,
+    "lon": 50.5857,
+    "occurredAt": "2026-11-15T12:36:19+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iran_bahrain_missile_attack_2026-11"
   },
   {
     "id": "auto-60053",
@@ -114,6 +207,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_donbas_nato_negotiation_2026-11-15"
+  },
+  {
+    "id": "auto-60590",
+    "headline": {
+      "ja": "ウクライナ製固定翼ドローン1065機撃墜",
+      "en": "Russian military downs 1,065 Ukrainian drones"
+    },
+    "summary": {
+      "ja": "ロシア国防省は、ウクライナ軍の固定翼ドローン1065機を撃墜したと発表した。",
+      "en": "Russian Defense Ministry claims to have shot down 1,065 Ukrainian fixed-wing drones."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-15T10:28:21+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkTEV5Qm1HVV9rcUs4ekpsMjlxYzdEbkRGY2dkZUprcG9nUEcxdlBNRDZvdnpwbTVxY2Zwa0dnWkZUQ3lGSTFZMVJjWmPSAUxBVV95cUxQZExFeUJtR1Vfa3FLOHpKbDI5cWM3RG5ERmNnZGVKa3BvZ1BHMXZQTUQ2b3Z6cG01cWNmcGtHZ1pGVEN5RkkxWTFSY1pj?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_warfare_2026-11"
   },
   {
     "id": "auto-60063",
