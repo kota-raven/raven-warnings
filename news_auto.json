@@ -92,6 +92,30 @@
     "eventKey": "indonesia_offshore_earthquake_6_6_2026-11-17"
   },
   {
+    "id": "auto-62238",
+    "headline": {
+      "ja": "コンゴのエボラ出血熱、5,568名が死亡・11,000名以上が感染",
+      "en": "Ebola outbreak in Congo claims 5,568 lives with over 11,000 infections"
+    },
+    "summary": {
+      "ja": "コンゴ民主共和国でエボラ出血熱が大流行。死者数は5,568名、感染者数は11,000名以上に達した。重大な公衆衛生上の危機。",
+      "en": "Ebola epidemic in Democratic Republic of Congo reaches critical level with 5,568 deaths and over 11,000 confirmed infections"
+    },
+    "category": "disaster",
+    "country": "コンゴ民主共和国",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "occurredAt": "2026-11-16T23:20:43+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDYtSV92YmdFUU9acjFfbmw4TFk5QnFzS0pxQTl3Vk00QmlZSEIwR1R4QXFXa0otVU05dnVCcW10THdoLS1Jbkd3Q2xMMzVTZm1kWndpbWg2LU1WZ28xUEkxS3UzQTZMRmMtTndKSUxyRFhSRVBvMVg5Wnc5OE84RmRVR2RPYVVfcl9J?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "congo_ebola_epidemic_2026-11-16",
+    "severity": 4
+  },
+  {
     "id": "auto-61918",
     "headline": {
       "ja": "キーウへの弾道ミサイル攻撃、市民が夜間警報に対応",
@@ -159,6 +183,29 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_drone_attack_record_2026-11-16"
+  },
+  {
+    "id": "auto-61504",
+    "headline": {
+      "ja": "南アフリカで連続銃撃事件、17名死亡",
+      "en": "Two mass shootings in South Africa leave 17 dead"
+    },
+    "summary": {
+      "ja": "南アフリカのクワズール・ナタール州とゴーテン州で連続銃撃事件が発生し、17名が死亡。同国の暴力犯罪が深刻であることを示している。",
+      "en": "Mass shootings in South Africa's KwaZulu-Natal and Gauteng provinces result in 17 deaths"
+    },
+    "category": "disaster",
+    "country": "南アフリカ",
+    "lat": -25.7449,
+    "lon": 28.1878,
+    "occurredAt": "2026-11-16T10:57:48+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "south_africa_mass_shooting_2026-11-16"
   },
   {
     "id": "auto-61596",
