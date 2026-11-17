@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T20:19:25.196Z",
+  "generatedAt": "2026-11-17T03:42:47.263Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 196,
+  "count": 198,
   "warnings": [
     {
       "id": "NAVAREA11-260515",
@@ -338,6 +338,178 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264551",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4551",
+      "title": "アラビア海、海底線作業",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4551   発表日時:2026年11月17日 08時\r\n\n\r\n★ アラビア海、\r\r\n海底線作業、M/V LADY GRACE、11月21日まで、\r\r\nM/V MT RAAJ1及びM/V DB MARINE1、11月30日まで、\r\r\n19-03.45N 072-40.64E 19-01.07N 072-32.77E\r\r\n18-04.69N 070-50.32Eを結ぶ線上付近。\r\r\n(4397削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264551&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264550",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4550",
+      "title": "インド西岸、海底管作業",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4550   発表日時:2026年11月17日 08時\r\n\n\r\n★ インド西岸、\r\r\nM/V FUGRO MAPPER、M/V ORION LAXMI、M/V DSV \r\r\nSEAMEC PRINCESS、M/V SEAMEC 2による海底管作業、\r\r\n12月17日まで、20-21.93N 071-18.12E\r\r\n20-27.62N 072-27.79E 20-00.87N 072-27.20E\r\r\n20-01.97N 071-19.79Eで囲まれる海面。\r\r\n(4345削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264550&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264549",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4549",
+      "title": "インド洋、宇宙ゴミ落下に関する情報削除",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4549   発表日時:2026年11月17日 08時\r\n\n\r\n★ インド洋、\r\r\n宇宙ゴミ落下に関する情報削除。\r\r\n(4429削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264549&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264548",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4548",
+      "title": "オーストラリア南西、ロケット打上げに関する情報削除",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4548   発表日時:2026年11月17日 08時\r\n\n\r\n★ オーストラリア南西、\r\r\nロケット打上げに関する情報削除。\r\r\n(4526削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264548&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264547",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "漂流物等",
+      "number": "4547",
+      "title": "南太平洋、遺棄船漂流",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4547   発表日時:2026年11月17日 08時\r\n\n\r\n★ 南太平洋、\r\r\n遺棄船(長さ37メートル)漂流、11月16日1040Z、\r\r\n13-47.31S 164-09.60W付近。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264547&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264546",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4546",
+      "title": "北太平洋東部、ロケット打上げ",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -118.95,
+            31.183333333333334
+          ],
+          [
+            -119.76666666666667,
+            32.733333333333334
+          ],
+          [
+            -120.75,
+            34.6
+          ],
+          [
+            -120.7,
+            34.65
+          ],
+          [
+            -120.66666666666667,
+            34.666666666666664
+          ],
+          [
+            -120.63333333333334,
+            34.68333333333333
+          ],
+          [
+            -120.36666666666666,
+            34.6
+          ],
+          [
+            -118.61666666666666,
+            31.383333333333333
+          ],
+          [
+            -118.61666666666666,
+            31.016666666666666
+          ],
+          [
+            -118.68333333333334,
+            30.95
+          ],
+          [
+            -118.61666666666666,
+            31.033333333333335
+          ],
+          [
+            -118.33333333333333,
+            31.033333333333335
+          ],
+          [
+            -117.76666666666667,
+            30.683333333333334
+          ],
+          [
+            -117.7,
+            30.433333333333334
+          ],
+          [
+            -118.01666666666667,
+            30.066666666666666
+          ],
+          [
+            -118.33333333333333,
+            30.05
+          ],
+          [
+            -118.86666666666666,
+            30.4
+          ],
+          [
+            -118.93333333333334,
+            30.666666666666668
+          ],
+          [
+            -118.03333333333333,
+            29.616666666666667
+          ],
+          [
+            -117.98333333333333,
+            29.516666666666666
+          ],
+          [
+            -118.05,
+            29.533333333333335
+          ]
+        ]
+      },
+      "rawText": "番号:26-4546   発表日時:2026年11月17日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nロケット打上げ、\r\r\n(1)11月21日1230Z-1325Z(予備22日1216Z-1311Z、\r\r\n   23日1202Z-1257Z、24日1148Z-1243Z、\r\r\n   25日1135Z-1230Z、26日1121Z-1216Z、\r\r\n   27日1107Z-1202Z)、\r\r\n   31-11N 118-57W 32-44N 119-46W\r\r\n   34-36N 120-45W 34-39N 120-42W\r\r\n   34-40N 120-40W 34-41N 120-38W\r\r\n   34-36N 120-22W 31-23N 118-37W\r\r\n   31-01N 118-37W 30-57N 118-41W、\r\r\n(2)11月21日1230Z-1343Z(予備22日1216Z-1329Z、\r\r\n   23日1202Z-1315Z、24日1148Z-1301Z、\r\r\n   25日1135Z-1248Z、26日1121Z-1234Z、\r\r\n   27日1107Z-1220Z)、   \r\r\n   31-02N 118-37W 31-02N 118-20W\r\r\n   30-41N 117-46W 30-26N 117-42W\r\r\n   30-04N 118-01W 30-03N 118-20W\r\r\n   30-24N 118-52W 30-40N 118-56W、\r\r\n(3)11月21日1230Z-1325Z(予備22日1216Z-1311Z、\r\r\n   23日1202Z-1257Z、24日1148Z-1243Z、\r\r\n   25日1135Z-1230Z、26日1121Z-1216Z、\r\r\n   27日1107Z-1202Z)\r\r\n   29-37N 118-02W 29-31N 117-59W\r\r\n   29-32N 118-03W、\r\r\nで囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264546&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264545",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4545",
+      "title": "北太平洋東部、海底線作業",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4545   発表日時:2026年11月17日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nM/V GRACEによる海底線作業、11月22日2000Zまで、\r\r\n39-26.17N 126-11.86W 40-06.66N 126-29.70W\r\r\nを結ぶ線上付近。\r\r\n(4455削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264545&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264544",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -608,38 +780,6 @@
       },
       "rawText": "番号:26-4527   発表日時:2026年11月15日 08時\r\n\n\r\n★ カリフォルニア、\r\r\n危険な訓練、11月19日(予備20日)0100Z-1600Z、\r\r\n(1)33-00N 119-19W\r\r\n   32-23N 123-11W\r\r\n   33-03N 123-19W\r\r\n   33-33N 119-21W、\r\r\n(2)32-16N 126-04W\r\r\n   31-54N 125-59W\r\r\n   31-40N 127-13W\r\r\n   32-01N 127-17W、\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264527&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264526",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4526",
-      "title": "オーストラリア南西、ロケット打上げ",
-      "publishedAt": "2026-11-15T08:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            83.6,
-            -37.8
-          ],
-          [
-            117.03333333333333,
-            -48.083333333333336
-          ],
-          [
-            115.65,
-            -54.71666666666667
-          ],
-          [
-            78.45,
-            -43.18333333333333
-          ]
-        ]
-      },
-      "rawText": "番号:26-4526   発表日時:2026年11月15日 08時\r\n\n\r\n★ オーストラリア南西、\r\r\nロケット打上げ、11月15日1945Z-2042Z(予備16日1924Z-\r\r\n2020Z、17日1902Z-1959Z、18日1841Z-1938Z、\r\r\n19日1820Z-1916Z)、\r\r\n37-48S 083-36E 48-05S 117-02E\r\r\n54-43S 115-39E 43-11S 078-27Eで囲まれる海面。\r\r\n(4512削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264526&LANG=JP"
     },
     {
       "id": "JAPANNW-264523",
@@ -2414,18 +2554,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264462&LANG=JP"
     },
     {
-      "id": "JAPANNW-264455",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4455",
-      "title": "北太平洋東部、海底線作業",
-      "publishedAt": "2026-11-11T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4455   発表日時:2026年11月11日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\nM/V GRACEによる海底線作業、当分の間、\r\r\n39-26.18N 126-11.86W 40-06.66N 126-29.70W\r\r\nを結ぶ線上付近。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264455&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264452",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2590,122 +2718,6 @@
       },
       "rawText": "番号:26-4434   発表日時:2026年11月10日 08時\r\n\n\r\n★ インド東岸、\r\r\nM/V SW DUCHESSによる地質調査作業、11月24日まで、\r\r\n14-12N 081-13E 13-34N 081-51E\r\r\n13-12N 081-26E 13-50N 080-48Eで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264434&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264429",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4429",
-      "title": "インド洋、宇宙ゴミ落下",
-      "publishedAt": "2026-11-10T08:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            70.93333333333334,
-            -24.966666666666665
-          ],
-          [
-            76.98333333333333,
-            -23.05
-          ],
-          [
-            80.95,
-            -21.75
-          ],
-          [
-            87.7,
-            -18.933333333333334
-          ],
-          [
-            93.61666666666666,
-            -16.233333333333334
-          ],
-          [
-            95.43333333333334,
-            -15.266666666666667
-          ],
-          [
-            95.51666666666667,
-            -15.3
-          ],
-          [
-            95.83333333333333,
-            -15.416666666666666
-          ],
-          [
-            96.2,
-            -15.5
-          ],
-          [
-            96.56666666666666,
-            -15.566666666666666
-          ],
-          [
-            97.03333333333333,
-            -15.566666666666666
-          ],
-          [
-            97.23333333333333,
-            -15.55
-          ],
-          [
-            97.55,
-            -15.5
-          ],
-          [
-            97.7,
-            -15.466666666666667
-          ],
-          [
-            97.83333333333333,
-            -15.433333333333334
-          ],
-          [
-            97.96666666666667,
-            -15.4
-          ],
-          [
-            98.05,
-            -15.366666666666667
-          ],
-          [
-            98.18333333333334,
-            -15.316666666666666
-          ],
-          [
-            98.23333333333333,
-            -15.3
-          ],
-          [
-            98.51666666666667,
-            -15.933333333333334
-          ],
-          [
-            96.63333333333334,
-            -17.066666666666666
-          ],
-          [
-            91.03333333333333,
-            -19.933333333333334
-          ],
-          [
-            84.1,
-            -23.033333333333335
-          ],
-          [
-            79.1,
-            -24.983333333333334
-          ],
-          [
-            72.13333333333334,
-            -27.483333333333334
-          ]
-        ]
-      },
-      "rawText": "番号:26-4429   発表日時:2026年11月10日 08時\r\n\n\r\n★ インド洋、\r\r\n宇宙ゴミ落下、11月13日-20日毎日2253Z-翌日0114Z、\r\r\n24-58S 070-56E 23-03S 076-59E\r\r\n21-45S 080-57E 18-56S 087-42E\r\r\n16-14S 093-37E 15-16S 095-26E\r\r\n15-18S 095-31E 15-25S 095-50E\r\r\n15-30S 096-12E 15-34S 096-34E\r\r\n15-34S 097-02E 15-33S 097-14E\r\r\n15-30S 097-33E 15-28S 097-42E\r\r\n15-26S 097-50E 15-24S 097-58E\r\r\n15-22S 098-03E 15-19S 098-11E\r\r\n15-18S 098-14E 15-56S 098-31E\r\r\n17-04S 096-38E 19-56S 091-02E\r\r\n23-02S 084-06E 24-59S 079-06E\r\r\n27-29S 072-08Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264429&LANG=JP"
     },
     {
       "id": "JAPANNW-264427",
@@ -2924,18 +2936,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264410&LANG=JP"
     },
     {
-      "id": "JAPANNW-264397",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4397",
-      "title": "アラビア海、海底線作業",
-      "publishedAt": "2026-11-07T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4397   発表日時:2026年11月07日 08時\r\n\n\r\n★ アラビア海、\r\r\n海底線作業、M/V MT RAAJ1及びM/V DB MARINE1、\r\r\n11月15日まで、M/V LADY GRACE、11月21日まで、\r\r\n19-03.45N 072-40.64E 19-01.07N 072-32.77E\r\r\n18-04.69N 070-50.32Eを結ぶ線上付近。\r\r\n(4232削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264397&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264366",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -2946,18 +2946,6 @@
       "geometry": null,
       "rawText": "番号:26-4366   発表日時:2026年11月05日 20時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V SEVEN SISTERSによる水中作業、当分の間、\r\r\n19-38.85S 19-44.89S 115-43.84E 115-56.08E\r\r\nの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264366&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264345",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4345",
-      "title": "インド西岸、海底管作業",
-      "publishedAt": "2026-11-03T23:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4345   発表日時:2026年11月03日 23時\r\n\n\r\n★ インド西岸、\r\r\nM/V FUGRO MAPPER、M/V ORION LAXMI、M/V DSV \r\r\nSEAMEC PRINCESS、M/V SEAMEC 2による海底管作業、\r\r\n12月3日まで、20-21.93N 071-18.12E\r\r\n20-27.62N 072-27.79E 20-00.87N 072-27.20E\r\r\n20-01.97N 071-19.79Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264345&LANG=JP"
     },
     {
       "id": "JAPANNW-264337",
