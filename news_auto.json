@@ -139,6 +139,29 @@
     "eventKey": "ukraine_kyiv_missile_attack_2026-11-16"
   },
   {
+    "id": "auto-62751",
+    "headline": {
+      "ja": "インドネシア・タニンバル島付近で6.7の地震",
+      "en": "6.7-magnitude earthquake hits Tanimbar Islands Region, Indonesia"
+    },
+    "summary": {
+      "ja": "インドネシアのタニンバル島地域で11月16日、地震庁(GFZ)が観測した6.7の地震が発生した。",
+      "en": "A 6.7-magnitude earthquake struck the Tanimbar Islands region of Indonesia on November 16, according to GFZ."
+    },
+    "category": "disaster",
+    "country": "インドネシア",
+    "lat": -6.2146,
+    "lon": 106.8451,
+    "occurredAt": "2026-11-16T21:20:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlV3QzBlcTh5Vm41UUtGdE9SM0U3LUZqZTlLYnp0eWpseE5fQ0hhREpxalh4LUxzc25fMk1CNWFBMnNjTHRQbE05RHp4OEh4d05qQUZQYmJxbEh6eFJyWHh2Und4WDdXMWIxMElucEVwSEJIY2pGZjBlZjAySXI4bkY0X1R1TXQ5UnB1OQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "indonesia_tanimbar_islands_earthquake_2026-11-16"
+  },
+  {
     "id": "auto-62348",
     "headline": {
       "ja": "モスクワの3空港、ウクライナ無人機攻撃で発着便を運休",
@@ -4101,144 +4124,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "india_usa_strategic_partnership_2026-11-10"
-  },
-  {
-    "id": "auto-53816",
-    "headline": {
-      "ja": "サウジ主導軍とイエメン親イラン派、攻撃が激化",
-      "en": "Attacks escalate between Saudi-led forces and Yemen's Iran-backed Houthis"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の有志連合とイエメンの親イラン・フーシ派による攻撃が激化している。サウジアラビアはフーシ派が発射した複数のミサイルを迎撃したと発表している。",
-      "en": "Attacks between Saudi-led coalition forces and Iran-backed Houthis in Yemen are escalating. Saudi Arabia reported intercepting missiles fired by the Houthis."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-10T13:39:22+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_saudi_houthi_escalation_2026-11-10"
-  },
-  {
-    "id": "auto-54578",
-    "headline": {
-      "ja": "ウクライナとデンマークの指導者、コペンハーゲン大学で学生と会談し欧州防衛支援を協議",
-      "en": "Leaders of Ukraine and Denmark meet with students at University of Copenhagen to discuss European defense support"
-    },
-    "summary": {
-      "ja": "ウクライナとデンマークの指導者がコペンハーゲン大学の学生と会談し、ウクライナ支援とロシアに対する欧州の団結について議論した。",
-      "en": "The leaders of Ukraine and Denmark met with students at the University of Copenhagen to discuss support for Ukraine and European unity against Russia."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-10T13:32:00+00:00",
-    "source": {
-      "name": "ウクライナ 大統領府(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHE1NHI3TFFtSjRFMFY5cFpqcDcxaV9pdXFkY0F2UmJKSjhobkRVVjVGVXk4djJTN0kzZXhwTy1CaXJqM0g3NjFUVzNyd2taOFVQMFhiMmE4cUFKbjlueDAwRThxUUFWN3BtLWNnSzlTYjJRX0JnR1dBZkU1c3hOSzhoY2VRT0VSdDJKT3AxMmVPbkpqczc0Tks2cGxId2FUczBmRE83SQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_denmark_european_defense_2026-11-10"
-  },
-  {
-    "id": "auto-53821",
-    "headline": {
-      "ja": "イラン、弾道ミサイルの2000km射程制限を解除",
-      "en": "Iran lifts 2,000km limit on ballistic missiles"
-    },
-    "summary": {
-      "ja": "イランが弾道ミサイルに自主的に課していた2000kmの射程制限を解除した。この決定により、より遠距離の標的を射程に収めることが可能になり、地域外への脅威も懸念されている。",
-      "en": "Iran has lifted the 2,000km range limit it had placed on ballistic missiles. The move enables strikes on more distant targets and raises concerns about threats extending beyond the Middle East region."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-10T12:56:41+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_ballistic_missile_range_2026-11-10",
-    "severity": 4
-  },
-  {
-    "id": "auto-54067",
-    "headline": {
-      "ja": "ブルガリアで多重衝突事故、11人死亡",
-      "en": "Multiple pile-up accidents kill 11 in Bulgaria"
-    },
-    "summary": {
-      "ja": "ブルガリアで2件の連鎖衝突事故が発生し、少なくとも11人が死亡、48人が負傷した。",
-      "en": "Two pile-up accidents in Bulgaria resulted in at least 11 deaths and 48 injuries."
-    },
-    "category": "disaster",
-    "country": "ブルガリア",
-    "lat": 42.6975,
-    "lon": 23.3241,
-    "occurredAt": "2026-11-10T12:10:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzZkFRWUw2ZDc0bV9KdDRXbU9IeG5iVTFoUDZYZktOVWs1OTZsN0tkaEx0LWRwdHVrOEM2eHBWZzdYTGlhMkd0RWpPQTJVNUs4OXJKdHZWZDBuSU0zaVhPdXNDYmVEcTJUOHlNQ2FVMHItdnJiSGtwMXQtRkw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "bulgaria_pile_up_accidents_2026-11-10"
-  },
-  {
-    "id": "auto-54403",
-    "headline": {
-      "ja": "スーダンでのドローン攻撃が前例のない規模に達する",
-      "en": "Sudan faces unprecedented drone and long-range strike attacks"
-    },
-    "summary": {
-      "ja": "国連児童基金はスーダンでのドローン攻撃が前例のない規模に達していると報告。1500km以上の長距離ドローンを含む攻撃がインフラに深刻な影響を与えている。",
-      "en": "UN reports unprecedented drone attacks on Sudan's infrastructure, including strikes from drones traveling over 1,500 km."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-11-10T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168771"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_drone_infrastructure_attacks_2026-11-10"
-  },
-  {
-    "id": "auto-53966",
-    "headline": {
-      "ja": "フランス政府、イランのサイバー攻撃を認定",
-      "en": "France officially attributes cyber attacks to Iran"
-    },
-    "summary": {
-      "ja": "フランス政府がイランによるサイバー攻撃を公式に認定した。",
-      "en": "French government officially attributes cyber attacks to Iran."
-    },
-    "category": "conflict",
-    "country": "フランス",
-    "lat": 48.8534,
-    "lon": 2.3488,
-    "occurredAt": "2026-11-10T11:58:15+00:00",
-    "source": {
-      "name": "フランス 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObUlsZWN3a3FUWGRGaEh0ekd3dzRzLWp2cEotWWJtTzVjZm1obGgwU1R5ZU1lWjhzUlN4S2hmT0FSTHRhRGI5c0RoSEpxNThDRlZaRHozR1Ntd0ZmR3ptTkN6Q1AxbjBCVUJuUnM1OHNKd2dNOVRSbi03cEdPOEhPcUVlTVU1ZGVoSE9hM05DaXhPZ1JXd3lOZEhRQVg4RHZ1UUd0VVpxX3JfZ3FGTENqb1lsNlBIVzRtOE4tVGgxcXB1YUNjVDVUaUhQVDQySTdXdnlYYTJ5SE91VGlTN1RUbE5mZU15emdOTHM2dg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_cyber_attack_france_2026-11"
   }
 ]
