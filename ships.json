@@ -150,6 +150,30 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-15-cn-000195",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾, 呼倫湖",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "宮古海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍ミサイル駆逐艦斉斉哈爾と高速戦闘支援艦呼倫湖が宮古海峡を南東進し太平洋へ向かった。海自P-1およびP-3Cが警戒監視を実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37524/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-16T21:20:58.982709+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-15T00:00:00Z"
+  },
+  {
     "id": "2026-11-15-us-000192",
     "recordType": "individual",
     "country": "US",
@@ -385,6 +409,30 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-11T21:21:25+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-us-000194",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "North Dakota",
+    "shipNumber": "SSN-784",
+    "shipType": "submarine",
+    "position": {
+      "area": "Pearl Harbor, Hawaii",
+      "lat": 21.3769,
+      "lon": -157.951,
+      "approximate": true
+    },
+    "activity": "バージニア級原子力潜水艦ノース・ダコタがハワイのパールハーバー・ヒッカム統合基地に到着し、第1潜水戦隊に編入された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37542/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-16T21:20:58.982709+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-13T00:00:00Z"
@@ -1249,8 +1297,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
@@ -1273,8 +1321,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
@@ -1297,8 +1345,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-04T21:21:02+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
@@ -1321,8 +1369,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
@@ -1345,8 +1393,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-09T21:00:00+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
@@ -1369,8 +1417,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
@@ -1393,8 +1441,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-03T21:24:59.200855+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T00:00:00Z"
   },
   {
