@@ -1,48 +1,5 @@
 [
   {
-    "id": "2026-11-14-06",
-    "headline": {
-      "ja": "米株式、ハイテク株中心に続落で週を終える エヌビディア52週安値・時価総額4兆ドル割れ、AMDは8%超安(11月13日)",
-      "en": "US stocks end week lower led by tech selloff; Nvidia hits 52-week low, market cap falls below $4 trillion, AMD drops over 8% (Nov 13)"
-    },
-    "summary": {
-      "ja": "2026年11月13日(金)の米国株式市場は、取引終了時点でハイテク株中心に続落して週を終えたという。AMD株は約8.75%安の534.06ドルでS&P500構成銘柄中最大の下落率となり、ブロードコムも約4.8%安だったという。エヌビディア株はさらに下落して52週安値を更新し、時価総額が4兆ドルを割り込んだと報じられている(下落率は報道により2%前後〜3%前後とばらつきがある)。一方、ナスダック総合指数は同日0.91%安だったものの、週間では8月以来最良の週間パフォーマンスになったとも報じられている。推測:エヌビディア株の正確な終値・下落率は報道間で一致していない。[信頼性: 中](Yahoo Finance/AP系(Manila Times等)、TechFlow Post、StockTitanなど複数の金融メディアが2026年11月13日終値として報じているが、数値の細部は媒体間で差がある)",
-      "en": "US stock markets reportedly closed lower on Friday, November 13, 2026, ending the week with a tech-led selloff. AMD shares are reported to have fallen about 8.75% to $534.06, the worst performer in the S&P 500, while Broadcom fell about 4.8%. Nvidia shares reportedly fell further, hitting a 52-week low and pushing the company's market capitalization below $4 trillion (reported declines for Nvidia range from roughly 2% to roughly 3% depending on the outlet). The Nasdaq Composite is reported to have fallen 0.91% on the day, even as it logged its best weekly performance since August. Speculation: the exact closing figures and decline for Nvidia are not consistent across reports. [Reliability: Medium] (Reported as of the November 13, 2026 close by multiple financial outlets including Yahoo Finance/AP-affiliated sites such as Manila Times, TechFlow Post, and StockTitan, though exact figures vary between outlets)"
-    },
-    "category": "economy",
-    "country": "United States",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-13T21:00:00+00:00",
-    "source": {
-      "name": "Yahoo Finance / Manila Times",
-      "url": "https://www.manilatimes.net/2026/11/14/business/foreign-business/wall-street-stocks-mostly-lower-as-nvidia-extends-slump/2469971"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-15-02",
-    "headline": {
-      "ja": "ロシア、11月13日夜〜14日未明にウクライナ各地(キーウ中心に13地点)へ大規模ドローン・ミサイル攻撃 449発中419発を迎撃、死者4〜6人・負傷27人超(報道により差)",
-      "en": "Russia launches massive overnight drone/missile attack on Ukraine (Kyiv-centered, 13 locations hit); 419 of 449 targets downed, 4-6 killed, 27+ injured (tolls vary by source)"
-    },
-    "summary": {
-      "ja": "11月13日夜から14日未明(現地時間)にかけて、ロシア軍がウクライナ各地に大規模なドローン・ミサイル攻撃を行ったという。ウクライナ空軍によれば、ドローン430機・ミサイル19発(弾道ミサイル13発を含む)の計449発が飛来し、シャヘド型ドローン405機を含む419発を迎撃・妨害したとされる。主要な標的はキーウで、キーウ・ハルキウ・オデーサ・ポルタヴァ・チェルカースィ州など13地点で着弾が確認されたという。死傷者数は報道により差があり、TSN(ウクライナ)はキーウ市内で死者4人・負傷27人(妊婦・子供2人含む)と報じ、RFE/RLは死者6人以上、Euromaidan Pressは死者6人・負傷36人と報じている。ゼレンスキー大統領は、スームィ州にジルコン(Zircon)極超音速ミサイルが着弾したと述べたという。ウクライナ側によるロシア・ノヴォロシースク(黒海沿岸、エネルギー関連施設)への攻撃で大きな混乱が生じたとも報じられている。ロシア原子力企業ロスアトムは、ウクライナの無人機がノヴォヴォロネジ原子力発電所を攻撃したと主張しているが、ウクライナ側はこれを確認していない。推測:死傷者数の確定値は報道間で一致していない。[信頼性: 高](Kyiv Independent系・RFE/RL・Euromaidan Press・TSN・ukranews.com・unn.ua等、複数の独立したウクライナ・国際メディアが2026年11月14日の攻撃として報じている)",
-      "en": "Russian forces reportedly carried out a large-scale combined drone and missile attack across Ukraine overnight from Nov 13 into the early hours of Nov 14 (local time). Ukraine's Air Force said 449 aerial targets were launched — 430 drones and 19 missiles, including 13 ballistic — of which 419 (including 405 Shahed-type drones) were shot down or suppressed. Kyiv was reported to be the main target, with impacts recorded at 13 locations across the Kyiv, Kharkiv, Odesa, Poltava and Cherkasy regions. Casualty figures vary by outlet: TSN (Ukraine) reported 4 killed and 27 injured in Kyiv (including a pregnant woman and 2 children), RFE/RL reported at least 6 killed, and Euromaidan Press reported 6 killed and 36 wounded. President Zelensky said a Zircon hypersonic missile struck Sumy region. Separately, a Ukrainian strike on Russia's Black Sea port of Novorossiysk reportedly caused major disruption to energy infrastructure there. Russia's state nuclear operator Rosatom claimed Ukrainian drones attacked the Novovoronezh nuclear power plant, a claim Ukraine has not confirmed. Speculation: exact casualty tolls are not consistent across outlets. [Reliability: High] (Reported as of November 14, 2026 by multiple independent Ukrainian and international outlets including Kyiv Independent-affiliated sites, RFE/RL, Euromaidan Press, TSN, ukranews.com and unn.ua)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ",
-    "lat": 50.4501,
-    "lon": 30.5234,
-    "occurredAt": "2026-11-14T02:00:00+00:00",
-    "source": {
-      "name": "RFE/RL / Euromaidan Press / TSN(複数報道の集約)",
-      "url": "https://www.rferl.org/a/russia-attacks-kyiv-ukraine-invasion-deaths/33591664.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-16-01",
     "headline": {
       "ja": "ナスダック急落・AI半導体不安でアジア株全面安、韓国KOSPIが急落(11月16日月曜)",
@@ -60,6 +17,48 @@
     "source": {
       "name": "AP通信(KSAT/ABC News等配信)・Investing.com・FXStreet",
       "url": "https://www.ksat.com/business/2026/11/16/stocks-decline-in-asia-as-concerns-over-the-nvidia-fallout-persist/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-17-01",
+    "headline": {
+      "ja": "ゼレンスキー氏、米・欧州代表とオンライン協議 ベルリンで「有志連合」との会合へ(11月16日)",
+      "en": "Zelensky says Ukraine held new online talks with US and European officials; sides to meet in Berlin with 'Coalition of the Willing' (Nov 16)"
+    },
+    "summary": {
+      "ja": "2026年11月16日(月)、ゼレンスキー大統領は、米国のウィトコフ特使・クシュナー氏と欧州代表団がオンラインで協議を行ったと述べたという。複数の報道(Bloomberg、South China Morning Post、France24等)によれば、欧州の交渉担当者が初めてオンラインでウクライナ・米側の協議に加わり、戦争終結に向けた戦略を話し合ったとされる。各側は、ウクライナを支援する「有志連合」諸国とともにベルリンで会合することに合意したという。この協議は、米・ウクライナ・ロシア代表団による約9カ月ぶりのアブダビでの3者会談に続くものとされる。ゼレンスキー氏は協議を「容易ではなかった」と述べ、ロシアによる大規模攻撃が近く行われる可能性を警告したという。また、ウクライナの情報機関(HUR)によれば、ロシアは北朝鮮から毎月「数十発」の弾道ミサイルを受け取っているとされる。推測:協議の具体的な合意内容・ベルリン会合の日程は本稿執筆時点では明らかになっていない。[信頼性: 高](Bloomberg、South China Morning Post、France24等複数の国際メディアが2026年11月16日の報道として伝えている)",
+      "en": "On Monday, November 16, 2026, Ukrainian President Volodymyr Zelensky said Ukraine held new online talks with US envoys Steve Witkoff and Jared Kushner and European officials. Multiple outlets (Bloomberg, South China Morning Post, France24) reported that European negotiators joined the US-Ukraine talks online for the first time to discuss strategy for ending the war. All sides reportedly agreed to meet in Berlin together with the 'Coalition of the Willing' countries supporting Ukraine. The talks reportedly followed a trilateral summit in Abu Dhabi involving US, Ukrainian and Russian delegations, the first such meeting in about nine months. Zelensky described the discussion as 'not easy' and warned that a major Russian strike could be imminent. Separately, Ukraine's HUR intelligence directorate said Russia is receiving 'dozens' of North Korean ballistic missiles per month. Speculation: specific agreements reached and the date of the Berlin meeting were not disclosed as of this writing. [Reliability: High] (Reported as of November 16, 2026 by multiple international outlets including Bloomberg, South China Morning Post and France24)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "occurredAt": "2026-11-16T16:00:00+00:00",
+    "source": {
+      "name": "Bloomberg / South China Morning Post / France24",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374650/ukraine-held-new-talks-us-european-officials-peace-prospects-zelensky-says"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-17-02",
+    "headline": {
+      "ja": "米国株、ハイテク株中心に続落 S&P500が3営業日続落・7416.59で終了、エヌビディアは4%超安(11月16日)",
+      "en": "US stocks fall again led by tech shares; S&P 500 closes third straight session lower at 7,416.59, Nvidia drops over 4% (Nov 16)"
+    },
+    "summary": {
+      "ja": "2026年11月16日(月)の米国株式市場は、AI関連・半導体株を中心に下落して取引を終えたという。AP通信の報道によれば、S&P500指数は前日比約1.9%安の7,416.59で終了し、3営業日続けての下落になったとされる。ナスダック総合指数は約2.5%安、エヌビディア株は約4.1%安の156.14ドルで終え、2025年7月1日以来の安値になったと報じられている。AMD株は約5.6%安、半導体ETF(VanEck Semiconductor ETF)も約5.1%安だったという。背景として、中国向け先端AIチップ輸出を一段と制限する米国の新たな暫定規則、およびエヌビディア取締役会がジェンスン・フアン氏のCEO復帰を検討していないとされる報道が挙げられている。エヌビディアの四半期決算発表は、11月17日(火)の取引終了後に予定されているという。推測:下落率・終値の数値は媒体により若干の差がある。[信頼性: 中](BNN Bloomberg(AP通信配信)、CNN、Yahoo Financeなど複数の金融メディアが2026年11月16日終値として報じている)",
+      "en": "US stock markets reportedly fell on Monday, November 16, 2026, led by a sell-off in AI-linked technology and chip stocks. According to an AP wire report, the S&P 500 closed down about 1.9% at 7,416.59, its third straight losing session. The Nasdaq Composite fell about 2.5%, and Nvidia shares dropped roughly 4.1% to close at $156.14, their lowest level since July 1, 2025. AMD fell about 5.6% and the VanEck Semiconductor ETF (SMH) fell about 5.1%. Cited factors include new US interim rules further restricting advanced AI chip exports to China, and reports that Nvidia's board is not considering bringing back Jensen Huang as CEO. Nvidia's quarterly earnings report is scheduled after the close on Tuesday, November 17. Speculation: exact figures vary slightly between outlets. [Reliability: Medium] (Reported as of the November 16, 2026 close by multiple financial outlets including BNN Bloomberg (AP wire), CNN and Yahoo Finance)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-16T21:00:00+00:00",
+    "source": {
+      "name": "AP通信(BNN Bloomberg配信)/CNN/Yahoo Finance",
+      "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
     },
     "reliability": "medium"
   }
