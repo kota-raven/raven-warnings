@@ -61,5 +61,51 @@
       "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-17-03",
+    "headline": {
+      "ja": "ウクライナ軍、クリミア大橋(ケルチ海峡)に「フラミンゴ」等ミサイル攻撃 橋の一部が崩落と報道(数週間に及ぶ作戦の「第7段階」)",
+      "en": "Ukraine strikes Crimean (Kerch) Bridge with Flamingo and Neptune missiles; reports say a section collapsed, described as 'seventh phase' of weeks-long operation"
+    },
+    "summary": {
+      "ja": "2026年11月16日深夜〜17日未明(現地時間)、ウクライナ軍がクリミア大橋(ケルチ海峡、ロシア本土とロシア占領下クリミア半島を結ぶ橋)に対し、ウクライナ製巡航ミサイル「フラミンゴ」及び「ネプチューン」等によるミサイル攻撃を行ったという。複数の報道(Kyiv Independent、ABC News、The New Voice of Ukraine等)によれば、橋の金属アーチ部分(自動車道の支間)が崩落したとされ、ゼレンスキー大統領はこれを数週間にわたり進めてきた作戦の「第7段階」と説明したという。ロシア側も橋の損傷を認め、道路・鉄道交通およびケルチ海峡の船舶航行が一時停止されたと報じられている。これは前日11月16日にもウクライナの無人機が同じアーチ部分を損傷させた攻撃に続くものとされる。推測:「フラミンゴ」ミサイルの使用については、ウクライナ治安当局者やOSINT分析による見方が中心で、独立した検証はできていない。損傷箇所(道路アーチか鉄道部分か)についても報道により内容が一致していない。[信頼性: 中](Kyiv Independent、ABC News、The New Voice of Ukraine等複数の国際メディアが2026年11月17日の報道として伝えている)",
+      "en": "Overnight from November 16 into the early hours of November 17, 2026 (local time), Ukrainian forces reportedly struck the Crimean (Kerch) Bridge — which links mainland Russia to Russian-occupied Crimea — using Ukrainian-made 'Flamingo' and 'Neptune' cruise missiles, among other weapons. Multiple outlets (Kyiv Independent, ABC News, The New Voice of Ukraine) reported that a metal arch section of the road span collapsed, which President Zelensky described as the 'seventh phase' of an operation conducted over several weeks. Russia acknowledged damage to the bridge, and road/rail traffic as well as shipping through the Kerch Strait were reportedly suspended. This followed a Ukrainian drone strike on the same arch the previous day, November 16. Speculation: the identification of the 'Flamingo' missile rests mainly on Ukrainian security officials and OSINT analysis and has not been independently verified; reports also disagree on which part of the bridge (road arch vs. rail section) was damaged. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including Kyiv Independent, ABC News and The New Voice of Ukraine)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ/ロシア",
+    "region": "クリミア大橋(ケルチ海峡)",
+    "lat": 45.308,
+    "lon": 36.4397,
+    "occurredAt": "2026-11-17T00:30:00+00:00",
+    "source": {
+      "name": "Kyiv Independent / ABC News / The New Voice of Ukraine",
+      "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-11-17-04",
+    "headline": {
+      "ja": "ロシア軍、ウクライナ全土に大規模ミサイル・ドローン攻撃 キーウの橋2カ所損傷、複数州で死傷者(11月16夜〜17日)",
+      "en": "Russia launches large-scale missile and drone attack across Ukraine, damaging two Kyiv bridges; casualties reported in several regions (night of Nov 16-17)"
+    },
+    "summary": {
+      "ja": "2026年11月16日夜〜17日未明にかけて、ロシア軍がウクライナ全土に弾道ミサイル・巡航ミサイル・ドローンによる大規模攻撃を行ったという。複数の報道(RTE、France24、i24NEWS、Kyiv Independent等)によれば、首都キーウではドニプロ川にかかる「北橋」「南橋」の2つの主要橋が損傷し、クリチコ市長は市内の広範囲で断水・停電が発生したと表明したという。キーウ市内では少なくとも2人が死亡、1人が負傷したとウクライナ非常事態庁の情報として報じられている。攻撃はハルキウ、ドニプロ、ザポリッジャ、チェルカースィ、チェルニーヒウなど複数州にも及び、チェルニーヒウ州では少なくとも3人が死亡、他州でも数十人が負傷したとされる(報道によっては死者数が4人・負傷者が数百棟の停電を伴うとする情報もある)。ロシア国防省は、前日のウクライナによるクリミア大橋攻撃・石油精製施設攻撃への対応と説明しているとされ、同省発表としてロシア側は2000発超のウクライナ製ドローンを迎撃したとも報じられている。推測:死傷者数・停電規模の具体的な数値は報道により差があり、ロシア側の迎撃数の主張は独立検証ができていない。[信頼性: 中](RTE、France24、i24NEWS、Kyiv Independent等複数の国際メディアが2026年11月17日の報道として伝えている)",
+      "en": "Overnight from November 16 into the early hours of November 17, 2026, Russian forces reportedly carried out a large-scale attack across Ukraine using ballistic missiles, cruise missiles and drones. Multiple outlets (RTE, France24, i24NEWS, Kyiv Independent) reported that in the capital Kyiv, two major bridges over the Dnipro River — the 'Northern' and 'Southern' bridges — were damaged, and Mayor Vitali Klitschko said large parts of the city lost water and power. At least two people were reportedly killed and one injured in Kyiv, citing Ukraine's State Emergency Service. The attack also hit Kharkiv, Dnipro, Zaporizhzhia, Cherkasy and Chernihiv regions; at least three people were reportedly killed in Chernihiv region, with dozens more injured elsewhere (some reports cite four deaths and hundreds of settlements losing power). Russia's defense ministry reportedly described the strikes as a response to Ukraine's attack the previous day on the Crimean Bridge and oil refineries, and claimed to have intercepted over 2,000 Ukrainian-made drones. Speculation: casualty and power-outage figures vary by outlet, and Russia's claimed interception count has not been independently verified. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including RTE, France24, i24NEWS and Kyiv Independent)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-11-17T03:00:00+00:00",
+    "source": {
+      "name": "RTE / France24 / i24NEWS / Kyiv Independent",
+      "url": "https://www.rte.ie/news/2026/1117/1599488-russia-ukraine-strikes/"
+    },
+    "reliability": "medium",
+    "severity": 4
   }
 ]
