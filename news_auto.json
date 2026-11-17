@@ -1,5 +1,189 @@
 [
   {
+    "id": "auto-61886",
+    "headline": {
+      "ja": "ウクライナ無人機攻撃、クリミアで2名死亡・橋攻撃継続",
+      "en": "Ukrainian drone attack kills 2 in Crimea, targets bridge again"
+    },
+    "summary": {
+      "ja": "ウクライナ軍がクリミアのケルチ橋攻撃を実施。モスクワ任命の知事が2名の死者と交通遮断を報告。2日間で2度目の攻撃。",
+      "en": "Ukrainian forces attack Kerch bridge in Crimea killing 2, with traffic suspended"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-17T08:12:06+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_crimea_kerch_bridge_attack_2026-11-16"
+  },
+  {
+    "id": "auto-62519",
+    "headline": {
+      "ja": "ロシア南部への無人機攻撃をロシア治安機関が無力化したと発表",
+      "en": "Russia reports thwarting Kiev drone attacks in southern regions"
+    },
+    "summary": {
+      "ja": "ロシアFSBが、ウクライナからの複数の大規模無人機攻撃を南部ロシアで無力化したと発表。タス通信報道。",
+      "en": "Russian FSB reports thwarting series of major drone attacks from Ukraine in southern Russia"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-17T08:03:05+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MVHNrRXl4UlpzcG43Wmx4a01qaVVRcHRNMHlabHhmc21IMWdqSm9uZF9aTlk2c1d1dGpNTHpNRzduMnlvYmVB0gFMQVVfeXFMT0lyczV3djF2aURtRDNsNXc4dUFJZkd6cFlqUWp5VGR0OFROUmpmb2hTNldtT0E3V0xVVW5CTVplWmYtakNKQU1vUDVsZQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_southern_drone_attack_thwarted_2026-11-17"
+  },
+  {
+    "id": "auto-61890",
+    "headline": {
+      "ja": "バーレーン、無人機攻撃を撃退・イランが米軍レーダー標的と主張",
+      "en": "Bahrain thwarts drone attack; Iran claims targeting US radar"
+    },
+    "summary": {
+      "ja": "バーレーンが無人機による攻撃を撃退。イラン革命防衛隊がこの攻撃が米軍基地のレーダー施設を標的としたと主張。",
+      "en": "Bahrain intercepts drone attack; IRGC claims targeting US military radar"
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.2279,
+    "lon": 50.5857,
+    "occurredAt": "2026-11-17T07:35:54+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "bahrain_iran_drone_attack_2026-11-17"
+  },
+  {
+    "id": "auto-62183",
+    "headline": {
+      "ja": "インドネシア沖で6.6マグニチュードの地震",
+      "en": "Magnitude 6.6 earthquake strikes off Indonesia coast"
+    },
+    "summary": {
+      "ja": "インドネシア沖でマグニチュード6.6の地震が発生。複数の国営通信が報道。被害状況は報道に含まれていない。",
+      "en": "6.6 magnitude earthquake occurs off Indonesia's coast"
+    },
+    "category": "disaster",
+    "country": "インドネシア",
+    "lat": -6.2146,
+    "lon": 106.8451,
+    "occurredAt": "2026-11-17T00:49:29+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IM1ZaTmNqSXZqeW9GdUlwNHRIbFBoM0llRXoxRHNxUHNKLTBnd3pMM3BCc1Vac2NJZEdPODBYbEg2ZGVPSkJwVmJn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "indonesia_offshore_earthquake_6_6_2026-11-17"
+  },
+  {
+    "id": "auto-61918",
+    "headline": {
+      "ja": "キーウへの弾道ミサイル攻撃、市民が夜間警報に対応",
+      "en": "Ballistic missile attack on Kyiv at night"
+    },
+    "summary": {
+      "ja": "rybarの投稿によると、キーウがロシアからの弾道ミサイル攻撃を受け、市民が警報に対応したという報告。",
+      "en": "Report of ballistic missile strike on Kyiv with civilian response to air alert"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-16T22:09:51+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84731"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_missile_attack_2026-11-16"
+  },
+  {
+    "id": "auto-62348",
+    "headline": {
+      "ja": "モスクワの3空港、ウクライナ無人機攻撃で発着便を運休",
+      "en": "3 Moscow airports suspend flights after Ukrainian drone attacks"
+    },
+    "summary": {
+      "ja": "ウクライナによる無人機攻撃を受け、モスクワの3つの空港が発着便を停止。民間航空インフラの機能停止。",
+      "en": "Three Moscow airports ground flights following Ukrainian drone attacks on the city"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-16T18:41:56+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2RNMFBDdy1GblU4bUptd3R0VjJFRzduc2pFWllYYzV6Qk9MSXktMHo4YkxIdC1qaDFRbXNqTnpLc1RzMEM5dDVoVGxyTHl2TmtRLU5NeEg2YzZONFJtZFNwbm10SE1INUZlcXRhZHZ2RHhQQUpzTFFvVWd3MWswcEZMZGt6N0Q2YmpJMVV0QVZoTDJ2amROQzJZXzFTOTR3aUxKQ3dhVQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_moscow_airport_drone_attack_2026-11-16"
+  },
+  {
+    "id": "auto-61548",
+    "headline": {
+      "ja": "ウクライナが記録的規模の無人機攻撃を実施したという報告",
+      "en": "Report of record-scale Ukrainian drone attack"
+    },
+    "summary": {
+      "ja": "rybarのアカウントが、ウクライナ側による1336機の無人機による大規模攻撃の投稿と報告。ロシア防空部隊がこれを迎撃したという主張。",
+      "en": "Telegram account reports Ukraine launches record-scale attack with 1336 drones"
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-16T13:28:57+00:00",
+    "source": {
+      "name": "Telegram @rybar(親ロシア・東側)",
+      "url": "https://t.me/rybar/84721"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_record_2026-11-16"
+  },
+  {
+    "id": "auto-61596",
+    "headline": {
+      "ja": "フーシ派が捕虜600名を解放、ミサイル攻撃で17名が死傷",
+      "en": "Houthis release 600 detainees as 17 killed or injured in missile strike"
+    },
+    "summary": {
+      "ja": "中国国営通信が報じたところ、フーシ派がイエメンで捕虜600名を解放。同時にミサイル攻撃の影響で17名が死傷。",
+      "en": "Houthis release 600 detainees while 17 killed or wounded in missile strike"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-16T06:00:31+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3N1ltekU5bzVXNGNUem42RkRiWGE5bmowM1BjQ1RPQVJGNXp6cW5FT0JyVUdzSmNLNVFjOGJOVldzemQxamcwUXVCSUJHTmN1RWZyb0plYzdPM2psb29HTmRHX2kwVzI1NVkyR0RmS1lQUzhfUko4RndFOWg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthi_prisoner_release_2026-11-16"
+  },
+  {
     "id": "auto-60657",
     "headline": {
       "ja": "タイ・プーケットの商業ビル火災で11人以上死亡",
@@ -624,6 +808,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "asean_summit_energy_crisis_2026-11-15"
+  },
+  {
+    "id": "auto-60443",
+    "headline": {
+      "ja": "フーシ派、アデンへ弾道ミサイル2発を発射",
+      "en": "Houthis fire 2 ballistic missiles at Aden"
+    },
+    "summary": {
+      "ja": "イエメン軍とフーシ派が声明。フーシ派がアデンへ弾道ミサイル2発を発射。同地は国際的に認められたサウジ支援のイエメン政府支配地。",
+      "en": "Houthis launch 2 ballistic missiles at Aden, a Saudi-backed government controlled city"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 12.7796,
+    "lon": 45.0385,
+    "occurredAt": "2026-11-15T02:00:31+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQU1hYWZPTWtJYkY5SG1VeTdla2dDOFY2WnB5VWR2WEFZVjFuLWl3Y2xBVFNOckVNTzJOS2l6Mm82dHRLTGlkQm5XMUl3cFFBRmp0Wm5JSkpaaGZIcElDZXZyWDBRSUJ1NEpyRHgzd2c4Z3BYZVh0bUhfNjk2ZjktT1hVZWRoOHRyV05NamZLVUVDSUp6dXNjMVRBbWYxX1VmNkpDVWdR?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_aden_houthi_ballistic_missile_2026-11-15"
   },
   {
     "id": "auto-60031",
@@ -3986,28 +4193,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "iran_cyber_attack_france_2026-11"
-  },
-  {
-    "id": "auto-53446",
-    "headline": {
-      "ja": "イラク・クルド地域でドローン攻撃、エネルギー安全保障への危機感",
-      "en": "Drone attack on Iraq's Khor Mor raises energy security concerns"
-    },
-    "summary": {
-      "ja": "イラクの自治区クルド地域にあるホルモール発電施設がドローン攻撃を受け、電力供給が途絶した。武装勢力による攻撃増加に伴い、イラクのエネルギーインフラへの脅威が高まっている。",
-      "en": "A drone strike on Iraq's Khor Mor facility disrupted electricity supply in the Kurdish autonomous region, raising concerns about the vulnerability of the country's energy infrastructure to armed group attacks."
-    },
-    "category": "conflict",
-    "country": "イラク",
-    "lat": 33.3406,
-    "lon": 44.4009,
-    "occurredAt": "2026-11-10T06:22:00+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iraq_khor_mor_drone_attack_2026-11-10"
   }
 ]
