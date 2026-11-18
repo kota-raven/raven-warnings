@@ -150,6 +150,152 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-16-cn-000196",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "斉斉哈爾",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "久米島西方海域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛省統合幕僚監部の発表により、中国海軍駆逐艦「斉斉哈爾」が久米島西方の海域を北進していることが確認された。同艦は10月から太平洋への往復を計3回実施している。海自P-3Cが警戒監視中",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37562/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "2026-11-16-cn-000197",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "巣湖",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": "久米島西方海域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "防衛省統合幕僚監部の発表により、中国海軍補給艦「巣湖」が久米島西方の海域を北進していることが確認された。駆逐艦「斉斉哈爾」と同時に移動。海自P-3Cが警戒監視中",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37562/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "2026-11-16-us-000202",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Makin Island",
+    "shipNumber": "LHD-8",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "フィリピン海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米両棲攻撃艦「マキン・アイランド」(LHD-8)がフィリピン海で通常作戦を実施中であることが確認された(2026年11月16日時点)",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "2026-11-16-us-000203",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "世界各地配置",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍の公表データに基づくFLEET AND MARINE TRACKERの集計によると、2026年11月16日時点で米海軍戦力は計286隻が配置されている(USS 228隻、USNS 58隻)。うち102隻が航行中(USS 71隻、USNS 31隻)。配置海域は日本、フィリピン海、中東等多岐にわたる",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 286,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
+    "id": "2026-11-16-us-000200",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Theodore Roosevelt",
+    "shipNumber": "CVN-71",
+    "shipType": "carrier",
+    "position": {
+      "area": "中東(5艦隊作戦海域)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米空母打撃群「セオドア・ルーズベルト」(CVN-71)が2026年11月16日(日)に米国中央軍(CENTCOM)の第5艦隊作戦海域に配置された。イランとの緊張が継続する中、中東に配置された米空母打撃群は計3個となった",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "2026-11-16-us-000201",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Tripoli",
+    "shipNumber": "LHA-7",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "佐世保港",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米両棲攻撃艦「トリポリ」(LHA-7)が佐世保港に停泊中であることが確認された(2026年11月16日時点)",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
     "id": "2026-11-15-cn-000195",
     "recordType": "individual",
     "country": "CN",
@@ -268,6 +414,54 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-in-000199",
+    "recordType": "individual",
+    "country": "IN",
+    "shipName": "Sahyadri",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "本州南方海域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "インド海軍フリゲート「サヒヤードリ」が海上自衛隊護衛艦「いせ」との日印共同訓練「JAIMEX26」に参加。本州南方の海空域で2日間の訓練を実施、クロスデッキを含む",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37561/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2026-11-13-jp-000198",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "いせ",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "本州南方海域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊とインド海軍による日印共同訓練「JAIMEX26」が本州南方の海空域で実施された。護衛艦「いせ」とインド海軍フリゲート「サヒヤードリ」が参加し、クロスデッキを含む訓練を2日間(11月13日、14日)実施",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37561/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-13T00:00:00Z"
   },
   {
     "id": "2026-11-13-ru-000179",
@@ -1201,8 +1395,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-03T00:00:00Z"
   },
   {
@@ -1225,8 +1419,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-03T00:00:00Z"
   },
   {
@@ -1249,8 +1443,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-03T00:00:00+00:00"
   },
   {
@@ -1273,8 +1467,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-04T21:21:02+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-02T16:32:40Z"
   },
   {
