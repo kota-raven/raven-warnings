@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-64291",
+    "headline": {
+      "ja": "イラン軍、クウェート米軍基地をドローン攻撃と発表",
+      "en": "Iranian Army attacks US Patriot systems at Kuwait base"
+    },
+    "summary": {
+      "ja": "イラン政府は、イラン軍がクウェートのアリ・アルサーレム空軍基地の米国パトリオット防空システムをドローン攻撃したと発表した。",
+      "en": "Iran announced its military targeted US Patriot air defense systems at Ali Al Salem Air Base in Kuwait with combat drones."
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "lat": 29.367,
+    "lon": 47.9743,
+    "occurredAt": "2026-11-18T06:10:45+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86325322/Iranian-Army-targets-US-Patriot-systems-at-Kuwait-s-Ali-Al-Salem"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_drone_attack_kuwait_2026-11-18"
+  },
+  {
+    "id": "auto-64403",
+    "headline": {
+      "ja": "パプアニューギニア地域で震度6の地震が発生",
+      "en": "Magnitude 6 earthquake strikes Papua New Guinea"
+    },
+    "summary": {
+      "ja": "パプアニューギニア地域で震度6.0の地震が発生した。",
+      "en": "A magnitude 6 earthquake struck Papua New Guinea Region."
+    },
+    "category": "disaster",
+    "country": "パプアニューギニア",
+    "lat": -9.4772,
+    "lon": 147.1509,
+    "occurredAt": "2026-11-18T05:49:12+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmJ0eDdXMm81VnlPNXlaN0hYejE1RzQxbjJsZml2Smp0amIzSDRyaXFXZXIxMkZyMENLQnh3NHl1UVNoN0xBR2wxaFFCQmtJN3VtYmZ5YkJZRllDUTllaFZhek0wZTh4VFlOSW5pM2tHVlZaNk9vUl9UbTFxZUVvdGdpeTl6RVJ1OElR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "papua_new_guinea_earthquake_2026-11-18"
+  },
+  {
     "id": "auto-63671",
     "headline": {
       "ja": "クウェートがドローン攻撃を撃退、湾岸紛争が激化",
@@ -21,6 +67,52 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "kuwait_drone_attack_interception_2026-11-17"
+  },
+  {
+    "id": "auto-64421",
+    "headline": {
+      "ja": "クウェート軍、敵対的ドローン攻撃に防空システムで対応",
+      "en": "Kuwait's air defenses respond to hostile drone attacks"
+    },
+    "summary": {
+      "ja": "クウェート軍が敵対的なドローン攻撃に対して防空システムで対応したと発表した。",
+      "en": "Kuwait's military announced its air defenses responded to hostile drone attacks."
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "lat": 29.367,
+    "lon": 47.9743,
+    "occurredAt": "2026-11-17T22:56:54+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmRfSWZpUTZ5Uk9pdXVpM0JMOWw3U0dOcTBFU3ltWnJHRWpDaWpLMTR0VWszTzJXdnM0SXplX3k5Y0drbjRibmV3WjNacnpENkg4R3UwZUQ1T1hhUWlWdjZERjdPUi1lME91b1huSlJMZ0YyZ3d6cXhjMk45dUFKcnctYXpsMGhXVEs4VTVFUWpOdElmT2xFckgyRXJhaFg1NlE2bzJn?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "kuwait_air_defense_attack_2026-11-17"
+  },
+  {
+    "id": "auto-64256",
+    "headline": {
+      "ja": "ウクライナ大統領、Ramstein会談で防空ミサイル・戦闘機取得を優先課題に",
+      "en": "Ukraine President outlines priorities at Ramstein: air defense missiles, fighter jets"
+    },
+    "summary": {
+      "ja": "ウクライナ大統領がRamstein国防相会議で、防空ミサイルと新型戦闘機の取得、防衛部門への財政支援、ドローン取引形式の発展を優先課題として掲げた。",
+      "en": "Ukraine's president outlined priorities at Ramstein meeting including air defense missiles, new fighter jets, financial support for defense sector, and drone cooperation format development."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-17T22:32:00+00:00",
+    "source": {
+      "name": "ウクライナ 大統領府(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjVIYW9zOURnLTEyUWtsR3BWOF8tNENBWkdOZTVBcm9DQzZ0VGpGNkwwV2R3TTZlODNhMnk4aXVPdExEYl9MYkZfOFRFSzl5UTNlSXVTMUhwV180RkZaekJYalhpSzNqSm9fRkdjR1o5cjlpREZuQ1E5MlpuT0hQMDEtc2g1aEx1U3M3X1lLeTNPcDltLTVMMHBRTjloSXhBUzFrQ00xUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_ramstein_conference_2026-11"
   },
   {
     "id": "auto-63734",
@@ -114,6 +206,29 @@
     "auto": true,
     "eventKey": "crimean_bridge_attack_2026-11-17",
     "severity": 4
+  },
+  {
+    "id": "auto-64230",
+    "headline": {
+      "ja": "英国がウクライナへ防空ミサイル1000発以上を供給へ",
+      "en": "UK to supply Ukraine with over 1,000 air defense missiles"
+    },
+    "summary": {
+      "ja": "英国がウクライナに対し、防空ミサイルと発射装置1000発以上を今冬に供給すると発表した。",
+      "en": "UK announced it will supply Ukraine with more than 1,000 air defense missiles and launchers this winter."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-17T16:18:09+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0hVR25tSGFFRkRyenZkcGp4dHRZdTAtRGVkWW1qV29RTW16Z1EwNnNyZVNqeHdINTNsNFUxeTJPWUwyYnB3UTFXbkhCUWpxQkZ6X3V0SFVxUnhoX2N5VkdrYnQ1ZS0yQXJuMllCcncxTlFFLUpYQV83NUdhUEQwME5xWGo5cnFSU1hobFk0eTFVdENIczBqRExNeW1RZ1hNcDlUTmdQdExid2Uxa2syZDNZVUFGajRSZmg3T3FIeDBWZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "uk_air_defense_support_ukraine_2026-11"
   },
   {
     "id": "auto-63394",
@@ -4075,52 +4190,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_crisis_trilateral_talks_abu_dhabi_2026-11"
-  },
-  {
-    "id": "auto-55420",
-    "headline": {
-      "ja": "ロシアがノルウェーのミサイル企業を攻撃対象に指定",
-      "en": "Norway's missile producer becomes legitimate target for Russia"
-    },
-    "summary": {
-      "ja": "ロシア政府は、ノルウェーのミサイル製造企業がロシアへの攻撃支援を理由に、正当な攻撃対象であると述べた。",
-      "en": "Russia declared Norway's missile production company a legitimate target due to its support for attacks against Russia."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-11T07:53:15+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qNXV6Qy1USTBCOW53aHhqOG1BWDBzbVR5Z1V6VDQxSFpVU0p4UE0zZ1VpMzdCUlMxMmVFUTV2THZEVW91a2lLQtIBTkFVX3lxTE53UkV3ZjFiVFhfaWRXWEJMNHFPU091VUNhS21KVzc0YnFjNFNiU0lQUGw1QXhsWkdiSGxlamtGa1ktN1dIamlrZ01kRC1ndw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_norway_missile_company_threat"
-  },
-  {
-    "id": "auto-55415",
-    "headline": {
-      "ja": "レニングラード地域が1年間で最大規模のドローン攻撃を受けたと発表",
-      "en": "Leningrad Region records largest drone attack of year"
-    },
-    "summary": {
-      "ja": "ロシア政府は、レニングラード地域が年間を通じて最大規模のドローン攻撃を受けたと発表した。",
-      "en": "Russian government announced that Leningrad Region faced the largest drone attack of the year."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 59.9364,
-    "lon": 30.312,
-    "occurredAt": "2026-11-11T06:06:06+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeklBeFNlUkNwZjBPQmI1U3Q2ZjIySWdTdmRSOW5Ba0lfZ1FTTFFUNUJuN2QzU203OHlHT1JBRGVxWjVORlRRZtIBTkFVX3lxTE9sNmNkN196S3VJbzFBeFhZeGtCRUJBcTA0LVRYOThIeXJsRExqd1JrbzR6YTFzZEVOTzJOOGpVeWs2dGJKSDJpdnZ4UVVNUQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_leningrad_drone_attack_2026-11-11",
-    "severity": 4
   }
 ]
