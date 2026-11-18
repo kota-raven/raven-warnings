@@ -217,5 +217,28 @@
     },
     "reliability": "medium",
     "severity": 4
+  },
+  {
+    "id": "2026-11-19-04",
+    "headline": {
+      "ja": "ホルムズ海峡でUAE国営海運ADNOCのタンカーが被弾 船員1名行方不明・11名負傷、別のLPGタンカーも被弾(11月17日)",
+      "en": "UAE's ADNOC tanker attacked in Strait of Hormuz, one crew member missing and 11 injured; separate LPG tanker also hit (Nov 17)"
+    },
+    "summary": {
+      "ja": "2026年11月17日(火)、UAE国営海運会社ADNOC L&S(ADNOC Logistics & Services)の船舶がホルムズ海峡で攻撃を受けたという。複数の報道(The National、Reuters配信記事、SAFETY4SEA、U.S. News、Shafaq News等)によれば、ADNOC L&S自身の発表として、船員1名が行方不明、11名が負傷し、残りの船員は避難済みと説明したという。関係当局と連携して捜索・救助活動を継続中とされる。同じ海域で別のLPGタンカー「Tara Gas」も被弾し、オマーン当局が24名を救助、1名の行方を捜索中と報じられている。英海事当局(UKMTO)は、オマーン・ハサブの北約13海里の地点で未確認の飛来物によりタンカーが被弾し火災が発生(後に消火)したと発表したという。これは同時期の米軍によるイラン・ケシム島攻撃、イランによるクウェート・バーレーンへの攻撃(既報・別記事)と同じ米・イラン間攻撃応酬の一部とみられている。推測:行方不明の船員の安否、攻撃の実行主体については本稿執筆時点で直接の認否報道は確認できていない。[信頼性: 高](ADNOC L&S自身の発表に基づくReuters配信記事を、The National・U.S. News・SAFETY4SEA・Shafaq News等複数の主要メディアが2026年11月18日の報道として伝えている)",
+      "en": "On Tuesday, November 17, 2026, a vessel operated by UAE state shipping company ADNOC Logistics & Services (ADNOC L&S) was reportedly attacked in the Strait of Hormuz. Multiple outlets (The National, a Reuters wire report, SAFETY4SEA, U.S. News, Shafaq News) reported that ADNOC L&S itself said one crew member was missing and 11 injured, with the rest of the crew evacuated; search and rescue operations were reportedly ongoing with relevant authorities. A separate LPG tanker, 'Tara Gas,' was also hit in the same area, with Omani authorities reportedly rescuing 24 crew members while searching for one missing person. The UK Maritime Trade Operations (UKMTO) reportedly said a tanker was struck by an unidentified projectile about 13 nautical miles north of Khasab, Oman, sparking a fire that was later extinguished. This is reported as part of the same US-Iran exchange of strikes that also included the US strike on Iran's Qeshm Island and Iran's strikes on Kuwait and Bahrain around the same time (separate entries). Speculation: the fate of the missing crew member and the identity of the attacker have not been directly confirmed as of this writing. [Reliability: High] (Reported as of November 18, 2026 by multiple major outlets including The National, U.S. News (Reuters wire), SAFETY4SEA and Shafaq News, based on ADNOC L&S's own statement)"
+    },
+    "category": "conflict",
+    "country": "イラン/オマーン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-17T12:00:00+00:00",
+    "source": {
+      "name": "The National / Reuters / SAFETY4SEA / U.S. News / Shafaq News",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/"
+    },
+    "reliability": "high",
+    "severity": 4
   }
 ]
