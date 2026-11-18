@@ -107,5 +107,48 @@
     },
     "reliability": "medium",
     "severity": 4
+  },
+  {
+    "id": "2026-11-18-01",
+    "headline": {
+      "ja": "エヌビディア、2027会計年度第3四半期決算で予想上回る増収・増益 データセンター事業急拡大、第4四半期も強い見通し(11月17日)",
+      "en": "Nvidia posts record Q3 FY2027 revenue beat, data center sales surge; issues strong Q4 guidance (Nov 17)"
+    },
+    "summary": {
+      "ja": "2026年11月17日(火)米東部時間の取引終了後、エヌビディアは2027会計年度第3四半期(2026年10月25日終了)決算を発表したという。同社発表及び複数の報道(CNBC、Reuters〔StreetInsider配信〕、Investing.com、NBCニュース等)によれば、売上高は115億8000万ドル(アナリスト予想の約108億8000万ドルを上回る)、非GAAP一株当たり利益(EPS)は2.68ドル(予想2.47ドル)だったとされる。データセンター部門の売上高は前年同期比110%増の107億6000万ドルだったという。第4四半期の売上高見通しは130億ドル(上下3%)とされ、市場予想(約125億ドル)を上回ったと報じられている。発表を受け、エヌビディア株は通常取引終了後の取引で上昇し(報道によれば約5%前後の上昇)、ナスダック100指数・S&P500指数の先物も上昇したという。取締役会として、前最高経営責任者(CEO)ジェンセン・フアン氏を復帰させる計画はないとの発言があったとも報じられている。推測:株価の上昇率については媒体間で数値に差があり(約3〜5%程度)、確定した終値ベースの反応は本稿執筆時点(日本時間11月18日午前)ではまだ確認できていない。[信頼性: 高](エヌビディア自身の決算発表資料、CNBC、Reuters(StreetInsider配信)、Investing.com、NBCニュース等複数の主要メディアが2026年11月17日の報道として伝えている)",
+      "en": "After the US market close on Tuesday, November 17, 2026, Nvidia reported fiscal third-quarter (ended October 25, 2026) results. According to the company's own release and multiple outlets (CNBC, Reuters via StreetInsider, Investing.com, NBC News), revenue reached $115.8 billion, beating analyst estimates of about $108.8 billion, with non-GAAP EPS of $2.68 versus an estimate of $2.47. Data Center revenue rose 110% year-over-year to $107.6 billion. Nvidia guided fourth-quarter revenue to $130.0 billion (plus or minus 3%), above the roughly $125 billion consensus. Shares reportedly rose in extended trading after the report (estimates vary, around 5%), and Nasdaq-100 and S&P 500 futures also gained. Nvidia's chairman reportedly said the board has no plans to reinstate former CEO Jensen Huang. Speculation: the exact extended-trading percentage gain differs across outlets (roughly 3-5%), and the confirmed closing-price reaction was not yet available as of this writing (morning of Nov 18 JST). [Reliability: High] (Reported as of November 17, 2026 by Nvidia's own earnings release and multiple major outlets including CNBC, Reuters via StreetInsider, Investing.com and NBC News)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-17T21:30:00+00:00",
+    "source": {
+      "name": "CNBC / Reuters(StreetInsider配信) / Investing.com",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-18-02",
+    "headline": {
+      "ja": "トランプ・習近平・プーチン3氏、中国・深センAPEC首脳会議で初の三者会談へ(11月18〜19日)",
+      "en": "Trump, Xi and Putin set for first-ever trilateral meeting on sidelines of APEC summit in Shenzhen, China (Nov 18-19)"
+    },
+    "summary": {
+      "ja": "2026年11月18〜19日に中国・深センで開催されるアジア太平洋経済協力(APEC)首脳会議に合わせ、米国のトランプ大統領・中国の習近平国家主席・ロシアのプーチン大統領が、史上初めてとされる三者会談を行う見通しだという。複数の報道(Washington Post、CBSニュース、ABCニュース、Washington Times、Al Jazeera等)によれば、ホワイトハウスがこの三者会談を確認したとされ、ロシア外務省もプーチン氏が同首脳会議にロシア代表団を率いて出席すると発表したという。トランプ氏が三者会談自体に同席するかどうかについては報道が一致しておらず、ABCニュースは同席すると報じる一方、CBSニュース・Washington Timesは、トランプ氏は訪中するが習氏・プーチン氏の会談には加わらないとする米政府当局者の説明を報じているとされる。トランプ氏は会談でイラン情勢や核軍縮について協議する意向とされ、ウクライナ戦争については三者会談の議題としない考えだと報じられている。推測:トランプ氏の三者会談への同席の有無、会談で実際に取り上げられる議題については、本稿執筆時点(日本時間11月18日午前)でなお報道が分かれており確定していない。[信頼性: 中](Washington Post、CBSニュース、ABCニュース、Washington Times、Al Jazeera等複数の国際メディアが2026年11月13〜17日の報道として伝えているが、トランプ氏の会談への関与の形式について媒体間で内容が一致していない)",
+      "en": "Ahead of the Asia-Pacific Economic Cooperation (APEC) leaders' summit in Shenzhen, China on November 18-19, 2026, US President Trump, Chinese President Xi Jinping and Russian President Putin are reportedly set to hold what would be their first-ever trilateral meeting. Multiple outlets (Washington Post, CBS News, ABC News, Washington Times, Al Jazeera) reported that the White House confirmed the trilateral meeting, and Russia's foreign ministry said Putin would lead Russia's delegation to the summit. Reports disagree on whether Trump will personally join the Xi-Putin meeting: ABC News reported he would take part, while CBS News and Washington Times cited US officials saying Trump would travel to China but not join the Xi-Putin session itself. Trump is reportedly expected to discuss Iran and nuclear arms reduction, and does not intend to raise the Russia-Ukraine war in the trilateral talks. Speculation: whether Trump personally joins the trilateral session, and the exact agenda items actually discussed, remain unconfirmed and reported inconsistently as of this writing (morning of Nov 18 JST). [Reliability: Medium] (Reported between November 13-17, 2026 by multiple international outlets including Washington Post, CBS News, ABC News, Washington Times and Al Jazeera, though accounts of Trump's level of involvement differ)"
+    },
+    "category": "conflict",
+    "country": "中国",
+    "region": "深セン市",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "occurredAt": "2026-11-17T23:00:00+00:00",
+    "source": {
+      "name": "Washington Post / CBSニュース / ABCニュース / Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+    },
+    "reliability": "medium"
   }
 ]
