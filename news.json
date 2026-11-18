@@ -150,5 +150,72 @@
       "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-19-01",
+    "headline": {
+      "ja": "米軍、イラン・ケシム島のIRGC関連ミサイル発射拠点を攻撃 バーレーンへのドローン攻撃主張への「自衛」対応と説明(11月17日)",
+      "en": "US forces strike IRGC-linked missile launch site on Iran's Qeshm Island, calling it 'self-defense' after claimed drone attack on Bahrain (Nov 17)"
+    },
+    "summary": {
+      "ja": "2026年11月17日(火)、米軍機がイラン革命防衛隊(IRGC)関連とされるミサイル発射拠点をイラン・ケシム島(ホルモズガーン州)で攻撃したという。複数の報道(Bloomberg、CNN、Al Jazeera等)によれば、米側はこれを、IRGCがバーレーンの米軍施設(シェイク・イサ空軍基地)のレーダーをドローンで狙ったとする主張(米中央軍はこのドローンは迎撃済みと説明)への「自衛」の対応と説明したとされる。イラン・ホルモズガーン州副知事は、住宅・商業地域や重要インフラへの被害はなかったと述べたと報じられている。イラン側は攻撃があったことは認めたが、被害の実態は不明とされる。これは5月以降続く米・イラン間の攻撃の応酬の最新の一幕とされ、この後11月18日にはイランによるクウェート・バーレーンへの攻撃(別記事)に発展したという。推測:米軍の攻撃の規模・具体的な被害状況、イラン側のドローン攻撃主張の正確性は独立検証ができていない。[信頼性: 中](Bloomberg、CNN、Al Jazeera等複数の国際メディアが2026年11月17日の報道として伝えている)",
+      "en": "On Tuesday, November 17, 2026, US aircraft reportedly struck a missile launch site linked to Iran's Islamic Revolutionary Guard Corps (IRGC) on Qeshm Island, in Iran's Hormozgan province. Multiple outlets (Bloomberg, CNN, Al Jazeera) reported that the US described the strike as 'self-defense,' responding to an IRGC claim of a drone attack on a radar system at a US facility in Bahrain (Sheikh Isa Air Base), which US Central Command said it intercepted. Iran's deputy governor of Hormozgan province reportedly said the strike caused no damage to residential or commercial areas or critical infrastructure. Iran acknowledged the strike occurred, but the extent of damage remains unclear. This is reported as the latest episode in a US-Iran exchange of strikes that has continued since May, and was followed on November 18 by Iranian strikes on Kuwait and Bahrain (separate entry). Speculation: the scale of the US strike and the accuracy of Iran's drone-attack claim have not been independently verified. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including Bloomberg, CNN and Al Jazeera)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルモズガーン州(ケシム島)",
+    "lat": 27.1865,
+    "lon": 56.2808,
+    "occurredAt": "2026-11-17T12:00:00+00:00",
+    "source": {
+      "name": "Bloomberg / CNN / Al Jazeera",
+      "url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-11-19-02",
+    "headline": {
+      "ja": "イラン、クウェートの米軍関連空軍基地にドローン攻撃 クウェート軍は迎撃・損害なしと発表(11月18日)",
+      "en": "Iran drones target US-linked air base in Kuwait; Kuwaiti military says it intercepted them with no damage (Nov 18)"
+    },
+    "summary": {
+      "ja": "2026年11月18日(水)、イラン軍がクウェートのアリ・アル・サレム空軍基地(米軍が利用)のパトリオット防空システム・ミサイル発射施設を狙ってドローン攻撃を行ったと主張したという。複数の報道(AP通信〔Spectrum News配信〕、Defence Blog等)によれば、クウェート軍はこれらのドローンを防空システムで迎撃し、目立った被害は無かったと発表したとされる。クウェート外務省とサウジアラビアはこの攻撃を非難したという。これは前日11月17日の米軍によるイラン・ケシム島のIRGC関連拠点への攻撃(別記事)を受けたイラン側の報復行動の一環とされ、米・イラン間の攻撃の応酬がクウェートにも拡大したものと報じられている。推測:イラン側のパトリオットシステムへの命中主張は独立検証ができておらず、クウェート側は具体的な被害の有無を明示していない。[信頼性: 中](AP通信〔Spectrum News配信〕、Defence Blog等複数の報道が2026年11月18日の報道として伝えている)",
+      "en": "On Wednesday, November 18, 2026, Iran's military reportedly claimed its drones targeted Patriot air-defense systems and missile-launch facilities at Ali Al Salem Air Base in Kuwait, which hosts US forces. Multiple outlets (an AP wire story via Spectrum News, Defence Blog) reported that Kuwait's military said its air defenses intercepted the drones with no notable damage. Kuwait's foreign ministry and Saudi Arabia condemned the attack, according to the reports. This is described as part of Iran's retaliation following the US strike the previous day, November 17, on an IRGC-linked site on Iran's Qeshm Island (separate entry), with the US-Iran exchange of strikes reportedly widening to include Kuwait. Speculation: Iran's claim of hitting the Patriot systems has not been independently verified, and Kuwait did not specify whether any damage occurred. [Reliability: Medium] (Reported as of November 18, 2026 by multiple outlets including an AP wire story carried by Spectrum News, and Defence Blog)"
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "lat": 29.3117,
+    "lon": 47.4818,
+    "occurredAt": "2026-11-18T01:00:00+00:00",
+    "source": {
+      "name": "AP通信(Spectrum News配信) / Defence Blog",
+      "url": "https://spectrumlocalnews.com/us/snplus/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-11-19-03",
+    "headline": {
+      "ja": "イラン、バーレーンにも攻撃 バーレーン軍が複数回の迎撃を発表、米・イラン間の攻撃応酬が拡大(11月18日)",
+      "en": "Iran also strikes Bahrain; Bahraini forces report multiple interceptions as US-Iran exchange of strikes widens (Nov 18)"
+    },
+    "summary": {
+      "ja": "2026年11月18日(水)、バーレーン国防軍は、イランによる複数回の攻撃を自国の防空システムで迎撃したと発表したという。複数の報道(Gulf News、Time News等)によれば、これは前日にイラン革命防衛隊(IRGC)が米軍施設(シェイク・イサ空軍基地)のレーダーをドローンで狙ったと主張した攻撃(米側は報復と説明)に続くものとされる。米軍は、イラン側が主張するバーレーンのレーダーへの命中を否定し、ドローン2機を損害なく迎撃したと説明したという。この攻撃の拡大は、米軍による前日のイラン・ケシム島のIRGC関連拠点への攻撃(別記事)やクウェートへの攻撃(別記事)と合わせ、米・イラン間の攻撃の応酬が複数のペルシャ湾岸諸国に及ぶ形になったと報じられている。推測:イラン側の命中主張と米側の否定が対立しており、実際の被害状況は独立検証ができていない。[信頼性: 中](Gulf News、Time News等複数の国際メディアが2026年11月18日の報道として伝えている)",
+      "en": "On Wednesday, November 18, 2026, Bahrain's Defence Force reportedly said its air-defense systems intercepted multiple Iranian strikes on the kingdom. Multiple outlets (Gulf News, Time News) reported that this followed an Iranian Revolutionary Guard Corps (IRGC) claim the previous day that its drones had targeted a radar system at a US facility in Bahrain (Sheikh Isa Air Base), which the US described as prompting its retaliatory strike. The US military reportedly denied Iran's claim of having hit the Bahrain radar, saying it intercepted two drones without damage. Combined with the US strike the previous day on an IRGC-linked site on Iran's Qeshm Island and Iran's strike on Kuwait (separate entries), the widening attacks are reported to have spread the US-Iran exchange of strikes to multiple Gulf states. Speculation: Iran's claim of a hit and the US denial are in direct conflict, and the actual extent of damage has not been independently verified. [Reliability: Medium] (Reported as of November 18, 2026 by multiple international outlets including Gulf News and Time News)"
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.0667,
+    "lon": 50.5577,
+    "occurredAt": "2026-11-18T02:00:00+00:00",
+    "source": {
+      "name": "Gulf News / Time News",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
+    },
+    "reliability": "medium",
+    "severity": 4
   }
 ]
