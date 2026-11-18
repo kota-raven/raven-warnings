@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-64801",
+    "headline": {
+      "ja": "プーチン大統領が9年ぶりにAPEC首脳会議に登場",
+      "en": "Putin Appears at APEC Summit for First Time in 9 Years"
+    },
+    "summary": {
+      "ja": "ロシアのプーチン大統領が9年ぶりにAPEC首脳会議に登場し、国際的な孤立からの脱却をアピールしているとみられる。",
+      "en": "Russian President Putin appeared at the APEC summit for the first time in 9 years, apparently seeking to break Russia's international isolation."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-18T09:54:00+00:00",
+    "source": {
+      "name": "時事通信 ランキング",
+      "url": "https://www.jiji.com/jc/article?k=2026111801061&g=int&m=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_putin_apec_2026-11"
+  },
+  {
     "id": "auto-64291",
     "headline": {
       "ja": "イラン軍、クウェート米軍基地をドローン攻撃と発表",
@@ -46,6 +69,29 @@
     "eventKey": "papua_new_guinea_earthquake_2026-11-18"
   },
   {
+    "id": "auto-64778",
+    "headline": {
+      "ja": "ハイチで栄養失調の児童25万人超の可能性",
+      "en": "Over 250,000 Children at Risk of Malnutrition in Haiti"
+    },
+    "summary": {
+      "ja": "ハイチで深刻な人道危機が続いており、栄養失調に直面する児童が25万人を超える可能性がある。",
+      "en": "Haiti faces a severe humanitarian crisis with over 250,000 children at risk of malnutrition."
+    },
+    "category": "disaster",
+    "country": "ハイチ",
+    "lat": 18.5435,
+    "lon": -72.3388,
+    "occurredAt": "2026-11-18T05:21:23+00:00",
+    "source": {
+      "name": "Yahoo!ニュース トピックス(国際)",
+      "url": "https://news.yahoo.co.jp/pickup/6603029?source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "haiti_malnutrition_crisis_2026-11"
+  },
+  {
     "id": "auto-64820",
     "headline": {
       "ja": "米軍がイラン・クシム島のイスラム革命防衛隊基地を攻撃",
@@ -68,6 +114,29 @@
     "auto": true,
     "eventKey": "us_strike_iran_qeshm_island_2026-11-18",
     "severity": 4
+  },
+  {
+    "id": "auto-64833",
+    "headline": {
+      "ja": "ウクライナがクリミア橋を攻撃、三首脳会談を前に軍事力を示威",
+      "en": "Ukraine Attacks Crimean Bridge Ahead of Trump-Xi-Putin Meeting"
+    },
+    "summary": {
+      "ja": "ウクライナがクリミア橋への攻撃を実施。トランプ米大統領、習近平中国国家主席、プーチン露大統領の3者会談がシンセンで予定される中、キーウへの圧力増加への懸念が高まっている。",
+      "en": "Ukraine launched an attack on the Crimean bridge as concerns grow that a planned summit between Trump, Xi, and Putin in Shenzhen could increase pressure on Kyiv."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 45.107,
+    "lon": 34.5204,
+    "occurredAt": "2026-11-18T02:02:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/18/world/society/ukraine-crimean-bridge-trump-putin/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_crimean_bridge_attack_2026-11"
   },
   {
     "id": "auto-63671",
@@ -463,6 +532,52 @@
     "eventKey": "bahrain_iran_drone_attack_2026-11-17"
   },
   {
+    "id": "auto-64855",
+    "headline": {
+      "ja": "米商務省が中国企業によるAIチップ遠隔利用を規制へ",
+      "en": "US Commerce Dept to Regulate Remote Access to AI Chips by Chinese Firms"
+    },
+    "summary": {
+      "ja": "米商務省は、中国企業が第三国のデータセンター経由で米国製先端AIチップを遠隔利用することを防ぐ規則を発表した。物理的な輸出規制の抜け道を塞ぐ狙いで、ライセンス義務付けを導入。",
+      "en": "The US Commerce Department announced interim final rules to prevent Chinese firms from remotely accessing US-made advanced AI chips through third-country data centers, closing a loophole in physical export controls."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-17T03:50:05+00:00",
+    "source": {
+      "name": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "usa_china_ai_chip_remote_access_regulation_2026-11"
+  },
+  {
+    "id": "auto-64859",
+    "headline": {
+      "ja": "スパコン「富岳」が不正アクセスで運用停止",
+      "en": "Supercomputer Fugaku Halted Due to Unauthorized Access"
+    },
+    "summary": {
+      "ja": "日本の最高性能スパコン「富岳」が不正アクセスを受け運用停止となった。研究データや外部接続用SSH鍵が流出した可能性があり、他システムへの接続試行も確認されている。",
+      "en": "Japan's Fugaku supercomputer was forced offline after unauthorized access. Research data and SSH keys were potentially exposed, with connection attempts to other systems detected."
+    },
+    "category": "conflict",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-11-17T01:44:12+00:00",
+    "source": {
+      "name": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003253/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "japan_fugaku_supercomputer_breach_2026-11"
+  },
+  {
     "id": "auto-62183",
     "headline": {
       "ja": "インドネシア沖で6.6マグニチュードの地震",
@@ -579,6 +694,29 @@
     "eventKey": "russia_moscow_airport_drone_attack_2026-11-16"
   },
   {
+    "id": "auto-64865",
+    "headline": {
+      "ja": "AIが自律的に脆弱性を発見・悪用する攻撃フレームワークをGoogle初観測",
+      "en": "Google Observes Autonomous AI Framework for Vulnerability Discovery and Exploitation"
+    },
+    "summary": {
+      "ja": "Googleは、複数のAIエージェントを組み合わせて脆弱性発見から攻撃まで自律的に実行するフレームワークが初めて確認されたと報告。標的への接近や世論工作の自動化も増加している。",
+      "en": "Google reported the first observation of an autonomous AI framework combining multiple agents to automatically discover and exploit vulnerabilities, alongside increased use of AI for target infiltration and opinion manipulation."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-16T14:00:56+00:00",
+    "source": {
+      "name": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "google_autonomous_ai_vulnerability_exploitation_2026-11"
+  },
+  {
     "id": "auto-61548",
     "headline": {
       "ja": "ウクライナが記録的規模の無人機攻撃を実施したという報告",
@@ -692,6 +830,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "thailand_phuket_fire_2026-11-16"
+  },
+  {
+    "id": "auto-64872",
+    "headline": {
+      "ja": "スパコン「富岳」が不正アクセス",
+      "en": "Fugaku Supercomputer Faces Unauthorized Access"
+    },
+    "summary": {
+      "ja": "理化学研究所は、スーパーコンピュータ「富岳」がシステム不正アクセスを受けたことを明らかにした。",
+      "en": "RIKEN announced that Fugaku supercomputer systems experienced unauthorized access."
+    },
+    "category": "conflict",
+    "country": "日本",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "occurredAt": "2026-11-16T03:42:48+00:00",
+    "source": {
+      "name": "ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "japan_fugaku_breach_official_announcement_2026-11"
   },
   {
     "id": "auto-60658",
@@ -3705,167 +3866,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "iran_israel_military_tensions_2026-11-12"
-  },
-  {
-    "id": "auto-55784",
-    "headline": {
-      "ja": "ロシア・ウクライナ会談、戦後の安全保障について協議も進展なし",
-      "en": "Russia-Ukraine talks focus on post-war security but achieve no breakthrough"
-    },
-    "summary": {
-      "ja": "アブダビで開催されたロシア・ウクライナ会談がヨーロッパの安全保障枠組みについて協議したが、進展がなかった。米国特使が木曜日にプーチンとゼレンスキーに会う予定。",
-      "en": "Russia-Ukraine talks in Abu Dhabi focused on Europe's security framework but ended without breakthrough, with US envoys due to meet Putin and Zelensky on Thursday."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-11T18:04:58+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_ukraine_post_war_security_talks_abu_dhabi_2026-11"
-  },
-  {
-    "id": "auto-55799",
-    "headline": {
-      "ja": "ロシア・ウクライナ、アラブ首長国連邦での米国仲介交渉で大規模捕虜交換合意を達成",
-      "en": "Russia and Ukraine secure major prisoner exchange deal in US-mediated talks in UAE"
-    },
-    "summary": {
-      "ja": "ロシアとウクライナが2日間のアラブ首長国連邦アブダビでの米国仲介交渉の後、大規模な捕虜交換合意に達した。",
-      "en": "Russia and Ukraine agree to major prisoner exchange following two days of US-mediated talks in Abu Dhabi."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-11T16:58:32+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_ukraine_major_prisoner_exchange_deal_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-55801",
-    "headline": {
-      "ja": "イスラエル軍、パレスチナ人サッカー選手をガザで殺害",
-      "en": "Israeli army kills Palestinian footballer in Gaza"
-    },
-    "summary": {
-      "ja": "ガザスポーツクラブのキャプテン兼ゴールキーパーであるマフムード・カマル・アブデル・マレク選手がイスラエル軍の軍事作戦で殺害された。",
-      "en": "Israeli military operation kills Mahmoud Kamal Abdel-Malek, captain and goalkeeper of Gaza Sports Club."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-11T16:48:48+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_military_casualty_palestinian_footballer_gaza_2026-11"
-  },
-  {
-    "id": "auto-55785",
-    "headline": {
-      "ja": "米財務長官、イラン脅迫で軍事基地に移転",
-      "en": "US Treasury Secretary relocated to military base due to alleged Iranian threats"
-    },
-    "summary": {
-      "ja": "米国のスコット・ベッセント財務長官がイランからの脅迫を理由に軍事基地に移転した。複数のトランプ政権高官が同様の安全保障上の懸念から軍事基地に移住している。",
-      "en": "US Treasury Secretary Scott Bessent relocated to military base due to alleged Iranian threats. Several Trump administration officials have relocated to military bases for security concerns."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-11T16:45:11+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "us_treasury_secretary_security_threat_iran_2026-11"
-  },
-  {
-    "id": "auto-55792",
-    "headline": {
-      "ja": "インドネシア副大統領が権力闘争の最中に辞任",
-      "en": "Indonesia's vice president resigns amid ruling alliance tensions"
-    },
-    "summary": {
-      "ja": "インドネシアの副大統領が前任者ジョコ・ウィドドとの関係悪化の中で辞任した。プラボウォ大統領の支配体制が分裂の兆候を見せている。",
-      "en": "Indonesia's vice president resigns amid growing rift with predecessor Joko Widodo, showing signs of instability in President Prabowo's ruling alliance."
-    },
-    "category": "conflict",
-    "country": "インドネシア",
-    "lat": -6.2146,
-    "lon": 106.8451,
-    "occurredAt": "2026-11-11T16:38:07+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "indonesia_vice_president_resignation_political_conflict_2026-11"
-  },
-  {
-    "id": "auto-55803",
-    "headline": {
-      "ja": "イスラエル、レバノン農業生態系に深刻な被害、小麦生産に悪影響",
-      "en": "Israeli military operations disrupting Lebanon's agricultural ecosystem including wheat production"
-    },
-    "summary": {
-      "ja": "イスラエルの軍事作戦がレバノンの農業生態系に大きな影響を及ぼしており、特に南部とベカー谷の農地が深刻な破壊に直面している。",
-      "en": "Israeli military operations causing severe disruption to Lebanon's agricultural ecosystem, with farmlands in the south and Bekaa Valley facing significant destruction affecting wheat production."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-11-11T15:48:39+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_lebanon_agricultural_damage_ecosystem_disruption_2026-11"
-  },
-  {
-    "id": "auto-55807",
-    "headline": {
-      "ja": "イラン報復キャンペーン、西側に拡大の懸念",
-      "en": "Iran's retaliation campaign potentially expanding to Western targets, experts warn"
-    },
-    "summary": {
-      "ja": "米財務長官の軍事基地への移転が、イランの報復キャンペーンが中東を超えて西側に拡大している可能性を示唆している。",
-      "en": "US Treasury Secretary's relocation to military base suggests possible expansion of Iran's retaliation campaign beyond Middle East to Western targets."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-11T15:33:38+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_retaliation_campaign_western_expansion_analysis_2026-11"
   }
 ]
