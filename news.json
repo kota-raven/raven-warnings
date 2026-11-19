@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-17-01",
-    "headline": {
-      "ja": "ゼレンスキー氏、米・欧州代表とオンライン協議 ベルリンで「有志連合」との会合へ(11月16日)",
-      "en": "Zelensky says Ukraine held new online talks with US and European officials; sides to meet in Berlin with 'Coalition of the Willing' (Nov 16)"
-    },
-    "summary": {
-      "ja": "2026年11月16日(月)、ゼレンスキー大統領は、米国のウィトコフ特使・クシュナー氏と欧州代表団がオンラインで協議を行ったと述べたという。複数の報道(Bloomberg、South China Morning Post、France24等)によれば、欧州の交渉担当者が初めてオンラインでウクライナ・米側の協議に加わり、戦争終結に向けた戦略を話し合ったとされる。各側は、ウクライナを支援する「有志連合」諸国とともにベルリンで会合することに合意したという。この協議は、米・ウクライナ・ロシア代表団による約9カ月ぶりのアブダビでの3者会談に続くものとされる。ゼレンスキー氏は協議を「容易ではなかった」と述べ、ロシアによる大規模攻撃が近く行われる可能性を警告したという。また、ウクライナの情報機関(HUR)によれば、ロシアは北朝鮮から毎月「数十発」の弾道ミサイルを受け取っているとされる。推測:協議の具体的な合意内容・ベルリン会合の日程は本稿執筆時点では明らかになっていない。[信頼性: 高](Bloomberg、South China Morning Post、France24等複数の国際メディアが2026年11月16日の報道として伝えている)",
-      "en": "On Monday, November 16, 2026, Ukrainian President Volodymyr Zelensky said Ukraine held new online talks with US envoys Steve Witkoff and Jared Kushner and European officials. Multiple outlets (Bloomberg, South China Morning Post, France24) reported that European negotiators joined the US-Ukraine talks online for the first time to discuss strategy for ending the war. All sides reportedly agreed to meet in Berlin together with the 'Coalition of the Willing' countries supporting Ukraine. The talks reportedly followed a trilateral summit in Abu Dhabi involving US, Ukrainian and Russian delegations, the first such meeting in about nine months. Zelensky described the discussion as 'not easy' and warned that a major Russian strike could be imminent. Separately, Ukraine's HUR intelligence directorate said Russia is receiving 'dozens' of North Korean ballistic missiles per month. Speculation: specific agreements reached and the date of the Berlin meeting were not disclosed as of this writing. [Reliability: High] (Reported as of November 16, 2026 by multiple international outlets including Bloomberg, South China Morning Post and France24)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 48.3794,
-    "lon": 31.1656,
-    "occurredAt": "2026-11-16T16:00:00+00:00",
-    "source": {
-      "name": "Bloomberg / South China Morning Post / France24",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374650/ukraine-held-new-talks-us-european-officials-peace-prospects-zelensky-says"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-17-02",
     "headline": {
       "ja": "米国株、ハイテク株中心に続落 S&P500が3営業日続落・7416.59で終了、エヌビディアは4%超安(11月16日)",
@@ -305,5 +284,48 @@
       "url": "https://abc13.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-20-01",
+    "headline": {
+      "ja": "Anthropic株、ナスダック初値111.50ドル IPO価格から34%高、史上最大のIPOで約813億ドルを調達(11月19日)",
+      "en": "Anthropic shares open at $111.50 on Nasdaq debut, up 34% from IPO price, in record ~$81.3B offering (Nov 19)"
+    },
+    "summary": {
+      "ja": "2026年11月19日(木)、AI企業Anthropicの株式がナスダックに銘柄コード「ANT」で新規上場し、取引を開始したという。複数の報道(CNN、Fox News、NBCニュース、Yahoo Finance、The Motley Fool等)によれば、前日に決定したIPO価格(1株83ドル)から約34%高い111.50ドルで取引が始まったとされる。IPOによる調達額は約813億ドルとなり、史上最大規模の新規株式公開になったという。需要は想定の6倍超に上ったとも報じられている。取引開始後、株価はいったん伸びを縮小し、報道によっては取引開始から間もなく100ドルを割り込んだとする情報もある。評価額については報道間で差があり、CNN・Yahoo Financeは取引開始価格ベースで約2兆ドルとする一方、別の集計では取引開始前のIPO価格ベースで約1.51兆ドルとしている。推測:取引開始の正確な時刻(米東部時間午前か、通常取引開始の午前9時半か)、終値・当日の最終的な株価動向については、本稿執筆時点(日本時間11月20日早朝)では確認できていない。[信頼性: 高](CNN、Fox News、NBCニュース、Yahoo Finance、The Motley Fool等複数の主要メディアが2026年11月19日の報道として伝えている。評価額の具体的な数値には媒体間で差がある)",
+      "en": "On Thursday, November 19, 2026, shares of AI company Anthropic reportedly began trading on the Nasdaq under the ticker 'ANT' following its initial public offering. Multiple outlets (CNN, Fox News, NBC News, Yahoo Finance, The Motley Fool) reported that the stock opened at $111.50, about 34% above the $83-a-share IPO price set the previous evening. The offering reportedly raised about $81.3 billion, making it the largest IPO on record; demand was said to have been oversubscribed by more than six times. Gains reportedly narrowed as the session went on, with some reports saying shares dipped back below $100 shortly after the open. Valuation figures vary across outlets: CNN and Yahoo Finance cite roughly $2 trillion based on the opening trade, while another figure of about $1.51 trillion is based on the pre-trading IPO price. Speculation: the exact opening time (whether tied to the regular 9:30am ET market open or a later time cited in some reports) and the stock's closing price for the day were not confirmed as of this writing (early morning of Nov 20 JST). [Reliability: High] (Reported as of November 19, 2026 by multiple major outlets including CNN, Fox News, NBC News, Yahoo Finance and The Motley Fool; valuation figures differ by outlet)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-19T16:00:00+00:00",
+    "source": {
+      "name": "CNN / Fox News / NBCニュース / Yahoo Finance / The Motley Fool",
+      "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-20-02",
+    "headline": {
+      "ja": "トランプ・習近平・プーチン3氏の三者会談終了、米主要メディアは「成果乏しい」と評価 クレムリン発表は核リスク低減の対話継続、ウクライナに関する合意言及なし(11月19日)",
+      "en": "Trump-Xi-Putin trilateral concludes with little substantive outcome, US media say; Kremlin readout cites nuclear-risk dialogue, no Ukraine deal mentioned (Nov 19)"
+    },
+    "summary": {
+      "ja": "2026年11月19日、中国・深センで開催されたAPEC首脳会議に合わせて行われたトランプ米大統領・習近平国家主席・プーチン露大統領の史上初の三者会談(深セン・麒麟別荘、約90分間)が終了したという。複数の米主要メディア(AP通信、CBSニュース等)は、会談自体は実現したものの、世界の重要課題について具体的な進展はほとんど見られなかったと報じ、発表された内容は「実質よりも象徴性が強い」と評価したという。ロシア側(クレムリン)の発表によれば、3氏は核リスクの低減・核不拡散について対話を続けることや、戦略的安定・国連改革への取り組みを再確認したとされる一方、ウクライナ戦争の停戦や核軍縮そのものについての具体的な合意には触れられていないという。中国側(新華社通信)はこの会談を「積極的で有益だった」と評価したと報じられている。ホワイトハウスとしての公式な会談結果の発表内容は、本稿執筆時点では確認できていない。推測:会談の開催自体・約90分間という協議時間は複数の米主要メディアが確認しているが、会談内容の評価(成果の有無)は報道機関の論調による差があり、具体的な合意事項の有無についてはロシア・中国側の発表に依拠する部分が大きい。[信頼性: 中](AP通信、CBSニュース等複数の国際メディアが2026年11月19日の報道として伝えている)",
+      "en": "On November 19, 2026, the first-ever trilateral meeting between US President Trump, Chinese President Xi Jinping and Russian President Putin — held at Shenzhen's Kylin Villa on the sidelines of the APEC leaders' summit and lasting about 90 minutes — reportedly concluded. Multiple major US outlets (AP, CBS News) reported that while the meeting itself took place, it appeared to achieve little on major global issues, describing the published accounts as more symbolism than substance. According to the Kremlin's readout, the three leaders agreed to continue dialogue on reducing nuclear risk and nuclear non-proliferation, and reaffirmed commitments to strategic stability and UN reform, but the readout reportedly made no mention of any agreement on a Ukraine ceasefire or concrete nuclear arms reductions. China's Xinhua news agency reportedly described the talks as 'positive and fruitful.' No official White House readout of the meeting's outcome had been found as of this writing. Speculation: that the meeting occurred and lasted about 90 minutes is confirmed by multiple major US outlets, but assessments of its substance vary by outlet, and the specifics of any agreements rely mainly on the Russian and Chinese accounts. [Reliability: Medium] (Reported as of November 19, 2026 by multiple international outlets including AP and CBS News)"
+    },
+    "category": "conflict",
+    "country": "中国",
+    "region": "深セン市",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "occurredAt": "2026-11-19T08:00:00+00:00",
+    "source": {
+      "name": "AP通信 / CBSニュース",
+      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+    },
+    "reliability": "medium"
   }
 ]
