@@ -52,6 +52,32 @@
     "periodEnd": "2026-11-29T00:00:00Z"
   },
   {
+    "id": "2026-11-16-ru-000207",
+    "recordType": "aggregate",
+    "country": "RU",
+    "unitName": null,
+    "unitNumber": null,
+    "aircraftType": "other",
+    "position": {
+      "area": "日本領空近辺（東シナ海・沖ノ島北西部）",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "日本防衛大臣が、疑わしいロシア航空機が日本領空を2回侵犯したと発表。現地時間木曜日午前4時7分～4時10分と4時9分～4時12分に沖ノ島北西部の東シナ海上空で発生",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/17/suspected-russian-aircraft-violated-japans-airspace-says-defense-minister"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-18T04:46:56+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 2,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
     "id": "2026-11-08-jp-000154",
     "recordType": "aggregate",
     "country": "JP",

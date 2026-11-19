@@ -93,8 +93,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -150,6 +150,30 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-17-us-000206",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Toledo",
+    "shipNumber": "SSN-769",
+    "shipType": "submarine",
+    "position": {
+      "area": "横須賀",
+      "lat": 35.2807,
+      "lon": 139.6424,
+      "approximate": true
+    },
+    "activity": "ロサンゼルス級原子力潜水艦「トレド」が横須賀港に入港した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37575/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-18T04:46:56+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-17T10:34:00+09:00"
+  },
+  {
     "id": "2026-11-16-cn-000196",
     "recordType": "individual",
     "country": "CN",
@@ -193,6 +217,54 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-17T10:00:00+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "2026-11-16-gb-000204",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "Prince of Wales",
+    "shipNumber": "R09",
+    "shipType": "carrier",
+    "position": {
+      "area": "北大西洋・北極圏周辺",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "イギリス海軍のクイーン・エリザベス級航空母艦「プリンス・オブ・ウェールズ」がファイアクレスト作戦を完了し、11月16日にポーツマスに帰港した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37563/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-18T04:46:56+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "2026-11-16-us-000205",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "North Dakota",
+    "shipNumber": "SSN-756",
+    "shipType": "submarine",
+    "position": {
+      "area": "パールハーバー",
+      "lat": 21.3737,
+      "lon": -157.9477,
+      "approximate": true
+    },
+    "activity": "バージニア級原子力潜水艦「ノース・ダコタ」が新母港のパールハーバーに到着し、第1潜水戦隊に編入された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37542/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-18T04:46:56+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-16T00:00:00Z"
@@ -339,8 +411,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-15T00:00:00Z"
   },
   {
@@ -723,8 +795,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-12T00:00:00Z"
   },
   {
@@ -1203,8 +1275,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-04T21:21:02+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1227,8 +1299,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-04T21:21:02+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1251,8 +1323,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1275,8 +1347,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-10T21:21:38.044335+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1299,8 +1371,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1323,8 +1395,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1347,8 +1419,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-05T21:21:53.373754+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-04T00:00:00Z"
   },
   {
@@ -1371,8 +1443,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-04T21:21:02+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-03T22:02:02Z"
   },
   {
@@ -2750,7 +2822,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-22T00:00:00Z"
   },
   {
@@ -3232,7 +3304,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
