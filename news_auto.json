@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-66142",
+    "headline": {
+      "ja": "クリミア橋が再び攻撃を受け、交通が遮断される",
+      "en": "Crimean Bridge attacked again, traffic suspended"
+    },
+    "summary": {
+      "ja": "クリミア行政責任者が、ロシアと占領地クリミアを結ぶ橋が再び攻撃を受けて交通が遮断されたと発表した。",
+      "en": "The head of Crimea announced another attack on the bridge connecting Russia to occupied Crimea, suspending traffic."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-19T01:05:03+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "crimea_bridge_attack_2026-11-19"
+  },
+  {
+    "id": "auto-65365",
+    "headline": {
+      "ja": "サウジ連合軍がイエメンのミサイル発射台破壊と発表",
+      "en": "Saudi-led coalition destroyed missile platform in Yemen's Saada"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の連合軍がイエメンのサアダにある弾道ミサイル発射台を破壊したと発表。イランは船舶3隻が機雷に接触したと主張している。",
+      "en": "Saudi-led coalition claims destruction of ballistic missile launcher in Saada, Yemen; Iran claims three ships hit mines."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 16.9402,
+    "lon": 43.7639,
+    "occurredAt": "2026-11-19T00:01:02+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saada_coalition_strike_2026-11-19"
+  },
+  {
+    "id": "auto-65925",
+    "headline": {
+      "ja": "フーシ派がリヤドの空港・金融センター攻撃を主張",
+      "en": "Houthis claim cruise missile strike on Riyadh airport and financial center"
+    },
+    "summary": {
+      "ja": "フーシ派がサウジアラビアの首都リヤドにある空港および金融センターへの巡航ミサイル攻撃を実行したと主張した。",
+      "en": "Houthis claimed responsibility for cruise missile strikes on Riyadh's airport and financial center."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-18T21:15:30+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5RX1U1c1JFaWxfdVlveVNBMEJVWFY0Y045RndWVW9VWUJWZ29Md3VpSWNxWHcyT1ZOQ3F3bFQtUFJoWWFl0gFKQVVfeXFMTjJRZG9jbkQ1eklDWFY3V0Q2dm1zclh2VnoxaW5lenVIY2oyal9ST1M4VHJJelBGZWZvN1d6d01FQVNaVU9qbUdHZmc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_arabia_houthi_missile_attack_riyadh_2026-11-18"
+  },
+  {
+    "id": "auto-65774",
+    "headline": {
+      "ja": "イスラエルがガザ中部で1年ぶり地上作戦、パレスチナ人が死亡",
+      "en": "Israel's ground offensive in central Gaza kills Palestinian, displaces families"
+    },
+    "summary": {
+      "ja": "イスラエルがガザ中部で1年ぶりの大規模な地上作戦を展開し、少なくとも1人のパレスチナ人が死亡し複数家族が避難した。",
+      "en": "Israel launches first broad ground offensive in central Gaza in a year, killing a Palestinian and displacing families."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-18T12:56:45+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeXZ3eHhBV19FeUZ3LWxzQzVEaWMxTENmUEx5dG1LWXl0MmUxcWwtZ3g1Mk5lbm16TnlwcXljVTVxU1ZaV0pnS0t2OTI2ZGJ4RE9aTkZXc2ZZd3Q3NF9fRlhwSENiQ0ROWnZ6YnFRd1hSdXBvM2w3MVg2M2RaUnBUUF9mT2VjT1BoVnQtOGNIWjlZaXNwSmgyWmNmalZpZ0NuWHhjcUYxUl9IaDNwRkljZEJyY3U3ZWZ2TkNSN1QxRVp2TTJoR1BBbk9MWE5LTEhLdi13YTZGakVVU0FMSkRmbWNLcw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israel_ground_offensive_2026-11-18"
+  },
+  {
     "id": "auto-64801",
     "headline": {
       "ja": "プーチン大統領が9年ぶりにAPEC首脳会議に登場",
@@ -3796,75 +3888,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_moscow_dmitriev_us_envoys_2026-11-12"
-  },
-  {
-    "id": "auto-56609",
-    "headline": {
-      "ja": "サウジがフーシ派ミサイル迎撃、破片がメッカ地域に落下",
-      "en": "Saudi Arabia intercepts Houthi missile, debris falls in Mecca region"
-    },
-    "summary": {
-      "ja": "サウジアラビアはイエメンのフーシ派からのミサイルを迎撃したが、その破片がサウジアラビアのメッカ地域に落下したとトルコのアナドル通信が報じた。",
-      "en": "Saudi Arabia intercepted a missile from Yemen's Houthi movement, but debris from the interception fell in the Mecca region of Saudi Arabia, according to Turkey's Anadolu Agency."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 21.4266,
-    "lon": 39.8256,
-    "occurredAt": "2026-11-12T00:47:08+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2xLa1A4dnJpdUE0QUFrSFhyNUVmblJYZzRod0hHcFRKYlplSkFWLW9NdWxBUEs5M3dOMnJhdEZlZVIzVjJqUkxYQjRBWXFiNXdLc2w2X0p5NG5oWDZQTm9jN3lQX3hLM212dHVFQWVVbi1rdmZNTC10bG9Yb050dmdBN1RESFBjUmh4YTVGNEoxX0dzRlBrbTdWY3FPRFhRVElVTDVEclZYZlZNQU9IeDN2RE5nblRq?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_houthi_missile_intercept_mecca_2026-11-12"
-  },
-  {
-    "id": "auto-56676",
-    "headline": {
-      "ja": "イスラエル空爆がガザのナッサー病院を攻撃、パレスチナ人6人が殺害",
-      "en": "Israeli airstrike kills 6 Palestinians at Nasser Hospital in southern Gaza"
-    },
-    "summary": {
-      "ja": "ガザ南部のナッサー病院がイスラエルの空爆により被害を受け、パレスチナ人6人が殺害された。",
-      "en": "Israeli airstrike struck Nasser Hospital in southern Gaza, killing 6 Palestinians."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.3402,
-    "lon": 34.3063,
-    "occurredAt": "2026-11-12T00:47:08+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnZ2RDJPS2ZWNk1Md2x0aW5SMGRGQUFaUGhLM3h3WU9fOG9RSkNsS3NiNzNBMW5uS1Nvb0tlX2x3WnZyb0xJSzY1Z1F2MUNjd0JCTVFWRUlHYnFiWHpLVjY4cWpBNFVWNTBmVGJxMVQzRTBockZiRGFBTW9JR3ZJMUNsbVhjX2pqZXlkd0dtM285TFZ2WXVsLUVzU3hBbko2NDlkLUFyUldLUEtibmtlYnhHbTFyamc2dUdj?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_airstrike_nasser_hospital_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-56716",
-    "headline": {
-      "ja": "イランの革命防衛隊が制裁下でのミサイル開発継続を誓約、イスラエルが対イラン準備を強化",
-      "en": "Iran's IRGC pledges continued missile development despite sanctions as Israel prepares for possible attack"
-    },
-    "summary": {
-      "ja": "イランの革命防衛隊首脳が、国際制裁によってもミサイル開発は継続すると表明した。イスラエルはこれに対応する形でイラン攻撃に向けた軍事準備を強化している。",
-      "en": "Iran's Islamic Revolutionary Guard Corps chief pledged continued missile development despite international sanctions. Israel has ordered its military to step up preparations for a possible attack on Iran in response."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T00:00:44+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_israel_military_tensions_2026-11-12"
   }
 ]
