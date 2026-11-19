@@ -21,6 +21,27 @@
     "reliability": "medium"
   },
   {
+    "id": "2026-11-19-05",
+    "headline": {
+      "ja": "バーレーン、イラン共謀容疑でシーア派聖職者ら64人に終身刑",
+      "en": "Bahrain sentences dozens of Shiite clerics to life in prison over alleged Iran-linked plot"
+    },
+    "summary": {
+      "ja": "バーレーンの裁判所は11月16日、イラン革命防衛隊(IRGC)と共謀して政府転覆を図ったとして、シーア派聖職者を含む59~69人に有罪判決を下し、64人に終身刑(他5人に禁錮15年)を科したと複数の国際通信社・人権団体(バーレーン人権民主化研究所=BIRD)が報じた。判決対象にはイラン在住のバーレーン・シーア派最高指導者格イサ・カシム師も含まれる(欠席裁判)。検察側は説教を通じた反政府扇動を主張しているが、BIRD等の人権団体は自白の強要・政治的弾圧だと主張している。事実と推測(人権団体の評価)は報道上も分かれており、ここでは両論併記とする。[信頼性: 高]",
+      "en": "A Bahraini court on Nov 16 convicted dozens of Shiite clerics and others of plotting with Iran's Revolutionary Guard Corps to overthrow the government, sentencing 64 (including senior cleric Sheikh Isa Qassim, tried in absentia while residing in Iran) to life in prison and five others to 15 years, according to multiple wire reports and the Bahrain Institute for Rights and Democracy (BIRD). Prosecutors allege the clerics used sermons to incite opposition; rights groups say confessions were coerced and the case is politically motivated. [Reliability: High]"
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.0667,
+    "lon": 50.5577,
+    "occurredAt": "2026-11-16T10:00:00+00:00",
+    "source": {
+      "name": "Reuters(Internazionale/Timeslive等配信)・BIRD(バーレーン人権民主化研究所)",
+      "url": "https://www.timeslive.co.za/news/world/2026-11-16-scores-of-bahraini-shiite-clerics-get-life-in-prison-for-plotting-with-iran/"
+    },
+    "reliability": "high"
+  },
+  {
     "id": "2026-11-17-01",
     "headline": {
       "ja": "ゼレンスキー氏、米・欧州代表とオンライン協議 ベルリンで「有志連合」との会合へ(11月16日)",
@@ -109,6 +130,52 @@
     "severity": 4
   },
   {
+    "id": "2026-11-19-01",
+    "headline": {
+      "ja": "米軍、イラン・ケシム島のIRGC関連ミサイル発射拠点を攻撃 バーレーンへのドローン攻撃主張への「自衛」対応と説明(11月17日)",
+      "en": "US forces strike IRGC-linked missile launch site on Iran's Qeshm Island, calling it 'self-defense' after claimed drone attack on Bahrain (Nov 17)"
+    },
+    "summary": {
+      "ja": "2026年11月17日(火)、米軍機がイラン革命防衛隊(IRGC)関連とされるミサイル発射拠点をイラン・ケシム島(ホルモズガーン州)で攻撃したという。複数の報道(Bloomberg、CNN、Al Jazeera等)によれば、米側はこれを、IRGCがバーレーンの米軍施設(シェイク・イサ空軍基地)のレーダーをドローンで狙ったとする主張(米中央軍はこのドローンは迎撃済みと説明)への「自衛」の対応と説明したとされる。イラン・ホルモズガーン州副知事は、住宅・商業地域や重要インフラへの被害はなかったと述べたと報じられている。イラン側は攻撃があったことは認めたが、被害の実態は不明とされる。これは5月以降続く米・イラン間の攻撃の応酬の最新の一幕とされ、この後11月18日にはイランによるクウェート・バーレーンへの攻撃(別記事)に発展したという。推測:米軍の攻撃の規模・具体的な被害状況、イラン側のドローン攻撃主張の正確性は独立検証ができていない。[信頼性: 中](Bloomberg、CNN、Al Jazeera等複数の国際メディアが2026年11月17日の報道として伝えている)",
+      "en": "On Tuesday, November 17, 2026, US aircraft reportedly struck a missile launch site linked to Iran's Islamic Revolutionary Guard Corps (IRGC) on Qeshm Island, in Iran's Hormozgan province. Multiple outlets (Bloomberg, CNN, Al Jazeera) reported that the US described the strike as 'self-defense,' responding to an IRGC claim of a drone attack on a radar system at a US facility in Bahrain (Sheikh Isa Air Base), which US Central Command said it intercepted. Iran's deputy governor of Hormozgan province reportedly said the strike caused no damage to residential or commercial areas or critical infrastructure. Iran acknowledged the strike occurred, but the extent of damage remains unclear. This is reported as the latest episode in a US-Iran exchange of strikes that has continued since May, and was followed on November 18 by Iranian strikes on Kuwait and Bahrain (separate entry). Speculation: the scale of the US strike and the accuracy of Iran's drone-attack claim have not been independently verified. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including Bloomberg, CNN and Al Jazeera)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルモズガーン州(ケシム島)",
+    "lat": 27.1865,
+    "lon": 56.2808,
+    "occurredAt": "2026-11-17T12:00:00+00:00",
+    "source": {
+      "name": "Bloomberg / CNN / Al Jazeera",
+      "url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes"
+    },
+    "reliability": "medium",
+    "severity": 4
+  },
+  {
+    "id": "2026-11-19-04",
+    "headline": {
+      "ja": "ホルムズ海峡でUAE国営海運ADNOCのタンカーが被弾 船員1名行方不明・11名負傷、別のLPGタンカーも被弾(11月17日)",
+      "en": "UAE's ADNOC tanker attacked in Strait of Hormuz, one crew member missing and 11 injured; separate LPG tanker also hit (Nov 17)"
+    },
+    "summary": {
+      "ja": "2026年11月17日(火)、UAE国営海運会社ADNOC L&S(ADNOC Logistics & Services)の船舶がホルムズ海峡で攻撃を受けたという。複数の報道(The National、Reuters配信記事、SAFETY4SEA、U.S. News、Shafaq News等)によれば、ADNOC L&S自身の発表として、船員1名が行方不明、11名が負傷し、残りの船員は避難済みと説明したという。関係当局と連携して捜索・救助活動を継続中とされる。同じ海域で別のLPGタンカー「Tara Gas」も被弾し、オマーン当局が24名を救助、1名の行方を捜索中と報じられている。英海事当局(UKMTO)は、オマーン・ハサブの北約13海里の地点で未確認の飛来物によりタンカーが被弾し火災が発生(後に消火)したと発表したという。これは同時期の米軍によるイラン・ケシム島攻撃、イランによるクウェート・バーレーンへの攻撃(既報・別記事)と同じ米・イラン間攻撃応酬の一部とみられている。推測:行方不明の船員の安否、攻撃の実行主体については本稿執筆時点で直接の認否報道は確認できていない。[信頼性: 高](ADNOC L&S自身の発表に基づくReuters配信記事を、The National・U.S. News・SAFETY4SEA・Shafaq News等複数の主要メディアが2026年11月18日の報道として伝えている)",
+      "en": "On Tuesday, November 17, 2026, a vessel operated by UAE state shipping company ADNOC Logistics & Services (ADNOC L&S) was reportedly attacked in the Strait of Hormuz. Multiple outlets (The National, a Reuters wire report, SAFETY4SEA, U.S. News, Shafaq News) reported that ADNOC L&S itself said one crew member was missing and 11 injured, with the rest of the crew evacuated; search and rescue operations were reportedly ongoing with relevant authorities. A separate LPG tanker, 'Tara Gas,' was also hit in the same area, with Omani authorities reportedly rescuing 24 crew members while searching for one missing person. The UK Maritime Trade Operations (UKMTO) reportedly said a tanker was struck by an unidentified projectile about 13 nautical miles north of Khasab, Oman, sparking a fire that was later extinguished. This is reported as part of the same US-Iran exchange of strikes that also included the US strike on Iran's Qeshm Island and Iran's strikes on Kuwait and Bahrain around the same time (separate entries). Speculation: the fate of the missing crew member and the identity of the attacker have not been directly confirmed as of this writing. [Reliability: High] (Reported as of November 18, 2026 by multiple major outlets including The National, U.S. News (Reuters wire), SAFETY4SEA and Shafaq News, based on ADNOC L&S's own statement)"
+    },
+    "category": "conflict",
+    "country": "イラン/オマーン",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-17T12:00:00+00:00",
+    "source": {
+      "name": "The National / Reuters / SAFETY4SEA / U.S. News / Shafaq News",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/"
+    },
+    "reliability": "high",
+    "severity": 4
+  },
+  {
     "id": "2026-11-18-01",
     "headline": {
       "ja": "エヌビディア、2027会計年度第3四半期決算で予想上回る増収・増益 データセンター事業急拡大、第4四半期も強い見通し(11月17日)",
@@ -150,29 +217,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-11-19-01",
-    "headline": {
-      "ja": "米軍、イラン・ケシム島のIRGC関連ミサイル発射拠点を攻撃 バーレーンへのドローン攻撃主張への「自衛」対応と説明(11月17日)",
-      "en": "US forces strike IRGC-linked missile launch site on Iran's Qeshm Island, calling it 'self-defense' after claimed drone attack on Bahrain (Nov 17)"
-    },
-    "summary": {
-      "ja": "2026年11月17日(火)、米軍機がイラン革命防衛隊(IRGC)関連とされるミサイル発射拠点をイラン・ケシム島(ホルモズガーン州)で攻撃したという。複数の報道(Bloomberg、CNN、Al Jazeera等)によれば、米側はこれを、IRGCがバーレーンの米軍施設(シェイク・イサ空軍基地)のレーダーをドローンで狙ったとする主張(米中央軍はこのドローンは迎撃済みと説明)への「自衛」の対応と説明したとされる。イラン・ホルモズガーン州副知事は、住宅・商業地域や重要インフラへの被害はなかったと述べたと報じられている。イラン側は攻撃があったことは認めたが、被害の実態は不明とされる。これは5月以降続く米・イラン間の攻撃の応酬の最新の一幕とされ、この後11月18日にはイランによるクウェート・バーレーンへの攻撃(別記事)に発展したという。推測:米軍の攻撃の規模・具体的な被害状況、イラン側のドローン攻撃主張の正確性は独立検証ができていない。[信頼性: 中](Bloomberg、CNN、Al Jazeera等複数の国際メディアが2026年11月17日の報道として伝えている)",
-      "en": "On Tuesday, November 17, 2026, US aircraft reportedly struck a missile launch site linked to Iran's Islamic Revolutionary Guard Corps (IRGC) on Qeshm Island, in Iran's Hormozgan province. Multiple outlets (Bloomberg, CNN, Al Jazeera) reported that the US described the strike as 'self-defense,' responding to an IRGC claim of a drone attack on a radar system at a US facility in Bahrain (Sheikh Isa Air Base), which US Central Command said it intercepted. Iran's deputy governor of Hormozgan province reportedly said the strike caused no damage to residential or commercial areas or critical infrastructure. Iran acknowledged the strike occurred, but the extent of damage remains unclear. This is reported as the latest episode in a US-Iran exchange of strikes that has continued since May, and was followed on November 18 by Iranian strikes on Kuwait and Bahrain (separate entry). Speculation: the scale of the US strike and the accuracy of Iran's drone-attack claim have not been independently verified. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including Bloomberg, CNN and Al Jazeera)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルモズガーン州(ケシム島)",
-    "lat": 27.1865,
-    "lon": 56.2808,
-    "occurredAt": "2026-11-17T12:00:00+00:00",
-    "source": {
-      "name": "Bloomberg / CNN / Al Jazeera",
-      "url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes"
-    },
-    "reliability": "medium",
-    "severity": 4
   },
   {
     "id": "2026-11-19-02",
@@ -219,26 +263,25 @@
     "severity": 4
   },
   {
-    "id": "2026-11-19-04",
+    "id": "2026-11-19-06",
     "headline": {
-      "ja": "ホルムズ海峡でUAE国営海運ADNOCのタンカーが被弾 船員1名行方不明・11名負傷、別のLPGタンカーも被弾(11月17日)",
-      "en": "UAE's ADNOC tanker attacked in Strait of Hormuz, one crew member missing and 11 injured; separate LPG tanker also hit (Nov 17)"
+      "ja": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱、津波の心配なし",
+      "en": "M5.7 earthquake hits Amakusa-Ashikita region, Kumamoto Prefecture; max intensity 5-weak, no tsunami"
     },
     "summary": {
-      "ja": "2026年11月17日(火)、UAE国営海運会社ADNOC L&S(ADNOC Logistics & Services)の船舶がホルムズ海峡で攻撃を受けたという。複数の報道(The National、Reuters配信記事、SAFETY4SEA、U.S. News、Shafaq News等)によれば、ADNOC L&S自身の発表として、船員1名が行方不明、11名が負傷し、残りの船員は避難済みと説明したという。関係当局と連携して捜索・救助活動を継続中とされる。同じ海域で別のLPGタンカー「Tara Gas」も被弾し、オマーン当局が24名を救助、1名の行方を捜索中と報じられている。英海事当局(UKMTO)は、オマーン・ハサブの北約13海里の地点で未確認の飛来物によりタンカーが被弾し火災が発生(後に消火)したと発表したという。これは同時期の米軍によるイラン・ケシム島攻撃、イランによるクウェート・バーレーンへの攻撃(既報・別記事)と同じ米・イラン間攻撃応酬の一部とみられている。推測:行方不明の船員の安否、攻撃の実行主体については本稿執筆時点で直接の認否報道は確認できていない。[信頼性: 高](ADNOC L&S自身の発表に基づくReuters配信記事を、The National・U.S. News・SAFETY4SEA・Shafaq News等複数の主要メディアが2026年11月18日の報道として伝えている)",
-      "en": "On Tuesday, November 17, 2026, a vessel operated by UAE state shipping company ADNOC Logistics & Services (ADNOC L&S) was reportedly attacked in the Strait of Hormuz. Multiple outlets (The National, a Reuters wire report, SAFETY4SEA, U.S. News, Shafaq News) reported that ADNOC L&S itself said one crew member was missing and 11 injured, with the rest of the crew evacuated; search and rescue operations were reportedly ongoing with relevant authorities. A separate LPG tanker, 'Tara Gas,' was also hit in the same area, with Omani authorities reportedly rescuing 24 crew members while searching for one missing person. The UK Maritime Trade Operations (UKMTO) reportedly said a tanker was struck by an unidentified projectile about 13 nautical miles north of Khasab, Oman, sparking a fire that was later extinguished. This is reported as part of the same US-Iran exchange of strikes that also included the US strike on Iran's Qeshm Island and Iran's strikes on Kuwait and Bahrain around the same time (separate entries). Speculation: the fate of the missing crew member and the identity of the attacker have not been directly confirmed as of this writing. [Reliability: High] (Reported as of November 18, 2026 by multiple major outlets including The National, U.S. News (Reuters wire), SAFETY4SEA and Shafaq News, based on ADNOC L&S's own statement)"
+      "ja": "気象庁発表等によると、11月19日午前2時22分頃、熊本県天草・芦北地方を震源とする地震があり、球磨村・あさぎり町・水俣市・芦北町・津奈木町などで最大震度5弱を観測した。マグニチュードは5.7、震源の深さは約10km、津波の心配はない。九州道(人吉IC~八代IC)・南九州道(日奈久IC~八代南IC)が通行止めとなったと報じられている。現時点で人的被害の報告は確認されていない。2026年7月の熊本地方M7.1の地震以降、同地域で地震活動が継続しており、気象台は1週間程度最大震度5弱程度の地震への注意を呼びかけている。[信頼性: 高]",
+      "en": "According to Japan's Meteorological Agency and local media, an M5.7 earthquake struck the Amakusa-Ashikita region of Kumamoto Prefecture at around 2:22am JST on Nov 19, with a maximum intensity of 5-weak observed in several towns (Kuma, Asagiri, Minamata, Ashikita, Tsunagi). Depth was about 10km; no tsunami risk. Sections of the Kyushu and Minami-Kyushu expressways were closed. No casualties have been reported so far. Seismic activity has continued in the region since the M7.1 Kumamoto earthquake of July 2026, and authorities are warning of possible M5-weak-level aftershocks for about a week. [Reliability: High]"
     },
-    "category": "conflict",
-    "country": "イラン/オマーン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-17T12:00:00+00:00",
+    "category": "disaster",
+    "country": "日本",
+    "region": "熊本県",
+    "lat": 32.7898,
+    "lon": 130.7417,
+    "occurredAt": "2026-11-18T17:22:00+00:00",
     "source": {
-      "name": "The National / Reuters / SAFETY4SEA / U.S. News / Shafaq News",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/"
+      "name": "日本気象協会(tenki.jp)・Yahoo!天気・災害",
+      "url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2026/11/19/2026-11-19-02-22-25.html"
     },
-    "reliability": "high",
-    "severity": 4
+    "reliability": "high"
   }
 ]
