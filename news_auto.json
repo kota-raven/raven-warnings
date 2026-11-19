@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-66171",
+    "headline": {
+      "ja": "ICJ、ミャンマーのロヒンギャ民族大量虐殺事件で判決",
+      "en": "ICJ to rule on Rohingya genocide case against Myanmar"
+    },
+    "summary": {
+      "ja": "ガンビアがミャンマーの2017年軍事作戦によるロヒンギャ民族への大量虐殺を国際司法裁判所に提訴、少なくとも73万人が強制的に移住させられた",
+      "en": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya"
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 19.745,
+    "lon": 96.1297,
+    "occurredAt": "2026-11-19T02:10:43+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "rohingya_genocide_icj_verdict",
+    "severity": 4
+  },
+  {
     "id": "auto-66142",
     "headline": {
       "ja": "クリミア橋が再び攻撃を受け、交通が遮断される",
@@ -46,6 +70,30 @@
     "eventKey": "yemen_saada_coalition_strike_2026-11-19"
   },
   {
+    "id": "auto-65800",
+    "headline": {
+      "ja": "イスラエル、ガザ中部作戦は米国と協調・数日継続予定",
+      "en": "Israel says Gaza offensive coordinated with US, expected to last days"
+    },
+    "summary": {
+      "ja": "イスラエル政府は、ガザ中部での軍事作戦が米国と調整済みで、数日間継続される見通しを発表した",
+      "en": "Israeli officials announced the central Gaza military operation is coordinated with the United States and expected to continue for several days"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-18T23:31:14+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWUtWlhlTU44eDNxNGF3bEQ3WEtxSURmb2VrSmVwRlhUbnQwRDJMMkF4ODVydEsxTFNIQ1dXVXFpTWxCeGdUYy12bVNMRWlsTHU5c1lWOEFGOGxuaVdtYU1TVGxHaHNPUkp3LXRnZV9kcjhwYlRuWEtDUHNtREVFbDk3Qk1ldTVVYm1OSER3SkF5Vkp0WWt3bHBKZ2d1ZHl3Z3BTaDY2dHRHS1BBSmFwdjlZSXphMEpRcTFJ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israel_us_coordinated_offensive_2026-11-18",
+    "severity": 4
+  },
+  {
     "id": "auto-65925",
     "headline": {
       "ja": "フーシ派がリヤドの空港・金融センター攻撃を主張",
@@ -69,6 +117,52 @@
     "eventKey": "saudi_arabia_houthi_missile_attack_riyadh_2026-11-18"
   },
   {
+    "id": "auto-65743",
+    "headline": {
+      "ja": "ポーランド、ウクライナ責任転嫁狙うロシア陰謀を挫折",
+      "en": "Poland thwarts Russian plot to frame Ukraine for deadly attack"
+    },
+    "summary": {
+      "ja": "ポーランド政府は、ウクライナに責任を押し付けるロシアの陰謀を摘発・阻止したと発表した",
+      "en": "Polish government announced it exposed and foiled a Russian plot to blame Ukraine for a deadly attack"
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "occurredAt": "2026-11-18T14:00:43+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZjSUdKSDJCQ09MYVJGUXp1MVl3MFk3cWpQOU9KMTFfcG9qcWV3VmtVTW5UUlZvc3ZBNHZZR2RZSlMxMm1DMEpnNWw3ZVZQVUdHRThuTTB3eTFCb2RBejdaQV8zdnJ2UzBSM0JORE52bGR4aTl1UDRPb1VGcmlCTzQwNEdSZFdGNDhUaHFHRWFPTURSZU5zTmJuQnZfTUlaeDFaZmh4Q2szWlRCRXd0S28yVQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_russia_false_flag_plot_2026-11-18"
+  },
+  {
+    "id": "auto-65773",
+    "headline": {
+      "ja": "Hamasがイスラエル軍のガザ停戦違反を「露骨な侵害」と非難",
+      "en": "Hamas condemns Israeli offensive as flagrant ceasefire violation"
+    },
+    "summary": {
+      "ja": "Hamasのアカウントで、イスラエル軍がガザ中部の停戦協定を露骨に違反したとの非難があった",
+      "en": "Hamas issued a statement condemning Israeli military offensive in central Gaza as a blatant violation of the ceasefire"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-18T13:46:42+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRmVtZlRDU0N2QUxpbFB2TndHaUtPbjU5eE9OLVJCTmxXR0ctdkphb2NnUnY1cG1aekZvbm1MUUQ1VFIxVG03VXhKLU5VRFZJcFdmSU1jMzB1blh5WmlLZndqaFhFX3d5QlNRY0h2VTYxd2FRRWJEdEw3UEF2SUNaaW55dkNMN3gzSlZPMkxQcTNNUHFHdjFXWWNCTmVtOEdDN1RVc0dfN2cydjl6dkt6Rkh4WkVYaXA4S2ppUWF6eUFyZThVNHJ3UXl2MzdUUQ?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "gaza_ceasefire_violation_hamas_2026-11-18"
+  },
+  {
     "id": "auto-65774",
     "headline": {
       "ja": "イスラエルがガザ中部で1年ぶり地上作戦、パレスチナ人が死亡",
@@ -90,6 +184,54 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "gaza_israel_ground_offensive_2026-11-18"
+  },
+  {
+    "id": "auto-65753",
+    "headline": {
+      "ja": "イスラエル軍、停戦中ガザ中部で軍事作戦開始",
+      "en": "Israeli forces launch offensive in central Gaza during ceasefire"
+    },
+    "summary": {
+      "ja": "イスラエル軍は停戦協定に違反してガザ中部での軍事作戦を開始した",
+      "en": "Israeli military launched a military operation in central Gaza despite the ceasefire agreement"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-18T12:20:18+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdldzeWtqb1ZRVDFNYndDNDhpUHdwOV9hNzloUElQUHpMaUY0LU5zLUIzR2pNWXQxVzd4MVE4YnFuQjdTVVZic2VrRGxNVnY3V1hxekFDMGRaTUpCQmNCZ1AwNkdPUXJwQmxJejhqVmFBSTFmVWFXQU9YVE9ZNWpiSERRckdjOHdoZVU5ZjFwRFBYd0xOdmdVSnRlN2IxNkYwRTJ5ZkdMaFVLV184ZTRZVUxnR3J1ckV6THRZ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israel_central_offensive_2026-11-18",
+    "severity": 4
+  },
+  {
+    "id": "auto-65776",
+    "headline": {
+      "ja": "イスラエル、ガザ・レバノン・シリアでの領土拡大を示唆",
+      "en": "Israel signals intention to seize territory in Gaza, Lebanon, Syria"
+    },
+    "summary": {
+      "ja": "イスラエル政府は、ガザ、レバノン、シリアでの領土拡大の意向を示唆した",
+      "en": "Israeli officials indicated intentions to expand territory in Gaza, Lebanon, and Syria"
+    },
+    "category": "conflict",
+    "country": "イスラエル",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "occurredAt": "2026-11-18T11:52:32+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjBIdWx6QjQxalAxYjRvc3NBdjFIQWlfUjJPU3FwdUZCUEZLbGR1LUFBb2cxajA5RGFoQzl6ZXZxLTc0eDlqUU5vd2ZwZHB3b1NkbWVkejMxRi0wUDYzZGdkYXF2dTJtNXFUVDBkYVNyaEhNOW5oM05wYTV3MjN6eVVXNWJDSEZGU2NBamhram9qdGFPNDJpWVd2LUFYa1lwcVU3X3JMeVJ2VmVW?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_territorial_expansion_2026-11-18",
+    "severity": 4
   },
   {
     "id": "auto-64801",
@@ -2823,908 +2965,5 @@
     "reliability": "low",
     "auto": true,
     "eventKey": "iran_irgc_pjak_cell_dismantled_2026-11-12"
-  },
-  {
-    "id": "auto-57545",
-    "headline": {
-      "ja": "ロシア軍司令官、ザポリージャ原発の重要設備への攻撃が強まったと主張",
-      "en": "Russian commander claims Kiev troops intensify attacks on vital parts of ZNPP"
-    },
-    "summary": {
-      "ja": "ロシア側の軍司令官は、ウクライナ軍がザポリージャ原子力発電所の重要設備への攻撃を強めていると主張した。ウクライナ側の確認は取れていない。",
-      "en": "A Russian military commander claimed Ukrainian forces have intensified attacks on vital parts of the Zaporizhzhia nuclear plant. Ukrainian confirmation is unavailable."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 47.4905,
-    "lon": 34.662,
-    "occurredAt": "2026-11-12T21:35:42+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UancwUTVHSmNpenZDUUctaENsaTcxUFFGeEZZVVc3bWtqRTFWcTJPbDN5VVlFWWozMnFDZUotS2xjVlE4NW14cUxrcUhmZ9IBTkFVX3lxTE5UancwUTVHSmNpenZDUUctaENsaTcxUFFGeEZZVVc3bWtqRTFWcTJPbDN5VVlFWWozMnFDZUotS2xjVlE4NW14cUxrcUhmZw?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "ukraine_zaporizhzhia_npp_attack_claim_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57690",
-    "headline": {
-      "ja": "イラン政府、米国の攻撃に協力する国は違法行為への加担になると警告",
-      "en": "Iran warns foreign governments against involvement in US aggression"
-    },
-    "summary": {
-      "ja": "イラン外務省の報道官は、米国による対イラン戦争に海軍・軍事・兵站の支援を行う国は、航行の自由の保護を名目としていても違法な侵略への加担に当たり、その結果に責任を負うと警告した。",
-      "en": "Iran's Foreign Ministry spokesperson warned that foreign governments providing naval, military or logistical support to the US war on Iran would be participating in an unlawful act of aggression and be held responsible."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T21:20:51+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320269/Iran-warns-foreign-governments-against-involvement-in-US-aggression"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_warning_foreign_support_us_strikes_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57592",
-    "headline": {
-      "ja": "米ワシントンで発砲事件、1人死亡",
-      "en": "Deadly shooting in Washington DC leaves one dead"
-    },
-    "summary": {
-      "ja": "米首都ワシントンのホワイトハウスから約1.6キロの地点で発砲があり、1人が死亡した。警察が捜査を進めている。",
-      "en": "Police in the US capital are investigating a shooting about a mile from the White House that left one person dead."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-12T21:18:24+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_washington_dc_shooting_2026-11-12"
-  },
-  {
-    "id": "auto-57647",
-    "headline": {
-      "ja": "英国政府、イエメンのフーシ派制裁決議への支持を表明",
-      "en": "UK explains vote supporting UN Security Council resolution on Yemen sanctions"
-    },
-    "summary": {
-      "ja": "英国政府は、国連安保理でのイエメン制裁決議の採決を受け、フーシ派による無謀な攻撃に断固とした行動を取る決意を示すものだと表明した。",
-      "en": "The UK government stated that the UN Security Council resolution on Yemen sanctions demonstrates the Council's determination to take decisive action against reckless Houthi attacks."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-12T20:53:40+00:00",
-    "source": {
-      "name": "英国 外務・英連邦・開発省",
-      "url": "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "un_yemen_houthi_sanctions_resolution_2026-11-12"
-  },
-  {
-    "id": "auto-57595",
-    "headline": {
-      "ja": "米政府、ベネズエラの石油・鉱物資源収入120億ドルに関する報告書を公表",
-      "en": "US releases report on $12bn from Venezuelan oil, mineral resources"
-    },
-    "summary": {
-      "ja": "米政府は、ベネズエラの石油・鉱物資源から得られた120億ドルに関する報告書を公表した。トランプ政権が信託管理する収入の扱いへの懸念に応えるものとされる。",
-      "en": "The US released a report on $12bn from Venezuelan oil and mineral resources, seeking to address concerns about the Trump administration's handling of revenue held in trust."
-    },
-    "category": "economy",
-    "country": "ベネズエラ",
-    "lat": 10.488,
-    "lon": -66.8792,
-    "occurredAt": "2026-11-12T20:49:36+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "venezuela_us_oil_revenue_report_2026-11-12"
-  },
-  {
-    "id": "auto-57691",
-    "headline": {
-      "ja": "イラン大統領、イスラエルがトランプ氏を戦争に追い込んだと主張",
-      "en": "President Pezeshkian says Israel pushed Trump into war"
-    },
-    "summary": {
-      "ja": "イランのペゼシュキアン大統領は、イスラエルがトランプ米大統領を欺いて戦争へ向かわせたと述べ、現在の地域情勢の責任はイランにはないと主張した。",
-      "en": "Iranian President Pezeshkian said the Israeli regime deceived US President Trump and pushed him toward war, asserting Iran is not responsible for the regional situation."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T20:38:55+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320258/President-Pezeshkian-Iran-not-responsible-for-regional-situation"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_pezeshkian_israel_trump_war_claim_2026-11-12"
-  },
-  {
-    "id": "auto-57598",
-    "headline": {
-      "ja": "ダブリンの欧州協議、ハイブリッド攻撃受け地域安全保障が中心議題に",
-      "en": "Regional security dominates European talks in Dublin amid hybrid attacks"
-    },
-    "summary": {
-      "ja": "アイルランドのダブリンで開かれた首脳会合で、欧州各国はハイブリッド攻撃を受けて安全保障協力を協議した。ウクライナ和平協議の特使についても話し合われた。",
-      "en": "European nations meeting in Dublin discussed security collaboration amid hybrid attacks, as well as an envoy for Ukraine peace talks."
-    },
-    "category": "conflict",
-    "country": "アイルランド",
-    "lat": 53.3331,
-    "lon": -6.2489,
-    "occurredAt": "2026-11-12T20:12:21+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "europe_dublin_security_summit_2026-11-12"
-  },
-  {
-    "id": "auto-57872",
-    "headline": {
-      "ja": "ウクライナ和平交渉でヨーロッパ指導者が一致した声を呼びかけ",
-      "en": "European leaders call for unified voice in Ukraine peace negotiations"
-    },
-    "summary": {
-      "ja": "ウクライナの和平交渉に向けて、ヨーロッパの主要指導者が統一した立場を示すよう求めている。",
-      "en": "European leaders are calling for a coordinated diplomatic approach to Ukraine peace negotiations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T20:04:44+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzczQWpSMVZZb2prV2FoblktTjRVZlZtdURadWpjZHNvTXhsYkZqeDhGWEhBSU1wT0dKZUgtYVlKSXFfWWhqVWxCRFBBa2FiQ0ZjY25IYTV5Y2ZUUXJDdzZ2cFo0X05xTEFHVkp4bS1oaEY0b2VEenlsVlhINE8tU3FOT245eXY0bWs4eTUtaUpKUGc1RDBZVmZZeGNxcHB5UnZOaVAyVmhlTlRTWnc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_peace_negotiations_2026-11-12"
-  },
-  {
-    "id": "auto-57600",
-    "headline": {
-      "ja": "ガザで乳児が寒さで死亡、支援物資の制限続く",
-      "en": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid"
-    },
-    "summary": {
-      "ja": "ガザ南部で、避難先のテントで生活していた乳児が夜間に低体温症で死亡したと父親が証言した。イスラエルによる支援物資の制限が続いている。",
-      "en": "A Palestinian baby died of hypothermia overnight in the family's tent in southern Gaza, the father said, amid continuing Israeli restrictions on aid."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-11-12T19:56:26+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_infant_hypothermia_death_2026-11-12"
-  },
-  {
-    "id": "auto-57601",
-    "headline": {
-      "ja": "米非営利団体が大手テック企業を提訴、AI開発の停止求める",
-      "en": "US nonprofits sue tech giants to halt AI development"
-    },
-    "summary": {
-      "ja": "米国の非営利団体が大手テック企業を相手取りカリフォルニア州で訴訟を起こし、「破滅的」とする人工知能モデルの学習停止を求めた。",
-      "en": "US nonprofits filed a lawsuit in California against tech giants, demanding a freeze on training of artificial intelligence models they call 'catastrophic'."
-    },
-    "category": "economy",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-12T19:55:02+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_california_ai_development_lawsuit_2026-11-12"
-  },
-  {
-    "id": "auto-57603",
-    "headline": {
-      "ja": "英国でイラン人2人に有罪判決、亡命ジャーナリストへのスパイ行為",
-      "en": "Iranian men guilty of spying on British journalists"
-    },
-    "summary": {
-      "ja": "英国の裁判所は、反体制派のジャーナリストを監視していたとして、イラン人の男2人に国家安全保障法違反で有罪判決を言い渡した。",
-      "en": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists."
-    },
-    "category": "conflict",
-    "country": "イギリス",
-    "lat": 51.5085,
-    "lon": -0.1257,
-    "occurredAt": "2026-11-12T19:38:33+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "uk_iranian_spying_journalists_conviction_2026-11-12"
-  },
-  {
-    "id": "auto-57567",
-    "headline": {
-      "ja": "イタリアの学校に爆破予告、2日連続で避難相次ぐ",
-      "en": "Suspected bomb hoax threats force fresh evacuations of Italian schools"
-    },
-    "summary": {
-      "ja": "イタリア各地の学校が2日連続で爆破予告を受け、新たな避難が相次いだ。いたずらとみられるが、混乱が広がっている。",
-      "en": "Schools across Italy received bomb threats for a second consecutive day, prompting fresh evacuations and panic."
-    },
-    "category": "conflict",
-    "country": "イタリア",
-    "lat": 41.8919,
-    "lon": 12.5113,
-    "occurredAt": "2026-11-12T19:23:02+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "italy_school_bomb_threats_2026-11-12"
-  },
-  {
-    "id": "auto-57534",
-    "headline": {
-      "ja": "ロシア大統領府、プーチン氏がトランプ氏の関与を評価したと発表",
-      "en": "Kremlin aide says Putin praised Trump's personal interest in Ukraine settlement"
-    },
-    "summary": {
-      "ja": "ロシア大統領府高官は、プーチン大統領がウクライナ和平へのトランプ大統領の個人的な関与を高く評価したと発表した。",
-      "en": "A Kremlin aide stated that President Putin praised Trump's personal involvement in the Ukraine settlement effort."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-12T18:31:07+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4WGZFd2pyTWpXYW85WEgweGdBblBVZFU1N1ZzSEVDcnBoXzF5TE1xUG5ZWkIxcWl5VWdfd0ZhcldjbkR1UkhmdXJ6bEI1Z9IBTkFVX3lxTFB4WGZFd2pyTWpXYW85WEgweGdBblBVZFU1N1ZzSEVDcnBoXzF5TE1xUG5ZWkIxcWl5VWdfd0ZhcldjbkR1UkhmdXJ6bEI1Zw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_putin_praises_trump_ukraine_2026-11-12"
-  },
-  {
-    "id": "auto-57607",
-    "headline": {
-      "ja": "米国の住宅販売が低迷、中古住宅は10月に5.5%減",
-      "en": "Home sales in the US at lowest level since 2016"
-    },
-    "summary": {
-      "ja": "米国の中古住宅販売は10月に5.5%減少し、2010年8月以来の低水準となった。住宅市場の冷え込みが続いている。",
-      "en": "US sales of previously owned homes dropped 5.5 percent in October, falling to the lowest level since August 2010."
-    },
-    "category": "economy",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-12T18:26:28+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_existing_home_sales_decline_2026-10"
-  },
-  {
-    "id": "auto-57609",
-    "headline": {
-      "ja": "イスラエル軍がガザのナセル病院を攻撃、現地から被害報告",
-      "en": "Al Jazeera reports from Gaza's Nasser Hospital attacked by Israel"
-    },
-    "summary": {
-      "ja": "イスラエル軍がガザのナセル病院を攻撃し、アルジャジーラの記者が現地から被害の状況を伝えた。医療施設への攻撃が続いている。",
-      "en": "Al Jazeera's correspondent reported from the aftermath of an Israeli strike on Nasser Hospital in Gaza."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.3402,
-    "lon": 34.3063,
-    "occurredAt": "2026-11-12T18:03:02+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_nasser_hospital_strike_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57335",
-    "headline": {
-      "ja": "ガザ病院攻撃後、トランプ計画の即時実装を要求",
-      "en": "Peace group urges immediate implementation of Trump's Gaza plan after Israeli hospital attack"
-    },
-    "summary": {
-      "ja": "アナドル通信によると、ガザでのイスラエル病院攻撃に関連し、トランプ政権のガザ計画の即座の実装を平和団体が呼びかけた。",
-      "en": "Turkish state media reports that a peace group is calling for immediate implementation of Trump's Gaza plan following an Israeli hospital strike in Gaza."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-12T17:14:07+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzJzSHl4Y0dLaFE2eUdmVEplcWJVLW1jZGMtYkFTaGVOVjhDd1VlNEZXd2dHTXpFclF0MlU4eUI2LS1nQnJIcmFEX2hZVnpsUDlTcU1FQzJLYWo2aS14ZElJSHJnWms2S1dyODlBMkR1V3FYclN0UDkyNlFKMjNnTUFRVmdCUk1QUkFIa3ZFS0ZKTVNOT0ZBUDdRSWMxRDlRZFU2OUtjX2JvYVRuZ2lYQzc0aXI0SjJEdS1zMGlXd3dVY3hTRmgtSmUzeUN2cGNpcXRr?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "palestine_gaza_hospital_strike_2026-11-13"
-  },
-  {
-    "id": "auto-57694",
-    "headline": {
-      "ja": "イラン海軍、ホルムズ海峡東でタンカー2隻が機雷に触れ炎上と発表",
-      "en": "Iran Army says two more oil tankers catch fire east of Strait of Hormuz"
-    },
-    "summary": {
-      "ja": "イラン海軍は、禁止区域に進入したタンカー2隻が機雷に触れて炎上したと発表した。ホルムズ海峡の東側での事案としている。",
-      "en": "Iran's Army Navy announced that two more oil tankers caught fire after hitting naval mines while entering a prohibited zone east of the Strait of Hormuz."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T16:30:59+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320137/Two-more-offending-oil-tankers-catch-fire-east-of-Strait-of-Hormuz"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "hormuz_oil_tankers_mine_fire_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57653",
-    "headline": {
-      "ja": "英国など多数国、ガザへの医療・人道アクセス確保を求める共同声明",
-      "en": "Call to Action joint statement on health and humanitarian access into Gaza"
-    },
-    "summary": {
-      "ja": "英国の国連大使が、日本やフランス、カナダなど多数の国を代表して共同声明を発表し、ガザへの医療・人道支援のアクセス確保を求めた。",
-      "en": "The UK's UN Permanent Representative delivered a joint statement on behalf of dozens of countries calling for health and humanitarian access into Gaza."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-11-12T15:30:00+00:00",
-    "source": {
-      "name": "英国 外務・英連邦・開発省",
-      "url": "https://www.gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_humanitarian_access_joint_statement_2026-11-12"
-  },
-  {
-    "id": "auto-57539",
-    "headline": {
-      "ja": "ロシア政府、コスティアンティニウカでの人道任務を提案と発表",
-      "en": "Putin's proposal for humanitarian mission in Kostiantinovka"
-    },
-    "summary": {
-      "ja": "ロシア政府は、ウクライナ東部コスティアンティニウカでの人道任務実施をプーチン大統領が提案したと発表した。",
-      "en": "Russia announced that President Putin proposed a humanitarian mission in Kostiantinovka, eastern Ukraine."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 48.5273,
-    "lon": 37.7059,
-    "occurredAt": "2026-11-12T15:15:43+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WZFdoRDlSMi1ta09Wdk5uTWQwNEp4Z1dmQ1RLb3NDb3FweFZaSXhubV94WGlkZnkyQmRseGRXMzNhdjlkbWdVUWRyRDBaQdIBTkFVX3lxTE5WZFdoRDlSMi1ta09Wdk5uTWQwNEp4Z1dmQ1RLb3NDb3FweFZaSXhubV94WGlkZnkyQmRseGRXMzNhdjlkbWdVUWRyRDBaQQ?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "ukraine_kostiantynivka_humanitarian_mission_2026-11-12"
-  },
-  {
-    "id": "auto-57490",
-    "headline": {
-      "ja": "ロシア特使、西側がウクライナへの軍事介入を準備中と主張",
-      "en": "Russian envoy claims West preparing military intervention in Ukraine"
-    },
-    "summary": {
-      "ja": "ロシアの特使は、西側がウクライナへの軍事介入に向けて準備を進めていると主張した。",
-      "en": "A Russian envoy claimed that Western countries are preparing military intervention in Ukraine."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T15:09:49+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BdHFWbnliQUlPMmdKY1dQejQ4NmQtTTZvN0xIdjlETk8yMHNoZl90NnhQSE00ZnBOZ2llM0MzdmlpTHRqZTR0UNIBTkFVX3lxTE9vX0FFTWd5bWFGeEVPLW56aXZzN25iZDRYYUhpNmd4ZllyZk11TzhNYWZ0MHFpYzRxOGZvM3hmam5uZGhGY0hZZTFnbzVzQQ?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "ukraine_western_military_intervention_2026-11"
-  },
-  {
-    "id": "auto-57724",
-    "headline": {
-      "ja": "エストニア外相、ロシアの停戦合意が第一歩と表明",
-      "en": "Estonian FM Tsahkna says Russia must agree to a ceasefire as the first step"
-    },
-    "summary": {
-      "ja": "エストニアのツァフクナ外相は、北欧・バルト8カ国(NB8)の会合で、ロシアが停戦に同意することが和平に向けた第一歩になると述べた。",
-      "en": "Estonian Foreign Minister Tsahkna said at the NB8 meeting that Russia must agree to a ceasefire as the first step."
-    },
-    "category": "conflict",
-    "country": "エストニア",
-    "lat": 59.437,
-    "lon": 24.7535,
-    "occurredAt": "2026-11-12T15:00:02+00:00",
-    "source": {
-      "name": "エストニア 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3JSOTJVaGZmZUdITTNrMzQxNHRuWDhQamVxYjBJQy02S2pYbVZwbVJjRjR3MTBXdmVwOVp2b253OG9EWTMwMGxXajBTdUV3U2FRNnhkUjRMYWY0X21kaUtuTVM3aHdTYzhpMzR1TGZJb2FLclNKSmJYS1VoVTJlUDVTN1pURW8?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "estonia_nb8_russia_ceasefire_call_2026-11-12"
-  },
-  {
-    "id": "auto-57515",
-    "headline": {
-      "ja": "イラン専門家会議、NPT からの離脱と教義改正を検討すべきと提言",
-      "en": "Iran's Assembly of Experts calls for considering withdrawal from NPT and revising doctrine"
-    },
-    "summary": {
-      "ja": "イランの専門家会議は、イランが核不拡散条約(NPT)からの離脱を検討し、戦略的教義を改正すべきと述べた。",
-      "en": "Iran's Assembly of Experts stated that Iran should consider withdrawing from the NPT and revising its strategic doctrine."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T14:58:47+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE01b0NTamZqN1RMYXltcExlNE1qeURCcjRFeTgtOFdnTjB3X0ZnYW1kZk14UDVsbHRMLV83aDVQQVc3dFZ20gFKQVVfeXFMUFpEMDRmOHJhSEJWR0dYZUhnSy1KaXB3Uy14Z3VRRjJOR0hqaEJiQnc5YWk4NzJlRzg1TXF4c0o0Ylc4YWQ5S0NnMGc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_npt_withdrawal_consideration_2026-11"
-  },
-  {
-    "id": "auto-57537",
-    "headline": {
-      "ja": "ロシア政府、プーチン氏と米大統領特使の会談が終了したと発表",
-      "en": "Putin's meeting with US presidential envoys concludes"
-    },
-    "summary": {
-      "ja": "ロシア政府は、プーチン大統領と米国大統領特使らとの会談が終了したと発表した。会談内容の詳細は明らかにされていない。",
-      "en": "Russia announced that President Putin's meeting with US presidential envoys has concluded, without disclosing details."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-12T14:51:44+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56UEdXLVVCVkxaZTVFT1BENlVnSUUxZUdhZlZ1NWxrQlhYTWpEUVZyWDkwOVRfUkpNNnlJWjdmTU5wZWlYdERyMUh6Z0hpd9IBTkFVX3lxTE56UEdXLVVCVkxaZTVFT1BENlVnSUUxZUdhZlZ1NWxrQlhYTWpEUVZyWDkwOVRfUkpNNnlJWjdmTU5wZWlYdERyMUh6Z0hpdw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_moscow_putin_us_envoys_meeting_2026-11-12"
-  },
-  {
-    "id": "auto-57697",
-    "headline": {
-      "ja": "イラン軍報道官、必要なら対応の厳しさを10倍にすると表明",
-      "en": "Iran military spokesperson says severity of armed forces' actions will increase tenfold if needed"
-    },
-    "summary": {
-      "ja": "イラン軍の上級報道官は、同国の抑止力は以前より高まっており、新たな侵略には断固として対処できると述べ、必要なら対応の厳しさを10倍にすると表明した。",
-      "en": "A senior spokesperson for Iran's Armed Forces said the country's deterrence has increased and that the severity of its actions would increase tenfold if needed against any new aggression."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T14:41:37+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320053/Severity-of-Iran-Armed-Forces-actions-will-increase-tenfold"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_armed_forces_deterrence_warning_2026-11-12"
-  },
-  {
-    "id": "auto-57654",
-    "headline": {
-      "ja": "英仏独、ロシアによるOSCE元職員の拘束に深刻な懸念を表明",
-      "en": "E3 statement to the OSCE on Russia's unlawful detention of former OSCE officials"
-    },
-    "summary": {
-      "ja": "英国、フランス、ドイツの3カ国は、ロシアがOSCEの元職員3人を不当に拘束し続けているとして深刻な懸念を表明し、即時かつ無条件の解放と適切な医療の提供を求めた。",
-      "en": "France, Germany and the UK expressed grave concern over Russia's continued unlawful detention of three former OSCE officials, calling for their immediate and unconditional release and proper medical care."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-12T14:38:54+00:00",
-    "source": {
-      "name": "英国 外務・英連邦・開発省",
-      "url": "https://www.gov.uk/government/speeches/russias-unlawful-detention-of-former-osce-officials-e3-statement-to-the-osce"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_osce_officials_detention_e3_statement_2026-11-12"
-  },
-  {
-    "id": "auto-57550",
-    "headline": {
-      "ja": "ロシア政府、領土問題では住民の権利が最優先と発表",
-      "en": "Putin says people's rights are priority in territorial dispute over Ukraine"
-    },
-    "summary": {
-      "ja": "ロシア政府は、ウクライナ紛争をめぐる領土問題において、そこに住む人々の権利が最優先されるとプーチン大統領が述べたと発表した。",
-      "en": "Russia announced that President Putin said people's rights take priority in the territorial dispute surrounding the Ukraine conflict."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T14:07:12+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBweTBwNEFQMll0Z05OMEloNk91VHEwSmNJd0NLYmxYVFhDWnZjc1JlU19uN01PQXhGMHVTNF84LWwzRDZVR1RhMWtMU0Fud9IBTkFVX3lxTFBweTBwNEFQMll0Z05OMEloNk91VHEwSmNJd0NLYmxYVFhDWnZjc1JlU19uN01PQXhGMHVTNF84LWwzRDZVR1RhMWtMU0Fudw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_territorial_dispute_rights_2026-11-12"
-  },
-  {
-    "id": "auto-57524",
-    "headline": {
-      "ja": "プーチン大統領、コンスタンチノフカ近郊の地雷除去に5日必要と述べる",
-      "en": "Russia needs 5 days to clear mines near Konstantinovka for humanitarian mission: Putin"
-    },
-    "summary": {
-      "ja": "ロシアのプーチン大統領は、ウクライナのコンスタンチノフカ近郊の地雷除去に5日間を要すると述べた。",
-      "en": "Russian President Putin stated that clearing mines near Konstantinovka would take about 5 days."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 48.5273,
-    "lon": 37.7059,
-    "occurredAt": "2026-11-12T13:53:39+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52RFZYcUJOa0swVDlYLXFxTDJ4UnhIejREb3R5eUZfcThyTGh6ZlMxT1pnVFVRR19zTGUtNmxWblVwSTRVSWdud9IBTkFVX3lxTE1GSURaMXRRbXFGZjRvQklab3dJbUMwb1k2ZEdvWENRNHhpRlAxMldQdUhJekdfVE9Md2tHcmRtc0VqLUJweGhhOS1MTDJLdw?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "ukraine_mine_clearing_2026-11"
-  },
-  {
-    "id": "auto-57700",
-    "headline": {
-      "ja": "イラン陸軍司令官、新たな侵略にはより厳しい対応と警告",
-      "en": "Iran's Army chief warns of more severe response to acts of aggression"
-    },
-    "summary": {
-      "ja": "イラン陸軍のハタミ司令官は、米国とイスラエルによる戦闘で防空要員が重要な役割を果たしたと述べ、再び主権を侵す者にはより厳しい結果が待つと警告した。",
-      "en": "Iran's Army Chief Commander Major General Hatami praised air defence personnel in the recent US-Israeli wars and warned that any aggressor violating Iran's sovereignty again would face even more severe consequences."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T13:17:53+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320031/Iran-s-Army-chief-warns-of-more-severe-decisive-response-to"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_army_chief_aggression_warning_2026-11-12"
-  },
-  {
-    "id": "auto-57580",
-    "headline": {
-      "ja": "ロシアのミサイル攻撃でウクライナの大型発電所が損傷",
-      "en": "Russian ballistic missile strike damages Ukraine power plant"
-    },
-    "summary": {
-      "ja": "ロシアが弾道ミサイルでウクライナの大型発電所を攻撃し、施設に深刻な損傷を与えた。",
-      "en": "A Russian ballistic missile strike severely damaged one of Ukraine's largest power stations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T13:02:46+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_power_plant_russian_missile_2026-11-12"
-  },
-  {
-    "id": "auto-57679",
-    "headline": {
-      "ja": "国連WFP、資金削減でスーダンの飢餓危機が深刻化と警告",
-      "en": "Aid is 'only hope' for millions in Sudan, WFP chief warns as funding cuts deepen hunger crisis"
-    },
-    "summary": {
-      "ja": "国連世界食糧計画の新事務局長は、初のスーダン視察を終え、資金削減によって同国の飢餓危機が悪化していると警告した。支援が数百万人にとって唯一の希望だと述べた。",
-      "en": "The WFP's new Executive Director warned after his first field mission to Sudan that funding cuts are worsening the hunger crisis, saying aid is the only hope for millions."
-    },
-    "category": "disaster",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-11-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168793"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_hunger_crisis_wfp_warning_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57680",
-    "headline": {
-      "ja": "国連機関、災害前の資金供給へ新プラットフォームをCOP31で立ち上げ",
-      "en": "New UN platform aims to get money moving before disaster strikes"
-    },
-    "summary": {
-      "ja": "国連の複数機関は、トルコのアンタルヤで開かれたCOP31で共同プラットフォームを立ち上げた。2030年までに30億ドル超のリスク資金を確保し、7500万人を気候災害から守ることを目指す。",
-      "en": "UN agencies launched a joint platform at COP31 in Antalya aiming to secure over $3 billion in risk financing to protect 75 million people from climate shocks by 2030."
-    },
-    "category": "economy",
-    "country": "トルコ",
-    "lat": 36.9081,
-    "lon": 30.6956,
-    "occurredAt": "2026-11-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168794"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "cop31_un_risk_financing_platform_2026-11-12"
-  },
-  {
-    "id": "auto-57682",
-    "headline": {
-      "ja": "ケニア、エボラ終息へ42日間のカウントダウン開始",
-      "en": "Kenya begins countdown towards end of Ebola after last patient discharged"
-    },
-    "summary": {
-      "ja": "ケニアは、最後のエボラ出血熱患者が退院し11人が隔離を解かれたことを受け、流行終息に向けた42日間のカウントダウンを開始した。",
-      "en": "Kenya began a 42-day countdown to the end of its Ebola outbreak after the last patient was discharged and 11 people were released from quarantine."
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-11-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "kenya_ebola_outbreak_countdown_2026-11-12"
-  },
-  {
-    "id": "auto-57683",
-    "headline": {
-      "ja": "ハイチで3カ月に1000人以上死亡、国連報告書",
-      "en": "More than 1,000 killed in Haiti between July and September, UN report reveals"
-    },
-    "summary": {
-      "ja": "国連の現地チームがまとめた人権報告書によると、ハイチでは7月から9月に1000人以上が殺害された。首都ポルトープランスなどで武装ギャングが住民を脅かし続けている。",
-      "en": "A UN human rights report found more than 1,000 people were killed in Haiti in the third quarter as armed gangs continue to terrorize the population in Port-au-Prince and beyond."
-    },
-    "category": "conflict",
-    "country": "ハイチ",
-    "lat": 18.5435,
-    "lon": -72.3388,
-    "occurredAt": "2026-11-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "haiti_gang_violence_deaths_q3_2026",
-    "severity": 4
-  },
-  {
-    "id": "auto-57678",
-    "headline": {
-      "ja": "ガザのナッサー医療複合体への空爆、6人死亡27人負傷",
-      "en": "Six killed in Israeli airstrike on Gaza's Nasser Hospital"
-    },
-    "summary": {
-      "ja": "イスラエル軍がガザのナッサー病院を空爆し、6人が死亡、27人が負傷し、施設に広範な損傷が生じた。",
-      "en": "An Israeli airstrike on Gaza's Nasser Hospital killed six people, injured 27 others and caused extensive damage."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.3402,
-    "lon": 34.3063,
-    "occurredAt": "2026-11-12T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_nasser_hospital_airstrike_2026-11-11"
-  },
-  {
-    "id": "auto-57532",
-    "headline": {
-      "ja": "ロシア外交官、ウクライナ和平交渉の見通しがゼレンスキーを不安にしていると主張",
-      "en": "Ukraine peace prospects unnerve Zelensky, Russian diplomat says"
-    },
-    "summary": {
-      "ja": "ロシアの外交官は、ウクライナ和平交渉の見通しがゼレンスキー大統領を不安にしていると述べた。",
-      "en": "A Russian diplomat claimed that Ukraine peace prospects are making President Zelensky uneasy."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T11:58:49+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RYjhocHdjczZxQ3ZDSWh1dlRQLVEzOWRUX2ZwWTVreFZqR21jelJ6aVZkNmdONG9xNHZhZkZkT0pSN3Y3Q2p3ZlRmeE5td9IBTkFVX3lxTE9RYjhocHdjczZxQ3ZDSWh1dlRQLVEzOWRUX2ZwWTVreFZqR21jelJ6aVZkNmdONG9xNHZhZkZkT0pSN3Y3Q2p3ZlRmeE5tdw?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "ukraine_peace_zelensky_concerns_2026-11"
-  },
-  {
-    "id": "auto-57497",
-    "headline": {
-      "ja": "フィンランド大統領、今後2週間内にロシア・米国・ウクライナ・EUを含む会談の可能性を示唆",
-      "en": "Stubb does not rule out meeting involving Russia, US, Ukraine, EU in coming two weeks"
-    },
-    "summary": {
-      "ja": "フィンランド大統領スッタブは、今後2週間以内にロシア、米国、ウクライナ、EUを含む会談が開催される可能性を排除しないと述べた。",
-      "en": "Finnish President Stubb stated he does not rule out a meeting involving Russia, the US, Ukraine, and the EU within the coming two weeks."
-    },
-    "category": "conflict",
-    "country": "フィンランド",
-    "lat": 60.1695,
-    "lon": 24.9354,
-    "occurredAt": "2026-11-12T11:54:44+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NR0VNMk12Z2xTQk9oRllYVVl0a3pRRmxEMllHeFpIX1AyRGxQNFhla3hYRXRia3hqdm1ad25MSFBpeWRi0gFKQVVfeXFMUGhvV1lwc204SkVGUmlUbnFRVjJibFh3SWNFbVRMOVpxcEJpa25LeDdOblh2LXhURld0Q196MDRqX1ZjMkVscDlSb1E?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_multilateral_talks_2026-11"
-  },
-  {
-    "id": "auto-57487",
-    "headline": {
-      "ja": "ロシア高級外交官、ヨーロッパの落胆とプーチン・ウィッコフ会談について言及",
-      "en": "Senior Russian diplomat addresses Europe's dejection and Putin-Witkoff meeting"
-    },
-    "summary": {
-      "ja": "ロシアの高級外交官は、ヨーロッパの現状とプーチン大統領との米国特使ウィッコフの会談について述べた。",
-      "en": "A senior Russian diplomat addressed Europe's current situation and the Putin-Witkoff meeting."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-12T11:38:36+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ERUVBbkNBS3VzdXIwcFJYSWV5dFR1UFo0bWNwNUhDOUpzenFTeExBZlFZRm45a2JCcWtsRVBhYklkSDlIUF9ZbtIBTkFVX3lxTFA0NHVhQWxvck1KZ3NUX0NiVTlzcC1TUDhNS2pRS2w0aFFTaS1GSFZ6UFRicWVzWXBtQ245OXVPR2dYUUtXY2tnbW15amZNUQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_diplomacy_putin_witkoff_2026-11"
-  },
-  {
-    "id": "auto-57493",
-    "headline": {
-      "ja": "ロシア軍がウクライナ軍飛行場を攻撃",
-      "en": "Russian forces strike Ukrainian military airfields"
-    },
-    "summary": {
-      "ja": "ロシア軍指導部は、過去24時間でウクライナ軍の飛行場に対する攻撃を実施したと発表した。",
-      "en": "Russian military command reported striking Ukrainian military airfields over the past day."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T11:24:36+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaSEVRLTROVThfYlI0cVU0aDFGdl9GSU1aOU5aUFh0UnQ1RExCTkhBSXVtaHB3SWpPbDIzRnhlejRFYWVJbER5ONIBTkFVX3lxTE4yaGpKR0Y0WENUUkJGSklFSS12aUdQaFpfN1BVLWJCaVdzaVdZSFFlQ3kybVk2ZFVKaXdCaktfazl4Z2xIaVRCSWxWX2dWQQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_airfield_strikes_2026-11"
-  },
-  {
-    "id": "auto-57529",
-    "headline": {
-      "ja": "ロシア軍、ウクライナの発電所が戦略的施設と認識",
-      "en": "Ukraine's Generator plant hit by Russian forces is strategic facility"
-    },
-    "summary": {
-      "ja": "ロシア軍によると、ウクライナのジェネレータ発電所がロシア軍によって攻撃された戦略的施設であると述べられた。",
-      "en": "Russian military stated that Ukraine's Generator power plant hit by Russian forces is a strategic facility."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-12T10:31:33+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15SVMtd0d1VC1GNmRvcXQyRmlwT1FPVy0zYW04dm5xckZpVnZNbzdudEpxYl9OSDRUOGxGRkx4WE9qT2xsNlo1dXNLcDVWd9IBTkFVX3lxTE15SVMtd0d1VC1GNmRvcXQyRmlwT1FPVy0zYW04dm5xckZpVnZNbzdudEpxYl9OSDRUOGxGRkx4WE9qT2xsNlo1dXNLcDVWdw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_generator_plant_strike_2026-11"
   }
 ]
