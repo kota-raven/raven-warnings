@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-19-05",
-    "headline": {
-      "ja": "バーレーン、イラン共謀容疑でシーア派聖職者ら64人に終身刑",
-      "en": "Bahrain sentences dozens of Shiite clerics to life in prison over alleged Iran-linked plot"
-    },
-    "summary": {
-      "ja": "バーレーンの裁判所は11月16日、イラン革命防衛隊(IRGC)と共謀して政府転覆を図ったとして、シーア派聖職者を含む59~69人に有罪判決を下し、64人に終身刑(他5人に禁錮15年)を科したと複数の国際通信社・人権団体(バーレーン人権民主化研究所=BIRD)が報じた。判決対象にはイラン在住のバーレーン・シーア派最高指導者格イサ・カシム師も含まれる(欠席裁判)。検察側は説教を通じた反政府扇動を主張しているが、BIRD等の人権団体は自白の強要・政治的弾圧だと主張している。事実と推測(人権団体の評価)は報道上も分かれており、ここでは両論併記とする。[信頼性: 高]",
-      "en": "A Bahraini court on Nov 16 convicted dozens of Shiite clerics and others of plotting with Iran's Revolutionary Guard Corps to overthrow the government, sentencing 64 (including senior cleric Sheikh Isa Qassim, tried in absentia while residing in Iran) to life in prison and five others to 15 years, according to multiple wire reports and the Bahrain Institute for Rights and Democracy (BIRD). Prosecutors allege the clerics used sermons to incite opposition; rights groups say confessions were coerced and the case is politically motivated. [Reliability: High]"
-    },
-    "category": "conflict",
-    "country": "バーレーン",
-    "lat": 26.0667,
-    "lon": 50.5577,
-    "occurredAt": "2026-11-16T10:00:00+00:00",
-    "source": {
-      "name": "Reuters(Internazionale/Timeslive等配信)・BIRD(バーレーン人権民主化研究所)",
-      "url": "https://www.timeslive.co.za/news/world/2026-11-16-scores-of-bahraini-shiite-clerics-get-life-in-prison-for-plotting-with-iran/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-17-01",
     "headline": {
       "ja": "ゼレンスキー氏、米・欧州代表とオンライン協議 ベルリンで「有志連合」との会合へ(11月16日)",
@@ -281,6 +260,49 @@
     "source": {
       "name": "CBCニュース / Yahoo Finance / CNN / StockTitan",
       "url": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-19-08",
+    "headline": {
+      "ja": "トランプ・習近平・プーチン3氏、深センで史上初の三者会談 ロシア側「石油・ガス増産に合意」と発表",
+      "en": "Trump, Xi and Putin hold first-ever trilateral meeting in Shenzhen; Russia says leaders agreed to boost oil and gas output"
+    },
+    "summary": {
+      "ja": "2026年11月19日、中国・深センで開催中のAPEC首脳会議に合わせ、トランプ米大統領・習近平国家主席・プーチン露大統領による史上初の三者会談が行われたという。複数の報道(NPR、CBSニュース、NBCニュース、Al Jazeera、CNBC等)によれば、会談は深センの「麒麟別荘」で行われ、トランプ氏とプーチン氏の2者会談(42分間)、トランプ氏と習氏の会談(約1時間)に続き、3者でのトリラテラル協議が約1時間半行われたとされる。ロシア側(ロシア政府関係者)の発表によれば、3氏は石油・ガスの増産で合意し、「核戦争に勝者はいない」との認識を再確認したとされ、ウクライナ情勢についてもトランプ・プーチン両氏が「平和的解決を目指す」との立場を確認したとロシア側は説明したという。習氏はトランプ氏に、米中関係は「安定し改善している」と伝えたとも報じられている。推測:会談が実際に行われたこと自体は複数の米主要メディアが確認しているが、具体的な合意内容(石油・ガス増産、核戦争に関する言及)はロシア側の発表が主な出典であり、米側・中国側による独立した確認は本稿執筆時点で確認できていない。[信頼性: 中](NPR、CBSニュース、NBCニュース、Al Jazeera、CNBC等複数の国際メディアが2026年11月18〜19日の報道として伝えている。会談実施自体は高確度だが、合意内容の詳細はロシア側発表に依拠)",
+      "en": "On November 19, 2026, US President Trump, Chinese President Xi Jinping and Russian President Putin reportedly held their first-ever trilateral meeting on the sidelines of the APEC leaders' summit in Shenzhen, China. Multiple outlets (NPR, CBS News, NBC News, Al Jazeera, CNBC) reported the meeting took place at Shenzhen's Kylin Villa, with a Trump-Putin bilateral (42 minutes) and a Trump-Xi meeting (about an hour) followed by a roughly 90-minute trilateral session. According to Russian officials, the three leaders agreed to boost oil and gas production and reaffirmed that 'there are no winners in a nuclear war'; a Russian diplomat also said Trump and Putin affirmed a commitment to a peaceful resolution of the Ukraine conflict, per Russia's characterization. Xi reportedly told Trump that US-China relations were 'stable and improving.' Speculation: that the meeting itself occurred is confirmed by multiple major US outlets, but the specific outcomes (oil/gas output agreement, the nuclear-war statement) are sourced mainly from the Russian side and have not been independently confirmed by the US or China as of this writing. [Reliability: Medium] (Reported Nov 18-19, 2026 by multiple outlets including NPR, CBS News, NBC News, Al Jazeera and CNBC; the meeting's occurrence is well-confirmed, but outcome details rely on the Russian account)"
+    },
+    "category": "conflict",
+    "country": "中国",
+    "region": "深セン市",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "occurredAt": "2026-11-19T07:00:00+00:00",
+    "source": {
+      "name": "NPR / CBSニュース / NBCニュース / Al Jazeera / CNBC",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-19-09",
+    "headline": {
+      "ja": "米国・メキシコ・ボリビア、麻疹の「排除状態」認定を失う 米州保健機関(PAHO)が発表",
+      "en": "US, Mexico and Bolivia lose measles elimination status, Pan American Health Organization says"
+    },
+    "summary": {
+      "ja": "米州保健機関(PAHO)は2026年11月17日(火)、麻疹の同一ウイルス株による12カ月以上の継続的な感染拡大(持続的伝播)が続いているとして、米国・メキシコ・ボリビアの麻疹「排除状態」の認定を取り消したと発表したという。複数の報道(ABCニュース系列各局、ITVニュース、Jerusalem Post等)によれば、メキシコではチワワ州での大規模な流行を含む麻疹の再拡大が、ボリビアでも同様の事情があったとされる。米疾病対策センター(CDC)によれば、2026年の米国内の麻疹確定患者数は5000人超(45州・ニューヨーク市・ワシントンDCから報告)に達し、35年ぶりの高水準になっているという。州保健当局からはこれまでに麻疹関連の死亡が複数例(報道により6〜10例)報告されている。CDCのシュワルツ長官は、「排除認定が米国民を守るわけではない。ワクチン接種が守る」と述べ、認定の再取得を目指す考えを示したとされる。PAHOは、米国・メキシコ・ボリビアの3カ国が今後数週間以内に、伝播を12カ月以上止めて認定を再取得するための計画を提出することを見込んでいるという。推測:認定取り消しの発表日時については、一部報道で「金曜」とする記述もあり、火曜発表との食い違いがあるため正確な曜日は確定できない。死亡者数も報道により差がある。[信頼性: 高](PAHOの公式判断に基づき、ABCニュース系列各局、ITVニュース、Jerusalem Post等複数の国際メディアが2026年11月17日の発表として伝えている)",
+      "en": "The Pan American Health Organization (PAHO) announced on Tuesday, November 17, 2026 that it has revoked the measles elimination status of the United States, Mexico and Bolivia, citing over 12 months of continuous transmission of the same viral strain in each country. Multiple outlets (ABC-affiliated stations, ITV News, The Jerusalem Post) reported that Mexico's loss follows a resurgence including a large outbreak in Chihuahua state, with Bolivia facing a similar situation. According to the US CDC, confirmed US measles cases for 2026 have topped 5,000 (reported from 45 states, New York City and Washington DC), the highest level in 35 years. State health departments have reported several measles-related deaths this year (accounts vary between 6 and 10). CDC Director Erica Schwartz said 'the measles elimination designation is not what protects Americans. Vaccination does,' and stated the agency's intent to regain the designation. PAHO said it expects the US, Mexico and Bolivia to submit plans within coming weeks for stopping transmission for 12 months in order to regain elimination status. Speculation: some reports refer to a 'Friday' announcement, which conflicts with the Tuesday date cited elsewhere, so the exact day is not fully certain; death tolls also vary between sources. [Reliability: High] (Based on PAHO's official determination, reported Nov 17, 2026 by multiple outlets including ABC-affiliated stations, ITV News and The Jerusalem Post)"
+    },
+    "category": "disaster",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-17T18:00:00+00:00",
+    "source": {
+      "name": "PAHO(米州保健機関) / ABCニュース系列 / ITVニュース",
+      "url": "https://abc13.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/"
     },
     "reliability": "high"
   }
