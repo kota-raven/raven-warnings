@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T12:51:09.904Z",
+  "generatedAt": "2026-11-19T21:23:41.124Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 196,
+  "count": 197,
   "warnings": [
     {
       "id": "NAVAREA11-260517",
@@ -3556,6 +3556,18 @@
       },
       "rawText": "番号:26-0181   発表日時:2026年01月16日 20時\r\n\n\r\n東シナ海、\r\r\n海洋プラットフォームの架台らしきものあり、29-19N 125-30E付近。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262218",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "2218",
+      "title": "備讃瀬戸、詫間港第１号灯浮標消灯",
+      "publishedAt": "2026-11-19T22:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2218    発表日時:2026年11月19日 22時\r\n\n\r\n備讃瀬戸、\r\r\n詫間港第1号灯浮標(34-14.9N 133-40.7E、\r\r\n灯台表第1巻、4340)消灯。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262218&LANG=JP"
     },
     {
       "id": "NAVTEX-262217",
