@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-67800",
+    "headline": {
+      "ja": "イエメン民間人19名がサウジ空爆で殺害",
+      "en": "19 civilians killed in Saudi airstrike off Yemen coast"
+    },
+    "summary": {
+      "ja": "イエメンの反政府勢力アンサルッラーは、サウジアラビア主導の連合軍の空爆で民間人を乗せた船が攻撃され、19名が殺害されたと発表した。",
+      "en": "Ansarullah reports 19 civilians killed in Saudi-led coalition airstrike on boat off Yemen coast"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-20T05:54:33+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86327210/Ansarullah-condemns-Saudi-airstrike-on-boat-off-Yemen-coast-that"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_saudi_coalition_airstrike_civilians_2026-11-19",
+    "severity": 4
+  },
+  {
     "id": "auto-67103",
     "headline": {
       "ja": "Houthis民兵、サウジアラビア首都への攻撃を激化",
@@ -69,6 +93,52 @@
     "eventKey": "iran_missile_test_nov2026"
   },
   {
+    "id": "auto-66527",
+    "headline": {
+      "ja": "フーシ軍がリヤド金融地区の建物を攻撃",
+      "en": "Houthi forces attack building in Riyadh's financial district"
+    },
+    "summary": {
+      "ja": "サウジアラビア民間防衛庁は、フーシ軍がリヤドの金融地区の建物を攻撃したと発表した。",
+      "en": "Saudi Civil Defense announces Houthi attack on a building in Riyadh's financial district"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-19T15:49:21+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmhDaFNSeEdDVTJXM2ZvaDJOVk9MRjlCWVYtODJrd2RZRUpfUWljN1cxMlN3U0hCM2hKeFVKdW5zWVJ3T1JobFBpekU1QV8xM3E5NDgzNzh5Ui03SXhhMWJEWWJWcnlETXRnTTRLeWhmc0t5eUJ0WW8zeV8yVW1xejJRN1I0aUt0SGl2Y01vOWpZMnRzS3BXWU5oVnBCV3YycTdfazloM1BlMExrXzE1cTE2cXRaMjQ0NWc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_arabia_riyadh_houthi_attack_2026-11-19"
+  },
+  {
+    "id": "auto-67237",
+    "headline": {
+      "ja": "ホルムズ海峡でタンカー爆発",
+      "en": "Tankers explode in Hormuz Strait"
+    },
+    "summary": {
+      "ja": "イラン政府は、違反行為をしているとして2隻のタンカーがホルムズ海峡で爆発したと発表した。",
+      "en": "Iran announces two tankers exploded in Hormuz Strait"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-19T15:29:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05QTF0V19IcndIaHdtSkNGNFNTRVJVdHVJemxpdkZhUThkZXVQYldERVdRcGkzTkhGMmNQT0lwSENTbTF2MjUwU2VKRWhTUU1kWFlFSU9vZkVyUzB5Z3BQMkNiamlZdWJoUEExcVBBRlA3RlUtR3d5U0x0V2I?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_hormuz_strait_tanker_explosion_2026-11-19"
+  },
+  {
     "id": "auto-67079",
     "headline": {
       "ja": "プーチン大統領、ウクライナのクリミア橋攻撃への報復を誓う",
@@ -90,6 +160,52 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_crimea_putin_response_nov2026"
+  },
+  {
+    "id": "auto-67505",
+    "headline": {
+      "ja": "シリア東部のガスパイプラインが爆発",
+      "en": "Gas pipeline explosion in eastern Syria"
+    },
+    "summary": {
+      "ja": "シリア東部デリゾール州のガスパイプラインで爆発が発生した。",
+      "en": "Gas pipeline explodes in Deir ez-Zor province in eastern Syria"
+    },
+    "category": "conflict",
+    "country": "シリア",
+    "lat": 35.3359,
+    "lon": 40.1408,
+    "occurredAt": "2026-11-19T12:45:48+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnRYSVdfamlBT19jcmp3cVVGbklLd25SU3phOEM4R21rTzdCZ0tJN1pBNGdSWjJ6eFBUVzFZQ2EtODBZOF9IbXc0N0dhM0xET1lOUVV3Wk5TbEEzcDR4SGdaOWdfVzdLOUlaNXdkU1hDNlJjOXc1YkdSc0RFclVKeXZ2VE5oVU02Sm1YblRicXFfNjhUWWRhN1hZTTloYXp2Uld0N0M0dHNtMWc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "syria_deir_ez_zor_pipeline_explosion_2026-11-19"
+  },
+  {
+    "id": "auto-67310",
+    "headline": {
+      "ja": "クリミア大橋でドローン攻撃",
+      "en": "Drone attack on Crimean Bridge"
+    },
+    "summary": {
+      "ja": "ロシア政府は、ウクライナのドローン攻撃によりクリミア大橋の交通が遮断されたと発表した。",
+      "en": "Russia announces drone attack disrupts traffic on Crimean Bridge"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 45.107,
+    "lon": 34.5204,
+    "occurredAt": "2026-11-19T09:10:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTDNMWXR5YVhnR2tlbjZNVVBHRFlSSkZiUkF0ZlNxMUNuZzVyb1dBbU5VRmxGRklJVmtkMnZseXc5UFVZdmFmUVMxRTRBTGoydTZmcGFqbFhhQUVRLU9YQlE5RVMtTnIzNTVCS0xpQi1JNDl2NzdZRlRYRUp6UFliUHZLbGJ2Zw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_crimean_bridge_drone_attack_2026-11-19"
   },
   {
     "id": "auto-66764",
@@ -2522,259 +2638,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "usa_japan_defense_spending_2026-11"
-  },
-  {
-    "id": "auto-58736",
-    "headline": {
-      "ja": "ウクライナ・ロシア、夜間の激しい攻撃で10人以上が死亡",
-      "en": "More than 10 killed as Russia, Ukraine trade accusations following overnight strikes"
-    },
-    "summary": {
-      "ja": "アナドル通信によると、夜間のウクライナ・ロシア間の攻撃により10人以上が殺害されたと報じられた。双方が相手側の攻撃を非難している。",
-      "en": "Turkish media reports over 10 people were killed in overnight strikes between Ukraine and Russia, with both sides trading accusations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T08:34:40+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHRNMEZzekFmUE9ZTnJfQldIUFdaTktPNUpMZzE5TnV2TVl3XzhCRlZObHA5RkhrQWt4Wl9NUWVtM1UxcndzQUwzWDhlT1FLR0xTMUVUX2RzYjF2YThBdTI0ZVFPZFlrb05hdXFxcGVNYlhSTHZLNWtGVjBHbGJobVFwQnQ2QkRPcGJzWURQN1ZjczRNS3NfX1RrNGRmRGpUY0Qwc2dtRzNkZHZQSVMzem9hVktyRmNianp3X0YxZUlaS2lkZndQeHg0RmxSeEhyYmpoeFlkYTRwdkVpNkNkNjNKUmluZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_russia_overnight_strikes_2026-11-13",
-    "severity": 4
-  },
-  {
-    "id": "auto-58940",
-    "headline": {
-      "ja": "ロシア政府は、ボルゴグラードへのドローン攻撃で4人死亡と発表",
-      "en": "Four people dead, two injured in drone attack on Russia's Volgograd"
-    },
-    "summary": {
-      "ja": "ロシア政府は、ボルゴグラード州へのドローン攻撃で4人が死亡、2人が負傷したと発表した。",
-      "en": "Russian authorities report four people killed and two injured in drone attack on Volgograd."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 48.7138,
-    "lon": 44.4976,
-    "occurredAt": "2026-11-13T07:51:25+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XZ0J2UXhybzZJTFhlck1jMFEtZ1JPSUFvMFM2RXg1Wk5lc1Z2c0pBTHNPNExTQ1FNbXROdnZJb2FCUEdpOUpNQtIBTkFVX3lxTE1hYmJnWmVZZklBY0I3UHBWa0pRU1RxSGdjdmxmUVUwdDYzQ2FXV0wzV1dieXNZT1EwU0VweGo5VnZXd0xfOFZqMnFNUG5hZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_russia_drone_attack_volgograd_2026-11-13"
-  },
-  {
-    "id": "auto-58246",
-    "headline": {
-      "ja": "ロシア政府は、ウクライナの大規模ドローン攻撃を記録したと発表",
-      "en": "Russia records one of Ukraine's largest overnight drone attacks of year"
-    },
-    "summary": {
-      "ja": "ロシア国防省は、ウクライナが夜間に記録的規模のドローン攻撃を実施したと発表した。",
-      "en": "Russian Ministry of Defense claims Ukraine conducted one of the year's largest overnight drone attacks."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T07:04:54+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NM0xqOS1zeGtzNktFWFJLbnl1VDkzUUJKU242VUh6MGZtcmZ2Q1ZyYzlSWnAtYXJYcHI0Mng5R2tBT1dGYWpsbtIBTkFVX3lxTFBNV2Y0OE9lUy1HQzVxTXZWc19YeXRmdFY4MGpJd25OTGNDYWRvNU9pcVIyeUowUDNURkZ3Umk2OTdET0JONGJYZ3U0dzBOQQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_russia_drone_attack_massive_2026-11-13"
-  },
-  {
-    "id": "auto-58027",
-    "headline": {
-      "ja": "イラン革命防衛隊がバーレーンの米国早期警戒レーダーを破壊したと発表",
-      "en": "IRGC destroyed US early-warning radar in Bahrain"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊は、バーレーン島にある米国軍の早期警戒レーダーを標的にして破壊したと発表した。",
-      "en": "Iran's Islamic Revolution Guards Corps announced that it destroyed a US military early-warning radar system located on Bahrain."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-13T05:28:10+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320332/IRGC-destroyed-US-early-warning-radar-in-Bahrain"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_radar_bahrain_strike_2026-11-13"
-  },
-  {
-    "id": "auto-58023",
-    "headline": {
-      "ja": "ブルキナファソの対立武装勢力JNIM・ISILが激戦、国家支配喪失",
-      "en": "Burkina Faso's rival armed groups turn on each other as state loses ground"
-    },
-    "summary": {
-      "ja": "ブルキナファソでJNIMとISILの間の紛争が激化し、国家権力が統制を失う中、武装勢力同士の戦闘が拡大している。",
-      "en": "In Burkina Faso, rival militant groups JNIM and ISIL are intensifying conflict while the state struggles to maintain control over the country."
-    },
-    "category": "conflict",
-    "country": "ブルキナファソ",
-    "lat": 12.3657,
-    "lon": -1.5339,
-    "occurredAt": "2026-11-13T05:23:31+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "burkina_faso_jnim_isil_conflict_escalation_2026-11-13"
-  },
-  {
-    "id": "auto-58052",
-    "headline": {
-      "ja": "UN が6人死亡27人負傷のガザ・ナセル病院イスラエル空爆を非難",
-      "en": "UN condemns Israeli strike on Nasser Hospital that killed six, injured 27"
-    },
-    "summary": {
-      "ja": "国連は、ガザのナセル病院に対するイスラエル空爆を非難し、6人の死亡と27人の負傷を報告した。",
-      "en": "The UN condemned an Israeli strike on Gaza's Nasser Hospital that killed six people and injured 27."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-13T04:43:51+00:00",
-    "source": {
-      "name": "UAE 国営WAM通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2dVZFRCTUVkY1B6V0JzdTBEdk54RTgzX3BIMDRyUGhicnV3aVhiQkZxNi0xMWFQU2FXX3d2NEVQVHhhVHdYVUQ1Ynh1Vkx3eVNWdFFWS0g2X1NKVE5JTTU4Z2tSOENXTjRUdGNaazAxcGYtTWUyamp4Q2FKeEliN2FDa1ZwYTM2aGc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_nasser_hospital_un_condemn_deaths_2026-11-13"
-  },
-  {
-    "id": "auto-57921",
-    "headline": {
-      "ja": "米国特使がプーチンとゼレンスキーの間をシャトル外交でロシア・ウクライナ和平交渉仲介",
-      "en": "US envoys shuttle between Putin and Zelenskyy to broker Russia-Ukraine peace deal"
-    },
-    "summary": {
-      "ja": "米国の特使 Witkoff と Kushner は、ロシア・ウクライナ和平合意仲介のため、ダブリンとモスクワの間を往来している。",
-      "en": "US envoys Witkoff and Kushner are shuttling between Dublin and Moscow to mediate peace negotiations between Russia and Ukraine."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T04:12:01+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_russia_ukraine_peace_shuttle_diplomacy_2026-11-13"
-  },
-  {
-    "id": "auto-57926",
-    "headline": {
-      "ja": "国連当局がガザのナセル病院へのイスラエル空爆を非難",
-      "en": "UN officials deplore deadly Israeli strike on Gaza's Nasser Hospital"
-    },
-    "summary": {
-      "ja": "国連の当局者は、ガザのナセル病院に対するイスラエルの空爆を強く非難し、民間人への被害を問題視している。",
-      "en": "UN officials have condemned an Israeli airstrike on Gaza's Nasser Hospital, expressing concern over civilian casualties and infrastructure damage."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-13T04:03:21+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83alFTOE1RVHVxOGFrNzRyN1FnSHZzOVJKVXo3QUlKdlZpbXFsY1M2azhzWGlvbk8xSTRZbUMyN2gwOHBXdTRoTWttWU5iZEItQkluYnJRdDFkc3pJSDFUdFVyZGI0TE00NWdzSlZOMG9UNy1KVk94ck0ybTA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_nasser_hospital_un_condemns_2026-11-13"
-  },
-  {
-    "id": "auto-57978",
-    "headline": {
-      "ja": "ウクライナとロシアが過去最大規模の捕虜交換を計画",
-      "en": "Ukraine, Russia to hold largest-ever prisoner exchange: Zelenskyy"
-    },
-    "summary": {
-      "ja": "ゼレンスキー大統領は、ウクライナとロシアが過去最大規模の捕虜交換を行う計画を発表した。",
-      "en": "President Zelenskyy announced that Ukraine and Russia will conduct their largest prisoner exchange ever."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T03:52:28+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlBGMmQ5WmI4dWFzdmxPT0FVcmU1eHd6blRtS2Y5aU52dllFS2xfU0NLWUxRaFBCbmpHV3VPSmQ0a0J3dFZsbTVRbFVMZWlubncyWHFsTnJJWEwyYmJTU2Q1S1hYVFd0NkYzTXRfZUtBRE9CZVZBV1duVVNCcU1hRU5IVGhjQlNkYlBlSFJuYjZrU0l3Qm5mRzNGbTM2eVExUVVpcVNfM3BQY1VOZjlDWg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russia_largest_prisoner_exchange_2026-11-13"
-  },
-  {
-    "id": "auto-57916",
-    "headline": {
-      "ja": "イランがバーレーンの米国レーダー施設を攻撃したと発表",
-      "en": "Iran says it targeted US radar site in Bahrain"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊は、米国がイラン南部ホルムズガン州の通信塔を攻撃したことへの報復として、バーレーンの米国レーダー施設を攻撃したと発表した。",
-      "en": "Iran's Revolutionary Guards claimed responsibility for striking a US radar facility in Bahrain in retaliation for alleged US attacks on Iranian telecommunications infrastructure."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-13T03:17:27+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_military_escalation_bahrain_2026-11-13"
-  },
-  {
-    "id": "auto-57917",
-    "headline": {
-      "ja": "ガザのナセル病院へのイスラエル空爆で多くの被害",
-      "en": "Gaza surgeon films aftermath of Israeli strike on Nasser Hospital"
-    },
-    "summary": {
-      "ja": "英国の医療ボランティア医師がガザのナセル病院へのイスラエル空爆の直後の様子を撮影した映像が報じられた。",
-      "en": "A British volunteer surgeon documented the aftermath of an Israeli airstrike on Gaza's Nasser Hospital, revealing significant destruction and casualties."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-13T03:11:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "gaza_nasser_hospital_israeli_strike_2026-11-13"
   }
 ]
