@@ -26,17 +26,17 @@
   {
     "id": "auto-67312",
     "headline": {
-      "ja": "クシュナー氏 ロシアのウクライナ交渉提案発言",
-      "en": "Kushner Says Russia Agreed to European Participation in Ukraine Talks"
+      "ja": "ウクライナ交渉での欧州参加についてロシア同意との報道",
+      "en": "Kushner says Russia agreed to European participation in Ukraine talks"
     },
     "summary": {
-      "ja": "トランプ政権の関係者クシュナー氏が、ロシアがウクライナ平和交渉への欧州参加に同意したと発言したとのこと。",
-      "en": "Kushner stated that Russia has agreed to European participation in Ukraine peace talks, according to Xinhua reports."
+      "ja": "米国のクシュナーがロシアがウクライナ交渉への欧州参加に同意したと述べた。",
+      "en": "Kushner reports Russia's agreement to European participation in Ukraine negotiations."
     },
     "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
     "occurredAt": "2026-11-20T01:31:30+00:00",
     "source": {
       "name": "中国 新華社(国営)(Google News経由)",
@@ -44,7 +44,7 @@
     },
     "reliability": "medium",
     "auto": true,
-    "eventKey": "ukraine_peace_talks_european_participation",
+    "eventKey": "ukraine_peace_talks_european_participation_2026-11",
     "severity": 4
   },
   {
@@ -117,29 +117,6 @@
     "eventKey": "iran_missile_test_nov2026"
   },
   {
-    "id": "auto-67335",
-    "headline": {
-      "ja": "インド大臣 商船攻撃を非難、海上安全強化を指示",
-      "en": "Sarbananda Sonowal Condemns Attacks on Commercial Vessels, Orders Tighter Maritime Security"
-    },
-    "summary": {
-      "ja": "インドの海運大臣サルバナンダ・ソノワルが商船への攻撃を非難し、高リスク海域で航行するインド人船員の海上安全を強化するよう指示した。",
-      "en": "India's Maritime Minister Sarbananda Sonowal condemned attacks on commercial vessels and ordered enhanced maritime security for Indian seafarers sailing in high-risk waters."
-    },
-    "category": "conflict",
-    "country": "インド",
-    "lat": 28.6214,
-    "lon": 77.2148,
-    "occurredAt": "2026-11-19T15:58:00+00:00",
-    "source": {
-      "name": "インド 政府広報PIB(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYzZJR0ZiaEJGSFp2Yll4ajBxQWFqLWVaYnBzU25Zdzd3b3Z6aGhxbC1JdEpVakk5akV1OUZDT1EtbHFiOE1vRy1tSHZtTTROMi1mUTFWSXZKbDRZSHFNX2JqWG9wN08tSlRB?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "india_maritime_security_commercial_vessels"
-  },
-  {
     "id": "auto-66527",
     "headline": {
       "ja": "フーシ軍がリヤド金融地区の建物を攻撃",
@@ -188,12 +165,12 @@
   {
     "id": "auto-67317",
     "headline": {
-      "ja": "インド 台風アクヴァンへの備え",
-      "en": "India Prepares for Cyclone Akvan"
+      "ja": "インドがサイクロン・アクヴァンへの対応準備を進める",
+      "en": "India prepares for Cyclone Akvan"
     },
     "summary": {
-      "ja": "インドが台風アクヴァンへの備えを進めている。",
-      "en": "India is preparing for Cyclone Akvan."
+      "ja": "インド政府がサイクロン・アクヴァンの接近に対応する準備態勢を整えている。",
+      "en": "India is making preparations to respond to the approach of Cyclone Akvan."
     },
     "category": "disaster",
     "country": "インド",
@@ -206,7 +183,7 @@
     },
     "reliability": "medium",
     "auto": true,
-    "eventKey": "india_cyclone_akvan_preparation"
+    "eventKey": "india_cyclone_akvan_2026-11"
   },
   {
     "id": "auto-67079",
@@ -234,12 +211,12 @@
   {
     "id": "auto-67316",
     "headline": {
-      "ja": "パキスタン・バロチスタンでバス・タンカー衝突事故",
-      "en": "10 Killed, 27 Injured in Bus-Tanker Collision in Pakistan's Balochistan"
+      "ja": "パキスタン・バロチスタン州でバス・タンカー衝突、10人死亡27人負傷",
+      "en": "Bus-tanker collision in Pakistan's Balochistan kills 10, injures 27"
     },
     "summary": {
-      "ja": "パキスタン・バロチスタン州でバスとタンカーが衝突し、10人が死亡、27人が負傷した。",
-      "en": "A bus-tanker collision in Pakistan's Balochistan province resulted in 10 deaths and 27 injuries."
+      "ja": "パキスタンのバロチスタン州でバスとタンカーが衝突し、10人が死亡、27人が負傷した。",
+      "en": "A bus-tanker collision in Balochistan, Pakistan resulted in 10 deaths and 27 injuries."
     },
     "category": "disaster",
     "country": "パキスタン",
@@ -252,7 +229,7 @@
     },
     "reliability": "medium",
     "auto": true,
-    "eventKey": "pakistan_balochistan_bus_tanker_collision"
+    "eventKey": "pakistan_balochistan_bus_tanker_collision_2026-11-19"
   },
   {
     "id": "auto-67505",
@@ -276,29 +253,6 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "syria_deir_ez_zor_pipeline_explosion_2026-11-19"
-  },
-  {
-    "id": "auto-67364",
-    "headline": {
-      "ja": "インド税関 ヘロイン72kg押収 密輸犯人逮捕",
-      "en": "DRI Seizes Over 71 kg Heroin Being Smuggled to Sri Lanka; Two Drug Traffickers Arrested"
-    },
-    "summary": {
-      "ja": "インド税関局(DRI)がチェンナイでスリランカへの密輸を目的とした72kg以上のヘロイン を押収。薬物密売人2名を逮捕した。",
-      "en": "Indian customs authority (DRI) seized over 71 kg of heroin destined for Sri Lanka in Chennai and arrested two drug traffickers."
-    },
-    "category": "conflict",
-    "country": "インド",
-    "lat": 13.0878,
-    "lon": 80.2785,
-    "occurredAt": "2026-11-19T11:20:00+00:00",
-    "source": {
-      "name": "インド 政府広報PIB(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2dno1dC1fTmNHdW00a0FXUTZZZk16YmRXUHFOWXExOGx3TUZkRGUxOWxhcXZUUW5xejFMdGxjNG9XUGJlQjB3cXRkdzhfa2RSMlNXWVlsTTVZbFZMSzdYVkh4MW85VzhWOVR3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "india_dri_heroin_seizure_sri_lanka"
   },
   {
     "id": "auto-67310",
@@ -349,12 +303,12 @@
   {
     "id": "auto-67315",
     "headline": {
-      "ja": "習近平・プーチン・トランプ首脳会談開催",
-      "en": "Xi Holds China-Russia-U.S. Summit with Putin, Trump"
+      "ja": "習近平がプーチン・トランプとの3国首脳会談を開催",
+      "en": "Xi holds China-Russia-U.S. summit with Putin and Trump"
     },
     "summary": {
-      "ja": "習近平中国主席、プーチンロシア大統領、トランプ米国大統領による中露米三国首脳会談が開催されたと報じられた。国際政治に大きな影響が生じる可能性がある。",
-      "en": "Chinese President Xi, Russian President Putin, and U.S. President Trump held a trilateral summit, with significant implications for international relations."
+      "ja": "中国の習近平国家主席がロシアのプーチン大統領とアメリカのトランプ大統領との首脳会談を開催した。",
+      "en": "Chinese President Xi Jinping held a summit with Russian President Putin and U.S. President Trump."
     },
     "category": "conflict",
     "country": "中国",
@@ -365,9 +319,9 @@
       "name": "中国 新華社(国営)(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wZ0tpdUxWdzExLWZNMHE2OHAtbVIzT2c4aVh6QnZhMkZ3UDhsV1dmanJHWXNWaTdZeHlEXzVKZUpFNVl3b0ZJTGhtNHdJN3E5TW5zUjJPTWV4SUpPN09FcXJleXBHendYYnRLTlVoTVlFUU5WMjJ4cW1ESF8?oc=5"
     },
-    "reliability": "medium",
+    "reliability": "high",
     "auto": true,
-    "eventKey": "xi_putin_trump_summit_trilateral",
+    "eventKey": "china_russia_usa_summit_2026-11",
     "severity": 5
   },
   {
@@ -396,25 +350,25 @@
   {
     "id": "auto-67319",
     "headline": {
-      "ja": "台湾防衛部 PLAの活動を報告",
-      "en": "PLA Activities in the Waters and Airspace Around Taiwan"
+      "ja": "台湾国防部がPLAの台湾周辺での軍事活動を報告",
+      "en": "Taiwan Defense Ministry reports PLA military activities around Taiwan"
     },
     "summary": {
-      "ja": "台湾国防部がPLA（中国人民解放軍）の台湾周辺での活動を11月19日分として報告した。",
-      "en": "Taiwan's Ministry of Defense reported PLA military activities in waters and airspace around Taiwan on November 19, 2026."
+      "ja": "台湾国防部が11月19日の中国人民解放軍による台湾周辺での軍事活動を報告した。",
+      "en": "Taiwan's Defense Ministry reported PLA military activities in the waters and airspace around Taiwan on November 19."
     },
     "category": "conflict",
     "country": "台湾",
-    "lat": 25.0531,
-    "lon": 121.5264,
+    "lat": 24.4609,
+    "lon": 121.0737,
     "occurredAt": "2026-11-19T06:18:26+00:00",
     "source": {
       "name": "台湾 国防部(Google News経由)",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SazJvdGFvd3JEQ1ktclhlbzhkeDE1REttQjg2S3ZxODJkWUtoUVBCM3hqbEFxVURtbk1OZU85LUJZamctQjBONkZUdXMzQnhVNlJMVGZrRloyWFRHQzZQa05EZm12eGlGdWdnXzl4T19tZw?oc=5"
     },
-    "reliability": "medium",
+    "reliability": "high",
     "auto": true,
-    "eventKey": "taiwan_pla_activities_nov19_2026"
+    "eventKey": "taiwan_pla_military_activity_2026-11-19"
   },
   {
     "id": "auto-66746",
@@ -2477,237 +2431,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "gaza_winter_storm_humanitarian_2026-11-14"
-  },
-  {
-    "id": "auto-58374",
-    "headline": {
-      "ja": "イラン政府は、米国のMQ-1ドローンを撃墜したと発表",
-      "en": "Iranian Army shoots down US MQ-1 drone off southern coast"
-    },
-    "summary": {
-      "ja": "イラン軍は、同国南部ホルモズガン州沿岸のクウェスタク地域付近で、先進的な防空システムで米国のMQ-1ドローンを撃墜したと発表した。",
-      "en": "Iranian military reported shooting down a US MQ-1 drone using an advanced air defense system off the southern coast in Hormozgan Province."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 27.0969,
-    "lon": 56.1191,
-    "occurredAt": "2026-11-13T19:30:25+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320807/Iranian-Army-shoots-down-US-MQ-1-drone-off-southern-coast"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_usmq1_drone_shootdown_hormozgan_2026-11-13"
-  },
-  {
-    "id": "auto-58440",
-    "headline": {
-      "ja": "EU機関がウクライナ和平交渉にヨーロッパ代表として参加へ",
-      "en": "EU institutions, E5 to represent Europe in Ukraine peace talks"
-    },
-    "summary": {
-      "ja": "EU機関およびE5が、ウクライナとの平和交渉においてヨーロッパを代表して参加することになった。",
-      "en": "EU institutions and E5 countries are to represent Europe in Ukraine peace talks."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T17:54:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbU1LVm9KSG16MGIwYW9zSUZjYWJYNmsxeW1sY0hQd1dwZW5DdWU3RW1KUkNXSzBuNEhObXZwLUYzTjIwdkpJWlV2YnMxeVVDd2pOSjBxVXJlbmZibmViOVMxckYxTEFyQncxZFpMUFZhVFA2TkZGbDVFckN0ZjRlUEd4ODc5Zw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_eu_peace_talks_2026-11-14"
-  },
-  {
-    "id": "auto-58756",
-    "headline": {
-      "ja": "国連、イスラエル攻撃によりガザの保健システムが崩壊危機に直面していると警告",
-      "en": "UN warns Israeli attacks have pushed Gaza's health system to brink of collapse"
-    },
-    "summary": {
-      "ja": "国連はイスラエルの攻撃により、ガザの保健システムが崩壊の危機に瀕していると警告を発出した。",
-      "en": "The UN warned that Israeli attacks have pushed Gaza's health system to the brink of collapse."
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-13T15:43:37+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWRTTUJDSWcxZzRkUmFPZlg2UzB6Zkp4MGYzS3BPM3NPdlplWFA3cGdsRFppb0FYUHhVTk5KLW01ZTQ0SUd0Tmc1aXdWUnNaOHQyWkRQVXphcFZxdmEtVnhoWlhtejAxS21RMV9JLTRyMmZWVk15ZjFNNE5JV0FsbzdPOEROeEJTemNBN1RzN2NHelNONEIzY0xlV2doRWtRMUo4RjdDSlRCV2pyNUtMcTFuSFI2bThJM3c?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_health_system_crisis_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-58754",
-    "headline": {
-      "ja": "ドイツのMerz、具体的なウクライナ平和交渉が今後数週間中に予定されると表明",
-      "en": "Germany's Merz says first concrete Ukraine peace talks expected in coming weeks"
-    },
-    "summary": {
-      "ja": "ドイツの政治指導者Merzは、ウクライナに関する初の具体的な平和交渉が今後数週間中に予定されていると述べた。",
-      "en": "German political leader Merz stated that the first concrete peace talks on Ukraine are expected to begin in the coming weeks."
-    },
-    "category": "conflict",
-    "country": "ドイツ",
-    "lat": 52.5244,
-    "lon": 13.4105,
-    "occurredAt": "2026-11-13T15:40:57+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1dSUmtWRHJvc2RvOWJSelhUYmlRZU5FNnlfbmhkbl9YTnI3eHpsYzJmcVRzSU9oMmRsenhEZUVYLWlTdnpMT3VEdGMzQjhJRFNYcUlNRzBEYlRadjl0QVdXQmZTWlZHNHdNTERMSXYxM29jQ01XOS1MYnF6T19lOS1IdWQzOTJpUzJvUTJRVG5JOHNtN2hjeTJacmItNjJkUHRGeGhSSUhZSGw1Nzl5NjIyTV9OaHM?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_germany_peace_talks_2026-11"
-  },
-  {
-    "id": "auto-58345",
-    "headline": {
-      "ja": "Telegramのrybarアカウントが、ウクライナによる大規模ドローン攻撃を報告",
-      "en": "Telegram report: Ukraine conducted massive drone attack on Russian regions"
-    },
-    "summary": {
-      "ja": "Telegramの軍事情報チャネル「rybar」で、ウクライナが1198機のドローンによる大規模攻撃を実施し、モスクワ地域を含む18州が対象になったという報告があった。",
-      "en": "Social media report claims Ukraine launched large-scale drone attack involving 1198 unmanned vehicles against Russian territory including Moscow region."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T14:29:24+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84656"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_russia_drone_attack_massive_moscow_2026-11-13"
-  },
-  {
-    "id": "auto-58753",
-    "headline": {
-      "ja": "ガザで生後9ヶ月の乳幼児が寒冷で死亡 - 今冬初",
-      "en": "9-month-old baby dies from severe cold in Gaza, first cold-related death this winter"
-    },
-    "summary": {
-      "ja": "ガザ保健省によると、ガザで生後9ヶ月の乳幼児が厳しい寒冷により死亡し、今冬初の寒冷関連死となったと報じられた。",
-      "en": "Gaza's Health Ministry reported that a 9-month-old infant died from severe cold exposure in Gaza, marking the first cold-related death of the winter."
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-13T12:05:05+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2U1bm82cERpZmdGazRZYjdXSloxWnY2dzcxUzdVYmJCYnl2SlZOQmdDLVI1N3J0NXhybmFqSnBPeUUzbENnYzVQOEZXYWJZb1pOMGtoeEh3a0dpMXl4bDJYaGFUYUhsc1NJRHNWRUljTDMxMXVBTk9iZ1ptZmZHLXNPRnRPeG9INGhIeFExOUd4SHFjRC1CNzQxOUJKMHpUT1BwbktMUldXeVBYaXBTVlgtZllhSE4tV1ZycC1qb3VyeE8yY2NDY1VnQnc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_cold_related_death_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-58774",
-    "headline": {
-      "ja": "ケニア首都近郊で建設中の8階建てビル倒壊、6人が死亡",
-      "en": "6 killed as 8-story under-construction building collapses near Kenya's capital"
-    },
-    "summary": {
-      "ja": "ケニアの首都近郊で建設中の8階建てビルが倒壊し、6人が死亡したと報じられた。",
-      "en": "An 8-story building under construction collapsed near Kenya's capital, killing 6 people."
-    },
-    "category": "disaster",
-    "country": "ケニア",
-    "lat": -1.2833,
-    "lon": 36.8167,
-    "occurredAt": "2026-11-13T11:48:06+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUm9YMERhTHM0UmJPaEN5ak91RTVxajF1eUtPZ0QtNmdQMHk1emxiWVA1bE1RN0hEcHlFQ2wwdFNyMmZVczdNMmxvazZ3R2xnanVTbUg4cHRaWS1YX1lmM3c2Y0pYMUhLM01LV0s1Z09fbkx2UHpHX3d6Z0RxbEprdEtqeDZuT0dVWEY1SVhUZmJLVktuUHFYODRwZ29aWjRIaEdwTUxtZklyYUVfblVSWWl6WQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "kenya_building_collapse_2026-11-13"
-  },
-  {
-    "id": "auto-58772",
-    "headline": {
-      "ja": "ウクライナ前首相の元補佐官、モスクワ南部での車爆弾により負傷",
-      "en": "Ex-aide to former Ukrainian premier injured in car blast in southern Moscow"
-    },
-    "summary": {
-      "ja": "アナドル通信によると、ウクライナの前首相の元補佐官がモスクワ南部で車爆弾に見舞われ、負傷したと報じられた。",
-      "en": "Turkish media reports that a former aide to a previous Ukrainian prime minister was injured in a car blast in southern Moscow."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-13T10:56:02+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEJGMUxZSGluUW9EXzRLQUlwN2gtQnBURkIwNUxJbHdxTXplRkF3Vk5Pelp2WmdFM1hmTE0zTzRibHBBbzlFMDd4V1Y3TVNXX2xpcnA1QTFpMktpSzNoSG5yZW9BVXQ3WjAwSTMtNzVWWTBIVnhBUFlTUG9pMDVpNmZiVlVkeVFwa1dnN0VBZ1FQT0lkWGdjVW8zZlFuQ0gwWElWOVhnN1IzbDkxN0M3eW9tSkRSbVdLZXltVE1B?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "moscow_car_blast_ukrainian_official_2026-11-13"
-  },
-  {
-    "id": "auto-58763",
-    "headline": {
-      "ja": "イスラエル、南部レバノンの5町に砲撃・ドローンがベイルート上空を低空飛行",
-      "en": "Israeli forces shell 5 southern Lebanon towns as drones fly low over Beirut"
-    },
-    "summary": {
-      "ja": "イスラエル軍が南部レバノンの5つの町に砲撃を加えるとともに、ドローンがベイルート上空を低空飛行しているとアナドル通信が報じた。",
-      "en": "Turkish media reports Israeli forces shelled five towns in southern Lebanon while drones flew low over Beirut."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-11-13T09:59:31+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWFMN1VuTG5VcGhhQzZ2R2xOaTBPN09fY2FCU2ZXQzlIOXRTZE5ySnRsWGpra0JJQmZWUnhjRExxUVF5TWY2d19hN3lDa0hLS1R4RlhIODlLdGJtczR4NFM4eFhNYTNBcjMtVGNPOEtnUE9IZlBZTVdmUWFnSURGa2RCQnhsSjQwQlRoZWhBUm5iMVJrdUg2cFd3bXFIS1hpQlJfcXdqMnZKU2U1ODg5SmNOWmgzdG1uZmJMMA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_military_action_2026-11-13"
-  },
-  {
-    "id": "auto-58762",
-    "headline": {
-      "ja": "イスラエル、南レバノンの町に空爆・砲撃を実施",
-      "en": "Israeli airstrikes and shelling hit towns across southern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエル軍が南レバノンの複数の町に対して空爆と砲撃を実施した。",
-      "en": "Israeli forces conducted airstrikes and shelling against towns in southern Lebanon."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-11-13T09:59:31+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmxuT3AzNWdZNllOV21JQU9pUFcyZ05oSUdxMnNLamFUdFVoOVBEMHN1dTROMTZBeDVCN29SbkNHeTloMWZ3aTFPWk00bmpPVHlXNGhpQVhLSXZiOFBHajBBYm5XeV9FdG5xM1JOclV1cnBmRkZaRExKX3JMT2JjcFlOTmZnUnRtUVl0RDY4NDVKNlp3dUZrTEVrWVpzWW1ScG1LZXg4OW9LbTNUeDVLZg?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "lebanon_israel_airstrike_southern_2026-11-13"
   }
 ]
