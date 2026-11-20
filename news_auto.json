@@ -24,6 +24,30 @@
     "severity": 4
   },
   {
+    "id": "auto-67312",
+    "headline": {
+      "ja": "クシュナー氏 ロシアのウクライナ交渉提案発言",
+      "en": "Kushner Says Russia Agreed to European Participation in Ukraine Talks"
+    },
+    "summary": {
+      "ja": "トランプ政権の関係者クシュナー氏が、ロシアがウクライナ平和交渉への欧州参加に同意したと発言したとのこと。",
+      "en": "Kushner stated that Russia has agreed to European participation in Ukraine peace talks, according to Xinhua reports."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-20T01:31:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUtZS1VFQnpYbGl0LXJYVUJkWmZjd1lVZHFIb2VJUHNVZkNjYjJUUjU1OTUyM1dmekVMcUJLSkhZREZtbHRFZWVIRmNCSkVIWHhGV2VNMFB0Ylg3a1BMbUl4OUZtZ19wRjMyV0dOYW1YUGVYLVhnRHFlTlh0T2ZhVnhFZEg3dw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_peace_talks_european_participation",
+    "severity": 4
+  },
+  {
     "id": "auto-67103",
     "headline": {
       "ja": "Houthis民兵、サウジアラビア首都への攻撃を激化",
@@ -93,6 +117,29 @@
     "eventKey": "iran_missile_test_nov2026"
   },
   {
+    "id": "auto-67335",
+    "headline": {
+      "ja": "インド大臣 商船攻撃を非難、海上安全強化を指示",
+      "en": "Sarbananda Sonowal Condemns Attacks on Commercial Vessels, Orders Tighter Maritime Security"
+    },
+    "summary": {
+      "ja": "インドの海運大臣サルバナンダ・ソノワルが商船への攻撃を非難し、高リスク海域で航行するインド人船員の海上安全を強化するよう指示した。",
+      "en": "India's Maritime Minister Sarbananda Sonowal condemned attacks on commercial vessels and ordered enhanced maritime security for Indian seafarers sailing in high-risk waters."
+    },
+    "category": "conflict",
+    "country": "インド",
+    "lat": 28.6214,
+    "lon": 77.2148,
+    "occurredAt": "2026-11-19T15:58:00+00:00",
+    "source": {
+      "name": "インド 政府広報PIB(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYzZJR0ZiaEJGSFp2Yll4ajBxQWFqLWVaYnBzU25Zdzd3b3Z6aGhxbC1JdEpVakk5akV1OUZDT1EtbHFiOE1vRy1tSHZtTTROMi1mUTFWSXZKbDRZSHFNX2JqWG9wN08tSlRB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "india_maritime_security_commercial_vessels"
+  },
+  {
     "id": "auto-66527",
     "headline": {
       "ja": "フーシ軍がリヤド金融地区の建物を攻撃",
@@ -139,6 +186,29 @@
     "eventKey": "iran_hormuz_strait_tanker_explosion_2026-11-19"
   },
   {
+    "id": "auto-67317",
+    "headline": {
+      "ja": "インド 台風アクヴァンへの備え",
+      "en": "India Prepares for Cyclone Akvan"
+    },
+    "summary": {
+      "ja": "インドが台風アクヴァンへの備えを進めている。",
+      "en": "India is preparing for Cyclone Akvan."
+    },
+    "category": "disaster",
+    "country": "インド",
+    "lat": 28.6214,
+    "lon": 77.2148,
+    "occurredAt": "2026-11-19T14:59:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeENjMkVXTEFhSDZrN0NLUWVqOXVRRjI0LTNYUkthNXNzdmxSUmlYS1JZaEYwTm1iaG95dTBhRFFGcllYRE9paS1iN2JYRW9xT0VDdkpoSXFCck00ODl1UndSMzdoam1iY0xXUHExYmJOUjRxRC1PcjFHYjN4SFRjU3c1Sjc1ZlMyTmJCSQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "india_cyclone_akvan_preparation"
+  },
+  {
     "id": "auto-67079",
     "headline": {
       "ja": "プーチン大統領、ウクライナのクリミア橋攻撃への報復を誓う",
@@ -162,6 +232,29 @@
     "eventKey": "ukraine_crimea_putin_response_nov2026"
   },
   {
+    "id": "auto-67316",
+    "headline": {
+      "ja": "パキスタン・バロチスタンでバス・タンカー衝突事故",
+      "en": "10 Killed, 27 Injured in Bus-Tanker Collision in Pakistan's Balochistan"
+    },
+    "summary": {
+      "ja": "パキスタン・バロチスタン州でバスとタンカーが衝突し、10人が死亡、27人が負傷した。",
+      "en": "A bus-tanker collision in Pakistan's Balochistan province resulted in 10 deaths and 27 injuries."
+    },
+    "category": "disaster",
+    "country": "パキスタン",
+    "lat": 28.9716,
+    "lon": 66.678,
+    "occurredAt": "2026-11-19T12:52:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUVXQWxLWG5McE9KeHRvX0VWREgwQUwzb3U0OWlSZ3hqN2lrZTRUR2FQNTRhRFpJX3ZXNndkRmx5MzZQc1NCU0lGQzNfWVNJdG1nd1lsMjJzaE5aelA4QnhaZ2V3OGJxdTRtTWNxUE1RQW93aWZjTE91RUhmWU9kSU5mek5VQjlEX2FGSA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "pakistan_balochistan_bus_tanker_collision"
+  },
+  {
     "id": "auto-67505",
     "headline": {
       "ja": "シリア東部のガスパイプラインが爆発",
@@ -183,6 +276,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "syria_deir_ez_zor_pipeline_explosion_2026-11-19"
+  },
+  {
+    "id": "auto-67364",
+    "headline": {
+      "ja": "インド税関 ヘロイン72kg押収 密輸犯人逮捕",
+      "en": "DRI Seizes Over 71 kg Heroin Being Smuggled to Sri Lanka; Two Drug Traffickers Arrested"
+    },
+    "summary": {
+      "ja": "インド税関局(DRI)がチェンナイでスリランカへの密輸を目的とした72kg以上のヘロイン を押収。薬物密売人2名を逮捕した。",
+      "en": "Indian customs authority (DRI) seized over 71 kg of heroin destined for Sri Lanka in Chennai and arrested two drug traffickers."
+    },
+    "category": "conflict",
+    "country": "インド",
+    "lat": 13.0878,
+    "lon": 80.2785,
+    "occurredAt": "2026-11-19T11:20:00+00:00",
+    "source": {
+      "name": "インド 政府広報PIB(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2dno1dC1fTmNHdW00a0FXUTZZZk16YmRXUHFOWXExOGx3TUZkRGUxOWxhcXZUUW5xejFMdGxjNG9XUGJlQjB3cXRkdzhfa2RSMlNXWVlsTTVZbFZMSzdYVkh4MW85VzhWOVR3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_dri_heroin_seizure_sri_lanka"
   },
   {
     "id": "auto-67310",
@@ -231,6 +347,30 @@
     "eventKey": "ukraine_russia_drone_attack_nov2026"
   },
   {
+    "id": "auto-67315",
+    "headline": {
+      "ja": "習近平・プーチン・トランプ首脳会談開催",
+      "en": "Xi Holds China-Russia-U.S. Summit with Putin, Trump"
+    },
+    "summary": {
+      "ja": "習近平中国主席、プーチンロシア大統領、トランプ米国大統領による中露米三国首脳会談が開催されたと報じられた。国際政治に大きな影響が生じる可能性がある。",
+      "en": "Chinese President Xi, Russian President Putin, and U.S. President Trump held a trilateral summit, with significant implications for international relations."
+    },
+    "category": "conflict",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-11-19T08:27:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wZ0tpdUxWdzExLWZNMHE2OHAtbVIzT2c4aVh6QnZhMkZ3UDhsV1dmanJHWXNWaTdZeHlEXzVKZUpFNVl3b0ZJTGhtNHdJN3E5TW5zUjJPTWV4SUpPN09FcXJleXBHendYYnRLTlVoTVlFUU5WMjJ4cW1ESF8?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "xi_putin_trump_summit_trilateral",
+    "severity": 5
+  },
+  {
     "id": "auto-66341",
     "headline": {
       "ja": "有志連合、フーシ民兵のミサイル4発を迎撃・破壊",
@@ -252,6 +392,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "saudi_houthi_missile_defense_nov2026"
+  },
+  {
+    "id": "auto-67319",
+    "headline": {
+      "ja": "台湾防衛部 PLAの活動を報告",
+      "en": "PLA Activities in the Waters and Airspace Around Taiwan"
+    },
+    "summary": {
+      "ja": "台湾国防部がPLA（中国人民解放軍）の台湾周辺での活動を11月19日分として報告した。",
+      "en": "Taiwan's Ministry of Defense reported PLA military activities in waters and airspace around Taiwan on November 19, 2026."
+    },
+    "category": "conflict",
+    "country": "台湾",
+    "lat": 25.0531,
+    "lon": 121.5264,
+    "occurredAt": "2026-11-19T06:18:26+00:00",
+    "source": {
+      "name": "台湾 国防部(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SazJvdGFvd3JEQ1ktclhlbzhkeDE1REttQjg2S3ZxODJkWUtoUVBCM3hqbEFxVURtbk1OZU85LUJZamctQjBONkZUdXMzQnhVNlJMVGZrRloyWFRHQzZQa05EZm12eGlGdWdnXzl4T19tZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "taiwan_pla_activities_nov19_2026"
   },
   {
     "id": "auto-66746",
@@ -2546,97 +2709,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "lebanon_israel_airstrike_southern_2026-11-13"
-  },
-  {
-    "id": "auto-58733",
-    "headline": {
-      "ja": "Kushner特使、ロシア・ウクライナ平和交渉の次段階にヨーロッパ参加を明示",
-      "en": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe"
-    },
-    "summary": {
-      "ja": "アナドル通信によると、トランプ政権のKushner特使は、ロシア・ウクライナ平和交渉の次のラウンドにヨーロッパが参加すると述べた。",
-      "en": "Turkish media reports that Trump envoy Kushner stated Europe will participate in the next round of Russia-Ukraine peace talks."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T09:47:25+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1Vfc1JKWjlUZzFINjVjZDczYkJBUW1BajNLMC1TMTh5eUsyTmlYVTJzOUNqRS02Mk5mWTFPYVNYX1RVZUNDMVVVU2tsWFUxeXoyY0RWLWd4Q0dlUmZLajBTcVNsRlFYc05XRS1xb1RjbFlqWDh5Z283TlpCajJTNDY1SGZReE5KUE1lZ2lVTHN4cDZBTGNtd1NFdEgwWUppdHRiRTB4LWFUMm1vTGJEY0p4VHFLQQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_ukraine_peace_talks_2026-11"
-  },
-  {
-    "id": "auto-57821",
-    "headline": {
-      "ja": "日米両政府、海底鉱物資源の開発で共同声明",
-      "en": "Joint statement on US-Japan seabed mineral resource development"
-    },
-    "summary": {
-      "ja": "日本と米国の両政府は、海底の鉱物資源開発に関する共同声明を発表した。両国の協力を進める内容としている。",
-      "en": "The United States and Japan issued a joint statement on seabed mineral resource development, setting out cooperation between the two countries."
-    },
-    "category": "economy",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-13T09:44:08+00:00",
-    "source": {
-      "name": "米国 国務省",
-      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-u-s-japan-seabed-mineral-resource-development/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_japan_seabed_minerals_statement_2026-11"
-  },
-  {
-    "id": "auto-58732",
-    "headline": {
-      "ja": "ロシア政府、フィンランドのNATO離脱を要求 - Abu Dhabi協議で",
-      "en": "Russia demands Finland leave NATO in Abu Dhabi talks"
-    },
-    "summary": {
-      "ja": "アナドル通信によると、Abu Dhabi協議の場で、ロシア政府がフィンランドのNATO離脱を要求したと報じられた。",
-      "en": "Turkish state media reports that Russia demanded Finland's withdrawal from NATO during talks in Abu Dhabi."
-    },
-    "category": "conflict",
-    "country": "フィンランド",
-    "lat": 60.1695,
-    "lon": 24.9354,
-    "occurredAt": "2026-11-13T09:31:35+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEs4YWt0ZHd6VzBIRE5hd2ZUYWNzRzhaWEZfNWRjRjZCaWZmdktfS0sxSk5YTjhBUUJtTjRvOTl4Znl2UGQzX2dtN3VvanpVSElObzhHUWFzYXY5VjNoLXpNdFd3bDNtVnU3WWd2QnFuZDk3SlExV0tURi12d2hwdjBmQy03S1ozanZjUGpDbU1pVG9mNDQxMnlR?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_finland_nato_withdrawal_2026-11"
-  },
-  {
-    "id": "auto-58748",
-    "headline": {
-      "ja": "米国、日本に米軍駐留経費を3倍の19億ドルに増額要求",
-      "en": "US demands Japan triple spending on American troops to $19B"
-    },
-    "summary": {
-      "ja": "トランプ政権が日本に対し、米国軍駐留経費を現在の約3倍となる年間19億ドルに増額するよう要求していると報じられた。",
-      "en": "Trump administration is reportedly demanding Japan triple defense spending on US military presence to $19 billion annually."
-    },
-    "category": "economy",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-13T09:26:39+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEF3Y0c4WHMxSzNKT3RxdFJSWVFmZW1helg4emlwZjNXQXc1dUVLT3BCNFhNQ3ZGcXdfN2RpYkx2dTNpclA3cFNndlBZU2xoUXNBZ0w0d0E1Y1JsQjBFTlgxemptbUxIN1FUMWtoMXBNOFlpMVd0SWpXcmNCUFpqN3NkaHFVWWNaRHRxUzlKQzg0VEhCMkk2TGlod3M1bkkwR2ZMT0o2bWRiYXp1SzBTUmJReE1TM3Q0cTJxNjVOVVpkeEli?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "usa_japan_defense_spending_2026-11"
   }
 ]
