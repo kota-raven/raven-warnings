@@ -1,5 +1,212 @@
 [
   {
+    "id": "auto-67103",
+    "headline": {
+      "ja": "Houthis民兵、サウジアラビア首都への攻撃を激化",
+      "en": "Houthis escalate attacks on Saudi capital"
+    },
+    "summary": {
+      "ja": "Houthis民兵がリヤドの金融センターへのミサイル攻撃を激化させており、イラン関連の紛争は世界のエネルギーに影響を及ぼしていると報じられた。",
+      "en": "Houthi forces escalate missile attacks on Riyadh's financial center, with Iran-related conflict impacting global energy supplies."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-19T23:58:40+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthi_saudi_escalation_nov2026"
+  },
+  {
+    "id": "auto-66561",
+    "headline": {
+      "ja": "イスラエル、東レバノンを空爆",
+      "en": "Israeli airstrikes hit eastern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍は東レバノンを空爆し、家屋と建物を標的にしたと報じられた。",
+      "en": "Israeli military conducted airstrikes on eastern Lebanon, targeting homes and buildings."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-19T20:06:43+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUF5SGM5VUJVYzE2WXREd2JNN05zSEJmR3FjYzdFSGppSmkwNWVBQXFyYUtCNE9SWHdwLTQtTmdkWS1TQWVHUi1nVF9FeFlNZzBfUGhycldLZDNTcG9MSHdIVVRwRk53ZkZTSktZZ0NXcEpvNm40OU5Ic2dSMGtSLTF0MGg2QmVkWFk2aDZPQmk5MWZVSVdUVVRsUENuMnNvMkV3TDlHRzBBOXVyak16NEY4WFBfQQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_lebanon_airstrike_nov2026"
+  },
+  {
+    "id": "auto-66812",
+    "headline": {
+      "ja": "イラン、4500km射程ミサイルの実証を発表",
+      "en": "Iran demonstrates 4,500 km range missiles"
+    },
+    "summary": {
+      "ja": "イラン革命警備隊の当局者は、ディエゴ・ガルシア付近で4500km射程のミサイルを実証したと述べたと報じられた。",
+      "en": "Iranian IRGC official stated Iran demonstrated 4,500 km range missiles near Diego Garcia."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-19T16:06:58+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00MXlobXhEWHFES2lfNUlwVS1zWmpfb0VHcHNRU0tPX0tETzZXcHU4VzJBVlctLVJ4d1VYUmh2bVBxV2RU0gFKQVVfeXFMTkc5WllYQ3lYOXpvTGYyWUxZLTRnZXRXSDZXb0ZYbnZBS2JlTmJScGZZclFhbG8xaTgtbHdQRDRfZ0wxdUdKM2FiN2c?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_missile_test_nov2026"
+  },
+  {
+    "id": "auto-67079",
+    "headline": {
+      "ja": "プーチン大統領、ウクライナのクリミア橋攻撃への報復を誓う",
+      "en": "Putin vows 'far more painful' response to Ukraine's strikes"
+    },
+    "summary": {
+      "ja": "プーチン大統領は、ウクライナによるクリミア橋攻撃に対し、より痛みを伴う報復を行うと述べたとBBCが報じた。",
+      "en": "President Putin stated he would deliver a more painful response to Ukraine's strikes on Crimean Bridge, BBC reported."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-19T13:07:35+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_crimea_putin_response_nov2026"
+  },
+  {
+    "id": "auto-66764",
+    "headline": {
+      "ja": "ウクライナのドローン攻撃、ロシアが53機撃墜と発表",
+      "en": "Russia reports downing 53 Ukrainian drones in attack on Russian regions"
+    },
+    "summary": {
+      "ja": "ロシア側はウクライナのドローン攻撃があり、ウクライナ製無人機53機を撃墜したと発表した。",
+      "en": "Russian authorities announced downing 53 Ukrainian drones in attacks on Russian regions."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-19T08:41:03+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rbmdwQm5SaGxLUzVsV2p6b0JNVXhLRktyakdjSm5Tc1ItV05hUFUyOWZOeGJ0bmVZTGVEcElYMC1SOUI5OWwxaNIBTkFVX3lxTFA1UTBOYlJ0NlhiRUdKNG51SEdrR21FblVaYXN3LW9QM1ZIQVRyMGZuU201QzN0MmtPT2Y4MUgxQUE0TkNKc3lzRThPZXpEZw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_drone_attack_nov2026"
+  },
+  {
+    "id": "auto-66341",
+    "headline": {
+      "ja": "有志連合、フーシ民兵のミサイル4発を迎撃・破壊",
+      "en": "Coalition intercepts and destroys 4 ballistic missiles from Houthis"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の有志連合は、テロ組織フーシ民兵が南部方面に発射した弾道ミサイル4発を迎撃し破壊したと発表した。",
+      "en": "Saudi-led coalition announced it intercepted and destroyed 4 ballistic missiles launched by Houthi militia toward southern region."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-19T06:41:35+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjVjNWcTB0UGNDUElDRklKLUFOcmtkVFR6YVllbnl3TnRfcF9fMWJ3WW82cWZ4WHp2LWlIcVAyanFsdDJkYnVsVlJn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_houthi_missile_defense_nov2026"
+  },
+  {
+    "id": "auto-66746",
+    "headline": {
+      "ja": "クリミア橋の鉄道交通、ドローン攻撃後に停止",
+      "en": "Railway traffic suspended on Crimean Bridge after drone attack"
+    },
+    "summary": {
+      "ja": "ロシア側はクリミア橋へのドローン攻撃後、鉄道交通を停止したと発表した。",
+      "en": "Russian authorities announced suspension of railway traffic on Crimean Bridge following drone attack."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-19T04:57:32+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wUkJUeWI4aFhSRjVnSGJ0ei1naFVVTEJyRGpsT1lpc1FHcTdnMHYtX0xNZ2ZoSjA2NmZzWjBrVm9neXAzUmJZNkJxNF_SAVJBVV95cUxPc0tBMkxRcGxvalhlTUhMM1dERDA5b1RaVkZHMnctRGNQcmxWLVF1QWtJZGVVSG54T01KOXFhQlhPeTlUNkE5R3RGVTFfd1Ewd3p3?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "crimea_bridge_attack_nov2026"
+  },
+  {
+    "id": "auto-66343",
+    "headline": {
+      "ja": "有志連合、リヤドへのミサイル攻撃に対応",
+      "en": "Coalition responds to missile attack on Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビア主導の有志連合は、テロ組織フーシ民兵がリヤドに向けて発射したミサイルに対応し、破片落下と被害評価が進められていると発表した。",
+      "en": "Saudi-led coalition announced it dealt with missile attack on Riyadh by Houthi militia, with debris falling and damage being assessed."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-19T04:15:28+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RRDJFcjNic1J1X3V4UkFoTUdVLTdaUWgwYmdrRzhNbWtSc1RIQm52cW1PdEs1SnpsYThNWS1jQmpWYk5EZ0Z3N1FB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_riyadh_houthi_attack_nov2026"
+  },
+  {
+    "id": "auto-66200",
+    "headline": {
+      "ja": "サウジアラビア・リヤド上空で大きな爆音",
+      "en": "Loud boom heard in Saudi capital Riyadh"
+    },
+    "summary": {
+      "ja": "サウジアラビアの首都リヤドで大きな爆音が聞こえたと報じられた。",
+      "en": "A loud boom was reported in Saudi Arabia's capital Riyadh."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-19T03:10:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRHJMN1RjS1lsNm83M3N5RjQ5cllWRDh3YUVZYzRoVTk0Rnp1bHRQWnpjTXZpb0x6TnZiWHgteGMxNlJyUEdEdFRIOXk1TUctc2ZBbDlYb2wtOW9jZ2dzVllPRjd6b0RJMmNieVE2YWNCTmFEcXd4YW02VmE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_riyadh_missile_nov2026"
+  },
+  {
     "id": "auto-66171",
     "headline": {
       "ja": "ICJ、ミャンマーのロヒンギャ民族大量虐殺事件で判決",
@@ -2569,401 +2776,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "gaza_nasser_hospital_israeli_strike_2026-11-13"
-  },
-  {
-    "id": "auto-57832",
-    "headline": {
-      "ja": "日本の財務相、円安進行なら必要に応じ対応と警告",
-      "en": "Japan's finance minister warns of action to stem yen slide if necessary"
-    },
-    "summary": {
-      "ja": "日本の財務相は、円安が進んだ場合、必要に応じて対応を取ると警告した。為替市場の動きを注視する姿勢を示した。",
-      "en": "Japan's finance minister warned that action would be taken to stem the yen's slide if necessary."
-    },
-    "category": "economy",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-13T02:51:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFIwVkw1TUc2QTgxN3h0cXlHanhlajNXY2loUHROX3hucEdtOG5ieGNFc2wxUER2RWJwY0ZOX0lLLXlLVXptb0QwWXAwUDN2SElvTFlwV2Q0aEVmaWQ3VEpBYTIycGNUUzdHc3ZiU0xWVWxOb2dGU3dsS1BIT3dkbVRoOGtZZ0dVRjR6YQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "japan_yen_intervention_warning_2026-11-13"
-  },
-  {
-    "id": "auto-57826",
-    "headline": {
-      "ja": "フィンランドがロシア軍艦への攻撃を探知、ゼレンスキー氏は米特使と会談",
-      "en": "Finland detects strike on Russian warship as Zelenskyy meets US envoys"
-    },
-    "summary": {
-      "ja": "フィンランド当局がバルト海でロシア軍艦への攻撃を探知した。この報告は、米国の特使がロシアとウクライナの両大統領と会談する前に伝えられた。",
-      "en": "Finnish authorities detected a strike on a Russian warship in the Baltic, reported before US envoys met with the Russian and Ukrainian presidents."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-13T02:35:21+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_gulf_of_finland_warship_drone_strike_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57827",
-    "headline": {
-      "ja": "トランプ大統領、退任前のキューバ政権打倒に言及",
-      "en": "Trump moots toppling Cuba authorities before leaving office"
-    },
-    "summary": {
-      "ja": "トランプ米大統領はキューバを失敗国家と呼び、任期終了前に同国への攻撃を行う可能性を示唆した。",
-      "en": "US President Trump called Cuba a failed nation and hinted at an attack on the country before his term ends."
-    },
-    "category": "conflict",
-    "country": "キューバ",
-    "lat": 23.133,
-    "lon": -82.383,
-    "occurredAt": "2026-11-13T02:33:28+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "cuba_us_regime_change_remarks_2026-11-13",
-    "severity": 4
-  },
-  {
-    "id": "auto-57892",
-    "headline": {
-      "ja": "トランプ大統領が地域国要請を理由にイラン制裁強化を控える",
-      "en": "Trump administration refrains from tougher measures against Iran following requests from regional countries"
-    },
-    "summary": {
-      "ja": "トランプ大統領は、中東地域国の要請に応じて、イランに対するより厳しい経済制裁措置を見送ると表明した。",
-      "en": "The Trump administration has decided against implementing stricter measures against Iran at the request of regional countries."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-13T02:25:13+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE03ODJwT3VmZUhybXBIQkFkbkVpcklwVl9mQ09mYnlmWEZER3FFVE1YT2l1TXpuVUtZODI0djgyUllFMlla0gFKQVVfeXFMTk5iLTh1YWsxWjRhOFYzTXBmMDlFdVdiUU5MVWdfSWpTV1cwTnYtSC11N3MwQlRPbkg2ajhXRU5nRHpsWm9FS245SlE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_iran_sanctions_regional_diplomacy_2026-11-13"
-  },
-  {
-    "id": "auto-57894",
-    "headline": {
-      "ja": "米中央軍がイスラエルへの対イラン戦争準備指示の報道を否定",
-      "en": "CENTCOM denies reports of instructions to Israel to prepare for war with Iran"
-    },
-    "summary": {
-      "ja": "米国中央軍司令部は、イスラエルに対イラン戦争準備を指示したとの報道を公式に否定した。",
-      "en": "CENTCOM officially denied reports that it had instructed Israel to prepare for a potential conflict with Iran."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-13T02:23:05+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ONzFhTVFCUDNtZXJ6aXF5QVhnZFlJdHlLbDh2cjZjcF8xX0pLWHZBRkJFVWZ6UzZSby10QmFnZzBiTVdo0gFKQVVfeXFMTTdIZjhFYW9JdmJ3UmVqMXIwMXdLcTNhSmZaT09ZZWd0N1piWndXZGluWll4R1djR1dMejFzd0RsaWIwbXItR3lBN2c?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_israel_iran_war_preparation_denial_2026-11-13"
-  },
-  {
-    "id": "auto-57830",
-    "headline": {
-      "ja": "中国政府、習近平主席が深センのAPEC首脳会議に出席すると発表",
-      "en": "Xi to attend APEC Economic Leaders' Meeting in Shenzhen"
-    },
-    "summary": {
-      "ja": "中国政府は、習近平国家主席が深センで開かれるAPEC首脳会議と関連行事に出席すると発表した。",
-      "en": "China announced that President Xi Jinping will attend the APEC Economic Leaders' Meeting and related events in Shenzhen."
-    },
-    "category": "economy",
-    "country": "中国",
-    "lat": 22.5455,
-    "lon": 114.0683,
-    "occurredAt": "2026-11-13T02:16:16+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zQ1ZtRGhCQmNYU2o0R05wWERYekVmNFVyMnFyRWNvazM1R0c4UlZIckludng4akIzc2ZxcVZSX2xHcjlWbWpkb2xtRFgxbzJoTG44ZnlzektUeUhxLVJBenlMQWZZMVJXNHoxSmpKOFVZY3lKNXFyNFBKQUc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "china_shenzhen_apec_summit_xi_2026-11"
-  },
-  {
-    "id": "auto-57564",
-    "headline": {
-      "ja": "ゼレンスキー大統領、和平協議への欧州参加を歓迎",
-      "en": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks"
-    },
-    "summary": {
-      "ja": "ウクライナのゼレンスキー大統領は、米国が欧州を露ウクライナ和平協議に加えたことを歓迎した。将来のEU加盟を目指す立場から、欧州首脳の関与は理にかなうと述べた。",
-      "en": "Ukrainian President Zelensky welcomed the US bringing Europe into Russia-Ukraine peace talks, saying European involvement makes sense as Ukraine hopes to join the EU."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T02:01:35+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_peace_talks_europe_involvement_2026-11-12"
-  },
-  {
-    "id": "auto-57586",
-    "headline": {
-      "ja": "イラク元議員がベイルートで殺害、レバノンがシリアに容疑者引き渡し要求",
-      "en": "After Iraq ex-MP's killing, Lebanon asks Syria to extradite suspects"
-    },
-    "summary": {
-      "ja": "イランを批判してきたスンニ派の元イラク議員がベイルートで絞殺されたとされ、レバノンはシリアに容疑者の引き渡しを求めた。捜査が進められている。",
-      "en": "Lebanon asked Syria to extradite suspects after a longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking an investigation."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-11-13T01:44:55+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "lebanon_beirut_iraqi_ex_mp_killing_2026-11-12"
-  },
-  {
-    "id": "auto-57518",
-    "headline": {
-      "ja": "キーウ軍がドンバス地域を砲撃、民間人1人が死亡したとロシアが報告",
-      "en": "Kiev troops shell DPR 14 times in past day, civilian killed: Russian military"
-    },
-    "summary": {
-      "ja": "ロシア軍によると、ウクライナ軍はドンバス人民共和国を過去24時間に14回砲撃し、民間人1人が死亡したとのこと。",
-      "en": "According to the Russian military, Ukrainian troops shelled the DPR 14 times in the past day, resulting in one civilian death."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T01:44:18+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80VzlhUFFoU2o2YzVsM0Nfc0twVXlPM25mVG9IOUZBemI3V21zVk1aSHF1NWJTc1EzUEFER3hLNFRPZGtKTDZLctIBTkFVX3lxTE52N2VJREJYczQ0dHZhbk94OUFzSDJDRGdfbWxWNkdkc2Ita1NYMElnX0dUdFVud0NodHpYdTV5bG9La1k3NlowOXFGWHRzUQ?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "dpr_ukraine_shelling_2026-11"
-  },
-  {
-    "id": "auto-57522",
-    "headline": {
-      "ja": "プーチン・ウィッコフ会談後、3国間交渉の新たなラウンドが合意",
-      "en": "New round of trilateral negotiations agreed upon after Putin-Witkoff meeting"
-    },
-    "summary": {
-      "ja": "プーチン大統領とウィッコフ米国特使の会談後、新たな3国間交渉ラウンドの実施が合意されたと報告された。",
-      "en": "After Putin's meeting with US envoy Witkoff, a new round of trilateral negotiations was agreed upon."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T00:55:37+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE40YWpHaUQ2M2x5aEp0cG5QUzZ0bFRIdGRvajhEdk9GbWRLa2d6VDNNaDZLTkJJdV9tYTIySzBoOW1HYk9C0gFKQVVfeXFMUDNPbkJuTlp6U0JwVXJqT04wMXpQc0I3NEJJdWo2cVZOQ05sTVphMzhCMnU3VVVIU3ZkNVAzeHRaTk16QXhsdE9SLVE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "trilateral_ukraine_talks_2026-11"
-  },
-  {
-    "id": "auto-57477",
-    "headline": {
-      "ja": "米国特使、ウクライナ和平交渉で大きな進展を報告",
-      "en": "Kushner reports significant progress in Ukrainian settlement talks"
-    },
-    "summary": {
-      "ja": "米国特使ジャレッド・クシュナーは、ウクライナとの和平交渉で大きな進展があったと述べた。",
-      "en": "US Special Envoy Jared Kushner stated that there has been significant progress in negotiations for Ukrainian settlement."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-13T00:30:50+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE45VW5UeVo3Z2l5a1hPZ1hCZ2JTNUY5bnU3dEt3RzhaTENlUE1zLTc2bk9rbTFiS2U2WV8zTEpFRHQ4Wldk0gFKQVVfeXFMT1dtSGV0dlNwcUZEMzFHZGhRWDdrdFdET0V6M1hVR3JUd09PeDdiUk05RDBOaVN6d1FPWUk2Q184WnN1ejRBbHdwMlE?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_peace_talks_2026-11"
-  },
-  {
-    "id": "auto-57565",
-    "headline": {
-      "ja": "エチオピア軍がティグレ主要都市を制圧、紛争の終結は不透明",
-      "en": "Neither war nor peace in Tigray as Ethiopian army takes main towns"
-    },
-    "summary": {
-      "ja": "エチオピア軍はティグレ州の主要都市の大半を制圧した。ティグレ人民解放戦線(TPLF)が反撃できる状態にあるかは不明で、紛争が終結したとは言えない状況が続いている。",
-      "en": "The Ethiopian army has taken control of most of Tigray's main towns, though it is unclear whether the TPLF can fight back, leaving the conflict unresolved."
-    },
-    "category": "conflict",
-    "country": "エチオピア",
-    "lat": 13.7033,
-    "lon": 39.0778,
-    "occurredAt": "2026-11-13T00:20:24+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ethiopia_tigray_army_control_2026-11-12"
-  },
-  {
-    "id": "auto-57588",
-    "headline": {
-      "ja": "トランプ大統領、湾岸諸国からイラン攻撃の一時停止を要請されたと表明",
-      "en": "Trump says Gulf allies urged pause in Iran strikes"
-    },
-    "summary": {
-      "ja": "トランプ米大統領はホワイトハウスで、湾岸諸国からイランへのさらなる攻撃を控えるよう求められたと述べた。イランとの戦闘は継続している。",
-      "en": "Speaking at the White House, President Trump said Gulf countries asked him to hold off on further attacks against Iran amid the ongoing conflict."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-13T00:00:26+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_us_strikes_gulf_pause_request_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57589",
-    "headline": {
-      "ja": "フーシ派がサウジアラビアへの攻撃再開、国連安保理は制裁延長",
-      "en": "Yemen's Houthis renew strikes on Saudi Arabia as UNSC extends sanctions"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派がサウジアラビアへの攻撃を再開し、サウジ主導の連合軍は石油・軍事インフラを狙ったドローン多数を迎撃した。国連安保理は同派への制裁を延長した。",
-      "en": "Yemen's Houthis renewed strikes on Saudi Arabia, with the Saudi-led coalition intercepting drones targeting oil and military infrastructure, as the UN Security Council extended sanctions."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-12T23:52:38+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_houthi_drone_strikes_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57563",
-    "headline": {
-      "ja": "米エヌビディアCEOが辞任、AI半導体大手が混乱",
-      "en": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaker into turmoil"
-    },
-    "summary": {
-      "ja": "米半導体大手エヌビディアのジェンスン・フアンCEOがスキャンダルを受けて辞任し、同社は混乱に陥った。米議会は同氏の交友関係について質問を求めている。",
-      "en": "Nvidia CEO Jensen Huang resigned amid scandal, throwing the AI chipmaking giant into turmoil. US lawmakers are seeking to question him over his alleged relationships."
-    },
-    "category": "economy",
-    "country": "アメリカ",
-    "lat": 37.3541,
-    "lon": -121.9552,
-    "occurredAt": "2026-11-12T23:34:05+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_nvidia_ceo_resignation_2026-11-12",
-    "severity": 4
-  },
-  {
-    "id": "auto-57590",
-    "headline": {
-      "ja": "ロシアの裁判所、人権派弁護士に反逆罪で禁錮12年の判決",
-      "en": "Russian court jails rights lawyer for 12 years on treason charge"
-    },
-    "summary": {
-      "ja": "ロシアの裁判所は、人権派の女性弁護士に反逆罪で禁錮12年を言い渡した。検察はウクライナに安全保障情報を渡したとしたが、弁護側は秘密情報ではなかったと主張している。",
-      "en": "A Russian court sentenced a female rights lawyer to 12 years in prison for treason. Prosecutors said she shared security details with Ukraine, while her lawyers argued the information was not secret."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-12T23:18:50+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_rights_lawyer_treason_sentence_2026-11-12"
-  },
-  {
-    "id": "auto-57688",
-    "headline": {
-      "ja": "イラン革命防衛隊、北西部で分離主義組織の武装集団を摘発と発表",
-      "en": "IRGC says it dismantled armed cell of PJAK separatist group in northwestern Iran"
-    },
-    "summary": {
-      "ja": "イランの革命防衛隊地上軍は、北西部に潜入し破壊工作やテロを企てていたとする分離主義組織PJAKの武装集団を摘発したと発表した。",
-      "en": "Iran's IRGC Ground Force announced it dismantled a PJAK separatist group cell that was attempting to infiltrate northwestern Iran to carry out sabotage and terrorism."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-12T21:49:53+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86320281/IRGC-Ground-Force-dismantles-armed-cell-of-PJAK-separatist-terrorist"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_irgc_pjak_cell_dismantled_2026-11-12"
   }
 ]
