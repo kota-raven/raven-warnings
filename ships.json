@@ -555,8 +555,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -579,8 +579,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1227,8 +1227,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-05T00:00:00+00:00"
   },
   {
@@ -1252,7 +1252,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比16.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-05T00:00:00+00:00"
   },
   {
@@ -4274,6 +4274,54 @@
     "observedAt": null
   },
   {
+    "id": "-cn-000216",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Qiqihar (斉斉哈爾)",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Chinese Navy destroyer Qiqihar and supply ship Chaohu spotted north of Kumejima on Nov 16",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37562/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-cn-000217",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "Chaohu (巣湖)",
+    "shipNumber": null,
+    "shipType": "transport",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Chinese Navy destroyer Qiqihar and supply ship Chaohu spotted north of Kumejima on Nov 16",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37562/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-cn-000040",
     "recordType": "individual",
     "country": "CN",
@@ -4346,6 +4394,54 @@
     "observedAt": null
   },
   {
+    "id": "-gb-000215",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "HMS Prince of Wales",
+    "shipNumber": "R09",
+    "shipType": "carrier",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "U.K. Carrier Strike Group concludes 6-month Operation Firecrest deployment",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37563/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-gb-000222",
+    "recordType": "individual",
+    "country": "GB",
+    "shipName": "HMS Prince of Wales / U.K. Carrier Strike Group",
+    "shipNumber": "R09",
+    "shipType": "carrier",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Royal Navy aircraft carrier HMS Prince of Wales returns after Operation Firecrest deployment",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/18/u-k-carrier-strike-group-concludes-6-month-operation-firecrest-deployment"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-gb-000174",
     "recordType": "aggregate",
     "country": "GB",
@@ -4370,6 +4466,174 @@
     "count": null,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "-in-000219",
+    "recordType": "individual",
+    "country": "IN",
+    "shipName": "Sahyadri",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "JSDF Escorting ship Ise and Indian Navy frigate Sahyadri conduct joint training JAIMEX26",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37561/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000208",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "Sugi (すぎ)",
+    "shipNumber": "OPV-904",
+    "shipType": "coast_guard",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Offshore Patrol Vessel Sugi logo mark decided",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37550/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000209",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "Hinoki (ひのき)",
+    "shipNumber": "OPV-902",
+    "shipType": "coast_guard",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Offshore Patrol Vessel Hinoki logo mark decided",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37554/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000210",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "Kanpai (かんばい)",
+    "shipNumber": null,
+    "shipType": "coast_guard",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Coast Guard patrol ship stamp design voting",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37548/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000213",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "Yaegumo (やえぐも)",
+    "shipNumber": "PC-108",
+    "shipType": "coast_guard",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Patrol boat Yaegumo public viewing in Karatsu port on Nov 22",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37589/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000214",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "Isuzu (いすず)",
+    "shipNumber": "PM-28",
+    "shipType": "coast_guard",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Patrol ship Isuzu public viewing in Toba port on Dec 13",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37584/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000218",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "Ise (いせ)",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "JSDF Escorting ship Ise and Indian Navy frigate Sahyadri conduct joint training JAIMEX26",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37561/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-jp-000070",
@@ -4520,6 +4784,102 @@
     "count": null,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "-us-000211",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "U.S. 2nd Fleet",
+    "shipNumber": null,
+    "shipType": null,
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Vice Adm. Oliver Lewis takes command of 2nd Fleet",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/16/vice-adm-oliver-lewis-takes-command-of-2nd-fleet"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "none",
+    "anomalyNote": null,
+    "observedAt": null
+  },
+  {
+    "id": "-us-000212",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Naval Air Warfare Center Weapons Division",
+    "shipNumber": null,
+    "shipType": null,
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Navy Weapons Division to make Tomahawk components in 2027",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/16/navy-weapons-division-to-make-tomahawk-components-in-2027"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "none",
+    "anomalyNote": null,
+    "observedAt": null
+  },
+  {
+    "id": "-us-000220",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "U.S. Navy Shipbuilding",
+    "shipNumber": null,
+    "shipType": null,
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Senate Appropriators cut $20B from Navy shipbuilding request",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/18/senate-appropriators-cut-20b-from-navy-shipbuilding-request"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "none",
+    "anomalyNote": null,
+    "observedAt": null
+  },
+  {
+    "id": "-us-000221",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS George Washington",
+    "shipNumber": "CVN-73",
+    "shipType": "carrier",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "Carrier USS George Washington leaves Middle East after three months deployment",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/18/carrier-uss-george-washington-leaves-middle-east-after-three-months"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-19T21:21:49.812099+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-us-000088",
