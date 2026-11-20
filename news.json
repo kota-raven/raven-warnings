@@ -1,51 +1,5 @@
 [
   {
-    "id": "2026-11-19-01",
-    "headline": {
-      "ja": "米軍、イラン・ケシム島のIRGC関連ミサイル発射拠点を攻撃 バーレーンへのドローン攻撃主張への「自衛」対応と説明(11月17日)",
-      "en": "US forces strike IRGC-linked missile launch site on Iran's Qeshm Island, calling it 'self-defense' after claimed drone attack on Bahrain (Nov 17)"
-    },
-    "summary": {
-      "ja": "2026年11月17日(火)、米軍機がイラン革命防衛隊(IRGC)関連とされるミサイル発射拠点をイラン・ケシム島(ホルモズガーン州)で攻撃したという。複数の報道(Bloomberg、CNN、Al Jazeera等)によれば、米側はこれを、IRGCがバーレーンの米軍施設(シェイク・イサ空軍基地)のレーダーをドローンで狙ったとする主張(米中央軍はこのドローンは迎撃済みと説明)への「自衛」の対応と説明したとされる。イラン・ホルモズガーン州副知事は、住宅・商業地域や重要インフラへの被害はなかったと述べたと報じられている。イラン側は攻撃があったことは認めたが、被害の実態は不明とされる。これは5月以降続く米・イラン間の攻撃の応酬の最新の一幕とされ、この後11月18日にはイランによるクウェート・バーレーンへの攻撃(別記事)に発展したという。推測:米軍の攻撃の規模・具体的な被害状況、イラン側のドローン攻撃主張の正確性は独立検証ができていない。[信頼性: 中](Bloomberg、CNN、Al Jazeera等複数の国際メディアが2026年11月17日の報道として伝えている)",
-      "en": "On Tuesday, November 17, 2026, US aircraft reportedly struck a missile launch site linked to Iran's Islamic Revolutionary Guard Corps (IRGC) on Qeshm Island, in Iran's Hormozgan province. Multiple outlets (Bloomberg, CNN, Al Jazeera) reported that the US described the strike as 'self-defense,' responding to an IRGC claim of a drone attack on a radar system at a US facility in Bahrain (Sheikh Isa Air Base), which US Central Command said it intercepted. Iran's deputy governor of Hormozgan province reportedly said the strike caused no damage to residential or commercial areas or critical infrastructure. Iran acknowledged the strike occurred, but the extent of damage remains unclear. This is reported as the latest episode in a US-Iran exchange of strikes that has continued since May, and was followed on November 18 by Iranian strikes on Kuwait and Bahrain (separate entry). Speculation: the scale of the US strike and the accuracy of Iran's drone-attack claim have not been independently verified. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including Bloomberg, CNN and Al Jazeera)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルモズガーン州(ケシム島)",
-    "lat": 27.1865,
-    "lon": 56.2808,
-    "occurredAt": "2026-11-17T12:00:00+00:00",
-    "source": {
-      "name": "Bloomberg / CNN / Al Jazeera",
-      "url": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
-    "id": "2026-11-19-04",
-    "headline": {
-      "ja": "ホルムズ海峡でUAE国営海運ADNOCのタンカーが被弾 船員1名行方不明・11名負傷、別のLPGタンカーも被弾(11月17日)",
-      "en": "UAE's ADNOC tanker attacked in Strait of Hormuz, one crew member missing and 11 injured; separate LPG tanker also hit (Nov 17)"
-    },
-    "summary": {
-      "ja": "2026年11月17日(火)、UAE国営海運会社ADNOC L&S(ADNOC Logistics & Services)の船舶がホルムズ海峡で攻撃を受けたという。複数の報道(The National、Reuters配信記事、SAFETY4SEA、U.S. News、Shafaq News等)によれば、ADNOC L&S自身の発表として、船員1名が行方不明、11名が負傷し、残りの船員は避難済みと説明したという。関係当局と連携して捜索・救助活動を継続中とされる。同じ海域で別のLPGタンカー「Tara Gas」も被弾し、オマーン当局が24名を救助、1名の行方を捜索中と報じられている。英海事当局(UKMTO)は、オマーン・ハサブの北約13海里の地点で未確認の飛来物によりタンカーが被弾し火災が発生(後に消火)したと発表したという。これは同時期の米軍によるイラン・ケシム島攻撃、イランによるクウェート・バーレーンへの攻撃(既報・別記事)と同じ米・イラン間攻撃応酬の一部とみられている。推測:行方不明の船員の安否、攻撃の実行主体については本稿執筆時点で直接の認否報道は確認できていない。[信頼性: 高](ADNOC L&S自身の発表に基づくReuters配信記事を、The National・U.S. News・SAFETY4SEA・Shafaq News等複数の主要メディアが2026年11月18日の報道として伝えている)",
-      "en": "On Tuesday, November 17, 2026, a vessel operated by UAE state shipping company ADNOC Logistics & Services (ADNOC L&S) was reportedly attacked in the Strait of Hormuz. Multiple outlets (The National, a Reuters wire report, SAFETY4SEA, U.S. News, Shafaq News) reported that ADNOC L&S itself said one crew member was missing and 11 injured, with the rest of the crew evacuated; search and rescue operations were reportedly ongoing with relevant authorities. A separate LPG tanker, 'Tara Gas,' was also hit in the same area, with Omani authorities reportedly rescuing 24 crew members while searching for one missing person. The UK Maritime Trade Operations (UKMTO) reportedly said a tanker was struck by an unidentified projectile about 13 nautical miles north of Khasab, Oman, sparking a fire that was later extinguished. This is reported as part of the same US-Iran exchange of strikes that also included the US strike on Iran's Qeshm Island and Iran's strikes on Kuwait and Bahrain around the same time (separate entries). Speculation: the fate of the missing crew member and the identity of the attacker have not been directly confirmed as of this writing. [Reliability: High] (Reported as of November 18, 2026 by multiple major outlets including The National, U.S. News (Reuters wire), SAFETY4SEA and Shafaq News, based on ADNOC L&S's own statement)"
-    },
-    "category": "conflict",
-    "country": "イラン/オマーン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-17T12:00:00+00:00",
-    "source": {
-      "name": "The National / Reuters / SAFETY4SEA / U.S. News / Shafaq News",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/"
-    },
-    "reliability": "high",
-    "severity": 4
-  },
-  {
     "id": "2026-11-18-01",
     "headline": {
       "ja": "エヌビディア、2027会計年度第3四半期決算で予想上回る増収・増益 データセンター事業急拡大、第4四半期も強い見通し(11月17日)",
@@ -325,5 +279,47 @@
       "url": "https://www.manilatimes.net/2026/11/20/business/foreign-business/wall-street-tumbles-to-its-longest-losing-streak-since-2024-as-the-dow-drops-1100-points/2474698"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-20-06",
+    "headline": {
+      "ja": "国際司法裁判所、ミャンマーのロヒンギャに対する「ジェノサイド」を認定 国家への同条約違反認定は史上初(11月19日)",
+      "en": "ICJ finds Myanmar committed genocide against Rohingya, first such ruling against a state under the Genocide Convention (Nov 19)"
+    },
+    "summary": {
+      "ja": "2026年11月19日(木)、国際司法裁判所(ICJ)が、ガンビアが提訴した「ガンビア対ミャンマー」事件で判決を出し、ミャンマー国軍によるラカイン州北部でのロヒンギャに対する弾圧が、1948年の集団殺害罪条約(ジェノサイド条約)に違反する「ジェノサイド」に該当するとの判断を示したという。国連ニュース(UN News)等によれば、判決は9対6の評決だったとされ、ICJが国家に対して条約違反としてジェノサイドを認定したのは史上初めてという。一方、ガンビア側が主張した「ミャンマーが私人を通じて公然とジェノサイドを教唆した」との訴えは認めなかったとされる。判決は最終的で拘束力を持つが、ICJに独自の強制執行手段はないという。ミャンマー側はこれまで、2017年の軍事作戦はロヒンギャの武装勢力による警察襲撃への対応だったとして、ジェノサイドを否定している。推測:判決が今後のミャンマー国軍・政権への実効的な制裁や行動につながるかどうかは、本稿執筆時点では不明。[信頼性: 高](国連ニュース、Al Jazeera等の報道、2026年11月19〜20日時点)",
+      "en": "The International Court of Justice (ICJ) reportedly ruled on Thursday, November 19, 2026, in the case The Gambia v. Myanmar, finding that Myanmar's military committed genocide against the Rohingya in northern Rakhine State, in violation of the 1948 Genocide Convention. According to UN News and other outlets, the judges voted 9-6, marking the first time the ICJ has held a state responsible for genocide under the Convention. The court reportedly rejected The Gambia's separate claim that Myanmar had directly and publicly incited genocide through private individuals. The ruling is final and binding, but the ICJ has no independent enforcement mechanism. Myanmar has consistently denied genocide, saying its 2017 operation targeted Rohingya militants who had attacked police posts. Speculation: whether the ruling will lead to concrete sanctions or action against Myanmar's government remains unclear as of this writing. [Reliability: High] (Reported by UN News, Al Jazeera and others as of Nov 19-20, 2026)"
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 21.9162,
+    "lon": 95.956,
+    "occurredAt": "2026-11-19T10:00:00+00:00",
+    "source": {
+      "name": "UN News / Al Jazeera",
+      "url": "https://news.un.org/en/story/2026/11/1168836"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-20-07",
+    "headline": {
+      "ja": "バングラデシュ、ハシナ元首相の帰国表明受け全国に治安部隊増派 爆発・放火が多発、ユヌス氏実家でも火災(11月18日)",
+      "en": "Bangladesh deploys paramilitary nationwide amid unrest over Hasina's planned return; bombings and arson reported, fire also hits Yunus's family home (Nov 18)"
+    },
+    "summary": {
+      "ja": "ロイター通信等の報道によれば、2026年11月18日(水)、バングラデシュ政府が、国外逃亡中の元首相シェイク・ハシナ氏の帰国表明を受けて緊張が高まる中、全国に数百人規模の国境警備隊(BGB)等の治安部隊を増派したという。同国内の複数地域で爆弾による攻撃・放火・衝突が発生したとされ、内務相は「暴力に関与した者を特定し訴追する」と述べたという。関連する事実として、同日深夜(現地時間23時頃)、暫定政権の前最高顧問ムハマド・ユヌス氏の実家(チッタゴン・パンチライシュ地区)で火災が発生したと報じられており、地元警察は、古い家具・衣類等に何らかの原因で火が付いた可能性があるとして原因を調査中としている。推測:この火災が周辺の政治的混乱と直接関係しているかどうかは、本稿執筆時点では確認できていない(複数報道は混乱のニュースと並べて伝えているが、放火と断定した報道は確認できなかった)。グラミン銀行は11月10日以降、支店・事務所37か所で襲撃や放火未遂があったと報告しているという。[信頼性: 中](ロイター、The Star、bdnews24等の報道、2026年11月18〜19日時点。火災の原因は未確定)",
+      "en": "According to Reuters and other reports, on Wednesday, November 18, 2026, the Bangladesh government deployed hundreds of paramilitary (Border Guard Bangladesh) troops nationwide as tensions rose over exiled former Prime Minister Sheikh Hasina's announced plan to return to the country. Multiple districts reportedly saw bomb attacks, arson and clashes, and the home minister said those involved in the violence would be identified and prosecuted. Separately, a fire broke out late that night (around 11pm local time) at the Chattogram ancestral home of Muhammad Yunus, the interim government's former chief adviser; local police said old furniture and clothing may have caught fire for unclear reasons and that the cause remains under investigation. Speculation: whether this fire is directly linked to the surrounding political unrest could not be confirmed as of this writing (some reports mention it alongside the unrest, but none described it as confirmed arson). Grameen Bank reportedly said 37 of its branches and offices had been attacked or targeted with attempted arson since November 10. [Reliability: Medium] (Reported by Reuters, The Star, bdnews24 and others as of Nov 18-19, 2026; cause of the fire unconfirmed)"
+    },
+    "category": "conflict",
+    "country": "バングラデシュ",
+    "lat": 23.685,
+    "lon": 90.3563,
+    "occurredAt": "2026-11-18T17:00:00+00:00",
+    "source": {
+      "name": "The Star (Reuters) / bdnews24",
+      "url": "https://www.thestar.com.my/news/world/2026/11/18/bangladesh-deploys-paramilitary-as-unrest-grows-over-hasina039s-return"
+    },
+    "reliability": "medium"
   }
 ]
