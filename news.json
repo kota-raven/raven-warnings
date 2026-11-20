@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-17-02",
-    "headline": {
-      "ja": "米国株、ハイテク株中心に続落 S&P500が3営業日続落・7416.59で終了、エヌビディアは4%超安(11月16日)",
-      "en": "US stocks fall again led by tech shares; S&P 500 closes third straight session lower at 7,416.59, Nvidia drops over 4% (Nov 16)"
-    },
-    "summary": {
-      "ja": "2026年11月16日(月)の米国株式市場は、AI関連・半導体株を中心に下落して取引を終えたという。AP通信の報道によれば、S&P500指数は前日比約1.9%安の7,416.59で終了し、3営業日続けての下落になったとされる。ナスダック総合指数は約2.5%安、エヌビディア株は約4.1%安の156.14ドルで終え、2025年7月1日以来の安値になったと報じられている。AMD株は約5.6%安、半導体ETF(VanEck Semiconductor ETF)も約5.1%安だったという。背景として、中国向け先端AIチップ輸出を一段と制限する米国の新たな暫定規則、およびエヌビディア取締役会がジェンスン・フアン氏のCEO復帰を検討していないとされる報道が挙げられている。エヌビディアの四半期決算発表は、11月17日(火)の取引終了後に予定されているという。推測:下落率・終値の数値は媒体により若干の差がある。[信頼性: 中](BNN Bloomberg(AP通信配信)、CNN、Yahoo Financeなど複数の金融メディアが2026年11月16日終値として報じている)",
-      "en": "US stock markets reportedly fell on Monday, November 16, 2026, led by a sell-off in AI-linked technology and chip stocks. According to an AP wire report, the S&P 500 closed down about 1.9% at 7,416.59, its third straight losing session. The Nasdaq Composite fell about 2.5%, and Nvidia shares dropped roughly 4.1% to close at $156.14, their lowest level since July 1, 2025. AMD fell about 5.6% and the VanEck Semiconductor ETF (SMH) fell about 5.1%. Cited factors include new US interim rules further restricting advanced AI chip exports to China, and reports that Nvidia's board is not considering bringing back Jensen Huang as CEO. Nvidia's quarterly earnings report is scheduled after the close on Tuesday, November 17. Speculation: exact figures vary slightly between outlets. [Reliability: Medium] (Reported as of the November 16, 2026 close by multiple financial outlets including BNN Bloomberg (AP wire), CNN and Yahoo Finance)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-16T21:00:00+00:00",
-    "source": {
-      "name": "AP通信(BNN Bloomberg配信)/CNN/Yahoo Finance",
-      "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-17-03",
-    "headline": {
-      "ja": "ウクライナ軍、クリミア大橋(ケルチ海峡)に「フラミンゴ」等ミサイル攻撃 橋の一部が崩落と報道(数週間に及ぶ作戦の「第7段階」)",
-      "en": "Ukraine strikes Crimean (Kerch) Bridge with Flamingo and Neptune missiles; reports say a section collapsed, described as 'seventh phase' of weeks-long operation"
-    },
-    "summary": {
-      "ja": "2026年11月16日深夜〜17日未明(現地時間)、ウクライナ軍がクリミア大橋(ケルチ海峡、ロシア本土とロシア占領下クリミア半島を結ぶ橋)に対し、ウクライナ製巡航ミサイル「フラミンゴ」及び「ネプチューン」等によるミサイル攻撃を行ったという。複数の報道(Kyiv Independent、ABC News、The New Voice of Ukraine等)によれば、橋の金属アーチ部分(自動車道の支間)が崩落したとされ、ゼレンスキー大統領はこれを数週間にわたり進めてきた作戦の「第7段階」と説明したという。ロシア側も橋の損傷を認め、道路・鉄道交通およびケルチ海峡の船舶航行が一時停止されたと報じられている。これは前日11月16日にもウクライナの無人機が同じアーチ部分を損傷させた攻撃に続くものとされる。推測:「フラミンゴ」ミサイルの使用については、ウクライナ治安当局者やOSINT分析による見方が中心で、独立した検証はできていない。損傷箇所(道路アーチか鉄道部分か)についても報道により内容が一致していない。[信頼性: 中](Kyiv Independent、ABC News、The New Voice of Ukraine等複数の国際メディアが2026年11月17日の報道として伝えている)",
-      "en": "Overnight from November 16 into the early hours of November 17, 2026 (local time), Ukrainian forces reportedly struck the Crimean (Kerch) Bridge — which links mainland Russia to Russian-occupied Crimea — using Ukrainian-made 'Flamingo' and 'Neptune' cruise missiles, among other weapons. Multiple outlets (Kyiv Independent, ABC News, The New Voice of Ukraine) reported that a metal arch section of the road span collapsed, which President Zelensky described as the 'seventh phase' of an operation conducted over several weeks. Russia acknowledged damage to the bridge, and road/rail traffic as well as shipping through the Kerch Strait were reportedly suspended. This followed a Ukrainian drone strike on the same arch the previous day, November 16. Speculation: the identification of the 'Flamingo' missile rests mainly on Ukrainian security officials and OSINT analysis and has not been independently verified; reports also disagree on which part of the bridge (road arch vs. rail section) was damaged. [Reliability: Medium] (Reported as of November 17, 2026 by multiple international outlets including Kyiv Independent, ABC News and The New Voice of Ukraine)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ/ロシア",
-    "region": "クリミア大橋(ケルチ海峡)",
-    "lat": 45.308,
-    "lon": 36.4397,
-    "occurredAt": "2026-11-17T00:30:00+00:00",
-    "source": {
-      "name": "Kyiv Independent / ABC News / The New Voice of Ukraine",
-      "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
     "id": "2026-11-17-04",
     "headline": {
       "ja": "ロシア軍、ウクライナ全土に大規模ミサイル・ドローン攻撃 キーウの橋2カ所損傷、複数州で死傷者(11月16夜〜17日)",
@@ -327,5 +283,26 @@
       "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-20-03",
+    "headline": {
+      "ja": "Anthropic株、初日終値は97.17ドル IPO価格から17%高・評価額1.76兆ドルに(ナスダック全体は約2%安)",
+      "en": "Anthropic stock closes first trading day up 17% at $97.17, valuation reaches $1.76 trillion as broader Nasdaq falls about 2%"
+    },
+    "summary": {
+      "ja": "11月19日(木)にナスダックへ新規上場したAI企業Anthropic(銘柄コードANT)の株式は、取引開始直後に記録した111.50ドル(IPO価格83ドルから34%高)から下落し、初日の終値は97.17ドル(IPO価格から約17%高)となったという。完全希薄化後の評価額は終値時点で約1.76兆ドルになったとされる。CNN、Fast Company等複数の米主要メディアが、同日のナスダック総合指数はAI関連株への懸念が広がる中で約2%下落するなど、Anthropicの好調な上場とは対照的に広範な市場は軟調だったと報じている。[信頼性: 高]",
+      "en": "Shares of AI company Anthropic, which debuted on Nasdaq under the ticker ANT on Thursday, November 19, pulled back from the $111.50 level hit shortly after the open (34% above the $83 IPO price) to close the first trading day at $97.17, up about 17% from the IPO price. That put its fully diluted valuation at roughly $1.76 trillion at the close. Multiple major US outlets including CNN and Fast Company reported that, in contrast to Anthropic's strong debut, the broader Nasdaq Composite fell about 2% the same day amid renewed concerns over AI-related stocks. [Reliability: High]"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-19T21:00:00+00:00",
+    "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+    },
+    "reliability": "high"
   }
 ]
