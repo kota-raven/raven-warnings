@@ -152,27 +152,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-19-09",
-    "headline": {
-      "ja": "米国・メキシコ・ボリビア、麻疹の「排除状態」認定を失う 米州保健機関(PAHO)が発表",
-      "en": "US, Mexico and Bolivia lose measles elimination status, Pan American Health Organization says"
-    },
-    "summary": {
-      "ja": "米州保健機関(PAHO)は2026年11月17日(火)、麻疹の同一ウイルス株による12カ月以上の継続的な感染拡大(持続的伝播)が続いているとして、米国・メキシコ・ボリビアの麻疹「排除状態」の認定を取り消したと発表したという。複数の報道(ABCニュース系列各局、ITVニュース、Jerusalem Post等)によれば、メキシコではチワワ州での大規模な流行を含む麻疹の再拡大が、ボリビアでも同様の事情があったとされる。米疾病対策センター(CDC)によれば、2026年の米国内の麻疹確定患者数は5000人超(45州・ニューヨーク市・ワシントンDCから報告)に達し、35年ぶりの高水準になっているという。州保健当局からはこれまでに麻疹関連の死亡が複数例(報道により6〜10例)報告されている。CDCのシュワルツ長官は、「排除認定が米国民を守るわけではない。ワクチン接種が守る」と述べ、認定の再取得を目指す考えを示したとされる。PAHOは、米国・メキシコ・ボリビアの3カ国が今後数週間以内に、伝播を12カ月以上止めて認定を再取得するための計画を提出することを見込んでいるという。推測:認定取り消しの発表日時については、一部報道で「金曜」とする記述もあり、火曜発表との食い違いがあるため正確な曜日は確定できない。死亡者数も報道により差がある。[信頼性: 高](PAHOの公式判断に基づき、ABCニュース系列各局、ITVニュース、Jerusalem Post等複数の国際メディアが2026年11月17日の発表として伝えている)",
-      "en": "The Pan American Health Organization (PAHO) announced on Tuesday, November 17, 2026 that it has revoked the measles elimination status of the United States, Mexico and Bolivia, citing over 12 months of continuous transmission of the same viral strain in each country. Multiple outlets (ABC-affiliated stations, ITV News, The Jerusalem Post) reported that Mexico's loss follows a resurgence including a large outbreak in Chihuahua state, with Bolivia facing a similar situation. According to the US CDC, confirmed US measles cases for 2026 have topped 5,000 (reported from 45 states, New York City and Washington DC), the highest level in 35 years. State health departments have reported several measles-related deaths this year (accounts vary between 6 and 10). CDC Director Erica Schwartz said 'the measles elimination designation is not what protects Americans. Vaccination does,' and stated the agency's intent to regain the designation. PAHO said it expects the US, Mexico and Bolivia to submit plans within coming weeks for stopping transmission for 12 months in order to regain elimination status. Speculation: some reports refer to a 'Friday' announcement, which conflicts with the Tuesday date cited elsewhere, so the exact day is not fully certain; death tolls also vary between sources. [Reliability: High] (Based on PAHO's official determination, reported Nov 17, 2026 by multiple outlets including ABC-affiliated stations, ITV News and The Jerusalem Post)"
-    },
-    "category": "disaster",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-17T18:00:00+00:00",
-    "source": {
-      "name": "PAHO(米州保健機関) / ABCニュース系列 / ITVニュース",
-      "url": "https://abc13.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-20-01",
     "headline": {
       "ja": "Anthropic株、ナスダック初値111.50ドル IPO価格から34%高、史上最大のIPOで約813億ドルを調達(11月19日)",
@@ -319,6 +298,70 @@
     "source": {
       "name": "The Star (Reuters) / bdnews24",
       "url": "https://www.thestar.com.my/news/world/2026/11/18/bangladesh-deploys-paramilitary-as-unrest-grows-over-hasina039s-return"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-21-01",
+    "headline": {
+      "ja": "イスラエル軍、ガザ中部で停戦後初の「イエローライン」越境 地上作戦終了、トンネル破壊(11月18〜19日)",
+      "en": "Israeli forces cross Gaza's 'Yellow Line' for first time since truce near Nuseirat, conclude operation after destroying tunnel (Nov 18-19)"
+    },
+    "summary": {
+      "ja": "2026年11月18日(水)から19日(木)にかけて、イスラエル軍戦車がガザ中部ヌセイラト難民キャンプ付近で、2025年10月の停戦発効後初めて「イエローライン」(停戦境界線)を越えて西側へ進軍したことが、複数の報道(Malay Mail、ynetnews、SOFX、Latin Times等)で確認されたという。これは前回収集(11月20日05時JST分)で既報の地上作戦(11月18日開始、UN最大1.8万人避難警告、死者3〜4人)の続報で、イスラエル軍は、部隊への直接的な脅威になっていたとする「テロトンネル」を破壊する作戦だったと説明し、作戦終了後にサラハディン道路を再開通させたという。ハマス側はこれを停戦の明白な違反だと非難し、仲介国・保証国に即時介入を求めたとされる。AFPの集計によれば、ガザ保健当局のデータに基づき、2025年10月の停戦開始以降、イスラエル側の攻撃によりパレスチナ人1600人超が死亡したとされる(この累計数値は今回のヌセイラト作戦単独の死者数〈既報3〜4人〉とは別の、停戦開始からの総計)。推測:「停戦後初のイエローライン越境」との評価は複数報道に基づくが、過去に同種の越境事例が報じられていないか本収集では完全には確認できていない。[信頼性: 中](Malay Mail、ynetnews、SOFX等複数の国際メディアが2026年11月19〜20日時点で報道)",
+      "en": "Between Wednesday, November 18 and Thursday, November 19, 2026, Israeli tanks reportedly crossed west of Gaza's 'Yellow Line' (the ceasefire boundary) near the Nuseirat refugee camp for the first time since the October 2025 truce, according to multiple outlets (Malay Mail, ynetnews, SOFX, Latin Times). This is a follow-up to the ground operation already reported in the previous collection (started Nov 18, UN warning of up to 18,000 displaced, 3-4 deaths). The Israeli military said the operation targeted a 'terror tunnel' that posed a direct threat to its troops, and reopened the Salah al-Din road after the operation concluded. Hamas reportedly condemned the move as a flagrant ceasefire violation and called on mediators and guarantor states to intervene immediately. Citing Gaza health ministry data, AFP's tally put the number of Palestinians killed by Israeli fire since the October 2025 truce at more than 1,600 (a cumulative figure since the truce began, distinct from the 3-4 deaths previously reported for this specific Nuseirat operation). Speculation: the characterization of this as the 'first Yellow Line crossing since the truce' is based on multiple reports, but this collection could not fully confirm whether any prior crossings had been reported. [Reliability: Medium] (Reported by Malay Mail, ynetnews, SOFX and others as of Nov 19-20, 2026)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ヌセイラト(中部ガザ)",
+    "lat": 31.4525,
+    "lon": 34.3886,
+    "occurredAt": "2026-11-19T00:00:00+00:00",
+    "source": {
+      "name": "Malay Mail / ynetnews / SOFX",
+      "url": "https://www.malaymail.com/news/world/2026/11/19/israeli-tanks-push-into-central-gazas-nuseirat-refugee-camp-area-in-rare-ground-incursion/243844"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-21-02",
+    "headline": {
+      "ja": "バングラデシュ、ハシナ氏帰国問題で混乱拡大 与党BNP関係者2人死亡、国境警備隊7県に97個小隊展開(11月18〜19日)",
+      "en": "Bangladesh unrest over Hasina's return escalates: two ruling BNP members killed, 97 border guard platoons deployed across 7 districts (Nov 18-19)"
+    },
+    "summary": {
+      "ja": "2026年11月19日(木)までの報道によれば、バングラデシュ政府が、ハシナ元首相の帰国表明をめぐる緊張の高まりを受け、国境警備隊(BGB)の展開規模をさらに拡大し、ゴパルガンジ県・ファリドプール県などハシナ氏支持者が多いとされる7県に計97個小隊を展開したという。複数の報道(SCMP、Dawn、Scroll.in等)によれば、11月18日夜(水曜深夜)の衝突で与党BNP(バングラデシュ民族主義党)関係者2人が死亡し、ゴパルガンジ県ではBNP所属の国会議員2人の自宅が破壊・放火されたとされる。ハシナ氏が率いるアワミ連盟は1週間にわたる抗議行動を発表し、11月1日から17日の間に今回の混乱への関与を理由に520人超が拘束されたという。バングラデシュのタリク・ラーマン首相は、一連の混乱の背景にインドの関与があると非難したとされる一方、インド側はハシナ氏の帰国可否は同氏自身の判断だとの立場を示しているという。ハシナ氏は(国際犯罪法廷による)死刑判決を受けているにもかかわらず、12月に帰国する意向を改めて示したとされる。推測:死傷者数・拘束者数の正確な内訳は報道により一部差があり、インドの関与の有無についてはバングラデシュ政府の一方的な見解である可能性がある。[信頼性: 中](SCMP、Dawn、Scroll.in等複数の国際メディアが2026年11月19〜20日時点で報道)",
+      "en": "According to reports as of Thursday, November 19, 2026, the Bangladesh government further expanded its deployment of Border Guard Bangladesh (BGB) troops, stationing a total of 97 platoons across seven districts, including Gopalganj and Faridpur, described as strongholds of former PM Sheikh Hasina's supporters, amid rising tensions over her announced return. Multiple outlets (SCMP, Dawn, Scroll.in) reported that clashes on the night of Wednesday, November 18 killed two members of the ruling Bangladesh Nationalist Party (BNP), and that the homes of two BNP lawmakers in Gopalganj were vandalized and set on fire. Hasina's Awami League reportedly announced a week-long protest campaign, and more than 520 people were arrested between November 1 and 17 over alleged involvement in the unrest. Bangladesh's Prime Minister Tarique Rahman reportedly blamed India for the unrest, while India has said it is for Hasina herself to decide whether to return. Hasina, who has been sentenced to death by the International Crimes Tribunal, reportedly reiterated her intention to return in December. Speculation: casualty and arrest figures vary somewhat by outlet, and the claim of Indian involvement reflects the Bangladesh government's position, which may be one-sided. [Reliability: Medium] (Reported by SCMP, Dawn, Scroll.in and others as of Nov 19-20, 2026)"
+    },
+    "category": "conflict",
+    "country": "バングラデシュ",
+    "lat": 23.685,
+    "lon": 90.3563,
+    "occurredAt": "2026-11-19T00:00:00+00:00",
+    "source": {
+      "name": "South China Morning Post / Dawn / Scroll.in",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3375123/violence-rises-bangladesh-ex-pm-hasinas-supporters-escalate-protests"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-21-03",
+    "headline": {
+      "ja": "米国株、ダウ・S&P500が一時「調整局面」入り ナスダックも急落、AI懸念に地政学リスク重なる(11月20日)",
+      "en": "US stocks: Dow, S&P 500 briefly enter correction territory as Nasdaq slides amid AI worries, geopolitical risk (Nov 20)"
+    },
+    "summary": {
+      "ja": "2026年11月20日(金)の米国市場で、ダウ工業株30種平均とS&P500指数が直近高値から約10%下落する「調整局面」入りを、取引時間中(ザラ場)に記録したことが、Yahoo Finance、CBSニュース等複数の報道で確認されたという。この時点でナスダック総合指数も一時3%超下落し、CBOEボラティリティ指数(VIX)は15%超上昇したとされる。前日11月19日(木)終値のダウ平均1101ポイント安・ナスダック2.3%安の急落(既報)からの続落で、AI関連投資への過熱懸念に加え、米国・イスラエルによるイラン再攻撃の観測、12月の政府機関閉鎖の可能性なども下落要因として挙げられているという。推測:本稿作成時点(日本時間11月21日早朝、米東部時間11月20日午前)では米国市場はなお取引時間中であり、最終的な終値・下落率は確定していない。複数の報道間で具体的な指数の水準・下落率に差があり(例:ある報道はS&P500が6966.02〈-2.92%〉、ダウ平均48486.00〈-1.24%〉としている一方、別の報道は異なる水準を示す)、確定値は次回収集で改めて確認する。[信頼性: 中](Yahoo Finance、CBSニュース等複数の報道、2026年11月20日時点。取引時間中の速報値であり終値は未確定)",
+      "en": "In US trading on Friday, November 20, 2026, the Dow Jones Industrial Average and S&P 500 reportedly briefly entered 'correction territory' — a roughly 10% decline from their recent peaks — intraday, according to multiple outlets (Yahoo Finance, CBS News). At that point the Nasdaq Composite also fell more than 3%, and the CBOE Volatility Index (VIX) reportedly jumped more than 15%. This followed Thursday November 19's close, when the Dow fell 1,101 points and the Nasdaq fell 2.3% (already reported). Cited drivers include continued concern over AI-related investment overheating, renewed speculation about possible US-Israeli strikes on Iran, and the possibility of a government shutdown in December. Speculation: as of this writing (early morning Nov 21 JST / Friday morning Nov 20 ET), US markets were still in session, so the final close and decline figures were not yet confirmed. Specific index levels and decline percentages vary between outlets (e.g., one report cites the S&P 500 at 6,966.02 [-2.92%] and the Dow at 48,486.00 [-1.24%], while others give different levels); the final figures will be confirmed in the next collection. [Reliability: Medium] (Reported by Yahoo Finance, CBS News and others as of Nov 20, 2026; intraday figures, close not yet confirmed)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-20T16:00:00+00:00",
+    "source": {
+      "name": "Yahoo Finance / CBS News",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-plunge-correction-175951472.html"
     },
     "reliability": "medium"
   }
