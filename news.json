@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-19-06",
-    "headline": {
-      "ja": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱、津波の心配なし",
-      "en": "M5.7 earthquake hits Amakusa-Ashikita region, Kumamoto Prefecture; max intensity 5-weak, no tsunami"
-    },
-    "summary": {
-      "ja": "気象庁発表等によると、11月19日午前2時22分頃、熊本県天草・芦北地方を震源とする地震があり、球磨村・あさぎり町・水俣市・芦北町・津奈木町などで最大震度5弱を観測した。マグニチュードは5.7、震源の深さは約10km、津波の心配はない。九州道(人吉IC~八代IC)・南九州道(日奈久IC~八代南IC)が通行止めとなったと報じられている。現時点で人的被害の報告は確認されていない。2026年7月の熊本地方M7.1の地震以降、同地域で地震活動が継続しており、気象台は1週間程度最大震度5弱程度の地震への注意を呼びかけている。[信頼性: 高]",
-      "en": "According to Japan's Meteorological Agency and local media, an M5.7 earthquake struck the Amakusa-Ashikita region of Kumamoto Prefecture at around 2:22am JST on Nov 19, with a maximum intensity of 5-weak observed in several towns (Kuma, Asagiri, Minamata, Ashikita, Tsunagi). Depth was about 10km; no tsunami risk. Sections of the Kyushu and Minami-Kyushu expressways were closed. No casualties have been reported so far. Seismic activity has continued in the region since the M7.1 Kumamoto earthquake of July 2026, and authorities are warning of possible M5-weak-level aftershocks for about a week. [Reliability: High]"
-    },
-    "category": "disaster",
-    "country": "日本",
-    "region": "熊本県",
-    "lat": 32.7898,
-    "lon": 130.7417,
-    "occurredAt": "2026-11-18T17:22:00+00:00",
-    "source": {
-      "name": "日本気象協会(tenki.jp)・Yahoo!天気・災害",
-      "url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2026/11/19/2026-11-19-02-22-25.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-19-07",
     "headline": {
       "ja": "Anthropic、IPO価格を1株83ドルに決定 想定レンジを上回り評価額約1.51兆ドル、史上最大規模の新規株式公開に(11月18日)",
@@ -171,27 +149,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-20-07",
-    "headline": {
-      "ja": "バングラデシュ、ハシナ元首相の帰国表明受け全国に治安部隊増派 爆発・放火が多発、ユヌス氏実家でも火災(11月18日)",
-      "en": "Bangladesh deploys paramilitary nationwide amid unrest over Hasina's planned return; bombings and arson reported, fire also hits Yunus's family home (Nov 18)"
-    },
-    "summary": {
-      "ja": "ロイター通信等の報道によれば、2026年11月18日(水)、バングラデシュ政府が、国外逃亡中の元首相シェイク・ハシナ氏の帰国表明を受けて緊張が高まる中、全国に数百人規模の国境警備隊(BGB)等の治安部隊を増派したという。同国内の複数地域で爆弾による攻撃・放火・衝突が発生したとされ、内務相は「暴力に関与した者を特定し訴追する」と述べたという。関連する事実として、同日深夜(現地時間23時頃)、暫定政権の前最高顧問ムハマド・ユヌス氏の実家(チッタゴン・パンチライシュ地区)で火災が発生したと報じられており、地元警察は、古い家具・衣類等に何らかの原因で火が付いた可能性があるとして原因を調査中としている。推測:この火災が周辺の政治的混乱と直接関係しているかどうかは、本稿執筆時点では確認できていない(複数報道は混乱のニュースと並べて伝えているが、放火と断定した報道は確認できなかった)。グラミン銀行は11月10日以降、支店・事務所37か所で襲撃や放火未遂があったと報告しているという。[信頼性: 中](ロイター、The Star、bdnews24等の報道、2026年11月18〜19日時点。火災の原因は未確定)",
-      "en": "According to Reuters and other reports, on Wednesday, November 18, 2026, the Bangladesh government deployed hundreds of paramilitary (Border Guard Bangladesh) troops nationwide as tensions rose over exiled former Prime Minister Sheikh Hasina's announced plan to return to the country. Multiple districts reportedly saw bomb attacks, arson and clashes, and the home minister said those involved in the violence would be identified and prosecuted. Separately, a fire broke out late that night (around 11pm local time) at the Chattogram ancestral home of Muhammad Yunus, the interim government's former chief adviser; local police said old furniture and clothing may have caught fire for unclear reasons and that the cause remains under investigation. Speculation: whether this fire is directly linked to the surrounding political unrest could not be confirmed as of this writing (some reports mention it alongside the unrest, but none described it as confirmed arson). Grameen Bank reportedly said 37 of its branches and offices had been attacked or targeted with attempted arson since November 10. [Reliability: Medium] (Reported by Reuters, The Star, bdnews24 and others as of Nov 18-19, 2026; cause of the fire unconfirmed)"
-    },
-    "category": "conflict",
-    "country": "バングラデシュ",
-    "lat": 23.685,
-    "lon": 90.3563,
-    "occurredAt": "2026-11-18T17:00:00+00:00",
-    "source": {
-      "name": "The Star (Reuters) / bdnews24",
-      "url": "https://www.thestar.com.my/news/world/2026/11/18/bangladesh-deploys-paramilitary-as-unrest-grows-over-hasina039s-return"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-21-01",
     "headline": {
       "ja": "イスラエル軍、ガザ中部で停戦後初の「イエローライン」越境 地上作戦終了、トンネル破壊(11月18〜19日)",
@@ -295,6 +252,50 @@
     "source": {
       "name": "AccuWeather / Fox35 Orlando / NBC Miami",
       "url": "https://www.accuweather.com/en/severe-weather/st-johns-river-smashes-73-year-record-in-florida-with-flooding-that-could-last-into-2027/1961124"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-22-01",
+    "headline": {
+      "ja": "ロシア軍、ゼレンスキー氏出身地クリヴィーリフに弾道ミサイル攻撃 2人死亡・60人超負傷、救助中の二次攻撃も(11月20日夜)",
+      "en": "Russian ballistic missile strike hits Zelenskyy's hometown Kryvyi Rih, killing 2 and wounding over 60; follow-up strikes hit rescuers (night of Nov 20)"
+    },
+    "summary": {
+      "ja": "2026年11月20日(金)夜、ロシア軍がウクライナ中部クリヴィーリフ市(ゼレンスキー大統領の出身地)中心部を弾道ミサイルで攻撃したという。複数の報道(ワシントン・ポスト、AP通信等)によれば、市長オレクサンドル・ヴィルクル氏がTelegramで、7歳の男児と20歳の女性の2人が死亡したと明らかにし、州知事オレクサンドル・ハンジャ氏は負傷者が60人(うち子供6人を含む)に達したと発表したという。キーウ・インディペンデント紙は、同州全体の24時間の負傷者数が少なくとも83人に上ったと報じている。AFP・AP通信によれば、救助隊員・医療従事者・ライフライン復旧作業員が現場に到着した後、ロシア軍がさらにミサイルを発射し、これらの要員を標的にしたとされる(いわゆる二次攻撃)。推測:ワシントン・ポストの報道は、この攻撃と同時期にロシアのミサイル2発と無人機1機とみられる機体がポーランド領空に侵入したとも伝えているが、本収集時点では詳細・ポーランド政府による公式発表は確認できていない。[信頼性: 高](ワシントン・ポスト、AP通信、キーウ・インディペンデント等複数の国際メディアが2026年11月21日の報道として伝えている)",
+      "en": "On the night of Friday, November 20, 2026, Russian forces reportedly struck central Kryvyi Rih, the central Ukrainian city that is President Zelenskyy's hometown, with a ballistic missile. Multiple outlets (The Washington Post, AP) reported that city head Oleksandr Vilkul said on Telegram that two people were killed, a 7-year-old boy and a 20-year-old woman, while regional head Oleksandr Hanzha put the number of wounded at 60, including six children. The Kyiv Independent reported that region-wide injuries over a 24-hour period reached at least 83. AFP and AP reported that Russian forces fired further missiles after rescue workers, medical personnel and utility crews arrived at the scene, targeting them in what is described as a follow-up ('double-tap') strike. Speculation: The Washington Post's report also said two Russian missiles and a suspected drone crossed into Polish airspace around the same time, but further details and an official Polish government statement could not be confirmed as of this collection. [Reliability: High] (Reported as of November 21, 2026 by multiple international outlets including The Washington Post, AP and the Kyiv Independent)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "ドニプロペトロフスク州(クリヴィーリフ)",
+    "lat": 47.9105,
+    "lon": 33.3918,
+    "occurredAt": "2026-11-20T21:00:00+00:00",
+    "source": {
+      "name": "The Washington Post / AP通信",
+      "url": "https://www.washingtonpost.com/world/2026/11/21/russia-ukraine-war-missile-zelenskyy-trump/197b611e-e59a-11f1-a99e-b3e3805c6b8b_story.html"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-22-02",
+    "headline": {
+      "ja": "フィンランド湾で露軍関連の貨物船が無人機攻撃を受け炎上 フィンランド領海に漂流、ウクライナの犯行の可能性(11月21日)",
+      "en": "Russian military-linked cargo ship catches fire after drone attack in Gulf of Finland, drifts into Finnish waters; Ukraine suspected (Nov 21)"
+    },
+    "summary": {
+      "ja": "2026年11月21日(土)、フィンランド湾東部の公海上(スールサーリ島西方)で、ロシア軍と関連があるとされる貨物船「スパルタII」が無人機の攻撃を受け炎上したという。複数の報道(France24、キーウ・インディペンデント、gCaptain、ERR〈エストニア国営放送〉等)によれば、フィンランド軍が国際水域でのロシア貨物船への無人機攻撃を検知したと発表し、ロシア側は2機の無人機による攻撃を受けたとしているという。火災により船はフィンランド領海側へ漂流し、フィンランド当局は同海域東部で航空・海上交通の一時的な規制を再導入したとされる。乗員の状況については報道が一致しておらず、沿岸警備隊幹部は船が投錯して乗員が退避中としたとする報道がある一方、カリーニングラード州知事によれば、接近したロシアの救助船に対し乗員は退避の必要はないと伝えたとも報じられている。フィンランド国防省は責任の所在を明らかにしていないが、一部報道はフィンランド国防軍がウクライナによる犯行の可能性が高いとしていると伝えている。フィンランド国防相は、この貨物船の救助・監視活動に関連してロシアのヘリコプターによる領空侵犯の疑いがあったとも述べたという。[信頼性: 中](France24、キーウ・インディペンデント、gCaptain、ERR等複数の国際メディアが2026年11月21日の報道として伝えている。乗員の退避状況・攻撃主体については報道間で差がある)",
+      "en": "On Saturday, November 21, 2026, a Russian military-linked cargo ship, the Sparta II, reportedly caught fire after a drone attack in international waters in the eastern Gulf of Finland, west of the island of Suursaari (Gogland). Multiple outlets (France24, the Kyiv Independent, gCaptain, Estonia's ERR) reported that Finland's military said it detected a drone attack on the Russian vessel in international waters, while Russian officials said the ship was struck by two drones. The fire left the ship drifting into Finnish territorial waters, and Finnish authorities reportedly reintroduced temporary restrictions on aviation and maritime traffic in the eastern part of the gulf. Reports differ on the crew's status: one account cites a coast guard commander describing the vessel as anchored with the crew evacuating, while Kaliningrad's governor said the crew told an approaching Russian rescue vessel they did not need evacuation. Finland's defence ministry has not named who was responsible, though some reports say Finnish defence forces consider Ukraine the likely culprit. Finland's defence minister also said a suspected Russian helicopter airspace violation may have been linked to rescue or surveillance activity around the damaged ship. [Reliability: Medium] (Reported as of November 21, 2026 by multiple outlets including France24, the Kyiv Independent, gCaptain and ERR; accounts differ on the crew's evacuation status and on who carried out the attack)"
+    },
+    "category": "conflict",
+    "country": "フィンランド湾(国際水域)",
+    "region": "フィンランド湾",
+    "lat": 59.83,
+    "lon": 26.0,
+    "occurredAt": "2026-11-21T06:00:00+00:00",
+    "source": {
+      "name": "France24 / Kyiv Independent / gCaptain",
+      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
     },
     "reliability": "medium"
   }
