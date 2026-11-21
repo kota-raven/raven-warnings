@@ -129,29 +129,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-20-04",
-    "headline": {
-      "ja": "イスラエル軍、中部ガザ・ヌセイラト周辺で地上作戦 停戦後初、UNは最大1.8万人の避難の可能性を警告(11月18日)",
-      "en": "Israel launches rare ground operation near Nuseirat in central Gaza, first since ceasefire; UN warns up to 18,000 could be displaced (Nov 18)"
-    },
-    "summary": {
-      "ja": "2026年11月18日(水)、イスラエル軍が中部ガザの「イエローライン」西側、ヌセイラト・アルブレイジ両難民キャンプ付近で地上作戦を開始したという。複数の報道(Al-Monitor、Khaleej Times、Reuters配信記事等)によれば、イスラエル軍は「ハマスの関連施設」を標的とした作戦と説明し、サラハディン道路を一時閉鎖したとされる。目撃者やロイター通信は、2025年の停戦以降この地域で初めての地上進軍だと報じている。国連は、この攻勢により最大1万8000人のパレスチナ人が避難を強いられ、人道支援活動にも支障が出る可能性があると警告したという。ガザ医療当局によれば、中部ガザ全域での攻撃により少なくとも3人が死亡したとされる(一部報道は4人、うち1人は子どもと伝えている)が、これらの死亡が今回の地上作戦と直接関連するかはAFP等により明確にされていないという。ハマス側はこれを停戦の「明白な違反」と非難したとされる。イスラエルのカッツ国防相は、新たに制圧した地域をイスラエルの「安全地帯」の恒久的な一部にすべきだと述べたとも報じられている。推測:具体的な死傷者数・避難者数は報道により差があり(死亡3〜4人、避難者数百人〜1.8万人の可能性)、今回の地上作戦と個別の空爆による死者との関連も確証できていない。[信頼性: 中](Al-Monitor、Khaleej Times、Reuters配信記事等複数の国際メディアが2026年11月18〜19日の報道として伝えている。死傷者・避難者数の具体的な数値は媒体間で差がある)",
-      "en": "On Wednesday, November 18, 2026, Israeli forces reportedly launched a ground operation west of Gaza's 'Yellow Line,' near the Nuseirat and Al-Bureij refugee camps in central Gaza. Multiple outlets (Al-Monitor, Khaleej Times, a Reuters wire report) reported that the Israeli military described the operation as targeting 'Hamas-linked infrastructure' and temporarily closed the Salah al-Din road. Witnesses and Reuters described it as the first ground incursion into the area since the 2025 ceasefire. The UN reportedly warned that the offensive could displace up to 18,000 Palestinians and disrupt humanitarian operations. Palestinian health officials said at least three people were killed in strikes across central Gaza (some reports cite four, including a child), though AFP and others said it was not immediately clear whether these deaths were directly linked to the ground operation. Hamas reportedly condemned the move as a 'flagrant violation' of the ceasefire. Israeli Defense Minister Katz reportedly said newly seized territory should become a permanent part of Israel's security zones. Speculation: casualty and displacement figures vary significantly by outlet (3-4 deaths; displacement estimates ranging from several hundred to up to 18,000), and the link between the ground operation and individual strikes has not been confirmed. [Reliability: Medium] (Reported Nov 18-19, 2026 by multiple outlets including Al-Monitor, Khaleej Times and a Reuters wire report; casualty and displacement figures differ across sources)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヌセイラト(中部ガザ)",
-    "lat": 31.4525,
-    "lon": 34.3886,
-    "occurredAt": "2026-11-18T10:00:00+00:00",
-    "source": {
-      "name": "Al-Monitor / Khaleej Times / Reuters配信記事",
-      "url": "https://www.al-monitor.com/originals/2026/11/israel-launches-ground-operation-central-gaza-dozens-flee"
-    },
-    "reliability": "medium",
-    "severity": 3
-  },
-  {
     "id": "2026-11-20-05",
     "headline": {
       "ja": "米国株、ダウ1101ポイント安 AI業種への懸念強まり2024年以来最長の続落、Anthropic好調な上場も相場全体支えられず(11月19日)",
