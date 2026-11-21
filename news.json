@@ -279,28 +279,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-21-04",
-    "headline": {
-      "ja": "スーダン、政府軍系部隊が北・西コルドファン州でRSFから30以上の村・町を奪還 国連はRSFによる電力施設への無人機攻撃継続を警告",
-      "en": "Sudan: Army-allied forces retake 30+ villages from RSF in North/West Kordofan; UN warns of continued RSF drone strikes on power infrastructure"
-    },
-    "summary": {
-      "ja": "スーダン内戦で、スーダン国軍(SAF)および同盟部隊が、11月1日以降、北コルドファン州・西コルドファン州の各地で速報支援軍(RSF)から30以上の村・町の支配を奪還したことが、紛争データ分析団体ACLEDのスーダン担当分析者の見解として、複数の報道(Al Jazeera、The National等)で確認されたという。北コルドファン州の州都エルオベイドやバラ周辺での戦闘が中心とされる。あわせて、国連の報告によれば、10月20日〜11月4日の間に、RSFによるものとされる無人機攻撃が全国11州の発電施設・燃料施設に対して29件確認されたとされ、国連はインフラへの被害継続に警告を発しているという。西ダルフール州などRSFが制圧した地域の情勢は依然として継続中であり、今回の奪還は一部地域の動きである。[信頼性: 中](Al Jazeera、The National、2026年11月14〜18日の報道、ACLEDデータ引用)",
-      "en": "In Sudan's civil war, army-allied Sudanese Armed Forces (SAF) and allied groups have reportedly retaken control of more than 30 villages and towns from the Rapid Support Forces (RSF) across North and West Kordofan states since November 1, according to an ACLED Sudan analyst cited by multiple outlets (Al Jazeera, The National). Fighting has centered around North Kordofan's capital El Obeid and the town of Bara. Separately, a UN report reportedly documented 29 drone strikes attributed to the RSF against power and fuel facilities across 11 states between October 20 and November 4, with the UN warning of continued infrastructure damage. RSF-held areas elsewhere, including in Darfur, remain under its control; this reported advance is localized to Kordofan. [Reliability: Medium] (Al Jazeera, The National, reported Nov 14-18, 2026, citing ACLED data)"
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "region": "北コルドファン州",
-    "lat": 13.1833,
-    "lon": 30.2167,
-    "occurredAt": "2026-11-18T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera / The National",
-      "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-21-05",
     "headline": {
       "ja": "米国株、ダウ・S&P500が終値でも「調整局面」入りを確定 ダウ949ポイント安、AI関連売りが主因",
@@ -318,6 +296,28 @@
     "source": {
       "name": "UPI / CNBC",
       "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-21-06",
+    "headline": {
+      "ja": "米フロリダ州、セントジョンズ川が73年ぶりの観測史上最高水位を記録 歴史的豪雨による洪水が継続",
+      "en": "Florida's St. Johns River hits highest level in 73 years as historic flooding continues"
+    },
+    "summary": {
+      "ja": "米フロリダ州で11月上旬から続く記録的豪雨の影響で、セントジョンズ川(ブレバード郡ココア付近)が11月19日、1953年の観測開始以来73年ぶりとなる観測史上最高水位(約17.7〜18.0フィート、従来記録17.55フィートを超える)を記録したという事実を、複数の報道(AccuWeather、Fox35 Orlando、NBC Miami等)で確認した。デサンティス州知事は11月18日付でブロワード郡などを含む緊急事態宣言の対象郡を拡大し、ブロワード郡・マイアミデード郡等で水上救助が行われ、州兵も投入された。一部予測では洪水が2027年まで続く可能性があるとされる。なお11月3日時点の先行する豪雨では州内で2人の死亡が報告されている(最新波による死者数の更新は確認できず)。",
+      "en": "Record rainfall across Florida since early November pushed the St. Johns River near Cocoa (Brevard County) to its highest level on record on Nov. 19 — about 17.7-18.0 ft, surpassing the previous 1953 record of 17.55 ft — for the first time in 73 years, according to multiple reports (AccuWeather, Fox35 Orlando, NBC Miami, etc.). Gov. DeSantis expanded the state of emergency on Nov. 18 to cover more counties including Broward; water rescues took place in Broward and Miami-Dade, and the National Guard was deployed. Some forecasts say flooding could persist into 2027. Two deaths were reported from an earlier wave of flooding as of Nov. 3 (an updated death toll for the latest wave was not confirmed)."
+    },
+    "category": "disaster",
+    "country": "米国",
+    "region": "フロリダ州",
+    "lat": 27.7663,
+    "lon": -81.6868,
+    "occurredAt": "2026-11-19T10:15:00+00:00",
+    "source": {
+      "name": "AccuWeather / Fox35 Orlando / NBC Miami",
+      "url": "https://www.accuweather.com/en/severe-weather/st-johns-river-smashes-73-year-record-in-florida-with-flooding-that-could-last-into-2027/1961124"
     },
     "reliability": "medium"
   }
