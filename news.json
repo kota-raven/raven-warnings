@@ -1,92 +1,5 @@
 [
   {
-    "id": "2026-11-18-01",
-    "headline": {
-      "ja": "エヌビディア、2027会計年度第3四半期決算で予想上回る増収・増益 データセンター事業急拡大、第4四半期も強い見通し(11月17日)",
-      "en": "Nvidia posts record Q3 FY2027 revenue beat, data center sales surge; issues strong Q4 guidance (Nov 17)"
-    },
-    "summary": {
-      "ja": "2026年11月17日(火)米東部時間の取引終了後、エヌビディアは2027会計年度第3四半期(2026年10月25日終了)決算を発表したという。同社発表及び複数の報道(CNBC、Reuters〔StreetInsider配信〕、Investing.com、NBCニュース等)によれば、売上高は115億8000万ドル(アナリスト予想の約108億8000万ドルを上回る)、非GAAP一株当たり利益(EPS)は2.68ドル(予想2.47ドル)だったとされる。データセンター部門の売上高は前年同期比110%増の107億6000万ドルだったという。第4四半期の売上高見通しは130億ドル(上下3%)とされ、市場予想(約125億ドル)を上回ったと報じられている。発表を受け、エヌビディア株は通常取引終了後の取引で上昇し(報道によれば約5%前後の上昇)、ナスダック100指数・S&P500指数の先物も上昇したという。取締役会として、前最高経営責任者(CEO)ジェンセン・フアン氏を復帰させる計画はないとの発言があったとも報じられている。推測:株価の上昇率については媒体間で数値に差があり(約3〜5%程度)、確定した終値ベースの反応は本稿執筆時点(日本時間11月18日午前)ではまだ確認できていない。[信頼性: 高](エヌビディア自身の決算発表資料、CNBC、Reuters(StreetInsider配信)、Investing.com、NBCニュース等複数の主要メディアが2026年11月17日の報道として伝えている)",
-      "en": "After the US market close on Tuesday, November 17, 2026, Nvidia reported fiscal third-quarter (ended October 25, 2026) results. According to the company's own release and multiple outlets (CNBC, Reuters via StreetInsider, Investing.com, NBC News), revenue reached $115.8 billion, beating analyst estimates of about $108.8 billion, with non-GAAP EPS of $2.68 versus an estimate of $2.47. Data Center revenue rose 110% year-over-year to $107.6 billion. Nvidia guided fourth-quarter revenue to $130.0 billion (plus or minus 3%), above the roughly $125 billion consensus. Shares reportedly rose in extended trading after the report (estimates vary, around 5%), and Nasdaq-100 and S&P 500 futures also gained. Nvidia's chairman reportedly said the board has no plans to reinstate former CEO Jensen Huang. Speculation: the exact extended-trading percentage gain differs across outlets (roughly 3-5%), and the confirmed closing-price reaction was not yet available as of this writing (morning of Nov 18 JST). [Reliability: High] (Reported as of November 17, 2026 by Nvidia's own earnings release and multiple major outlets including CNBC, Reuters via StreetInsider, Investing.com and NBC News)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-17T21:30:00+00:00",
-    "source": {
-      "name": "CNBC / Reuters(StreetInsider配信) / Investing.com",
-      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-18-02",
-    "headline": {
-      "ja": "トランプ・習近平・プーチン3氏、中国・深センAPEC首脳会議で初の三者会談へ(11月18〜19日)",
-      "en": "Trump, Xi and Putin set for first-ever trilateral meeting on sidelines of APEC summit in Shenzhen, China (Nov 18-19)"
-    },
-    "summary": {
-      "ja": "2026年11月18〜19日に中国・深センで開催されるアジア太平洋経済協力(APEC)首脳会議に合わせ、米国のトランプ大統領・中国の習近平国家主席・ロシアのプーチン大統領が、史上初めてとされる三者会談を行う見通しだという。複数の報道(Washington Post、CBSニュース、ABCニュース、Washington Times、Al Jazeera等)によれば、ホワイトハウスがこの三者会談を確認したとされ、ロシア外務省もプーチン氏が同首脳会議にロシア代表団を率いて出席すると発表したという。トランプ氏が三者会談自体に同席するかどうかについては報道が一致しておらず、ABCニュースは同席すると報じる一方、CBSニュース・Washington Timesは、トランプ氏は訪中するが習氏・プーチン氏の会談には加わらないとする米政府当局者の説明を報じているとされる。トランプ氏は会談でイラン情勢や核軍縮について協議する意向とされ、ウクライナ戦争については三者会談の議題としない考えだと報じられている。推測:トランプ氏の三者会談への同席の有無、会談で実際に取り上げられる議題については、本稿執筆時点(日本時間11月18日午前)でなお報道が分かれており確定していない。[信頼性: 中](Washington Post、CBSニュース、ABCニュース、Washington Times、Al Jazeera等複数の国際メディアが2026年11月13〜17日の報道として伝えているが、トランプ氏の会談への関与の形式について媒体間で内容が一致していない)",
-      "en": "Ahead of the Asia-Pacific Economic Cooperation (APEC) leaders' summit in Shenzhen, China on November 18-19, 2026, US President Trump, Chinese President Xi Jinping and Russian President Putin are reportedly set to hold what would be their first-ever trilateral meeting. Multiple outlets (Washington Post, CBS News, ABC News, Washington Times, Al Jazeera) reported that the White House confirmed the trilateral meeting, and Russia's foreign ministry said Putin would lead Russia's delegation to the summit. Reports disagree on whether Trump will personally join the Xi-Putin meeting: ABC News reported he would take part, while CBS News and Washington Times cited US officials saying Trump would travel to China but not join the Xi-Putin session itself. Trump is reportedly expected to discuss Iran and nuclear arms reduction, and does not intend to raise the Russia-Ukraine war in the trilateral talks. Speculation: whether Trump personally joins the trilateral session, and the exact agenda items actually discussed, remain unconfirmed and reported inconsistently as of this writing (morning of Nov 18 JST). [Reliability: Medium] (Reported between November 13-17, 2026 by multiple international outlets including Washington Post, CBS News, ABC News, Washington Times and Al Jazeera, though accounts of Trump's level of involvement differ)"
-    },
-    "category": "conflict",
-    "country": "中国",
-    "region": "深セン市",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "occurredAt": "2026-11-17T23:00:00+00:00",
-    "source": {
-      "name": "Washington Post / CBSニュース / ABCニュース / Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-19-02",
-    "headline": {
-      "ja": "イラン、クウェートの米軍関連空軍基地にドローン攻撃 クウェート軍は迎撃・損害なしと発表(11月18日)",
-      "en": "Iran drones target US-linked air base in Kuwait; Kuwaiti military says it intercepted them with no damage (Nov 18)"
-    },
-    "summary": {
-      "ja": "2026年11月18日(水)、イラン軍がクウェートのアリ・アル・サレム空軍基地(米軍が利用)のパトリオット防空システム・ミサイル発射施設を狙ってドローン攻撃を行ったと主張したという。複数の報道(AP通信〔Spectrum News配信〕、Defence Blog等)によれば、クウェート軍はこれらのドローンを防空システムで迎撃し、目立った被害は無かったと発表したとされる。クウェート外務省とサウジアラビアはこの攻撃を非難したという。これは前日11月17日の米軍によるイラン・ケシム島のIRGC関連拠点への攻撃(別記事)を受けたイラン側の報復行動の一環とされ、米・イラン間の攻撃の応酬がクウェートにも拡大したものと報じられている。推測:イラン側のパトリオットシステムへの命中主張は独立検証ができておらず、クウェート側は具体的な被害の有無を明示していない。[信頼性: 中](AP通信〔Spectrum News配信〕、Defence Blog等複数の報道が2026年11月18日の報道として伝えている)",
-      "en": "On Wednesday, November 18, 2026, Iran's military reportedly claimed its drones targeted Patriot air-defense systems and missile-launch facilities at Ali Al Salem Air Base in Kuwait, which hosts US forces. Multiple outlets (an AP wire story via Spectrum News, Defence Blog) reported that Kuwait's military said its air defenses intercepted the drones with no notable damage. Kuwait's foreign ministry and Saudi Arabia condemned the attack, according to the reports. This is described as part of Iran's retaliation following the US strike the previous day, November 17, on an IRGC-linked site on Iran's Qeshm Island (separate entry), with the US-Iran exchange of strikes reportedly widening to include Kuwait. Speculation: Iran's claim of hitting the Patriot systems has not been independently verified, and Kuwait did not specify whether any damage occurred. [Reliability: Medium] (Reported as of November 18, 2026 by multiple outlets including an AP wire story carried by Spectrum News, and Defence Blog)"
-    },
-    "category": "conflict",
-    "country": "クウェート",
-    "lat": 29.3117,
-    "lon": 47.4818,
-    "occurredAt": "2026-11-18T01:00:00+00:00",
-    "source": {
-      "name": "AP通信(Spectrum News配信) / Defence Blog",
-      "url": "https://spectrumlocalnews.com/us/snplus/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
-    "id": "2026-11-19-03",
-    "headline": {
-      "ja": "イラン、バーレーンにも攻撃 バーレーン軍が複数回の迎撃を発表、米・イラン間の攻撃応酬が拡大(11月18日)",
-      "en": "Iran also strikes Bahrain; Bahraini forces report multiple interceptions as US-Iran exchange of strikes widens (Nov 18)"
-    },
-    "summary": {
-      "ja": "2026年11月18日(水)、バーレーン国防軍は、イランによる複数回の攻撃を自国の防空システムで迎撃したと発表したという。複数の報道(Gulf News、Time News等)によれば、これは前日にイラン革命防衛隊(IRGC)が米軍施設(シェイク・イサ空軍基地)のレーダーをドローンで狙ったと主張した攻撃(米側は報復と説明)に続くものとされる。米軍は、イラン側が主張するバーレーンのレーダーへの命中を否定し、ドローン2機を損害なく迎撃したと説明したという。この攻撃の拡大は、米軍による前日のイラン・ケシム島のIRGC関連拠点への攻撃(別記事)やクウェートへの攻撃(別記事)と合わせ、米・イラン間の攻撃の応酬が複数のペルシャ湾岸諸国に及ぶ形になったと報じられている。推測:イラン側の命中主張と米側の否定が対立しており、実際の被害状況は独立検証ができていない。[信頼性: 中](Gulf News、Time News等複数の国際メディアが2026年11月18日の報道として伝えている)",
-      "en": "On Wednesday, November 18, 2026, Bahrain's Defence Force reportedly said its air-defense systems intercepted multiple Iranian strikes on the kingdom. Multiple outlets (Gulf News, Time News) reported that this followed an Iranian Revolutionary Guard Corps (IRGC) claim the previous day that its drones had targeted a radar system at a US facility in Bahrain (Sheikh Isa Air Base), which the US described as prompting its retaliatory strike. The US military reportedly denied Iran's claim of having hit the Bahrain radar, saying it intercepted two drones without damage. Combined with the US strike the previous day on an IRGC-linked site on Iran's Qeshm Island and Iran's strike on Kuwait (separate entries), the widening attacks are reported to have spread the US-Iran exchange of strikes to multiple Gulf states. Speculation: Iran's claim of a hit and the US denial are in direct conflict, and the actual extent of damage has not been independently verified. [Reliability: Medium] (Reported as of November 18, 2026 by multiple international outlets including Gulf News and Time News)"
-    },
-    "category": "conflict",
-    "country": "バーレーン",
-    "lat": 26.0667,
-    "lon": 50.5577,
-    "occurredAt": "2026-11-18T02:00:00+00:00",
-    "source": {
-      "name": "Gulf News / Time News",
-      "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
-    },
-    "reliability": "medium",
-    "severity": 4
-  },
-  {
     "id": "2026-11-19-06",
     "headline": {
       "ja": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱、津波の心配なし",
@@ -362,6 +275,49 @@
     "source": {
       "name": "Yahoo Finance / CBS News",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-plunge-correction-175951472.html"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-21-04",
+    "headline": {
+      "ja": "スーダン、政府軍系部隊が北・西コルドファン州でRSFから30以上の村・町を奪還 国連はRSFによる電力施設への無人機攻撃継続を警告",
+      "en": "Sudan: Army-allied forces retake 30+ villages from RSF in North/West Kordofan; UN warns of continued RSF drone strikes on power infrastructure"
+    },
+    "summary": {
+      "ja": "スーダン内戦で、スーダン国軍(SAF)および同盟部隊が、11月1日以降、北コルドファン州・西コルドファン州の各地で速報支援軍(RSF)から30以上の村・町の支配を奪還したことが、紛争データ分析団体ACLEDのスーダン担当分析者の見解として、複数の報道(Al Jazeera、The National等)で確認されたという。北コルドファン州の州都エルオベイドやバラ周辺での戦闘が中心とされる。あわせて、国連の報告によれば、10月20日〜11月4日の間に、RSFによるものとされる無人機攻撃が全国11州の発電施設・燃料施設に対して29件確認されたとされ、国連はインフラへの被害継続に警告を発しているという。西ダルフール州などRSFが制圧した地域の情勢は依然として継続中であり、今回の奪還は一部地域の動きである。[信頼性: 中](Al Jazeera、The National、2026年11月14〜18日の報道、ACLEDデータ引用)",
+      "en": "In Sudan's civil war, army-allied Sudanese Armed Forces (SAF) and allied groups have reportedly retaken control of more than 30 villages and towns from the Rapid Support Forces (RSF) across North and West Kordofan states since November 1, according to an ACLED Sudan analyst cited by multiple outlets (Al Jazeera, The National). Fighting has centered around North Kordofan's capital El Obeid and the town of Bara. Separately, a UN report reportedly documented 29 drone strikes attributed to the RSF against power and fuel facilities across 11 states between October 20 and November 4, with the UN warning of continued infrastructure damage. RSF-held areas elsewhere, including in Darfur, remain under its control; this reported advance is localized to Kordofan. [Reliability: Medium] (Al Jazeera, The National, reported Nov 14-18, 2026, citing ACLED data)"
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "region": "北コルドファン州",
+    "lat": 13.1833,
+    "lon": 30.2167,
+    "occurredAt": "2026-11-18T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / The National",
+      "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-21-05",
+    "headline": {
+      "ja": "米国株、ダウ・S&P500が終値でも「調整局面」入りを確定 ダウ949ポイント安、AI関連売りが主因",
+      "en": "US stocks: Dow, S&P 500 confirm correction at the close, Dow down 949 points, driven by AI-sector sell-off"
+    },
+    "summary": {
+      "ja": "2026年11月20日(金)の米国市場で、前回収集時点(同日取引時間中)では速報値だったダウ工業株30種平均・S&P500指数の「調整局面」(直近高値から約10%下落)入りが、この日の取引終了時点(終値)でも確定したことが、複数の報道(UPI、CNBC、Fox Business、Yahoo Finance等)で確認されたという。ダウ平均は949.73ポイント(1.93%)安の48147.33で終了したとされる。ナスダック総合指数も、2026年の年間上昇分を帳消しにしたと報じられている。要因としては、エヌビディアなど半導体・AI関連株の急落(エヌビディアは約14%安との報道あり)が中心に挙げられているという。なお、週間の下落率や「何年以来最悪の週」といった評価は報道間で差があり(例:ある報道はダウの週間下落率を8%程度、別の報道は2020年3月以来最悪の週としている)、確定した統一的な評価は本稿作成時点では得られていない。[信頼性: 中](UPI、CNBC、Fox Business、Yahoo Finance等複数の報道、2026年11月20日終値時点)",
+      "en": "In US trading on Friday, November 20, 2026, the Dow Jones Industrial Average and S&P 500's move into 'correction territory' (roughly 10% below recent highs) — previously reported only as an intraday figure in the prior collection — was reportedly confirmed at the close, according to multiple outlets (UPI, CNBC, Fox Business, Yahoo Finance). The Dow reportedly closed down 949.73 points (1.93%) at 48,147.33. The Nasdaq Composite is reported to have erased its 2026 gains for the year. Cited drivers center on a sharp sell-off in semiconductor and AI-related stocks, with Nvidia reportedly down about 14%. Outlets differ on the week's characterization (e.g., one report cites an approximately 8% weekly decline for the Dow, while another calls it the worst week since March 2020); no single confirmed figure was available as of this writing. [Reliability: Medium] (UPI, CNBC, Fox Business, Yahoo Finance and others, as of the Nov 20, 2026 close)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-20T21:00:00+00:00",
+    "source": {
+      "name": "UPI / CNBC",
+      "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
     },
     "reliability": "medium"
   }
