@@ -63,27 +63,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-20-06",
-    "headline": {
-      "ja": "国際司法裁判所、ミャンマーのロヒンギャに対する「ジェノサイド」を認定 国家への同条約違反認定は史上初(11月19日)",
-      "en": "ICJ finds Myanmar committed genocide against Rohingya, first such ruling against a state under the Genocide Convention (Nov 19)"
-    },
-    "summary": {
-      "ja": "2026年11月19日(木)、国際司法裁判所(ICJ)が、ガンビアが提訴した「ガンビア対ミャンマー」事件で判決を出し、ミャンマー国軍によるラカイン州北部でのロヒンギャに対する弾圧が、1948年の集団殺害罪条約(ジェノサイド条約)に違反する「ジェノサイド」に該当するとの判断を示したという。国連ニュース(UN News)等によれば、判決は9対6の評決だったとされ、ICJが国家に対して条約違反としてジェノサイドを認定したのは史上初めてという。一方、ガンビア側が主張した「ミャンマーが私人を通じて公然とジェノサイドを教唆した」との訴えは認めなかったとされる。判決は最終的で拘束力を持つが、ICJに独自の強制執行手段はないという。ミャンマー側はこれまで、2017年の軍事作戦はロヒンギャの武装勢力による警察襲撃への対応だったとして、ジェノサイドを否定している。推測:判決が今後のミャンマー国軍・政権への実効的な制裁や行動につながるかどうかは、本稿執筆時点では不明。[信頼性: 高](国連ニュース、Al Jazeera等の報道、2026年11月19〜20日時点)",
-      "en": "The International Court of Justice (ICJ) reportedly ruled on Thursday, November 19, 2026, in the case The Gambia v. Myanmar, finding that Myanmar's military committed genocide against the Rohingya in northern Rakhine State, in violation of the 1948 Genocide Convention. According to UN News and other outlets, the judges voted 9-6, marking the first time the ICJ has held a state responsible for genocide under the Convention. The court reportedly rejected The Gambia's separate claim that Myanmar had directly and publicly incited genocide through private individuals. The ruling is final and binding, but the ICJ has no independent enforcement mechanism. Myanmar has consistently denied genocide, saying its 2017 operation targeted Rohingya militants who had attacked police posts. Speculation: whether the ruling will lead to concrete sanctions or action against Myanmar's government remains unclear as of this writing. [Reliability: High] (Reported by UN News, Al Jazeera and others as of Nov 19-20, 2026)"
-    },
-    "category": "conflict",
-    "country": "ミャンマー",
-    "lat": 21.9162,
-    "lon": 95.956,
-    "occurredAt": "2026-11-19T10:00:00+00:00",
-    "source": {
-      "name": "UN News / Al Jazeera",
-      "url": "https://news.un.org/en/story/2026/11/1168836"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-21-03",
     "headline": {
       "ja": "米国株、ダウ・S&P500が一時「調整局面」入り ナスダックも急落、AI懸念に地政学リスク重なる(11月20日)",
@@ -122,28 +101,6 @@
     "source": {
       "name": "UPI / CNBC",
       "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-21-06",
-    "headline": {
-      "ja": "米フロリダ州、セントジョンズ川が73年ぶりの観測史上最高水位を記録 歴史的豪雨による洪水が継続",
-      "en": "Florida's St. Johns River hits highest level in 73 years as historic flooding continues"
-    },
-    "summary": {
-      "ja": "米フロリダ州で11月上旬から続く記録的豪雨の影響で、セントジョンズ川(ブレバード郡ココア付近)が11月19日、1953年の観測開始以来73年ぶりとなる観測史上最高水位(約17.7〜18.0フィート、従来記録17.55フィートを超える)を記録したという事実を、複数の報道(AccuWeather、Fox35 Orlando、NBC Miami等)で確認した。デサンティス州知事は11月18日付でブロワード郡などを含む緊急事態宣言の対象郡を拡大し、ブロワード郡・マイアミデード郡等で水上救助が行われ、州兵も投入された。一部予測では洪水が2027年まで続く可能性があるとされる。なお11月3日時点の先行する豪雨では州内で2人の死亡が報告されている(最新波による死者数の更新は確認できず)。",
-      "en": "Record rainfall across Florida since early November pushed the St. Johns River near Cocoa (Brevard County) to its highest level on record on Nov. 19 — about 17.7-18.0 ft, surpassing the previous 1953 record of 17.55 ft — for the first time in 73 years, according to multiple reports (AccuWeather, Fox35 Orlando, NBC Miami, etc.). Gov. DeSantis expanded the state of emergency on Nov. 18 to cover more counties including Broward; water rescues took place in Broward and Miami-Dade, and the National Guard was deployed. Some forecasts say flooding could persist into 2027. Two deaths were reported from an earlier wave of flooding as of Nov. 3 (an updated death toll for the latest wave was not confirmed)."
-    },
-    "category": "disaster",
-    "country": "米国",
-    "region": "フロリダ州",
-    "lat": 27.7663,
-    "lon": -81.6868,
-    "occurredAt": "2026-11-19T10:15:00+00:00",
-    "source": {
-      "name": "AccuWeather / Fox35 Orlando / NBC Miami",
-      "url": "https://www.accuweather.com/en/severe-weather/st-johns-river-smashes-73-year-record-in-florida-with-flooding-that-could-last-into-2027/1961124"
     },
     "reliability": "medium"
   },
@@ -232,5 +189,92 @@
       "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-22-05",
+    "headline": {
+      "ja": "キーウ州ディミル村でロシア軍の無人機攻撃、5階建てアパートが損壊 複数人がなお瓦礫の下に(11月22日未明)",
+      "en": "Russian drone strike damages five-story apartment building in Dymer, Kyiv Oblast; several people feared still trapped under rubble (early Nov 22)"
+    },
+    "summary": {
+      "ja": "2026年11月22日(日)未明、ロシア軍の無人機がウクライナ北部キーウ州ヴィシホロド地区のディミル村を攻撃し、5階建てアパートが損壊したという。複数の報道(キーウ・インディペンデント等)によれば、地域の軍政当局は22歳の女性と子供1人が負傷したと発表し、建物は火災も発生して各階の住戸が「破壊された」とされる。ゼレンスキー大統領は「瓦礫の下にまだ人がいる可能性がある」と述べたという。負傷者数・瓦礫の下に取り残されたとされる人数については報道間で差があり(ある報道は負傷2人・最大14人が取り残された可能性、別の報道は死者1人・負傷2人とする)、本収集時点では統一的な数値は確認できていない。ウクライナ空軍によれば、同日未明にかけてロシア軍は186機の攻撃用無人機を発射し、161機を撃墜したとされる。キーウ州全体では過去24時間で30人が負傷したという。推測:最終的な死傷者数・救助状況は、報道間の食い違いもあり本収集時点では確定していない。[信頼性: 中](Kyiv Independent等複数の国際メディアが2026年11月22日の報道として伝えているが、死傷者・取り残され人数の具体的な数値には差がある)",
+      "en": "In the early hours of Sunday, November 22, 2026, a Russian drone reportedly struck the village of Dymer in the Vyshhorod district of Kyiv Oblast, northern Ukraine, damaging a five-story apartment building. Multiple outlets (including the Kyiv Independent) reported that the regional military administration said a 22-year-old woman and a child were injured, and that a fire broke out, leaving units on several floors 'destroyed.' President Zelensky reportedly said 'people may still be trapped under the rubble.' Reports vary on the casualty and trapped-person counts: one version cites two injured with up to 14 people possibly trapped, while another cites one death and two injured; no single confirmed figure was available as of this collection. Ukraine's Air Force said Russian forces launched 186 attack drones overnight, of which 161 were shot down, and regional authorities said 30 people were injured across Kyiv Oblast over the past 24 hours. Speculation: the final casualty toll and rescue outcome remain unconfirmed given discrepancies between outlets as of this writing. [Reliability: Medium] (Reported as of November 22, 2026 by multiple international outlets including the Kyiv Independent, though specific casualty and trapped-person figures differ)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ州(ディミル村)",
+    "lat": 50.833,
+    "lon": 30.333,
+    "occurredAt": "2026-11-22T02:00:00+00:00",
+    "source": {
+      "name": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-attacks-across-ukraine-injure-30-over-past-day-as-rescue-operation-continues-near-kyiv-after-drone-strike/"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-22-06",
+    "headline": {
+      "ja": "ホルムズ海峡でタンカー攻撃が急増 過去1週間で約25件、イランは「機雷に接触」と主張(米・イラン戦争が継続、11月21日)",
+      "en": "Tanker attacks surge in Strait of Hormuz, about 25 incidents in a week; Iran claims mine strike as US-Iran war continues (Nov 21)"
+    },
+    "summary": {
+      "ja": "2026年11月21日(土)、ホルムズ海峡のオマーン・ハサブ沖で、英海事貿易機構(UKMTO)が無人機または何らかの飛翔体による攻撃とみられる事案2件(1件は船尾、別の1件は機関室を損傷)を報告したという。複数の報道(Al Jazeera等)によれば、イラン海軍は、別の油タンカーが同海峡東側の規制区域で機雷に接触して火災を起こしたと主張しているが、この主張は独立した検証ができていないとされる。Al Jazeeraのテヘラン特派員によれば、イラン軍当局の発表に基づき、前の土曜日以降で約25件の事案(1日平均約3件)が報告されたという。この結果、11月12〜18日の同海峡の通航船舶数は263隻(開戦前の通常水準、1日約135隻を大きく下回る)となり、前週比約15%減となったとされる。この攻撃応酬は、2026年2月に始まったとされる米・イラン間の戦争(イスラエルも関与)の一環で、イラン革命防衛隊(IRGC)は11月中旬にバーレーンの米軍基地レーダーへの攻撃も主張しており、米国はイランの港湾封鎖・タンカー護衛のための艦艇派遣で対応しているという。推測:攻撃の実行主体・機雷の有無については当事者間で主張が対立し、本収集時点で確証できる第三者による検証はない。[信頼性: 中](Al Jazeera、UKMTO発表等に基づく2026年11月21〜22日の報道。イラン側の機雷接触の主張は未検証)",
+      "en": "On Saturday, November 21, 2026, the UK Maritime Trade Operations centre (UKMTO) reported two incidents near Khasab, Oman, in the Strait of Hormuz — apparently involving drones or projectiles, one striking a vessel's stern and another its engine room. Multiple outlets (including Al Jazeera) reported that Iran's navy separately claimed a different oil tanker caught fire after hitting a naval mine in a restricted area east of the strait, a claim that could not be independently verified. Al Jazeera's Tehran correspondent, citing Iranian military statements, said roughly 25 incidents had been reported since the previous Saturday — about three a day — and that traffic through the strait fell to 263 ships between November 12-18 (down about 15% week-on-week, and well below the roughly 135 ships per day seen before the war). The escalation is part of the US-Iran war reported to have begun in February 2026 (with Israeli involvement); Iran's Revolutionary Guard Corps (IRGC) also claimed to have struck radar installations at a US base in Bahrain in mid-November, while the US has responded by blockading Iranian ports and deploying naval vessels to escort tankers. Speculation: responsibility for the attacks and whether mines were actually involved remain disputed between the parties, with no independently confirmed account available as of this collection. [Reliability: Medium] (Reported Nov 21-22, 2026 based on Al Jazeera coverage and UKMTO statements; Iran's mine-strike claim is unverified)"
+    },
+    "category": "conflict",
+    "country": "ホルムズ海峡(国際水域)",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-21T10:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / UKMTO",
+      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-22-07",
+    "headline": {
+      "ja": "英国とEU、ブレクジット10年を経て関係「リセット」合意 食品検査撤廃・若者交流制度などで前進(11月20日)",
+      "en": "UK and EU agree 'reset' deal 10 years after Brexit, advancing food checks removal and youth mobility scheme (Nov 20)"
+    },
+    "summary": {
+      "ja": "2026年11月20日(金)、ブリュッセルでの首脳会合で、英国とEUが関係の「リセット」に合意したという。複数の報道(Al Jazeera等)によれば、英国のバーナム首相は「合意は成立した」と述べ、2016年の国民投票によるブレクジットから10年を経た節目での関係改善とされる。報道によれば、合意は3分野(動植物製品の貿易検査を撤廃する衛生植物検疫(SPS)協定、双方最大3年間就労可能な若者交流制度、両者の排出量取引制度を連結し鉄鋼等を相互の国境炭素課税から除外する枠組み)に及び、英国政府はSPS協定により英経済に51億ポンド(約67億ドル)相当の効果があると見積もっているという。EU加盟学生・英国人学生の学費については、今後6カ月以内の合意を目指すとされる。野党(リフォームUK)のファラージ党首はこれを「ブレクジットへの裏切り」と批判したと報じられている。推測:若者交流制度・排出量取引連結の具体的な発効時期や、学費交渉の行方は本収集時点では確定していない。[信頼性: 高](Al Jazeera等複数の国際メディアが2026年11月20日の報道として伝えている)",
+      "en": "At a summit in Brussels on Friday, November 20, 2026, the UK and EU reportedly agreed a 'reset' of relations. Multiple outlets (including Al Jazeera) reported UK Prime Minister Andy Burnham saying 'the deal is done,' coming a decade after the 2016 Brexit referendum. According to reports, the agreement covers three areas: a sanitary and phytosanitary (SPS) deal removing checks on trade in plant and animal products, a youth mobility scheme allowing people to live and work in each other's territory for up to three years, and a framework linking the two sides' emissions trading systems that would exempt goods such as steel from each other's border carbon levies. The UK government estimated the SPS deal alone is worth £5.1 billion ($6.7bn) to the British economy. The two sides reportedly set a six-month timeline to reach agreement on student fees for EU and UK students studying in each other's territory. Reform UK leader Nigel Farage was reported to have called the deal a 'Brexit betrayal.' Speculation: the exact implementation timeline for the youth mobility scheme and emissions-trading link, and the outcome of the student-fee negotiations, remain unconfirmed as of this collection. [Reliability: High] (Reported as of November 20, 2026 by multiple international outlets including Al Jazeera)"
+    },
+    "category": "economy",
+    "country": "イギリス",
+    "lat": 55.3781,
+    "lon": -3.436,
+    "occurredAt": "2026-11-20T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-22-08",
+    "headline": {
+      "ja": "インドネシア・バンテン州のお菓子工場で火災 3人死亡・36人不明、約60人が工場内に(11月22日)",
+      "en": "Fire at Indonesian sweets factory in Banten kills 3, leaves 36 missing; about 60 people were inside (Nov 22)"
+    },
+    "summary": {
+      "ja": "2026年11月22日(日)、インドネシア・ジャワ島西部バンテン州(首都ジャカルタに隣接)のお菓子・乳製品スナック(「ミルキタ」ブランド)製造工場「フォヌサ・アグン・ムリア」で火災が発生し、少なくとも3人が死亡、36人が行方不明になっているという。Al Jazeeraの報道によれば、インドネシア国家捜索救助庁(Basarnas)は、出火当時工場内に約60人がいたとし、少なくとも15人を救助(うち4人を病院搬送)したと発表したという。出火原因については、同国災害対応当局が調査中としている。推測:行方不明者・死者数は今後変動する可能性があり、出火の原因・経緯は本収集時点では明らかになっていない。[信頼性: 中](Al Jazeeraが2026年11月22日の報道として伝えている。発生から時間が浅く、被害数値は今後更新される可能性がある)",
+      "en": "On Sunday, November 22, 2026, a fire broke out at the Fonusa Agung Mulia factory — which makes milk-based snacks and sweets under the 'Milkita' brand — in Indonesia's Banten province on Java, which borders the capital Jakarta, reportedly killing at least three people and leaving 36 others missing. According to Al Jazeera, Indonesia's National Search and Rescue Agency (Basarnas) said about 60 people were inside the factory when the fire started, and that at least 15 people had been rescued, including four taken to hospital. The cause of the fire was reportedly under investigation by the national disaster agency. Speculation: the death and missing counts may change, and the cause and sequence of the fire had not been determined as of this collection. [Reliability: Medium] (Reported by Al Jazeera as of November 22, 2026; figures may be updated given how recently the fire occurred)"
+    },
+    "category": "disaster",
+    "country": "インドネシア",
+    "region": "バンテン州",
+    "lat": -6.12,
+    "lon": 106.1503,
+    "occurredAt": "2026-11-21T22:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
+    },
+    "reliability": "medium"
   }
 ]
