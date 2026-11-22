@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-69528",
+    "headline": {
+      "ja": "ウクライナ攻撃とみられる、ロシア貨物船バルト海で炎上",
+      "en": "Russian Cargo Ship Catches Fire in Gulf of Finland After Drone Attack"
+    },
+    "summary": {
+      "ja": "ロシア向けの貨物船がバルト海フィンランド沖でドローン攻撃を受けて炎上。フィンランド防衛軍はウクライナが犯人と見ている。",
+      "en": "A Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland after a drone attack that Finnish defense forces attribute to Ukraine."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-22T11:25:14+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "finland_gulf_russian_ship_drone_attack_2026-11-22"
+  },
+  {
+    "id": "auto-69290",
+    "headline": {
+      "ja": "イラン革命防衛隊が米軍ドローンを撃墜と発表",
+      "en": "Iran's IRGC Claims to Shoot Down U.S. MQ-1 Drone"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊は、ホルムズ海峡東方で米国のMQ-1延長航続型ドローンを撃墜したと発表した。イランが撃墜を主張する米ドローンはこれで20機目だという。",
+      "en": "Iran's Islamic Revolution Guards Corps (IRGC) announced it shot down a U.S. MQ-1 ER drone east of the Strait of Hormuz, claiming it was the 20th U.S. drone destroyed by Iran."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-22T09:20:39+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86329157/IRGC-shoots-down-20th-US-MQ-1-drone-east-of-Strait-of-Hormuz"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_hormuz_us_drone_incident_2026-11-22"
+  },
+  {
     "id": "auto-69150",
     "headline": {
       "ja": "ドライブレコーダーがウクライナ西部リヴィウへのロシアミサイル攻撃を捉える",
@@ -2294,190 +2340,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_belgorod_drone_attack_2026-11-15"
-  },
-  {
-    "id": "auto-60980",
-    "headline": {
-      "ja": "イラン、新攻撃への報復は「限定的でない」と警告",
-      "en": "Iran warns its response to any new attack 'will not be limited or short-lived'"
-    },
-    "summary": {
-      "ja": "イラン政府は、新たな攻撃に対する報復は「限定的でなく長引く」ことになると警告した。",
-      "en": "Iran warned that its response to any new attack will not be limited or short-lived."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-15T14:16:59+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2RiekM1T0x5ZGU0cXdjMWNkb1dxV29ENHA1QWhCbmtNQnR1ZnVja1hiX0tZWlVoMkpDODRKRnFCS05ZMGhTSnVFdmYyU3lJTHE4LTYweXJwRkg3T3Nqc1h2UzdWSi1sMUhRVGoxSlhBdmZZRTRRRGZPQXJUN3lfVkV1dVhRZjBjSW0wOUszWUlRcW9mUmc5RUttUnpqekZJSmlKTnBTWFQ0bEZjSGx5elk5elRtQUo3WTVCcTV5RQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_military_response_warning_2026-11-15"
-  },
-  {
-    "id": "auto-60653",
-    "headline": {
-      "ja": "バーレーン、イランの領土攻撃を非難",
-      "en": "Bahrain accuses Iran of territorial attack"
-    },
-    "summary": {
-      "ja": "バーレーンはイランによる領土への攻撃を非難し、イランが米国と協力する国への報復攻撃を正当化していると指摘した。",
-      "en": "Bahrain condemned Iranian attacks on its territory, stating Iran is retaliating against countries cooperating with the US."
-    },
-    "category": "conflict",
-    "country": "バーレーン",
-    "lat": 26.2279,
-    "lon": 50.5857,
-    "occurredAt": "2026-11-15T12:36:19+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_bahrain_missile_attack_2026-11"
-  },
-  {
-    "id": "auto-60053",
-    "headline": {
-      "ja": "イランがバーレーンの米軍レーダーに報復ドローン攻撃",
-      "en": "Iran launches retaliatory drone strikes on US military radar in Bahrain"
-    },
-    "summary": {
-      "ja": "イランの革命防衛隊は、バーレーンの米軍基地内の米軍レーダー施設に対する報復として6機のドローンを発射したと発表した。",
-      "en": "Iran's Islamic Revolutionary Guard Corps announced it launched six drones in a retaliatory strike against a US military radar installation at an air base in Bahrain."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-15T12:15:51+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_bahrain_radar_drone_attack_2026-11-15",
-    "severity": 4
-  },
-  {
-    "id": "auto-60054",
-    "headline": {
-      "ja": "ヘブロン工業地区の封鎖がパレスチナ経済を脅かす",
-      "en": "Siege on Hebron industrial zone threatens Palestinian economy"
-    },
-    "summary": {
-      "ja": "イスラエルがヨルダン川西岸占領地のパレスチナ経済を弱める措置を講じており、ヘブロンのベイト・ウラ工業地区への包囲がパレスチナの事業に深刻な影響を与えている。",
-      "en": "Israeli measures against Palestinian businesses in the occupied West Bank, including a siege on Hebron's Beit Ula industrial zone, threaten the Palestinian economy."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5294,
-    "lon": 35.0938,
-    "occurredAt": "2026-11-15T12:02:45+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_hebron_siege_economic_2026-11-15"
-  },
-  {
-    "id": "auto-60039",
-    "headline": {
-      "ja": "ヨルダンの教会銃撃事件で死刑判決",
-      "en": "Three sentenced to death in Jordan church shooting"
-    },
-    "summary": {
-      "ja": "ヨルダン正教会での葬儀中の銃撃事件で9人が殺害された事件について、3人に死刑判決が言い渡された。",
-      "en": "Three men sentenced to death in connection with a fatal attack on a funeral at a Greek Orthodox church that killed nine people."
-    },
-    "category": "conflict",
-    "country": "ヨルダン",
-    "lat": 31.9552,
-    "lon": 35.945,
-    "occurredAt": "2026-11-15T11:06:32+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "jordan_church_shooting_death_sentences_2026-11-15"
-  },
-  {
-    "id": "auto-60059",
-    "headline": {
-      "ja": "米国がウクライナにドンバス割譲とNATO加盟の取引を提案か",
-      "en": "Could new US pitch work for Ukraine, Russia? Donbas trade for NATO seat proposed"
-    },
-    "summary": {
-      "ja": "ウクライナのNATO加盟志向はクレムリンにとって赤い線であり、領土放棄はウクライナにとって譲歩できない問題であるなか、米国が提案する新たな和平案がこの膠着状況を打開できるかが注目されている。",
-      "en": "As Ukraine seeks NATO membership and Russia opposes it, while Ukraine refuses territorial concessions, a new US proposal for trading Donbas territory for NATO membership could potentially break the deadlock."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-15T10:58:36+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_donbas_nato_negotiation_2026-11-15"
-  },
-  {
-    "id": "auto-60590",
-    "headline": {
-      "ja": "ウクライナ製固定翼ドローン1065機撃墜",
-      "en": "Russian military downs 1,065 Ukrainian drones"
-    },
-    "summary": {
-      "ja": "ロシア国防省は、ウクライナ軍の固定翼ドローン1065機を撃墜したと発表した。",
-      "en": "Russian Defense Ministry claims to have shot down 1,065 Ukrainian fixed-wing drones."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-15T10:28:21+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkTEV5Qm1HVV9rcUs4ekpsMjlxYzdEbkRGY2dkZUprcG9nUEcxdlBNRDZvdnpwbTVxY2Zwa0dnWkZUQ3lGSTFZMVJjWmPSAUxBVV95cUxQZExFeUJtR1Vfa3FLOHpKbDI5cWM3RG5ERmNnZGVKa3BvZ1BHMXZQTUQ2b3Z6cG01cWNmcGtHZ1pGVEN5RkkxWTFSY1pj?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_russia_drone_warfare_2026-11"
-  },
-  {
-    "id": "auto-60063",
-    "headline": {
-      "ja": "スーダンで発電所へのドローン攻撃、複数都市が停電",
-      "en": "Drone attacks target Sudan's power stations, causing widespread blackouts"
-    },
-    "summary": {
-      "ja": "スーダンの複数の発電所がドローン攻撃の対象となり、都市部の停電が相次いでいる。",
-      "en": "Sudan's power stations are being targeted in waves of drone attacks, causing widespread power outages in cities."
-    },
-    "category": "conflict",
-    "country": "スーダン",
-    "lat": 15.5518,
-    "lon": 32.5324,
-    "occurredAt": "2026-11-15T09:59:37+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "sudan_power_infrastructure_attack_2026-11-15"
   }
 ]
