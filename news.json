@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-19-08",
-    "headline": {
-      "ja": "トランプ・習近平・プーチン3氏、深センで史上初の三者会談 ロシア側「石油・ガス増産に合意」と発表",
-      "en": "Trump, Xi and Putin hold first-ever trilateral meeting in Shenzhen; Russia says leaders agreed to boost oil and gas output"
-    },
-    "summary": {
-      "ja": "2026年11月19日、中国・深センで開催中のAPEC首脳会議に合わせ、トランプ米大統領・習近平国家主席・プーチン露大統領による史上初の三者会談が行われたという。複数の報道(NPR、CBSニュース、NBCニュース、Al Jazeera、CNBC等)によれば、会談は深センの「麒麟別荘」で行われ、トランプ氏とプーチン氏の2者会談(42分間)、トランプ氏と習氏の会談(約1時間)に続き、3者でのトリラテラル協議が約1時間半行われたとされる。ロシア側(ロシア政府関係者)の発表によれば、3氏は石油・ガスの増産で合意し、「核戦争に勝者はいない」との認識を再確認したとされ、ウクライナ情勢についてもトランプ・プーチン両氏が「平和的解決を目指す」との立場を確認したとロシア側は説明したという。習氏はトランプ氏に、米中関係は「安定し改善している」と伝えたとも報じられている。推測:会談が実際に行われたこと自体は複数の米主要メディアが確認しているが、具体的な合意内容(石油・ガス増産、核戦争に関する言及)はロシア側の発表が主な出典であり、米側・中国側による独立した確認は本稿執筆時点で確認できていない。[信頼性: 中](NPR、CBSニュース、NBCニュース、Al Jazeera、CNBC等複数の国際メディアが2026年11月18〜19日の報道として伝えている。会談実施自体は高確度だが、合意内容の詳細はロシア側発表に依拠)",
-      "en": "On November 19, 2026, US President Trump, Chinese President Xi Jinping and Russian President Putin reportedly held their first-ever trilateral meeting on the sidelines of the APEC leaders' summit in Shenzhen, China. Multiple outlets (NPR, CBS News, NBC News, Al Jazeera, CNBC) reported the meeting took place at Shenzhen's Kylin Villa, with a Trump-Putin bilateral (42 minutes) and a Trump-Xi meeting (about an hour) followed by a roughly 90-minute trilateral session. According to Russian officials, the three leaders agreed to boost oil and gas production and reaffirmed that 'there are no winners in a nuclear war'; a Russian diplomat also said Trump and Putin affirmed a commitment to a peaceful resolution of the Ukraine conflict, per Russia's characterization. Xi reportedly told Trump that US-China relations were 'stable and improving.' Speculation: that the meeting itself occurred is confirmed by multiple major US outlets, but the specific outcomes (oil/gas output agreement, the nuclear-war statement) are sourced mainly from the Russian side and have not been independently confirmed by the US or China as of this writing. [Reliability: Medium] (Reported Nov 18-19, 2026 by multiple outlets including NPR, CBS News, NBC News, Al Jazeera and CNBC; the meeting's occurrence is well-confirmed, but outcome details rely on the Russian account)"
-    },
-    "category": "conflict",
-    "country": "中国",
-    "region": "深セン市",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "occurredAt": "2026-11-19T07:00:00+00:00",
-    "source": {
-      "name": "NPR / CBSニュース / NBCニュース / Al Jazeera / CNBC",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-20-01",
     "headline": {
       "ja": "Anthropic株、ナスダック初値111.50ドル IPO価格から34%高、史上最大のIPOで約813億ドルを調達(11月19日)",
@@ -41,28 +19,6 @@
       "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
     },
     "reliability": "high"
-  },
-  {
-    "id": "2026-11-20-02",
-    "headline": {
-      "ja": "トランプ・習近平・プーチン3氏の三者会談終了、米主要メディアは「成果乏しい」と評価 クレムリン発表は核リスク低減の対話継続、ウクライナに関する合意言及なし(11月19日)",
-      "en": "Trump-Xi-Putin trilateral concludes with little substantive outcome, US media say; Kremlin readout cites nuclear-risk dialogue, no Ukraine deal mentioned (Nov 19)"
-    },
-    "summary": {
-      "ja": "2026年11月19日、中国・深センで開催されたAPEC首脳会議に合わせて行われたトランプ米大統領・習近平国家主席・プーチン露大統領の史上初の三者会談(深セン・麒麟別荘、約90分間)が終了したという。複数の米主要メディア(AP通信、CBSニュース等)は、会談自体は実現したものの、世界の重要課題について具体的な進展はほとんど見られなかったと報じ、発表された内容は「実質よりも象徴性が強い」と評価したという。ロシア側(クレムリン)の発表によれば、3氏は核リスクの低減・核不拡散について対話を続けることや、戦略的安定・国連改革への取り組みを再確認したとされる一方、ウクライナ戦争の停戦や核軍縮そのものについての具体的な合意には触れられていないという。中国側(新華社通信)はこの会談を「積極的で有益だった」と評価したと報じられている。ホワイトハウスとしての公式な会談結果の発表内容は、本稿執筆時点では確認できていない。推測:会談の開催自体・約90分間という協議時間は複数の米主要メディアが確認しているが、会談内容の評価(成果の有無)は報道機関の論調による差があり、具体的な合意事項の有無についてはロシア・中国側の発表に依拠する部分が大きい。[信頼性: 中](AP通信、CBSニュース等複数の国際メディアが2026年11月19日の報道として伝えている)",
-      "en": "On November 19, 2026, the first-ever trilateral meeting between US President Trump, Chinese President Xi Jinping and Russian President Putin — held at Shenzhen's Kylin Villa on the sidelines of the APEC leaders' summit and lasting about 90 minutes — reportedly concluded. Multiple major US outlets (AP, CBS News) reported that while the meeting itself took place, it appeared to achieve little on major global issues, describing the published accounts as more symbolism than substance. According to the Kremlin's readout, the three leaders agreed to continue dialogue on reducing nuclear risk and nuclear non-proliferation, and reaffirmed commitments to strategic stability and UN reform, but the readout reportedly made no mention of any agreement on a Ukraine ceasefire or concrete nuclear arms reductions. China's Xinhua news agency reportedly described the talks as 'positive and fruitful.' No official White House readout of the meeting's outcome had been found as of this writing. Speculation: that the meeting occurred and lasted about 90 minutes is confirmed by multiple major US outlets, but assessments of its substance vary by outlet, and the specifics of any agreements rely mainly on the Russian and Chinese accounts. [Reliability: Medium] (Reported as of November 19, 2026 by multiple international outlets including AP and CBS News)"
-    },
-    "category": "conflict",
-    "country": "中国",
-    "region": "深セン市",
-    "lat": 22.5431,
-    "lon": 114.0579,
-    "occurredAt": "2026-11-19T08:00:00+00:00",
-    "source": {
-      "name": "AP通信 / CBSニュース",
-      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
-    },
-    "reliability": "medium"
   },
   {
     "id": "2026-11-20-03",
@@ -253,6 +209,27 @@
     "source": {
       "name": "Taipei Times / Focus Taiwan",
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868040"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-22-04",
+    "headline": {
+      "ja": "NATO事務総長ラッテ氏、ポーランド領空侵入を「危険」と公式に非難 クリヴィーリフ攻撃と同時期、ポーランド首相は「意図的な挑発」の可能性に言及",
+      "en": "NATO chief Rutte officially condemns Polish airspace violation as 'dangerous,' as Poland's PM cites possible 'deliberate provocation' timed with Kryvyi Rih strike"
+    },
+    "summary": {
+      "ja": "2026年11月20日(金)夜のクリヴィーリフへの弾道ミサイル攻撃(既報、2026-11-22-01)とほぼ同時期に、ロシアのミサイル2発と無人機1機とみられる機体がポーランド領空に侵入したとされる件について、NATO事務総長マルク・ルッテ氏がワルシャワでの発言として、この領空侵入を「危険」だと述べ、NATOはポーランド領土を「一寸残らず」防衛すると表明し、同盟はポーランドと「完全な連帯」にあると述べたという事実を、複数の報道(AP通信、CBC、ABCニュース等)で確認し、新規採用した。前回収集時点ではワシントン・ポストの報道のみに基づき、ポーランド政府の公式発表・詳細は未確認として推測扱いとしていたが、NATO事務総長による公式な言及が確認されたため、ここで新規記事として採用する。報道によれば、ポーランドの首相は、この領空侵入が、欧州各国が参加し11月9日からポーランド南東部で実施されている2週間規模の軍事演習(戦後のウクライナ平和維持任務を想定したものとされる)の時期に合わせた「意図的な挑発」である可能性を指摘したという。推測:領空侵入の具体的な経路・被害の有無など詳細はなお確認できていない。[信頼性: 高](AP通信、CBC、ABCニュース等複数の国際メディアが2026年11月21〜22日の報道として伝えている)",
+      "en": "Around the same time as the ballistic missile strike on Kryvyi Rih on the night of Friday, November 20, 2026 (already reported, id 2026-11-22-01), two Russian missiles and a suspected drone reportedly entered Polish airspace. Multiple outlets (AP, CBC, ABC News) reported that NATO Secretary-General Mark Rutte, speaking in Warsaw, called the airspace violation 'dangerous,' said NATO would defend 'every inch' of Polish territory, and stated the alliance stood in 'full solidarity' with Poland. The prior collection cycle had treated this airspace incursion as unconfirmed speculation based only on a Washington Post report, with no official Polish government statement found; it is adopted here as a new item now that an official NATO statement has been confirmed. Reports said Poland's prime minister suggested the incursion may have been a 'deliberate provocation' timed to coincide with a two-week multinational military exercise under way in southeastern Poland since November 9, reportedly intended to prepare for a possible postwar peacekeeping mission in Ukraine. Speculation: further details, including the missiles' exact flight path and whether any damage occurred, remain unconfirmed. [Reliability: High] (Reported Nov 21-22, 2026 by multiple international outlets including AP, CBC and ABC News)"
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 51.9194,
+    "lon": 19.1451,
+    "occurredAt": "2026-11-21T12:00:00+00:00",
+    "source": {
+      "name": "AP通信 / CBC / ABCニュース",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164"
     },
     "reliability": "high"
   }
