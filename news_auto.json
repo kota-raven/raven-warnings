@@ -486,6 +486,29 @@
     "eventKey": "russia_sloviansk_airstrike_ukraine_nov2026"
   },
   {
+    "id": "auto-68572",
+    "headline": {
+      "ja": "ロシア、ウクライナのエネルギー施設に夜間攻撃",
+      "en": "Russia strikes Ukrainian energy facilities overnight"
+    },
+    "summary": {
+      "ja": "ウクライナ国防省によると、ロシア軍がウクライナのエネルギー関連施設に対して夜間に攻撃を実施した。",
+      "en": "According to Ukrainian defense ministry, Russian forces conducted overnight strikes on Ukrainian energy infrastructure."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-21T11:16:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pbjBFZ1UxT3Q3V3NXN2F4U21rV1l4MmdGc1NSODVpOEtEaXVBcUdJMHppcjZsOF8xMW5xY0psalUtcm1hQjlJdVZhVXFPZjRxYWctWWdfV1FKdkRxT29Lc0M5VWoyRXdhOUZCU3V5dWh5MEFMLTF4UGNGT0E?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_ukraine_energy_strike_2026-11-21"
+  },
+  {
     "id": "auto-68422",
     "headline": {
       "ja": "イラン、ホルムズ海峡のカシム島周辺でミサイル攻撃",
@@ -2247,28 +2270,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "israel_gaza_humanitarian_aid_2026-11"
-  },
-  {
-    "id": "auto-60672",
-    "headline": {
-      "ja": "フーシ派、600人の戦争捕虜を一方的に解放",
-      "en": "Yemen Houthis unilaterally release 600 war detainees"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派勢力は、内戦中に投獄されていた600人を一方的に解放した。",
-      "en": "Houthi forces in Yemen have unilaterally released 600 people detained during the civil war."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-15T21:19:08+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthis_detainee_release_2026-11"
   }
 ]
