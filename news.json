@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-20-01",
-    "headline": {
-      "ja": "Anthropic株、ナスダック初値111.50ドル IPO価格から34%高、史上最大のIPOで約813億ドルを調達(11月19日)",
-      "en": "Anthropic shares open at $111.50 on Nasdaq debut, up 34% from IPO price, in record ~$81.3B offering (Nov 19)"
-    },
-    "summary": {
-      "ja": "2026年11月19日(木)、AI企業Anthropicの株式がナスダックに銘柄コード「ANT」で新規上場し、取引を開始したという。複数の報道(CNN、Fox News、NBCニュース、Yahoo Finance、The Motley Fool等)によれば、前日に決定したIPO価格(1株83ドル)から約34%高い111.50ドルで取引が始まったとされる。IPOによる調達額は約813億ドルとなり、史上最大規模の新規株式公開になったという。需要は想定の6倍超に上ったとも報じられている。取引開始後、株価はいったん伸びを縮小し、報道によっては取引開始から間もなく100ドルを割り込んだとする情報もある。評価額については報道間で差があり、CNN・Yahoo Financeは取引開始価格ベースで約2兆ドルとする一方、別の集計では取引開始前のIPO価格ベースで約1.51兆ドルとしている。推測:取引開始の正確な時刻(米東部時間午前か、通常取引開始の午前9時半か)、終値・当日の最終的な株価動向については、本稿執筆時点(日本時間11月20日早朝)では確認できていない。[信頼性: 高](CNN、Fox News、NBCニュース、Yahoo Finance、The Motley Fool等複数の主要メディアが2026年11月19日の報道として伝えている。評価額の具体的な数値には媒体間で差がある)",
-      "en": "On Thursday, November 19, 2026, shares of AI company Anthropic reportedly began trading on the Nasdaq under the ticker 'ANT' following its initial public offering. Multiple outlets (CNN, Fox News, NBC News, Yahoo Finance, The Motley Fool) reported that the stock opened at $111.50, about 34% above the $83-a-share IPO price set the previous evening. The offering reportedly raised about $81.3 billion, making it the largest IPO on record; demand was said to have been oversubscribed by more than six times. Gains reportedly narrowed as the session went on, with some reports saying shares dipped back below $100 shortly after the open. Valuation figures vary across outlets: CNN and Yahoo Finance cite roughly $2 trillion based on the opening trade, while another figure of about $1.51 trillion is based on the pre-trading IPO price. Speculation: the exact opening time (whether tied to the regular 9:30am ET market open or a later time cited in some reports) and the stock's closing price for the day were not confirmed as of this writing (early morning of Nov 20 JST). [Reliability: High] (Reported as of November 19, 2026 by multiple major outlets including CNN, Fox News, NBC News, Yahoo Finance and The Motley Fool; valuation figures differ by outlet)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-19T16:00:00+00:00",
-    "source": {
-      "name": "CNN / Fox News / NBCニュース / Yahoo Finance / The Motley Fool",
-      "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-20-03",
     "headline": {
       "ja": "Anthropic株、初日終値は97.17ドル IPO価格から17%高・評価額1.76兆ドルに(ナスダック全体は約2%安)",
@@ -274,6 +253,28 @@
     "source": {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-23-01",
+    "headline": {
+      "ja": "イスラエル軍、ガザ市テル・アル・ハワ地区で車両を空爆 3人死亡、援助物資運搬車両の可能性(11月21日)",
+      "en": "Israeli strike hits vehicle in Gaza City's Tel al-Hawa district, killing 3; vehicle reportedly carrying aid supplies (Nov 21)"
+    },
+    "summary": {
+      "ja": "2026年11月21日(土)、イスラエル軍がガザ市テル・アル・ハワ地区で車両を空爆し、ガザ保健省・市民防衛によれば3人が死亡したという。複数の報道(CBC、RTEなど)によれば、車両は食料品や「ワールド・セントラル・キッチン(WCK)」のロゴが付いた書類を運んでいたとされる。イスラエル軍は、パレスチナ・イスラミック・ジハード(PIJ)の活動家3人を標的にしたと説明し、対象者らが援助活動員であるかのように偽装していたと主張しているが、目撃者はこの説明に異論を唱えているという。ハマスは、停戦の調停国・保証国による緊急会合の開催を求めたという。推測:車両が実際に援助物資を運搬していたか、イスラエル軍の説明のいずれが正確かは本収集時点で確証できない。[信頼性: 中](CBC、RTE等の報道に基づく。死者数・車両の実態について当事者間で主張が対立)",
+      "en": "On Saturday, Nov 21, 2026, the Israeli military struck a vehicle in Gaza City's Tel al-Hawa district; Gaza's Health Ministry and civil defense said three people were killed. Multiple outlets (CBC, RTE) reported the vehicle was carrying food supplies and papers bearing a World Central Kitchen (WCK) logo. The Israeli military said it targeted three Palestinian Islamic Jihad operatives it says were falsely posing as aid workers, an account witnesses dispute. Hamas called for an urgent meeting of ceasefire mediators and guarantors. Speculation: whether the vehicle was actually carrying aid, or which side's account is accurate, cannot be confirmed as of this collection. [Reliability: Medium] (Based on CBC, RTE reporting; the death toll and nature of the vehicle are disputed between the parties.)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ市",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-11-21T10:00:00+00:00",
+    "source": {
+      "name": "CBC News",
+      "url": "https://www.cbc.ca/news/world/israel-strike-gaza-vehicle-9.7431224"
     },
     "reliability": "medium"
   }
