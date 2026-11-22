@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-69674",
+    "headline": {
+      "ja": "リビア港湾のロシア艦、ドローン攻撃被害か",
+      "en": "Russian ship at Libya port damaged in suspected drone attack"
+    },
+    "summary": {
+      "ja": "リビア東部政府がロシア艦への爆発をドローン攻撃と述べており、ロシア政府と共同で調査を進めている。",
+      "en": "Libya's eastern government says a Russian ship was hit by a drone attack at the port and is investigating with Russia."
+    },
+    "category": "conflict",
+    "country": "リビア",
+    "lat": 32.8874,
+    "lon": 13.1873,
+    "occurredAt": "2026-11-22T16:05:25+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "libya_russian_ship_drone_attack_2026-11-22"
+  },
+  {
+    "id": "auto-69739",
+    "headline": {
+      "ja": "イエメン各地の攻撃で5人死亡、18人負傷",
+      "en": "Five killed, 18 injured in Yemen attacks"
+    },
+    "summary": {
+      "ja": "イエメン各地での航空撃とHouthisドローン攻撃により5人が死亡し18人が負傷した。",
+      "en": "Airstrikes and Houthi drone attacks across Yemen killed five and injured 18 people."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-22T15:15:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HYmI1SkVEeHNJMmhRWlZlQVVNbDZ4djgtWFJZdzhtY043LVVPdjEtSFJzOFBMNXcwOFh4RU1PcFpudWozdzV1QWppVUoycXdIOFVXcHIyZ1FHRnhWaUpjdkViczRGaFpOdEMtLUpSWVItSDZ3OHhuczFuMGQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_airstrikes_houthi_drone_attack_2026-11-22"
+  },
+  {
+    "id": "auto-69678",
+    "headline": {
+      "ja": "スーダン首都ドローン攻撃で4人死亡、国連施設被害",
+      "en": "Four killed in drone attacks on Sudan's capital, UN building damaged"
+    },
+    "summary": {
+      "ja": "Rapid Support Forces（RSF）がハルツーム周辺にドローン攻撃を実施。4人が死亡し、国連事務所と政府建物が被害を受けた。",
+      "en": "Rapid Support Forces carried out drone attacks near Khartoum, killing four people and damaging UN and government buildings."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-22T15:03:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_khartoum_rsf_drone_attack_2026-11-22"
+  },
+  {
+    "id": "auto-69680",
+    "headline": {
+      "ja": "ウクライナ、ロシアドローン攻撃で3人死亡",
+      "en": "Russia drone attacks kill three in Ukraine"
+    },
+    "summary": {
+      "ja": "ロシアのドローン攻撃によりキーウ近郊で2人、ザポロージャで1人が死亡した。ウクライナ大統領はPatriotミサイルの供給をアメリカに促促している。",
+      "en": "Russian drone attacks killed at least two people near Kyiv and one in Zaporizhzhia region. Zelenskyy urged the US to release Patriot missiles."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-22T14:48:50+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_russian_drone_attack_2026-11-22"
+  },
+  {
     "id": "auto-69528",
     "headline": {
       "ja": "ウクライナ攻撃とみられる、ロシア貨物船バルト海で炎上",
@@ -2178,167 +2270,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "yemen_houthis_detainee_release_2026-11"
-  },
-  {
-    "id": "auto-60675",
-    "headline": {
-      "ja": "イスラエルのガザ停戦実施を強制する者は誰か",
-      "en": "Who can force Israel to implement Gaza ceasefire"
-    },
-    "summary": {
-      "ja": "パレスチナ領土にはハリケーンが襲来し、イスラエルは人道支援物資の搬入を制限し続けている。",
-      "en": "Storms hit Palestinian territory while Israel continues to restrict humanitarian aid entry into Gaza."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-15T20:37:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_gaza_ceasefire_enforcement_2026-11"
-  },
-  {
-    "id": "auto-60678",
-    "headline": {
-      "ja": "アフリカCDC、DR Congo Ebola感染は制御下にない",
-      "en": "Africa CDC warns Ebola outbreak in DR Congo 'still not under control'"
-    },
-    "summary": {
-      "ja": "アフリカCDCは、コンゴ民主共和国でのエボラ感染が制御下にあると述べ、対策を講じないと過去最悪の流行になる可能性があると警告した。",
-      "en": "Africa CDC warns that if the Ebola outbreak in DR Congo is not stopped, it could become the worst outbreak on record."
-    },
-    "category": "disaster",
-    "country": "コンゴ民主共和国",
-    "lat": -4.3276,
-    "lon": 15.3136,
-    "occurredAt": "2026-11-15T20:07:06+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "drc_ebola_outbreak_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-60981",
-    "headline": {
-      "ja": "モサド長官、イラン協議後イスラエル帰国・ネタニャフに報告予定",
-      "en": "Mossad chief returns to Israel after US talks on Iran, set to brief Netanyahu"
-    },
-    "summary": {
-      "ja": "イスラエルの情報機関モサドの長官がイラン関連の米国との協議を終えてイスラエルに帰国し、ネタニャフ首相への報告を予定している。",
-      "en": "Mossad chief returned to Israel after US talks on Iran and is set to brief Netanyahu."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-15T18:38:16+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFhJVkhNM25VajlTeS1sSVhCaHF3MS1YWDRFR2pma1F5NjRPbzhFbzl1UjdtM0xaLUNYZjNyRTdSaEg3TjlURFZUeU1RNVFhejROUk1xOWFmQkNMWHh0RHhVcUtHblktdzg2a3M0am5ta2lmNENuRW91QW9icmdydHlqUWpjdzNpSGo0eXhZdVJOQkdlcklZQmpuYVdpeEsxVnJEUWNubGt3SS1rVWtTOWRUNEYxTGtJZ1RmSFhLZTFCQXVHUVU4?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_mossad_iran_talks_2026-11-15"
-  },
-  {
-    "id": "auto-60910",
-    "headline": {
-      "ja": "UAE、イランのバーレーン攻撃を非難",
-      "en": "UAE Strongly Condemns Renewed Hostile Iranian Attack on Bahrain"
-    },
-    "summary": {
-      "ja": "UAE政府はイランによるバーレーンへの敵対的攻撃を強く非難した。",
-      "en": "The UAE government strongly condemned Iran's renewed hostile attack on Bahrain."
-    },
-    "category": "conflict",
-    "country": "アラブ首長国連邦",
-    "lat": 24.4512,
-    "lon": 54.397,
-    "occurredAt": "2026-11-15T18:25:41+00:00",
-    "source": {
-      "name": "UAE 外務省(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51Zk1Ec1dfSmhDZklCR0UyU0prc2p4bFZyeVY0VUdpaXR5SzF1ZG1ISEx3RUdCQU5YSUxudElvM2JncVhzcUVmNW9GTWxvTjhta0lkV2ZqOHh2RGRXZkVEbzJtUmJjQzBqM3ZkaEZaOXA?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_bahrain_hostile_action_2026-11-15"
-  },
-  {
-    "id": "auto-60962",
-    "headline": {
-      "ja": "米航空母艦セオドア・ルーズベルト、中東への展開を継続",
-      "en": "USS Theodore Roosevelt to join 2 US aircraft carriers in Middle East"
-    },
-    "summary": {
-      "ja": "米国防総省がセオドア・ルーズベルト空母を含む複数の米空母を中東に配備することを発表した。",
-      "en": "The USS Theodore Roosevelt will join 2 other US aircraft carriers in the Middle East deployment within the next day."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-15T17:20:03+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnlkaGJRSldTa01yWTJjOVVIbk9TRzJlLWZ2Q0JXcVhkeDhCUkZpUGN6aTNiVFV4NWpXQXlIVlJFUXg4Qi1XSm5fbzZWcUxYWnVNdHhDRFpfZXBNeFllX2lIQjNZUVhNbXpFZXhzNnNJXzU0d2tfVm5tQ0NaaW1uTjIyelVqbkhJNGg3SWxZUGtPUkk2NTh4SWZMdFZ2b081LXdqRjYzbnBONWg5alJ1OWZ3QXFDYXA1Z3d6b0I4Y1dtdGJxcHRXOXlWSVRpZw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_military_carrier_deployment_2026-11-15"
-  },
-  {
-    "id": "auto-60963",
-    "headline": {
-      "ja": "イラン政府、「戦争でも平和でもない」状態からの脱却を主張",
-      "en": "Iran says won't remain in 'neither war nor peace' state"
-    },
-    "summary": {
-      "ja": "イラン政府は、現在の「戦争でも平和でもない」状態から脱却する必要があると主張した。",
-      "en": "Iran stated it will not remain in the current 'neither war nor peace' state indefinitely."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-15T17:01:06+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzQxMnNCeVdseGFaSHMyNzRiR3F5eGNwVTA1cUlFVHFkQmRUT24zVENMYzNlaHJDQ1JGOWRTMEFpX0ZTc29UYWNxRDJ2eUxSdHFQckNpTmpFSS1rY0FMQnlJdV85cWR0dDZSanQzTFU2Q2pidGpaLTY2WG45UksyeEVSSTVjOVdELVdzNUlxYXBfM0tvSmhLQUhYNy1NNEU?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_military_posture_2026-11-15"
-  },
-  {
-    "id": "auto-61120",
-    "headline": {
-      "ja": "ベルゴロド州でウクライナドローン攻撃により民間人3人負傷",
-      "en": "Three civilians injured in Ukraine's drone attacks in Belgorod Region"
-    },
-    "summary": {
-      "ja": "ロシア側の報告によると、ウクライナ軍のドローン攻撃によってロシア西部のベルゴロド州で民間人3人が負傷した。",
-      "en": "According to Russian reports, three civilians were wounded in drone attacks by Ukrainian forces in Russia's Belgorod Region."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 50.6034,
-    "lon": 36.5809,
-    "occurredAt": "2026-11-15T16:36:50+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90MHhhM3FaU29mWE04Wk9sWXY3a2hFQ2ZhbzJxWkJyTXlqbHZOd2YxNmRLYWVyWnVpMTNKUk9xOVpJR0xYbHMyRUFWcHk2OWpYb1HSAVJBVV95cUxPdDB4YTNxWlNvZlhNOFpPbFl2N2toRUNmYW8ycVpCck15amx2TndmMTZkS2Flclp1aTEzSlJPcTlaSUdMWGxzMkVBVnB5NjlqWG9R?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_belgorod_drone_attack_2026-11-15"
   }
 ]
