@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-69150",
+    "headline": {
+      "ja": "ドライブレコーダーがウクライナ西部リヴィウへのロシアミサイル攻撃を捉える",
+      "en": "Dashcam captures Russian missile strike on Lviv, Ukraine"
+    },
+    "summary": {
+      "ja": "ウクライナ西部リヴィウへのロシアミサイル攻撃の瞬間がドライブレコーダーに記録された。",
+      "en": "Dashcam footage captured the moment a Russian missile struck a residential area in Lviv, western Ukraine."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 49.8383,
+    "lon": 24.0232,
+    "occurredAt": "2026-11-22T07:59:29+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_lviv_missile_strike_ukraine_nov2026"
+  },
+  {
     "id": "auto-68467",
     "headline": {
       "ja": "イラン革命警衛隊、バーレーンの米国防衛レーダーを攻撃と発表",
@@ -22,6 +45,76 @@
     "auto": true,
     "eventKey": "iran_bahrain_us_radar_strike_2026-11-21",
     "severity": 4
+  },
+  {
+    "id": "auto-68549",
+    "headline": {
+      "ja": "イラン防衛隊がバハレーンの米軍基地2カ所をミサイル攻撃と発表",
+      "en": "Iran's IRGC claims missile attack on two U.S. military bases in Bahrain"
+    },
+    "summary": {
+      "ja": "イランのイスラム革命防衛隊(IRGC)は、バハレーンにある米国の軍事基地2カ所をミサイルとドローンで攻撃したと発表した。",
+      "en": "Iran's Islamic Revolutionary Guard Corps announced striking two U.S. military bases in Bahrain with missiles and drones."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-22T03:11:16+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04aDBKWDJ2NUdDTjQ0Vy1qV1RTb29ENXcyMm9vSVZIa0ZIWExYaE5Od0tZdlp5WU9SWWdrWXlFVXdFVTNXQ1FfaFd5TldKMW1FdEVrdDlhSEtiaDVheE5Rd2JqM291LWQ5NlNBeDJQOVlJZ0UzZ0lULUpMLTM?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_irgc_us_bases_bahrain_attack_nov2026",
+    "severity": 4
+  },
+  {
+    "id": "auto-68555",
+    "headline": {
+      "ja": "インドネシアの菓子工場火災で約40人が行方不明",
+      "en": "Around 40 workers missing after candy factory fire in Indonesia"
+    },
+    "summary": {
+      "ja": "インドネシアで菓子工場の火災が発生し、約40人の労働者が行方不明になっている。火災原因と被害規模は調査中。",
+      "en": "A fire at a candy factory in Indonesia has left approximately 40 workers missing, with investigation ongoing into the cause and extent of damage."
+    },
+    "category": "disaster",
+    "country": "インドネシア",
+    "lat": -6.2146,
+    "lon": 106.8451,
+    "occurredAt": "2026-11-22T03:03:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zRzA0WFhhVTloZHFfU2V2amw2NlVpdjNwandBelc0ZEtReHQ5SWFUR28tVlpxMGNycWQtNE1nbjQ2dHpyc1k3LUlmdW9LYW9kNFBCREFMR1dLWGRibEJjTjA1eksxd3FleXd6VkpTbFBoT3FSbkxLMVBMcnI?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "indonesia_candy_factory_fire_nov2026"
+  },
+  {
+    "id": "auto-68882",
+    "headline": {
+      "ja": "バハレーンの防空システムがイランの航空攻撃を撃退",
+      "en": "Bahrain's air defence systems intercept Iranian aerial attacks"
+    },
+    "summary": {
+      "ja": "バハレーンの防空システムが、イランからの航空攻撃を迎撃したと報告した。",
+      "en": "Bahrain reported that its air defence systems successfully intercepted aerial attacks from Iran."
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.2279,
+    "lon": 50.5857,
+    "occurredAt": "2026-11-21T22:48:15+00:00",
+    "source": {
+      "name": "UAE 国営WAM通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2VvYXZCRmdjS1BpNkZ2TWRmUTdsRGVuc0paUk5uRWZUbUhxeTN6R21VMEVLMlpYaUIzYU5xY2I0cS00OWdoSElJWXV5V3AtdFFFc3VjV09LZUdLZ1dhMTF6ZDJKZlpEYUJvWnBVRldfWWlkZHUyNlRjMEJvM3hRdEptVWNQSWtVSHlWbA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "bahrain_air_defense_iran_attacks_nov2026"
   },
   {
     "id": "auto-68402",
@@ -47,6 +140,29 @@
     "eventKey": "india_us_sikh_assassination_plot_2026"
   },
   {
+    "id": "auto-68575",
+    "headline": {
+      "ja": "サウジアラビアがイエメンのホデイダを空爆、相互攻撃が激化",
+      "en": "Saudi airstrikes hit Yemen's Hodeidah amid escalating cross-border attacks"
+    },
+    "summary": {
+      "ja": "サウジアラビアがイエメンのホデイダを空爆した。国境を越えた相互攻撃が継続して激化している。",
+      "en": "Saudi Arabia launched airstrikes on Yemen's Hodeidah as cross-border attacks continue to escalate."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-21T20:44:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SWVN6OTRfRWgtUjlibVNOWEdycW9zZXdvLW16QTk4aWRxekU4UXNaSWlTRXNBbWFOaGpZYlM5Rl9UbVR2LWRpX1dvaEtnNUpVVnBJcGs5eDNZVFFncnpaNW51NndNQnUtbzUwMHBtSWNQNEpxTjc0dzdERWM?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_yemen_hodeidah_airstrikes_nov2026"
+  },
+  {
     "id": "auto-68358",
     "headline": {
       "ja": "ロシア向け船舶、ウクライナのドローン攻撃で被害",
@@ -68,6 +184,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "finland_gulf_ship_attack_2026-11-21"
+  },
+  {
+    "id": "auto-68564",
+    "headline": {
+      "ja": "イラン南部シリク県で複数の爆発音を確認",
+      "en": "Multiple explosions reported in Iran's Sirik County"
+    },
+    "summary": {
+      "ja": "イラン南部のシリク県で複数の爆発音が報告された。軍事活動との関連は調査中。",
+      "en": "Multiple explosions were reported in Sirik County in southern Iran, with investigation ongoing into the cause."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-21T18:14:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TcWI3NmV6aUZiR2hFRmVWOW1WcHZEUGIxUldkQWRjUU9LNHRZWTBBTzIxQmlBeGFSMVFEYVhjZHhCNWQ3VmpuaTBxVGVGbWNKVmRTYjBlb2ZRWko2cDU5WjNkWk1zc2lXc3ZpT1huS3RydW1TNEVHV3NOTGM?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_sirik_explosions_nov2026"
   },
   {
     "id": "auto-68432",
@@ -93,6 +232,52 @@
     "eventKey": "usa_iran_nuclear_agreement_2026-11-21"
   },
   {
+    "id": "auto-68949",
+    "headline": {
+      "ja": "イラン軍がF-16戦闘機にミサイルで命中したと主張",
+      "en": "Iranian army claims it targeted U.S. F-16 jet with missile over Gulf"
+    },
+    "summary": {
+      "ja": "イラン軍は、湾岸上空で米国のF-16戦闘機をミサイルで標的にして命中させたと主張している。",
+      "en": "The Iranian military claims to have successfully targeted a U.S. F-16 fighter jet with a missile over the Gulf."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-21T14:30:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3h4NFNQMzZWeHJ0ekdscGdEVjIwZk1DOXZRb3pDdGJpOTNOQm85ckdwTWs2N1lrTUh2MnQ0UzJ1OWoyOE1sT2dodFB6VkJYVWJkVzduX0c3Y2NuSjNPU2FLZVF3Qk5laVVhWXVIcHJnbEVyLWdobWZiYUhoWWc2YmtRNy13STd3UXZIejgxR29xSURuWlA2X0c5SXZOX1hsX0lQLWoyME80ZURzTjNyTg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "iran_f16_missile_claim_gulf_nov2026"
+  },
+  {
+    "id": "auto-68571",
+    "headline": {
+      "ja": "ロシア貨物船がフィンランド湾で無人機攻撃により火災",
+      "en": "Russian cargo ship catches fire after drone attack in Gulf of Finland"
+    },
+    "summary": {
+      "ja": "ロシアの貨物船がフィンランド湾で無人機による攻撃を受けて火災が発生した。ウクライナ関連の作戦の可能性も指摘されている。",
+      "en": "A Russian cargo ship caught fire in the Gulf of Finland following a drone attack, with potential links to Ukraine-related operations."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-21T14:28:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFR6TTFqdlpqYjc2bGVHbmRXSVF0OE41c3NtUDh2eWRQYUQ2VWN1NDVmZ3RRUC1JcjA1MkxIM2RSaHp4NDV0MUdWTDdreFI4amNDX2JUTG54MWJ4MTE5SjZpWS1PNWtyUWEzSFhvZ29WaFB4WjBDbkpiMllxbzRVajNxSjQxdw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_cargo_ship_fire_gulf_finland_nov2026"
+  },
+  {
     "id": "auto-68478",
     "headline": {
       "ja": "イラン軍、侵入した米国F-16戦闘機を撃破と発表",
@@ -115,6 +300,29 @@
     "auto": true,
     "eventKey": "iran_us_f16_incident_2026-11-21",
     "severity": 4
+  },
+  {
+    "id": "auto-69022",
+    "headline": {
+      "ja": "ロシアがウクライナ東部スロヴィャンスクの民間建築を空爆",
+      "en": "Russian airstrike hits residential buildings in Ukraine's Sloviansk"
+    },
+    "summary": {
+      "ja": "ロシア軍がウクライナ東部ドネツク州のスロヴィャンスクの民間住宅に空爆を行った。",
+      "en": "Russian forces conducted an airstrike on residential buildings in Sloviansk, eastern Ukraine."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 48.8497,
+    "lon": 37.5974,
+    "occurredAt": "2026-11-21T14:05:37+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlgxWjBLRnJZYW15Q3J5ZDdNYkVDMjBvOWlkbEZWUl9hMVBvamlmak5NOWM4ZUNFcVlPWHdBSlZQcE1hTEdwNHNqQXZYeWgxU2xUY25aVlIwY3RFTnFfM1ozWDJTRU9OdEgxemhIYnc5bldqSzBXY0tudVhfa3R0bXFMbFdMZ0R4X2NlRld6bjFsZnpoY0tpWHVZQmpRU0loOUFnbkdZak91VUcxUGh3UlZOOW1LblU?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_sloviansk_airstrike_ukraine_nov2026"
   },
   {
     "id": "auto-68422",
