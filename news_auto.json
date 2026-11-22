@@ -1,5 +1,169 @@
 [
   {
+    "id": "auto-68467",
+    "headline": {
+      "ja": "イラン革命警衛隊、バーレーンの米国防衛レーダーを攻撃と発表",
+      "en": "IRGC claims strikes on US Patriot radars in Bahrain bases"
+    },
+    "summary": {
+      "ja": "イラン革命警衛隊（IRGC）は、バーレーンの米軍基地に配置された米国のパトリオット防空レーダー2基をミサイルとドローンの複合作戦で破壊したと発表した。",
+      "en": "Iran's Islamic Revolution Guards Corps announced strikes on two US Patriot air defense radars at military bases in Bahrain using combined missile and drone operation."
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.2279,
+    "lon": 50.5857,
+    "occurredAt": "2026-11-22T06:05:58+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86328844/IRGC-hits-two-US-patriot-radar-systems-in-Bahrain"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_bahrain_us_radar_strike_2026-11-21",
+    "severity": 4
+  },
+  {
+    "id": "auto-68402",
+    "headline": {
+      "ja": "シク教指導者暗殺未遂、インド人に懲役刑",
+      "en": "Indian man jailed over plot to kill Sikh separatist in US"
+    },
+    "summary": {
+      "ja": "米国でシク教分離主義指導者の暗殺を計画したインド国籍の男が懲役19年以上の判決を受けた。インド政府による組織的な暗殺工作の可能性が指摘されている。",
+      "en": "Indian national sentenced to over 19 years in US prison for plotting assassination of Sikh separatist leader in America."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 40.9571,
+    "lon": -74.1556,
+    "occurredAt": "2026-11-21T21:09:18+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "india_us_sikh_assassination_plot_2026"
+  },
+  {
+    "id": "auto-68358",
+    "headline": {
+      "ja": "ロシア向け船舶、ウクライナのドローン攻撃で被害",
+      "en": "Russia-bound ship attacked in Gulf of Finland"
+    },
+    "summary": {
+      "ja": "フィンランド湾でロシアへの輸送船がドローン攻撃を受けた。フィンランド防衛軍はウクライナが攻撃の実行犯の可能性が高いと述べた。",
+      "en": "Ship bound for Russia was attacked by drone in Gulf of Finland. Finnish defense forces indicated Ukraine as likely attacker."
+    },
+    "category": "conflict",
+    "country": "フィンランド",
+    "lat": 60.1695,
+    "lon": 24.9354,
+    "occurredAt": "2026-11-21T19:20:22+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "finland_gulf_ship_attack_2026-11-21"
+  },
+  {
+    "id": "auto-68432",
+    "headline": {
+      "ja": "トランプ大統領、イランとの核合意を目指す",
+      "en": "Trump aims to secure permanent agreement with Iran on nuclear program"
+    },
+    "summary": {
+      "ja": "OSINTdefenderのテレグラムで、トランプ米大統領がイランとの「恒久的な」合意達成を目指す発言をしたという投稿があった。",
+      "en": "Telegram post reports President Trump stated aim to secure permanent agreement with Iran to prevent nuclear development."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-21T17:54:40+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20813"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "usa_iran_nuclear_agreement_2026-11-21"
+  },
+  {
+    "id": "auto-68478",
+    "headline": {
+      "ja": "イラン軍、侵入した米国F-16戦闘機を撃破と発表",
+      "en": "Iran claims military hit and damaged intruding US F-16 fighter jet"
+    },
+    "summary": {
+      "ja": "イランの国防軍はペルシャ湾上空で侵入した米国のF-16戦闘機をミサイルで撃破し、地域内の基地への緊急着陸を余儀なくさせたと発表した。",
+      "en": "Iran's military announced it hit and damaged a US F-16 fighter jet intruding over Persian Gulf, forcing emergency landing at regional airfield."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-21T14:13:41+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86328498/Iranian-missile-hits-damages-intruding-US-warplane-over-Persian"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_us_f16_incident_2026-11-21",
+    "severity": 4
+  },
+  {
+    "id": "auto-68422",
+    "headline": {
+      "ja": "イラン、ホルムズ海峡のカシム島周辺でミサイル攻撃",
+      "en": "Iranian agency reports missile strike on Qeshm island in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "OSINTdefenderのテレグラムで、イランのタスニム通信がホルムズ海峡のカシム島周辺でのミサイル攻撃を報道したという投稿があった。",
+      "en": "Telegram post reports Iranian news agency Tasnim claims missile strike occurred near Qeshm Island in Strait of Hormuz."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-20T18:43:19+00:00",
+    "source": {
+      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
+      "url": "https://t.me/OSINTdefender/20803"
+    },
+    "reliability": "unconfirmed",
+    "auto": true,
+    "eventKey": "iran_hormuz_missile_strike_2026-11-20"
+  },
+  {
+    "id": "auto-68377",
+    "headline": {
+      "ja": "ロシア、キーウの橋と鉄道駅を大規模攻撃",
+      "en": "What we know about the latest Russian missile strikes on Ukraine"
+    },
+    "summary": {
+      "ja": "ロシア軍がウクライナの首都キーウで橋梁と鉄道駅を大規模なミサイル攻撃で破壊した。複数の施設が被害を受けている。",
+      "en": "Russian forces conducted major missile strikes on bridges and railway stations in Kyiv, causing significant damage to critical infrastructure."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-20T15:14:01+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_bridge_attack_2026-11-20",
+    "severity": 4
+  },
+  {
     "id": "auto-67800",
     "headline": {
       "ja": "イエメン民間人19名がサウジ空爆で殺害",
@@ -2084,121 +2248,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "sudan_power_infrastructure_attack_2026-11-15"
-  },
-  {
-    "id": "auto-60040",
-    "headline": {
-      "ja": "イスラエルがガザのハマス司令官を殺害",
-      "en": "Israel kills Hamas commander in Gaza operation"
-    },
-    "summary": {
-      "ja": "イスラエルの軍事作戦によってガザ地区ラファ旅団の司令官サミール・アブ・ユニスが殺害され、ハマスとイスラエル国防軍の両者が死亡を確認した。",
-      "en": "Israeli military operation kills Samir Abu Younis, commander of Hamas Rafah Brigade, in Gaza, confirmed by both Hamas and IDF officials."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-15T08:17:41+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_gaza_rafah_commander_killed_2026-11-15",
-    "severity": 4
-  },
-  {
-    "id": "auto-60094",
-    "headline": {
-      "ja": "トランプ大統領がイランへの追加攻撃を保留する意向を示唆",
-      "en": "Trump indicated willingness to hold off on further Iran strikes if Tehran avoids escalation"
-    },
-    "summary": {
-      "ja": "Telegramの@OSINTdefenderアカウントで、トランプ大統領がテヘランとその地域同盟者が攻撃を避ければ、イランへの新たな攻撃を保留する傾向があると述べたという投稿があった。",
-      "en": "Telegram account @OSINTdefender reported that Trump is inclined to hold off on new strikes against Iran if Tehran and its regional allies avoid further escalation."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-15T07:55:32+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20764"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "us_iran_military_policy_2026-11-15"
-  },
-  {
-    "id": "auto-60117",
-    "headline": {
-      "ja": "ハマス指導者がガザの人道危機対応を促す",
-      "en": "Hamas official urges action as Gaza humanitarian crisis worsens"
-    },
-    "summary": {
-      "ja": "ハマス政治局長が、冬の到来とともに深刻化するガザの食糧不足と人道危機に対応するよう、アラブ・イスラム諸国に行動を呼びかけた。",
-      "en": "Hamas Political Bureau head urged Arab and Islamic nations to address Gaza's worsening humanitarian crisis with food shortages and mounting hardship as winter approaches."
-    },
-    "category": "disaster",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-15T07:44:36+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86322057/Hamas-official-urges-action-as-humanitarian-crisis-worsens-in"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_humanitarian_crisis_2026-11-15"
-  },
-  {
-    "id": "auto-60073",
-    "headline": {
-      "ja": "ASEAN首脳会談、米国とイスラエルのイラン作戦による energy 危機が焦点",
-      "en": "ASEAN summit: US-Israel war on Iran's energy disruption central focus"
-    },
-    "summary": {
-      "ja": "フィリピンで開催されるASEAN首脳会談では、米国とイスラエルのイラン作戦による energy 供給途絶がエネルギー輸入に依存するASEAN諸国に与える影響が主要議題となっている。",
-      "en": "At the ASEAN summit in the Philippines, energy disruptions caused by the US-Israel operations against Iran are a central issue for import-dependent Southeast Asian nations."
-    },
-    "category": "conflict",
-    "country": "フィリピン",
-    "lat": 14.6042,
-    "lon": 120.9822,
-    "occurredAt": "2026-11-15T07:11:24+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "asean_summit_energy_crisis_2026-11-15"
-  },
-  {
-    "id": "auto-60443",
-    "headline": {
-      "ja": "フーシ派、アデンへ弾道ミサイル2発を発射",
-      "en": "Houthis fire 2 ballistic missiles at Aden"
-    },
-    "summary": {
-      "ja": "イエメン軍とフーシ派が声明。フーシ派がアデンへ弾道ミサイル2発を発射。同地は国際的に認められたサウジ支援のイエメン政府支配地。",
-      "en": "Houthis launch 2 ballistic missiles at Aden, a Saudi-backed government controlled city"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-11-15T02:00:31+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQU1hYWZPTWtJYkY5SG1VeTdla2dDOFY2WnB5VWR2WEFZVjFuLWl3Y2xBVFNOckVNTzJOS2l6Mm82dHRLTGlkQm5XMUl3cFFBRmp0Wm5JSkpaaGZIcElDZXZyWDBRSUJ1NEpyRHgzd2c4Z3BYZVh0bUhfNjk2ZjktT1hVZWRoOHRyV05NamZLVUVDSUp6dXNjMVRBbWYxX1VmNkpDVWdR?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_aden_houthi_ballistic_missile_2026-11-15"
   }
 ]
