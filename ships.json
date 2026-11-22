@@ -124,6 +124,30 @@
     "periodEnd": "2026-11-26T23:59:59Z"
   },
   {
+    "id": "2026-11-26-jp-000225",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "うらが",
+    "shipNumber": "MST-463",
+    "shipType": "other",
+    "position": {
+      "area": "細島港・宮崎県",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "海上自衛隊水陸両用戦機雷戦群が掃海母艦「うらが」の一般公開を11月26日に細島港で実施予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37596/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-20T21:21:28.258292+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "2026-11-26-jp-000176",
     "recordType": "aggregate",
     "country": "JP",
@@ -172,6 +196,54 @@
     "anomalyLevel": "alert",
     "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-17T10:34:00+09:00"
+  },
+  {
+    "id": "2026-11-17-us-000226",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Toledo",
+    "shipNumber": "SSN-765",
+    "shipType": "submarine",
+    "position": {
+      "area": "横須賀港",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍ロサンゼルス級原子力潜水艦「トレド」が横須賀港に入港。9月末以来2度目の寄港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37575/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-20T21:21:28.258292+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-17T00:00:00Z"
+  },
+  {
+    "id": "2026-11-17-us-000229",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Toledo",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": "横須賀港",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "米ロサンゼルス級原子力潜水艦「トレド」が横須賀港に入港。9月末以来2度目の寄港。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-21T21:21:56+00:00",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-17T00:00:00Z"
   },
   {
     "id": "2026-11-16-cn-000196",
@@ -411,8 +483,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-15T00:00:00Z"
   },
   {
@@ -795,8 +867,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-12T00:00:00Z"
   },
   {
@@ -963,8 +1035,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-07T21:21:27.623468+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-07T00:00:00Z"
   },
   {
@@ -987,8 +1059,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-11-06T21:54:51Z"
   },
   {
@@ -1011,8 +1083,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T18:35:17Z"
   },
   {
@@ -1035,8 +1107,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T18:35:17Z"
   },
   {
@@ -1059,8 +1131,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-08T21:20:56.225635+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T18:35:17Z"
   },
   {
@@ -1107,8 +1179,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-09T21:00:00+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T00:00:00Z"
   },
   {
@@ -1131,8 +1203,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T00:00:00+00:00"
   },
   {
@@ -1155,8 +1227,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T00:00:00+00:00"
   },
   {
@@ -1179,8 +1251,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T00:00:00+00:00"
   },
   {
@@ -1203,8 +1275,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-06T21:21:50.457715+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T00:00:00+00:00"
   },
   {
@@ -3086,7 +3158,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -3110,7 +3182,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -3520,7 +3592,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
@@ -4394,6 +4466,30 @@
     "observedAt": null
   },
   {
+    "id": "-fr-000231",
+    "recordType": "individual",
+    "country": "FR",
+    "shipName": "FS Duguay-Trouin",
+    "shipNumber": "S636",
+    "shipType": "submarine",
+    "position": {
+      "area": "フランス・トゥーロン",
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "フランス海軍Suffren級原子力攻撃潜水艦「FS Duguay-Trouin(S636)」が整備中。2023年就役。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/19/compact-and-covert"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-21T21:21:56+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-gb-000215",
     "recordType": "individual",
     "country": "GB",
@@ -4954,6 +5050,32 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
+  },
+  {
+    "id": "-us-000230",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "イラン周辺海域",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米国が、船舶への積み替えを通じたイラン産カーゴ回避行為に対する海上封鎖を拡大。7月以降、米海軍は約150隻の船舶を迂回させ、5隻を無力化。",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/19/u-s-expands-iranian-blockade-as-ship-attacks-continue"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-21T21:21:56+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": null,
+    "periodStart": null,
+    "periodEnd": null
   },
   {
     "id": "-us-000158",
