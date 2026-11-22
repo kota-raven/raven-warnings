@@ -94,6 +94,29 @@
     "eventKey": "indonesia_candy_factory_fire_nov2026"
   },
   {
+    "id": "auto-68582",
+    "headline": {
+      "ja": "メキシコが麻薬王逮捕作戦で11人が死亡と発表",
+      "en": "11 killed in Mexico's operation to capture top drug kingpin"
+    },
+    "summary": {
+      "ja": "メキシコ当局は、主要な麻薬密売人を逮捕するための作戦で11人が死亡したと発表した。",
+      "en": "Mexican authorities reported 11 deaths during an operation to capture a top drug trafficker."
+    },
+    "category": "conflict",
+    "country": "メキシコ",
+    "lat": 19.4285,
+    "lon": -99.1277,
+    "occurredAt": "2026-11-22T02:30:45+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTBfbVZJR3FMVUE1TEpwaG1rYUlBTFQwTFBYaGc4WFVrTW5yRC1RZFFQQVdncnJmbVJQTGtZRGNaVGNUOE1XRjVrNFk1b09rZXJYTy13WU9NNVotaXl6d2ZvUUU3VEtZeHRNalpsNkhvY2c0OTlDUXpOZWt0U2c0T1VXLWF0NERvTWxTaWRB?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "mexico_drug_kingpin_capture_operation_nov2026"
+  },
+  {
     "id": "auto-68882",
     "headline": {
       "ja": "バハレーンの防空システムがイランの航空攻撃を撃退",
