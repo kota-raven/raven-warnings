@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-19-07",
-    "headline": {
-      "ja": "Anthropic、IPO価格を1株83ドルに決定 想定レンジを上回り評価額約1.51兆ドル、史上最大規模の新規株式公開に(11月18日)",
-      "en": "Anthropic prices IPO at $83 a share, above its range, valuing the company at about $1.51 trillion in the largest IPO on record (Nov 18)"
-    },
-    "summary": {
-      "ja": "2026年11月18日(水、米東部時間)、AI企業Anthropicが新規株式公開(IPO)の価格を1株83ドルに決定したという。複数の報道(CBCニュース、Yahoo Finance、CNN、StockTitan等)によれば、これは事前に示されていた想定価格レンジ(1株70〜78ドル)を上回る水準で、評価額は約1.51兆ドルとなり、史上最大規模のIPOになるとされる。同社は9億8000万株を売り出すとされ、株式はナスダックに銘柄コード「ANT」で上場し、11月19日(木)に取引を開始する予定だという。アマゾン・ドット・コムとアルファベット(グーグル)がIPO・私募増資後にそれぞれ同社の発行済み株式の約15%・14%を保有する見通しとも報じられている。推測:取引開始後の実際の始値・終値は本稿執筆時点(日本時間11月19日午後)では確認できていない。[信頼性: 高](CBCニュース、Yahoo Finance、CNN、StockTitan等複数の主要メディアが2026年11月18日の報道として伝えている)",
-      "en": "On Wednesday, November 18, 2026 (US Eastern time), AI company Anthropic priced its initial public offering at $83 a share, according to multiple outlets (CBC News, Yahoo Finance, CNN, StockTitan). This was above the previously indicated range of $70-$78 a share, valuing the company at about $1.51 trillion and making it reportedly the largest IPO on record. The company is said to be selling 980 million shares, with shares set to list on the Nasdaq under the ticker 'ANT' and begin trading Thursday, November 19. Amazon.com and Alphabet (Google) are reported to hold roughly 15% and 14% of outstanding shares, respectively, after the IPO and a related private placement. Speculation: the actual opening and closing trading prices had not been confirmed as of this writing (afternoon of Nov 19 JST). [Reliability: High] (Reported as of November 18, 2026 by multiple major outlets including CBC News, Yahoo Finance, CNN and StockTitan)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-19T02:00:00+00:00",
-    "source": {
-      "name": "CBCニュース / Yahoo Finance / CNN / StockTitan",
-      "url": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-19-08",
     "headline": {
       "ja": "トランプ・習近平・プーチン3氏、深センで史上初の三者会談 ロシア側「石油・ガス増産に合意」と発表",
@@ -149,49 +128,6 @@
     "reliability": "high"
   },
   {
-    "id": "2026-11-21-01",
-    "headline": {
-      "ja": "イスラエル軍、ガザ中部で停戦後初の「イエローライン」越境 地上作戦終了、トンネル破壊(11月18〜19日)",
-      "en": "Israeli forces cross Gaza's 'Yellow Line' for first time since truce near Nuseirat, conclude operation after destroying tunnel (Nov 18-19)"
-    },
-    "summary": {
-      "ja": "2026年11月18日(水)から19日(木)にかけて、イスラエル軍戦車がガザ中部ヌセイラト難民キャンプ付近で、2025年10月の停戦発効後初めて「イエローライン」(停戦境界線)を越えて西側へ進軍したことが、複数の報道(Malay Mail、ynetnews、SOFX、Latin Times等)で確認されたという。これは前回収集(11月20日05時JST分)で既報の地上作戦(11月18日開始、UN最大1.8万人避難警告、死者3〜4人)の続報で、イスラエル軍は、部隊への直接的な脅威になっていたとする「テロトンネル」を破壊する作戦だったと説明し、作戦終了後にサラハディン道路を再開通させたという。ハマス側はこれを停戦の明白な違反だと非難し、仲介国・保証国に即時介入を求めたとされる。AFPの集計によれば、ガザ保健当局のデータに基づき、2025年10月の停戦開始以降、イスラエル側の攻撃によりパレスチナ人1600人超が死亡したとされる(この累計数値は今回のヌセイラト作戦単独の死者数〈既報3〜4人〉とは別の、停戦開始からの総計)。推測:「停戦後初のイエローライン越境」との評価は複数報道に基づくが、過去に同種の越境事例が報じられていないか本収集では完全には確認できていない。[信頼性: 中](Malay Mail、ynetnews、SOFX等複数の国際メディアが2026年11月19〜20日時点で報道)",
-      "en": "Between Wednesday, November 18 and Thursday, November 19, 2026, Israeli tanks reportedly crossed west of Gaza's 'Yellow Line' (the ceasefire boundary) near the Nuseirat refugee camp for the first time since the October 2025 truce, according to multiple outlets (Malay Mail, ynetnews, SOFX, Latin Times). This is a follow-up to the ground operation already reported in the previous collection (started Nov 18, UN warning of up to 18,000 displaced, 3-4 deaths). The Israeli military said the operation targeted a 'terror tunnel' that posed a direct threat to its troops, and reopened the Salah al-Din road after the operation concluded. Hamas reportedly condemned the move as a flagrant ceasefire violation and called on mediators and guarantor states to intervene immediately. Citing Gaza health ministry data, AFP's tally put the number of Palestinians killed by Israeli fire since the October 2025 truce at more than 1,600 (a cumulative figure since the truce began, distinct from the 3-4 deaths previously reported for this specific Nuseirat operation). Speculation: the characterization of this as the 'first Yellow Line crossing since the truce' is based on multiple reports, but this collection could not fully confirm whether any prior crossings had been reported. [Reliability: Medium] (Reported by Malay Mail, ynetnews, SOFX and others as of Nov 19-20, 2026)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ヌセイラト(中部ガザ)",
-    "lat": 31.4525,
-    "lon": 34.3886,
-    "occurredAt": "2026-11-19T00:00:00+00:00",
-    "source": {
-      "name": "Malay Mail / ynetnews / SOFX",
-      "url": "https://www.malaymail.com/news/world/2026/11/19/israeli-tanks-push-into-central-gazas-nuseirat-refugee-camp-area-in-rare-ground-incursion/243844"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-21-02",
-    "headline": {
-      "ja": "バングラデシュ、ハシナ氏帰国問題で混乱拡大 与党BNP関係者2人死亡、国境警備隊7県に97個小隊展開(11月18〜19日)",
-      "en": "Bangladesh unrest over Hasina's return escalates: two ruling BNP members killed, 97 border guard platoons deployed across 7 districts (Nov 18-19)"
-    },
-    "summary": {
-      "ja": "2026年11月19日(木)までの報道によれば、バングラデシュ政府が、ハシナ元首相の帰国表明をめぐる緊張の高まりを受け、国境警備隊(BGB)の展開規模をさらに拡大し、ゴパルガンジ県・ファリドプール県などハシナ氏支持者が多いとされる7県に計97個小隊を展開したという。複数の報道(SCMP、Dawn、Scroll.in等)によれば、11月18日夜(水曜深夜)の衝突で与党BNP(バングラデシュ民族主義党)関係者2人が死亡し、ゴパルガンジ県ではBNP所属の国会議員2人の自宅が破壊・放火されたとされる。ハシナ氏が率いるアワミ連盟は1週間にわたる抗議行動を発表し、11月1日から17日の間に今回の混乱への関与を理由に520人超が拘束されたという。バングラデシュのタリク・ラーマン首相は、一連の混乱の背景にインドの関与があると非難したとされる一方、インド側はハシナ氏の帰国可否は同氏自身の判断だとの立場を示しているという。ハシナ氏は(国際犯罪法廷による)死刑判決を受けているにもかかわらず、12月に帰国する意向を改めて示したとされる。推測:死傷者数・拘束者数の正確な内訳は報道により一部差があり、インドの関与の有無についてはバングラデシュ政府の一方的な見解である可能性がある。[信頼性: 中](SCMP、Dawn、Scroll.in等複数の国際メディアが2026年11月19〜20日時点で報道)",
-      "en": "According to reports as of Thursday, November 19, 2026, the Bangladesh government further expanded its deployment of Border Guard Bangladesh (BGB) troops, stationing a total of 97 platoons across seven districts, including Gopalganj and Faridpur, described as strongholds of former PM Sheikh Hasina's supporters, amid rising tensions over her announced return. Multiple outlets (SCMP, Dawn, Scroll.in) reported that clashes on the night of Wednesday, November 18 killed two members of the ruling Bangladesh Nationalist Party (BNP), and that the homes of two BNP lawmakers in Gopalganj were vandalized and set on fire. Hasina's Awami League reportedly announced a week-long protest campaign, and more than 520 people were arrested between November 1 and 17 over alleged involvement in the unrest. Bangladesh's Prime Minister Tarique Rahman reportedly blamed India for the unrest, while India has said it is for Hasina herself to decide whether to return. Hasina, who has been sentenced to death by the International Crimes Tribunal, reportedly reiterated her intention to return in December. Speculation: casualty and arrest figures vary somewhat by outlet, and the claim of Indian involvement reflects the Bangladesh government's position, which may be one-sided. [Reliability: Medium] (Reported by SCMP, Dawn, Scroll.in and others as of Nov 19-20, 2026)"
-    },
-    "category": "conflict",
-    "country": "バングラデシュ",
-    "lat": 23.685,
-    "lon": 90.3563,
-    "occurredAt": "2026-11-19T00:00:00+00:00",
-    "source": {
-      "name": "South China Morning Post / Dawn / Scroll.in",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3375123/violence-rises-bangladesh-ex-pm-hasinas-supporters-escalate-protests"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-21-03",
     "headline": {
       "ja": "米国株、ダウ・S&P500が一時「調整局面」入り ナスダックも急落、AI懸念に地政学リスク重なる(11月20日)",
@@ -298,5 +234,26 @@
       "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-22-03",
+    "headline": {
+      "ja": "台湾TAIEX、AI関連株急落で2001年来最悪の週間安 当局が空売り規制を再強化",
+      "en": "Taiwan's TAIEX posts worst weekly drop since 2001 amid AI-stock selloff; regulators tighten short-selling curbs again"
+    },
+    "summary": {
+      "ja": "台湾の株価指数TAIEXは、TSMCなどAI関連株への懸念から11月に急落し、11月19日には前日比4.4%安(1768.02ポイント安)の38426.89で終値、週間では2001年以来最悪、月間でも約15%安で2008年以来最悪のパフォーマンスとなる見通しとなった。台湾金融監督管理委員会(FSC)は11月9日に信用取引による日中売り注文上限を30%から3%に引き下げるなどの空売り規制強化と5000億台湾ドル規模の国家金融安定化基金の稼働を発表していたが、11月19日にさらなる空売り規制強化を発表し11月20日から実施した(ヘッジ・マーケットメイク目的の一部取引は適用除外)。",
+      "en": "Taiwan's TAIEX tumbled in November on concerns over AI-related shares including TSMC, closing down 4.4% (1,768.02 points) at 38,426.89 on Nov. 19 — its worst week since 2001 and on track for its worst month since 2008 (around -15%). Taiwan's Financial Supervisory Commission, which had already tightened short-selling rules (cutting the intraday short-sale cap from 30% to 3% of average volume, raising minimum margin from 90% to 130%) and activated a NT$500 billion stabilization fund on Nov. 9, announced further short-selling restrictions on Nov. 19 that took effect Nov. 20, with exemptions for certain hedging and market-making activity."
+    },
+    "category": "economy",
+    "country": "台湾",
+    "lat": 23.6978,
+    "lon": 120.9605,
+    "occurredAt": "2026-11-20T00:00:00+00:00",
+    "source": {
+      "name": "Taipei Times / Focus Taiwan",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868040"
+    },
+    "reliability": "high"
   }
 ]
