@@ -280,5 +280,27 @@
       "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-3-gazans-injure-4-in-latest-ceasefire-violation/4133706"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-23-05",
+    "headline": {
+      "ja": "イスラエル軍空爆、ガザ地区北部ジャバリヤで国連機関(UNRWA)職員死亡 停戦下の攻撃と非難(11月23日)",
+      "en": "Israeli strike kills UN agency (UNRWA) worker in Jabalia, northern Gaza, amid ceasefire (Nov 23)"
+    },
+    "summary": {
+      "ja": "2026年11月23日(月)、イスラエル軍による空爆がガザ地区北部ジャバリヤを襲い、国連パレスチナ難民救済事業機関(UNRWA)の職員1人が死亡し、他に複数人が負傷したという。複数の報道(DailyWaadaa、AnewZ等)によれば、UNRWAは職員の死亡を確認し、2025年10月発効の停戦下での攻撃だとしているという。既報(2026-11-22-04〈デイル・アル・バラ周辺等〉等)とは別地点・別事案である。推測:本件については主要国際通信社(AP・AFP・ロイター等)による独自の確認報道が本収集時点では見つかっておらず、死傷者の具体的な人数・氏名についても報道間で確証が得られていない。[信頼性: 中](DailyWaadaa、AnewZ等の報道、2026年11月23日時点。主要国際通信社による独自確認は未確認)",
+      "en": "On Monday, November 23, 2026, an Israeli airstrike reportedly hit the Jabalia area of northern Gaza, killing a worker with the UN Relief and Works Agency for Palestine Refugees (UNRWA) and wounding several others. Multiple outlets (DailyWaadaa, AnewZ) reported that UNRWA confirmed the death of its staff member, describing the strike as occurring despite the ceasefire that took effect in October 2025. This is a separate incident from previously reported strikes (e.g., id 2026-11-22-04, near Deir al-Balah and elsewhere). Speculation: no independent confirmation from major wire services (AP, AFP, Reuters) could be found as of this collection, and the exact casualty count and victim's identity are not corroborated across sources. [Reliability: Medium] (Reported by DailyWaadaa, AnewZ and others as of November 23, 2026; not independently confirmed by major wire services)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ地区北部(ジャバリヤ)",
+    "lat": 31.5272,
+    "lon": 34.4833,
+    "occurredAt": "2026-11-23T06:00:00+00:00",
+    "source": {
+      "name": "DailyWaadaa / AnewZ",
+      "url": "https://www.dailywaadaa.com/world/2026/11/23/israeli-strike-kills-worker-with-un-palestinian-agency-in-gaza"
+    },
+    "reliability": "medium"
   }
 ]
