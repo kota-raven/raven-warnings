@@ -1,47 +1,5 @@
 [
   {
-    "id": "2026-11-20-03",
-    "headline": {
-      "ja": "Anthropic株、初日終値は97.17ドル IPO価格から17%高・評価額1.76兆ドルに(ナスダック全体は約2%安)",
-      "en": "Anthropic stock closes first trading day up 17% at $97.17, valuation reaches $1.76 trillion as broader Nasdaq falls about 2%"
-    },
-    "summary": {
-      "ja": "11月19日(木)にナスダックへ新規上場したAI企業Anthropic(銘柄コードANT)の株式は、取引開始直後に記録した111.50ドル(IPO価格83ドルから34%高)から下落し、初日の終値は97.17ドル(IPO価格から約17%高)となったという。完全希薄化後の評価額は終値時点で約1.76兆ドルになったとされる。CNN、Fast Company等複数の米主要メディアが、同日のナスダック総合指数はAI関連株への懸念が広がる中で約2%下落するなど、Anthropicの好調な上場とは対照的に広範な市場は軟調だったと報じている。[信頼性: 高]",
-      "en": "Shares of AI company Anthropic, which debuted on Nasdaq under the ticker ANT on Thursday, November 19, pulled back from the $111.50 level hit shortly after the open (34% above the $83 IPO price) to close the first trading day at $97.17, up about 17% from the IPO price. That put its fully diluted valuation at roughly $1.76 trillion at the close. Multiple major US outlets including CNN and Fast Company reported that, in contrast to Anthropic's strong debut, the broader Nasdaq Composite fell about 2% the same day amid renewed concerns over AI-related stocks. [Reliability: High]"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-19T21:00:00+00:00",
-    "source": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
-    },
-    "reliability": "high"
-  },
-  {
-    "id": "2026-11-20-05",
-    "headline": {
-      "ja": "米国株、ダウ1101ポイント安 AI業種への懸念強まり2024年以来最長の続落、Anthropic好調な上場も相場全体支えられず(11月19日)",
-      "en": "US stocks: Dow sinks 1,101 points in longest losing streak since 2024 as AI bubble fears deepen; Anthropic's strong debut fails to lift broader market (Nov 19)"
-    },
-    "summary": {
-      "ja": "2026年11月19日(木)の米国株式市場で、ダウ工業株30種平均が1101.11ポイント(前日比)安の4万9097.06で取引を終えたという。複数の報道(Manila Times、Korea Times、Kotak Neo、NBCニュース等)によれば、ナスダック総合指数も550.69ポイント安の2万3879.20で終了し、S&P500指数も約2%下落して6営業日連続の下落(2024年以来最長の続落)になったとされる。AI企業Anthropicがこの日ナスダックに新規上場し、終値はIPO価格から約17%高の97.17ドルと好調だったが、AI関連投資への過熱・バブルへの懸念が広がる中、相場全体を支えるには至らなかったという。エヌビディア株は、取引開始直後は決算を好感して一時4.7%高となったものの、その後下落に転じ、終値は前日比で下落した(報道によって下落率は約1.2〜3.3%と差がある)とされる。背景として、米国債利回りが5%を超える水準にあることや連邦準備制度理事会(FRB)の利上げ観測、米国による対中先端半導体輸出規制強化の動き、国際通貨基金(IMF)がAIへの過度な期待と債務拡大が金融安定に脅威になりうると警告したことなどが報じられている。この流れを受け、翌20日(金)のアジア株式市場も、半導体関連株を中心に下落したという。推測:ナスダック・S&P500の具体的な下落率やエヌビディア株の下落率については媒体間で数値に差があり、本稿執筆時点で確定した統一的な数値は確認できていない。[信頼性: 高](Manila Times、Korea Times、Kotak Neo、NBCニュース、Al Jazeera等複数の主要メディアが2026年11月19〜20日の報道として伝えている。一部数値には媒体間で差がある)",
-      "en": "In US trading on Thursday, November 19, 2026, the Dow Jones Industrial Average reportedly fell 1,101.11 points to close at 49,097.06. Multiple outlets (Manila Times, Korea Times, Kotak Neo, NBC News) reported that the Nasdaq Composite also fell 550.69 points to 23,879.20, and the S&P 500 dropped about 2%, marking a sixth straight losing session - its longest losing streak since 2024. AI company Anthropic made a strong Nasdaq debut the same day, closing up about 17% from its IPO price at $97.17, but that was not enough to lift the broader market amid growing concern that AI-related investment has become overheated. Nvidia shares initially jumped as much as 4.7% on the back of strong earnings before reversing to close lower (reports vary on the exact decline, citing figures from about 1.2% to 3.3%). Reports cited US Treasury yields above 5%, Federal Reserve rate-hike expectations, moves to tighten US export controls on advanced chips to China, and an IMF warning that excessive AI enthusiasm and rising debt could threaten financial stability as contributing factors. Asian stock markets, led by chipmakers, reportedly fell the following day (Friday, Nov 20) in response. Speculation: the exact decline figures for the Nasdaq, S&P 500 and Nvidia vary across outlets, and no single confirmed figure was available as of this writing. [Reliability: High] (Reported Nov 19-20, 2026 by multiple major outlets including Manila Times, Korea Times, Kotak Neo, NBC News and Al Jazeera; some figures differ slightly by outlet)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-19T21:00:00+00:00",
-    "source": {
-      "name": "Manila Times / Korea Times / Kotak Neo / NBCニュース",
-      "url": "https://www.manilatimes.net/2026/11/20/business/foreign-business/wall-street-tumbles-to-its-longest-losing-streak-since-2024-as-the-dow-drops-1100-points/2474698"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-21-03",
     "headline": {
       "ja": "米国株、ダウ・S&P500が一時「調整局面」入り ナスダックも急落、AI懸念に地政学リスク重なる(11月20日)",
@@ -126,27 +84,6 @@
       "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-11-22-03",
-    "headline": {
-      "ja": "台湾TAIEX、AI関連株急落で2001年来最悪の週間安 当局が空売り規制を再強化",
-      "en": "Taiwan's TAIEX posts worst weekly drop since 2001 amid AI-stock selloff; regulators tighten short-selling curbs again"
-    },
-    "summary": {
-      "ja": "台湾の株価指数TAIEXは、TSMCなどAI関連株への懸念から11月に急落し、11月19日には前日比4.4%安(1768.02ポイント安)の38426.89で終値、週間では2001年以来最悪、月間でも約15%安で2008年以来最悪のパフォーマンスとなる見通しとなった。台湾金融監督管理委員会(FSC)は11月9日に信用取引による日中売り注文上限を30%から3%に引き下げるなどの空売り規制強化と5000億台湾ドル規模の国家金融安定化基金の稼働を発表していたが、11月19日にさらなる空売り規制強化を発表し11月20日から実施した(ヘッジ・マーケットメイク目的の一部取引は適用除外)。",
-      "en": "Taiwan's TAIEX tumbled in November on concerns over AI-related shares including TSMC, closing down 4.4% (1,768.02 points) at 38,426.89 on Nov. 19 — its worst week since 2001 and on track for its worst month since 2008 (around -15%). Taiwan's Financial Supervisory Commission, which had already tightened short-selling rules (cutting the intraday short-sale cap from 30% to 3% of average volume, raising minimum margin from 90% to 130%) and activated a NT$500 billion stabilization fund on Nov. 9, announced further short-selling restrictions on Nov. 19 that took effect Nov. 20, with exemptions for certain hedging and market-making activity."
-    },
-    "category": "economy",
-    "country": "台湾",
-    "lat": 23.6978,
-    "lon": 120.9605,
-    "occurredAt": "2026-11-20T00:00:00+00:00",
-    "source": {
-      "name": "Taipei Times / Focus Taiwan",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868040"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-11-22-04",
