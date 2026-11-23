@@ -2156,51 +2156,5 @@
     "reliability": "unconfirmed",
     "auto": true,
     "eventKey": "ukraine_kyiv_missile_attack_2026-11-16"
-  },
-  {
-    "id": "auto-62751",
-    "headline": {
-      "ja": "インドネシア・タニンバル島付近で6.7の地震",
-      "en": "6.7-magnitude earthquake hits Tanimbar Islands Region, Indonesia"
-    },
-    "summary": {
-      "ja": "インドネシアのタニンバル島地域で11月16日、地震庁(GFZ)が観測した6.7の地震が発生した。",
-      "en": "A 6.7-magnitude earthquake struck the Tanimbar Islands region of Indonesia on November 16, according to GFZ."
-    },
-    "category": "disaster",
-    "country": "インドネシア",
-    "lat": -6.2146,
-    "lon": 106.8451,
-    "occurredAt": "2026-11-16T21:20:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlV3QzBlcTh5Vm41UUtGdE9SM0U3LUZqZTlLYnp0eWpseE5fQ0hhREpxalh4LUxzc25fMk1CNWFBMnNjTHRQbE05RHp4OEh4d05qQUZQYmJxbEh6eFJyWHh2Und4WDdXMWIxMElucEVwSEJIY2pGZjBlZjAySXI4bkY0X1R1TXQ5UnB1OQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "indonesia_tanimbar_islands_earthquake_2026-11-16"
-  },
-  {
-    "id": "auto-62348",
-    "headline": {
-      "ja": "モスクワの3空港、ウクライナ無人機攻撃で発着便を運休",
-      "en": "3 Moscow airports suspend flights after Ukrainian drone attacks"
-    },
-    "summary": {
-      "ja": "ウクライナによる無人機攻撃を受け、モスクワの3つの空港が発着便を停止。民間航空インフラの機能停止。",
-      "en": "Three Moscow airports ground flights following Ukrainian drone attacks on the city"
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-16T18:41:56+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2RNMFBDdy1GblU4bUptd3R0VjJFRzduc2pFWllYYzV6Qk9MSXktMHo4YkxIdC1qaDFRbXNqTnpLc1RzMEM5dDVoVGxyTHl2TmtRLU5NeEg2YzZONFJtZFNwbm10SE1INUZlcXRhZHZ2RHhQQUpzTFFvVWd3MWswcEZMZGt6N0Q2YmpJMVV0QVZoTDJ2amROQzJZXzFTOTR3aUxKQ3dhVQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "russia_moscow_airport_drone_attack_2026-11-16"
   }
 ]
