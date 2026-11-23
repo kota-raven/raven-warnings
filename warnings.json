@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T08:54:38.003Z",
+  "generatedAt": "2026-11-23T21:13:29.127Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 197,
+  "count": 195,
   "warnings": [
     {
       "id": "NAVAREA11-260522",
@@ -14,18 +14,6 @@
       "geometry": null,
       "rawText": "NO.26-0522    発表日時:2026年11月22日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nLIGHT BUOY SET 22 NOV. \r\r\n01-12.85N 103-55.20E.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260522&LANG=JP"
-    },
-    {
-      "id": "NAVAREA11-260521",
-      "type": "NAVAREA11",
-      "typeLabel": "NAVAREA XI",
-      "category": "航路標識",
-      "number": "0521",
-      "title": "シンガポール海峡、孤立障害灯浮標復旧",
-      "publishedAt": "2026-11-22T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "NO.26-0521    発表日時:2026年11月22日 21時\r\n\n\r\nSINGAPORE STRAIT.\r\r\nBATU BERHANTI ISOLATED DANGER MARKS \r\r\nLIGHT BUOY RESTORED.\r\r\nCANCEL 0514/26 AND THIS MSG.",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260521&LANG=JP"
     },
     {
       "id": "NAVAREA11-260520",
@@ -298,6 +286,86 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
     },
     {
+      "id": "JAPANNW-264648",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4648",
+      "title": "南太平洋西部、宇宙ゴミ落下",
+      "publishedAt": "2026-11-23T20:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -165.8,
+            -35.6
+          ],
+          [
+            -161,
+            -34.4
+          ],
+          [
+            -160.3,
+            -36
+          ],
+          [
+            -165.4,
+            -37.3
+          ]
+        ]
+      },
+      "rawText": "番号:26-4648   発表日時:2026年11月23日 20時\r\n\n\r\n★ 南太平洋西部、\r\r\n宇宙ゴミ落下、11月26日1615Z-12月10日0130Z\r\r\n35-36S 165-48W 34-24S 161-00W\r\r\n36-00S 160-18W 37-18S 165-24W\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264648&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264647",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4647",
+      "title": "五島列島南、ミサイル射撃",
+      "publishedAt": "2026-11-23T20:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          128.76444444444445,
+          32.336666666666666
+        ]
+      },
+      "rawText": "番号:26-4647   発表日時:2026年11月23日 20時\r\n\n\r\n五島列島南、\r\r\nミサイル射撃、11月28日(予備29日)0800-1700、\r\r\n31-47-12N 32-20-12N 128-45-52E 129-09-52E\r\r\nの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264647&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264645",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4645",
+      "title": "野島埼南、射撃終了",
+      "publishedAt": "2026-11-23T20:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4645   発表日時:2026年11月23日 20時\r\n\n\r\n野島埼南、\r\r\n射撃終了。\r\r\n(4583削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264645&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264644",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4644",
+      "title": "落石岬南南東、射撃",
+      "publishedAt": "2026-11-23T20:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          145.72,
+          42.965
+        ]
+      },
+      "rawText": "番号:26-4644   発表日時:2026年11月23日 20時\r\n\n\r\n落石岬南南東、\r\r\n射撃、11月28日(予備29日)0800-2400、\r\r\n42-57-54N 145-43-12Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264644&LANG=JP"
+    },
+    {
       "id": "JAPANNW-264643",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -322,42 +390,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264642&LANG=JP"
     },
     {
-      "id": "JAPANNW-264641",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4641",
-      "title": "南太平洋東部、宇宙ゴミ落下終了",
-      "publishedAt": "2026-11-23T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4641   発表日時:2026年11月23日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(4541削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264641&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264640",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4640",
-      "title": "北太平洋東部、ロケット打上げ終了",
-      "publishedAt": "2026-11-23T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4640   発表日時:2026年11月23日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\nロケット打上げ終了。\r\r\n(4546削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264640&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264639",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4639",
-      "title": "北太平洋東部、宇宙ゴミ落下終了",
-      "publishedAt": "2026-11-22T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4639   発表日時:2026年11月22日 20時\r\n\n\r\n★ 北太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(4563削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264639&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264638",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -380,18 +412,6 @@
       "geometry": null,
       "rawText": "番号:26-4637   発表日時:2026年11月22日 20時\r\n\n\r\nシンガポール海峡、\r\r\n灯浮標設置、11月22日、01-12.85N 103-55.20E。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264637&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264636",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "航路標識",
-      "number": "4636",
-      "title": "シンガポール海峡、孤立障害灯浮標復旧",
-      "publishedAt": "2026-11-22T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4636   発表日時:2026年11月22日 20時\r\n\n\r\nシンガポール海峡、\r\r\nBATU BERHANTI孤立障害灯浮標復旧。\r\r\n(4531削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264636&LANG=JP"
     },
     {
       "id": "JAPANNW-264635",
@@ -446,18 +466,6 @@
       },
       "rawText": "番号:26-4632   発表日時:2026年11月22日 08時\r\n\n\r\n★ チリ、\r\r\n危険な訓練、11月26日、28日、29日毎日1500Z-1900Z、\r\r\n27日1800Z-2300Z、35-45S 36-05S 073-04W\r\r\n073-28Wの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264632&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264631",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4631",
-      "title": "南太平洋東部、宇宙ゴミ落下終了",
-      "publishedAt": "2026-11-22T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4631   発表日時:2026年11月22日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(4483削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264631&LANG=JP"
     },
     {
       "id": "JAPANNW-264628",
@@ -1530,18 +1538,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264584&LANG=JP"
     },
     {
-      "id": "JAPANNW-264583",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4583",
-      "title": "野島埼南、射撃",
-      "publishedAt": "2026-11-19T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4583   発表日時:2026年11月19日 20時\r\n\n\r\n野島埼南、\r\r\n射撃、11月23日0800-2400、34-35.6N\r\r\n139-49.2Eを中心とする半径7海里の円内。\r\r\n(4558削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264583&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264582",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1618,24 +1614,6 @@
       "geometry": null,
       "rawText": "番号:26-4576   発表日時:2026年11月19日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下、11月23日-12月23日毎日1016Z-1543Z、\r\r\n02-22.0S 104-00.4W 03-04.0S 103-04.0W\r\r\n11-30.0S 109-08.0W 10-48.0S 110-08.0W\r\r\nで囲まれる海面。\r\r\n(4570削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264576&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264569",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4569",
-      "title": "日向灘、射撃",
-      "publishedAt": "2026-11-18T20:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          131.93333333333334,
-          31.783333333333335
-        ]
-      },
-      "rawText": "番号:26-4569   発表日時:2026年11月18日 20時\r\n\n\r\n日向灘、\r\r\n射撃、11月23日(予備24日)0800-2400、31-47N 131-56E\r\r\nを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264569&LANG=JP"
     },
     {
       "id": "JAPANNW-264568",
@@ -3114,6 +3092,72 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262243",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "2243",
+      "title": "苫小牧港、出域勧告",
+      "publishedAt": "2026-11-24T01:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2243    発表日時:2026年11月24日 01時\r\n\n\r\n苫小牧港、\r\r\n11月23日2315、荒天のため船舶に対し出域勧告。\r\r\n詳細は苫小牧港長に問い合わせられたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262243&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262241",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "航路標識",
+      "number": "2241",
+      "title": "境港第１号灯浮標消灯、仮灯設置",
+      "publishedAt": "2026-11-23T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2241    発表日時:2026年11月23日 21時\r\n\n\r\n境港第1号灯浮標(35-33.1N 133-16.9E、\r\r\n灯台表第1巻、0897.5)消灯、仮灯設置、\r\r\n群閃緑光6秒に2閃、3海里。\r\r\n(2214削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262241&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262240",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "制限禁止",
+      "number": "2240",
+      "title": "京浜港、横浜区、川崎区、荒天に伴う錨泊自粛の勧告",
+      "publishedAt": "2026-11-23T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2240    発表日時:2026年11月23日 21時\r\n\n\r\n京浜港、横浜区、川崎区、\r\r\n荒天により対象船舶に対し錨泊自粛の勧告、\r\r\n11月24日0900-解除発表までの間、\r\r\n詳細は京浜港長に問い合わせられたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262240&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262239",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2239",
+      "title": "野島埼南、射撃終了",
+      "publishedAt": "2026-11-23T21:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2239    発表日時:2026年11月23日 21時\r\n\n\r\n野島埼南、\r\r\n射撃終了。\r\r\n(2217削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262239&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262238",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "曳航",
+      "number": "2238",
+      "title": "瀬戸内海、関門港−壬生川港、台船えい航",
+      "publishedAt": "2026-11-23T18:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          133.13333333333333,
+          33.95
+        ]
+      },
+      "rawText": "番号:26-2238    発表日時:2026年11月23日 18時\r\n\n\r\n瀬戸内海、関門港-壬生川港、\r\r\nえい船(みらい、MMSI 431023669)による\r\r\n台船(深洋、長さ110メートル)えい航、\r\r\n姫島北方23日1700通過、\r\r\n平郡水道、釣島水道、来島海峡航路経由、\r\r\n壬生川港(33-57N 133-08E)\r\r\n24日0700到着予定、\r\r\n速力約7ノット、長さ約250メートル。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262238&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262237",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3368,30 +3412,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262218&LANG=JP"
     },
     {
-      "id": "NAVTEX-262217",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2217",
-      "title": "野島埼南、射撃",
-      "publishedAt": "2026-11-19T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2217    発表日時:2026年11月19日 21時\r\n\n\r\n野島埼南、\r\r\n射撃、11月23日0800-2400、\r\r\n34-35.6N 139-49.2Eを中心とする半径7海里の\r\r\n円内。\r\r\n(2196削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262217&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262214",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "航路標識",
-      "number": "2214",
-      "title": "境港第１号灯浮標消灯",
-      "publishedAt": "2026-11-19T18:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2214    発表日時:2026年11月19日 18時\r\n\n\r\n境港第1号灯浮標(35-33.1N 133-16.9E、\r\r\n灯台表第1巻、0897.5)消灯。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262214&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262211",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3486,24 +3506,6 @@
       },
       "rawText": "番号:26-2204    発表日時:2026年11月18日 13時\r\n\n\r\n龍飛埼西南西、\r\r\n射撃、11月23日(予備24日-29日)0700-1700、\r\r\n40-55-09N 139-04-48Eを中心とする\r\r\n半径10海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262204&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262203",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2203",
-      "title": "日向灘、射撃",
-      "publishedAt": "2026-11-18T13:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          131.93333333333334,
-          31.783333333333335
-        ]
-      },
-      "rawText": "番号:26-2203    発表日時:2026年11月18日 13時\r\n\n\r\n日向灘、\r\r\n射撃、11月23日(予備24日)0800-2400、\r\r\n31-47N 131-56Eを中心とする半径5海里の円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262203&LANG=JP"
     },
     {
       "id": "NAVTEX-262201",
