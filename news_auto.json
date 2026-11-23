@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-70678",
+    "headline": {
+      "ja": "ウクライナ、リビア沖のロシア艦を攻撃",
+      "en": "Ukraine claims responsibility for drone attacks on Russian ships off Libya"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領は、リビア沖のロシア艦に対するドローン攻撃をウクライナが実行したと述べ、「模範的なウクライナの作戦」と評価した。",
+      "en": "Ukrainian President Zelenskyy claims responsibility for drone attacks on Russian ships off Libya, calling it an exemplary Ukrainian operation."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-23T08:12:29+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_libya_ship_attack_2026-11-23",
+    "severity": 4
+  },
+  {
     "id": "auto-70612",
     "headline": {
       "ja": "ウクライナ、リビア沖でロシア軍艦を撃沈と発表",
@@ -2199,28 +2223,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "south_africa_mass_shooting_2026-11-16"
-  },
-  {
-    "id": "auto-61531",
-    "headline": {
-      "ja": "米第3空母が中東配備",
-      "en": "Third US Aircraft Carrier Arrives in Middle East"
-    },
-    "summary": {
-      "ja": "USS Theodore Rooseveltが、イランとの緊張が高まる中東地域に到着した。トランプ大統領は軍に対するメッセージを発表した。",
-      "en": "The USS Theodore Roosevelt has arrived in the Middle East amid tensions with Iran, with Trump sharing a message supporting US troops."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-16T09:31:36+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_iran_military_tensions_carrier_deployment"
   }
 ]
