@@ -52,6 +52,54 @@
     "periodEnd": "2026-11-29T00:00:00Z"
   },
   {
+    "id": "2026-11-21-ru-000236",
+    "recordType": "individual",
+    "country": "RU",
+    "unitName": "Tu-142",
+    "unitNumber": null,
+    "aircraftType": "reconnaissance",
+    "position": {
+      "area": "対馬海峡・東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍のTu-142哨戒機2機が対馬海峡を往来し東シナ海で活動。日本の防衛省が発表。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37598/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-22T21:21:16.687896Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-21T00:00:00Z"
+  },
+  {
+    "id": "2026-11-21-ru-000237",
+    "recordType": "individual",
+    "country": "RU",
+    "unitName": "Tu-95",
+    "unitNumber": null,
+    "aircraftType": "bomber",
+    "position": {
+      "area": "東シナ海",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア航空宇宙軍のTu-95爆撃機2機が日本周辺を飛行。Tu-142哨戒機と合流し東シナ海で活動。日本の空自がスクランブル対応。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37598/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-22T21:21:16.687896Z",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-21T00:00:00Z"
+  },
+  {
     "id": "2026-11-19-ru-000223",
     "recordType": "aggregate",
     "country": "RU",
