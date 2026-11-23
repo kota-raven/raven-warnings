@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-71123",
+    "headline": {
+      "ja": "ドイツ情報機関、ロシアが今年中に核兵器を軌道に配置する恐れを警告",
+      "en": "German intelligence warns Russia may deploy nuclear weapons in orbit this year"
+    },
+    "summary": {
+      "ja": "ドイツの対外情報機関がロシアが今年中に核兵器を軌道に配置する可能性があると警告した。軌道核兵器は国際的な核抑止体制に大きな脅威をもたらす。",
+      "en": "Germany's foreign intelligence agency has warned that Russia may deploy nuclear weapons in orbit this year, posing a major threat to international nuclear deterrence."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-23T10:59:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa29DWXVGb1BtdDZKN3B3UTBCcC1tSFBrQy14dGh2TW1GNjY4RVJ2NDJUOTdQR3M3SUdOYzI5UXM3X0hHQ253MHpQOHppT21XekZod1ppNFZoODFVZ1ZoWkVoc3NyaEtwQldwWHk2aTlRdHkxWEZwT3N0eWtjRExCVkwtUmpKOWQ3eU84SVJielFUWl9rMnFRczVjbUVrZWpLcWMwVHBIajFHSFZMYklMTGp2dnc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_nuclear_orbit_deployment_warning_2026-11-23",
+    "severity": 4
+  },
+  {
+    "id": "auto-70939",
+    "headline": {
+      "ja": "ポーランド検察、ロシアの巡航ミサイル3発がポーランド領空に侵入したことを確認",
+      "en": "Polish prosecutors confirm three Russian cruise missiles entered Polish airspace"
+    },
+    "summary": {
+      "ja": "ポーランド検察当局は、ロシア製の巡航ミサイル3発がポーランド領空に侵入したことを正式に確認した。NATO加盟国への領空侵犯は重大なエスカレーションの懸念材料である。",
+      "en": "Polish prosecutors have formally confirmed that three Russian cruise missiles entered Polish airspace, marking a serious escalation risk for the NATO member state."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "occurredAt": "2026-11-23T10:18:45+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnd6SGMxNXFXUDdJUnVVcGRBb2NqbVpPZHlqRmpVYWYzRmtRLWRTOW1GLWJOa2xETDU1bDJsaTZrTnlFNlJwX2J5UURFRDZaV1B2dUFRaTFyTVpEcE5wa2NTdVdzaGhFTXA3a2FVVUU2dHU1MUk1TldZRGo3Vlk5MzA0NDdUTm5nZ2VBOG40VGowNTBHR1A5TTRpWWhZaWVTMkZtOGtDbERaejQwdlkyWGlBXzNZNjBxY1E?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "poland_airspace_russian_missile_intrusion_2026-11-23",
+    "severity": 4
+  },
+  {
     "id": "auto-70678",
     "headline": {
       "ja": "ウクライナ、リビア沖のロシア艦を攻撃",
@@ -2154,74 +2202,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_moscow_airport_drone_attack_2026-11-16"
-  },
-  {
-    "id": "auto-64865",
-    "headline": {
-      "ja": "AIが自律的に脆弱性を発見・悪用する攻撃フレームワークをGoogle初観測",
-      "en": "Google Observes Autonomous AI Framework for Vulnerability Discovery and Exploitation"
-    },
-    "summary": {
-      "ja": "Googleは、複数のAIエージェントを組み合わせて脆弱性発見から攻撃まで自律的に実行するフレームワークが初めて確認されたと報告。標的への接近や世論工作の自動化も増加している。",
-      "en": "Google reported the first observation of an autonomous AI framework combining multiple agents to automatically discover and exploit vulnerabilities, alongside increased use of AI for target infiltration and opinion manipulation."
-    },
-    "category": "conflict",
-    "country": "アメリカ",
-    "lat": 38.8951,
-    "lon": -77.0364,
-    "occurredAt": "2026-11-16T14:00:56+00:00",
-    "source": {
-      "name": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "google_autonomous_ai_vulnerability_exploitation_2026-11"
-  },
-  {
-    "id": "auto-61548",
-    "headline": {
-      "ja": "ウクライナが記録的規模の無人機攻撃を実施したという報告",
-      "en": "Report of record-scale Ukrainian drone attack"
-    },
-    "summary": {
-      "ja": "rybarのアカウントが、ウクライナ側による1336機の無人機による大規模攻撃の投稿と報告。ロシア防空部隊がこれを迎撃したという主張。",
-      "en": "Telegram account reports Ukraine launches record-scale attack with 1336 drones"
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-16T13:28:57+00:00",
-    "source": {
-      "name": "Telegram @rybar(親ロシア・東側)",
-      "url": "https://t.me/rybar/84721"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "ukraine_drone_attack_record_2026-11-16"
-  },
-  {
-    "id": "auto-61504",
-    "headline": {
-      "ja": "南アフリカで連続銃撃事件、17名死亡",
-      "en": "Two mass shootings in South Africa leave 17 dead"
-    },
-    "summary": {
-      "ja": "南アフリカのクワズール・ナタール州とゴーテン州で連続銃撃事件が発生し、17名が死亡。同国の暴力犯罪が深刻であることを示している。",
-      "en": "Mass shootings in South Africa's KwaZulu-Natal and Gauteng provinces result in 17 deaths"
-    },
-    "category": "disaster",
-    "country": "南アフリカ",
-    "lat": -25.7449,
-    "lon": 28.1878,
-    "occurredAt": "2026-11-16T10:57:48+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "south_africa_mass_shooting_2026-11-16"
   }
 ]
