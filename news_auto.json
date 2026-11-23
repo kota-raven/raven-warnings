@@ -1,5 +1,166 @@
 [
   {
+    "id": "auto-70612",
+    "headline": {
+      "ja": "ウクライナ、リビア沖でロシア軍艦を撃沈と発表",
+      "en": "Ukraine says it sank Russian warship in naval drone attack off Libya"
+    },
+    "summary": {
+      "ja": "ウクライナがリビア沖でドローン攻撃によりロシアの軍艦を撃沈したと発表した。",
+      "en": "Ukraine announced it sank a Russian warship in a naval drone attack off the coast of Libya."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-23T07:57:24+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2l1ektHU0lTMG5ldUpFQ0dVMWlhZWM3ZEQ5U3JEaG5KSWxhUDFrNVlGQUhud0tSaXNyZVA1eEd4Q1BPbXRPNUNSVlluTk5vckloc0lwVXJsWXItRWFacUxmemhjZGE3WUxpZ0ZCLVBQV01Gd19YbF9pQ3YtQzBnZ3hyMXVxSkFfeU9ra3JURVpoMS1DR2o3RWl0T3F0VmY0Unlzb0JxT1lUby1WSlcxNlhteEkzYU0?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_sank_russian_warship_libya_2026-11-23"
+  },
+  {
+    "id": "auto-70345",
+    "headline": {
+      "ja": "ゼレンスキー大統領、リビア沖のロシア艦攻撃をウクライナの作戦と確認",
+      "en": "Zelenskyy confirms Ukraine behind drone attacks on Russian ships near Libya"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領がリビア沖でロシア艦を攻撃したのはウクライナの作戦であると確認した。",
+      "en": "Ukrainian President Zelenskyy confirmed Ukraine was behind the drone attacks on Russian ships near Libya."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-23T07:37:09+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_drone_attack_russian_ships_libya_2026-11-23"
+  },
+  {
+    "id": "auto-70411",
+    "headline": {
+      "ja": "ゼレンスキー氏、リビア基地のロシア艦艇撃沈を確認",
+      "en": "Zelenskyy confirms Ukraine sank Russian corvette and cargo ship at Libyan base"
+    },
+    "summary": {
+      "ja": "ウクライナのゼレンスキー大統領がウクライナ軍がリビアの基地でロシアのコルベット艦とロシア貨物船を撃沈したと確認した。",
+      "en": "Ukrainian President Zelenskyy confirmed Ukraine's military hit and sank a Russian corvette and cargo ship at the Libyan base."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-23T07:33:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWJzMXEwa29NOU5QSVVZaEdDcTE5ZEM0UEZSdmNCWkc5WWhJa2I2dnFtUnpXelFHNzhWTzNlNThmYnJjM0hkWlhPYkJFSjJ4bTIwZ0RpWjZTUWc2X2dTc0tYWDJZM3ptS3ZyNmxoOExRdDZ3TnlqWk1Ic2x4cDl4a3ZVMlRBQQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_sunk_russian_ships_libya_2026-11-23"
+  },
+  {
+    "id": "auto-70617",
+    "headline": {
+      "ja": "スーダン・ハルツーム、RSFドローン攻撃で国連職員3人負傷",
+      "en": "3 UN staff injured in RSF drone attack in Khartoum"
+    },
+    "summary": {
+      "ja": "スーダンの首都ハルツームでRSFのドローン攻撃により国連職員3人が負傷した。",
+      "en": "Three UN staff members were injured in an RSF drone attack in Khartoum."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-23T07:24:08+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHl4ZDI2WEVOZ1JMUWl0XzlNVlFndk5yd1RxYXZfVTlnY2t3UlltZUZNelVqOWpPTGNTN1Y1ekkyTjZDT1psV1BWNGZjZlplZWt0WlJRQXhQLXhaQ0xpOExpZVUwT2FOTDg2VFJYdk93Y3RWRFNKSEZCbHdySHlWUG9Xc2ZxeXRick1qbzNMRmt0bU9SeXNwV1lVb2NDOVBVYW5hZ3R1ajEtUDJjR1ZR?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "rsf_drone_attack_un_staff_khartoum_2026-11-23"
+  },
+  {
+    "id": "auto-70613",
+    "headline": {
+      "ja": "スーダン・ハルツーム民間地域でドローン攻撃、3人死亡10人負傷",
+      "en": "3 killed, 10 injured in drone attack on civilian areas in Khartoum"
+    },
+    "summary": {
+      "ja": "スーダンの首都ハルツームの民間地域がドローン攻撃を受け、3人が死亡し10人が負傷した。",
+      "en": "A drone attack on civilian areas in Khartoum killed 3 and injured 10 people."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-23T07:05:49+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaENiOXhWdk5DUG5QU2w2VHhWNjdnTjU3S1FweHVac25vZ3NNTnJsRVdyQTRpS0JVY01UQ0Q1X01RYWFIOE1kaHFKWWdBazhKSGxwdHRKSTdvRmV6WWNOdmRVQXhzRDI1eS1IZ1I4Z0J3bWgwTzJiM2NFVWxzbk96SG5xbExGLXhMWk1yVXBaTEpUam5va011MlpjdjRhd3cwZTlwUXZScDRGaGM0Z013dWxfWkJPX19IcHc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_khartoum_drone_attack_casualties_2026-11-23"
+  },
+  {
+    "id": "auto-70355",
+    "headline": {
+      "ja": "ウクライナ、ロシアドローン攻撃で10人死亡・児童救出",
+      "en": "10 killed in Russian drone attack on Ukraine; child rescued from rubble"
+    },
+    "summary": {
+      "ja": "ロシアのドローン攻撃によりウクライナで10人が死亡し、瓦礫に14時間取り残されていた7歳の男児が救出された。",
+      "en": "A Russian drone attack killed 10 people in Ukraine; a seven-year-old boy was rescued from rubble after 14 hours."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-23T04:38:14+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_drone_attack_ukraine_deaths_2026-11-23"
+  },
+  {
+    "id": "auto-69918",
+    "headline": {
+      "ja": "スーダン・ハルツーム、ドローン攻撃で4人死亡・国連施設被害",
+      "en": "Drone attacks kill 4, damage UN facilities in Khartoum"
+    },
+    "summary": {
+      "ja": "スーダンの首都ハルツーム地域でドローン攻撃が行われ、4人が死亡し国連施設が被害を受けた。",
+      "en": "Drone attacks in Khartoum area resulted in 4 deaths and damage to UN premises."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "occurredAt": "2026-11-22T17:08:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFQ4YndQRm9sX1E4bzVXYVdRY3hLWDB5WWhTLW1PVjlGSFJEVi1tN1k2UEc5eVdaNzZYeE9POWVreHJYbmd1V0xyZU9oTmo5ck9peEFna3hjeXp0WDBabkhvc3I0QmxoUS1UbG1lem93eld0RHNQSW1HZlNubUY0d1ZJRThPZw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_khartoum_drone_attacks_2026-11-22"
+  },
+  {
     "id": "auto-69674",
     "headline": {
       "ja": "リビア港湾のロシア艦、ドローン攻撃被害か",
@@ -2061,214 +2222,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "us_iran_military_tensions_carrier_deployment"
-  },
-  {
-    "id": "auto-61596",
-    "headline": {
-      "ja": "フーシ派が捕虜600名を解放、ミサイル攻撃で17名が死傷",
-      "en": "Houthis release 600 detainees as 17 killed or injured in missile strike"
-    },
-    "summary": {
-      "ja": "中国国営通信が報じたところ、フーシ派がイエメンで捕虜600名を解放。同時にミサイル攻撃の影響で17名が死傷。",
-      "en": "Houthis release 600 detainees while 17 killed or wounded in missile strike"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-16T06:00:31+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3N1ltekU5bzVXNGNUem42RkRiWGE5bmowM1BjQ1RPQVJGNXp6cW5FT0JyVUdzSmNLNVFjOGJOVldzemQxamcwUXVCSUJHTmN1RWZyb0plYzdPM2psb29HTmRHX2kwVzI1NVkyR0RmS1lQUzhfUko4RndFOWg?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthi_prisoner_release_2026-11-16"
-  },
-  {
-    "id": "auto-60657",
-    "headline": {
-      "ja": "タイ・プーケットの商業ビル火災で11人以上死亡",
-      "en": "Shophouse fire kills at least 11 in Phuket"
-    },
-    "summary": {
-      "ja": "タイの観光地パトンにおいて、複数のビルが火災に覆われ、複数人が死亡し多くの人が負傷した。",
-      "en": "Fire engulfed multiple buildings in Thailand's Patong tourist area, killing several people and injuring many others."
-    },
-    "category": "disaster",
-    "country": "タイ",
-    "lat": 7.8906,
-    "lon": 98.3981,
-    "occurredAt": "2026-11-16T03:51:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "thailand_phuket_fire_2026-11-16"
-  },
-  {
-    "id": "auto-64872",
-    "headline": {
-      "ja": "スパコン「富岳」が不正アクセス",
-      "en": "Fugaku Supercomputer Faces Unauthorized Access"
-    },
-    "summary": {
-      "ja": "理化学研究所は、スーパーコンピュータ「富岳」がシステム不正アクセスを受けたことを明らかにした。",
-      "en": "RIKEN announced that Fugaku supercomputer systems experienced unauthorized access."
-    },
-    "category": "conflict",
-    "country": "日本",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "occurredAt": "2026-11-16T03:42:48+00:00",
-    "source": {
-      "name": "ITmedia NEWS",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "japan_fugaku_breach_official_announcement_2026-11"
-  },
-  {
-    "id": "auto-60658",
-    "headline": {
-      "ja": "ASEAN・中国、南シナ海行動規範で合意に至らず",
-      "en": "ASEAN and China fail to reach South China Sea code agreement"
-    },
-    "summary": {
-      "ja": "東南アジア指導者らはミャンマーでの暴力を非難し、同国の指導者の首脳会議参加禁止措置を延長した。",
-      "en": "Southeast Asian leaders denounced violence in Myanmar and extended a ban on the country's leader attending bloc summits."
-    },
-    "category": "conflict",
-    "country": "中国",
-    "lat": 39.9075,
-    "lon": 116.3972,
-    "occurredAt": "2026-11-16T02:46:35+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "asean_china_south_china_sea_2026-11"
-  },
-  {
-    "id": "auto-60659",
-    "headline": {
-      "ja": "フーシ派がイエメン政府軍の最後の要塞を脅かす",
-      "en": "Houthis advance in Yemen as government forces defend Aden"
-    },
-    "summary": {
-      "ja": "イエメンではフーシ派勢力が進攻し、政府軍が支配下のアデンを防衛するため動員されている。",
-      "en": "Houthi armed group advances threaten one of the government's last strongholds in Yemen."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 12.7796,
-    "lon": 45.0385,
-    "occurredAt": "2026-11-16T02:22:29+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthis_aden_offensive_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-60666",
-    "headline": {
-      "ja": "Eisenkot、ネタニヤフ首相の継続を批判",
-      "en": "Eisenkot says Netanyahu cannot remain Israel PM amid vote meddling"
-    },
-    "summary": {
-      "ja": "イスラエルの政治家Eisenkotは、選挙への不正な干渉疑惑を理由にネタニヤフ首相の辞任を要求した。",
-      "en": "Eisenkot calls for Netanyahu's resignation following allegations of unauthorized election interference."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-16T00:01:45+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_netanyahu_election_meddling_2026-11"
-  },
-  {
-    "id": "auto-60667",
-    "headline": {
-      "ja": "イラン、米国攻撃警告、Theodore Roosevelt母艦中東到着",
-      "en": "Iran warns it could strike first as third US carrier arrives"
-    },
-    "summary": {
-      "ja": "米国のTheodore Roosevelt空母がペルシア湾に到着した一方、イラン政府は先制攻撃も辞さないと警告した。",
-      "en": "USS Theodore Roosevelt carrier arrives in Middle East as Iran warns of potential preemptive strike."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-16T00:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "iran_usa_tensions_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-60992",
-    "headline": {
-      "ja": "イスラエル元参謀総長、ネタニャフは民主主義への脅威と批判・選挙干渉調査予告",
-      "en": "Eisenkot calls Netanyahu a 'direct threat' to Israel's democracy, vows probe into alleged election interference"
-    },
-    "summary": {
-      "ja": "イスラエル元参謀総長ギャディ・アイゼンコットがネタニャフ首相を民主主義への直接的脅威と批判し、選挙干渉の疑いについて調査を実施する意向を表明した。",
-      "en": "Former Israeli chief of staff Eisenkot called Netanyahu a 'direct threat' to Israel's democracy and vowed to probe alleged election interference."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-15T22:23:07+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1ByY3k4eF9MendPYmE2UGJSUmpnQXg3ajZ1X1VVeVh6Z0prMDFMWktJTkc0aE9aQmNveTlWaHFIRmUzWnEwZzFuWmJBRDRKUHZJOEhtOUFjU1h3OU4wTnBvaWlTQk51YnFqcmRzNWZxMFQtUDZUV3dia3I5RC0xNjgzTkRvendSLVhIaVpqbURrbTZKejkyVXhrek81QVFMd19qckc0Z3NhVF8xZmxYLUpIZmxwSkdaUnZNclpFMlM2cHg3SmJkVFI4T3lONjVueDYxSDB2V21WWkcyOV9hVTBiWmRHY3Ni?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_netanyahu_democracy_criticism_2026-11-15"
-  },
-  {
-    "id": "auto-60670",
-    "headline": {
-      "ja": "豪加伊英、イスラエルのガザ援助阻止を非難",
-      "en": "Australia, Canada, Italy, UK call for Israel to allow humanitarian aid to Gaza"
-    },
-    "summary": {
-      "ja": "オーストラリア、カナダ、イタリア、イギリスはイスラエルがガザへの援助物資（テント等）の搬入を阻止していると非難した。",
-      "en": "Four Western nations condemn Israel for preventing humanitarian supplies from entering Gaza."
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-15T22:06:38+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "israel_gaza_humanitarian_aid_2026-11"
   }
 ]
