@@ -162,6 +162,30 @@
     "eventKey": "russia_drone_attack_ukraine_deaths_2026-11-23"
   },
   {
+    "id": "auto-70221",
+    "headline": {
+      "ja": "米国がロシア・ウクライナ・欧州とのウクライナ紛争終結後の安全保障体制協議を計画",
+      "en": "US to discuss post-conflict security arrangements with Russia, Ukraine, and Europe"
+    },
+    "summary": {
+      "ja": "米国がウクライナ紛争の可能的終結後における地域安全保障体制について、ロシア、ウクライナ、欧州各国と協議する予定。国際外交の重要な局面における多国間交渉の開始を示唆。",
+      "en": "United States plans comprehensive discussions with Russia, Ukraine, and European nations on post-conflict security frameworks and regional stability measures, marking a significant diplomatic effort toward potential conflict resolution."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-22T20:20:29+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FQjkzc1RaeGN5QnpwRk5LZHFDSEtXdEVfcXdyMXFhcHA3TVo0TlZkdzJSSEc2WXFNUV9HNTJObmdlb3ha0gFKQVVfeXFMUE5ORERXdVhXMm8wbGFwLVZBNEg1T180NjZvUXVmVW9HaThWNG1QbDBsY3ZuNHB0OVhGeDcwX0JXVVhlLVlSRHlkaWc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_postconflict_security_discussions_20261123",
+    "severity": 4
+  },
+  {
     "id": "auto-69918",
     "headline": {
       "ja": "スーダン・ハルツーム、ドローン攻撃で4人死亡・国連施設被害",
