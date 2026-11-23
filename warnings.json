@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:12:19.144Z",
+  "generatedAt": "2026-11-23T08:54:38.003Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
   "count": 197,
   "warnings": [
@@ -3114,16 +3114,40 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-262235",
+      "id": "NAVTEX-262237",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "2235",
-      "title": "秋田船川港、秋田区、黄色灯付浮標撤去",
-      "publishedAt": "2026-11-22T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2235    発表日時:2026年11月22日 17時\r\n\n\r\n秋田船川港、秋田区、\r\r\n黄色灯付浮標撤去。\r\r\n(2233削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262235&LANG=JP"
+      "category": "訓練試験",
+      "number": "2237",
+      "title": "五島列島南、ミサイル射撃",
+      "publishedAt": "2026-11-23T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          128.76444444444445,
+          32.336666666666666
+        ]
+      },
+      "rawText": "番号:26-2237    発表日時:2026年11月23日 13時\r\n\n\r\n五島列島南、\r\r\nミサイル射撃、11月28日(予備29日)0800-1700、\r\r\n31-47-12N 32-20-12N 128-45-52E\r\r\n129-09-52Eの各線で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262237&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262236",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2236",
+      "title": "落石岬南南東、射撃",
+      "publishedAt": "2026-11-23T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          145.72,
+          42.965
+        ]
+      },
+      "rawText": "番号:26-2236    発表日時:2026年11月23日 13時\r\n\n\r\n落石岬南南東、\r\r\n射撃、11月28日(予備29日)0800-2400、\r\r\n42-57-54N 145-43-12Eを中心とする\r\r\n半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262236&LANG=JP"
     },
     {
       "id": "NAVTEX-262234",
@@ -3166,38 +3190,6 @@
       },
       "rawText": "番号:26-2231    発表日時:2026年11月21日 17時\r\n\n\r\n潮岬西、\r\r\n浮魚礁(約6メートル四方、黄色)漂流、\r\r\n11月21日1500、33-27-22N\r\r\n135-23-08E、灯及びAIS(MMSI\r\r\n994311560)で表示。\r\r\n(2225削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262231&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262230",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "曳航",
-      "number": "2230",
-      "title": "友ケ島水道−伊勢湾、津港、台船えい航",
-      "publishedAt": "2026-11-21T17:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            135,
-            34.28333333333333
-          ],
-          [
-            135.03333333333333,
-            33.88333333333333
-          ],
-          [
-            137.01666666666668,
-            34.55
-          ],
-          [
-            136.55,
-            34.666666666666664
-          ]
-        ]
-      },
-      "rawText": "番号:26-2230    発表日時:2026年11月21日 17時\r\n\n\r\n友ケ島水道-伊勢湾、津港、\r\r\nえい船(昇陽丸、MMSI 432543000)による台船\r\r\n(STEEL HUB-2)えい航、友ケ島水道(34-17N \r\r\n135-00E)11月21日1930通過、日ノ御碕西\r\r\n(33-53N 135-02E)21日2330通過、伊良湖\r\r\n水道航路(34-33N 137-01E)23日0130通過、\r\r\n津港(34-40N 136-33E)23日0600到着予定、\r\r\n速力約6ノット、長さ約240メートル。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262230&LANG=JP"
     },
     {
       "id": "NAVTEX-262229",
