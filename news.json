@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-21-03",
-    "headline": {
-      "ja": "米国株、ダウ・S&P500が一時「調整局面」入り ナスダックも急落、AI懸念に地政学リスク重なる(11月20日)",
-      "en": "US stocks: Dow, S&P 500 briefly enter correction territory as Nasdaq slides amid AI worries, geopolitical risk (Nov 20)"
-    },
-    "summary": {
-      "ja": "2026年11月20日(金)の米国市場で、ダウ工業株30種平均とS&P500指数が直近高値から約10%下落する「調整局面」入りを、取引時間中(ザラ場)に記録したことが、Yahoo Finance、CBSニュース等複数の報道で確認されたという。この時点でナスダック総合指数も一時3%超下落し、CBOEボラティリティ指数(VIX)は15%超上昇したとされる。前日11月19日(木)終値のダウ平均1101ポイント安・ナスダック2.3%安の急落(既報)からの続落で、AI関連投資への過熱懸念に加え、米国・イスラエルによるイラン再攻撃の観測、12月の政府機関閉鎖の可能性なども下落要因として挙げられているという。推測:本稿作成時点(日本時間11月21日早朝、米東部時間11月20日午前)では米国市場はなお取引時間中であり、最終的な終値・下落率は確定していない。複数の報道間で具体的な指数の水準・下落率に差があり(例:ある報道はS&P500が6966.02〈-2.92%〉、ダウ平均48486.00〈-1.24%〉としている一方、別の報道は異なる水準を示す)、確定値は次回収集で改めて確認する。[信頼性: 中](Yahoo Finance、CBSニュース等複数の報道、2026年11月20日時点。取引時間中の速報値であり終値は未確定)",
-      "en": "In US trading on Friday, November 20, 2026, the Dow Jones Industrial Average and S&P 500 reportedly briefly entered 'correction territory' — a roughly 10% decline from their recent peaks — intraday, according to multiple outlets (Yahoo Finance, CBS News). At that point the Nasdaq Composite also fell more than 3%, and the CBOE Volatility Index (VIX) reportedly jumped more than 15%. This followed Thursday November 19's close, when the Dow fell 1,101 points and the Nasdaq fell 2.3% (already reported). Cited drivers include continued concern over AI-related investment overheating, renewed speculation about possible US-Israeli strikes on Iran, and the possibility of a government shutdown in December. Speculation: as of this writing (early morning Nov 21 JST / Friday morning Nov 20 ET), US markets were still in session, so the final close and decline figures were not yet confirmed. Specific index levels and decline percentages vary between outlets (e.g., one report cites the S&P 500 at 6,966.02 [-2.92%] and the Dow at 48,486.00 [-1.24%], while others give different levels); the final figures will be confirmed in the next collection. [Reliability: Medium] (Reported by Yahoo Finance, CBS News and others as of Nov 20, 2026; intraday figures, close not yet confirmed)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-20T16:00:00+00:00",
-    "source": {
-      "name": "Yahoo Finance / CBS News",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-plunge-correction-175951472.html"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-21-05",
     "headline": {
       "ja": "米国株、ダウ・S&P500が終値でも「調整局面」入りを確定 ダウ949ポイント安、AI関連売りが主因",
@@ -149,27 +128,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-11-22-07",
-    "headline": {
-      "ja": "英国とEU、ブレクジット10年を経て関係「リセット」合意 食品検査撤廃・若者交流制度などで前進(11月20日)",
-      "en": "UK and EU agree 'reset' deal 10 years after Brexit, advancing food checks removal and youth mobility scheme (Nov 20)"
-    },
-    "summary": {
-      "ja": "2026年11月20日(金)、ブリュッセルでの首脳会合で、英国とEUが関係の「リセット」に合意したという。複数の報道(Al Jazeera等)によれば、英国のバーナム首相は「合意は成立した」と述べ、2016年の国民投票によるブレクジットから10年を経た節目での関係改善とされる。報道によれば、合意は3分野(動植物製品の貿易検査を撤廃する衛生植物検疫(SPS)協定、双方最大3年間就労可能な若者交流制度、両者の排出量取引制度を連結し鉄鋼等を相互の国境炭素課税から除外する枠組み)に及び、英国政府はSPS協定により英経済に51億ポンド(約67億ドル)相当の効果があると見積もっているという。EU加盟学生・英国人学生の学費については、今後6カ月以内の合意を目指すとされる。野党(リフォームUK)のファラージ党首はこれを「ブレクジットへの裏切り」と批判したと報じられている。推測:若者交流制度・排出量取引連結の具体的な発効時期や、学費交渉の行方は本収集時点では確定していない。[信頼性: 高](Al Jazeera等複数の国際メディアが2026年11月20日の報道として伝えている)",
-      "en": "At a summit in Brussels on Friday, November 20, 2026, the UK and EU reportedly agreed a 'reset' of relations. Multiple outlets (including Al Jazeera) reported UK Prime Minister Andy Burnham saying 'the deal is done,' coming a decade after the 2016 Brexit referendum. According to reports, the agreement covers three areas: a sanitary and phytosanitary (SPS) deal removing checks on trade in plant and animal products, a youth mobility scheme allowing people to live and work in each other's territory for up to three years, and a framework linking the two sides' emissions trading systems that would exempt goods such as steel from each other's border carbon levies. The UK government estimated the SPS deal alone is worth £5.1 billion ($6.7bn) to the British economy. The two sides reportedly set a six-month timeline to reach agreement on student fees for EU and UK students studying in each other's territory. Reform UK leader Nigel Farage was reported to have called the deal a 'Brexit betrayal.' Speculation: the exact implementation timeline for the youth mobility scheme and emissions-trading link, and the outcome of the student-fee negotiations, remain unconfirmed as of this collection. [Reliability: High] (Reported as of November 20, 2026 by multiple international outlets including Al Jazeera)"
-    },
-    "category": "economy",
-    "country": "イギリス",
-    "lat": 55.3781,
-    "lon": -3.436,
-    "occurredAt": "2026-11-20T12:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-11-22-08",
@@ -302,5 +260,49 @@
       "url": "https://www.dailywaadaa.com/world/2026/11/23/israeli-strike-kills-worker-with-un-palestinian-agency-in-gaza"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-24-01",
+    "headline": {
+      "ja": "ウクライナ、リビア・ベンガジでロシア海軍コルベットを撃沈と発表(ゼレンスキー氏)",
+      "en": "Ukraine says its naval drones sank a Russian warship at Benghazi, Libya"
+    },
+    "summary": {
+      "ja": "ゼレンスキー大統領は11月23日、ウクライナの海軍無人艇(推定7機)が11月22日未明、リビア北東部ベンガジの港でロシア海軍のコルベット「メルクリー」(2023年就役)を撃沈し、貨物船「アンガラ」も損傷させ、艦載のKa-27ヘリコプターも破壊したと発表したという。前線から約2400km離れた作戦で、衛星画像会社Vantorの画像はメルクリーが転覆した様子を示しているとCNBC等が報じたが、ロシア側は事実の確認も否定もしておらず(クレムリンは「認知した」とのみ述べた)、被害の詳細はウクライナ側の発表に基づく。国連リビア支援団(UNSMIL)は「深刻な懸念」を表明し、独立した調査を求めたという。[信頼性: 中](ウクライナ政府の発表が主な根拠で、衛星画像による裏付けはあるがロシア側の独立した確認は得られていない)",
+      "en": "President Zelensky said on November 23 that Ukrainian naval drones (reportedly seven) sank the Russian navy corvette Merkury, commissioned in 2023, at the port of Benghazi in northeastern Libya in the early hours of November 22, also damaging the cargo ship Angara and destroying a Ka-27 helicopter aboard. The operation reportedly took place roughly 2,400km from the front line. Satellite imagery from Vantor reportedly shows the Merkury capsized, per CNBC and others, but Russia has neither confirmed nor denied the claim (the Kremlin said only that it had \"taken note\"), so casualty/damage details rest on Ukraine's own account. The UN mission in Libya (UNSMIL) reportedly expressed \"serious concern\" and called for an independent investigation. [Reliability: Medium] (Based mainly on the Ukrainian government's announcement; corroborated by satellite imagery but not independently confirmed by Russia)"
+    },
+    "category": "conflict",
+    "country": "リビア",
+    "region": "ベンガジ",
+    "lat": 32.1167,
+    "lon": 20.0667,
+    "occurredAt": "2026-11-22T01:00:00+00:00",
+    "source": {
+      "name": "CNBC / Al Jazeera / NBC News",
+      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-24-02",
+    "headline": {
+      "ja": "イランによる攻撃、バーレーンの工業施設に着弾 2人負傷(一人重体)",
+      "en": "Iranian strike hits industrial facility in Bahrain, injuring two"
+    },
+    "summary": {
+      "ja": "バーレーン内務省は、11月21日(土)にイランによる攻撃で民生用の工業施設(報道ではシトラ島とされる)が被弾し火災・物的損害が発生したと発表したという。当初は負傷者なしとしていたが、22日(日)の発表で負傷者2人(バーレーン人1人は安定、パキスタン人居住者1人は重体)に更新されたという。イラン革命防衛隊(IRGC)は、バーレーンのアル・リファ基地およびアワリ基地の米軍関連施設を狙ったミサイル・ドローン複合攻撃だったと主張しているが、バーレーン外務省は対象が完全に民生施設であったと反論しているという。湾岸協力会議(GCC)・アラブ首長国連邦(UAE)はバーレーンへの主権侵害だとして強く非難したという。[信頼性: 高](バーレーン内務省の発表、Al Jazeera・The National・Times of Israel等複数の報道で確認)",
+      "en": "Bahrain's Interior Ministry said an Iranian attack on November 21 hit a civilian industrial facility (reported to be on Sitra Island), causing a fire and material damage. It initially reported no injuries, but updated the toll on November 22 to two injured — a Bahraini citizen in stable condition and a Pakistani resident in critical condition. Iran's Revolutionary Guard Corps claimed it was a combined missile-and-drone strike targeting US-related positions at Bahrain's Al-Riffa and Awali bases, which Bahrain's Foreign Ministry disputed, insisting the target was purely civilian. The GCC and UAE strongly condemned the strike as a violation of Bahrain's sovereignty. [Reliability: High] (Confirmed by Bahrain's Interior Ministry statement and corroborated by Al Jazeera, The National, Times of Israel and others)"
+    },
+    "category": "conflict",
+    "country": "バーレーン",
+    "lat": 26.0667,
+    "lon": 50.5577,
+    "occurredAt": "2026-11-21T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / Bahrain Ministry of Interior",
+      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
