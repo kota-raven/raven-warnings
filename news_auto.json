@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-72255",
+    "headline": {
+      "ja": "イスラエル空爆がハマス幹部を殺害",
+      "en": "Israeli air strike kills Hamas internal security chief in Gaza"
+    },
+    "summary": {
+      "ja": "イスラエルの空爆によってハマスの内部治安部門の責任者が殺害され、同時に他の6人のパレスチナ人も被害を受けた。",
+      "en": "An Israeli air strike killed Naeem Abu Nahel, the Hamas internal security chief, along with six other Palestinians."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-24T15:35:53+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_hamas_chief_killed_2026-11-24"
+  },
+  {
+    "id": "auto-72874",
+    "headline": {
+      "ja": "リヤド金融センター高層ビルが攻撃を受ける",
+      "en": "Riyadh financial center skyscraper comes under attack"
+    },
+    "summary": {
+      "ja": "サウジアラビアの首都リヤドにある金融センターの高層建物が攻撃を受けた。",
+      "en": "A skyscraper in Riyadh's financial district came under attack."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-24T14:30:30+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jTGF6ZjdNMk0xdnRqNlZuUDJBRFB5Z25kZE95M0hjNGRxVXJHNzR4RVVfNXpNUnR5Y0hfWVQ4OUxRRVln0gFKQVVfeXFMT1dDZzZSLXdrYXd0c0stenpScjZpd2doalEwd0Z2bkg5WWNPcVVicjdaUV94Ti1ySnZ0OGtBWHNzTmNHeHJjZXUxU0E?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "riyadh_financial_center_attack_2026-11-24"
+  },
+  {
+    "id": "auto-72283",
+    "headline": {
+      "ja": "フーシ派のリヤド攻撃で11人負傷",
+      "en": "Houthi attack on Riyadh tower injures 11 people"
+    },
+    "summary": {
+      "ja": "フーシ派によるリヤドの金融地区の建物への攻撃で、サウジ国籍2人を含む11人が負傷した。",
+      "en": "A Houthi attack on a tower in Riyadh's financial district injured 11 people, including two Saudi nationals and nine foreigners."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-24T14:27:38+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "riyadh_houthi_attack_2026-11-24"
+  },
+  {
+    "id": "auto-72334",
+    "headline": {
+      "ja": "ホルムズ海峡で違反油タンカーが機雷で爆発",
+      "en": "Fourth violating oil tanker explodes after hitting mine in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン革命防衛隊によると、ホルムズ海峡東側で指定航路を外れた油タンカーが機雷に触れて爆発・炎上し、海運の安全が脅かされている。",
+      "en": "An oil tanker violating designated maritime routes in the Strait of Hormuz exploded and caught fire after striking a naval mine, the IRGC Navy announced."
+    },
+    "category": "economy",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-24T13:32:09+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86331453/Fourth-violating-oil-tanker-explodes-after-hitting-mine-east"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "strait_of_hormuz_tanker_mine_2026-11"
+  },
+  {
     "id": "auto-71499",
     "headline": {
       "ja": "イスラエルのドローン攻撃、ガザで5人のパレスチナ人が殺害",
@@ -115,6 +207,29 @@
     "eventKey": "gaza_israel_attacks_casualties_nov2026"
   },
   {
+    "id": "auto-72103",
+    "headline": {
+      "ja": "ロシア製油所、ウクライナ攻撃後に操業停止",
+      "en": "Russia's oil refinery suspends operations after Ukrainian attack"
+    },
+    "summary": {
+      "ja": "ウクライナからの攻撃を受けたロシアの石油精製施設が操業を停止し、エネルギー生産に影響が生じている。",
+      "en": "A Russian oil refinery has suspended operations following a Ukrainian attack, affecting energy production."
+    },
+    "category": "economy",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-23T15:07:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZjVnQ2UzNFdrTFZzWGsyNU1xMEZRNlNsUXNVVTg5d05XZGNueXpWYVJpTWE1X0dEM1hWS2p3eElsSTFMMWgwRDhqZElhWUN6VklsUm0wUXFEaVFGNnZHTHE4SzhVM1M2TDFzaTgtbjBTTjFSdng0bGN0TU1ucWdOak5GNDY0UQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "russia_oil_refinery_strike_2026-11"
+  },
+  {
     "id": "auto-71511",
     "headline": {
       "ja": "ガザ北部、イスラエルドローン攻撃でUNRWA職員が殺害",
@@ -159,6 +274,30 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "benghazi_attacks_mediterranean_security_2026"
+  },
+  {
+    "id": "auto-72023",
+    "headline": {
+      "ja": "ウクライナ電力網への冬季攻撃、黒海海運の脅威",
+      "en": "Winter attacks on Ukraine power grid and Black Sea shipping threaten lives and global supplies"
+    },
+    "summary": {
+      "ja": "冬期間中、ロシアによるウクライナのエネルギーインフラへの攻撃が市民の生活に打撃を与えており、黒海での海運脅威が穀物供給に影響を及ぼしている。",
+      "en": "Russian attacks on Ukraine's energy infrastructure are causing shortages of heat, power and water, while strikes on Black Sea shipping threaten grain supplies to import-dependent countries."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-23T12:00:00+00:00",
+    "source": {
+      "name": "国連(UN News)",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_power_grid_attack_2026-11",
+    "severity": 4
   },
   {
     "id": "auto-71123",
@@ -1946,168 +2085,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_siberia_military_aircraft_crash_2026-11-17"
-  },
-  {
-    "id": "auto-63734",
-    "headline": {
-      "ja": "フーシ派がサウジの石油パイプラインへの無人機攻撃を主張",
-      "en": "Yemen's Houthis claim drone attacks on Saudi oil pipeline"
-    },
-    "summary": {
-      "ja": "イエメンのフーシ派は、サウジアラビアの石油パイプラインを無人機で攻撃したと主張した。イエメン紛争が油田・インフラを巻き込んでいる。",
-      "en": "Yemen's Houthi movement claims to have conducted drone attacks on Saudi oil pipelines. The Yemeni conflict increasingly impacts critical energy infrastructure."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-17T19:07:15+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VV2taM09zNTBNQXRRSkVNNlNuNDFCZGZqSzhlWkdtUTRhUzFlbmpDTGk3amRibTlxS21XaWR2THlUVGIwVTg4WUpheFhsN2ZRTHlvVG8wcUptVW1XeFc4di1JeC11YVhhNDI5cXZnQ0tlQTY1VFN4b3hBS20?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "houthis_saudi_pipeline_attack_2026-11-17"
-  },
-  {
-    "id": "auto-63689",
-    "headline": {
-      "ja": "OSINTdefender が米国のカシム島への空襲を報告",
-      "en": "OSINTdefender reports US airstrike on Qeshm Island"
-    },
-    "summary": {
-      "ja": "OSINTdefender のアカウントで、米国がイランのカシム島の防空システムを標的に空襲を実施したという報告があった。ただし未確認情報。",
-      "en": "OSINTdefender posted that a U.S. airstrike targeted Iranian air defense systems on Qeshm Island. This remains unconfirmed information."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-17T18:57:16+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20774"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "us_qeshm_airstrike_2026-11-17"
-  },
-  {
-    "id": "auto-64049",
-    "headline": {
-      "ja": "ウクライナ大統領がロシア軍事拠点へのミサイル・ドローン攻撃を発表",
-      "en": "Ukraine President announces missile and drone strikes on Russian military targets"
-    },
-    "summary": {
-      "ja": "ウクライナ大統領は、ロシアの主要な軍事拠点南部への複数のミサイルとドローン攻撃を実施したと発表。ロシアのさらなるエスカレーション傾向に対抗する戦略と位置付けた。",
-      "en": "Ukraine's President announced successful missile and drone strikes against Russian military targets in the south. Ukraine frames the attacks as a response to Russia's continued escalation."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-17T18:45:00+00:00",
-    "source": {
-      "name": "ウクライナ 大統領府(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWd5cm5LVUFhdW4zUUNYdEhFNmpHNXR1LTN3bWJKVG5NM3h1Y1ZmQzlEZXNmV1RUdV94RW8tdVNZZzZzaGhSajc2cmVIVExZZTR6bElOcDgtc25LcndDaklnck1vSDdxYXB5dGNTMHNKMmUwb0F3X3A1RUY4QTNZQjZBLU15eXlCbXdvZkxyVVg3azJmN1lKSTJkb2dCcFZRX291Qjlwcw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_missile_drone_attack_russia_2026-11-17"
-  },
-  {
-    "id": "auto-63079",
-    "headline": {
-      "ja": "クリミア橋の一部損壊、ウクライナが大規模攻撃を実施",
-      "en": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
-    },
-    "summary": {
-      "ja": "ウクライナ軍がミサイルとドローンで、ロシア併合地のクリミアにある戦略的な橋を攻撃し、一部が損壊した。ゼレンスキー大統領は「前例のない」攻撃と評価した。",
-      "en": "Ukrainian forces conducted a large-scale missile and drone attack on the strategic Crimean Bridge in Russian-annexed Crimea, partially destroying it. President Zelensky praised the 'unprecedented' strike."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-17T16:56:38+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "crimean_bridge_attack_2026-11-17",
-    "severity": 4
-  },
-  {
-    "id": "auto-64230",
-    "headline": {
-      "ja": "英国がウクライナへ防空ミサイル1000発以上を供給へ",
-      "en": "UK to supply Ukraine with over 1,000 air defense missiles"
-    },
-    "summary": {
-      "ja": "英国がウクライナに対し、防空ミサイルと発射装置1000発以上を今冬に供給すると発表した。",
-      "en": "UK announced it will supply Ukraine with more than 1,000 air defense missiles and launchers this winter."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-17T16:18:09+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0hVR25tSGFFRkRyenZkcGp4dHRZdTAtRGVkWW1qV29RTW16Z1EwNnNyZVNqeHdINTNsNFUxeTJPWUwyYnB3UTFXbkhCUWpxQkZ6X3V0SFVxUnhoX2N5VkdrYnQ1ZS0yQXJuMllCcncxTlFFLUpYQV83NUdhUEQwME5xWGo5cnFSU1hobFk0eTFVdENIczBqRExNeW1RZ1hNcDlUTmdQdExid2Uxa2syZDNZVUFGajRSZmg3T3FIeDBWZw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "uk_air_defense_support_ukraine_2026-11"
-  },
-  {
-    "id": "auto-63394",
-    "headline": {
-      "ja": "ギリシャがイランに関連した暗殺計画を摘発",
-      "en": "Greek authorities uncover alleged assassination plot linked to Iran"
-    },
-    "summary": {
-      "ja": "ギリシャ当局は、イランに関連すると疑われる暗殺計画を発覚させた。欧州でのイランの活動が指摘されている。",
-      "en": "Greek authorities have uncovered an alleged assassination plot with suspected links to Iran. This highlights Iranian activity in Europe."
-    },
-    "category": "conflict",
-    "country": "ギリシャ",
-    "lat": 37.9838,
-    "lon": 23.7278,
-    "occurredAt": "2026-11-17T13:10:44+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVNsWFFsUC0wLVk2N3hxXzcxWjVuU05XY21sTk00TFdWS0RMNzNJcF9iWjdNMWVkT0UtRUNpVTFYS1hsOGVob1pRUHBDTnZIaUtFR0lrT01CMXNsbUpSTEg1dWRJLV9HVkgzUi1zWjI3Y2ItejZXTnBpNHYtMXU4ZXFaUXRmLXM0U3V1ZjhBRTJzeGVXTUxhSzVMSWd5ajFFSTN3Sk41WTBMTU5Mc25iMnBPQQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "greece_iran_assassination_plot_2026-11-17"
-  },
-  {
-    "id": "auto-63702",
-    "headline": {
-      "ja": "国連：2026年ウクライナ民間人死傷者が過去最高",
-      "en": "Ukraine: Civilian casualties in 2026 already far exceed previous years' tolls"
-    },
-    "summary": {
-      "ja": "国連人権監視団は、2026年のウクライナにおける民間人死傷者が、ロシアの本格侵攻以来いかなる年よりも大幅に増加したと報告した。",
-      "en": "The UN Human Rights Monitoring Mission reports that civilian casualties in Ukraine in 2026 far exceed those of any previous year since Russia's full-scale invasion in 2022."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-17T12:00:00+00:00",
-    "source": {
-      "name": "国連(UN News)",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_civilian_casualties_2026",
-    "severity": 4
   }
 ]
