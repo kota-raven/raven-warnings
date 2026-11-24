@@ -1,5 +1,166 @@
 [
   {
+    "id": "auto-71499",
+    "headline": {
+      "ja": "イスラエルのドローン攻撃、ガザで5人のパレスチナ人が殺害",
+      "en": "Israeli drone strikes kill 5 Palestinians in Gaza"
+    },
+    "summary": {
+      "ja": "イスラエルのドローン攻撃によりガザでパレスチナ人5人が殺害された。",
+      "en": "Israeli drone strikes result in the deaths of five Palestinians in Gaza."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-24T01:59:46+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2VPV0dCN3pzUWhOdkEwZWVnUmFNZ25SdzRmWFk0M0tDaEZ1ZHRsNXVrZzNaZTlWM1hXbVpyRFFBRzN2R0hJdGtMNF9KNnpmcnRHNnJDSFhmM1BTWXlmUUVPYTdRUkVOa1Zza1FDb05zZGxUdndlSHBadFNaY2Fja1ZIQ2pwQzM3SDhEWGdYWDhoemtaWWc?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_drone_strikes_casualties_nov2026"
+  },
+  {
+    "id": "auto-71479",
+    "headline": {
+      "ja": "国連パレスチナ難民機関職員、ガザ攻撃で1人殺害、3人負傷",
+      "en": "UN agency for Palestinians says one staffer killed, 3 others wounded in Israeli attack on Gaza"
+    },
+    "summary": {
+      "ja": "国連パレスチナ難民救済事業機関は、イスラエルのガザ攻撃により職員1人が殺害され、3人が負傷したと報告した。",
+      "en": "UN agency for Palestinians reports one staffer killed and three others wounded in Israeli military attack on Gaza."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-23T19:14:28+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZVNwN3IwTlVoTzVLTWx1N3hJaWRnNUswVE1lN0NYOHNBZm9jczRjSERwTklrYjhkRWpZczhvTjJ1QWZDSlZvTFFDZjZxR09WV2FkTzFaNDRLSFFiU2VBMVZrMUhxZ3phY3RZSkxwclRpVkluQXVjSTZKeng0MEVFQ2h5RGdXN1RXOTl6a1dmM3dHandSdTFEUVJNQXp4a0xqUlBIRG9QUkdkY2pWR3J1djZXQlJLU0dTdWZaZ3BWMXJjZU1ydEJ5MWkwY0VXbk5pYXBhVg?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_unrwa_staff_casualties_nov2026"
+  },
+  {
+    "id": "auto-71471",
+    "headline": {
+      "ja": "イエメン、8月以来36万人以上が避難",
+      "en": "More than 360,000 displaced in Yemen since August as UN reports rising civilian casualties"
+    },
+    "summary": {
+      "ja": "国連の報告によれば、イエメンでは8月以来36万人以上が避難を余儀なくされており、民間人の被害が増加している。",
+      "en": "More than 360,000 people have been displaced in Yemen since August, with the UN reporting rising civilian casualties."
+    },
+    "category": "disaster",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-23T18:32:19+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlFsbWdSMkxnLVZFdUtINHE5V1RJSUlDcXF2bFEzZzhCSDNHb1NpdmUzSHpFcjhRTmtPcF9zc1YtaEMtVm9CajZrQS1QcE91WXJiVmtTMzNIWVllem5pY2Y1TmhxYmJPcFdiZjVqX3VsRzk3ekFlZHB4ejV6b0N1cVFSTzR2ai00WEg3Ymt4angxVlQ5U1NQRkF0X2VHNlhzN1JkbHNnTmRMMDVDZlBjZTloM28wSkVzUmVtNDhZUk0wY2U5UmJpM21OcHZNVVJ5?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "yemen_mass_displacement_aug2026"
+  },
+  {
+    "id": "auto-71519",
+    "headline": {
+      "ja": "国際司法裁判所、ミャンマーのロヒンギャジェノサイド認定",
+      "en": "International Court of Justice rules that Myanmar committed genocide against Rohingya Muslims"
+    },
+    "summary": {
+      "ja": "国際司法裁判所はミャンマーがロヒンギャイスラム教徒に対してジェノサイドを犯したと判決した。",
+      "en": "The International Court of Justice ruled that Myanmar committed genocide against Rohingya Muslims."
+    },
+    "category": "conflict",
+    "country": "ミャンマー",
+    "lat": 19.745,
+    "lon": 96.1297,
+    "occurredAt": "2026-11-23T18:27:12+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ycTV1aHpJeHVVNDJIcHY3bHBkeFJSb1ZWWjZISERYY1V1MHJHSHRQNmFkUl94RF9GWDhvZlRXeTBicmRsRWozUlRacjdSa29nZ0psWHRn?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "icj_myanmar_rohingya_genocide_ruling_2026"
+  },
+  {
+    "id": "auto-71541",
+    "headline": {
+      "ja": "ガザでイスラエル攻撃により4人が殺害、UNRWA職員を含む",
+      "en": "Four Palestinians killed, including UNRWA employee, in Israeli attacks across Gaza"
+    },
+    "summary": {
+      "ja": "WAFA通信によれば、イスラエル攻撃によりガザ全域で、UNRWA職員を含むパレスチナ人4人が殺害された。",
+      "en": "Four Palestinians were killed in Israeli attacks across Gaza, including a UNRWA employee, according to WAFA Agency."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-23T16:21:00+00:00",
+    "source": {
+      "name": "パレスチナ WAFA通信(公式)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNDhUVWFndUI2amNQMGlOVFEtUi1MTXptTFR2cmJXS29Wd0lyVWRCanB1ZFZhT1V0WjZoRGsxVFcxVUJWY3AzYkl2S2lscF81Z2RGQ0huYw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_israel_attacks_casualties_nov2026"
+  },
+  {
+    "id": "auto-71511",
+    "headline": {
+      "ja": "ガザ北部、イスラエルドローン攻撃でUNRWA職員が殺害",
+      "en": "Israeli drone strike kills UNRWA worker in Jabalia refugee camp, northern Gaza"
+    },
+    "summary": {
+      "ja": "イスラエルのドローン攻撃によりガザ北部のJabaliaの難民キャンプのAl-Tawba地区でUNRWA職員が殺害された。",
+      "en": "Israeli drone strike resulted in the death of a UNRWA worker in the Al-Tawba area of Jabalia refugee camp in northern Gaza."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5272,
+    "lon": 34.4835,
+    "occurredAt": "2026-11-23T14:19:02+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1J0WTNKRVd5TFk1V0FRY1ZrRmgzUHRLbVNpVGl3MUc3bmhld0g0OWtSUTRfd1lXS2xGVklQZHVhSV9jSko4aEx1aHRBTW9DRzZmaFdiakdNalRlV1NpUzZ4OEFTaExaQi15V2tpaGY2UXhOdWplenpXTzQyLXF2RVZla2ZFZ1dpdnR6aGZoX3YxekM4RWc1Y2o1YVhFbDM4dVBYTU5KZlRkdmdYSmRaZVdfay02RWdnMnd6d2dSUW5tYm1MRkd4SUVTNXRpTjQzb3hFWGgtOEYtQnFlX2lr?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_unrwa_drone_attack_nov2026"
+  },
+  {
+    "id": "auto-71453",
+    "headline": {
+      "ja": "ベンガジ攻撃、地中海安保とエネルギー供給を脅かす",
+      "en": "Benghazi attacks threaten Mediterranean security and energy supplies"
+    },
+    "summary": {
+      "ja": "リビア大統領評議会は、ベンガジでの攻撃が地中海の安全保障とエネルギー供給に脅威をもたらしていると警告した。",
+      "en": "Libya's Presidential Council warns that attacks in Benghazi pose threats to Mediterranean security and energy supplies."
+    },
+    "category": "conflict",
+    "country": "リビア",
+    "lat": 32.8874,
+    "lon": 13.1873,
+    "occurredAt": "2026-11-23T12:11:49+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSXQ4TUVYV3RxbWVUODV6alFjYUtld2hCa003dVV6dHFkVjEzLS1YbzdrZ1lPeDVpNC01MTdoU2pPcHJ1RlhBdkFRTTBvT3FuX2RwZnY4dWVIWWpZeFVYZVF3NzZKUnFYUndfVzRzQmplWFlSbUFHakhmbF9IZHdzb0pkSkZpeHhlN3ljZjB3TGZuSjZ2UVBHYmdkenFMN3NCaWhWblEzRkxtZjYyeUZjOWtSaWdPSXhJM0dUQ3BoNjh2U0FmR3I3T1htN0RtTU94M3ZicjZlTUEyTkZ4?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "benghazi_attacks_mediterranean_security_2026"
+  },
+  {
     "id": "auto-71123",
     "headline": {
       "ja": "ドイツ情報機関、ロシアが今年中に核兵器を軌道に配置する恐れを警告",
@@ -24,6 +185,29 @@
     "severity": 4
   },
   {
+    "id": "auto-71483",
+    "headline": {
+      "ja": "イスラエルのパレスチナ保健施設攻撃、2年で350%以上増加",
+      "en": "Israeli attacks on West Bank health sector rose over 350% from 2022 to 2024"
+    },
+    "summary": {
+      "ja": "人権団体の調査によれば、イスラエルのヨルダン川西岸における保健部門への攻撃は、2022年から2024年にかけて350%以上増加した。",
+      "en": "Rights group reports Israeli attacks on West Bank health sector increased over 350% between 2022 and 2024."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.8724,
+    "lon": 35.181,
+    "occurredAt": "2026-11-23T10:34:57+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXB1TUJqQ1FrdUxkNFF2MmhvTUZ0WDZ4YmlVZmFTR09wZUVzblhWM3VsVV8wQk5SVF8wUE9aajJoUXAteW5xcjY4eGJzMHh4UHVmbXNTRDd4T0xqMUhEa295Y205bzg2SHFNUWt2ZHRvMWt1Y1FCN3FqaWVoNDlzOTF0cy1QRXhZblhnbEZPVHl1c19vbGpQR3k0YWd6MXlBSUNpMU9hZTIzWVR0bTZGUFp4WmlRaE9jSm9KbjZESlRFNUxTbXE4?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_west_bank_health_attacks_2024"
+  },
+  {
     "id": "auto-70939",
     "headline": {
       "ja": "ポーランド検察、ロシアの巡航ミサイル3発がポーランド領空に侵入したことを確認",
@@ -46,6 +230,29 @@
     "auto": true,
     "eventKey": "poland_airspace_russian_missile_intrusion_2026-11-23",
     "severity": 4
+  },
+  {
+    "id": "auto-71480",
+    "headline": {
+      "ja": "ガザ、イスラエル攻撃で「有毒廃棄地」に、99%以上が汚染危機",
+      "en": "Israeli attacks turn Gaza into toxic wasteland with over 99% facing potential contamination"
+    },
+    "summary": {
+      "ja": "報告によれば、イスラエルの攻撃によりガザは「有毒廃棄地」と化し、99%以上の地域が潜在的な汚染の危機に直面している。",
+      "en": "Report indicates Israeli attacks have turned Gaza into a toxic wasteland, with over 99% facing potential contamination."
+    },
+    "category": "disaster",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-23T08:57:35+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR3dwVXZibWtpUFliUlZUSmJwTzJVZGhndWUwSVg0MHFjTFRmYXA2R0RsYkMxOHBiNVNVWG5yTlByOVRxdl9nVkZRM0pBR2E5QmFGaDVpUE96Y2ZfY3hfTEwzN3hYLWRaSWE4NHdZNllTUHVKcnlxaTJPRmh0NThSVGd3SFQ5YnJSVWRtXzZRejZoT1ZXN1JPcFoxMjAxM2pISDdadFBIcng2X2Fsc2lFREVFQ2VYc0xpS0M1TTIzaWx0SkFGcnJNaEhSTG9tTmdsdE02bTIyakhFZw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "gaza_environmental_contamination_2026"
   },
   {
     "id": "auto-70678",
@@ -1902,28 +2109,5 @@
     "auto": true,
     "eventKey": "ukraine_civilian_casualties_2026",
     "severity": 4
-  },
-  {
-    "id": "auto-61957",
-    "headline": {
-      "ja": "イラン革命防衛隊が米軍基地のレーダーを攻撃",
-      "en": "IRGC Targets US Military Radar at Bahrain Air Base"
-    },
-    "summary": {
-      "ja": "イラン革命防衛隊(IRGC)は、バーレーンのシェイク・イサ航空基地に配置された米国の軍事レーダーシステムを無人機による精密攻撃で標的にしたと発表した。",
-      "en": "The Islamic Revolution Guards Corps announced a precision drone strike on a US military radar system at Sheikh Isa Air Base in Bahrain."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-17T09:11:31+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86324363/IRGC-targets-US-radar-system-at-Bahrain-s-Sheikh-Isa-Air-Base"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_us_military_conflict_bahrain"
   }
 ]
