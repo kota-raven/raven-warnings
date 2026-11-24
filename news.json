@@ -1,26 +1,5 @@
 [
   {
-    "id": "2026-11-22-04",
-    "headline": {
-      "ja": "NATO事務総長ラッテ氏、ポーランド領空侵入を「危険」と公式に非難 クリヴィーリフ攻撃と同時期、ポーランド首相は「意図的な挑発」の可能性に言及",
-      "en": "NATO chief Rutte officially condemns Polish airspace violation as 'dangerous,' as Poland's PM cites possible 'deliberate provocation' timed with Kryvyi Rih strike"
-    },
-    "summary": {
-      "ja": "2026年11月20日(金)夜のクリヴィーリフへの弾道ミサイル攻撃(既報、2026-11-22-01)とほぼ同時期に、ロシアのミサイル2発と無人機1機とみられる機体がポーランド領空に侵入したとされる件について、NATO事務総長マルク・ルッテ氏がワルシャワでの発言として、この領空侵入を「危険」だと述べ、NATOはポーランド領土を「一寸残らず」防衛すると表明し、同盟はポーランドと「完全な連帯」にあると述べたという事実を、複数の報道(AP通信、CBC、ABCニュース等)で確認し、新規採用した。前回収集時点ではワシントン・ポストの報道のみに基づき、ポーランド政府の公式発表・詳細は未確認として推測扱いとしていたが、NATO事務総長による公式な言及が確認されたため、ここで新規記事として採用する。報道によれば、ポーランドの首相は、この領空侵入が、欧州各国が参加し11月9日からポーランド南東部で実施されている2週間規模の軍事演習(戦後のウクライナ平和維持任務を想定したものとされる)の時期に合わせた「意図的な挑発」である可能性を指摘したという。推測:領空侵入の具体的な経路・被害の有無など詳細はなお確認できていない。[信頼性: 高](AP通信、CBC、ABCニュース等複数の国際メディアが2026年11月21〜22日の報道として伝えている)",
-      "en": "Around the same time as the ballistic missile strike on Kryvyi Rih on the night of Friday, November 20, 2026 (already reported, id 2026-11-22-01), two Russian missiles and a suspected drone reportedly entered Polish airspace. Multiple outlets (AP, CBC, ABC News) reported that NATO Secretary-General Mark Rutte, speaking in Warsaw, called the airspace violation 'dangerous,' said NATO would defend 'every inch' of Polish territory, and stated the alliance stood in 'full solidarity' with Poland. The prior collection cycle had treated this airspace incursion as unconfirmed speculation based only on a Washington Post report, with no official Polish government statement found; it is adopted here as a new item now that an official NATO statement has been confirmed. Reports said Poland's prime minister suggested the incursion may have been a 'deliberate provocation' timed to coincide with a two-week multinational military exercise under way in southeastern Poland since November 9, reportedly intended to prepare for a possible postwar peacekeeping mission in Ukraine. Speculation: further details, including the missiles' exact flight path and whether any damage occurred, remain unconfirmed. [Reliability: High] (Reported Nov 21-22, 2026 by multiple international outlets including AP, CBC and ABC News)"
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 51.9194,
-    "lon": 19.1451,
-    "occurredAt": "2026-11-21T12:00:00+00:00",
-    "source": {
-      "name": "AP通信 / CBC / ABCニュース",
-      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-22-05",
     "headline": {
       "ja": "キーウ州ディミル村でロシア軍の無人機攻撃、5階建てアパートが損壊 複数人がなお瓦礫の下に(11月22日未明)",
@@ -43,28 +22,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-22-06",
-    "headline": {
-      "ja": "ホルムズ海峡でタンカー攻撃が急増 過去1週間で約25件、イランは「機雷に接触」と主張(米・イラン戦争が継続、11月21日)",
-      "en": "Tanker attacks surge in Strait of Hormuz, about 25 incidents in a week; Iran claims mine strike as US-Iran war continues (Nov 21)"
-    },
-    "summary": {
-      "ja": "2026年11月21日(土)、ホルムズ海峡のオマーン・ハサブ沖で、英海事貿易機構(UKMTO)が無人機または何らかの飛翔体による攻撃とみられる事案2件(1件は船尾、別の1件は機関室を損傷)を報告したという。複数の報道(Al Jazeera等)によれば、イラン海軍は、別の油タンカーが同海峡東側の規制区域で機雷に接触して火災を起こしたと主張しているが、この主張は独立した検証ができていないとされる。Al Jazeeraのテヘラン特派員によれば、イラン軍当局の発表に基づき、前の土曜日以降で約25件の事案(1日平均約3件)が報告されたという。この結果、11月12〜18日の同海峡の通航船舶数は263隻(開戦前の通常水準、1日約135隻を大きく下回る)となり、前週比約15%減となったとされる。この攻撃応酬は、2026年2月に始まったとされる米・イラン間の戦争(イスラエルも関与)の一環で、イラン革命防衛隊(IRGC)は11月中旬にバーレーンの米軍基地レーダーへの攻撃も主張しており、米国はイランの港湾封鎖・タンカー護衛のための艦艇派遣で対応しているという。推測:攻撃の実行主体・機雷の有無については当事者間で主張が対立し、本収集時点で確証できる第三者による検証はない。[信頼性: 中](Al Jazeera、UKMTO発表等に基づく2026年11月21〜22日の報道。イラン側の機雷接触の主張は未検証)",
-      "en": "On Saturday, November 21, 2026, the UK Maritime Trade Operations centre (UKMTO) reported two incidents near Khasab, Oman, in the Strait of Hormuz — apparently involving drones or projectiles, one striking a vessel's stern and another its engine room. Multiple outlets (including Al Jazeera) reported that Iran's navy separately claimed a different oil tanker caught fire after hitting a naval mine in a restricted area east of the strait, a claim that could not be independently verified. Al Jazeera's Tehran correspondent, citing Iranian military statements, said roughly 25 incidents had been reported since the previous Saturday — about three a day — and that traffic through the strait fell to 263 ships between November 12-18 (down about 15% week-on-week, and well below the roughly 135 ships per day seen before the war). The escalation is part of the US-Iran war reported to have begun in February 2026 (with Israeli involvement); Iran's Revolutionary Guard Corps (IRGC) also claimed to have struck radar installations at a US base in Bahrain in mid-November, while the US has responded by blockading Iranian ports and deploying naval vessels to escort tankers. Speculation: responsibility for the attacks and whether mines were actually involved remain disputed between the parties, with no independently confirmed account available as of this collection. [Reliability: Medium] (Reported Nov 21-22, 2026 based on Al Jazeera coverage and UKMTO statements; Iran's mine-strike claim is unverified)"
-    },
-    "category": "conflict",
-    "country": "ホルムズ海峡(国際水域)",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-21T10:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera / UKMTO",
-      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-22-08",
     "headline": {
       "ja": "インドネシア・バンテン州のお菓子工場で火災 3人死亡・36人不明、約60人が工場内に(11月22日)",
@@ -83,28 +40,6 @@
     "source": {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-23-01",
-    "headline": {
-      "ja": "イスラエル軍、ガザ市テル・アル・ハワ地区で車両を空爆 3人死亡、援助物資運搬車両の可能性(11月21日)",
-      "en": "Israeli strike hits vehicle in Gaza City's Tel al-Hawa district, killing 3; vehicle reportedly carrying aid supplies (Nov 21)"
-    },
-    "summary": {
-      "ja": "2026年11月21日(土)、イスラエル軍がガザ市テル・アル・ハワ地区で車両を空爆し、ガザ保健省・市民防衛によれば3人が死亡したという。複数の報道(CBC、RTEなど)によれば、車両は食料品や「ワールド・セントラル・キッチン(WCK)」のロゴが付いた書類を運んでいたとされる。イスラエル軍は、パレスチナ・イスラミック・ジハード(PIJ)の活動家3人を標的にしたと説明し、対象者らが援助活動員であるかのように偽装していたと主張しているが、目撃者はこの説明に異論を唱えているという。ハマスは、停戦の調停国・保証国による緊急会合の開催を求めたという。推測:車両が実際に援助物資を運搬していたか、イスラエル軍の説明のいずれが正確かは本収集時点で確証できない。[信頼性: 中](CBC、RTE等の報道に基づく。死者数・車両の実態について当事者間で主張が対立)",
-      "en": "On Saturday, Nov 21, 2026, the Israeli military struck a vehicle in Gaza City's Tel al-Hawa district; Gaza's Health Ministry and civil defense said three people were killed. Multiple outlets (CBC, RTE) reported the vehicle was carrying food supplies and papers bearing a World Central Kitchen (WCK) logo. The Israeli military said it targeted three Palestinian Islamic Jihad operatives it says were falsely posing as aid workers, an account witnesses dispute. Hamas called for an urgent meeting of ceasefire mediators and guarantors. Speculation: whether the vehicle was actually carrying aid, or which side's account is accurate, cannot be confirmed as of this collection. [Reliability: Medium] (Based on CBC, RTE reporting; the death toll and nature of the vehicle are disputed between the parties.)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ガザ市",
-    "lat": 31.5017,
-    "lon": 34.4668,
-    "occurredAt": "2026-11-21T10:00:00+00:00",
-    "source": {
-      "name": "CBC News",
-      "url": "https://www.cbc.ca/news/world/israel-strike-gaza-vehicle-9.7431224"
     },
     "reliability": "medium"
   },
@@ -219,23 +154,24 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-24-02",
+    "id": "2026-11-24-03",
     "headline": {
-      "ja": "イランによる攻撃、バーレーンの工業施設に着弾 2人負傷(一人重体)",
-      "en": "Iranian strike hits industrial facility in Bahrain, injuring two"
+      "ja": "トランプ氏、封鎖突破を試みるイラン船舶の「撃沈」を警告 イランは「あらゆる手段」で対抗すると表明(ホルムズ海峡・米・イラン戦争)",
+      "en": "Trump warns Iranian ships breaking US naval blockade will be sunk; Iran vows to counter with 'every means' (US-Iran war, Strait of Hormuz)"
     },
     "summary": {
-      "ja": "バーレーン内務省は、11月21日(土)にイランによる攻撃で民生用の工業施設(報道ではシトラ島とされる)が被弾し火災・物的損害が発生したと発表したという。当初は負傷者なしとしていたが、22日(日)の発表で負傷者2人(バーレーン人1人は安定、パキスタン人居住者1人は重体)に更新されたという。イラン革命防衛隊(IRGC)は、バーレーンのアル・リファ基地およびアワリ基地の米軍関連施設を狙ったミサイル・ドローン複合攻撃だったと主張しているが、バーレーン外務省は対象が完全に民生施設であったと反論しているという。湾岸協力会議(GCC)・アラブ首長国連邦(UAE)はバーレーンへの主権侵害だとして強く非難したという。[信頼性: 高](バーレーン内務省の発表、Al Jazeera・The National・Times of Israel等複数の報道で確認)",
-      "en": "Bahrain's Interior Ministry said an Iranian attack on November 21 hit a civilian industrial facility (reported to be on Sitra Island), causing a fire and material damage. It initially reported no injuries, but updated the toll on November 22 to two injured — a Bahraini citizen in stable condition and a Pakistani resident in critical condition. Iran's Revolutionary Guard Corps claimed it was a combined missile-and-drone strike targeting US-related positions at Bahrain's Al-Riffa and Awali bases, which Bahrain's Foreign Ministry disputed, insisting the target was purely civilian. The GCC and UAE strongly condemned the strike as a violation of Bahrain's sovereignty. [Reliability: High] (Confirmed by Bahrain's Interior Ministry statement and corroborated by Al Jazeera, The National, Times of Israel and others)"
+      "ja": "トランプ米大統領は11月22日(日)、FOXニュースのインタビューで、米海軍によるイラン封鎖を突破しようとするイランの船舶は「海の底に沈む」と警告したという。これに対し、イラン外務省報道官エスマイル・バガイ氏は23日(月)、この海上封鎖を「軍事的侵略」だと非難し、イランは「あらゆる手段」で対抗すると表明したという。複数の報道によれば、イラン軍参謀総長アミル・ハタミ氏は、イラン側の要求(制裁解除・封鎖解除・イスラマバード覚書の履行)が満たされるまで、ホルムズ海峡の封鎖を「日を追って強化する」よう海軍に指示したとされる。報道では、イランがカーグ島に14隻以上のタンカーからなる船団を集結させ封鎖突破を試みる可能性が報じられているが、イラン当局者による公式な計画表明はなく、23日時点で実際の突破行動は確認されていないという。一方、カタールが停戦・和平交渉の再開を仲介しようとしているとも報じられている。この一連の経緯は、トランプ氏による軍事行動の威嚇発言とイラン側の対抗表明という戦線拡大の事実にあたると判断した。推測:実際にイラン船団が封鎖突破を試みるか、米側が本当に撃沈に踏み切るかは本収集時点では不明。[信頼性: 高](euronews、The Epoch Times等複数の報道が2026年11月22〜24日の出来事として伝えている)",
+      "en": "US President Trump reportedly warned in a Fox News interview on Sunday, November 22, that Iranian ships attempting to break the US Navy's blockade would end up 'at the bottom of the sea.' Iranian Foreign Ministry spokesman Esmaeil Baghaei responded on Monday, November 23, calling the naval blockade 'military aggression' and vowing Tehran would use 'every means' to counter it. Multiple reports said Iran's army chief of staff, Amir Hatami, ordered the navy to keep closing the Strait of Hormuz 'further, day by day' until Iran's conditions — lifting sanctions, ending the blockade, and implementing the Islamabad memorandum — are met. Reports said Iran had gathered a convoy of more than 14 tankers near Kharg Island that could attempt to break the blockade, though no Iranian official has publicly confirmed such a plan, and no breakout had been observed as of November 23. Separately, Qatar was reported to be seeking to revive ceasefire/peace talks. This sequence — an explicit threat of military action by a senior US official and Iran's own vow to counter it — was judged to meet the escalation criteria for this map. Speculation: whether Iran will actually attempt to run the blockade, or whether the US would follow through on sinking a ship, remains unknown as of this collection. [Reliability: High] (Reported Nov 22-24, 2026 by multiple outlets including Euronews and The Epoch Times)"
     },
     "category": "conflict",
-    "country": "バーレーン",
-    "lat": 26.0667,
-    "lon": 50.5577,
-    "occurredAt": "2026-11-21T12:00:00+00:00",
+    "country": "ホルムズ海峡(国際水域)",
+    "region": "ホルムズ海峡",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-23T10:00:00+00:00",
     "source": {
-      "name": "Al Jazeera / Bahrain Ministry of Interior",
-      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+      "name": "Euronews / The Epoch Times",
+      "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
     },
     "reliability": "high",
     "severity": 3
