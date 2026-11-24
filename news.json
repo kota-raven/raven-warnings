@@ -1,48 +1,5 @@
 [
   {
-    "id": "2026-11-21-05",
-    "headline": {
-      "ja": "米国株、ダウ・S&P500が終値でも「調整局面」入りを確定 ダウ949ポイント安、AI関連売りが主因",
-      "en": "US stocks: Dow, S&P 500 confirm correction at the close, Dow down 949 points, driven by AI-sector sell-off"
-    },
-    "summary": {
-      "ja": "2026年11月20日(金)の米国市場で、前回収集時点(同日取引時間中)では速報値だったダウ工業株30種平均・S&P500指数の「調整局面」(直近高値から約10%下落)入りが、この日の取引終了時点(終値)でも確定したことが、複数の報道(UPI、CNBC、Fox Business、Yahoo Finance等)で確認されたという。ダウ平均は949.73ポイント(1.93%)安の48147.33で終了したとされる。ナスダック総合指数も、2026年の年間上昇分を帳消しにしたと報じられている。要因としては、エヌビディアなど半導体・AI関連株の急落(エヌビディアは約14%安との報道あり)が中心に挙げられているという。なお、週間の下落率や「何年以来最悪の週」といった評価は報道間で差があり(例:ある報道はダウの週間下落率を8%程度、別の報道は2020年3月以来最悪の週としている)、確定した統一的な評価は本稿作成時点では得られていない。[信頼性: 中](UPI、CNBC、Fox Business、Yahoo Finance等複数の報道、2026年11月20日終値時点)",
-      "en": "In US trading on Friday, November 20, 2026, the Dow Jones Industrial Average and S&P 500's move into 'correction territory' (roughly 10% below recent highs) — previously reported only as an intraday figure in the prior collection — was reportedly confirmed at the close, according to multiple outlets (UPI, CNBC, Fox Business, Yahoo Finance). The Dow reportedly closed down 949.73 points (1.93%) at 48,147.33. The Nasdaq Composite is reported to have erased its 2026 gains for the year. Cited drivers center on a sharp sell-off in semiconductor and AI-related stocks, with Nvidia reportedly down about 14%. Outlets differ on the week's characterization (e.g., one report cites an approximately 8% weekly decline for the Dow, while another calls it the worst week since March 2020); no single confirmed figure was available as of this writing. [Reliability: Medium] (UPI, CNBC, Fox Business, Yahoo Finance and others, as of the Nov 20, 2026 close)"
-    },
-    "category": "economy",
-    "country": "米国",
-    "lat": 37.0902,
-    "lon": -95.7129,
-    "occurredAt": "2026-11-20T21:00:00+00:00",
-    "source": {
-      "name": "UPI / CNBC",
-      "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-22-01",
-    "headline": {
-      "ja": "ロシア軍、ゼレンスキー氏出身地クリヴィーリフに弾道ミサイル攻撃 2人死亡・60人超負傷、救助中の二次攻撃も(11月20日夜)",
-      "en": "Russian ballistic missile strike hits Zelenskyy's hometown Kryvyi Rih, killing 2 and wounding over 60; follow-up strikes hit rescuers (night of Nov 20)"
-    },
-    "summary": {
-      "ja": "2026年11月20日(金)夜、ロシア軍がウクライナ中部クリヴィーリフ市(ゼレンスキー大統領の出身地)中心部を弾道ミサイルで攻撃したという。複数の報道(ワシントン・ポスト、AP通信等)によれば、市長オレクサンドル・ヴィルクル氏がTelegramで、7歳の男児と20歳の女性の2人が死亡したと明らかにし、州知事オレクサンドル・ハンジャ氏は負傷者が60人(うち子供6人を含む)に達したと発表したという。キーウ・インディペンデント紙は、同州全体の24時間の負傷者数が少なくとも83人に上ったと報じている。AFP・AP通信によれば、救助隊員・医療従事者・ライフライン復旧作業員が現場に到着した後、ロシア軍がさらにミサイルを発射し、これらの要員を標的にしたとされる(いわゆる二次攻撃)。推測:ワシントン・ポストの報道は、この攻撃と同時期にロシアのミサイル2発と無人機1機とみられる機体がポーランド領空に侵入したとも伝えているが、本収集時点では詳細・ポーランド政府による公式発表は確認できていない。[信頼性: 高](ワシントン・ポスト、AP通信、キーウ・インディペンデント等複数の国際メディアが2026年11月21日の報道として伝えている)",
-      "en": "On the night of Friday, November 20, 2026, Russian forces reportedly struck central Kryvyi Rih, the central Ukrainian city that is President Zelenskyy's hometown, with a ballistic missile. Multiple outlets (The Washington Post, AP) reported that city head Oleksandr Vilkul said on Telegram that two people were killed, a 7-year-old boy and a 20-year-old woman, while regional head Oleksandr Hanzha put the number of wounded at 60, including six children. The Kyiv Independent reported that region-wide injuries over a 24-hour period reached at least 83. AFP and AP reported that Russian forces fired further missiles after rescue workers, medical personnel and utility crews arrived at the scene, targeting them in what is described as a follow-up ('double-tap') strike. Speculation: The Washington Post's report also said two Russian missiles and a suspected drone crossed into Polish airspace around the same time, but further details and an official Polish government statement could not be confirmed as of this collection. [Reliability: High] (Reported as of November 21, 2026 by multiple international outlets including The Washington Post, AP and the Kyiv Independent)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "ドニプロペトロフスク州(クリヴィーリフ)",
-    "lat": 47.9105,
-    "lon": 33.3918,
-    "occurredAt": "2026-11-20T21:00:00+00:00",
-    "source": {
-      "name": "The Washington Post / AP通信",
-      "url": "https://www.washingtonpost.com/world/2026/11/21/russia-ukraine-war-missile-zelenskyy-trump/197b611e-e59a-11f1-a99e-b3e3805c6b8b_story.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-22-02",
     "headline": {
       "ja": "フィンランド湾で露軍関連の貨物船が無人機攻撃を受け炎上 フィンランド領海に漂流、ウクライナの犯行の可能性(11月21日)",
