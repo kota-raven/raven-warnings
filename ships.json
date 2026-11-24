@@ -174,6 +174,54 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-23-ca-000244",
+    "recordType": "individual",
+    "country": "CA",
+    "shipName": "Regina",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "海域（特定なし）",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "カナダ海軍フリゲート「レジャイナ」が北朝鮮船の瀬取り警戒監視を実施。カナダ艦艇として16度目の実施。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37608/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-23T21:21:41.535796+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-23T00:00:00Z"
+  },
+  {
+    "id": "2026-11-22-ru-000242",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "Merkurii",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "Benghazi Naval Base, Libya",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "リビア国民安定政府(GNS)がベンガジ海軍基地に停泊していたロシア船舶で爆発が発生したと発表。初期調査では無人機による攻撃の可能性があるとしている。ロシア海軍ステレグシチー級フリゲート「メルクーリ」が爆発・転覆。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37731/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-23T21:21:41.535796+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-22T00:00:00Z"
+  },
+  {
     "id": "2026-11-22-us-000240",
     "recordType": "individual",
     "country": "US",
@@ -294,6 +342,30 @@
     "observedAt": "2026-11-18T00:00:00Z"
   },
   {
+    "id": "2026-11-18-us-000243",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Ted Stevens",
+    "shipNumber": "DDG-128",
+    "shipType": "destroyer",
+    "position": {
+      "area": "Norfolk Naval Station, Virginia",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "アーレイ・バーク級ミサイル駆逐艦「テッド・スティーブンス」がバージニア州ノーフォーク海軍基地に帰港。初めての母港帰港。旧空母「エンタープライズ」の曳航にも随伴。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37727/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-23T21:21:41.535796+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-18T00:00:00Z"
+  },
+  {
     "id": "2026-11-17-us-000206",
     "recordType": "individual",
     "country": "US",
@@ -337,8 +409,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-20T21:21:28.258292+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-17T00:00:00Z"
   },
   {
@@ -361,8 +433,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-21T21:21:56+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-17T00:00:00Z"
   },
   {
@@ -1083,8 +1155,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-09T21:00:00+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-09T00:00:00Z"
   },
   {
@@ -1422,6 +1494,30 @@
     "anomalyLevel": "alert",
     "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-06T00:00:00+00:00"
+  },
+  {
+    "id": "2026-11-05-us-000241",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Marine Rotational Force-Southeast Asia",
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Aporawan, Palawan, South China Sea",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "フィリピン軍との合同訓練で沿岸監視レーダー(GBMS-Light)をパラワン州アポラワンビーチに配置。フィリピン-米国の防衛協力",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/20/u-s-philippine-marines-set-up-surveillance-radar-in-palawan"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-23T21:21:41.535796+00:00",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
+    "observedAt": "2026-11-05T00:00:00Z"
   },
   {
     "id": "2026-11-05-cn-000148",
@@ -3302,7 +3398,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -3326,7 +3422,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-21T21:21:50.593702+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T09:00:00Z"
   },
   {
@@ -3736,7 +3832,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比5.33倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-16T09:00:00Z"
   },
   {
