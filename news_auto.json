@@ -2062,28 +2062,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_ramstein_conference_2026-11"
-  },
-  {
-    "id": "auto-63681",
-    "headline": {
-      "ja": "ロシア軍の輸送機がシベリアで墜落、19人が死亡",
-      "en": "Russian military transport aircraft crashes in Siberia, killing 19"
-    },
-    "summary": {
-      "ja": "ケメロヴォ地域でロシア軍の輸送機が墜落し、19人が死亡した",
-      "en": "A Russian military transport aircraft crashed in Kemerovo region, killing 19 people"
-    },
-    "category": "disaster",
-    "country": "ロシア",
-    "lat": 55.3542,
-    "lon": 86.1043,
-    "occurredAt": "2026-11-17T21:25:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_siberia_military_aircraft_crash_2026-11-17"
   }
 ]
