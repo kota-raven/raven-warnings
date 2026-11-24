@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-11-22-02",
-    "headline": {
-      "ja": "フィンランド湾で露軍関連の貨物船が無人機攻撃を受け炎上 フィンランド領海に漂流、ウクライナの犯行の可能性(11月21日)",
-      "en": "Russian military-linked cargo ship catches fire after drone attack in Gulf of Finland, drifts into Finnish waters; Ukraine suspected (Nov 21)"
-    },
-    "summary": {
-      "ja": "2026年11月21日(土)、フィンランド湾東部の公海上(スールサーリ島西方)で、ロシア軍と関連があるとされる貨物船「スパルタII」が無人機の攻撃を受け炎上したという。複数の報道(France24、キーウ・インディペンデント、gCaptain、ERR〈エストニア国営放送〉等)によれば、フィンランド軍が国際水域でのロシア貨物船への無人機攻撃を検知したと発表し、ロシア側は2機の無人機による攻撃を受けたとしているという。火災により船はフィンランド領海側へ漂流し、フィンランド当局は同海域東部で航空・海上交通の一時的な規制を再導入したとされる。乗員の状況については報道が一致しておらず、沿岸警備隊幹部は船が投錯して乗員が退避中としたとする報道がある一方、カリーニングラード州知事によれば、接近したロシアの救助船に対し乗員は退避の必要はないと伝えたとも報じられている。フィンランド国防省は責任の所在を明らかにしていないが、一部報道はフィンランド国防軍がウクライナによる犯行の可能性が高いとしていると伝えている。フィンランド国防相は、この貨物船の救助・監視活動に関連してロシアのヘリコプターによる領空侵犯の疑いがあったとも述べたという。[信頼性: 中](France24、キーウ・インディペンデント、gCaptain、ERR等複数の国際メディアが2026年11月21日の報道として伝えている。乗員の退避状況・攻撃主体については報道間で差がある)",
-      "en": "On Saturday, November 21, 2026, a Russian military-linked cargo ship, the Sparta II, reportedly caught fire after a drone attack in international waters in the eastern Gulf of Finland, west of the island of Suursaari (Gogland). Multiple outlets (France24, the Kyiv Independent, gCaptain, Estonia's ERR) reported that Finland's military said it detected a drone attack on the Russian vessel in international waters, while Russian officials said the ship was struck by two drones. The fire left the ship drifting into Finnish territorial waters, and Finnish authorities reportedly reintroduced temporary restrictions on aviation and maritime traffic in the eastern part of the gulf. Reports differ on the crew's status: one account cites a coast guard commander describing the vessel as anchored with the crew evacuating, while Kaliningrad's governor said the crew told an approaching Russian rescue vessel they did not need evacuation. Finland's defence ministry has not named who was responsible, though some reports say Finnish defence forces consider Ukraine the likely culprit. Finland's defence minister also said a suspected Russian helicopter airspace violation may have been linked to rescue or surveillance activity around the damaged ship. [Reliability: Medium] (Reported as of November 21, 2026 by multiple outlets including France24, the Kyiv Independent, gCaptain and ERR; accounts differ on the crew's evacuation status and on who carried out the attack)"
-    },
-    "category": "conflict",
-    "country": "フィンランド湾(国際水域)",
-    "region": "フィンランド湾",
-    "lat": 59.83,
-    "lon": 26.0,
-    "occurredAt": "2026-11-21T06:00:00+00:00",
-    "source": {
-      "name": "France24 / Kyiv Independent / gCaptain",
-      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-22-04",
     "headline": {
       "ja": "NATO事務総長ラッテ氏、ポーランド領空侵入を「危険」と公式に非難 クリヴィーリフ攻撃と同時期、ポーランド首相は「意図的な挑発」の可能性に言及",
