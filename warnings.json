@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T12:36:37.227Z",
+  "generatedAt": "2026-11-25T22:25:08.225Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 207,
+  "count": 200,
   "warnings": [
     {
       "id": "NAVAREA11-260526",
@@ -498,18 +498,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264675&LANG=JP"
     },
     {
-      "id": "JAPANNW-264674",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4674",
-      "title": "南太平洋東部、危険な訓練終了",
-      "publishedAt": "2026-11-25T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4674   発表日時:2026年11月25日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n危険な訓練終了。\r\r\n(4592削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264674&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264673",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -822,30 +810,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264663&LANG=JP"
     },
     {
-      "id": "JAPANNW-264661",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4661",
-      "title": "北海道南岸、十勝港東、射撃中止",
-      "publishedAt": "2026-11-24T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4661   発表日時:2026年11月24日 20時\r\n\n\r\n北海道南岸、十勝港東、\r\r\n射撃中止。\r\r\n(4580削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264661&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264659",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4659",
-      "title": "インド東岸、射撃",
-      "publishedAt": "2026-11-24T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4659   発表日時:2026年11月24日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、11月25日0930Z-1230Z、\r\r\n16-52.8N 17-07.9N 082-57.1E 083-12.7E\r\r\nの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264659&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264657",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -854,7 +818,7 @@
       "title": "インド東岸、射撃",
       "publishedAt": "2026-11-24T08:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-4657   発表日時:2026年11月24日 08時\r\n\n\r\n★ インド東岸、射撃、\r\r\n11月26日0230Z-27日0930Z、\r\r\n17-30.02N 083-33.17E 17-19.36N 083-43.72E\r\r\n17-09.14N 083-32.41E 17-20.07N 083-21.79E\r\r\nで囲まれる海面。",
+      "rawText": "番号:26-4657   発表日時:2026年11月24日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、11月26日0230Z-27日0930Z、\r\r\n17-30.02N 083-33.17E 17-19.36N 083-43.72E\r\r\n17-09.14N 083-32.41E 17-20.07N 083-21.79E\r\r\nで囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264657&LANG=JP"
     },
     {
@@ -1812,18 +1776,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264582&LANG=JP"
     },
     {
-      "id": "JAPANNW-264578",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4578",
-      "title": "アンダマン海、射撃",
-      "publishedAt": "2026-11-19T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4578   発表日時:2026年11月19日 08時\r\n\n\r\n★ アンダマン海、\r\r\n射撃、11月22日0130Z-25日1230Z、\r\r\n11-34.05N 091-42.07E 11-56.58N 094-17.04E\r\r\n07-13.09N 094-22.39E 07-12.48N 092-48.25E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264578&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264577",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1852,24 +1804,6 @@
       },
       "rawText": "番号:26-4568   発表日時:2026年11月18日 20時\r\n\n\r\n龍飛埼西南西、\r\r\n射撃、11月23日(予備24日-29日)0700-1700、\r\r\n40-55-09N 139-04-48Eを中心とする半径10海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264568&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264566",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4566",
-      "title": "インド西岸、射撃",
-      "publishedAt": "2026-11-18T08:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          72.45,
-          20.666666666666668
-        ]
-      },
-      "rawText": "番号:26-4566   発表日時:2026年11月18日 08時\r\n\n\r\n★ インド西岸、\r\r\n射撃、11月20日、23日、25日毎日0230Z-1130Z、\r\r\n20-26N 20-40N 072-27E 072-40Eの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264566&LANG=JP"
     },
     {
       "id": "JAPANNW-264565",
@@ -3130,6 +3064,18 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262263",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2263",
+      "title": "野島埼南、射撃",
+      "publishedAt": "2026-11-26T05:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2263    発表日時:2026年11月26日 05時\r\n\n\r\n野島埼南、\r\r\n射撃、11月28日0900-2400、34-35.6N \r\r\n139-49.2Eを中心とする半径7海里の円内。\r\r\n(2229削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262263&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262262",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3256,18 +3202,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262255&LANG=JP"
     },
     {
-      "id": "NAVTEX-262254",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "制限禁止",
-      "number": "2254",
-      "title": "京浜港、横浜区、川崎区、荒天に伴う錨泊自粛の勧告解除",
-      "publishedAt": "2026-11-24T21:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2254    発表日時:2026年11月24日 21時\r\n\n\r\n京浜港、横浜区、川崎区、\r\r\n錨泊自粛解除。\r\r\n(2240削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262254&LANG=JP"
-    },
-    {
       "id": "NAVTEX-262253",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -3296,18 +3230,6 @@
       "geometry": null,
       "rawText": "番号:26-2252    発表日時:2026年11月24日 21時\r\n\n\r\n台湾東、\r\r\nC/S ILE D AIXによる海底線修理作業、当分の間、\r\r\n23-44.87N 123-11.03E \r\r\n23-37.83N 123-18.35E\r\r\n23-33.91N 123-13.76E \r\r\n23-21.49N 123-09.82E\r\r\n23-07.12N 122-53.39E\r\r\n22-56.76N 122-32.77E\r\r\n22-53.72N 122-19.16E\r\r\n22-48.80N 122-13.96E\r\r\n22-54.08N 122-05.13E\r\r\n22-58.63N 122-04.59E\r\r\n23-03.49N 122-17.20E\r\r\n23-13.33N 122-39.90E\r\r\n23-25.37N 122-56.26E\r\r\n23-38.68N 123-04.30Eで囲まれる海面。\r\r\n(2232削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262252&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262250",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2250",
-      "title": "北海道南岸、十勝港東、射撃中止",
-      "publishedAt": "2026-11-24T17:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2250    発表日時:2026年11月24日 17時\r\n\n\r\n北海道南岸、十勝港東、\r\r\n射撃中止。\r\r\n(2211削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262250&LANG=JP"
     },
     {
       "id": "NAVTEX-262249",
@@ -3476,18 +3398,6 @@
       "geometry": null,
       "rawText": "番号:26-2234    発表日時:2026年11月22日 13時\r\n\n\r\n豊後水道南、\r\r\n射撃、11月27日(予備28日)0900-2400、\r\r\n32-51.0N 132-14.3Eを中心とする半径3海里の\r\r\n円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262234&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262229",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "訓練試験",
-      "number": "2229",
-      "title": "野島埼南、射撃",
-      "publishedAt": "2026-11-21T13:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2229    発表日時:2026年11月21日 13時\r\n\n\r\n野島埼南、\r\r\n射撃、11月26日(予備28日)0900-2400、\r\r\n34-35.6N 139-49.2Eを中心とする半径7海里の\r\r\n円内。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262229&LANG=JP"
     },
     {
       "id": "NAVTEX-262224",
