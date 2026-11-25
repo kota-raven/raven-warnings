@@ -109,5 +109,28 @@
       "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-25-02",
+    "headline": {
+      "ja": "サウジ主導連合軍、イエメン・ホデイダ港を空爆 フーシ派はジッダ等紅海沿岸の全サウジ港湾を標的にすると警告",
+      "en": "Saudi-led coalition strikes Yemen's Hodeidah port; Houthis warn Jeddah and all Saudi Red Sea ports could be targeted"
+    },
+    "summary": {
+      "ja": "2026年11月25日(水)、サウジアラビア主導連合軍が、事前に民間人への退避勧告を出していたイエメン・フーシ派支配下のホデイダ港を空爆したという。連合軍は、同港がフーシ派による武器・弾道ミサイルの密輸に使われているとして「作戦能力」を狙ったと説明しているという。これに対しフーシ派軍事報道官ヤヒヤ・サリー氏は、ホデイダが攻撃されればジッダを含むサウジアラビアの紅海沿岸の全港湾を標的にすると警告したという。複数の報道(Al Jazeera速報ページ、The National、Tribune India、Free Press Journal、Khaama等)が伝えている。サウジ・フーシ間では2026年7月の停戦崩壊以降、相互攻撃が繰り返されており、既報(11月19日のリヤド金融街タワーへの攻撃等)の延長線上にあるが、連合軍による港湾への直接空爆の実施と、ジッダを名指しした報復対象拡大の表明は、本時間帯の新規事実として確認した。推測:ジッダへの実際の攻撃は本稿執筆時点で確認されておらず、警告の域を出ない。死傷者数についても本稿執筆時点で確証できる報道がない。[信頼性: 高](連合軍・フーシ派双方の公式発表に基づき、Al Jazeeraの速報ページを含む複数の主要メディアが2026年11月25日の出来事として報じている。具体的な死傷者数は未確認)",
+      "en": "On Wednesday, November 25, 2026, the Saudi-led coalition reportedly struck Yemen's Houthi-held Hodeidah port, after earlier warning civilians to evacuate the area. The coalition said it targeted \"operational capabilities\" it said the Houthis use to smuggle weapons and ballistic missiles through the port. In response, Houthi military spokesman Yahya Saree reportedly warned that Jeddah and other Saudi Red Sea ports would be targeted if Hodeidah were attacked. Multiple outlets, including Al Jazeera's live blog, The National, Tribune India, Free Press Journal and Khaama, reported on the exchange. The Saudi-Houthi conflict has seen repeated attacks since a truce collapsed in July 2026, including a previously reported strike on a Riyadh financial-district tower on Nov. 19; this direct coalition strike on port infrastructure and the explicit threat to expand retaliation to Jeddah were confirmed as new facts for this period. Speculation: no actual strike on Jeddah had been confirmed as of this writing, and casualty figures for the Hodeidah strike could not be corroborated. [Reliability: High] (Based on official statements from both the coalition and the Houthis, reported Nov. 25, 2026 by multiple major outlets including Al Jazeera's live blog; specific casualty figures unconfirmed)"
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "region": "ホデイダ",
+    "lat": 14.7979,
+    "lon": 42.9545,
+    "occurredAt": "2026-11-25T04:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
