@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-73505",
+    "headline": {
+      "ja": "華為技術(Huawei)、米国の刑事裁判で有罪判決",
+      "en": "Huawei Convicted in US Criminal Trial Over Iran Business"
+    },
+    "summary": {
+      "ja": "中国の華為技術(Huawei)は、米国の刑事裁判で銀行詐欺、ワイヤフロード詐欺、制裁違反、営業秘密窃取の陰謀などを含む罪で有罪判決を受けた。",
+      "en": "Chinese technology company Huawei was found guilty in a U.S. criminal trial on charges including bank fraud, wire fraud, sanctions violations, and conspiracy to steal trade secrets."
+    },
+    "category": "economy",
+    "country": "中国",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "occurredAt": "2026-11-25T01:33:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/tech/china-huawei-us-iran-business/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "huawei_us_conviction_iran_business_2026-11-25"
+  },
+  {
+    "id": "auto-73510",
+    "headline": {
+      "ja": "ウクライナ、リビア沖でロシア艦船への攻撃は正当防衛と主張",
+      "en": "Ukraine Says Attack on Russian Ships in Libya Was Self-Defense"
+    },
+    "summary": {
+      "ja": "ウクライナ外相は、リビアのロシア海軍艦艇および軍事装備を輸送する貨物船への攻撃は正当な防衛対象であると述べた。",
+      "en": "Ukrainian Foreign Minister stated that attacks on Russian naval vessels and cargo ships carrying military equipment in Libya are valid targets of self-defense."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-25T01:08:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/world/politics/ukraine-russia-ships-libya/"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_attack_russian_ships_libya_2026-11-25"
+  },
+  {
     "id": "auto-73740",
     "headline": {
       "ja": "ロシア当局の統計でウクライナ戦争での死者50万人近くが判明",
@@ -21,6 +67,98 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_ukraine_casualty_figures_2026-11-25"
+  },
+  {
+    "id": "auto-73511",
+    "headline": {
+      "ja": "ワシントン、工場過剰稼働調査に基づき新関税を発表予定",
+      "en": "Washington to Unveil New Tariffs After Probe on Excess Factory Capacity"
+    },
+    "summary": {
+      "ja": "米国は過度な工場稼働能力に関する調査後に新しい関税を発表する予定。これは2月に米最高裁で廃止された関税の一部に代わるものとなる。",
+      "en": "Washington is preparing to unveil new tariffs following a probe into excess factory capacity, which would partly replace tariffs struck down by the Supreme Court."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-25T00:56:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/trump-tariffs-probe-factory-capacity/"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_new_tariffs_factory_capacity_2026-11-25"
+  },
+  {
+    "id": "auto-73515",
+    "headline": {
+      "ja": "英国、ウクライナ支援企業へのロシア破壊工作脅威を警告",
+      "en": "U.K. Warns of Russian Sabotage Threat to Companies that Supply Ukraine"
+    },
+    "summary": {
+      "ja": "英国MI5は、ウクライナを支援する企業に対するロシア工作員による破壊工作のリスクについて警告し、企業のセキュリティ強化を促促している。",
+      "en": "The UK's MI5 warned companies supplying Ukraine of potential Russian sabotage threats, urging them to improve security measures against operatives acting for Russia."
+    },
+    "category": "conflict",
+    "country": "イギリス",
+    "lat": 51.5085,
+    "lon": -0.1257,
+    "occurredAt": "2026-11-24T23:31:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/uk-russia-sabotage-companies-ukraine/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "uk_russia_sabotage_warning_ukraine_2026-11-25"
+  },
+  {
+    "id": "auto-73517",
+    "headline": {
+      "ja": "イラク首相、クルド人支配油田の掌握に動く-地域緊張さらに悪化",
+      "en": "Iraqi PM Moves to Seize Kurdish-Controlled Oilfields, Further Straining Ties"
+    },
+    "summary": {
+      "ja": "イラク首相がクルド人支配下の油田掌握を進めており、イランの支配的代理勢力への取り締まりが強化される中で地域紛争が一層複雑化している。",
+      "en": "Iraqi Prime Minister is moving to seize Kurdish-controlled oilfields, further straining ties as he cracks down on Iran's most powerful proxy militia in the country."
+    },
+    "category": "conflict",
+    "country": "イラク",
+    "lat": 33.3406,
+    "lon": 44.4009,
+    "occurredAt": "2026-11-24T22:25:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/world/iraqi-pm-kurds-oilfields/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "iraq_kurdish_oilfields_control_2026-11-25"
+  },
+  {
+    "id": "auto-73499",
+    "headline": {
+      "ja": "米国、日欧中などへの関税引き上げを準備",
+      "en": "US Administration Prepares Tariff Increases on Japan, Europe, China"
+    },
+    "summary": {
+      "ja": "米国政権が日本、欧州、中国などへの関税引き上げを準備しているとの報道。過度な生産を理由としている。",
+      "en": "The US administration is preparing to raise tariffs on Japan, Europe, China and other countries, citing overproduction as the reason."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-24T20:17:00+00:00",
+    "source": {
+      "name": "時事通信 ランキング",
+      "url": "https://www.jiji.com/jc/article?k=2026112500137&g=int&m=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "us_tariff_increase_japan_eu_china_2026-11-25"
   },
   {
     "id": "auto-72255",
@@ -205,6 +343,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "gaza_unrwa_staff_casualties_nov2026"
+  },
+  {
+    "id": "auto-71668",
+    "headline": {
+      "ja": "ロシア、ウクライナドローン90機近くを撃墜と発表",
+      "en": "Nearly 90 Ukrainian drones shot down over Russian regions"
+    },
+    "summary": {
+      "ja": "ロシア国営通信によると、ウクライナのドローン90機近くがロシア領上空で撃墜されたと発表した。",
+      "en": "Russia claims that nearly 90 Ukrainian drones were shot down over Russian territory during the day."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-23T19:02:14+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zU0JNWElkSFpXbHNSTmV1YmRHdmtGVWJTRkZnMzVqal9odWxaSXFKdkRJU01KVTNIM3BLazJJZFlWb2pESEl5TtIBTkFVX3lxTE1BeVRFOWdpbC1rdFVGZTRPektTbGVPUkd2T1JZN3FJSmN5M3N4dUpOa0FZRjNIdnlyRlJvRUFWZzd6Q1dqVXBVTWNTMi1OUQ?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "ukraine_drone_strikes_russia_2026-11-23"
   },
   {
     "id": "auto-71471",
