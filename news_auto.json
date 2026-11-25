@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-73866",
+    "headline": {
+      "ja": "ホルムズ海峡で違法タンカー 2 隻が爆発",
+      "en": "Two violating oil tankers explode on unauthorized route in Strait of Hormuz"
+    },
+    "summary": {
+      "ja": "イラン革命警備隊海軍はホルムズ海峡の非公式航路で違法なタンカー 2 隻が爆発したと発表した。",
+      "en": "The Islamic Revolution Guards Corps Navy announced that two violating oil tankers exploded on unauthorized routes in the Strait of Hormuz."
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "occurredAt": "2026-11-25T06:05:46+00:00",
+    "source": {
+      "name": "イラン IRNA通信(国営)",
+      "url": "https://en.irna.ir/news/86331897/Two-violating-oil-tankers-explode-on-unauthorized-route-in-Strait"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_hormuz_strait_tanker_explosion_2026-11-25"
+  },
+  {
+    "id": "auto-73612",
+    "headline": {
+      "ja": "インドネシアの鉱山で29人がトラップ",
+      "en": "29 miners trapped in Indonesia's mining pit"
+    },
+    "summary": {
+      "ja": "インドネシアの鉱山坑内で29人の鉱夫がトラップしていると報道されている。",
+      "en": "Xinhua reports that 29 miners are trapped in an Indonesian mining pit."
+    },
+    "category": "disaster",
+    "country": "インドネシア",
+    "lat": -6.2146,
+    "lon": 106.8451,
+    "occurredAt": "2026-11-25T02:06:30+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG5SSkVWdjdmMVItb3BUdUxXbzBfbHdGVXo5MVVweE9odVJsdVEwZ2c4MVBTa1EyZTVpRGdvNHh3bjJDdm5MUU9MVnUzaTdad3dhczE2TVlCbFV2LU5NOHBLNWFSWnNxYmZMa2xzRGVoTnlHT2UwVzVkMkRUV0J1V3FaajlGZVl0aGdXUQ?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "indonesia_mining_pit_collapse_2026-11-25"
+  },
+  {
     "id": "auto-73505",
     "headline": {
       "ja": "華為技術(Huawei)、米国の刑事裁判で有罪判決",
@@ -46,6 +92,29 @@
     "eventKey": "ukraine_attack_russian_ships_libya_2026-11-25"
   },
   {
+    "id": "auto-73751",
+    "headline": {
+      "ja": "カメルーン分離主義紛争 50万人以上が避難 人道危機",
+      "en": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict"
+    },
+    "summary": {
+      "ja": "カメルーンの英語圏地域の分離主義紛争が 10 年間続いており、50 万人以上が家を逃れている。15 歳の少女が銃で顔を撃たれるなど、多くの民間人が被害を受けている。",
+      "en": "Cameroon's decade-long separatist conflict in English-speaking regions has displaced over half a million people, with numerous civilian casualties including children shot in the face."
+    },
+    "category": "conflict",
+    "country": "カメルーン",
+    "lat": 3.8667,
+    "lon": 11.5167,
+    "occurredAt": "2026-11-25T01:00:36+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "cameroon_separatist_conflict_humanitarian_crisis_2026"
+  },
+  {
     "id": "auto-73740",
     "headline": {
       "ja": "ロシア当局の統計でウクライナ戦争での死者50万人近くが判明",
@@ -90,6 +159,30 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "us_new_tariffs_factory_capacity_2026-11-25"
+  },
+  {
+    "id": "auto-73673",
+    "headline": {
+      "ja": "サウジ主導連合がイエメンのフデイダ港を攻撃 フーシ派が報復脅迫",
+      "en": "Iran war live: Saudi-led coalition strikes Yemen's Hodeidah port"
+    },
+    "summary": {
+      "ja": "サウジ主導連合はイエメンのフデイダ港を攻撃した。イエメンの反政府勢力フーシ派はジッダなどサウジ港を標的にすると脅迫している。",
+      "en": "The Saudi-led coalition strikes Yemen's Hodeidah port. Houthis vow to target Jeddah and other Saudi ports in response."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-25T00:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_hodeidah_port_coalition_attack_2026-11-25",
+    "severity": 4
   },
   {
     "id": "auto-73515",
@@ -2084,28 +2177,5 @@
     "auto": true,
     "eventKey": "israel_territorial_expansion_2026-11-18",
     "severity": 4
-  },
-  {
-    "id": "auto-64801",
-    "headline": {
-      "ja": "プーチン大統領が9年ぶりにAPEC首脳会議に登場",
-      "en": "Putin Appears at APEC Summit for First Time in 9 Years"
-    },
-    "summary": {
-      "ja": "ロシアのプーチン大統領が9年ぶりにAPEC首脳会議に登場し、国際的な孤立からの脱却をアピールしているとみられる。",
-      "en": "Russian President Putin appeared at the APEC summit for the first time in 9 years, apparently seeking to break Russia's international isolation."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-18T09:54:00+00:00",
-    "source": {
-      "name": "時事通信 ランキング",
-      "url": "https://www.jiji.com/jc/article?k=2026111801061&g=int&m=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "russia_putin_apec_2026-11"
   }
 ]
