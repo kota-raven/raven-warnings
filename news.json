@@ -1,71 +1,5 @@
 [
   {
-    "id": "2026-11-22-05",
-    "headline": {
-      "ja": "キーウ州ディミル村でロシア軍の無人機攻撃、5階建てアパートが損壊 複数人がなお瓦礫の下に(11月22日未明)",
-      "en": "Russian drone strike damages five-story apartment building in Dymer, Kyiv Oblast; several people feared still trapped under rubble (early Nov 22)"
-    },
-    "summary": {
-      "ja": "2026年11月22日(日)未明、ロシア軍の無人機がウクライナ北部キーウ州ヴィシホロド地区のディミル村を攻撃し、5階建てアパートが損壊したという。複数の報道(キーウ・インディペンデント等)によれば、地域の軍政当局は22歳の女性と子供1人が負傷したと発表し、建物は火災も発生して各階の住戸が「破壊された」とされる。ゼレンスキー大統領は「瓦礫の下にまだ人がいる可能性がある」と述べたという。負傷者数・瓦礫の下に取り残されたとされる人数については報道間で差があり(ある報道は負傷2人・最大14人が取り残された可能性、別の報道は死者1人・負傷2人とする)、本収集時点では統一的な数値は確認できていない。ウクライナ空軍によれば、同日未明にかけてロシア軍は186機の攻撃用無人機を発射し、161機を撃墜したとされる。キーウ州全体では過去24時間で30人が負傷したという。推測:最終的な死傷者数・救助状況は、報道間の食い違いもあり本収集時点では確定していない。[信頼性: 中](Kyiv Independent等複数の国際メディアが2026年11月22日の報道として伝えているが、死傷者・取り残され人数の具体的な数値には差がある)",
-      "en": "In the early hours of Sunday, November 22, 2026, a Russian drone reportedly struck the village of Dymer in the Vyshhorod district of Kyiv Oblast, northern Ukraine, damaging a five-story apartment building. Multiple outlets (including the Kyiv Independent) reported that the regional military administration said a 22-year-old woman and a child were injured, and that a fire broke out, leaving units on several floors 'destroyed.' President Zelensky reportedly said 'people may still be trapped under the rubble.' Reports vary on the casualty and trapped-person counts: one version cites two injured with up to 14 people possibly trapped, while another cites one death and two injured; no single confirmed figure was available as of this collection. Ukraine's Air Force said Russian forces launched 186 attack drones overnight, of which 161 were shot down, and regional authorities said 30 people were injured across Kyiv Oblast over the past 24 hours. Speculation: the final casualty toll and rescue outcome remain unconfirmed given discrepancies between outlets as of this writing. [Reliability: Medium] (Reported as of November 22, 2026 by multiple international outlets including the Kyiv Independent, though specific casualty and trapped-person figures differ)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ州(ディミル村)",
-    "lat": 50.833,
-    "lon": 30.333,
-    "occurredAt": "2026-11-22T02:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-attacks-across-ukraine-injure-30-over-past-day-as-rescue-operation-continues-near-kyiv-after-drone-strike/"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-22-08",
-    "headline": {
-      "ja": "インドネシア・バンテン州のお菓子工場で火災 3人死亡・36人不明、約60人が工場内に(11月22日)",
-      "en": "Fire at Indonesian sweets factory in Banten kills 3, leaves 36 missing; about 60 people were inside (Nov 22)"
-    },
-    "summary": {
-      "ja": "2026年11月22日(日)、インドネシア・ジャワ島西部バンテン州(首都ジャカルタに隣接)のお菓子・乳製品スナック(「ミルキタ」ブランド)製造工場「フォヌサ・アグン・ムリア」で火災が発生し、少なくとも3人が死亡、36人が行方不明になっているという。Al Jazeeraの報道によれば、インドネシア国家捜索救助庁(Basarnas)は、出火当時工場内に約60人がいたとし、少なくとも15人を救助(うち4人を病院搬送)したと発表したという。出火原因については、同国災害対応当局が調査中としている。推測:行方不明者・死者数は今後変動する可能性があり、出火の原因・経緯は本収集時点では明らかになっていない。[信頼性: 中](Al Jazeeraが2026年11月22日の報道として伝えている。発生から時間が浅く、被害数値は今後更新される可能性がある)",
-      "en": "On Sunday, November 22, 2026, a fire broke out at the Fonusa Agung Mulia factory — which makes milk-based snacks and sweets under the 'Milkita' brand — in Indonesia's Banten province on Java, which borders the capital Jakarta, reportedly killing at least three people and leaving 36 others missing. According to Al Jazeera, Indonesia's National Search and Rescue Agency (Basarnas) said about 60 people were inside the factory when the fire started, and that at least 15 people had been rescued, including four taken to hospital. The cause of the fire was reportedly under investigation by the national disaster agency. Speculation: the death and missing counts may change, and the cause and sequence of the fire had not been determined as of this collection. [Reliability: Medium] (Reported by Al Jazeera as of November 22, 2026; figures may be updated given how recently the fire occurred)"
-    },
-    "category": "disaster",
-    "country": "インドネシア",
-    "region": "バンテン州",
-    "lat": -6.12,
-    "lon": 106.1503,
-    "occurredAt": "2026-11-21T22:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-23-02",
-    "headline": {
-      "ja": "キーウ州ディミル村の無人機攻撃、死者2〜3人・負傷4人に 既報の被害状況を更新(11月22日未明)",
-      "en": "Dymer drone strike in Kyiv Oblast: death toll updated to 2-3 killed, 4 wounded (early Nov 22)"
-    },
-    "summary": {
-      "ja": "既報(2026-11-22-05)のキーウ州ディミル村でのロシア軍無人機攻撃(5階建てアパート損壊)について、複数の報道(CP24、ITV、ワシントン・タイムズ等、いずれもAP通信配信とみられる記事)が2人死亡・4人負傷と報じ、一方でワシントン・ポストは3人死亡とし、瓦礫の下からなお救出作業が続いているとしたという。前回収集時点では負傷者数・取り残され人数について報道間で差があり統一的な数値が確認できないとしていたが、この時間帯の報道により死者数が新たに確認されたため、更新事実として新規採用する。推測:死者が2人か3人かは報道間で一致しておらず、本収集時点でも確定していない。[信頼性: 中](CP24、ITV、ワシントン・タイムズ、ワシントン・ポスト等複数の国際メディアが2026年11月22日の報道として伝えているが、死者数〈2人/3人〉に食い違いがある)",
-      "en": "Regarding the previously reported Russian drone strike on the village of Dymer, Kyiv Oblast (id 2026-11-22-05, which damaged a five-story apartment building), multiple outlets (CP24, ITV, The Washington Times — apparently all carrying the same AP wire report) reported 2 killed and 4 wounded, while The Washington Post reported 3 killed, with rescue operations said to be continuing in the rubble. The prior collection could not confirm a single casualty figure given discrepancies between outlets; this item is adopted as an update now that a death toll has been reported by multiple outlets in this window. Speculation: outlets disagree on whether 2 or 3 people died, and this remains unconfirmed as of this collection. [Reliability: Medium] (Reported Nov 22, 2026 by multiple outlets including CP24, ITV, The Washington Times and The Washington Post; the death toll figure—2 vs. 3—differs between reports)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ州(ディミル村)",
-    "lat": 50.833,
-    "lon": 30.333,
-    "occurredAt": "2026-11-22T02:00:00+00:00",
-    "source": {
-      "name": "CP24 / The Washington Post",
-      "url": "https://www.cp24.com/news/world/2026/11/22/russian-attack-near-ukraines-capital-strikes-apartment-building-killing-2-and-wounding-4/"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-23-03",
     "headline": {
       "ja": "キーウ州ヴィシネヴェのスーパーに無人機攻撃 営業時間中を直撃、2〜3人死亡・15人負傷(11月22日)",
@@ -132,28 +66,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-24-01",
-    "headline": {
-      "ja": "ウクライナ、リビア・ベンガジでロシア海軍コルベットを撃沈と発表(ゼレンスキー氏)",
-      "en": "Ukraine says its naval drones sank a Russian warship at Benghazi, Libya"
-    },
-    "summary": {
-      "ja": "ゼレンスキー大統領は11月23日、ウクライナの海軍無人艇(推定7機)が11月22日未明、リビア北東部ベンガジの港でロシア海軍のコルベット「メルクリー」(2023年就役)を撃沈し、貨物船「アンガラ」も損傷させ、艦載のKa-27ヘリコプターも破壊したと発表したという。前線から約2400km離れた作戦で、衛星画像会社Vantorの画像はメルクリーが転覆した様子を示しているとCNBC等が報じたが、ロシア側は事実の確認も否定もしておらず(クレムリンは「認知した」とのみ述べた)、被害の詳細はウクライナ側の発表に基づく。国連リビア支援団(UNSMIL)は「深刻な懸念」を表明し、独立した調査を求めたという。[信頼性: 中](ウクライナ政府の発表が主な根拠で、衛星画像による裏付けはあるがロシア側の独立した確認は得られていない)",
-      "en": "President Zelensky said on November 23 that Ukrainian naval drones (reportedly seven) sank the Russian navy corvette Merkury, commissioned in 2023, at the port of Benghazi in northeastern Libya in the early hours of November 22, also damaging the cargo ship Angara and destroying a Ka-27 helicopter aboard. The operation reportedly took place roughly 2,400km from the front line. Satellite imagery from Vantor reportedly shows the Merkury capsized, per CNBC and others, but Russia has neither confirmed nor denied the claim (the Kremlin said only that it had \"taken note\"), so casualty/damage details rest on Ukraine's own account. The UN mission in Libya (UNSMIL) reportedly expressed \"serious concern\" and called for an independent investigation. [Reliability: Medium] (Based mainly on the Ukrainian government's announcement; corroborated by satellite imagery but not independently confirmed by Russia)"
-    },
-    "category": "conflict",
-    "country": "リビア",
-    "region": "ベンガジ",
-    "lat": 32.1167,
-    "lon": 20.0667,
-    "occurredAt": "2026-11-22T01:00:00+00:00",
-    "source": {
-      "name": "CNBC / Al Jazeera / NBC News",
-      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-24-03",
     "headline": {
       "ja": "トランプ氏、封鎖突破を試みるイラン船舶の「撃沈」を警告 イランは「あらゆる手段」で対抗すると表明(ホルムズ海峡・米・イラン戦争)",
@@ -175,5 +87,27 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-11-25-01",
+    "headline": {
+      "ja": "イスラエル軍、ガザ市でハマス治安組織責任者を空爆で殺害と発表(11月24日)",
+      "en": "Israel says it killed Hamas internal security chief in Gaza City airstrike (Nov 24)"
+    },
+    "summary": {
+      "ja": "2026年11月24日(火)、イスラエル国防軍(IDF)とシンベト(イスラエル治安情報機関)は、ガザ市でハマスの治安組織(内部保安部門)の責任者を空爆で殺害したと発表したという。複数の主要メディア(Al Jazeera、The Washington Post、The Times of Israel、The Jerusalem Post等)が同日の出来事として報じており、ハマス側もこの人物の死亡を確認し、「戦争犯罪」だと非難しているという。The Times of Israelによれば、同人物は数週間前にイスラエル軍が拘束した前任の治安組織責任者の後任にあたるとされる。既報(2026-11-23-04、2026-11-23-05等)のガザ中部・北部での攻撃とは別地点・別事案である。推測:攻撃の具体的な経緯・標的選定の詳細についてはイスラエル軍の発表以上の情報は本収集時点で確認できていない。報道間で同人物の氏名表記(Abu Nahal/Abu Nahel/Abu Nahl等)に揺れがある。[信頼性: 高](IDF・シンベトの公式発表に基づき、Al Jazeera、The Washington Post、The Times of Israel、The Jerusalem Post等複数の主要メディアが2026年11月24日の出来事として報じ、ハマス側も死亡を確認している)",
+      "en": "On Tuesday, November 24, 2026, Israel's military (IDF) and the Shin Bet security service announced that an airstrike in Gaza City had killed the chief of Hamas's internal security apparatus. Multiple major outlets (Al Jazeera, The Washington Post, The Times of Israel, The Jerusalem Post) reported the strike as a same-day event, and Hamas confirmed the man's death, calling the strike a 'war crime.' The Times of Israel reported that the official had succeeded a predecessor whom Israeli forces had captured weeks earlier. This is a separate incident and location from previously reported strikes in central and northern Gaza (ids 2026-11-23-04, 2026-11-23-05). Speculation: no detail beyond the Israeli military's own announcement about the specific circumstances or target selection could be confirmed as of this collection; outlets vary in how they transliterate the official's name (Abu Nahal/Abu Nahel/Abu Nahl). [Reliability: High] (Based on an official IDF/Shin Bet announcement, reported as of November 24, 2026 by multiple major outlets including Al Jazeera, The Washington Post, The Times of Israel and The Jerusalem Post; Hamas also confirmed the death)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ市",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-11-24T12:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / The Washington Post / Times of Israel",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
+    },
+    "reliability": "high"
   }
 ]
