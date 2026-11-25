@@ -26,6 +26,32 @@
     "periodEnd": "2027-11-30T23:59:59Z"
   },
   {
+    "id": "2026-12-04-fi-000249",
+    "recordType": "aggregate",
+    "country": "FI",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Baltic Sea",
+      "lat": 60.0,
+      "lon": 24.0,
+      "approximate": true
+    },
+    "activity": "フィンランド海軍の主要演習「Narrow Waters 26-2」がバルト海南部沿岸とフィンランド湾で実施される予定。エストニア海軍を含むNATO同盟国が参加。米国の偵察海兵隊も参加予定",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/23/recon-marines-join-finnish-naval-exercise-baltic-nato-naval-drills"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-24T21:21:22.957440+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 1,
+    "periodStart": "2026-11-26T00:00:00Z",
+    "periodEnd": "2026-12-04T00:00:00Z"
+  },
+  {
     "id": "2026-11-30-in-000041",
     "recordType": "individual",
     "country": "IN",
@@ -93,8 +119,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-10-19T21:21:34.587894+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
   },
   {
@@ -174,6 +200,78 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-24-kr-000247",
+    "recordType": "individual",
+    "country": "KR",
+    "shipName": "Pyeongtaek",
+    "shipNumber": "FFG-823",
+    "shipType": "frigate",
+    "position": {
+      "area": "Okpo, South Korea",
+      "lat": 34.6224,
+      "lon": 128.5921,
+      "approximate": true
+    },
+    "activity": "韓国海軍の新造フリゲート「ピョンテク」がハンファオーシャン玉浦造船所で進水。忠南級5番艦で2027年12月に引渡し予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37615/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-24T21:21:22.957440+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-24T00:00:00Z"
+  },
+  {
+    "id": "2026-11-24-us-000245",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Frank Cable",
+    "shipNumber": "AS-40",
+    "shipType": "transport",
+    "position": {
+      "area": "Saipan",
+      "lat": 15.2231,
+      "lon": 145.7781,
+      "approximate": true
+    },
+    "activity": "米海軍の潜水母艦フランク・ケーブルがサイパン島に寄港",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37739/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-24T21:21:22.957440+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-24T00:00:00Z"
+  },
+  {
+    "id": "2026-11-24-us-000246",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Wally Schirra",
+    "shipNumber": "T-AK-233",
+    "shipType": "transport",
+    "position": {
+      "area": "Ulsan, South Korea",
+      "lat": 35.5384,
+      "lon": 129.3956,
+      "approximate": true
+    },
+    "activity": "米海軍第7艦隊所属の貨物弾薬補給艦ウォリー・シラーが2027年1月から韓国・蔚山でHD現代重工による整備を受注",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37737/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-24T21:21:22.957440+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-24T00:00:00Z"
+  },
+  {
     "id": "2026-11-23-ca-000244",
     "recordType": "individual",
     "country": "CA",
@@ -196,6 +294,32 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-23T00:00:00Z"
+  },
+  {
+    "id": "2026-11-23-us-000248",
+    "recordType": "aggregate",
+    "country": "US",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "Deployed Worldwide",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍の戦闘群・揚陸戦力群が展開中。2026年11月23日時点で、総戦力286隻中102隻が展開中（うち46隻は前方展開常続態勢、56隻は交代ローテーション）。日本ではUSS Tripoli（LHA-7）が佐世保に、USS Anchorage（LPD-23）が横須賀に在港",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/23/usni-news-fleet-and-marine-tracker-nov-23-2026"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-24T21:21:22.957440+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 102,
+    "periodStart": "2026-11-23T00:00:00Z",
+    "periodEnd": "2026-11-23T00:00:00Z"
   },
   {
     "id": "2026-11-22-ru-000242",
@@ -313,8 +437,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-22T21:21:16.687896Z",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-19T00:00:00Z"
   },
   {
@@ -385,8 +509,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-18T04:46:56+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-17T10:34:00+09:00"
   },
   {
@@ -1131,8 +1255,8 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-11T21:21:25+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-11-10T00:00:00Z"
   },
   {
@@ -3134,7 +3258,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-25T21:21:24.772650+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-22T00:00:00Z"
   },
   {
@@ -3616,7 +3740,7 @@
     "confidence": "confirmed",
     "lastCheckedAt": "2026-10-20T21:21:33.338248+00:00",
     "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比8.0倍) + Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-10-19T00:00:00Z"
   },
   {
