@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-73740",
+    "headline": {
+      "ja": "ロシア当局の統計でウクライナ戦争での死者50万人近くが判明",
+      "en": "Russia's own figures reveal nearly 500,000 deaths in Ukraine war"
+    },
+    "summary": {
+      "ja": "ロシア当局の漏洩データによると、ウクライナへの全面侵攻により、ロシアにおける死亡パターンが根本的に変化したことが示されている。",
+      "en": "Leaked data from Russian authorities shows that the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia, revealing nearly 500,000 deaths."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-25T00:56:51+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_ukraine_casualty_figures_2026-11-25"
+  },
+  {
     "id": "auto-72255",
     "headline": {
       "ja": "イスラエル空爆がハマス幹部を殺害",
@@ -1923,98 +1946,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "russia_putin_apec_2026-11"
-  },
-  {
-    "id": "auto-64291",
-    "headline": {
-      "ja": "イラン軍、クウェート米軍基地をドローン攻撃と発表",
-      "en": "Iranian Army attacks US Patriot systems at Kuwait base"
-    },
-    "summary": {
-      "ja": "イラン政府は、イラン軍がクウェートのアリ・アルサーレム空軍基地の米国パトリオット防空システムをドローン攻撃したと発表した。",
-      "en": "Iran announced its military targeted US Patriot air defense systems at Ali Al Salem Air Base in Kuwait with combat drones."
-    },
-    "category": "conflict",
-    "country": "クウェート",
-    "lat": 29.367,
-    "lon": 47.9743,
-    "occurredAt": "2026-11-18T06:10:45+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86325322/Iranian-Army-targets-US-Patriot-systems-at-Kuwait-s-Ali-Al-Salem"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "iran_drone_attack_kuwait_2026-11-18"
-  },
-  {
-    "id": "auto-64403",
-    "headline": {
-      "ja": "パプアニューギニア地域で震度6の地震が発生",
-      "en": "Magnitude 6 earthquake strikes Papua New Guinea"
-    },
-    "summary": {
-      "ja": "パプアニューギニア地域で震度6.0の地震が発生した。",
-      "en": "A magnitude 6 earthquake struck Papua New Guinea Region."
-    },
-    "category": "disaster",
-    "country": "パプアニューギニア",
-    "lat": -9.4772,
-    "lon": 147.1509,
-    "occurredAt": "2026-11-18T05:49:12+00:00",
-    "source": {
-      "name": "UAE 国営WAM通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmJ0eDdXMm81VnlPNXlaN0hYejE1RzQxbjJsZml2Smp0amIzSDRyaXFXZXIxMkZyMENLQnh3NHl1UVNoN0xBR2wxaFFCQmtJN3VtYmZ5YkJZRllDUTllaFZhek0wZTh4VFlOSW5pM2tHVlZaNk9vUl9UbTFxZUVvdGdpeTl6RVJ1OElR?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "papua_new_guinea_earthquake_2026-11-18"
-  },
-  {
-    "id": "auto-64778",
-    "headline": {
-      "ja": "ハイチで栄養失調の児童25万人超の可能性",
-      "en": "Over 250,000 Children at Risk of Malnutrition in Haiti"
-    },
-    "summary": {
-      "ja": "ハイチで深刻な人道危機が続いており、栄養失調に直面する児童が25万人を超える可能性がある。",
-      "en": "Haiti faces a severe humanitarian crisis with over 250,000 children at risk of malnutrition."
-    },
-    "category": "disaster",
-    "country": "ハイチ",
-    "lat": 18.5435,
-    "lon": -72.3388,
-    "occurredAt": "2026-11-18T05:21:23+00:00",
-    "source": {
-      "name": "Yahoo!ニュース トピックス(国際)",
-      "url": "https://news.yahoo.co.jp/pickup/6603029?source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "haiti_malnutrition_crisis_2026-11"
-  },
-  {
-    "id": "auto-64820",
-    "headline": {
-      "ja": "米軍がイラン・クシム島のイスラム革命防衛隊基地を攻撃",
-      "en": "US military strikes Iranian Revolutionary Guard missile facility on Qeshm Island"
-    },
-    "summary": {
-      "ja": "米軍戦闘機がペルシャ湾のクシム島に所在するイスラム革命防衛隊のミサイル発射基地を爆撃した。",
-      "en": "US fighter jets struck an Islamic Revolutionary Guard Corps missile launch facility on Qeshm Island in the Persian Gulf."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 26.9492,
-    "lon": 56.2691,
-    "occurredAt": "2026-11-18T04:56:00+00:00",
-    "source": {
-      "name": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/18/world/politics/gulf-us-strikes-iran-island/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "us_strike_iran_qeshm_island_2026-11-18",
-    "severity": 4
   }
 ]
