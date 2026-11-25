@@ -2225,28 +2225,5 @@
     "auto": true,
     "eventKey": "gaza_israel_us_coordinated_offensive_2026-11-18",
     "severity": 4
-  },
-  {
-    "id": "auto-65925",
-    "headline": {
-      "ja": "フーシ派がリヤドの空港・金融センター攻撃を主張",
-      "en": "Houthis claim cruise missile strike on Riyadh airport and financial center"
-    },
-    "summary": {
-      "ja": "フーシ派がサウジアラビアの首都リヤドにある空港および金融センターへの巡航ミサイル攻撃を実行したと主張した。",
-      "en": "Houthis claimed responsibility for cruise missile strikes on Riyadh's airport and financial center."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-18T21:15:30+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5RX1U1c1JFaWxfdVlveVNBMEJVWFY0Y045RndWVW9VWUJWZ29Md3VpSWNxWHcyT1ZOQ3F3bFQtUFJoWWFl0gFKQVVfeXFMTjJRZG9jbkQ1eklDWFY3V0Q2dm1zclh2VnoxaW5lenVIY2oyal9ST1M4VHJJelBGZWZvN1d6d01FQVNaVU9qbUdHZmc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_arabia_houthi_missile_attack_riyadh_2026-11-18"
   }
 ]
