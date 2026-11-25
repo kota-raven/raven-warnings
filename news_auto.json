@@ -92,6 +92,52 @@
     "eventKey": "strait_of_hormuz_tanker_mine_2026-11"
   },
   {
+    "id": "auto-73333",
+    "headline": {
+      "ja": "イスラエル軍、レバノン南部を空爆・砲撃",
+      "en": "Israeli airstrikes, artillery shelling hit southern Lebanon"
+    },
+    "summary": {
+      "ja": "イスラエル軍がレバノン南部への空爆と砲撃を実施し、米国との合意に対する違反が継続している。",
+      "en": "Israeli forces carried out airstrikes and artillery shelling in southern Lebanon, as violations of a US-brokered deal continue."
+    },
+    "category": "conflict",
+    "country": "レバノン",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "occurredAt": "2026-11-24T10:07:21+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR053dGtHQVVkNjhnT1V1bnYybjhkRnB3LWhQTl9wc3Q2eVY0V3IyNHVhaXp2UEFCRGZIbk9ETEt0MzFZNjIxNzMzYWdSLWdicHBPcGl2UVhsN0p2YlBDMEM1R0w0NnhMQkk5SjAyOGtacTJXeFQ1a0JFWTY1LTV3eG1qakw3eVpKcUJSUHZJTlJ4eDdxcmdtUFdnTE44ZXJyTDlieW14MUhVamhMYndoZi03S1hmQjVfZlh4YWxWaXZaZlU1NjV1V0xxX1hGRmJFRmRF?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "lebanon_israeli_airstrikes_2026-11-24"
+  },
+  {
+    "id": "auto-73301",
+    "headline": {
+      "ja": "米国防総省、ウクライナへのパトリオット供給承認を遅延",
+      "en": "Pentagon delays approval for Patriot missile shipments to Ukraine"
+    },
+    "summary": {
+      "ja": "米国防総省がウクライナへのパトリオット ミサイル供給の承認を遅延させていると報じられている。",
+      "en": "The Pentagon has delayed approval for Patriot missile shipments to Ukraine, according to reports."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-24T08:26:50+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1FfUkJ1WC1GVThYdVNBbGNpeTFOeFlIb2l3bDZkcEQ0NmVzV1ZmWk5xTjV1UnNuRkZITXNXV19oYndLRVBkalBxckFlR2FpNGlKTjNzZmNaeHk1dUR0cjZQaXJKNDJlSEZ0NnljY0t4c2w3eWwxMnlKRVRkUWZtOXdUYkVPQkZHRXZ1MlQ2WTEzU1BrYVJCaFFiUktzZ1BEamJEZUJIcDJyVzV2RGEw?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_patriot_missile_delay_2026-11-24"
+  },
+  {
     "id": "auto-71499",
     "headline": {
       "ja": "イスラエルのドローン攻撃、ガザで5人のパレスチナ人が殺害",
@@ -1970,97 +2016,5 @@
     "auto": true,
     "eventKey": "us_strike_iran_qeshm_island_2026-11-18",
     "severity": 4
-  },
-  {
-    "id": "auto-64833",
-    "headline": {
-      "ja": "ウクライナがクリミア橋を攻撃、三首脳会談を前に軍事力を示威",
-      "en": "Ukraine Attacks Crimean Bridge Ahead of Trump-Xi-Putin Meeting"
-    },
-    "summary": {
-      "ja": "ウクライナがクリミア橋への攻撃を実施。トランプ米大統領、習近平中国国家主席、プーチン露大統領の3者会談がシンセンで予定される中、キーウへの圧力増加への懸念が高まっている。",
-      "en": "Ukraine launched an attack on the Crimean bridge as concerns grow that a planned summit between Trump, Xi, and Putin in Shenzhen could increase pressure on Kyiv."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 45.107,
-    "lon": 34.5204,
-    "occurredAt": "2026-11-18T02:02:00+00:00",
-    "source": {
-      "name": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/18/world/society/ukraine-crimean-bridge-trump-putin/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_crimean_bridge_attack_2026-11"
-  },
-  {
-    "id": "auto-63671",
-    "headline": {
-      "ja": "クウェートがドローン攻撃を撃退、湾岸紛争が激化",
-      "en": "Kuwait reports intercepting 'hostile' drone attacks"
-    },
-    "summary": {
-      "ja": "クウェート軍が、敵意を示すドローン攻撃を撃退したと発表。バーレーンもイランの攻撃に言及し、湾岸地域の緊張が高まっている。",
-      "en": "Kuwait's military intercepted what it described as hostile drone attacks. Bahrain also accused Iran of attacks, raising tensions in the Gulf region."
-    },
-    "category": "conflict",
-    "country": "クウェート",
-    "lat": 29.367,
-    "lon": 47.9743,
-    "occurredAt": "2026-11-18T00:00:27+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "kuwait_drone_attack_interception_2026-11-17"
-  },
-  {
-    "id": "auto-64421",
-    "headline": {
-      "ja": "クウェート軍、敵対的ドローン攻撃に防空システムで対応",
-      "en": "Kuwait's air defenses respond to hostile drone attacks"
-    },
-    "summary": {
-      "ja": "クウェート軍が敵対的なドローン攻撃に対して防空システムで対応したと発表した。",
-      "en": "Kuwait's military announced its air defenses responded to hostile drone attacks."
-    },
-    "category": "conflict",
-    "country": "クウェート",
-    "lat": 29.367,
-    "lon": 47.9743,
-    "occurredAt": "2026-11-17T22:56:54+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmRfSWZpUTZ5Uk9pdXVpM0JMOWw3U0dOcTBFU3ltWnJHRWpDaWpLMTR0VWszTzJXdnM0SXplX3k5Y0drbjRibmV3WjNacnpENkg4R3UwZUQ1T1hhUWlWdjZERjdPUi1lME91b1huSlJMZ0YyZ3d6cXhjMk45dUFKcnctYXpsMGhXVEs4VTVFUWpOdElmT2xFckgyRXJhaFg1NlE2bzJn?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "kuwait_air_defense_attack_2026-11-17"
-  },
-  {
-    "id": "auto-64256",
-    "headline": {
-      "ja": "ウクライナ大統領、Ramstein会談で防空ミサイル・戦闘機取得を優先課題に",
-      "en": "Ukraine President outlines priorities at Ramstein: air defense missiles, fighter jets"
-    },
-    "summary": {
-      "ja": "ウクライナ大統領がRamstein国防相会議で、防空ミサイルと新型戦闘機の取得、防衛部門への財政支援、ドローン取引形式の発展を優先課題として掲げた。",
-      "en": "Ukraine's president outlined priorities at Ramstein meeting including air defense missiles, new fighter jets, financial support for defense sector, and drone cooperation format development."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-17T22:32:00+00:00",
-    "source": {
-      "name": "ウクライナ 大統領府(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjVIYW9zOURnLTEyUWtsR3BWOF8tNENBWkdOZTVBcm9DQzZ0VGpGNkwwV2R3TTZlODNhMnk4aXVPdExEYl9MYkZfOFRFSzl5UTNlSXVTMUhwV180RkZaekJYalhpSzNqSm9fRkdjR1o5cjlpREZuQ1E5MlpuT0hQMDEtc2g1aEx1U3M3X1lLeTNPcDltLTVMMHBRTjloSXhBUzFrQ00xUQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_ramstein_conference_2026-11"
   }
 ]
