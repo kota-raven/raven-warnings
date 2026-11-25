@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-74955",
+    "headline": {
+      "ja": "イスラエル、ガザのハマス治安部長を暗殺、計7名が殺害",
+      "en": "Israel assassinates Hamas security chief in Gaza, kills 7 total"
+    },
+    "summary": {
+      "ja": "イスラエルがガザシティのハマス内部治安部長を空爆で暗殺。この攻撃により、部長を含む計7名が殺害された。",
+      "en": "Israel conducted an airstrike in Gaza City that killed Hamas's internal security chief and six others."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-25T16:02:22+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_hamas_security_chief_assassination_2026-11-25"
+  },
+  {
+    "id": "auto-74940",
+    "headline": {
+      "ja": "ウクライナ、ロシア飛行場への空爆で5機の軍用機を撃破と発表",
+      "en": "Ukraine says five Russian military jets hit in Savasleyka airfield strike"
+    },
+    "summary": {
+      "ja": "ウクライナがロシアのサヴァスレイカ飛行場への空爆で5機の軍用機が被害を受けたと発表。同飛行場はロシアがハイパーソニックミサイルや滑空爆弾を発射する拠点。",
+      "en": "Ukraine claims five Russian military aircraft were damaged in a strike on the Savasleyka airfield, which Russia uses to launch hypersonic missiles and glide bombs."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-25T14:46:41+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_savasleyka_airfield_strike_2026-11-25"
+  },
+  {
     "id": "auto-74615",
     "headline": {
       "ja": "ロシア公式統計、ウクライナ戦争での死傷者は約50万人",
