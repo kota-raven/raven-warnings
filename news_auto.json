@@ -1,5 +1,147 @@
 [
   {
+    "id": "auto-74615",
+    "headline": {
+      "ja": "ロシア公式統計、ウクライナ戦争での死傷者は約50万人",
+      "en": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war"
+    },
+    "summary": {
+      "ja": "ロシア当局から流出したデータからは、ウクライナへの全面侵攻がロシア国内の死亡パターンを根本的に変えたことが明らかになった。これまで公式には明かされていなかった規模の人的損失が示唆されている。",
+      "en": "Leaked Russian data reveals that the full-scale invasion of Ukraine has caused nearly 500,000 casualties and fundamentally altered mortality patterns within Russia, far exceeding previously acknowledged figures."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "occurredAt": "2026-11-25T12:21:49+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_casualty_figures_2026-11-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-74619",
+    "headline": {
+      "ja": "スーダン青ナイル州のRSFドローン攻撃、19人が死亡",
+      "en": "Overnight RSF drone attacks kill 19 in Sudan"
+    },
+    "summary": {
+      "ja": "スーダンの準軍事勢力RSFが青ナイル州でドローン攻撃を実施し、19人の民間人が殺害され、少なくとも20人が負傷した。ドローンを使用した紛争の急速なエスカレーションが見られている。",
+      "en": "RSF drone attacks in Sudan's Blue Nile State killed 19 and injured at least 20 civilians, as the drone war in the region rapidly escalates."
+    },
+    "category": "conflict",
+    "country": "スーダン",
+    "lat": 11.7589,
+    "lon": 34.3645,
+    "occurredAt": "2026-11-25T11:58:15+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "sudan_rsf_drone_attack_bluenile_2026-11-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-74468",
+    "headline": {
+      "ja": "イスラエル、ハマス幹部と家族を空襲で殺害",
+      "en": "Israeli strike kills Hamas official, his wife and children"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザの集合住宅を空襲し、ハマスの幹部と妻、子どもたちを殺害した。ガザ停戦の新たな違反となっている。",
+      "en": "Israeli airstrike on a Gaza apartment killed a Hamas official along with his family, marking another ceasefire violation."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-25T11:24:37+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_hamas_official_killed_2026-11-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-74344",
+    "headline": {
+      "ja": "フーシ派、サウジの石油精製所とリヤド金融中心地を攻撃と主張",
+      "en": "Yemen's Houthis claim attacks on Saudi oil refinery and Riyadh financial center"
+    },
+    "summary": {
+      "ja": "イエメンの反政府勢力フーシ派が、サウジアラビアの石油精製所とリヤド金融地区への攻撃を実施したと主張。地域の経済・エネルギー施設への直接的な脅威となっている。",
+      "en": "Yemeni Houthis claim attacks on Saudi Arabia's oil refinery and Riyadh's financial center, posing direct threats to regional economic and energy infrastructure."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-25T08:43:37+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVW9PSlhYYlh1THFIakNGVGpuQllKdGdiYUwzbjlydlI2WWtKa2FXclZWX1ZIaTE3MGlqYVNOMEJOMjBwRWZRa05vaF9rcGRFNm5SeHE4d25FTkRWSW4tdG9HeGpjMElUdFVQWHVubmV1RVA5TUhKOXNjcWVMYnpSWW00eTlKeXRyd1pjR1ZMLV84N2hNbUVXRjhHNkxoMDlodWVJZnBFMWlLOGlmTFNRWnpmLVF2a3hDUkF2UA?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_houthi_infrastructure_attack_2026-11-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-74154",
+    "headline": {
+      "ja": "サウジ連合軍、フーシ派の攻撃を撃退",
+      "en": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike"
+    },
+    "summary": {
+      "ja": "紅海の港湾地域への報復を脅迫されたフーシ派が、サウジアラビアの標的への攻撃を仕掛けたが、連合軍が迎撃。両者の軍事的緊張が高まっている。",
+      "en": "Houthi forces attacked Saudi targets in retaliation for a coalition strike on Hodeidah, but the coalition intercepted the attacks, escalating military tensions."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-25T08:23:35+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "saudi_houthi_conflict_2026-11"
+  },
+  {
+    "id": "auto-74563",
+    "headline": {
+      "ja": "イスラエル空襲、ガザのパレスチナ一家4人を殺害",
+      "en": "Israeli airstrike kills 4 members of Palestinian family in latest Gaza ceasefire violation"
+    },
+    "summary": {
+      "ja": "イスラエル軍がガザを空襲し、パレスチナの一家4人を殺害。停戦違反の新たな事例が続いている。",
+      "en": "Israeli airstrike in Gaza killed a Palestinian family of four, continuing a pattern of ceasefire violations."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-25T07:02:54+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc3IwT1BleEh0YUxlQ2QzRlJhcUxMWnJFbjdqZEkxMUREMG1VczhCR1gxWTBQN1A4dFpGbXd4NS1NWDE1SXVpR3ljaER4bXRUWERhcE0tM2VtcTF4Nm9qWWg3dU1wNTdyQmpIMVNVYzRELXR6NXRWNDM4enpBMGNCX1lWcEFvUWpSbGxDb2lKaFBQdzZtelNxcFpmblMtYmQtTGhpWEdfNVFHXzUtRUFEOVpqc0dvblYweHdDT0NSR0lQTTBkdXVrM1lleWU5YnNq?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_palestinian_family_killed_2026-11-25"
+  },
+  {
     "id": "auto-73866",
     "headline": {
       "ja": "ホルムズ海峡で違法タンカー 2 隻が爆発",
@@ -2060,122 +2202,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_arabia_houthi_missile_attack_riyadh_2026-11-18"
-  },
-  {
-    "id": "auto-65743",
-    "headline": {
-      "ja": "ポーランド、ウクライナ責任転嫁狙うロシア陰謀を挫折",
-      "en": "Poland thwarts Russian plot to frame Ukraine for deadly attack"
-    },
-    "summary": {
-      "ja": "ポーランド政府は、ウクライナに責任を押し付けるロシアの陰謀を摘発・阻止したと発表した",
-      "en": "Polish government announced it exposed and foiled a Russian plot to blame Ukraine for a deadly attack"
-    },
-    "category": "conflict",
-    "country": "ポーランド",
-    "lat": 52.2298,
-    "lon": 21.0118,
-    "occurredAt": "2026-11-18T14:00:43+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZjSUdKSDJCQ09MYVJGUXp1MVl3MFk3cWpQOU9KMTFfcG9qcWV3VmtVTW5UUlZvc3ZBNHZZR2RZSlMxMm1DMEpnNWw3ZVZQVUdHRThuTTB3eTFCb2RBejdaQV8zdnJ2UzBSM0JORE52bGR4aTl1UDRPb1VGcmlCTzQwNEdSZFdGNDhUaHFHRWFPTURSZU5zTmJuQnZfTUlaeDFaZmh4Q2szWlRCRXd0S28yVQ?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "poland_russia_false_flag_plot_2026-11-18"
-  },
-  {
-    "id": "auto-65773",
-    "headline": {
-      "ja": "Hamasがイスラエル軍のガザ停戦違反を「露骨な侵害」と非難",
-      "en": "Hamas condemns Israeli offensive as flagrant ceasefire violation"
-    },
-    "summary": {
-      "ja": "Hamasのアカウントで、イスラエル軍がガザ中部の停戦協定を露骨に違反したとの非難があった",
-      "en": "Hamas issued a statement condemning Israeli military offensive in central Gaza as a blatant violation of the ceasefire"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-18T13:46:42+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRmVtZlRDU0N2QUxpbFB2TndHaUtPbjU5eE9OLVJCTmxXR0ctdkphb2NnUnY1cG1aekZvbm1MUUQ1VFIxVG03VXhKLU5VRFZJcFdmSU1jMzB1blh5WmlLZndqaFhFX3d5QlNRY0h2VTYxd2FRRWJEdEw3UEF2SUNaaW55dkNMN3gzSlZPMkxQcTNNUHFHdjFXWWNCTmVtOEdDN1RVc0dfN2cydjl6dkt6Rkh4WkVYaXA4S2ppUWF6eUFyZThVNHJ3UXl2MzdUUQ?oc=5"
-    },
-    "reliability": "low",
-    "auto": true,
-    "eventKey": "gaza_ceasefire_violation_hamas_2026-11-18"
-  },
-  {
-    "id": "auto-65774",
-    "headline": {
-      "ja": "イスラエルがガザ中部で1年ぶり地上作戦、パレスチナ人が死亡",
-      "en": "Israel's ground offensive in central Gaza kills Palestinian, displaces families"
-    },
-    "summary": {
-      "ja": "イスラエルがガザ中部で1年ぶりの大規模な地上作戦を展開し、少なくとも1人のパレスチナ人が死亡し複数家族が避難した。",
-      "en": "Israel launches first broad ground offensive in central Gaza in a year, killing a Palestinian and displacing families."
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-18T12:56:45+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeXZ3eHhBV19FeUZ3LWxzQzVEaWMxTENmUEx5dG1LWXl0MmUxcWwtZ3g1Mk5lbm16TnlwcXljVTVxU1ZaV0pnS0t2OTI2ZGJ4RE9aTkZXc2ZZd3Q3NF9fRlhwSENiQ0ROWnZ6YnFRd1hSdXBvM2w3MVg2M2RaUnBUUF9mT2VjT1BoVnQtOGNIWjlZaXNwSmgyWmNmalZpZ0NuWHhjcUYxUl9IaDNwRkljZEJyY3U3ZWZ2TkNSN1QxRVp2TTJoR1BBbk9MWE5LTEhLdi13YTZGakVVU0FMSkRmbWNLcw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_israel_ground_offensive_2026-11-18"
-  },
-  {
-    "id": "auto-65753",
-    "headline": {
-      "ja": "イスラエル軍、停戦中ガザ中部で軍事作戦開始",
-      "en": "Israeli forces launch offensive in central Gaza during ceasefire"
-    },
-    "summary": {
-      "ja": "イスラエル軍は停戦協定に違反してガザ中部での軍事作戦を開始した",
-      "en": "Israeli military launched a military operation in central Gaza despite the ceasefire agreement"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-18T12:20:18+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdldzeWtqb1ZRVDFNYndDNDhpUHdwOV9hNzloUElQUHpMaUY0LU5zLUIzR2pNWXQxVzd4MVE4YnFuQjdTVVZic2VrRGxNVnY3V1hxekFDMGRaTUpCQmNCZ1AwNkdPUXJwQmxJejhqVmFBSTFmVWFXQU9YVE9ZNWpiSERRckdjOHdoZVU5ZjFwRFBYd0xOdmdVSnRlN2IxNkYwRTJ5ZkdMaFVLV184ZTRZVUxnR3J1ckV6THRZ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_israel_central_offensive_2026-11-18",
-    "severity": 4
-  },
-  {
-    "id": "auto-65776",
-    "headline": {
-      "ja": "イスラエル、ガザ・レバノン・シリアでの領土拡大を示唆",
-      "en": "Israel signals intention to seize territory in Gaza, Lebanon, Syria"
-    },
-    "summary": {
-      "ja": "イスラエル政府は、ガザ、レバノン、シリアでの領土拡大の意向を示唆した",
-      "en": "Israeli officials indicated intentions to expand territory in Gaza, Lebanon, and Syria"
-    },
-    "category": "conflict",
-    "country": "イスラエル",
-    "lat": 31.769,
-    "lon": 35.2163,
-    "occurredAt": "2026-11-18T11:52:32+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjBIdWx6QjQxalAxYjRvc3NBdjFIQWlfUjJPU3FwdUZCUEZLbGR1LUFBb2cxajA5RGFoQzl6ZXZxLTc0eDlqUU5vd2ZwZHB3b1NkbWVkejMxRi0wUDYzZGdkYXF2dTJtNXFUVDBkYVNyaEhNOW5oM05wYTV3MjN6eVVXNWJDSEZGU2NBamhram9qdGFPNDJpWVd2LUFYa1lwcVU3X3JMeVJ2VmVW?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_territorial_expansion_2026-11-18",
-    "severity": 4
   }
 ]
