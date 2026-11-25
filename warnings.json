@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T17:30:17.505Z",
+  "generatedAt": "2026-11-25T02:16:23.414Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 200,
+  "count": 198,
   "warnings": [
     {
       "id": "NAVAREA11-260525",
@@ -228,6 +228,42 @@
       "geometry": null,
       "rawText": "NO.26-0322    発表日時:2026年07月17日 03時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDISCOLOURED WATER REPORTED IN VICINITY\r\r\nOF 20-26.0N 145-01.0E AT 160013Z JUL.\r\r\nCANCEL 0020/24.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264675",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4675",
+      "title": "南太平洋東部、宇宙ゴミ落下終了",
+      "publishedAt": "2026-11-25T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4675   発表日時:2026年11月25日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n宇宙ゴミ落下終了。\r\r\n(4588削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264675&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264674",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4674",
+      "title": "南太平洋東部、危険な訓練終了",
+      "publishedAt": "2026-11-25T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4674   発表日時:2026年11月25日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n危険な訓練終了。\r\r\n(4592削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264674&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264673",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4673",
+      "title": "オーストラリア北西岸、水中作業",
+      "publishedAt": "2026-11-25T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4673   発表日時:2026年11月25日 08時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V SKANDI HERCULESによる水中作業、当分の間、\r\r\n19-55.90S 115-13.76E。\r\r\n(4231削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264673&LANG=JP"
     },
     {
       "id": "JAPANNW-264672",
@@ -578,18 +614,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264661&LANG=JP"
     },
     {
-      "id": "JAPANNW-264660",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "漂流物等",
-      "number": "4660",
-      "title": "ホルムズ海峡、火災船ありに関する情報削除",
-      "publishedAt": "2026-11-24T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4660   発表日時:2026年11月24日 08時\r\n\n\r\n★ ホルムズ海峡、\r\r\n火災船(TORKEL)ありに関する情報削除。\r\r\n(4628削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264660&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264659",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -600,38 +624,6 @@
       "geometry": null,
       "rawText": "番号:26-4659   発表日時:2026年11月24日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、11月25日0930Z-1230Z、\r\r\n16-52.8N 17-07.9N 082-57.1E 083-12.7E\r\r\nの各線で囲まれる海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264659&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264658",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4658",
-      "title": "インド東岸、射撃",
-      "publishedAt": "2026-11-24T08:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            83.63333333333334,
-            17.416666666666668
-          ],
-          [
-            83.7,
-            17.366666666666667
-          ],
-          [
-            83.63333333333334,
-            17.3
-          ],
-          [
-            83.56666666666666,
-            17.366666666666667
-          ]
-        ]
-      },
-      "rawText": "番号:26-4658   発表日時:2026年11月24日 08時\r\n\n\r\n★  インド東岸、\r\r\n射撃、11月24日1230Z-1630Z、\r\r\n17-25N 083-38E 17-22N 083-42E\r\r\n17-18N 083-38E 17-22N 083-34E\r\r\nで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264658&LANG=JP"
     },
     {
       "id": "JAPANNW-264657",
@@ -1644,24 +1636,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264594&LANG=JP"
     },
     {
-      "id": "JAPANNW-264592",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4592",
-      "title": "南太平洋東部、危険な訓練",
-      "publishedAt": "2026-11-20T08:00:00+09:00",
-      "geometry": {
-        "type": "point",
-        "coordinates": [
-          -74.41666666666667,
-          -35.666666666666664
-        ]
-      },
-      "rawText": "番号:26-4592   発表日時:2026年11月20日 08時\r\n\n\r\n★ 南太平洋東部、\r\r\n危険な訓練、11月23日-29日毎日0301Z-翌日0259Z、\r\r\n34-10S 35-40S 074-25W 076-10Wの各線で囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264592&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264591",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1672,46 +1646,6 @@
       "geometry": null,
       "rawText": "番号:26-4591   発表日時:2026年11月20日 08時\r\n\n\r\n★ チリ、\r\r\nVALPARAISO PLAYA ANCHA NAVTEX局(B)\r\r\n(33-04.7S 071-36.8W)欠射、セーフティネット経由で送信する。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264591&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264588",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4588",
-      "title": "南太平洋東部、宇宙ゴミ落下",
-      "publishedAt": "2026-11-19T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            -136.21666666666667,
-            -27.8
-          ],
-          [
-            -133.16666666666666,
-            -27.316666666666666
-          ],
-          [
-            -129.23333333333332,
-            -43.4
-          ],
-          [
-            -122.4,
-            -59.21666666666667
-          ],
-          [
-            -127.71666666666667,
-            -59.7
-          ],
-          [
-            -133.11666666666667,
-            -43.85
-          ]
-        ]
-      },
-      "rawText": "番号:26-4588   発表日時:2026年11月19日 20時\r\n\n\r\n★ 南太平洋東部、宇宙ゴミ落下、\r\r\n11月23日1749Z-2227Z、24日1740Z-2218Z、\r\r\n25日1731Z-2209Z、26日1722Z-2200Z、\r\r\n27日1713Z-2151Z、28日1704Z-2142Z、\r\r\n29日1655Z-2133Z、\r\r\n27-48S 136-13W 27-19S 133-10W\r\r\n43-24S 129-14W 59-13S 122-24W\r\r\n59-42S 127-43W 43-51S 133-07Wで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264588&LANG=JP"
     },
     {
       "id": "JAPANNW-264587",
@@ -2584,18 +2518,6 @@
       "geometry": null,
       "rawText": "番号:26-4233   発表日時:2026年10月28日 05時\r\n\n\r\n★ ペルシア海湾、\r\r\nMC DERMOTT DB30による海底管作業、11月26日まで、\r\r\n26-26.0N 051-54.3E 26-22.5N 051-58.4E\r\r\n26-09.5N 051-43.9E 26-12.3N 051-39.8E\r\r\nで囲まれる海面。\r\r\n(3927削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264233&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264231",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4231",
-      "title": "オーストラリア北西岸、水中作業",
-      "publishedAt": "2026-10-27T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4231   発表日時:2026年10月27日 20時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V SKANDI HERCULESによる水中作業、当分の間、\r\r\n21-29.10S 114-07.06E。\r\r\n(4018削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264231&LANG=JP"
     },
     {
       "id": "JAPANNW-264225",
