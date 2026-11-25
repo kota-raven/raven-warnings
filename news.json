@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-11-23-03",
-    "headline": {
-      "ja": "キーウ州ヴィシネヴェのスーパーに無人機攻撃 営業時間中を直撃、2〜3人死亡・15人負傷(11月22日)",
-      "en": "Drone strike hits supermarket in Vyshneve, Kyiv Oblast during business hours, killing 2-3 and injuring 15 (Nov 22)"
-    },
-    "summary": {
-      "ja": "2026年11月22日(日)、ロシア軍の無人機がキーウ州ヴィシネヴェ(キーウ近郊)のスーパーマーケットを、営業時間中の買い物客でにぎわう時間帯に攻撃したという。Kyiv Independent紙によれば、地元当局は2人、一部報道では3人が死亡し、少なくとも15人が負傷したと発表したという。同紙は、同日キーウ州ビラ・ツェルクヴァ地区でも別の攻撃があり、1人が死亡、4人が負傷したとも報じている。これは既報(2026-11-22-05)のディミル村での無人機攻撃とは別の地点・事案である。推測:死者数(2人か3人か)は報道間で確定していない。[信頼性: 中](Kyiv Independentが2026年11月22日の報道として伝えている)",
-      "en": "On Sunday, November 22, 2026, a Russian drone reportedly struck a supermarket in Vyshneve, Kyiv Oblast (near Kyiv), during busy shopping hours. The Kyiv Independent reported that local authorities said two people (some reports say three) were killed and at least 15 injured. The same outlet reported a separate attack that day in the Bila Tserkva district of Kyiv Oblast killed one person and injured four others. This is a distinct incident from the already-reported drone strike on Dymer (id 2026-11-22-05). Speculation: whether the death toll is two or three remains unconfirmed between reports. [Reliability: Medium] (Reported by the Kyiv Independent as of November 22, 2026)"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "region": "キーウ州(ヴィシネヴェ)",
-    "lat": 50.3828,
-    "lon": 30.3667,
-    "occurredAt": "2026-11-22T09:00:00+00:00",
-    "source": {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-23-04",
-    "headline": {
-      "ja": "イスラエル軍、ガザ中部デイル・アル・バラ周辺等を攻撃 3人死亡・4人負傷、停戦違反と非難(11月22日)",
-      "en": "Israeli strikes near Deir al-Balah and northern Gaza kill 3, wound 4; latest reported ceasefire violation (Nov 22)"
-    },
-    "summary": {
-      "ja": "2026年11月22日(日)、ガザ中部デイル・アル・バラ近郊のアル・マタヒン交差点付近で、イスラエル軍の無人機が民間人とされる集団を攻撃し、50歳の男性1人が死亡、5人が負傷したという。アナドル通信(トルコ国営系)によれば、医療関係者の情報として伝えている。同通信はまた、ガザ市北部ジャバリヤ西方のビル・アル・ナアジャでも無人機攻撃があり3人が負傷、ガザ市沿岸ではイスラエル海軍の艦艇が砲撃を行ったと報じている。アナドル通信は、ガザ保健省の集計として、2025年10月の停戦発効以降の死者数が1675人、負傷者数が6095人に達したと伝えている(アルジャジーラの11月21日時点の報道では死者1671人とされ、数字に若干の差がある)。これらの攻撃はハマス側・現地当局により停戦違反とされている。推測:攻撃の経緯・対象の詳細についてイスラエル軍からの公式説明は本収集時点で確認できていない。[信頼性: 中](アナドル通信〈トルコ国営系〉が2026年11月22日の報道として伝えている。イスラエル軍の公式見解は未確認)",
-      "en": "On Sunday, November 22, 2026, an Israeli drone reportedly struck a group described as civilians near the Al-Matahin junction east of Deir al-Balah in central Gaza, killing a 50-year-old man and wounding five others. Anadolu Agency (Turkish state-linked) attributed this to medical sources. The same report said a separate drone strike wounded three people in Bir al-Naaja, west of Jabalia in northern Gaza, and that Israeli naval gunboats shelled the coast off Gaza City. Anadolu cited Gaza's Health Ministry putting the cumulative death toll since the October 2025 ceasefire at 1,675, with 6,095 wounded (Al Jazeera's November 21 report gave a slightly lower figure of 1,671 killed). Hamas and local authorities characterized these strikes as ceasefire violations. Speculation: no official Israeli military explanation for these specific strikes could be confirmed as of this collection. [Reliability: Medium] (Reported by Anadolu Agency, Turkish state-linked media, as of November 22, 2026; no official Israeli account confirmed)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "デイル・アル・バラ周辺/ガザ市北部",
-    "lat": 31.4175,
-    "lon": 34.3503,
-    "occurredAt": "2026-11-22T07:00:00+00:00",
-    "source": {
-      "name": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-3-gazans-injure-4-in-latest-ceasefire-violation/4133706"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-23-05",
     "headline": {
       "ja": "イスラエル軍空爆、ガザ地区北部ジャバリヤで国連機関(UNRWA)職員死亡 停戦下の攻撃と非難(11月23日)",
