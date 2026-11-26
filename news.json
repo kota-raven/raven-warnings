@@ -199,5 +199,28 @@
       "url": "https://www.cnbc.com/2026/11/26/oil-wti-brent-hormuz-iran-saudi-arabia.html"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-26-06",
+    "headline": {
+      "ja": "フーシ派、ジッダ港付近でドローン撃墜・リヤドへミサイル迎撃・ジザン港に着弾 紅海沿岸港湾への標的化警告を実行",
+      "en": "Houthis follow through on threat to hit Saudi Red Sea ports: drone downed near Jeddah port, missiles intercepted over Riyadh, projectile lands at Jazan port"
+    },
+    "summary": {
+      "ja": "サウジ主導連合軍報道官トゥルキ・アル・マリキ氏の発表によれば、フーシ派がジッダ・イスラミック港付近に向けて発射したドローン1機を連合軍が撃墜し、リヤドへの弾道ミサイル2発・西部地域への巡航ミサイル1発も迎撃したという。一方、サウジ南西部のジザン港には投射物1発が落下し軽微な損害が生じたが、民間人の負傷は報告されていないという。これは、サウジ主導連合軍による11月25日のホデイダ港空爆後にフーシ派が警告していた「ジッダ等紅海沿岸の全サウジ港湾への標的化」(既報2026-11-25-02)が、実際の攻撃として実行されたことを示す新規事実である。フーシ派側は、連合軍が同日サヌアおよび10州の民間施設を105回空爆・ミサイル攻撃したと主張しているという(フーシ派発表のみ、独立確証なし)。推測:攻撃の正確な発生時刻や東部地域への攻撃の有無・規模は、複数の報道間で記載が一致せず本収集時点では確証できない。[信頼性: 高](サウジ連合軍報道官の公式発表に基づき、Anadolu Agency、Tribune India、Daily Times、Rigzone等複数の独立した報道機関が2026年11月25〜26日の出来事として報じている)",
+      "en": "According to Saudi-led coalition spokesperson Turki al-Maliki, the coalition shot down a Houthi drone headed toward Jeddah Islamic Port and intercepted two ballistic missiles aimed at Riyadh and a cruise missile aimed at the western region. Separately, a projectile landed at Jazan port in southwestern Saudi Arabia, causing minor damage with no reported civilian injuries. This confirms, as a new fact, that the Houthis' earlier warning to target Jeddah and other Saudi Red Sea ports (previously reported, id 2026-11-25-02) after the coalition's Nov. 25 strike on Hodeidah port has now been carried out in practice. The Houthis separately claimed the coalition carried out 105 strikes on civilian sites in Sanaa and ten governorates that day — a Houthi claim that could not be independently verified. Speculation: the exact timing of the attacks and whether the Eastern Province was also targeted could not be confirmed, as reports disagree on these details. [Reliability: High] (Based on the Saudi-led coalition spokesperson's official statement, reported Nov. 25-26, 2026 by multiple independent outlets including Anadolu Agency, Tribune India, Daily Times and Rigzone)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "ジザン港・リヤド・ジッダ港",
+    "lat": 16.8894,
+    "lon": 42.5706,
+    "occurredAt": "2026-11-26T00:00:00+00:00",
+    "source": {
+      "name": "Anadolu Agency / Rigzone",
+      "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-drone-near-jeddah-islamic-port/4138036"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
