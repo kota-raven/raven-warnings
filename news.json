@@ -1,28 +1,5 @@
 [
   {
-    "id": "2026-11-24-03",
-    "headline": {
-      "ja": "トランプ氏、封鎖突破を試みるイラン船舶の「撃沈」を警告 イランは「あらゆる手段」で対抗すると表明(ホルムズ海峡・米・イラン戦争)",
-      "en": "Trump warns Iranian ships breaking US naval blockade will be sunk; Iran vows to counter with 'every means' (US-Iran war, Strait of Hormuz)"
-    },
-    "summary": {
-      "ja": "トランプ米大統領は11月22日(日)、FOXニュースのインタビューで、米海軍によるイラン封鎖を突破しようとするイランの船舶は「海の底に沈む」と警告したという。これに対し、イラン外務省報道官エスマイル・バガイ氏は23日(月)、この海上封鎖を「軍事的侵略」だと非難し、イランは「あらゆる手段」で対抗すると表明したという。複数の報道によれば、イラン軍参謀総長アミル・ハタミ氏は、イラン側の要求(制裁解除・封鎖解除・イスラマバード覚書の履行)が満たされるまで、ホルムズ海峡の封鎖を「日を追って強化する」よう海軍に指示したとされる。報道では、イランがカーグ島に14隻以上のタンカーからなる船団を集結させ封鎖突破を試みる可能性が報じられているが、イラン当局者による公式な計画表明はなく、23日時点で実際の突破行動は確認されていないという。一方、カタールが停戦・和平交渉の再開を仲介しようとしているとも報じられている。この一連の経緯は、トランプ氏による軍事行動の威嚇発言とイラン側の対抗表明という戦線拡大の事実にあたると判断した。推測:実際にイラン船団が封鎖突破を試みるか、米側が本当に撃沈に踏み切るかは本収集時点では不明。[信頼性: 高](euronews、The Epoch Times等複数の報道が2026年11月22〜24日の出来事として伝えている)",
-      "en": "US President Trump reportedly warned in a Fox News interview on Sunday, November 22, that Iranian ships attempting to break the US Navy's blockade would end up 'at the bottom of the sea.' Iranian Foreign Ministry spokesman Esmaeil Baghaei responded on Monday, November 23, calling the naval blockade 'military aggression' and vowing Tehran would use 'every means' to counter it. Multiple reports said Iran's army chief of staff, Amir Hatami, ordered the navy to keep closing the Strait of Hormuz 'further, day by day' until Iran's conditions — lifting sanctions, ending the blockade, and implementing the Islamabad memorandum — are met. Reports said Iran had gathered a convoy of more than 14 tankers near Kharg Island that could attempt to break the blockade, though no Iranian official has publicly confirmed such a plan, and no breakout had been observed as of November 23. Separately, Qatar was reported to be seeking to revive ceasefire/peace talks. This sequence — an explicit threat of military action by a senior US official and Iran's own vow to counter it — was judged to meet the escalation criteria for this map. Speculation: whether Iran will actually attempt to run the blockade, or whether the US would follow through on sinking a ship, remains unknown as of this collection. [Reliability: High] (Reported Nov 22-24, 2026 by multiple outlets including Euronews and The Epoch Times)"
-    },
-    "category": "conflict",
-    "country": "ホルムズ海峡(国際水域)",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-23T10:00:00+00:00",
-    "source": {
-      "name": "Euronews / The Epoch Times",
-      "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-11-25-01",
     "headline": {
       "ja": "イスラエル軍、ガザ市でハマス治安組織責任者を空爆で殺害と発表(11月24日)",
@@ -222,5 +199,27 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-11-26-07",
+    "headline": {
+      "ja": "イスラエル軍、ガザで一夜に8〜9人死亡 ハマス側任命の教育省次官夫妻も死亡 停戦下での攻撃3日連続",
+      "en": "Israeli strikes kill 8-9 in Gaza overnight, including Hamas-appointed deputy education minister and his wife; third straight night of strikes despite ceasefire"
+    },
+    "summary": {
+      "ja": "Reuters・AP・Al Jazeera・Arab News・Times of Israel等複数の報道によれば、11月26日(木)未明、イスラエル軍の攻撃によりガザ地区で少なくとも8〜9人のパレスチナ人が死亡したという。ガザ市内の2件の空爆でそれぞれ3人が死亡したとシファ病院関係者が述べているという。別の空爆では、ガザ中部デイル・アル・バラのアパートがイスラエル軍の攻撃を受け、ハマス側が任命したガザ教育省次官(次官級)ハーレド・アブ・ナダ氏(56)と妻アビール・モハメド・アブ・ナダ氏(49)が死亡したという。イスラエル軍は、アブ・ナダ氏がハマスの経済部門・銀行・投資網を統括していたと主張しているという(イスラエル側の主張で、本収集時点では独立した確証はない)。ハマス側はアブ・ナダ氏の死亡を確認したが、その役割については言及していないという。Al Jazeeraは、今回が1年以上続く停戦下での3日連続の夜間空爆であり、イスラエル軍は現在ガザの約3分の2を実効支配している(停戦開始時点の過半から拡大)と報じているという。ガザ保健省は、2023年10月の開戦以降の死者数が累計74,746人に達したとしているという。推測:一部報道(Al Jazeera)は、北ガザの治安部門責任者モハメド・アブ・アルウーフ氏が妻・娘2人とともに死亡したと伝えており、既報(2026-11-25-03、ガザ市シャティ難民キャンプでの家族4人死亡)との関連が疑われるが、人物名の表記が報道間で一致しない(Abu al-Ouf / Abu al-Awf)等の事情もあり、同一事案であるとは本収集時点では確証できない。 [信頼性: 高](Washington Post/AP、Al Jazeera、Arab News、Times of Israel、Middle East Eyeなど複数の独立した報道機関が2026年11月26日の出来事として報じている。アブ・ナダ氏の役職名の表記・死者総数〈8人/9人〉は報道間でわずかに揺れがある)",
+      "en": "According to multiple outlets including Reuters, AP, Al Jazeera, Arab News and The Times of Israel, Israeli strikes killed at least 8-9 Palestinians in Gaza overnight into Thursday, November 26. Two separate strikes in Gaza City each killed three people, according to Shifa hospital sources. In a separate strike, an Israeli attack hit an apartment in Deir al-Balah in central Gaza, killing Khaled Abu Nada (56), the Hamas-appointed deputy/undersecretary of Gaza's Education Ministry, and his wife Abeer Mohammed Abu Nada (49). The Israeli military claimed Abu Nada oversaw Hamas's economic portfolio and managed its banking and investment network — an Israeli claim that could not be independently verified as of this collection. Hamas confirmed his death but did not comment on his role. Al Jazeera reported this marks a third consecutive night of strikes despite a ceasefire that has held for over a year, and that Israeli troops now control around two-thirds of Gaza, up from more than half at the ceasefire's start. Gaza's Health Ministry says 74,746 Palestinians have been killed cumulatively since October 2023. Speculation: separate reporting (Al Jazeera) says Mohammed Abu al-Ouf, an internal security chief for northern Gaza, was killed along with his wife and two daughters, which may relate to a previously reported incident (id 2026-11-25-03, a family of four killed at the Shati refugee camp), but name spellings differ across outlets (Abu al-Ouf / Abu al-Awf) and this could not be confirmed as the same incident as of this collection. [Reliability: High] (Based on multiple independent outlets including The Washington Post/AP, Al Jazeera, Arab News, Times of Israel and Middle East Eye reporting this as occurring Nov. 26, 2026; Abu Nada's exact title and the overall death toll (8 vs. 9) vary slightly between reports)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "デイル・アル・バラ(ガザ中部)",
+    "lat": 31.4175,
+    "lon": 34.3503,
+    "occurredAt": "2026-11-26T02:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / Washington Post (AP) / Arab News",
+      "url": "https://aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
+    },
+    "reliability": "high"
   }
 ]
