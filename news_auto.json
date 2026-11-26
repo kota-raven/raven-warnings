@@ -2063,28 +2063,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "syria_deir_ez_zor_pipeline_explosion_2026-11-19"
-  },
-  {
-    "id": "auto-67310",
-    "headline": {
-      "ja": "クリミア大橋でドローン攻撃",
-      "en": "Drone attack on Crimean Bridge"
-    },
-    "summary": {
-      "ja": "ロシア政府は、ウクライナのドローン攻撃によりクリミア大橋の交通が遮断されたと発表した。",
-      "en": "Russia announces drone attack disrupts traffic on Crimean Bridge"
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 45.107,
-    "lon": 34.5204,
-    "occurredAt": "2026-11-19T09:10:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTDNMWXR5YVhnR2tlbjZNVVBHRFlSSkZiUkF0ZlNxMUNuZzVyb1dBbU5VRmxGRklJVmtkMnZseXc5UFVZdmFmUVMxRTRBTGoydTZmcGFqbFhhQUVRLU9YQlE5RVMtTnIzNTVCS0xpQi1JNDl2NzdZRlRYRUp6UFliUHZLbGJ2Zw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_crimean_bridge_drone_attack_2026-11-19"
   }
 ]
