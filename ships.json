@@ -200,6 +200,80 @@
     "periodEnd": "2026-11-26T00:00:00Z"
   },
   {
+    "id": "2026-11-25-us-000253",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Makin Island",
+    "shipNumber": "LHD-8",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "マラッカ海峡 (Malacca Strait)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍の揚陸艦マキン・アイランドと輸送揚陸艦ジョン・P・ムーサがシンガポールを出港し、マラッカ海峡を北上した",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/24/amphibs-uss-makin-island-uss-john-p-murtha-depart-singapore"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-25T00:00:00Z"
+  },
+  {
+    "id": "2026-11-25-us-000254",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "John P. Murtha",
+    "shipNumber": "LPD-26",
+    "shipType": "amphibious_assault",
+    "position": {
+      "area": "マラッカ海峡 (Malacca Strait)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍の輸送揚陸艦ジョン・P・ムーサがシンガポールを出港し、マラッカ海峡を北上した",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/24/amphibs-uss-makin-island-uss-john-p-murtha-depart-singapore"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-25T00:00:00Z"
+  },
+  {
+    "id": "2026-11-24-cn-000250",
+    "recordType": "aggregate",
+    "country": "CN",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "大隅海峡 (Osumi Strait)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍のミサイル駆逐艦2隻とフリゲート2隻が大隅海峡を西進して東シナ海へ向けて航行したことが確認された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37742/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 4,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
     "id": "2026-11-24-kr-000247",
     "recordType": "individual",
     "country": "KR",
@@ -368,6 +442,30 @@
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-22T00:00:00Z"
+  },
+  {
+    "id": "2026-11-21-us-000251",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Frank Cable",
+    "shipNumber": "AS-40",
+    "shipType": "transport",
+    "position": {
+      "area": "サイパン島 (Saipan)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍の潜水母艦フランク・ケーブルがサイパン島に寄港した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37739/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": "2026-11-21T00:00:00Z"
   },
   {
     "id": "2026-11-21-us-000238",
@@ -1207,8 +1305,8 @@
     },
     "confidence": "announced_plan",
     "lastCheckedAt": "2026-11-01T21:21:35.914117+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-11T00:00:00Z"
   },
   {
@@ -4830,6 +4928,30 @@
     "observedAt": null
   },
   {
+    "id": "-fr-000252",
+    "recordType": "individual",
+    "country": "FR",
+    "shipName": "de Gaulle",
+    "shipNumber": null,
+    "shipType": "submarine",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "フランス海軍のシュフラン級原子力潜水艦ド・グラースが就役した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37622/"
+    },
+    "confidence": "announced_plan",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-fr-000233",
     "recordType": "individual",
     "country": "FR",
@@ -5244,6 +5366,30 @@
     "observedAt": null
   },
   {
+    "id": "-ru-000255",
+    "recordType": "individual",
+    "country": "RU",
+    "shipName": "Merkurii",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "ベンガジ (Benghazi), リビア",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "ロシア海軍のステレグシチー級フリゲート「メルクーリ」がリビアのベンガジで爆発・転覆した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37731/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-us-000181",
     "recordType": "aggregate",
     "country": "US",
@@ -5464,6 +5610,30 @@
     "count": null,
     "periodStart": null,
     "periodEnd": null
+  },
+  {
+    "id": "-us-000256",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "Ted Stevens",
+    "shipNumber": "DDG-128",
+    "shipType": "destroyer",
+    "position": {
+      "area": "ノーフォーク (Norfolk)",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍のアーレイ・バーク級ミサイル駆逐艦テッド・スティーブンスが就役後初めて母港ノーフォークに帰港した",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37727/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   },
   {
     "id": "-us-000158",
