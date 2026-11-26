@@ -221,5 +221,50 @@
       "url": "https://aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-27-01",
+    "headline": {
+      "ja": "クウェートでドローン攻撃、イタリア人契約社員2人死亡 イランは関与を否定",
+      "en": "Drone attack in Kuwait kills two Italian contractors; Iran denies involvement"
+    },
+    "summary": {
+      "ja": "2026年11月26日(木)、クウェートでドローン攻撃があり、ドイツの防衛大手ラインメタル社の契約社員だったイタリア人2人が死亡したという。イタリア外務省のタジャーニ外相によれば、同社員らはクウェート軍が使用する防空装備の保守に従事していたという。クウェート国防省は、自国軍が複数の敵対的ドローンをクウェート領空で探知・交戦し、「重要施設」が標的にされたと発表しており、クウェート国籍者1人・パキスタン国籍者1人も負傷したとしている。タジャーニ外相は、使用されたドローンがイラン製であると述べたという。これに対しイラン軍参謀報道官アボルファズル・シェカルチ氏は、「イラン・イスラム共和国軍によるいかなる軍事・攻撃作戦も同地域で行っていない」と述べ、地域の不安定化を狙った「偽旗作戦」だと主張し、イラン外相アラグチ氏は共同調査の実施を申し入れたという。欧州連合(EU)首脳は「イランへの圧力を強化すべきだ」と呼びかけたという。クウェートでは、約2カ月以上続いた比較的平穏な期間の後、1週間余り前にも米軍駐留基地を狙ったとされるドローンを撃墜したと報告されており、今回はそれに続く事案とされる。推測:攻撃の標的となった「重要施設」の具体名、イタリア側がドローンをイラン製と断定した技術的根拠については、本収集時点でこれ以上の情報を確認できていない。[信頼性: 高](クウェート国防省・イタリア外務省の発表に基づき、CNN、ABC News、CBS News、Middle East Eye、TRT World等複数の主要メディアが2026年11月26日の出来事として報じている。攻撃をイランによるものとする点はクウェート・イタリア側の主張であり、イラン側はこれを否定している)",
+      "en": "On Thursday, November 26, 2026, a drone attack in Kuwait reportedly killed two Italian contractors working for German defense giant Rheinmetall. Italy's Foreign Minister Antonio Tajani said the workers had been maintaining air-defense equipment used by Kuwait's armed forces. Kuwait's defense ministry said its forces detected and engaged several hostile drones in Kuwaiti airspace targeting a \"vital site,\" and reported a Kuwaiti national and a Pakistani national were also injured. Tajani reportedly said the drone used was Iranian-made. Iranian armed forces spokesperson Abolfazl Shekarchi denied this, saying \"no military or offensive operations whatsoever have been conducted by the Armed Forces of the Islamic Republic of Iran in the region,\" and called it a \"false flag\" operation meant to destabilize the region; Foreign Minister Araghchi reportedly offered a joint investigation. EU leaders reportedly called for increased pressure on Iran. The attack reportedly follows a period of relative calm lasting more than two months, after Kuwait reported intercepting drones targeting a base hosting US forces just over a week earlier. Speculation: the specific \"vital site\" targeted and the technical basis for Italy's claim that the drone was Iranian-made could not be confirmed beyond this reporting as of this collection. [Reliability: High] (Based on statements from Kuwait's defense ministry and Italy's foreign ministry, reported Nov. 26, 2026 by multiple major outlets including CNN, ABC News, CBS News, Middle East Eye and TRT World; the attribution to Iran is a Kuwaiti/Italian claim that Iran denies)"
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "region": "",
+    "lat": 29.3117,
+    "lon": 47.4818,
+    "occurredAt": "2026-11-26T00:00:00+00:00",
+    "source": {
+      "name": "CNN / ABC News",
+      "url": "https://www.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl"
+    },
+    "reliability": "high",
+    "severity": 3
+  },
+  {
+    "id": "2026-11-27-02",
+    "headline": {
+      "ja": "イラン革命防衛隊、オマーン・ハサブ沖で大型タンカー2隻が触雷と発表 UKMTOはドバイ西方で別の爆発事案を報告",
+      "en": "IRGC says two tankers hit mines off Oman's Khasab; UKMTO reports separate blast west of Dubai"
+    },
+    "summary": {
+      "ja": "2026年11月26日(木)、イラン革命防衛隊(IRGC)が、オマーンのハサブ港北方でタンカー2隻が触雷し炎上したと発表したという。半官営タスニム通信によれば、IRGCはこれらの船舶がイランが認可していない航路でホルムズ海峡を横断しようとしていたと主張し、うち1隻は200万バレル超の原油を積んだ大型タンカーだったとしているという。これとは別に、英国海事貿易活動(UKMTO)は同日、ドバイ西方約50海里の地点で、タンカー付近において不明な発射体による爆発があったと報告しており、場所・原因ともにIRGCの発表とは異なる事案として伝えられているという。イランは以前から、事前の調整なしにホルムズ海峡を航行する船舶は機雷等の危険があり安全を保証できないとの立場を繰り返し示しており、10月以降は船舶航行に対する攻勢的な戦術を強めているとされる。推測:触雷・爆発の真偽、船舶の国籍・運航者、死傷者の有無については、IRGCの発表・UKMTOの報告以外に独立した確認が本収集時点で得られていない。[信頼性: 中](イラン革命防衛隊〈半官営タスニム通信経由〉の発表、およびUKMTOの報告に基づく。いずれも当事者・監視機関側の発表であり、本収集時点で独立した裏付けは確認できていない)",
+      "en": "On Thursday, November 26, 2026, Iran's Revolutionary Guard (IRGC) reportedly said two tankers hit mines and caught fire north of Oman's Khasab port. Per the semi-official Tasnim news agency, the IRGC claimed the vessels were attempting to cross the Strait of Hormuz via a route Iran had not authorized, and that one was a supertanker carrying more than 2 million barrels of crude. Separately, the UK Maritime Trade Operations agency (UKMTO) reportedly reported an explosion from an unknown projectile near a tanker about 50 nautical miles west of Dubai the same day, described as a separate incident from the IRGC account in both location and cause. Iran has long maintained that vessels transiting the Strait of Hormuz without coordinating with Tehran face risks such as mines and cannot be guaranteed safety, and has reportedly intensified offensive tactics against shipping since October. Speculation: the truth of the mine/blast claims, the vessels' nationality and operators, and any casualties could not be independently confirmed beyond the IRGC statement and the UKMTO report as of this collection. [Reliability: Medium] (Based on a statement from Iran's Revolutionary Guard via the semi-official Tasnim news agency, and a separate UKMTO report; both are the parties'/monitoring body's own statements, with no independent corroboration found as of this collection)"
+    },
+    "category": "conflict",
+    "country": "イラン",
+    "region": "ホルムズ海峡(オマーン・ハサブ沖)",
+    "lat": 26.5,
+    "lon": 56.3,
+    "occurredAt": "2026-11-26T00:00:00+00:00",
+    "source": {
+      "name": "Deccan Herald / Arab News",
+      "url": "https://www.deccanherald.com/west-asia/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-4232091"
+    },
+    "reliability": "medium"
   }
 ]
