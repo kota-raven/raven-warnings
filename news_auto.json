@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-75649",
+    "headline": {
+      "ja": "フーシュがサウジアラビアの紅海港湾を攻撃",
+      "en": "Houthis attack Saudi Arabia's Red Sea ports"
+    },
+    "summary": {
+      "ja": "イエメンのフーシュが弾道ミサイルでリヤドを標的に攻撃し、サウジアラビアの防空システムがこれを迎撃した。その後サナアでの爆発が報告された。",
+      "en": "Houthi forces in Yemen launched ballistic missiles targeting Riyadh, which Saudi air defenses intercepted, with explosions reported in Sanaa."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-25T23:33:39+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_houthis_saudi_attack_2026-11-25",
+    "severity": 4
+  },
+  {
+    "id": "auto-75646",
+    "headline": {
+      "ja": "エジプト・カイロ幹線道路での燃料タンカー火災で31人死亡",
+      "en": "Fuel tanker fire on Cairo highway kills 31"
+    },
+    "summary": {
+      "ja": "カイロの幹線道路で燃料タンカーが横転して火災が発生し、31人が死亡、21人以上が負傷した。",
+      "en": "A fuel tanker overturned and caught fire on a busy ring road in Cairo, killing 31 and injuring 21 or more."
+    },
+    "category": "disaster",
+    "country": "エジプト",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "occurredAt": "2026-11-25T22:18:06+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "egypt_giza_tanker_fire_2026-11-25"
+  },
+  {
+    "id": "auto-75636",
+    "headline": {
+      "ja": "ウクライナ侵攻の死者49万人超か、流出データが示唆",
+      "en": "Ukraine invasion casualties exceed 490,000, leaked data suggests"
+    },
+    "summary": {
+      "ja": "流出したデータの分析から、ロシアのウクライナ侵攻における死傷者が49万人を超える可能性が指摘されている。ウクライナ当局は否定している。",
+      "en": "Analysis of leaked data suggests casualties in Russia's invasion of Ukraine exceed 490,000, though Ukrainian authorities deny the figures."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-25T21:32:00+00:00",
+    "source": {
+      "name": "時事通信 ランキング",
+      "url": "https://www.jiji.com/jc/article?k=2026112600176&g=int&m=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_war_casualties_estimate_2026-11-26",
+    "severity": 4
+  },
+  {
     "id": "auto-74955",
     "headline": {
       "ja": "イスラエル、ガザのハマス治安部長を暗殺、計7名が殺害",
@@ -21,6 +92,29 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "israel_hamas_security_chief_assassination_2026-11-25"
+  },
+  {
+    "id": "auto-75869",
+    "headline": {
+      "ja": "ポーランド、NATOに対しウクライナ上空のミサイル迎撃の可能性を検討するよう要請",
+      "en": "Poland urges NATO to explore possibility of intercepting missiles over Ukraine"
+    },
+    "summary": {
+      "ja": "ポーランドはNATOに対し、ウクライナ上空で発射されたミサイルを迎撃する可能性を検討するよう促している。",
+      "en": "Poland is urging NATO to consider the possibility of intercepting missiles launched over Ukraine."
+    },
+    "category": "conflict",
+    "country": "ポーランド",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "occurredAt": "2026-11-25T15:48:21+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hZlJSTlFZa2NJX0ZhcnVLLVpEelFXblM1TzdYdFlYdXYwYVYteVBkcEo2MXlITkkxWGZScVNVUTRJSjRJ0gFKQVVfeXFMT2lreWhOTENUUDRybUR4eC1JVkpYOFRTUjM0YktNamtqUHJ2aGd3WUxEUG0tWURCS3RhZ2trOUlLRzQxRk05MmJjX0E?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "poland_nato_ukraine_missile_defense_2026-11-25"
   },
   {
     "id": "auto-74940",
@@ -2131,99 +2225,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "saudi_riyadh_missile_nov2026"
-  },
-  {
-    "id": "auto-66171",
-    "headline": {
-      "ja": "ICJ、ミャンマーのロヒンギャ民族大量虐殺事件で判決",
-      "en": "ICJ to rule on Rohingya genocide case against Myanmar"
-    },
-    "summary": {
-      "ja": "ガンビアがミャンマーの2017年軍事作戦によるロヒンギャ民族への大量虐殺を国際司法裁判所に提訴、少なくとも73万人が強制的に移住させられた",
-      "en": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya"
-    },
-    "category": "conflict",
-    "country": "ミャンマー",
-    "lat": 19.745,
-    "lon": 96.1297,
-    "occurredAt": "2026-11-19T02:10:43+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "rohingya_genocide_icj_verdict",
-    "severity": 4
-  },
-  {
-    "id": "auto-66142",
-    "headline": {
-      "ja": "クリミア橋が再び攻撃を受け、交通が遮断される",
-      "en": "Crimean Bridge attacked again, traffic suspended"
-    },
-    "summary": {
-      "ja": "クリミア行政責任者が、ロシアと占領地クリミアを結ぶ橋が再び攻撃を受けて交通が遮断されたと発表した。",
-      "en": "The head of Crimea announced another attack on the bridge connecting Russia to occupied Crimea, suspending traffic."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-19T01:05:03+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "crimea_bridge_attack_2026-11-19"
-  },
-  {
-    "id": "auto-65365",
-    "headline": {
-      "ja": "サウジ連合軍がイエメンのミサイル発射台破壊と発表",
-      "en": "Saudi-led coalition destroyed missile platform in Yemen's Saada"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の連合軍がイエメンのサアダにある弾道ミサイル発射台を破壊したと発表。イランは船舶3隻が機雷に接触したと主張している。",
-      "en": "Saudi-led coalition claims destruction of ballistic missile launcher in Saada, Yemen; Iran claims three ships hit mines."
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 16.9402,
-    "lon": 43.7639,
-    "occurredAt": "2026-11-19T00:01:02+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_saada_coalition_strike_2026-11-19"
-  },
-  {
-    "id": "auto-65800",
-    "headline": {
-      "ja": "イスラエル、ガザ中部作戦は米国と協調・数日継続予定",
-      "en": "Israel says Gaza offensive coordinated with US, expected to last days"
-    },
-    "summary": {
-      "ja": "イスラエル政府は、ガザ中部での軍事作戦が米国と調整済みで、数日間継続される見通しを発表した",
-      "en": "Israeli officials announced the central Gaza military operation is coordinated with the United States and expected to continue for several days"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.5016,
-    "lon": 34.4667,
-    "occurredAt": "2026-11-18T23:31:14+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWUtWlhlTU44eDNxNGF3bEQ3WEtxSURmb2VrSmVwRlhUbnQwRDJMMkF4ODVydEsxTFNIQ1dXVXFpTWxCeGdUYy12bVNMRWlsTHU5c1lWOEFGOGxuaVdtYU1TVGxHaHNPUkp3LXRnZV9kcjhwYlRuWEtDUHNtREVFbDk3Qk1ldTVVYm1OSER3SkF5Vkp0WWt3bHBKZ2d1ZHl3Z3BTaDY2dHRHS1BBSmFwdjlZSXphMEpRcTFJ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "gaza_israel_us_coordinated_offensive_2026-11-18",
-    "severity": 4
   }
 ]
