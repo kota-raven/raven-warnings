@@ -71,6 +71,29 @@
     "severity": 4
   },
   {
+    "id": "auto-75999",
+    "headline": {
+      "ja": "ウクライナ首都で爆発音",
+      "en": "Explosions heard in Ukrainian capital"
+    },
+    "summary": {
+      "ja": "ウクライナの首都キーウで爆発音が報告された。ロシアによる攻撃の可能性",
+      "en": "Explosions reported in Kyiv, Ukraine's capital. Possible Russian attack"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-25T21:10:00+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FZzVleW40c19GMFhISGxid0xUTEhaZkVsZUtOYzN4MFlfMC0tTDhEdXRjWmJlcDVuWkJxRlM0LXI5VzJBVGNsRW9CMFVXYmNrNE1mNndPU21ObzBSNkhOU291WUNIRDl1UVljY0VWbUIxRWNSX0hTRl9OYXE?oc=5"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_explosions_2026-11-26"
+  },
+  {
     "id": "auto-74955",
     "headline": {
       "ja": "イスラエル、ガザのハマス治安部長を暗殺、計7名が殺害",
@@ -2063,167 +2086,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "ukraine_crimean_bridge_drone_attack_2026-11-19"
-  },
-  {
-    "id": "auto-66764",
-    "headline": {
-      "ja": "ウクライナのドローン攻撃、ロシアが53機撃墜と発表",
-      "en": "Russia reports downing 53 Ukrainian drones in attack on Russian regions"
-    },
-    "summary": {
-      "ja": "ロシア側はウクライナのドローン攻撃があり、ウクライナ製無人機53機を撃墜したと発表した。",
-      "en": "Russian authorities announced downing 53 Ukrainian drones in attacks on Russian regions."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-19T08:41:03+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rbmdwQm5SaGxLUzVsV2p6b0JNVXhLRktyakdjSm5Tc1ItV05hUFUyOWZOeGJ0bmVZTGVEcElYMC1SOUI5OWwxaNIBTkFVX3lxTFA1UTBOYlJ0NlhiRUdKNG51SEdrR21FblVaYXN3LW9QM1ZIQVRyMGZuU201QzN0MmtPT2Y4MUgxQUE0TkNKc3lzRThPZXpEZw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_russia_drone_attack_nov2026"
-  },
-  {
-    "id": "auto-67315",
-    "headline": {
-      "ja": "習近平がプーチン・トランプとの3国首脳会談を開催",
-      "en": "Xi holds China-Russia-U.S. summit with Putin and Trump"
-    },
-    "summary": {
-      "ja": "中国の習近平国家主席がロシアのプーチン大統領とアメリカのトランプ大統領との首脳会談を開催した。",
-      "en": "Chinese President Xi Jinping held a summit with Russian President Putin and U.S. President Trump."
-    },
-    "category": "conflict",
-    "country": "中国",
-    "lat": 39.9075,
-    "lon": 116.3972,
-    "occurredAt": "2026-11-19T08:27:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wZ0tpdUxWdzExLWZNMHE2OHAtbVIzT2c4aVh6QnZhMkZ3UDhsV1dmanJHWXNWaTdZeHlEXzVKZUpFNVl3b0ZJTGhtNHdJN3E5TW5zUjJPTWV4SUpPN09FcXJleXBHendYYnRLTlVoTVlFUU5WMjJ4cW1ESF8?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "china_russia_usa_summit_2026-11",
-    "severity": 5
-  },
-  {
-    "id": "auto-66341",
-    "headline": {
-      "ja": "有志連合、フーシ民兵のミサイル4発を迎撃・破壊",
-      "en": "Coalition intercepts and destroys 4 ballistic missiles from Houthis"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の有志連合は、テロ組織フーシ民兵が南部方面に発射した弾道ミサイル4発を迎撃し破壊したと発表した。",
-      "en": "Saudi-led coalition announced it intercepted and destroyed 4 ballistic missiles launched by Houthi militia toward southern region."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-19T06:41:35+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjVjNWcTB0UGNDUElDRklKLUFOcmtkVFR6YVllbnl3TnRfcF9fMWJ3WW82cWZ4WHp2LWlIcVAyanFsdDJkYnVsVlJn?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_houthi_missile_defense_nov2026"
-  },
-  {
-    "id": "auto-67319",
-    "headline": {
-      "ja": "台湾国防部がPLAの台湾周辺での軍事活動を報告",
-      "en": "Taiwan Defense Ministry reports PLA military activities around Taiwan"
-    },
-    "summary": {
-      "ja": "台湾国防部が11月19日の中国人民解放軍による台湾周辺での軍事活動を報告した。",
-      "en": "Taiwan's Defense Ministry reported PLA military activities in the waters and airspace around Taiwan on November 19."
-    },
-    "category": "conflict",
-    "country": "台湾",
-    "lat": 24.4609,
-    "lon": 121.0737,
-    "occurredAt": "2026-11-19T06:18:26+00:00",
-    "source": {
-      "name": "台湾 国防部(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SazJvdGFvd3JEQ1ktclhlbzhkeDE1REttQjg2S3ZxODJkWUtoUVBCM3hqbEFxVURtbk1OZU85LUJZamctQjBONkZUdXMzQnhVNlJMVGZrRloyWFRHQzZQa05EZm12eGlGdWdnXzl4T19tZw?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "taiwan_pla_military_activity_2026-11-19"
-  },
-  {
-    "id": "auto-66746",
-    "headline": {
-      "ja": "クリミア橋の鉄道交通、ドローン攻撃後に停止",
-      "en": "Railway traffic suspended on Crimean Bridge after drone attack"
-    },
-    "summary": {
-      "ja": "ロシア側はクリミア橋へのドローン攻撃後、鉄道交通を停止したと発表した。",
-      "en": "Russian authorities announced suspension of railway traffic on Crimean Bridge following drone attack."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-19T04:57:32+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wUkJUeWI4aFhSRjVnSGJ0ei1naFVVTEJyRGpsT1lpc1FHcTdnMHYtX0xNZ2ZoSjA2NmZzWjBrVm9neXAzUmJZNkJxNF_SAVJBVV95cUxPc0tBMkxRcGxvalhlTUhMM1dERDA5b1RaVkZHMnctRGNQcmxWLVF1QWtJZGVVSG54T01KOXFhQlhPeTlUNkE5R3RGVTFfd1Ewd3p3?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "crimea_bridge_attack_nov2026"
-  },
-  {
-    "id": "auto-66343",
-    "headline": {
-      "ja": "有志連合、リヤドへのミサイル攻撃に対応",
-      "en": "Coalition responds to missile attack on Riyadh"
-    },
-    "summary": {
-      "ja": "サウジアラビア主導の有志連合は、テロ組織フーシ民兵がリヤドに向けて発射したミサイルに対応し、破片落下と被害評価が進められていると発表した。",
-      "en": "Saudi-led coalition announced it dealt with missile attack on Riyadh by Houthi militia, with debris falling and damage being assessed."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-19T04:15:28+00:00",
-    "source": {
-      "name": "サウジアラビア 国営SPA通信(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RRDJFcjNic1J1X3V4UkFoTUdVLTdaUWgwYmdrRzhNbWtSc1RIQm52cW1PdEs1SnpsYThNWS1jQmpWYk5EZ0Z3N1FB?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_riyadh_houthi_attack_nov2026"
-  },
-  {
-    "id": "auto-66200",
-    "headline": {
-      "ja": "サウジアラビア・リヤド上空で大きな爆音",
-      "en": "Loud boom heard in Saudi capital Riyadh"
-    },
-    "summary": {
-      "ja": "サウジアラビアの首都リヤドで大きな爆音が聞こえたと報じられた。",
-      "en": "A loud boom was reported in Saudi Arabia's capital Riyadh."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-19T03:10:00+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRHJMN1RjS1lsNm83M3N5RjQ5cllWRDh3YUVZYzRoVTk0Rnp1bHRQWnpjTXZpb0x6TnZiWHgteGMxNlJyUEdEdFRIOXk1TUctc2ZBbDlYb2wtOW9jZ2dzVllPRjd6b0RJMmNieVE2YWNCTmFEcXd4YW02VmE?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "saudi_riyadh_missile_nov2026"
   }
 ]
