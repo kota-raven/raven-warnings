@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-76033",
+    "headline": {
+      "ja": "トランプ大統領とNATO事務総長、ウクライナなどで協議",
+      "en": "Trump and NATO Chief Discuss Ukraine, Iran, and Defense Spending"
+    },
+    "summary": {
+      "ja": "トランプ大統領とNATO事務総長が、ウクライナ情勢、イラン問題、防衛支出について協議した。",
+      "en": "President Trump and NATO chief discussed Ukraine situation, Iran issues, and defense spending."
+    },
+    "category": "conflict",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-26T03:58:42+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeExzcmthTjBfdGFMV05KWWVxZjJJdExpUURhVTNiRzk1azk1WkpuTEdwZHYxcnJnVktxUTFCQzg0MWxGVzRoU3R3Q1NRNU5Wdl9ab01veHFEbG50ZnlJR0h6Zk9Uc1gtaDNlODhtVVVCWHZFVXZQbFZ4RnJYQkM4cU55dFZ4NjBxYWVyMGNYeG5vRWtSRlNDVg?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "trump_nato_ukraine_iran_defense_2026-11-26"
+  },
+  {
+    "id": "auto-76061",
+    "headline": {
+      "ja": "アフリカの反政府勢力が市販ドローンで制空権奪取",
+      "en": "African Insurgents Use Commercial Drones to Challenge Government Air Superiority"
+    },
+    "summary": {
+      "ja": "マリなどアフリカの武装勢力が市販ドローンを活用して、政府軍が従来享受していた制空権に対抗している。",
+      "en": "Armed groups in Mali and other African regions are using commercial off-the-shelf drones to challenge government forces' historical air superiority."
+    },
+    "category": "conflict",
+    "country": "マリ",
+    "lat": 12.6091,
+    "lon": -7.9752,
+    "occurredAt": "2026-11-26T03:39:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/26/world/africa-insurgents-war-drones/"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "africa_insurgents_drones_conflict_2026-11-26"
+  },
+  {
     "id": "auto-75649",
     "headline": {
       "ja": "フーシュがサウジアラビアの紅海港湾を攻撃",
@@ -22,6 +68,29 @@
     "auto": true,
     "eventKey": "yemen_houthis_saudi_attack_2026-11-25",
     "severity": 4
+  },
+  {
+    "id": "auto-76065",
+    "headline": {
+      "ja": "米国、中国・EU・日本など新関税を発表",
+      "en": "US Imposes New Tariffs on China, EU, Japan and Others for Overcapacity"
+    },
+    "summary": {
+      "ja": "トランプ政権が、過剰生産を理由に中国、EU、日本などを対象とした新関税を発表した。複数国の経済に影響を与える貿易政策。",
+      "en": "The Trump administration announced new tariffs targeting China, the EU, Japan and other economies, citing overcapacity and overproduction."
+    },
+    "category": "economy",
+    "country": "アメリカ",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "occurredAt": "2026-11-25T23:10:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/26/us-china-eu-tariffs-overcapacity/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "us_tariffs_china_eu_japan_overcapacity_2026-11-26"
   },
   {
     "id": "auto-75646",
@@ -1879,189 +1948,5 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "yemen_houthi_saudi_escalation_nov2026"
-  },
-  {
-    "id": "auto-66561",
-    "headline": {
-      "ja": "イスラエル、東レバノンを空爆",
-      "en": "Israeli airstrikes hit eastern Lebanon"
-    },
-    "summary": {
-      "ja": "イスラエル軍は東レバノンを空爆し、家屋と建物を標的にしたと報じられた。",
-      "en": "Israeli military conducted airstrikes on eastern Lebanon, targeting homes and buildings."
-    },
-    "category": "conflict",
-    "country": "レバノン",
-    "lat": 33.8933,
-    "lon": 35.5016,
-    "occurredAt": "2026-11-19T20:06:43+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUF5SGM5VUJVYzE2WXREd2JNN05zSEJmR3FjYzdFSGppSmkwNWVBQXFyYUtCNE9SWHdwLTQtTmdkWS1TQWVHUi1nVF9FeFlNZzBfUGhycldLZDNTcG9MSHdIVVRwRk53ZkZTSktZZ0NXcEpvNm40OU5Ic2dSMGtSLTF0MGg2QmVkWFk2aDZPQmk5MWZVSVdUVVRsUENuMnNvMkV3TDlHRzBBOXVyak16NEY4WFBfQQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "israel_lebanon_airstrike_nov2026"
-  },
-  {
-    "id": "auto-66812",
-    "headline": {
-      "ja": "イラン、4500km射程ミサイルの実証を発表",
-      "en": "Iran demonstrates 4,500 km range missiles"
-    },
-    "summary": {
-      "ja": "イラン革命警備隊の当局者は、ディエゴ・ガルシア付近で4500km射程のミサイルを実証したと述べたと報じられた。",
-      "en": "Iranian IRGC official stated Iran demonstrated 4,500 km range missiles near Diego Garcia."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-19T16:06:58+00:00",
-    "source": {
-      "name": "ロシア タス通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00MXlobXhEWHFES2lfNUlwVS1zWmpfb0VHcHNRU0tPX0tETzZXcHU4VzJBVlctLVJ4d1VYUmh2bVBxV2RU0gFKQVVfeXFMTkc5WllYQ3lYOXpvTGYyWUxZLTRnZXRXSDZXb0ZYbnZBS2JlTmJScGZZclFhbG8xaTgtbHdQRDRfZ0wxdUdKM2FiN2c?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_missile_test_nov2026"
-  },
-  {
-    "id": "auto-66527",
-    "headline": {
-      "ja": "フーシ軍がリヤド金融地区の建物を攻撃",
-      "en": "Houthi forces attack building in Riyadh's financial district"
-    },
-    "summary": {
-      "ja": "サウジアラビア民間防衛庁は、フーシ軍がリヤドの金融地区の建物を攻撃したと発表した。",
-      "en": "Saudi Civil Defense announces Houthi attack on a building in Riyadh's financial district"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-19T15:49:21+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmhDaFNSeEdDVTJXM2ZvaDJOVk9MRjlCWVYtODJrd2RZRUpfUWljN1cxMlN3U0hCM2hKeFVKdW5zWVJ3T1JobFBpekU1QV8xM3E5NDgzNzh5Ui03SXhhMWJEWWJWcnlETXRnTTRLeWhmc0t5eUJ0WW8zeV8yVW1xejJRN1I0aUt0SGl2Y01vOWpZMnRzS3BXWU5oVnBCV3YycTdfazloM1BlMExrXzE1cTE2cXRaMjQ0NWc?oc=5"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "saudi_arabia_riyadh_houthi_attack_2026-11-19"
-  },
-  {
-    "id": "auto-67237",
-    "headline": {
-      "ja": "ホルムズ海峡でタンカー爆発",
-      "en": "Tankers explode in Hormuz Strait"
-    },
-    "summary": {
-      "ja": "イラン政府は、違反行為をしているとして2隻のタンカーがホルムズ海峡で爆発したと発表した。",
-      "en": "Iran announces two tankers exploded in Hormuz Strait"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-19T15:29:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05QTF0V19IcndIaHdtSkNGNFNTRVJVdHVJemxpdkZhUThkZXVQYldERVdRcGkzTkhGMmNQT0lwSENTbTF2MjUwU2VKRWhTUU1kWFlFSU9vZkVyUzB5Z3BQMkNiamlZdWJoUEExcVBBRlA3RlUtR3d5U0x0V2I?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "iran_hormuz_strait_tanker_explosion_2026-11-19"
-  },
-  {
-    "id": "auto-67317",
-    "headline": {
-      "ja": "インドがサイクロン・アクヴァンへの対応準備を進める",
-      "en": "India prepares for Cyclone Akvan"
-    },
-    "summary": {
-      "ja": "インド政府がサイクロン・アクヴァンの接近に対応する準備態勢を整えている。",
-      "en": "India is making preparations to respond to the approach of Cyclone Akvan."
-    },
-    "category": "disaster",
-    "country": "インド",
-    "lat": 28.6214,
-    "lon": 77.2148,
-    "occurredAt": "2026-11-19T14:59:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeENjMkVXTEFhSDZrN0NLUWVqOXVRRjI0LTNYUkthNXNzdmxSUmlYS1JZaEYwTm1iaG95dTBhRFFGcllYRE9paS1iN2JYRW9xT0VDdkpoSXFCck00ODl1UndSMzdoam1iY0xXUHExYmJOUjRxRC1PcjFHYjN4SFRjU3c1Sjc1ZlMyTmJCSQ?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "india_cyclone_akvan_2026-11"
-  },
-  {
-    "id": "auto-67079",
-    "headline": {
-      "ja": "プーチン大統領、ウクライナのクリミア橋攻撃への報復を誓う",
-      "en": "Putin vows 'far more painful' response to Ukraine's strikes"
-    },
-    "summary": {
-      "ja": "プーチン大統領は、ウクライナによるクリミア橋攻撃に対し、より痛みを伴う報復を行うと述べたとBBCが報じた。",
-      "en": "President Putin stated he would deliver a more painful response to Ukraine's strikes on Crimean Bridge, BBC reported."
-    },
-    "category": "conflict",
-    "country": "ロシア",
-    "lat": 55.752,
-    "lon": 37.6178,
-    "occurredAt": "2026-11-19T13:07:35+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_crimea_putin_response_nov2026"
-  },
-  {
-    "id": "auto-67316",
-    "headline": {
-      "ja": "パキスタン・バロチスタン州でバス・タンカー衝突、10人死亡27人負傷",
-      "en": "Bus-tanker collision in Pakistan's Balochistan kills 10, injures 27"
-    },
-    "summary": {
-      "ja": "パキスタンのバロチスタン州でバスとタンカーが衝突し、10人が死亡、27人が負傷した。",
-      "en": "A bus-tanker collision in Balochistan, Pakistan resulted in 10 deaths and 27 injuries."
-    },
-    "category": "disaster",
-    "country": "パキスタン",
-    "lat": 28.9716,
-    "lon": 66.678,
-    "occurredAt": "2026-11-19T12:52:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUVXQWxLWG5McE9KeHRvX0VWREgwQUwzb3U0OWlSZ3hqN2lrZTRUR2FQNTRhRFpJX3ZXNndkRmx5MzZQc1NCU0lGQzNfWVNJdG1nd1lsMjJzaE5aelA4QnhaZ2V3OGJxdTRtTWNxUE1RQW93aWZjTE91RUhmWU9kSU5mek5VQjlEX2FGSA?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "pakistan_balochistan_bus_tanker_collision_2026-11-19"
-  },
-  {
-    "id": "auto-67505",
-    "headline": {
-      "ja": "シリア東部のガスパイプラインが爆発",
-      "en": "Gas pipeline explosion in eastern Syria"
-    },
-    "summary": {
-      "ja": "シリア東部デリゾール州のガスパイプラインで爆発が発生した。",
-      "en": "Gas pipeline explodes in Deir ez-Zor province in eastern Syria"
-    },
-    "category": "conflict",
-    "country": "シリア",
-    "lat": 35.3359,
-    "lon": 40.1408,
-    "occurredAt": "2026-11-19T12:45:48+00:00",
-    "source": {
-      "name": "トルコ アナドル通信(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnRYSVdfamlBT19jcmp3cVVGbklLd25SU3phOEM4R21rTzdCZ0tJN1pBNGdSWjJ6eFBUVzFZQ2EtODBZOF9IbXc0N0dhM0xET1lOUVV3Wk5TbEEzcDR4SGdaOWdfVzdLOUlaNXdkU1hDNlJjOXc1YkdSc0RFclVKeXZ2VE5oVU02Sm1YblRicXFfNjhUWWRhN1hZTTloYXp2Uld0N0M0dHNtMWc?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "syria_deir_ez_zor_pipeline_explosion_2026-11-19"
   }
 ]
