@@ -115,6 +115,29 @@
     "eventKey": "north_korea_russia_military_support_halt_2026_11_26"
   },
   {
+    "id": "auto-77376",
+    "headline": {
+      "ja": "バングラデシュ前首相ハシナ氏の帰国計画、地域情勢を不安定化",
+      "en": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind"
+    },
+    "summary": {
+      "ja": "追放されたバングラデシュの前首相シェイク・ハシナ氏が12月の帰国を計画。ダッカ・デリ間の緊張を深め、地域の不安定化とインドを難しい立場に置く。",
+      "en": "Ousted Bangladesh Prime Minister Sheikh Hasina plans to return in December, deepening Dhaka-Delhi tensions and risking fresh regional unrest."
+    },
+    "category": "conflict",
+    "country": "バングラデシュ",
+    "lat": 23.7104,
+    "lon": 90.4074,
+    "occurredAt": "2026-11-27T00:47:43+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "bangladesh_sheikh_hasina_return_2026-12"
+  },
+  {
     "id": "auto-77143",
     "headline": {
       "ja": "クウェートの施設でイタリア人技術者2人が無人機攻撃で死亡",
