@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-77857",
+    "headline": {
+      "ja": "フーシ派、サウジアラビアのジャザン製油所を攻撃",
+      "en": "Houthi militia attacks Saudi Arabia's Jazan oil refinery"
+    },
+    "summary": {
+      "ja": "イスラム協力機構はサウジアラビアのジャザン製油所へのフーシ派による攻撃を非難。イエメン紛争が油田施設にも拡大。",
+      "en": "The Muslim World League condemned a Houthi militia attack on Saudi Arabia's Jazan oil refinery."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 16.8892,
+    "lon": 42.5511,
+    "occurredAt": "2026-11-27T07:40:04+00:00",
+    "source": {
+      "name": "サウジアラビア 国営SPA通信(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15X1lJU2c0N2VpSUk2emVGSmJrR0g5T3pLVldIYXlqcHdtd3pEajJQYUN2U3NBQ3Zib1lWYmRwaWg0SV9XLThhalJB?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_jazan_refinery_houthi_attack_2026-11-27"
+  },
+  {
+    "id": "auto-77916",
+    "headline": {
+      "ja": "フーシ派攻撃、サウジアラビアの安全保障体制を試す",
+      "en": "Houthi attacks test Saudi Arabia's image of security"
+    },
+    "summary": {
+      "ja": "サウジアラビアでは継続するフーシ派からの攻撃にもかかわらず、市場やレストランが営業を続け、市民が政府の防御能力に信頼を示している。",
+      "en": "Despite ongoing Houthi attacks, markets and restaurants in Riyadh remain open and residents maintain trust in government security measures."
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "occurredAt": "2026-11-27T06:04:51+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "saudi_houthi_conflict_2026-11-27"
+  },
+  {
+    "id": "auto-77665",
+    "headline": {
+      "ja": "ガザ：イスラエルのドローン攻撃でパレスチナ人6人死亡",
+      "en": "Gaza: 6 Palestinians killed in Israeli drone strikes"
+    },
+    "summary": {
+      "ja": "ガザ地区でイスラエル軍のドローン攻撃により、パレスチナ人6人が死亡し、市内で葬式が行われた。",
+      "en": "Six Palestinians were killed in Israeli drone strikes in Gaza City, with funerals held for the victims."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-27T04:52:30+00:00",
+    "source": {
+      "name": "トルコ アナドル通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFpfR1RMcklYVk1jOU5NTXVhS25fbjlfRHhlZHRDcDFudzg5N1ljTFlWb0VjN05Xa21id1RZTFN5MGRlVUFKM1JvdWt4M2owM2I3UDlTbXlRV2huRG9Nd0lCcjVwV3V5b2hyVDBjdkowYlhOVS1CNF9xSXdIM2UxVUV6bkJJOUpnQjVicjV3TUEwZ3NLbUszSzBvQ0tDZG5NZHI2N1pZVWRzT04wUHZRQlFoUXhhOG8xMnc?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "gaza_israeli_drone_strike_2026-11-27"
+  },
+  {
     "id": "auto-77261",
     "headline": {
       "ja": "ゼレンスキー大統領が大規模ロシア攻撃を警告、トランプ前大統領がプーチンに軍事行動中止を促す",
@@ -46,6 +115,30 @@
     "eventKey": "north_korea_russia_military_support_halt_2026_11_26"
   },
   {
+    "id": "auto-77143",
+    "headline": {
+      "ja": "クウェートの施設でイタリア人技術者2人が無人機攻撃で死亡",
+      "en": "Two Italians killed in drone strike in Kuwait"
+    },
+    "summary": {
+      "ja": "ドイツの防衛企業ラインメタル社の技術者2人がクウェートで無人機による攻撃を受けて死亡。イラン政府は関与を否定している。",
+      "en": "Two Italian technicians working for German defense contractor Rheinmetall were killed in a drone strike in Kuwait. Iran denies involvement."
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "lat": 29.367,
+    "lon": 47.9743,
+    "occurredAt": "2026-11-26T21:17:53+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kuwait_drone_strike_2026-11-26",
+    "severity": 4
+  },
+  {
     "id": "auto-77248",
     "headline": {
       "ja": "イラン政治分析家、ウクライナがクウェート攻撃を虚偽旗作戦で実行したと主張",
@@ -68,6 +161,29 @@
     "auto": true,
     "eventKey": "iran_analyst_ukraine_false_flag_claim_2026-11-26",
     "pushScore": 5
+  },
+  {
+    "id": "auto-77619",
+    "headline": {
+      "ja": "イエメン：サナア、ホデイダへの空爆相次ぐ、敵対行為が激化",
+      "en": "Yemen: Airstrikes hit Sanaa and Hodeidah amid escalating hostilities"
+    },
+    "summary": {
+      "ja": "イエメンの主要都市サナアとホデイダに対する空爆が相次ぎ、地域内の軍事紛争が急速に激化している状況。",
+      "en": "Multiple airstrikes have struck Sanaa and Hodeidah in Yemen amid escalating military hostilities in the region."
+    },
+    "category": "conflict",
+    "country": "イエメン",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "occurredAt": "2026-11-26T16:27:15+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKYkxZWk1KXzhpcVpRNFN0VC0wbmNuYWVRWlpfY2JiaEs4Q1cxb0ZGZmoxMmc2aGVpNmZKZ2Y3UC1RT3dKU290eWVzaVJFRGhfRWFITWJHZkFTSnhDaHdsb2NqNlBvV3phX2tjRHcyRGxWZHRBQ0tjSUFxZUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "yemen_airstrikes_sanaa_hodeidah_2026-11-26"
   },
   {
     "id": "auto-77148",
@@ -138,6 +254,29 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "kuwait_drone_attack_2026_11_26"
+  },
+  {
+    "id": "auto-77613",
+    "headline": {
+      "ja": "コンゴ民主共和国：民族勢力の衝突で市民避難、エボラ対応チーム撤退",
+      "en": "DR Congo: Renewed clashes force civilian flight and Ebola team evacuation"
+    },
+    "summary": {
+      "ja": "コンゴ民主共和国で民族勢力の衝突が激化し、民間人の避難と国際的なエボラ対応チームの撤退が余儀なくされた。",
+      "en": "Renewed clashes in the DR Congo have forced civilian evacuations and the withdrawal of international Ebola response teams."
+    },
+    "category": "conflict",
+    "country": "コンゴ民主共和国",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "occurredAt": "2026-11-26T14:30:46+00:00",
+    "source": {
+      "name": "中国 新華社(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGxTQXRBZUNmQU9jYTFsay1wdGpRUE5panJBRzNMY19CSVZGNEdwV3dKZk1YbzJaeFNEWmhheWJoLThtSnpXc0pmQ3dIYzUzbDdXM1NRRVpzcThfbFM0N2RJVGpVTndrNTNNOFNYbzIwQlE0d1AzMHBwVEU3aFRxM1psS0RLUQ?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "drc_ethnic_clashes_2026-11-26"
   },
   {
     "id": "auto-77150",
