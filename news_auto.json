@@ -138,6 +138,30 @@
     "eventKey": "bangladesh_sheikh_hasina_return_2026-12"
   },
   {
+    "id": "auto-78049",
+    "headline": {
+      "ja": "入植者、サルフィット付近でパレスチナ車両を攻撃し道路を封鎖",
+      "en": "入植者, サルフィット付近でパレスチナ車両を攻撃し道路を封鎖"
+    },
+    "summary": {
+      "ja": "入植者がサルフィット付近でパレスチナ車両を攻撃し、道路を封鎖した。",
+      "en": "入植者がサルフィット付近でパレスチナ車両を攻撃し、道路を封鎖した。"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.7834,
+    "lon": 35.2339,
+    "occurredAt": "2026-11-27T00:00:00+00:00",
+    "source": {
+      "name": "自動収集",
+      "url": ""
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "palestine_colonist_attack_salfit",
+    "severity": 4
+  },
+  {
     "id": "auto-77143",
     "headline": {
       "ja": "クウェートの施設でイタリア人技術者2人が無人機攻撃で死亡",
@@ -1879,6 +1903,29 @@
     "eventKey": "mexico_drug_kingpin_capture_operation_nov2026"
   },
   {
+    "id": "auto-68319",
+    "headline": {
+      "ja": "クリミア橋攻撃、ロシアのロジスティクスネットワークに圧力",
+      "en": "Ukraine strains Russian logistics with Crimean bridge strikes"
+    },
+    "summary": {
+      "ja": "ウクライナのクリミア橋攻撃により、既に逼迫していたロシアの兵站ネットワークにさらなる負荷がかかり、ロシア側の対応能力に課題が生じている。",
+      "en": "Crimean bridge strikes increase pressure on Russia's already strained logistics network, complicating military supply operations."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-21T23:55:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/22/world/ukraine-russia-logistics-crimean-bridge-strikes/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_kyiv_bridge_attack_2026-11-20"
+  },
+  {
     "id": "auto-68882",
     "headline": {
       "ja": "バハレーンの防空システムがイランの航空攻撃を撃退",
@@ -2131,52 +2178,5 @@
     "reliability": "medium",
     "auto": true,
     "eventKey": "russia_ukraine_energy_strike_2026-11-21"
-  },
-  {
-    "id": "auto-68422",
-    "headline": {
-      "ja": "イラン、ホルムズ海峡のカシム島周辺でミサイル攻撃",
-      "en": "Iranian agency reports missile strike on Qeshm island in Strait of Hormuz"
-    },
-    "summary": {
-      "ja": "OSINTdefenderのテレグラムで、イランのタスニム通信がホルムズ海峡のカシム島周辺でのミサイル攻撃を報道したという投稿があった。",
-      "en": "Telegram post reports Iranian news agency Tasnim claims missile strike occurred near Qeshm Island in Strait of Hormuz."
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "lat": 35.6944,
-    "lon": 51.4215,
-    "occurredAt": "2026-11-20T18:43:19+00:00",
-    "source": {
-      "name": "Telegram @OSINTdefender(米国・NATO寄り・西側)",
-      "url": "https://t.me/OSINTdefender/20803"
-    },
-    "reliability": "unconfirmed",
-    "auto": true,
-    "eventKey": "iran_hormuz_missile_strike_2026-11-20"
-  },
-  {
-    "id": "auto-68377",
-    "headline": {
-      "ja": "ロシア、キーウの橋と鉄道駅を大規模攻撃",
-      "en": "What we know about the latest Russian missile strikes on Ukraine"
-    },
-    "summary": {
-      "ja": "ロシア軍がウクライナの首都キーウで橋梁と鉄道駅を大規模なミサイル攻撃で破壊した。複数の施設が被害を受けている。",
-      "en": "Russian forces conducted major missile strikes on bridges and railway stations in Kyiv, causing significant damage to critical infrastructure."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-20T15:14:01+00:00",
-    "source": {
-      "name": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "ukraine_kyiv_bridge_attack_2026-11-20",
-    "severity": 4
   }
 ]
