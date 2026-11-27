@@ -67,28 +67,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-26-01",
-    "headline": {
-      "ja": "フーシ派、リヤドのサウジ政府系ファンド(PIF)タワーを攻撃、11人負傷 6日間で2度目の標的化",
-      "en": "Houthis strike Saudi sovereign wealth fund PIF Tower in Riyadh, injuring 11 — second such attack in six days"
-    },
-    "summary": {
-      "ja": "2026年11月24日(火)、イエメンのフーシ派がサウジアラビアの首都リヤドにある政府系ファンド(PIF)のタワーを攻撃し、少なくとも11人が負傷したという。CNBCによれば、負傷者にはサウジ国籍者2人、インド国籍者2人、ネパール国籍者3人、エジプト国籍者4人が含まれるという。Al Jazeeraの目撃情報およびサウジ民間防衛当局が公開した被害画像により、被害を受けた建物がPIFタワーであることが確認されたという。サウジ主導連合軍報道官トゥルキ・アル・マリキ氏は、これを「卑劣なテロ攻撃」と非難し、当局が現場を調査中としているという。同タワーへの攻撃は6日間で2度目で、前回(カジュアルティなし)以来の標的化とされる。推測:サウジ保健当局が後に別途「バーレーン国籍者1人・パキスタン居住者1人が負傷」と発表したとの報道もあり、11人という負傷者数との関係(同一事案の情報更新か、別事案か)は本収集時点で確証できていない。[信頼性: 高](CNBCが2026年11月25日付で報じ、Al Jazeeraの目撃情報・サウジ民間防衛当局の被害画像・連合軍報道官の発表により複数の経路で裏付けられている。負傷者数の記載に一部整合しない情報があるため、確定数は留保する)",
-      "en": "On Tuesday, November 24, 2026, Yemen's Houthis reportedly struck the Public Investment Fund (PIF) Tower in Riyadh, Saudi Arabia's capital, injuring at least 11 people. CNBC reported the injured included two Saudi nationals, two Indians, three Nepalis and four Egyptians. Eyewitness accounts from Al Jazeera and damage images released by Saudi civil defense authorities reportedly confirmed the PIF Tower was the building hit. Saudi-led coalition spokesperson Turki al-Maliki condemned it as a \"cowardly terrorist attack\" and said authorities were investigating the scene. This was reportedly the second attack on the tower in six days; the earlier one caused no casualties. Speculation: a separate account cited in the same reporting said Saudi health authorities later put the toll at one Bahraini national and one Pakistani resident injured, and this collection could not confirm as of this writing whether that is an update to the same incident or a different one, so the final casualty count remains unconfirmed. [Reliability: High] (Reported by CNBC as of November 25, 2026, corroborated through Al Jazeera eyewitness accounts, Saudi civil defense damage images, and the coalition spokesperson's statement; the casualty figures carry an unresolved discrepancy, so the final count is withheld)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "リヤド",
-    "lat": 24.7136,
-    "lon": 46.6753,
-    "occurredAt": "2026-11-24T00:00:00+00:00",
-    "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
-    },
-    "reliability": "high"
-  },
-  {
     "id": "2026-11-26-02",
     "headline": {
       "ja": "フーシ派、サウジ最大の精製所・輸出ターミナル「ラスタヌラ」への攻撃を主張 原油価格上昇",
@@ -109,28 +87,6 @@
       "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
     },
     "reliability": "medium"
-  },
-  {
-    "id": "2026-11-26-03",
-    "headline": {
-      "ja": "イラン、ホルムズ海峡の「封鎖を日々強化」と表明 タンカー3隻が触雷と主張、米財務省は対イラン制裁を拡大",
-      "en": "Iran says it will tighten Hormuz closure 'day by day'; claims three tankers hit mines, as US Treasury widens sanctions"
-    },
-    "summary": {
-      "ja": "2026年11月24日(火)、イラン軍参謀総長が、ワシントンがイラン側の要求(7条件)を満たすまでホルムズ海峡の封鎖を「日々さらに強化する」よう海軍に指示したという。イラン国会議長ガリバフ氏も、7条件が満たされるまで行動も交渉もしないと述べたという。同日、イラン革命防衛隊(IRGC)は、米軍の護衛下にあったタンカー3隻が触雷したと発表したが、英国海事貿易活動(UKMTO)系の情報センターはこの触雷の主張を未確認としているという。IMFのPortWatchによれば、11月22日のホルムズ海峡の通過船舶数は通常時(1日あたり約85隻)に対し1隻にとどまったという。一方で米財務省は同日、イランの「シャドー銀行網」を妨害する取り組みの一環として、イラン系の両替商・フロント企業・関係者計20超を新たに制裁対象に加えたと発表したという。カタール首相はワシントンでルビオ国務長官・ヴァンス副大統領と会談し、「この地域は緊張の再激化に耐えられない」と述べ、仲介による協議再開を模索しているという。既報(2026-11-24-03のトランプ氏の「撃沈」警告・イランの「あらゆる手段」表明)の延長線上にある事態の進展である。推測:封鎖の実際の運用状況(通航量への影響の程度)や触雷の真偽については、当事者発表以外の独立した確証が本収集時点で得られていない。[信頼性: 高](イラン軍・国会議長・IRGC・米財務省それぞれの公式発表に基づき、CNBC・Euronewsが2026年11月24日の出来事として報じている。触雷の主張自体はUKMTO系情報センターが未確認としている)",
-      "en": "On Tuesday, November 24, 2026, Iran's army chief of staff reportedly ordered the navy to tighten the closure of the Strait of Hormuz \"further, day by day\" until Washington meets Tehran's seven conditions. Parliament Speaker Ghalibaf reportedly said there would be no action and no negotiation until those conditions are met. The same day, Iran's Revolutionary Guard (IRGC) said three tankers under US military escort hit mines, though the UKMTO-linked Joint Maritime Information Centre called the mine claims unconfirmed. The IMF's PortWatch reportedly recorded only one transit through Hormuz on November 22, against a pre-crisis baseline of about 85 per day. Separately, the US Treasury announced sanctions on more than two dozen Iranian exchange houses, front companies and individuals as part of what it called a sweeping effort to disrupt Iran's global shadow banking network. Qatar's prime minister met Secretary of State Rubio and Vice President Vance in Washington, saying the region \"cannot bear a renewed escalation of tensions,\" as Doha sought to revive mediation. This extends the trend already reported (id 2026-11-24-03: Trump's threat to \"sink\" vessels and Iran's vow to respond by \"every means\"). Speculation: the actual state of the closure (its real effect on transit volumes) and the truth of the mine claims could not be independently confirmed beyond the parties' own statements as of this collection. [Reliability: High] (Based on official statements from Iran's army, its parliament speaker, the IRGC and the US Treasury, reported by CNBC and Euronews as of November 24, 2026; the mine claims themselves are called unconfirmed by the UKMTO-linked information centre)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "ホルムズ海峡",
-    "lat": 26.5,
-    "lon": 56.3,
-    "occurredAt": "2026-11-24T00:00:00+00:00",
-    "source": {
-      "name": "CNBC / Euronews",
-      "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
-    },
-    "reliability": "high"
   },
   {
     "id": "2026-11-26-04",
