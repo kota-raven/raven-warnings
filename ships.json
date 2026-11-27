@@ -1281,8 +1281,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-12T00:00:00Z"
   },
   {
@@ -5242,6 +5242,54 @@
     "observedAt": null
   },
   {
+    "id": "-jp-000257",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "護衛艦よしい",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "護衛艦「よしい」のロゴマークを決定。吉井川の流れと桃太郎・犬・猿・雉の結束をデザイン。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37767/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-26T21:20:50+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-jp-000258",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "護衛艦たつた",
+    "shipNumber": "FFM-11",
+    "shipType": "destroyer",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "護衛艦「たつた」のロゴマークを決定。竜田川の流れと龍、紅葉を組み合わせたデザイン。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37760/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-26T21:20:50+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-jp-000070",
     "recordType": "aggregate",
     "country": "JP",
@@ -5612,6 +5660,30 @@
     "periodEnd": null
   },
   {
+    "id": "-us-000259",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Frank Cable",
+    "shipNumber": "AS-40",
+    "shipType": "submarine",
+    "position": {
+      "area": "サイパン島",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米潜水母艦「フランク・ケーブル」がサイパン島に寄港。北マリアナ諸島への艦艇寄港拡大の一環。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37739/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-26T21:20:50+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-us-000256",
     "recordType": "individual",
     "country": "US",
@@ -5660,5 +5732,29 @@
     "count": 1,
     "periodStart": "2026-11-06T00:00:00Z",
     "periodEnd": null
+  },
+  {
+    "id": "-us-000260",
+    "recordType": "individual",
+    "country": "US",
+    "shipName": "USS Wally Sherman",
+    "shipNumber": "T-AKE-10",
+    "shipType": "transport",
+    "position": {
+      "area": "蔚山（韓国）",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "米海軍の貨物弾薬補給艦「ウォリー・シラー」の整備をHD現代重工が受注。2027年1月から韓国・蔚山で実施予定。",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37737/"
+    },
+    "confidence": "media_based",
+    "lastCheckedAt": "2026-11-26T21:20:50+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
   }
 ]
