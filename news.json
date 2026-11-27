@@ -266,5 +266,27 @@
       "url": "https://www.deccanherald.com/west-asia/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-4232091"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-27-03",
+    "headline": {
+      "ja": "バンコクの石油精製施設で爆発・火災、9人負傷 当局「主要生産区域外」で出火と説明(11月26日)",
+      "en": "Explosion and fire at Bangkok oil refinery injures 9; officials say blaze started outside main production area (Nov 26)"
+    },
+    "summary": {
+      "ja": "2026年11月26日(木)午後2時45分頃(現地時間)、タイ・バンコク東部プラカノン地区にあるバンチャック(Bangchak)石油精製施設で爆発と火災が発生し、少なくとも9人が負傷したという。CNNによれば、負傷者の多くは熱傷を負い、3人が重傷だという。当局は出火から1時間足らずで消火したと発表したという。タイのエネルギー相アカナット・プロンパン氏は、出火が貯油エリアから約100メートル離れた蒸留塔付近で始まったと説明し、首相アヌティン・チャンウィラクン氏も、主要な生産区域内での出火ではないと述べたという。バンチャック社は同日、同施設の全生産ユニットを停止したと発表したという。付近住民には一時避難が呼びかけられ、その後帰宅可能となったが、施設から半径5キロ圏内の住民には大気汚染への注意が呼びかけられているという。アカナット氏は、タイには他に5つの精製施設があるため国内の石油供給への影響は見込まれないとしているという。出火原因は本収集時点で調査中。推測:死者が出たとの報道は本収集時点で確認されていない。[信頼性: 高](CNN、Al Jazeera、ABC News、NBC News、Bangkok Post等複数の主要メディアが2026年11月26日の出来事として報じている。負傷者数は当初7人、後に9人と報道間で変動があった)",
+      "en": "At around 2:45pm local time on Thursday, November 26, 2026, an explosion and fire reportedly broke out at the Bangchak oil refinery in Bangkok's Phra Khanong district, injuring at least nine people. CNN reported most of the injured suffered burns, with three in critical condition. Officials said the fire was extinguished within less than an hour. Thailand's Energy Minister Akanat Promphan said the blaze appears to have started near a distillation tower about 100 meters from the oil storage area, and Prime Minister Anutin Charnvirakul said it did not start in the main production area. Bangchak said the same day it had shut down all production units at the refinery. Nearby residents were told to evacuate temporarily and were later allowed to return, though those within a 5km radius were advised to watch for air pollution. Akanat said the fire was unlikely to affect Thailand's oil supply since the country has five other refineries. The cause remains under investigation as of this collection. Speculation: no reports of fatalities had been confirmed as of this collection. [Reliability: High] (Reported as a November 26, 2026 event by multiple major outlets including CNN, Al Jazeera, ABC News, NBC News and Bangkok Post; the injury count varied between initial reports of 7 and later reports of 9)"
+    },
+    "category": "disaster",
+    "country": "タイ",
+    "region": "バンコク",
+    "lat": 13.7563,
+    "lon": 100.5018,
+    "occurredAt": "2026-11-26T07:45:00+00:00",
+    "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/11/26/asia/thailand-bangkok-explosion-fire-intl"
+    },
+    "reliability": "high"
   }
 ]
