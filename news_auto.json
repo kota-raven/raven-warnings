@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-77248",
+    "headline": {
+      "ja": "イラン政治分析家、ウクライナがクウェート攻撃を虚偽旗作戦で実行したと主張",
+      "en": "Iranian political analyst claims Ukraine conducted false flag attack on Kuwait"
+    },
+    "summary": {
+      "ja": "タス通信によると、イラン政治分析家がウクライナがクウェート攻撃を虚偽旗作戦として実行したという見方を述べた。",
+      "en": "An Iranian political analyst suggests Ukraine orchestrated the Kuwait attack as a false flag operation."
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "lat": 29.367,
+    "lon": 47.9743,
+    "occurredAt": "2026-11-26T19:53:36+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5HWWl0UHRrZmRkZUhMV2duTG8zODFFWjNKdXNnSXJrQU1sdlpsUW9zMmNxYV9DOTFLdm4wQUFmX01iVkxk0gFKQVVfeXFMTUZNSFVUOUJDN1lSeFktZURibXJZeTZDMjFTQjRSeWlVcmJaUUNtZUlDN3BrRWp3ZnJ1SG5XeEdTcGhEcXZCTjU3WGc?oc=5"
+    },
+    "reliability": "low",
+    "auto": true,
+    "eventKey": "iran_analyst_ukraine_false_flag_claim_2026-11-26",
+    "pushScore": 5
+  },
+  {
+    "id": "auto-77173",
+    "headline": {
+      "ja": "クラスノダル州の製油所、ドローン攻撃で火災・石油流出",
+      "en": "Fire breaks out at Krasnodar refinery following drone attack"
+    },
+    "summary": {
+      "ja": "ロシア国営のタス通信は、南部クラスノダル州の製油所がドローン攻撃を受けて火災が発生し、石油の流出が報告されたと伝えた。",
+      "en": "TASS reports a refinery in Krasnodar Region was attacked by drone, causing fire and oil spill."
+    },
+    "category": "conflict",
+    "country": "ロシア",
+    "lat": 45.0453,
+    "lon": 38.9818,
+    "occurredAt": "2026-11-26T15:20:15+00:00",
+    "source": {
+      "name": "ロシア タス通信(国営)(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01YVZhUVlsM3pGc3BqRldvY2hZMzVSdnZLMU0xZ0VrRk1FWDZJUUpDeXhleXMtdllMR1dFQU1ybG9ueERSS1dXYtIBTkFVX3lxTFBnaXdManI2V2NGZmxYU1NrcGVDd0tUb1BRbVdWN0FKcTMySWZlRDlVMUlFMVJlT2tRMUhNMFlZUDRubUxJWjR1emhLRjQ4Zw?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "russia_krasnodar_refinery_drone_2026-11-26",
+    "pushScore": 7
+  },
+  {
     "id": "auto-76033",
     "headline": {
       "ja": "トランプ大統領とNATO事務総長、ウクライナなどで協議",
@@ -1854,99 +1902,5 @@
     "auto": true,
     "eventKey": "yemen_saudi_coalition_airstrike_civilians_2026-11-19",
     "severity": 4
-  },
-  {
-    "id": "auto-67467",
-    "headline": {
-      "ja": "国際司法裁判所、ミャンマーMin Aung Hlaingの言動がロヒンギャジェノサイドに関与した可能性を指摘",
-      "en": "International Court of Justice suggests Min Aung Hlaing's words may have contributed to Myanmar genocide"
-    },
-    "summary": {
-      "ja": "国際司法裁判所は、ミャンマー最高指導者Min Aung Hlaingの言動がロヒンギャに対するジェノサイドに関与した可能性があると指摘した。同氏は国際的認知を得るため周辺国への訪問を進めている。",
-      "en": "The International Court of Justice indicated that Min Aung Hlaing's statements may have contributed to the genocide against the Rohingya population; he has embarked on regional visits seeking international recognition."
-    },
-    "category": "conflict",
-    "country": "ミャンマー",
-    "lat": 19.745,
-    "lon": 96.1297,
-    "occurredAt": "2026-11-20T02:19:00+00:00",
-    "source": {
-      "name": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/myanmar-genocide-general-president/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "myanmar_min_aung_hlaing_genocide_icj_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-67469",
-    "headline": {
-      "ja": "ロヒンギャ危機、国際司法裁判所のミャンマー判決後も未解決のまま",
-      "en": "Rohingya crisis remains unresolved as International Court of Justice rules on Myanmar"
-    },
-    "summary": {
-      "ja": "130万人以上のロヒンギャが南・東南アジアに分散し、バングラデシュの難民キャンプに120万人が留まっている。国際司法裁判所の判決後も、根本的な解決は進んでいない。",
-      "en": "Over 1.3 million Rohingya remain displaced across South and Southeast Asia, with 1.2 million in refugee camps in Bangladesh; the crisis persists despite the ICJ ruling."
-    },
-    "category": "conflict",
-    "country": "ミャンマー",
-    "lat": 19.745,
-    "lon": 96.1297,
-    "occurredAt": "2026-11-20T02:09:00+00:00",
-    "source": {
-      "name": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/rohingya-crisis-icj-myanmar/"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "rohingya_crisis_unresolved_2026-11"
-  },
-  {
-    "id": "auto-67312",
-    "headline": {
-      "ja": "ウクライナ交渉での欧州参加についてロシア同意との報道",
-      "en": "Kushner says Russia agreed to European participation in Ukraine talks"
-    },
-    "summary": {
-      "ja": "米国のクシュナーがロシアがウクライナ交渉への欧州参加に同意したと述べた。",
-      "en": "Kushner reports Russia's agreement to European participation in Ukraine negotiations."
-    },
-    "category": "conflict",
-    "country": "ウクライナ",
-    "lat": 50.4547,
-    "lon": 30.5238,
-    "occurredAt": "2026-11-20T01:31:30+00:00",
-    "source": {
-      "name": "中国 新華社(国営)(Google News経由)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUtZS1VFQnpYbGl0LXJYVUJkWmZjd1lVZHFIb2VJUHNVZkNjYjJUUjU1OTUyM1dmekVMcUJLSkhZREZtbHRFZWVIRmNCSkVIWHhGV2VNMFB0Ylg3a1BMbUl4OUZtZ19wRjMyV0dOYW1YUGVYLVhnRHFlTlh0T2ZhVnhFZEg3dw?oc=5"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "ukraine_peace_talks_european_participation_2026-11",
-    "severity": 4
-  },
-  {
-    "id": "auto-67103",
-    "headline": {
-      "ja": "Houthis民兵、サウジアラビア首都への攻撃を激化",
-      "en": "Houthis escalate attacks on Saudi capital"
-    },
-    "summary": {
-      "ja": "Houthis民兵がリヤドの金融センターへのミサイル攻撃を激化させており、イラン関連の紛争は世界のエネルギーに影響を及ぼしていると報じられた。",
-      "en": "Houthi forces escalate missile attacks on Riyadh's financial center, with Iran-related conflict impacting global energy supplies."
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "lat": 24.6877,
-    "lon": 46.7219,
-    "occurredAt": "2026-11-19T23:58:40+00:00",
-    "source": {
-      "name": "Al Jazeera All",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "yemen_houthi_saudi_escalation_nov2026"
   }
 ]
