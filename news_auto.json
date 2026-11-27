@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-77261",
+    "headline": {
+      "ja": "ゼレンスキー大統領が大規模ロシア攻撃を警告、トランプ前大統領がプーチンに軍事行動中止を促す",
+      "en": "Zelenskyy warns of major Russian attack as Trump urges Putin to pull back"
+    },
+    "summary": {
+      "ja": "トランプ前大統領はプーチン大統領に対しヨーロッパでの軍事的攻撃を中止するよう促したと述べた。ゼレンスキー大統領は大規模なロシア攻撃の可能性を警告している。",
+      "en": "Trump urged Putin to pull back military aggression in Europe. Zelenskyy warned of a major Russian attack."
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "occurredAt": "2026-11-27T02:14:25+00:00",
+    "source": {
+      "name": "Al Jazeera All",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "ukraine_russia_trump_diplomatic_engagement_2026_11_27"
+  },
+  {
+    "id": "auto-77088",
+    "headline": {
+      "ja": "ウクライナ、北朝鮮のロシアへのミサイル供給一時停止と発表",
+      "en": "Ukraine says North Korea temporarily halted missile shipments to Russia"
+    },
+    "summary": {
+      "ja": "ウクライナ軍情報機関は、北朝鮮がロシアへのミサイル供給を一時停止し、ロシア駐留拡大要求にも応じていないと発表した。",
+      "en": "Ukraine's military intelligence announced that North Korea temporarily halted missile shipments to Russia and is not responding to requests to expand military presence in Russia."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-27T00:54:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/27/asia-pacific/ukraine-north-korea-missiles/"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "north_korea_russia_military_support_halt_2026_11_26"
+  },
+  {
     "id": "auto-77248",
     "headline": {
       "ja": "イラン政治分析家、ウクライナがクウェート攻撃を虚偽旗作戦で実行したと主張",
@@ -24,6 +70,29 @@
     "pushScore": 5
   },
   {
+    "id": "auto-77148",
+    "headline": {
+      "ja": "バンコク石油精製所爆発で9人が負傷、うち3人は重傷",
+      "en": "Nine injured, three critically, after Bangkok oil refinery explosion"
+    },
+    "summary": {
+      "ja": "タイのバンコク市内の石油精製所で大規模な爆発が発生し、9人が負傷、うち3人は重傷である。爆発による黒煙がバンコク全体に見える状態となり、当局は住民の退避を呼びかけた。",
+      "en": "A major explosion at Bangkok's oil refinery injured nine, with three critically hurt. Black smoke was visible across the city and officials urged residents to leave the area."
+    },
+    "category": "disaster",
+    "country": "タイ",
+    "lat": 13.754,
+    "lon": 100.5014,
+    "occurredAt": "2026-11-26T16:21:19+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "bangkok_refinery_explosion_2026_11_26"
+  },
+  {
     "id": "auto-77173",
     "headline": {
       "ja": "クラスノダル州の製油所、ドローン攻撃で火災・石油流出",
@@ -46,6 +115,75 @@
     "auto": true,
     "eventKey": "russia_krasnodar_refinery_drone_2026-11-26",
     "pushScore": 7
+  },
+  {
+    "id": "auto-76850",
+    "headline": {
+      "ja": "クウェートのドローン攻撃でイタリア国民2人が殺害",
+      "en": "Drone attack in Kuwait: two Italian citizens killed"
+    },
+    "summary": {
+      "ja": "クウェートで発生したドローン攻撃により、イタリア国民2人を含む複数の人員が殺害された。",
+      "en": "Two Italian citizens were among those killed in a drone attack in Kuwait."
+    },
+    "category": "conflict",
+    "country": "クウェート",
+    "lat": 29.367,
+    "lon": 47.9743,
+    "occurredAt": "2026-11-26T15:03:12+00:00",
+    "source": {
+      "name": "イタリア 外務省(Google News経由)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM1R2UWpNLXZUNm5pakpBdjVlVFRQNklQb0daanhiSkJqSXNONy1PM1E4NzVtcjBXS2RJRFR2UktOOUFFbE9fSTYtaU1Fd25NcG8zanItdlpNZWw3RnlOR0NtVnBHZEdVLUZJOUN6QjNBT0FpNlp6WVMtTDVNaF9fQWdTWlpjckdBTGpfVjZWelFVa3dDdW1fSWVXZlBGOGFQQkhSVXBydmJqcWE3WGtqQnYtQ0lWblJEcnRqUVhQT0lzYngtYWI1MThrMno?oc=5"
+    },
+    "reliability": "high",
+    "auto": true,
+    "eventKey": "kuwait_drone_attack_2026_11_26"
+  },
+  {
+    "id": "auto-77150",
+    "headline": {
+      "ja": "イスラエル空爆でハマス政治幹部と妻を含む8人が殺害",
+      "en": "Hamas political official and wife among eight Palestinians killed in Israeli strikes"
+    },
+    "summary": {
+      "ja": "イスラエル軍の空爆によりハマスの政治幹部と妻を含むパレスチナ人8人が殺害された。イスラエルはハマス関連施設への日常的な攻撃を継続している。",
+      "en": "Israeli airstrikes killed eight Palestinians including a Hamas political official and his wife. Israel continues near-daily attacks on what it says are Hamas targets."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "lat": 31.5016,
+    "lon": 34.4667,
+    "occurredAt": "2026-11-26T10:14:08+00:00",
+    "source": {
+      "name": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "israel_gaza_hamas_official_killed_2026_11_26"
+  },
+  {
+    "id": "auto-77102",
+    "headline": {
+      "ja": "北朝鮮の金委員長が戦術核兵器の配備を強調",
+      "en": "North Korea's Kim makes rare show of progress with nuclear program"
+    },
+    "summary": {
+      "ja": "北朝鮮の金委員長は、戦術核兵器の各種任務や領域での配備を推し進めるよう主張し、米国とその同盟国からの脅威に対抗する姿勢を示した。",
+      "en": "North Korea's Kim urged the deployment of tactical nuclear weapons for various missions and domains amid growing threats from the U.S. and its allies."
+    },
+    "category": "conflict",
+    "country": "北朝鮮",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "occurredAt": "2026-11-26T06:50:00+00:00",
+    "source": {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/north-korea-kim-tactical-nukes-us-japan/"
+    },
+    "reliability": "medium",
+    "auto": true,
+    "eventKey": "north_korea_nuclear_tactical_deployment_announcement_2026_11_26"
   },
   {
     "id": "auto-76033",
@@ -1877,30 +2015,6 @@
     "reliability": "high",
     "auto": true,
     "eventKey": "ukraine_kyiv_bridge_attack_2026-11-20",
-    "severity": 4
-  },
-  {
-    "id": "auto-67800",
-    "headline": {
-      "ja": "イエメン民間人19名がサウジ空爆で殺害",
-      "en": "19 civilians killed in Saudi airstrike off Yemen coast"
-    },
-    "summary": {
-      "ja": "イエメンの反政府勢力アンサルッラーは、サウジアラビア主導の連合軍の空爆で民間人を乗せた船が攻撃され、19名が殺害されたと発表した。",
-      "en": "Ansarullah reports 19 civilians killed in Saudi-led coalition airstrike on boat off Yemen coast"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "lat": 15.3545,
-    "lon": 44.2065,
-    "occurredAt": "2026-11-20T05:54:33+00:00",
-    "source": {
-      "name": "イラン IRNA通信(国営)",
-      "url": "https://en.irna.ir/news/86327210/Ansarullah-condemns-Saudi-airstrike-on-boat-off-Yemen-coast-that"
-    },
-    "reliability": "medium",
-    "auto": true,
-    "eventKey": "yemen_saudi_coalition_airstrike_civilians_2026-11-19",
     "severity": 4
   }
 ]
