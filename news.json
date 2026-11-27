@@ -266,5 +266,28 @@
       "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-28-01",
+    "headline": {
+      "ja": "サウジ・ジザン製油所がフーシ派の攻撃を受け作業員1人死亡、一部操業停止",
+      "en": "Houthi strike on Saudi Jazan refinery kills one worker, halts some operations"
+    },
+    "summary": {
+      "ja": "2026年11月26日(木)、サウジアラビアエネルギー省が、南西部ジザンの石油精製施設(サウジアラムコ運営)に敵対的な飛来物が命中したと発表したという。これによりネパール人作業員1人が死亡し、国籍の異なる複数の作業員が負傷したという。着弾により火災が発生したが消火され、精製施設の一部操業が一時停止したという。サウジ主導連合軍は、フーシ派がイエメン・ホデイダの弾道ミサイル発射拠点から本攻撃を実行したと発表し、連合軍が当該発射拠点を破壊したとしている(フーシ派自身による犯行声明は本収集時点で確認できていない)。本件は、11月25日のホデイダ港空爆以降続くサウジ・フーシ派間の相互攻撃(既報2026-11-25-02、2026-11-26-02、2026-11-26-06等)の一環とみられるが、これらの既報記事ではいずれも死者は報告されておらず、本件は一連の応酬における初の死者確認事例と判断した。推測:攻撃の正確な時刻は本収集時点で確証できない。[信頼性: 高](サウジエネルギー省の公式発表に基づき、NBC News・Al Jazeera・CNN・The Peninsula〈カタール通信QNA配信〉・Rigzone〈Bloombergワイヤー配信〉等複数の独立した主要メディアが2026年11月26〜27日の出来事として報じている。攻撃の実行者〈フーシ派〉はサウジ主導連合軍側の発表によるもので、フーシ派自身の声明は確認できていない)",
+      "en": "On Thursday, November 26, 2026, Saudi Arabia's Energy Ministry reportedly said a hostile projectile struck the Jazan oil refinery (operated by Saudi Aramco) in the kingdom's southwest. One Nepali worker was killed and several others of various nationalities were injured. The impact sparked a fire that was later extinguished, and some refinery operations were temporarily suspended. The Saudi-led coalition said Houthi forces carried out the attack from a ballistic missile launch site in Hodeidah, Yemen, which the coalition said it then destroyed; the Houthis had not issued their own claim of responsibility as of this collection. This appears to be part of the ongoing Saudi-Houthi exchange since the coalition's Nov. 25 strike on Hodeidah port (previously reported, ids 2026-11-25-02, 2026-11-26-02, 2026-11-26-06), none of which had reported any fatalities; this is judged to be the first confirmed death in that exchange. Speculation: the exact time of the attack could not be confirmed as of this collection. [Reliability: High] (Based on Saudi Energy Ministry's official statement, reported by multiple independent major outlets including NBC News, Al Jazeera, CNN, The Peninsula (Qatar's QNA) and Rigzone (Bloomberg wire) as events of Nov. 26-27, 2026; attribution to the Houthis comes from the Saudi-led coalition's statement, and the Houthis themselves had not issued a claim as of this collection)"
+    },
+    "category": "conflict",
+    "country": "サウジアラビア",
+    "region": "ジザン",
+    "lat": 16.8894,
+    "lon": 42.5706,
+    "occurredAt": "2026-11-26T00:00:00+00:00",
+    "source": {
+      "name": "NBC News / Al Jazeera / CNN",
+      "url": "https://www.nbcnews.com/world/saudi-arabia/attack-saudi-aramcos-jazan-refinery-kills-worker-halts-operations-rcna611484"
+    },
+    "reliability": "high",
+    "severity": 3
   }
 ]
