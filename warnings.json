@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-11-27T18:52:17.318Z",
+  "generatedAt": "2026-11-28T01:54:46.289Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 244,
+  "count": 251,
   "warnings": [
+    {
+      "id": "NAVAREA11-260530",
+      "type": "NAVAREA11",
+      "typeLabel": "NAVAREA XI",
+      "category": "その他",
+      "number": "0530",
+      "title": "北太平洋、危険な訓練",
+      "publishedAt": "2026-11-28T09:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          156.75,
+          18.25
+        ]
+      },
+      "rawText": "NO.26-0530    発表日時:2026年11月28日 09時\r\n\n\r\nNORTH PACIFIC.\r\r\nHAZARDOUS OPERATIONS 290600Z NOV TO \r\r\n041930Z DEC. AREAS BETWEEN  \r\r\n16-15N 18-15N AND 156-45E 158-45E.\r\r\nCANCEL THIS MSG 042030Z DEC.",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260530&LANG=JP"
+    },
     {
       "id": "NAVAREA11-260529",
       "type": "NAVAREA11",
@@ -284,6 +302,186 @@
       "geometry": null,
       "rawText": "NO.26-0322    発表日時:2026年07月17日 03時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDISCOLOURED WATER REPORTED IN VICINITY\r\r\nOF 20-26.0N 145-01.0E AT 160013Z JUL.\r\r\nCANCEL 0020/24.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264763",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4763",
+      "title": "インド西岸、射撃",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            68.93333333333334,
+            21.533333333333335
+          ],
+          [
+            69.4,
+            21.533333333333335
+          ],
+          [
+            69.4,
+            21.283333333333335
+          ],
+          [
+            69.1,
+            21.283333333333335
+          ]
+        ]
+      },
+      "rawText": "番号:26-4763   発表日時:2026年11月28日 08時\r\n\n\r\n★ インド西岸、\r\r\n射撃、12月2日0330Z-0830Z、\r\r\n21-32N 068-56E 21-32N 069-24E\r\r\n21-17N 069-24E 21-17N 069-06Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264763&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264762",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "海底施設",
+      "number": "4762",
+      "title": "インド西岸、海底管作業",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4762   発表日時:2026年11月28日 08時\r\n\n\r\n★ インド西岸、\r\r\nM/V LTS 3000、M/V AESEN MAGELLAN 2、\r\r\nM/V CCC PIONEER、M/V JT ODYSSEY、 \r\r\nM/V CREATIVE 1及びM/V WILCHIEF 1による海底管作業、\r\r\n12月27日まで、\r\r\n20-28.00N 071-13.00E 20-28.83N 071-13.01E\r\r\n20-27.49N 072-30.63E 20-00.35N 072-27.73E\r\r\n20-00.00N 072-27.00E 20-01.00N 071-14.00E\r\r\nで囲まれる海面。\r\r\n(4722削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264762&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264761",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4761",
+      "title": "インド東岸、飛しょう体発射",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4761   発表日時:2026年11月28日 08時\r\n\n\r\n★ インド東岸、\r\r\n飛しょう体発射、12月1日-3日毎日0430Z-0830Z、\r\r\n17-48.27N 083-34.01E 17-48.18N 084-02.40E\r\r\n17-38.82N 084-00.47E 17-33.42N 083-38.12E\r\r\nで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264761&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264760",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4760",
+      "title": "インド東岸、飛しょう体発射",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4760   発表日時:2026年11月28日 08時\r\n\n\r\n★ インド東岸、\r\r\n飛しょう体発射、12月1日-3日毎日0430Z-0630Z、\r\r\n0900Z-1100Z、20-45.80N 087-00.21E\r\r\n20-39.93N 087-03.71E 20-19.05N 087-46.10E\r\r\n20-51.11N 088-19.61E 21-34.88N 087-52.46E\r\r\n21-27.50N 087-02.05Eを結ぶ線及び陸岸で囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264760&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264759",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4759",
+      "title": "インド東岸、射撃",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            83.75,
+            17.366666666666667
+          ],
+          [
+            83.9,
+            17.566666666666666
+          ],
+          [
+            84.1,
+            17.433333333333334
+          ],
+          [
+            83.96666666666667,
+            17.233333333333334
+          ]
+        ]
+      },
+      "rawText": "番号:26-4759   発表日時:2026年11月28日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、11月29日、30日毎日2330Z-翌日1030Z、\r\r\n17-22N 083-45E 17-34N 083-54E\r\r\n17-26N 084-06E 17-14N 083-58Eで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264759&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264758",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4758",
+      "title": "パキスタン、危険な訓練",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-4758   発表日時:2026年11月28日 08時\r\n\n\r\n★ パキスタン、\r\r\n危険な訓練、12月1日-31日(土曜日と日曜日を除く。)\r\r\n毎日0300Z-1900Z、\r\r\n(1)24-24.30N 066-42.00E\r\r\n   24-19.00N 066-58.00E\r\r\n   24-00.00N 066-39.00E\r\r\n   24-11.00N 066-27.00E、\r\r\n(2)24-21.02N 24-36.02N\r\r\n   062-30.03E 063-15.03Eの各線、\r\r\n(3)24-21.02N 24-36.02N\r\r\n   061-45.03E 062-30.03Eの各線、\r\r\n(4)24-22.00N 066-27.00E\r\r\n   24-16.30N 066-33.00E\r\r\n   24-10.30N 066-27.00E\r\r\n   24-16.18N 066-20.50E、\r\r\nで囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264758&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264757",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "訓練試験",
+      "number": "4757",
+      "title": "南太平洋、タヒチ島北北西、射撃",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -150.13333333333333,
+            -16.616666666666667
+          ],
+          [
+            -149.6,
+            -16.5
+          ],
+          [
+            -149.6,
+            -17.166666666666668
+          ],
+          [
+            -149.8,
+            -17.216666666666665
+          ]
+        ]
+      },
+      "rawText": "番号:26-4757   発表日時:2026年11月28日 08時\r\n\n\r\n★ 南太平洋、タヒチ島北北西、\r\r\n射撃、11月29日1800Z-30日0001Z、\r\r\n16-37S 150-08W 16-30S 149-36W\r\r\n17-10S 149-36W 17-13S 149-48Wで囲まれる海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264757&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264756",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4756",
+      "title": "北太平洋、危険な訓練",
+      "publishedAt": "2026-11-28T08:00:00+09:00",
+      "geometry": {
+        "type": "polygon",
+        "coordinates": [
+          [
+            -122.9,
+            35.45
+          ],
+          [
+            -125.75,
+            35.15
+          ],
+          [
+            -131.75,
+            35.25
+          ],
+          [
+            -160.5,
+            32.65
+          ],
+          [
+            156.75,
+            18.25
+          ]
+        ]
+      },
+      "rawText": "番号:26-4756   発表日時:2026年11月28日 08時\r\n\n\r\n★ 北太平洋東部、\r\r\n危険な訓練、11月29日0600Z-12月4日1930Z、\r\r\n(1)34-15N 35-27N 122-54W 124-45W、\r\r\n(2)34-48N 35-09N 125-45W 129-15W、\r\r\n(3)34-48N 35-15N 131-45W 134-45W、\r\r\n(4)31-30N 32-39N 160-30W 163-30W、\r\r\n(5)16-15N 18-15N 156-45E 158-45E、\r\r\nの各線で囲まれる各海面。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264756&LANG=JP"
     },
     {
       "id": "JAPANNW-264755",
@@ -1086,18 +1284,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264723&LANG=JP"
     },
     {
-      "id": "JAPANNW-264722",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4722",
-      "title": "インド西岸、海底管作業",
-      "publishedAt": "2026-11-27T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4722   発表日時:2026年11月27日 08時\r\n\n\r\n★ インド西岸、\r\r\nM/V JD ODYSSEY、M/V TAG13、M/V CREATIVE 1、\r\r\nM/V SEAMAC GLORIOUS、M/V WILCHIEF 1、\r\r\nM/V LTS 3000及びM/V AESEN MAGELLAN 2による\r\r\n海底管作業、12月19日まで、\r\r\n20-28.00N 071-13.00E 20-28.83N 071-13.01E\r\r\n20-27.49N 072-30.63E 20-00.35N 072-27.73E\r\r\n20-00.00N 072-27.00E 20-01.00N 071-14.00E\r\r\nで囲まれる海面。\r\r\n(4565削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264722&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264721",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1108,30 +1294,6 @@
       "geometry": null,
       "rawText": "番号:26-4721   発表日時:2026年11月27日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、12月1日-11日毎日0030Z-1630Z、15-50.56N\r\r\n080-29.4Eを中心とする半径54海里の円のうち110-200度の扇形海面。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264721&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264720",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4720",
-      "title": "インド東岸、射撃",
-      "publishedAt": "2026-11-27T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4720   発表日時:2026年11月27日 08時\r\n\n\r\n★ インド東岸、\r\r\n射撃、11月27日0630Z-1630Z、\r\r\n17-30.02N 083-33.17E 17-19.36N 083-43.72E\r\r\n17-09.14N 083-32.41E 17-20.07N 083-21.79E\r\r\nで囲まれる海面。\r\r\n(4691、4717削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264720&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264719",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "海底施設",
-      "number": "4719",
-      "title": "オーストラリア北西岸、水中作業終了",
-      "publishedAt": "2026-11-27T08:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4719   発表日時:2026年11月27日 08時\r\n\n\r\n★ オーストラリア北西岸、\r\r\nM/V FUGRO KWILENAによる水中作業終了。\r\r\n(4329削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264719&LANG=JP"
     },
     {
       "id": "JAPANNW-264718",
@@ -3880,16 +4042,28 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
-      "id": "NAVTEX-262294",
+      "id": "NAVTEX-262296",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
       "category": "制限禁止",
-      "number": "2294",
-      "title": "苫小牧港、出域勧告",
-      "publishedAt": "2026-11-28T01:00:00+09:00",
+      "number": "2296",
+      "title": "苫小牧港、出域勧告解除",
+      "publishedAt": "2026-11-28T09:00:00+09:00",
       "geometry": null,
-      "rawText": "番号:26-2294    発表日時:2026年11月28日 01時\r\n\n\r\n苫小牧港、\r\r\n11月28日0010、荒天のため船舶に対し出域勧告。\r\r\n詳細は苫小牧港長に問い合わせられたい。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262294&LANG=JP"
+      "rawText": "番号:26-2296    発表日時:2026年11月28日 09時\r\n\n\r\n苫小牧港、\r\r\n出域勧告解除。\r\r\n(2294削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262296&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262295",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "漂流物等",
+      "number": "2295",
+      "title": "津軽海峡、機関故障貨物船漂流",
+      "publishedAt": "2026-11-28T04:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2295    発表日時:2026年11月28日 04時\r\n\n\r\n津軽海峡、\r\r\n機関故障貨物船(長さ約75メートル)漂流、\r\r\n11月28日0320、41-36.9N 141-05.6E。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262295&LANG=JP"
     },
     {
       "id": "NAVTEX-262293",
