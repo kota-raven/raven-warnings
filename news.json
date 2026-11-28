@@ -265,5 +265,71 @@
       "url": "https://whbl.com/2026/11/27/us-black-friday-online-sales-to-cross-13-billion-adobe-says/"
     },
     "reliability": "high"
+  },
+  {
+    "id": "2026-11-28-05",
+    "headline": {
+      "ja": "ガザのMSF(国境なき医師団)運営診療所をイスラエル軍が空爆、職員2人死亡 イスラエル軍は「ハマス構成員」と主張",
+      "en": "Israeli strike kills two MSF staff at Gaza clinic; IDF says they were Hamas members"
+    },
+    "summary": {
+      "ja": "国境なき医師団(MSF)は、11月27日(金)にガザ市アル・シファ病院付近の自団体運営診療所がイスラエル軍の空爆を受け、警備員2人が死亡したと発表した。MSFは施設にロゴが明示されていたとして、イスラエル軍は位置を把握していたはずだと非難した。これによりMSFがガザで死亡した職員は17人となったという。イスラエル軍は、死亡した2人はMSF運営診療所の警備員として活動していたハマス構成員だったと説明し、病院を標的にしたものではないとした。WHO事務局長テドロス氏は医療従事者への攻撃を「言語道断」と非難した。[信頼性: 高](CNN、Haaretz、The National等複数の主要メディアが、MSFの発表とイスラエル軍の説明の双方を報じている。死者の身元・経緯についてMSFとイスラエル軍の説明は対立している)",
+      "en": "Médecins Sans Frontières (MSF) said an Israeli strike on Friday, Nov. 27 hit its clinic near Al-Shifa Hospital in Gaza City, killing two watchmen. MSF said the site was clearly marked and that Israel's military knew its location, bringing MSF's Gaza death toll to 17 staff. The IDF said the two killed were Hamas members acting as security guards at the MSF-run clinic and that the strike did not target the hospital. WHO chief Tedros called the attack on health workers 'outrageous and unacceptable.' [Reliability: High] (Reported by CNN, Haaretz, The National and other major outlets; MSF and the IDF give conflicting accounts of the victims' identity and the circumstances)"
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "",
+    "lat": 31.5017,
+    "lon": 34.4668,
+    "occurredAt": "2026-11-27T10:00:00+00:00",
+    "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/11/28/middleeast/msf-gaza-israel-deaths-intl"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-28-06",
+    "headline": {
+      "ja": "ロシア軍、ウクライナ9州のエネルギー・鉄道施設等に大規模ドローン・ミサイル攻撃 死者数は報道により4〜11人",
+      "en": "Russia launches large-scale drone and missile strikes on Ukraine's energy, rail infrastructure across 9 regions; death toll reported as 4-11"
+    },
+    "summary": {
+      "ja": "11月26日夜から27日にかけて、ロシア軍はウクライナの鉄道・エネルギー施設・民間企業・住宅地等に対し、ジェット推進型51機を含む計155機の攻撃用ドローンとミサイルによる大規模攻撃を実施したという。コレツキー首相は9州が攻撃を受けたと述べ、複数地域で停電が発生、DTEKは火力発電所の発電停止を報じた。死者数は報道により異なり、キーウでの死者3人を含むとする報道や、全体で4人、6人、7人、最大11人など複数の数字が報じられている。[信頼性: 中](Euronews、PBS、CBC等複数メディアが大規模攻撃の発生自体は一致して報じているが、死者数の具体的な数字は報道により異なり確定していない)",
+      "en": "Russia carried out a large-scale overnight attack on Ukraine's rail, energy, civilian and residential infrastructure from Nov. 26 into 27, reportedly using 155 strike drones (51 jet-powered) and missiles. PM Serhiy Koretsky said nine regions were hit, with power outages reported in several and DTEK saying a thermal plant was forced offline. Death tolls vary by outlet: reports cite 3 killed in Kyiv alone, while overall figures of 4, 6, 7 and up to 11 have all been reported. [Reliability: Medium] (Euronews, PBS, CBC and other outlets agree a large-scale attack occurred, but casualty figures differ and remain unconfirmed)"
+    },
+    "category": "conflict",
+    "country": "ウクライナ",
+    "region": "キーウ",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "occurredAt": "2026-11-27T02:00:00+00:00",
+    "source": {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries"
+    },
+    "reliability": "medium"
+  },
+  {
+    "id": "2026-11-28-07",
+    "headline": {
+      "ja": "米国株、金曜に急反発 ダウ・S&P500・ナスダックが週間で大幅高",
+      "en": "US stocks surge Friday; Dow, S&P 500, Nasdaq post big weekly gains"
+    },
+    "summary": {
+      "ja": "11月27日(金)の米国株式市場で、ダウ工業株30種平均は591.99ポイント(1.18%)高の50774.94、S&P500指数は1.6%高の7297.49、ナスダック総合指数は2.31%高の24129.50で取引を終えたという。ダウは2022年10月以来の週間最大の上昇率、ナスダックは2025年4月以来最良の週間パフォーマンスを記録したという。推測:市場分析の一部では、S&P500が直近の最大11.6%の下落(コレクション入り)から4日間で6.7%まで縮小し、コレクション圏を脱したとの見方も報じられているが、これは単一の市場分析記事によるもので確証は得られていない。[信頼性: 高](CNBC等が報じた終値の数値自体は複数メディアで確認できるが、コレクション脱却の評価は一部分析記事のみに基づく)",
+      "en": "US stocks rallied on Friday, Nov. 27: the Dow Jones Industrial Average rose 591.99 points (1.18%) to 50,774.94, the S&P 500 gained 1.6% to 7,297.49, and the Nasdaq Composite climbed 2.31% to 24,129.50. The Dow posted its biggest weekly gain since October 2022, and the Nasdaq its best week since April 2025. Speculation: one market analysis claims the S&P 500 has pulled back from an 11.6% peak drawdown to 6.7% over four days, exiting correction territory, but this specific characterization comes from a single market commentary and is not independently confirmed. [Reliability: High] (The closing index figures are confirmed across multiple outlets including CNBC; the 'exiting correction' characterization rests on a single analysis piece)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "region": "",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-27T21:00:00+00:00",
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+    },
+    "reliability": "high"
   }
 ]
