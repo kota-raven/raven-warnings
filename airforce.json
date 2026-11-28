@@ -71,8 +71,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-22T21:21:16.687896Z",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-21T00:00:00Z"
   },
   {
@@ -95,8 +95,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-22T21:21:16.687896Z",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-21T00:00:00Z"
   },
   {
@@ -119,8 +119,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-20T21:21:28.258292+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "count": 2,
     "periodStart": null,
     "periodEnd": null
@@ -145,8 +145,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-21T21:21:56+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-19T00:00:00Z"
   },
   {
@@ -169,8 +169,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-20T21:21:28.258292+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "count": 2,
     "periodStart": null,
     "periodEnd": null
@@ -195,8 +195,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-21T21:21:56+00:00",
-    "anomalyLevel": "alert",
-    "anomalyNote": "Q1(集結規模急増, 平時比4.0倍) + Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": "2026-11-19T00:00:00Z"
   },
   {

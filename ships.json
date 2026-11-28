@@ -993,8 +993,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-17T10:00:00+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1017,8 +1017,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-17T10:00:00+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "critical",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q4(演習期間超過) + F-B(演習後の非撤収)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1041,8 +1041,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1065,8 +1065,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-13T21:21:29.825932+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1089,8 +1089,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1113,8 +1113,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1137,8 +1137,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1161,8 +1161,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-11T21:21:25+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1185,8 +1185,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-16T21:20:58.982709+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -1209,8 +1209,8 @@
     },
     "confidence": "confirmed",
     "lastCheckedAt": "2026-11-15T21:21:11.462258+00:00",
-    "anomalyLevel": "watch",
-    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "anomalyLevel": "alert",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現) + Q3(滞留期間14日超)",
     "observedAt": "2026-11-13T00:00:00Z"
   },
   {
@@ -4904,6 +4904,128 @@
     "observedAt": null
   },
   {
+    "id": "-cn-000261",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "拉薩",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍駆逐艦「拉薩」が大隅海峡を西進し東シナ海へ向かっているのが確認された。日本側（海自「みくま」等）が警戒監視中",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37742/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-cn-000262",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "西寧",
+    "shipNumber": null,
+    "shipType": "destroyer",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍駆逐艦「西寧」が大隅海峡を西進し東シナ海へ向かっているのが確認された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37742/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-cn-000263",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "塩城",
+    "shipNumber": null,
+    "shipType": "frigate",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍フリゲート「塩城」が大隅海峡を西進し東シナ海へ向かっているのが確認された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37742/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-cn-000264",
+    "recordType": "aggregate",
+    "country": "CN",
+    "shipName": null,
+    "shipNumber": null,
+    "shipType": "other",
+    "position": {
+      "area": "大隅海峡",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍の追加4隻がこれら3隻と共に大隅海峡を西進し東シナ海へ向かっているのが確認された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37742/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "count": 4,
+    "periodStart": null,
+    "periodEnd": null
+  },
+  {
+    "id": "-cn-000265",
+    "recordType": "individual",
+    "country": "CN",
+    "shipName": "開陽星",
+    "shipNumber": null,
+    "shipType": "reconnaissance",
+    "position": {
+      "area": "奄美大島と横当島の間",
+      "lat": null,
+      "lon": null,
+      "approximate": true
+    },
+    "activity": "中国海軍情報収集艦「開陽星」が奄美大島と横当島の間を南西進し東シナ海へ向かっているのが確認された",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37774/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-cn-000074",
     "recordType": "individual",
     "country": "CN",
@@ -5290,6 +5412,30 @@
     "observedAt": null
   },
   {
+    "id": "-jp-000266",
+    "recordType": "individual",
+    "country": "JP",
+    "shipName": "いらぶ",
+    "shipNumber": "PL-97",
+    "shipType": "coast_guard",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "海上保安庁くにがみ型巡視船「いらぶ」(PL-97)が三菱重工下関造船所で命名・進水。2027年度に海保へ引き渡し予定",
+    "source": {
+      "name": "funeco.jp(Jディフェンスニュース。統幕発表を艦級付きで整理)",
+      "url": "https://funeco.jp/news/news-37771/"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
     "id": "-jp-000070",
     "recordType": "aggregate",
     "country": "JP",
@@ -5433,6 +5579,30 @@
     },
     "confidence": "media_based",
     "lastCheckedAt": "2026-11-25T21:20:53.877470+00:00",
+    "anomalyLevel": "watch",
+    "anomalyNote": "Q2(新規装備・部隊種別の出現)",
+    "observedAt": null
+  },
+  {
+    "id": "-tw-000267",
+    "recordType": "individual",
+    "country": "TW",
+    "shipName": "Bao Jiang",
+    "shipNumber": "PCG-632",
+    "shipType": "frigate",
+    "position": {
+      "area": null,
+      "lat": null,
+      "lon": null,
+      "approximate": false
+    },
+    "activity": "台湾(中華民国)海軍がテオ・チャン級ミサイル艇「宝江」(PCG-632)を受領。12隻のオーダー完了",
+    "source": {
+      "name": "USNI News(Fleet and Marine Tracker等)",
+      "url": "https://news.usni.org/2026/11/26/taiwan-navy-receives-last-tuo-chiang-class-missile-corvettes"
+    },
+    "confidence": "confirmed",
+    "lastCheckedAt": "2026-11-27T21:22:37.301341+00:00",
     "anomalyLevel": "watch",
     "anomalyNote": "Q2(新規装備・部隊種別の出現)",
     "observedAt": null
