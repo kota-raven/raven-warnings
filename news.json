@@ -1,50 +1,5 @@
 [
   {
-    "id": "2026-11-25-02",
-    "headline": {
-      "ja": "サウジ主導連合軍、イエメン・ホデイダ港を空爆 フーシ派はジッダ等紅海沿岸の全サウジ港湾を標的にすると警告",
-      "en": "Saudi-led coalition strikes Yemen's Hodeidah port; Houthis warn Jeddah and all Saudi Red Sea ports could be targeted"
-    },
-    "summary": {
-      "ja": "2026年11月25日(水)、サウジアラビア主導連合軍が、事前に民間人への退避勧告を出していたイエメン・フーシ派支配下のホデイダ港を空爆したという。連合軍は、同港がフーシ派による武器・弾道ミサイルの密輸に使われているとして「作戦能力」を狙ったと説明しているという。これに対しフーシ派軍事報道官ヤヒヤ・サリー氏は、ホデイダが攻撃されればジッダを含むサウジアラビアの紅海沿岸の全港湾を標的にすると警告したという。複数の報道(Al Jazeera速報ページ、The National、Tribune India、Free Press Journal、Khaama等)が伝えている。サウジ・フーシ間では2026年7月の停戦崩壊以降、相互攻撃が繰り返されており、既報(11月19日のリヤド金融街タワーへの攻撃等)の延長線上にあるが、連合軍による港湾への直接空爆の実施と、ジッダを名指しした報復対象拡大の表明は、本時間帯の新規事実として確認した。推測:ジッダへの実際の攻撃は本稿執筆時点で確認されておらず、警告の域を出ない。死傷者数についても本稿執筆時点で確証できる報道がない。[信頼性: 高](連合軍・フーシ派双方の公式発表に基づき、Al Jazeeraの速報ページを含む複数の主要メディアが2026年11月25日の出来事として報じている。具体的な死傷者数は未確認)",
-      "en": "On Wednesday, November 25, 2026, the Saudi-led coalition reportedly struck Yemen's Houthi-held Hodeidah port, after earlier warning civilians to evacuate the area. The coalition said it targeted \"operational capabilities\" it said the Houthis use to smuggle weapons and ballistic missiles through the port. In response, Houthi military spokesman Yahya Saree reportedly warned that Jeddah and other Saudi Red Sea ports would be targeted if Hodeidah were attacked. Multiple outlets, including Al Jazeera's live blog, The National, Tribune India, Free Press Journal and Khaama, reported on the exchange. The Saudi-Houthi conflict has seen repeated attacks since a truce collapsed in July 2026, including a previously reported strike on a Riyadh financial-district tower on Nov. 19; this direct coalition strike on port infrastructure and the explicit threat to expand retaliation to Jeddah were confirmed as new facts for this period. Speculation: no actual strike on Jeddah had been confirmed as of this writing, and casualty figures for the Hodeidah strike could not be corroborated. [Reliability: High] (Based on official statements from both the coalition and the Houthis, reported Nov. 25, 2026 by multiple major outlets including Al Jazeera's live blog; specific casualty figures unconfirmed)"
-    },
-    "category": "conflict",
-    "country": "イエメン",
-    "region": "ホデイダ",
-    "lat": 14.7979,
-    "lon": 42.9545,
-    "occurredAt": "2026-11-25T04:00:00+00:00",
-    "source": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
-    "id": "2026-11-25-03",
-    "headline": {
-      "ja": "ガザ市シャティ難民キャンプへの空爆、パレスチナ人家族4人死亡 停戦下の違反と報道(11月25日)",
-      "en": "Israeli airstrike on al-Shati camp in Gaza City kills 4 members of one family amid ceasefire (Nov 25)"
-    },
-    "summary": {
-      "ja": "2026年11月25日(水)、イスラエル軍によるガザ市シャティ難民キャンプ内の住宅への空爆で、パレスチナ人の一家族4人が死亡したという。トルコのアナドル通信は、これを2025年10月発効の停戦下での最新の違反事案として報じている。同通信は、別途ハンユニスでテントに向けられた銃撃により少女1人が負傷したとも伝えている。アナドル通信はまた、ガザ地区政府メディア庁の集計として、停戦発効以降のイスラエル側による違反での死者数が11月24日時点で約1690人に達したと報じている。既報(2026-11-25-01のガザ市でのハマス治安組織責任者殺害等)とは別地点・別事案である。推測:イスラエル軍からの本件に関する公式説明、および死亡した4人の氏名・詳細は本収集時点で確認できていない。[信頼性: 中](アナドル通信単独の報道で、2026年11月25日の出来事として伝えている。他の主要国際通信社による独自確認は本収集時点で見つかっていない)",
-      "en": "On Wednesday, November 25, 2026, an Israeli airstrike on a home in Gaza City's al-Shati refugee camp reportedly killed four members of one Palestinian family. Turkey's Anadolu Agency reported this as the latest violation under the ceasefire that took effect in October 2025. The same report said separate gunfire aimed at tents in Khan Younis wounded a girl. Anadolu also cited Gaza's government media office putting the cumulative death toll from Israeli ceasefire violations at roughly 1,690 as of November 24. This is a separate incident and location from the previously reported killing of a Hamas internal security chief in Gaza City (id 2026-11-25-01). Speculation: no official Israeli account of this strike, nor the identities of the four victims, could be confirmed as of this collection. [Reliability: Medium] (Reported solely by Anadolu Agency as of November 25, 2026; no independent confirmation from other major wire services found as of this collection)"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "region": "ガザ市(シャティ難民キャンプ)",
-    "lat": 31.5017,
-    "lon": 34.4668,
-    "occurredAt": "2026-11-25T03:00:00+00:00",
-    "source": {
-      "name": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-4-members-of-palestinian-family-in-latest-gaza-ceasefire-violation/4136654"
-    },
-    "reliability": "medium"
-  },
-  {
     "id": "2026-11-26-05",
     "headline": {
       "ja": "原油価格上昇 フーシ派のサウジ精製所攻撃主張とイランの触雷主張で供給不安高まる",
@@ -288,5 +243,27 @@
       "url": "https://www.dawn.com/news/2041749/israeli-strikes-kill-five-palestinians-in-gaza"
     },
     "reliability": "medium"
+  },
+  {
+    "id": "2026-11-28-04",
+    "headline": {
+      "ja": "米ブラックフライデー、オンライン売上が過去最高の130億ドル超へ(Adobe)",
+      "en": "US Black Friday online sales set to top $13 billion, a record, Adobe says"
+    },
+    "summary": {
+      "ja": "Adobe Analyticsのデータによれば、11月27日(金)の米ブラックフライデーのオンライン売上は、同日午後6時30分(米東部時間)までに97億ドルに達し、前年同時点比12.8%増となったという。ロイター通信は、最終的な総額が130億〜134億ドルに達する見通しだと報じているという。これは2025年の実績(118億ドル)を上回り、過去最高となる見込みだという。Adobeは今年9月の事前予測で、ブラックフライデーのオンライン売上を前年比9.2%増の129億ドルと見込んでいた。推測:最終的な確定額は本収集時点で未発表であり、上記は速報値・予測に基づく。[信頼性: 高](Adobe Analyticsのデータに基づくロイター通信の報道を、複数の媒体(WHBL等)が2026年11月27日の出来事として配信している)",
+      "en": "Adobe Analytics data showed U.S. Black Friday (Nov. 27, 2026) online sales reached $9.7 billion by 6:30 p.m. ET, up 12.8% year over year. Reuters reported the day's final total is projected to reach $13-13.4 billion, which would top 2025's actual $11.8 billion and set a new record. Adobe's pre-season forecast in September had projected Black Friday online sales of $12.9 billion, up 9.2% year over year. Speculation: the final confirmed total had not been published as of this collection; the figures above are preliminary/projected. [Reliability: High] (Based on Adobe Analytics data reported via Reuters, carried by multiple outlets including WHBL as an event of Nov. 27, 2026)"
+    },
+    "category": "economy",
+    "country": "米国",
+    "region": "",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "occurredAt": "2026-11-27T23:30:00+00:00",
+    "source": {
+      "name": "Reuters (via WHBL)",
+      "url": "https://whbl.com/2026/11/27/us-black-friday-online-sales-to-cross-13-billion-adobe-says/"
+    },
+    "reliability": "high"
   }
 ]
