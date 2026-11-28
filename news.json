@@ -45,51 +45,6 @@
     "reliability": "medium"
   },
   {
-    "id": "2026-11-26-02",
-    "headline": {
-      "ja": "フーシ派、サウジ最大の精製所・輸出ターミナル「ラスタヌラ」への攻撃を主張 原油価格上昇",
-      "en": "Houthis claim strike on Saudi Arabia's largest refinery and export terminal at Ras Tanura; oil prices jump"
-    },
-    "summary": {
-      "ja": "2026年11月25日(水)、イエメンのフーシ派軍事部門が、サウジアラビア最大の石油精製所であり主要な原油輸出ターミナルでもあるラスタヌラの施設を攻撃したと発表したという。Al Jazeeraは、同施設上空に立ち上る大規模な煙を捉えた衛星画像を伝えている。サウジ・アラムコ側はこの主張の真偽について本収集時点でコメントしていないという。CNBCによれば、この攻撃の主張を受けて地政学的リスクプレミアムが高まったとの分析(PVMのアナリスト、タマス・ヴァルガ氏)があり、同日のブレント原油は前日比3.5%高の1バレル94.61ドルで取引を終えたという。フーシ派は11月上旬にも東西パイプラインのポンプ施設やヤンブー、10月30日にもラスタヌラ・ラービグ・アブカイクを標的にしたと主張しており、サウジ石油インフラへの攻撃を繰り返し主張している。推測:攻撃による実際の被害・操業への影響は、サウジ側・アラムコからの独立した確認が本収集時点で得られておらず未確認である。[信頼性: 中](フーシ派側の発表とAl Jazeeraの衛星画像報道に基づく。サウジ・アラムコ等による独立した被害確認は本収集時点で見つかっていない)",
-      "en": "On Wednesday, November 25, 2026, Yemen's Houthi military reportedly said it struck facilities at Ras Tanura, Saudi Arabia's largest oil refinery and a major crude export terminal. Al Jazeera carried satellite imagery showing a large plume of smoke over the facility. Saudi Aramco had not commented on the claim's veracity as of this collection. According to CNBC, the claim raised the geopolitical risk premium, per PVM analyst Tamas Varga, and Brent crude settled 3.5% higher that day at $94.61 a barrel. The Houthis made similar claims earlier in November against East-West pipeline pumping stations and Yanbu, and on October 30 against Ras Tanura, Rabigh and Abqaiq, as part of a pattern of claimed strikes on Saudi oil infrastructure. Speculation: the actual damage and any effect on operations could not be independently confirmed by Saudi authorities or Aramco as of this collection. [Reliability: Medium] (Based on the Houthi military's own claim and Al Jazeera's satellite-image reporting; no independent damage confirmation from Saudi Arabia or Aramco found as of this collection)"
-    },
-    "category": "conflict",
-    "country": "サウジアラビア",
-    "region": "ラスタヌラ",
-    "lat": 26.6444,
-    "lon": 50.1575,
-    "occurredAt": "2026-11-25T00:00:00+00:00",
-    "source": {
-      "name": "CNBC / Al Jazeera",
-      "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
-    },
-    "reliability": "medium"
-  },
-  {
-    "id": "2026-11-26-04",
-    "headline": {
-      "ja": "米国、イランに滞在する自国民に即時退避を要請 バーレーン・クウェートの米関連施設への攻撃後、急速な事態拡大を警告",
-      "en": "US tells its citizens to leave Iran immediately, warns of rapid escalation after attacks on US-linked sites in Bahrain and Kuwait"
-    },
-    "summary": {
-      "ja": "2026年11月25日(水)、イラン駐在の米バーチャル大使館が安全に関する警告を発出し、「いかなる理由でもイランへの渡航は行わないこと。米国民は直ちにイランを離れるべき」と呼びかけたという。Euronewsによれば、この警告はイランが攻撃した可能性がある米関連資産(バーレーン・クウェート)への攻撃、および11人が負傷したとされるリヤドへのフーシ派攻撃を受けて出されたものだという。警告では、イラン・フーシ派およびイランと連携する他の勢力が、企業・機関を含む地域内の米国の権益・米国民を標的にする可能性があるとし、事態が急速に悪化し得るとしているという。また航空便・空域の混乱に備え、デモや人の集まる場所・警察が多数配置された地域を避けるよう助言しているという。推測:警告が具体的にどの攻撃を指しているかの詳細(攻撃の日時・被害規模)は、本収集時点でEuronewsの報道以上には確認できていない。[信頼性: 高](イラン駐在米バーチャル大使館の公式警告文を基に、Euronewsが2026年11月25日の出来事として報じている)",
-      "en": "On Wednesday, November 25, 2026, the US Virtual Embassy in Iran reportedly issued a security alert saying, \"Do not travel to Iran for any reason. United States citizens should leave Iran immediately.\" According to Euronews, the alert followed Iranian attacks on US-linked assets in Bahrain and Kuwait, and a Houthi strike on Riyadh that reportedly injured 11 people. The alert said Iran, the Houthis and other Iran-aligned groups may target US interests and citizens in the region, including companies and institutions, and that hostilities could escalate rapidly. It also advised Americans to prepare for possible flight and airspace disruption and to avoid demonstrations, large gatherings and areas with a heavy police presence. Speculation: the specific attacks the alert refers to (their exact timing and scale) could not be confirmed beyond Euronews's own reporting as of this collection. [Reliability: High] (Based on the official alert text from the US Virtual Embassy in Iran, reported by Euronews as of November 25, 2026)"
-    },
-    "category": "conflict",
-    "country": "イラン",
-    "region": "",
-    "lat": 32.4279,
-    "lon": 53.688,
-    "occurredAt": "2026-11-25T00:00:00+00:00",
-    "source": {
-      "name": "Euronews",
-      "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast"
-    },
-    "reliability": "high",
-    "severity": 3
-  },
-  {
     "id": "2026-11-26-05",
     "headline": {
       "ja": "原油価格上昇 フーシ派のサウジ精製所攻撃主張とイランの触雷主張で供給不安高まる",
@@ -289,5 +244,49 @@
     },
     "reliability": "high",
     "severity": 3
+  },
+  {
+    "id": "2026-11-28-02",
+    "headline": {
+      "ja": "インドネシア・西ジャワの違法金採掘場が洪水、13人死亡・13人不明",
+      "en": "Flooding at illegal gold mine in West Java, Indonesia kills 13, leaves 13 missing"
+    },
+    "summary": {
+      "ja": "インドネシア・西ジャワ州ボゴール県ナングン郡ポンゴール地区の違法金採掘場で、11月23日夜の大雨によりチスルー川の水が坑道に流入し作業員が取り残された。11月27日時点で13人の死亡が確認され、13人が不明のまま。坑道は深さ100メートルに達し、狭い坑道・ぬかるんだ地盤が救助活動を妨げている。警察は坑道の所有者ら2人を逮捕した。インドネシア energy省は全国に1400か所超の違法金採掘場があると指摘している。",
+      "en": "Heavy rain on the night of November 23 caused water from the Ciseureuh River to flood a shaft at an illegal gold mine in Pongkor, Nanggung district, Bogor regency, West Java, trapping workers underground. As of November 27, 13 deaths had been confirmed and 13 people remained missing. Shafts reaching depths of up to 100 meters, narrow passages and slippery terrain have hampered rescue efforts. Police have arrested two suspects linked to ownership of the mine shaft and processing site. Indonesia's energy ministry says the country has more than 1,400 illegal gold mines nationwide."
+    },
+    "category": "disaster",
+    "country": "インドネシア",
+    "region": "西ジャワ州ボゴール県",
+    "lat": -6.73,
+    "lon": 106.47,
+    "occurredAt": "2026-11-26T06:00:00+00:00",
+    "source": {
+      "name": "Al Jazeera / The Jakarta Post",
+      "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify"
+    },
+    "reliability": "high"
+  },
+  {
+    "id": "2026-11-28-03",
+    "headline": {
+      "ja": "ガザで停戦下のイスラエル軍攻撃によりパレスチナ人5人死亡(11月27日)",
+      "en": "Israeli strikes kill five Palestinians in Gaza despite ceasefire (Nov 27)"
+    },
+    "summary": {
+      "ja": "11月27日(金)、ガザ各地でイスラエル軍の空爆・銃撃によりパレスチナ人5人が死亡し、複数人が負傷したと報じられた。ラファ西方のモスク付近へのドローン攻撃では3人が死亡したという。パレスチナ保健省によれば、2025年10月11日の停戦発効以降、イスラエル側の攻撃により1705人が死亡、6163人が負傷したとされる。イスラエル軍はこの件について同日時点でコメントしていない。",
+      "en": "On Friday, November 27, Israeli airstrikes and gunfire across the Gaza Strip reportedly killed five Palestinians and wounded several others; a drone strike near a mosque west of Rafah reportedly killed three. The Palestinian health ministry says Israeli attacks have killed 1,705 Palestinians and wounded 6,163 others since the ceasefire took effect on October 11, 2025. The Israeli military had not commented on the incident as of the time of reporting."
+    },
+    "category": "conflict",
+    "country": "パレスチナ",
+    "region": "ガザ地区・ラファ周辺",
+    "lat": 31.296,
+    "lon": 34.2449,
+    "occurredAt": "2026-11-27T12:00:00+00:00",
+    "source": {
+      "name": "DAWN / Anadolu Agency",
+      "url": "https://www.dawn.com/news/2041749/israeli-strikes-kill-five-palestinians-in-gaza"
+    },
+    "reliability": "medium"
   }
 ]
