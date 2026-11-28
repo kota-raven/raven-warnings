@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T01:54:46.289Z",
+  "generatedAt": "2026-11-28T10:12:51.862Z",
   "disclaimer": "このデータは海上保安庁の公開ページ(航行警報)を自動で要約・構造化したものです。公式情報は必ず一次情報源(sourceUrl)でご確認ください。",
-  "count": 251,
+  "count": 248,
   "warnings": [
     {
       "id": "NAVAREA11-260530",
@@ -302,6 +302,24 @@
       "geometry": null,
       "rawText": "NO.26-0322    発表日時:2026年07月17日 03時\r\n\n\r\nNORTH PACIFIC, MARIANAS.\r\r\nDISCOLOURED WATER REPORTED IN VICINITY\r\r\nOF 20-26.0N 145-01.0E AT 160013Z JUL.\r\r\nCANCEL 0020/24.",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVAREA11&TANA=260322&LANG=JP"
+    },
+    {
+      "id": "JAPANNW-264764",
+      "type": "JAPANNW",
+      "typeLabel": "日本航行警報",
+      "category": "その他",
+      "number": "4764",
+      "title": "アデン海湾、海賊情報",
+      "publishedAt": "2026-11-28T17:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          47.96666666666667,
+          12.866666666666667
+        ]
+      },
+      "rawText": "番号:26-4764   発表日時:2026年11月28日 17時\r\n\n\r\n★ アデン海湾、\r\r\n海賊情報、報告によれば、11月28日0655Z、12-52N 047-58E\r\r\nにて船舶が武装した6名の海賊に乗り込まれたとの報告あり。\r\r\n付近航行船舶は注意されたい。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264764&LANG=JP"
     },
     {
       "id": "JAPANNW-264763",
@@ -1170,18 +1188,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264732&LANG=JP"
     },
     {
-      "id": "JAPANNW-264731",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "その他",
-      "number": "4731",
-      "title": "ニュージーランド東、宇宙ゴミ落下に関する情報削除",
-      "publishedAt": "2026-11-27T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4731   発表日時:2026年11月27日 20時\r\n\n\r\n★ ニュージーランド東、\r\r\n宇宙ゴミ落下に関する情報削除。\r\r\n(4684削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264731&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264730",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1224,42 +1230,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264728&LANG=JP"
     },
     {
-      "id": "JAPANNW-264727",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4727",
-      "title": "野島埼南、射撃中止",
-      "publishedAt": "2026-11-27T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4727   発表日時:2026年11月27日 20時\r\n\n\r\n野島埼南、\r\r\n射撃中止。\r\r\n(4689削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264727&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264726",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4726",
-      "title": "隠岐諸島西、射撃終了",
-      "publishedAt": "2026-11-27T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4726   発表日時:2026年11月27日 20時\r\n\n\r\n隠岐諸島西、\r\r\n射撃終了。\r\r\n(4679削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264726&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264725",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4725",
-      "title": "豊後水道南、射撃終了",
-      "publishedAt": "2026-11-27T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4725   発表日時:2026年11月27日 20時\r\n\n\r\n豊後水道南、\r\r\n射撃終了。\r\r\n(4634削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264725&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264724",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -1270,18 +1240,6 @@
       "geometry": null,
       "rawText": "番号:26-4724   発表日時:2026年11月27日 20時\r\n\n\r\n恵山岬東南東、\r\r\n射撃、12月2日1000-2400、41-43.0N 141-29.4E\r\r\nを中心とする半径5海里の円内。",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264724&LANG=JP"
-    },
-    {
-      "id": "JAPANNW-264723",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4723",
-      "title": "落石岬南南東、射撃中止",
-      "publishedAt": "2026-11-27T20:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-4723   発表日時:2026年11月27日 20時\r\n\n\r\n落石岬南南東、\r\r\n射撃中止。\r\r\n(4644削除)",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264723&LANG=JP"
     },
     {
       "id": "JAPANNW-264721",
@@ -2696,46 +2654,6 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264604&LANG=JP"
     },
     {
-      "id": "JAPANNW-264602",
-      "type": "JAPANNW",
-      "typeLabel": "日本航行警報",
-      "category": "訓練試験",
-      "number": "4602",
-      "title": "巨済島南東（Ｄ−９９）、射撃",
-      "publishedAt": "2026-11-20T20:00:00+09:00",
-      "geometry": {
-        "type": "polygon",
-        "coordinates": [
-          [
-            128.72416666666666,
-            34.68444444444444
-          ],
-          [
-            128.84194444444447,
-            34.76833333333333
-          ],
-          [
-            128.89388888888888,
-            34.778888888888886
-          ],
-          [
-            129.05583333333334,
-            34.56305555555555
-          ],
-          [
-            128.71972222222223,
-            34.15361111111111
-          ],
-          [
-            128.58722222222224,
-            34.336666666666666
-          ]
-        ]
-      },
-      "rawText": "番号:26-4602   発表日時:2026年11月20日 20時\r\n\n\r\n朝鮮半島南岸、巨済島南東、\r\r\n射撃、11月22日-24日毎日2300Z-翌日0900Z、\r\r\n25日2300Z-翌日1100Z、26日2300Z-翌日0900Z、\r\r\n28日0500Z-0700Z、34-41-04N 128-43-27E\r\r\n34-46-06N 128-50-31E 34-46-44N 128-53-38E\r\r\n34-33-47N 129-03-21E 34-09-13N 128-43-11E\r\r\n34-20-12N 128-35-14Eで囲まれる海面。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=264602&LANG=JP"
-    },
-    {
       "id": "JAPANNW-264594",
       "type": "JAPANNW",
       "typeLabel": "日本航行警報",
@@ -4042,6 +3960,48 @@
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=JAPANNW&TANA=260181&LANG=JP"
     },
     {
+      "id": "NAVTEX-262299",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2299",
+      "title": "浜田港北西、射撃",
+      "publishedAt": "2026-11-28T13:00:00+09:00",
+      "geometry": {
+        "type": "point",
+        "coordinates": [
+          131.91666666666666,
+          35
+        ]
+      },
+      "rawText": "番号:26-2299    発表日時:2026年11月28日 13時\r\n\n\r\n浜田港北西、\r\r\n射撃、12月3日(予備4日)0700-2400、\r\r\n35-00N 131-55Eを中心とする半径3海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262299&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262298",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "訓練試験",
+      "number": "2298",
+      "title": "佐渡島北東、射撃",
+      "publishedAt": "2026-11-28T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2298    発表日時:2026年11月28日 13時\r\n\n\r\n佐渡島北東、\r\r\n射撃、12月3日0900-2400、38-22.0N\r\r\n138-52.2Eを中心とする半径5海里の円内。",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262298&LANG=JP"
+    },
+    {
+      "id": "NAVTEX-262297",
+      "type": "NAVTEX",
+      "typeLabel": "NAVTEX",
+      "category": "漂流物等",
+      "number": "2297",
+      "title": "津軽海峡、漂流機関故障貨物船撤去",
+      "publishedAt": "2026-11-28T13:00:00+09:00",
+      "geometry": null,
+      "rawText": "番号:26-2297    発表日時:2026年11月28日 13時\r\n\n\r\n津軽海峡、\r\r\n漂流機関故障貨物船撤去。\r\r\n(2295削除)",
+      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262297&LANG=JP"
+    },
+    {
       "id": "NAVTEX-262296",
       "type": "NAVTEX",
       "typeLabel": "NAVTEX",
@@ -4052,18 +4012,6 @@
       "geometry": null,
       "rawText": "番号:26-2296    発表日時:2026年11月28日 09時\r\n\n\r\n苫小牧港、\r\r\n出域勧告解除。\r\r\n(2294削除)",
       "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262296&LANG=JP"
-    },
-    {
-      "id": "NAVTEX-262295",
-      "type": "NAVTEX",
-      "typeLabel": "NAVTEX",
-      "category": "漂流物等",
-      "number": "2295",
-      "title": "津軽海峡、機関故障貨物船漂流",
-      "publishedAt": "2026-11-28T04:00:00+09:00",
-      "geometry": null,
-      "rawText": "番号:26-2295    発表日時:2026年11月28日 04時\r\n\n\r\n津軽海峡、\r\r\n機関故障貨物船(長さ約75メートル)漂流、\r\r\n11月28日0320、41-36.9N 141-05.6E。",
-      "sourceUrl": "https://www1.kaiho.mlit.go.jp/TUHO/keiho/cgi/disp_warnings.cgi?TYPE=NAVTEX&TANA=262295&LANG=JP"
     },
     {
       "id": "NAVTEX-262293",
