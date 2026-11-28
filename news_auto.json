@@ -138,30 +138,6 @@
     "eventKey": "bangladesh_sheikh_hasina_return_2026-12"
   },
   {
-    "id": "auto-78049",
-    "headline": {
-      "ja": "入植者、サルフィット付近でパレスチナ車両を攻撃し道路を封鎖",
-      "en": "入植者, サルフィット付近でパレスチナ車両を攻撃し道路を封鎖"
-    },
-    "summary": {
-      "ja": "入植者がサルフィット付近でパレスチナ車両を攻撃し、道路を封鎖した。",
-      "en": "入植者がサルフィット付近でパレスチナ車両を攻撃し、道路を封鎖した。"
-    },
-    "category": "conflict",
-    "country": "パレスチナ",
-    "lat": 31.7834,
-    "lon": 35.2339,
-    "occurredAt": "2026-11-27T00:00:00+00:00",
-    "source": {
-      "name": "自動収集",
-      "url": ""
-    },
-    "reliability": "high",
-    "auto": true,
-    "eventKey": "palestine_colonist_attack_salfit",
-    "severity": 4
-  },
-  {
     "id": "auto-77143",
     "headline": {
       "ja": "クウェートの施設でイタリア人技術者2人が無人機攻撃で死亡",
